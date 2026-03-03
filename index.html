@@ -4,11 +4,9 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>每日看板</title>
-
   <style>
-    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,"PingFang SC","Microsoft YaHei";margin:24px;line-height:1.6}
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,"PingFang SC","Microsoft YaHei";margin:24px;line-height:1.5}
     h1{margin:0 0 12px}
-    h2{margin:20px 0 10px}
     .hint{color:#666;margin:0 0 18px}
     .card{border:1px solid #ddd;border-radius:12px;padding:14px;margin:10px 0}
     .row{display:flex;gap:10px;flex-wrap:wrap;margin-top:10px}
@@ -23,41 +21,27 @@
     .risk-orange { background: #ffe9e0; }
     .risk-red { background: #ffe5e5; }
 
-    .today-box{
-      border:1px solid #eee;
-      border-radius:14px;
-      padding:16px;
-      background:#fafafa;
-      margin-bottom:24px;
-    }
-
-    details{margin:12px 0}
-    summary{cursor:pointer;font-weight:700}
+    /* 最近7天趋势条 */
+    .trend-wrap{border:1px solid #ddd;border-radius:14px;padding:14px;margin:14px 0}
+    .trend-title{font-weight:800;margin:0 0 10px}
+    .trend-row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+    .dot{width:14px;height:14px;border-radius:50%;display:inline-block;border:1px solid rgba(0,0,0,.15)}
+    .dot.green{background:#42b883}
+    .dot.yellow{background:#f2c94c}
+    .dot.orange{background:#f2994a}
+    .dot.red{background:#eb5757}
+    .trend-item{display:inline-flex;align-items:center;gap:8px;padding:6px 10px;border-radius:999px;background:#f7f7f7;text-decoration:none;color:#111}
+    .trend-item:hover{background:#efefef}
+    .trend-date{font-variant-numeric:tabular-nums;color:#333}
+    .trend-emoji{margin-left:2px}
   </style>
-
-  <!-- Markdown 渲染 -->
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
-
 <body>
   <h1>每日看板</h1>
-  <p class="hint">包含：每日扩展阅读 + 结构监控（自动更新）</p>
+  <p class="hint">包含：每日扩展阅读 + 结构监控（按日期归档）</p>
 
-  <!-- 今日内容 -->
-  <div class="today-box">
-    <h2>📌 今日内容</h2>
-    <div id="today-meta" style="color:#666;margin-bottom:10px;"></div>
-
-    <details open>
-      <summary>结构监控（今日）</summary>
-      <div id="today-structure"></div>
-    </details>
-
-    <details>
-      <summary>每日扩展阅读（今日）</summary>
-      <div id="today-extended"></div>
-    </details>
-  </div>
+  <!-- 最近7天趋势条 -->
+  <div id="trend"></div>
 
   <!-- 历史列表 -->
   <div id="list"></div>
@@ -72,49 +56,66 @@
       return '';
     }
 
-    async function loadMd(path){
-      const res = await fetch(path, { cache: "no-store" });
-      if(!res.ok) return `找不到文件：${path}`;
-      const md = await res.text();
-      return marked.parse(md);
+    function getRiskEmoji(title){
+      if(!title) return '';
+      for (const r of ['🟢','🟡','🟠','🔴']) {
+        if (title.includes(r)) return r;
+      }
+      return '';
+    }
+
+    function getDotClass(emoji){
+      if(emoji==='🟢') return 'green';
+      if(emoji==='🟡') return 'yellow';
+      if(emoji==='🟠') return 'orange';
+      if(emoji==='🔴') return 'red';
+      return 'yellow';
     }
 
     async function main(){
       const root = document.getElementById('list');
-      const meta = document.getElementById('today-meta');
-      const sEl  = document.getElementById('today-structure');
-      const eEl  = document.getElementById('today-extended');
+      const trendRoot = document.getElementById('trend');
 
       try{
         const res = await fetch('./manifest.json', { cache: "no-store" });
         if(!res.ok) throw new Error('manifest.json 读取失败：' + res.status);
-
         const data = await res.json();
-        const days = data.days || [];
+        const days = (data.days || []).slice().reverse(); // 最新 -> 更早
 
         if (!days.length){
-          root.innerHTML = '<p>暂无数据。</p>';
+          root.innerHTML = '<p>manifest.json 里没有 days 数据。</p>';
           return;
         }
 
-        // 🔥 自动找最新日期
-        const latest = days.map(d => d.date).sort().slice(-1)[0];
+        // 1) 最近7天趋势条（点一下直达当天 structure）
+        const last7 = days.slice(0, 7);
+        trendRoot.innerHTML = `
+          <div class="trend-wrap">
+            <div class="trend-title">📈 最近 7 天风险趋势（点一下跳到当天结构监控）</div>
+            <div class="trend-row">
+              ${last7.map(d => {
+                const emoji = getRiskEmoji(d.title || '');
+                const dot = getDotClass(emoji);
+                const st = `viewer.html?date=${encodeURIComponent(d.date)}&doc=structure`;
+                const safeTitle = (d.title || '').replace(/"/g,'&quot;');
+                return `
+                  <a class="trend-item" href="${st}" title="${safeTitle}">
+                    <span class="dot ${dot}"></span>
+                    <span class="trend-date">${d.date}</span>
+                    <span class="trend-emoji">${emoji || ''}</span>
+                  </a>
+                `;
+              }).join('')}
+            </div>
+          </div>
+        `;
 
-        meta.textContent = `日期：${latest}`;
-
-        // 渲染今日内容
-        sEl.innerHTML = await loadMd(`./daily/${latest}/structure.md`);
-        eEl.innerHTML = await loadMd(`./daily/${latest}/extended.md`);
-
-        // 历史列表（倒序）
-        const reversed = [...days].sort((a,b)=> b.date.localeCompare(a.date));
-
-        root.innerHTML = reversed.map(d => {
+        // 2) 历史卡片列表
+        root.innerHTML = days.map(d => {
           const date = d.date;
           const title = d.title || '';
           const ext = `viewer.html?date=${encodeURIComponent(date)}&doc=extended`;
           const st  = `viewer.html?date=${encodeURIComponent(date)}&doc=structure`;
-
           return `
             <div class="card ${getRiskClass(title)}">
               <div><span class="date">${date}</span> <span class="title">${title}</span></div>
@@ -127,10 +128,10 @@
         }).join('');
 
       }catch(e){
-        root.innerHTML = `<p>加载失败：${e.message}</p>`;
+        root.innerHTML = `<p>加载失败：${e.message}</p>
+                          <p>请检查 manifest.json 是否为有效 JSON。</p>`;
       }
     }
-
     main();
   </script>
 </body>
