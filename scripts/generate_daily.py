@@ -182,14 +182,20 @@ def score_risk(m: dict) -> dict:
     # credit ratio (HYG/LQD)
     cr_3d = (m.get("credit_ratio_hyg_lqd", {}) or {}).get("chg_3d_pct")
 
-    def missing(name, val):
+    def missing(val):
         return val is None
 
-    if missing("VIX_last", vix_last):
+    if missing(vix_last):
         reasons.append("缺数据：VIX last（抓取失败/源缺失）")
-
-    if missing("cr_3d", cr_3d):
+    if missing(cr_3d):
         reasons.append("缺数据：credit_ratio_hyg_lqd chg_3d_pct")
+    if missing(qqq_3d):
+        reasons.append("缺数据：QQQ chg_3d_pct")
+    if missing(gld_3d):
+        reasons.append("缺数据：GLD chg_3d_pct")
+    if missing(spy_3d):
+        reasons.append("缺数据：SPY chg_3d_pct")
+
 # 信用+波动同步恶化
 if cr_3d is not None and vix_3d is not None:
     if cr_3d < 0 and vix_3d > 0:
