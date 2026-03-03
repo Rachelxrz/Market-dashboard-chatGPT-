@@ -4,9 +4,11 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>每日看板</title>
+
   <style>
-    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,"PingFang SC","Microsoft YaHei";margin:24px;line-height:1.5}
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,"PingFang SC","Microsoft YaHei";margin:24px;line-height:1.6}
     h1{margin:0 0 12px}
+    h2{margin:20px 0 10px}
     .hint{color:#666;margin:0 0 18px}
     .card{border:1px solid #ddd;border-radius:12px;padding:14px;margin:10px 0}
     .row{display:flex;gap:10px;flex-wrap:wrap;margin-top:10px}
@@ -20,12 +22,44 @@
     .risk-yellow { background: #fff8e1; }
     .risk-orange { background: #ffe9e0; }
     .risk-red { background: #ffe5e5; }
+
+    .today-box{
+      border:1px solid #eee;
+      border-radius:14px;
+      padding:16px;
+      background:#fafafa;
+      margin-bottom:24px;
+    }
+
+    details{margin:12px 0}
+    summary{cursor:pointer;font-weight:700}
   </style>
+
+  <!-- Markdown 渲染 -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
+
 <body>
   <h1>每日看板</h1>
-  <p class="hint">包含：每日扩展阅读 + 结构监控（按日期归档）</p>
+  <p class="hint">包含：每日扩展阅读 + 结构监控（自动更新）</p>
 
+  <!-- 今日内容 -->
+  <div class="today-box">
+    <h2>📌 今日内容</h2>
+    <div id="today-meta" style="color:#666;margin-bottom:10px;"></div>
+
+    <details open>
+      <summary>结构监控（今日）</summary>
+      <div id="today-structure"></div>
+    </details>
+
+    <details>
+      <summary>每日扩展阅读（今日）</summary>
+      <div id="today-extended"></div>
+    </details>
+  </div>
+
+  <!-- 历史列表 -->
   <div id="list"></div>
 
   <script>
@@ -38,24 +72,49 @@
       return '';
     }
 
+    async function loadMd(path){
+      const res = await fetch(path, { cache: "no-store" });
+      if(!res.ok) return `找不到文件：${path}`;
+      const md = await res.text();
+      return marked.parse(md);
+    }
+
     async function main(){
       const root = document.getElementById('list');
+      const meta = document.getElementById('today-meta');
+      const sEl  = document.getElementById('today-structure');
+      const eEl  = document.getElementById('today-extended');
+
       try{
         const res = await fetch('./manifest.json', { cache: "no-store" });
         if(!res.ok) throw new Error('manifest.json 读取失败：' + res.status);
+
         const data = await res.json();
-        const days = (data.days || []).slice().reverse();
+        const days = data.days || [];
 
         if (!days.length){
-          root.innerHTML = '<p>manifest.json 里没有 days 数据。</p>';
+          root.innerHTML = '<p>暂无数据。</p>';
           return;
         }
 
-        root.innerHTML = days.map(d => {
+        // 🔥 自动找最新日期
+        const latest = days.map(d => d.date).sort().slice(-1)[0];
+
+        meta.textContent = `日期：${latest}`;
+
+        // 渲染今日内容
+        sEl.innerHTML = await loadMd(`./daily/${latest}/structure.md`);
+        eEl.innerHTML = await loadMd(`./daily/${latest}/extended.md`);
+
+        // 历史列表（倒序）
+        const reversed = [...days].sort((a,b)=> b.date.localeCompare(a.date));
+
+        root.innerHTML = reversed.map(d => {
           const date = d.date;
           const title = d.title || '';
           const ext = `viewer.html?date=${encodeURIComponent(date)}&doc=extended`;
           const st  = `viewer.html?date=${encodeURIComponent(date)}&doc=structure`;
+
           return `
             <div class="card ${getRiskClass(title)}">
               <div><span class="date">${date}</span> <span class="title">${title}</span></div>
@@ -66,11 +125,12 @@
             </div>
           `;
         }).join('');
+
       }catch(e){
-        root.innerHTML = `<p>加载失败：${e.message}</p>
-                          <p>请检查 manifest.json 是否为有效 JSON。</p>`;
+        root.innerHTML = `<p>加载失败：${e.message}</p>`;
       }
     }
+
     main();
   </script>
 </body>
