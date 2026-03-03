@@ -4,6 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Viewer</title>
+
   <style>
     body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,"PingFang SC","Microsoft YaHei";margin:24px;line-height:1.65}
     a{color:#0b57d0}
@@ -14,9 +15,11 @@
     code{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}
     blockquote{border-left:4px solid #ddd;margin:0;padding:0 0 0 12px;color:#444}
   </style>
-  <!-- 用 CDN 的 marked.js 在浏览器里把 md 转成 html -->
+
+  <!-- Markdown 渲染库 -->
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
+
 <body>
   <div class="top">
     <a href="./index.html">← 返回看板</a>
@@ -33,27 +36,28 @@
 
     async function main(){
       const date = getParam('date');
-      const doc  = getParam('doc'); // extended / structure
+      const doc  = getParam('doc');
 
       const label = doc === 'structure' ? '结构监控' : '每日扩展阅读';
-      document.getElementById('meta').textContent = `${date || '未知日期'} · ${label}`;
-
-      if (!date || !doc){
-        document.getElementById('content').textContent = '缺少参数：date 或 doc';
-        return;
-      }
+      document.getElementById('meta').textContent = `${date} · ${label}`;
 
       const path = `./daily/${date}/${doc}.md`;
-      const res = await fetch(path, { cache: "no-store" });
 
-      if (!res.ok){
+      try{
+        const res = await fetch(path);
+        if(!res.ok){
+          throw new Error("文件读取失败: " + path);
+        }
+
+        const md = await res.text();
+
+        // ⭐ 核心渲染
+        document.getElementById('content').innerHTML = marked.parse(md);
+
+      }catch(e){
         document.getElementById('content').innerHTML =
-          `找不到文件：<code>${path}</code><br/>请确认目录与文件名是否正确。`;
-        return;
+          `<p style="color:red;">加载失败：</p><pre>${e.message}</pre>`;
       }
-
-      const md = await res.text();
-      document.getElementById('content').innerHTML = marked.parse(md);
     }
 
     main();
