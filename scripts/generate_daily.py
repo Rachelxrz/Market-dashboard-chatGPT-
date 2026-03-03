@@ -30,15 +30,14 @@ def ensure_manifest(date: str, title: str):
     MANIFEST.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
 
 def gen_text(system_prompt: str, user_prompt: str) -> str:
-    # 用 Responses API / SDK 生成内容（SDK 会随官方更新）
     resp = client.responses.create(
-        model="gpt-5",  # 你也可以换成你账号可用的其它模型
+        model="gpt-5",
+        max_output_tokens=3500,   # 控制成本
         input=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt},
         ],
     )
-    # SDK 会给出聚合后的文本
     return resp.output_text
 
 def main():
