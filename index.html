@@ -41,7 +41,20 @@
         const st  = `viewer.html?date=${encodeURIComponent(date)}&doc=structure`;
         return `
           <div class="card ${getRiskClass(d.title)}">
-            <div><span class="date">${date}</span> <span class="title">${title}</span></div>
+          function getRiskClass(title){
+  if(!title) return '';
+  if(title.includes('🟢')) return 'risk-green';
+  if(title.includes('🟡')) return 'risk-yellow';
+  if(title.includes('🟠')) return 'risk-orange';
+  if(title.includes('🔴')) return 'risk-red';
+  return '';
+}
+
+            .risk-green { background: #e8f7ec; }
+.risk-yellow { background: #fff8e1; }
+.risk-orange { background: #ffe9e0; }
+.risk-red { background: #ffe5e5; }
+<div><span class="date">${date}</span> <span class="title">${title}</span></div>
             <div class="row">
               <a class="btn" href="${ext}">查看：每日扩展阅读</a>
               <a class="btn" href="${st}">查看：结构监控</a>
