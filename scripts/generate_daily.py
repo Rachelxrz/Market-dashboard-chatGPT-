@@ -147,11 +147,26 @@ def score_risk(m: dict) -> dict:
     score = 0
     reasons = []
 
-    vix = m["series"]["VIX"]
-    vix_last = vix.get("last")
-    vix_1d = vix.get("chg_1d_pct")
-    vix_3d = vix.get("chg_3d_pct")
+vix = m["series"]["VIX"]
+vix_last = vix.get("last")
+vix_1d = vix.get("chg_1d_pct")
+vix_3d = vix.get("chg_3d_pct")
 
+cr_3d = m.get("credit_ratio_hyg_lqd", {}).get("chg_3d_pct")
+spy_3d = m["series"]["SPY"].get("chg_3d_pct")
+
+# 信用+波动同步恶化
+if cr_3d is not None and vix_3d is not None:
+    if cr_3d < 0 and vix_3d > 0:
+        score += 1
+        reasons.append("信用+波动同步恶化 (risk-off强化)")
+
+# 风险钝化检测
+if vix_3d is not None and spy_3d is not None:
+    if vix_3d > 0 and spy_3d > 0:
+        score -= 1
+        reasons.append("VIX上升但指数企稳 (可能钝化)")
+   
     # VIX 水平
     if vix_last is not None:
         if vix_last >= 30:
