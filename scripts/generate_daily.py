@@ -2,11 +2,11 @@ import os, json
 from datetime import datetime, timezone
 from pathlib import Path
 
-from openai import OpenAI
-
-# V2: real market data
+import numpy as np
 import pandas as pd
 import yfinance as yf
+
+from openai import OpenAI
 
 client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
@@ -14,294 +14,235 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 DAILY_DIR = REPO_ROOT / "daily"
 MANIFEST = REPO_ROOT / "manifest.json"
 
-# ---------- date helpers ----------
-def today_ymd_utc() -> str:
+# ====== 你关心的核心监控标的（Yahoo Finance 可直接取） ======
+# VIX: ^VIX
+# 10Y: ^TNX (注意：TNX 是“收益率*10”，比如 43.2 = 4.32%)
+# DXY: 用 UUP 作为美元强弱代理（更稳定，且 yfinance 可取）
+TICKERS = {
+    "VIX": "^VIX",
+    "SPY": "SPY",
+    "QQQ": "QQQ",
+    "GLD": "GLD",
+    "HYG": "HYG",
+    "LQD": "LQD",
+    "UUP": "UUP",     # DXY proxy
+    "TNX": "^TNX",    # 10Y yield * 10
+}
+
+RISK_EMOJI = {0: "🟢", 1: "🟡", 2: "🟠", 3: "🔴"}
+
+def today_ymd_utc():
     return datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
 def ensure_manifest(date: str, title: str):
     if MANIFEST.exists():
-        raw = MANIFEST.read_text(encoding="utf-8").strip()
-        data = json.loads(raw or "{}")
+        data = json.loads(MANIFEST.read_text(encoding="utf-8") or "{}")
     else:
         data = {}
 
     days = data.get("days", [])
-    # update existing date title (avoid duplicates)
-    found = False
-    for d in days:
-        if d.get("date") == date:
-            d["title"] = title
-            found = True
-            break
-    if not found:
+    if not any(d.get("date") == date for d in days):
         days.append({"date": date, "title": title})
-
     data["days"] = days
     MANIFEST.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
 
-# ---------- OpenAI helper ----------
-def gen_text(model: str, system_prompt: str, user_prompt: str, max_tokens: int) -> str:
-    resp = client.responses.create(
-        model=model,
-        max_output_tokens=max_tokens,
-        input=[
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_prompt},
-        ],
-    )
-    return resp.output_text or ""
-
-# ---------- market data fetch ----------
-TICKERS = {
-    # risk / macro
-    "VIX": "^VIX",
-    "DXY": "DX-Y.NYB",   # Yahoo DXY index symbol
-    "TNX": "^TNX",       # 10Y yield * 10 (e.g., 4.25% => 42.5)
-    # credit proxies
-    "HYG": "HYG",
-    "LQD": "LQD",
-    # equities / defensives
-    "SPY": "SPY",
-    "QQQ": "QQQ",
-    # real assets
-    "GLD": "GLD",
-    "SLV": "SLV",
-    # rates proxies
-    "IEF": "IEF",
-    "TLT": "TLT",
-}
-
-def _safe_last_close(hist: pd.DataFrame):
-    if hist is None or hist.empty or "Close" not in hist.columns:
+def safe_pct(x):
+    if x is None or (isinstance(x, float) and np.isnan(x)):
         return None
-    s = hist["Close"].dropna()
-    if s.empty:
-        return None
-    return float(s.iloc[-1])
+    return float(x)
 
-def _safe_prev_close(hist: pd.DataFrame):
-    if hist is None or hist.empty or "Close" not in hist.columns:
-        return None
-    s = hist["Close"].dropna()
-    if len(s) < 2:
-        return None
-    return float(s.iloc[-2])
-
-def _pct_change(last, prev):
-    if last is None or prev is None or prev == 0:
-        return None
-    return (last / prev - 1.0) * 100.0
-
-def fetch_market_snapshot(period_days: int = 10) -> dict:
+def fetch_close_prices(symbols: list[str], period="45d") -> pd.DataFrame:
     """
-    Pull last ~period_days trading data for tickers from Yahoo via yfinance.
-    Returns snapshot dict with last/prev closes and 1d % changes.
+    下载 Close 价格；返回 df: index=Date, columns=symbol
     """
-    symbols = list(TICKERS.values())
-    # Use group download for speed & fewer failures
-    df = yf.download(
+    data = yf.download(
         tickers=" ".join(symbols),
-        period=f"{period_days}d",
+        period=period,
         interval="1d",
+        group_by="column",
         auto_adjust=False,
-        progress=False,
-        group_by="ticker",
         threads=True,
+        progress=False,
     )
 
-    snapshot = {}
-    for name, sym in TICKERS.items():
-        try:
-            # yfinance returns multi-index columns if multiple tickers
-            if isinstance(df.columns, pd.MultiIndex):
-                hist = df[sym].copy()
-            else:
-                # single ticker case
-                hist = df.copy()
+    # yfinance 返回结构可能是：
+    # - 多 ticker：列是 MultiIndex (PriceField, Ticker)
+    # - 单 ticker：列是 PriceField
+    if isinstance(data.columns, pd.MultiIndex):
+        close = data["Close"].copy()
+    else:
+        close = data[["Close"]].copy()
+        close.columns = [symbols[0]]
 
-            last = _safe_last_close(hist)
-            prev = _safe_prev_close(hist)
-            chg1d = _pct_change(last, prev)
+    close = close.dropna(how="all")
+    return close
 
-            snapshot[name] = {
-                "symbol": sym,
-                "last": last,
-                "prev": prev,
-                "chg1d_pct": chg1d,
-            }
-        except Exception as e:
-            snapshot[name] = {"symbol": sym, "last": None, "prev": None, "chg1d_pct": None, "error": str(e)}
+def calc_trend_metrics(close: pd.DataFrame, name_map: dict[str, str]) -> dict:
+    """
+    用 close（列为 yfinance symbol）计算：
+    - last
+    - 1d/3d/5d/10d 变化%
+    - 3/5/10 日均线（对“价格/指数”类）
+    - 信用比值 HYG/LQD 与其 3/5/10 日变化%
+    """
+    def last_valid(s: pd.Series):
+        s2 = s.dropna()
+        return None if s2.empty else float(s2.iloc[-1])
 
-    # Derived metrics
-    hyg = snapshot["HYG"]["last"]
-    lqd = snapshot["LQD"]["last"]
-    hyg_prev = snapshot["HYG"]["prev"]
-    lqd_prev = snapshot["LQD"]["prev"]
-
-    def safe_ratio(a, b):
-        if a is None or b is None or b == 0:
+    def pct_change_n(s: pd.Series, n: int):
+        s2 = s.dropna()
+        if len(s2) <= n:
             return None
-        return a / b
+        return float((s2.iloc[-1] / s2.iloc[-1 - n] - 1.0) * 100)
 
-    ratio = safe_ratio(hyg, lqd)
-    ratio_prev = safe_ratio(hyg_prev, lqd_prev)
-    ratio_chg = None
-    if ratio is not None and ratio_prev is not None and ratio_prev != 0:
-        ratio_chg = (ratio / ratio_prev - 1.0) * 100.0
+    out = {"asof_utc_date": today_ymd_utc(), "series": {}}
 
-    snapshot["HYG_LQD"] = {
-        "name": "HYG/LQD",
-        "last": ratio,
-        "prev": ratio_prev,
-        "chg1d_pct": ratio_chg,
-    }
-
-    return snapshot
-
-# ---------- risk model ----------
-def compute_risk(snapshot: dict) -> dict:
-    """
-    Simple scoring model (transparent & adjustable).
-    Outputs: emoji, label, score, triggers list.
-    """
-    triggers = []
-    score = 0
-
-    vix = snapshot.get("VIX", {}).get("last")
-    vix_chg = snapshot.get("VIX", {}).get("chg1d_pct")
-
-    dxy_chg = snapshot.get("DXY", {}).get("chg1d_pct")
-    tnx = snapshot.get("TNX", {}).get("last")       # e.g., 43.0 means 4.30%
-    tnx_chg = snapshot.get("TNX", {}).get("chg1d_pct")
-
-    hyg_lqd_chg = snapshot.get("HYG_LQD", {}).get("chg1d_pct")
-    hyg_chg = snapshot.get("HYG", {}).get("chg1d_pct")
-    lqd_chg = snapshot.get("LQD", {}).get("chg1d_pct")
-
-    spy_chg = snapshot.get("SPY", {}).get("chg1d_pct")
-    qqq_chg = snapshot.get("QQQ", {}).get("chg1d_pct")
-
-    # 1) Volatility
-    if vix is not None:
-        if vix >= 30:
-            score += 4; triggers.append(f"VIX高位({vix:.1f}>=30)")
-        elif vix >= 25:
-            score += 3; triggers.append(f"VIX偏高({vix:.1f}>=25)")
-        elif vix >= 20:
-            score += 2; triggers.append(f"VIX抬升({vix:.1f}>=20)")
-        elif vix >= 16:
-            score += 1; triggers.append(f"VIX温和({vix:.1f}>=16)")
-
-    if vix_chg is not None and vix_chg >= 8:
-        score += 1; triggers.append(f"VIX单日跳升(+{vix_chg:.1f}%)")
-
-    # 2) Credit proxy (risk-on/off)
-    # If HYG underperforms LQD or HYG/LQD ratio down => spreads widening / risk-off
-    if hyg_lqd_chg is not None and hyg_lqd_chg <= -0.30:
-        score += 2; triggers.append(f"信用风险抬头(HYG/LQD {hyg_lqd_chg:.2f}%)")
-    elif hyg_lqd_chg is not None and hyg_lqd_chg <= -0.15:
-        score += 1; triggers.append(f"信用偏弱(HYG/LQD {hyg_lqd_chg:.2f}%)")
-
-    if hyg_chg is not None and lqd_chg is not None:
-        if hyg_chg < lqd_chg - 0.20:
-            score += 1; triggers.append(f"HYG跑输LQD({hyg_chg:.2f}% vs {lqd_chg:.2f}%)")
-
-    # 3) Dollar + Rates tightening combo
-    if dxy_chg is not None and tnx_chg is not None:
-        if dxy_chg > 0.25 and tnx_chg > 0.8:
-            score += 2; triggers.append(f"美元+利率共振偏紧(DXY {dxy_chg:.2f}% / TNX {tnx_chg:.2f}%)")
-        elif dxy_chg > 0.25 or tnx_chg > 0.8:
-            score += 1; triggers.append(f"金融条件偏紧(DXY {dxy_chg:.2f}% / TNX {tnx_chg:.2f}%)")
-
-    # 4) Equity stress
-    # If SPY/QQQ large down day => raise risk
-    for name, chg in [("SPY", spy_chg), ("QQQ", qqq_chg)]:
-        if chg is None:
+    # 单标的指标
+    for k, sym in name_map.items():
+        if sym not in close.columns:
+            out["series"][k] = {"symbol": sym, "error": "no_data"}
             continue
-        if chg <= -2.0:
-            score += 2; triggers.append(f"{name}大跌({chg:.2f}%)")
-        elif chg <= -1.0:
-            score += 1; triggers.append(f"{name}回撤({chg:.2f}%)")
 
-    # Map to emoji
-    # 0-2 green, 3-5 yellow, 6-8 orange, 9+ red
-    if score >= 9:
-        emoji, label = "🔴", "高风险/防守优先"
-    elif score >= 6:
-        emoji, label = "🟠", "中高风险/谨慎偏防守"
-    elif score >= 3:
-        emoji, label = "🟡", "中性偏谨慎"
+        s = close[sym]
+        out["series"][k] = {
+            "symbol": sym,
+            "last": last_valid(s),
+            "chg_1d_pct": pct_change_n(s, 1),
+            "chg_3d_pct": pct_change_n(s, 3),
+            "chg_5d_pct": pct_change_n(s, 5),
+            "chg_10d_pct": pct_change_n(s, 10),
+            "sma_3": float(s.dropna().rolling(3).mean().iloc[-1]) if len(s.dropna()) >= 3 else None,
+            "sma_5": float(s.dropna().rolling(5).mean().iloc[-1]) if len(s.dropna()) >= 5 else None,
+            "sma_10": float(s.dropna().rolling(10).mean().iloc[-1]) if len(s.dropna()) >= 10 else None,
+        }
+
+    # 信用：HYG/LQD
+    hyg = close.get(name_map["HYG"])
+    lqd = close.get(name_map["LQD"])
+    if hyg is not None and lqd is not None:
+        ratio = (hyg / lqd).dropna()
+        out["credit_ratio_hyg_lqd"] = {
+            "last": last_valid(ratio),
+            "chg_1d_pct": pct_change_n(ratio, 1),
+            "chg_3d_pct": pct_change_n(ratio, 3),
+            "chg_5d_pct": pct_change_n(ratio, 5),
+            "chg_10d_pct": pct_change_n(ratio, 10),
+        }
     else:
-        emoji, label = "🟢", "风险可控/偏进攻"
+        out["credit_ratio_hyg_lqd"] = {"error": "no_data"}
 
-    # Additional readable numbers
-    tnx_pct = (tnx / 10.0) if tnx is not None else None
+    # 10Y：^TNX 是 *10
+    tnx_last = out["series"].get("TNX", {}).get("last")
+    if tnx_last is not None:
+        out["us10y_yield_pct_est"] = float(tnx_last / 10.0)
 
-    return {
-        "emoji": emoji,
-        "label": label,
-        "score": score,
-        "triggers": triggers,
-        "tnx_pct": tnx_pct,
-    }
+    return out
 
-def fmt(x, digits=2):
-    if x is None:
-        return "NA"
-    return f"{x:.{digits}f}"
-
-def build_structure_prompt(date: str, snapshot: dict, risk: dict) -> str:
+def score_risk(m: dict) -> dict:
     """
-    Provide the model with REAL numbers + our computed triggers.
-    Tell it to output numbers explicitly (no '需核对').
+    连续趋势评分（0-12）→ 风险颜色
+    只用你现在已经能稳定抓到的数据：
+      VIX, HYG/LQD, SPY, QQQ, GLD, UUP(美元代理), 10Y(TNX)
     """
-    tnx_pct = risk.get("tnx_pct")
+    score = 0
+    reasons = []
 
-    lines = []
-    lines.append(f"今天日期是 {date}（UTC）。你必须严格使用这个日期。")
-    lines.append(f"输出必须以第一行标题开头：# 结构监控（{date}）")
-    lines.append("")
-    lines.append("以下为已抓取的真实市场数据（请直接引用这些数值，不要写“需核对”）：")
-    lines.append("")
-    lines.append("| 指标 | 最新 | 前一日 | 1D变化 |")
-    lines.append("|---|---:|---:|---:|")
-    lines.append(f"| VIX | {fmt(snapshot['VIX']['last'],1)} | {fmt(snapshot['VIX']['prev'],1)} | {fmt(snapshot['VIX']['chg1d_pct'],2)}% |")
-    lines.append(f"| DXY | {fmt(snapshot['DXY']['last'],2)} | {fmt(snapshot['DXY']['prev'],2)} | {fmt(snapshot['DXY']['chg1d_pct'],2)}% |")
-    lines.append(f"| 10Y(TNX) | {fmt(tnx_pct,2)}% | NA | {fmt(snapshot['TNX']['chg1d_pct'],2)}% |")
-    lines.append(f"| HYG | {fmt(snapshot['HYG']['last'],2)} | {fmt(snapshot['HYG']['prev'],2)} | {fmt(snapshot['HYG']['chg1d_pct'],2)}% |")
-    lines.append(f"| LQD | {fmt(snapshot['LQD']['last'],2)} | {fmt(snapshot['LQD']['prev'],2)} | {fmt(snapshot['LQD']['chg1d_pct'],2)}% |")
-    lines.append(f"| HYG/LQD | {fmt(snapshot['HYG_LQD']['last'],4)} | {fmt(snapshot['HYG_LQD']['prev'],4)} | {fmt(snapshot['HYG_LQD']['chg1d_pct'],2)}% |")
-    lines.append(f"| SPY | {fmt(snapshot['SPY']['last'],2)} | {fmt(snapshot['SPY']['prev'],2)} | {fmt(snapshot['SPY']['chg1d_pct'],2)}% |")
-    lines.append(f"| QQQ | {fmt(snapshot['QQQ']['last'],2)} | {fmt(snapshot['QQQ']['prev'],2)} | {fmt(snapshot['QQQ']['chg1d_pct'],2)}% |")
-    lines.append(f"| GLD | {fmt(snapshot['GLD']['last'],2)} | {fmt(snapshot['GLD']['prev'],2)} | {fmt(snapshot['GLD']['chg1d_pct'],2)}% |")
-    lines.append(f"| IEF | {fmt(snapshot['IEF']['last'],2)} | {fmt(snapshot['IEF']['prev'],2)} | {fmt(snapshot['IEF']['chg1d_pct'],2)}% |")
-    lines.append(f"| TLT | {fmt(snapshot['TLT']['last'],2)} | {fmt(snapshot['TLT']['prev'],2)} | {fmt(snapshot['TLT']['chg1d_pct'],2)}% |")
-    lines.append("")
+    vix = m["series"]["VIX"]
+    vix_last = vix.get("last")
+    vix_1d = vix.get("chg_1d_pct")
+    vix_3d = vix.get("chg_3d_pct")
 
-    lines.append("我们用透明规则计算出的当日风险：")
-    lines.append(f"- 风险等级：{risk['emoji']}（{risk['label']}）")
-    lines.append(f"- 风险评分：{risk['score']}（0-2🟢 / 3-5🟡 / 6-8🟠 / 9+🔴）")
-    if risk["triggers"]:
-        lines.append("- 触发项：")
-        for t in risk["triggers"]:
-            lines.append(f"  - {t}")
+    # VIX 水平
+    if vix_last is not None:
+        if vix_last >= 30:
+            score += 4; reasons.append("VIX≥30（高压力）")
+        elif vix_last >= 25:
+            score += 3; reasons.append("VIX 25-30（压力上升）")
+        elif vix_last >= 20:
+            score += 2; reasons.append("VIX 20-25（波动抬升）")
+        elif vix_last >= 16:
+            score += 1; reasons.append("VIX 16-20（波动偏高）")
+
+    # VIX 变化（连续趋势）
+    if vix_1d is not None and vix_1d >= 8:
+        score += 2; reasons.append("VIX 单日≥+8%（波动冲击）")
+    if vix_3d is not None and vix_3d >= 15:
+        score += 2; reasons.append("VIX 3日≥+15%（趋势性升温）")
+
+    # 信用：HYG/LQD（越跌越危险）
+    cr = m.get("credit_ratio_hyg_lqd", {})
+    cr_3d = cr.get("chg_3d_pct")
+    cr_5d = cr.get("chg_5d_pct")
+    if cr_3d is not None and cr_3d <= -0.6:
+        score += 2; reasons.append("HYG/LQD 3日走弱（信用收紧）")
+    if cr_5d is not None and cr_5d <= -1.0:
+        score += 2; reasons.append("HYG/LQD 5日走弱（信用恶化）")
+
+    # 风险资产回撤
+    qqq_5d = m["series"]["QQQ"].get("chg_5d_pct")
+    spy_5d = m["series"]["SPY"].get("chg_5d_pct")
+    if qqq_5d is not None and qqq_5d <= -3.0:
+        score += 2; reasons.append("QQQ 5日≤-3%（成长承压）")
+    if spy_5d is not None and spy_5d <= -2.0:
+        score += 1; reasons.append("SPY 5日≤-2%（大盘回撤）")
+
+    # 流动性收缩特征：美元走强 + 利率走高 + 风险资产回撤
+    uup_5d = m["series"]["UUP"].get("chg_5d_pct")
+    tnx_5d = m["series"]["TNX"].get("chg_5d_pct")
+    if uup_5d is not None and tnx_5d is not None:
+        if uup_5d >= 0.8 and tnx_5d >= 1.5:
+            score += 2; reasons.append("美元+利率同涨（金融条件收紧）")
+
+    # “假避险/去杠杆”特征：VIX↑ 但 GLD 也大跌（说明被动抛售）
+    gld_1d = m["series"]["GLD"].get("chg_1d_pct")
+    if vix_1d is not None and vix_1d >= 8 and gld_1d is not None and gld_1d <= -1.2:
+        score += 1; reasons.append("VIX冲击且黄金下跌（去杠杆/现金为王）")
+
+    # 风险等级映射
+    # 0-2 🟢 | 3-5 🟡 | 6-8 🟠 | 9+ 🔴
+    if score <= 2:
+        level = "🟢"
+    elif score <= 5:
+        level = "🟡"
+    elif score <= 8:
+        level = "🟠"
     else:
-        lines.append("- 触发项：无明显风险触发")
+        level = "🔴"
 
-    lines.append("")
-    lines.append("请基于以上真实数据生成《结构监控（含策略建议）》：")
-    lines.append("必须包含这些小节，并且每节都要给出明确判断与可执行动作：")
-    lines.append("1) 风险等级（给出一句话理由）")
-    lines.append("2) VIX（解释风险含义）")
-    lines.append("3) 信用利差/信用风险（用 HYG/LQD 作为代理，解释是否“扩大/收敛”）")
-    lines.append("4) 资金流向（无法直接拿到ETF净申购时：用 SPY/QQQ vs IEF/TLT/GLD 的相对强弱 + 风险代理，判断 risk-on/off）")
-    lines.append("5) DXY 与 10Y（解释对成长股/黄金/风险资产的影响）")
-    lines.append("6) 板块轮动（用 QQQ vs GLD / SPY 的相对表现推断：成长/防御/真实资产）")
-    lines.append("7) 风险触发条件（给出清晰阈值，比如 VIX>25、HYG/LQD连续走弱、SPY/QQQ单日> -2% 等）")
-    lines.append("8) 可执行策略建议（不追高；加仓/减仓倾向；对冲/止损/分批原则）")
-    lines.append("")
-    lines.append("输出为 Markdown。不要出现其它年份或日期。")
+    return {"score": int(score), "level": level, "reasons": reasons}
 
+def format_metrics_for_prompt(m: dict, risk: dict) -> str:
+    """
+    给模型的“已计算数据摘要”（非常关键：模型不再胡编）
+    """
+    def line(name, key):
+        s = m["series"][name]
+        last = s.get("last")
+        c1 = s.get("chg_1d_pct")
+        c3 = s.get("chg_3d_pct")
+        c5 = s.get("chg_5d_pct")
+        return f"- {key}: last={last:.2f} | 1d={c1:+.2f}% | 3d={c3:+.2f}% | 5d={c5:+.2f}%"
+
+    tnx_y = m.get("us10y_yield_pct_est")
+    credit_last = m.get("credit_ratio_hyg_lqd", {}).get("last")
+    credit_3d = m.get("credit_ratio_hyg_lqd", {}).get("chg_3d_pct")
+    credit_5d = m.get("credit_ratio_hyg_lqd", {}).get("chg_5d_pct")
+
+    lines = [
+        f"## 风险引擎输出（已计算）",
+        f"- 风险评分: {risk['score']} / 12",
+        f"- 风险等级: {risk['level']}",
+        f"- 触发原因: " + "；".join(risk["reasons"]) if risk["reasons"] else "- 触发原因: 无明显触发",
+        "",
+        "## 关键指标（已抓取）",
+        line("VIX", "VIX"),
+        line("SPY", "SPY"),
+        line("QQQ", "QQQ"),
+        line("GLD", "GLD"),
+        line("UUP", "美元代理(UUP)"),
+        f"- 10Y(来自^TNX): est_yield={tnx_y:.2f}% | 5d={m['series']['TNX'].get('chg_5d_pct', 0):+.2f}%" if tnx_y is not None else "- 10Y: no_data",
+        f"- 信用代理(HYG/LQD): last={credit_last:.4f} | 3d={credit_3d:+.2f}% | 5d={credit_5d:+.2f}%" if credit_last is not None else "- 信用代理(HYG/LQD): no_data",
+    ]
     return "\n".join(lines)
 
 def main():
@@ -309,24 +250,52 @@ def main():
     day_dir = DAILY_DIR / date
     day_dir.mkdir(parents=True, exist_ok=True)
 
-    # 1) Fetch real market data
-    snapshot = fetch_market_snapshot(period_days=15)
-    risk = compute_risk(snapshot)
+    # 1) 抓数据 + 算趋势
+    symbols = list(TICKERS.values())
+    close = fetch_close_prices(symbols, period="60d")
+    metrics = calc_trend_metrics(close, TICKERS)
+    risk = score_risk(metrics)
 
-    # 2) Build prompts using real numbers
-    structure_system = "你是一个严谨的宏观与风险结构监控分析师，用中文输出，结构清晰，避免空话。"
-    structure_user = build_structure_prompt(date=date, snapshot=snapshot, risk=risk)
-
-    # 3) Generate structure.md (shorter token)
-    structure_md = gen_text(
-        model="gpt-4.1",
-        system_prompt=structure_system,
-        user_prompt=structure_user,
-        max_tokens=1400,
+    # 保存机器可读指标
+    (day_dir / "metrics.json").write_text(
+        json.dumps({"date": date, "metrics": metrics, "risk": risk}, ensure_ascii=False, indent=2),
+        encoding="utf-8"
     )
+
+    # 2) 结构监控（用“已计算数据”约束模型，避免胡编）
+    structure_system = "你是一个严谨的宏观与风险结构监控分析师。你必须只基于我提供的【已计算数据】做判断，不能杜撰任何数值。用中文输出 Markdown，结构清晰，直接给可执行建议。"
+
+    metrics_block = format_metrics_for_prompt(metrics, risk)
+
+    structure_user = (
+        f"今天日期是 {date}（UTC）。请生成今日《结构监控（含策略建议）》并严格使用这个日期。\n"
+        f"输出必须以第一行标题开头：# 结构监控（{date}）\n"
+        "你必须包含：\n"
+        "1) 风险等级（🟢🟡🟠🔴之一）+ 风险评分（0-12）\n"
+        "2) VIX（水平+1d/3d/5d趋势）\n"
+        "3) 信用（HYG/LQD 比值与 3d/5d趋势）\n"
+        "4) 资金风险代理（SPY/QQQ/GLD 的 1d/5d趋势，用于判断 risk-on/off 与是否去杠杆）\n"
+        "5) DXY 代理（UUP）与 10Y（TNX换算）趋势\n"
+        "6) 板块轮动（用 SPY vs QQQ vs GLD 的相对强弱给出结论）\n"
+        "7) 风险触发条件（明确数值阈值，比如 VIX>25、HYG/LQD 5d<-1% 等）\n"
+        "8) 可执行策略建议（不追高、加仓/减仓倾向；给出 3 条“如果…就…”规则）\n\n"
+        "【已计算数据】如下（只能用这些数据，不得新增任何数字）：\n"
+        f"{metrics_block}\n\n"
+        "输出为 Markdown，不要出现其它年份或日期。"
+    )
+
+    structure_md = client.responses.create(
+        model="gpt-4.1",
+        max_output_tokens=1400,
+        input=[
+            {"role": "system", "content": structure_system},
+            {"role": "user", "content": structure_user},
+        ],
+    ).output_text
+
     (day_dir / "structure.md").write_text(structure_md, encoding="utf-8")
 
-    # 4) Extended reading (optional: keep as-is; still no real news ingestion)
+    # 3) 每日扩展阅读（保持你现在版本）
     extended_system = (
         "你是一个结构化阅读简报编辑，用中文输出 Markdown。"
         "你必须严格遵循用户的固定模板标准：按板块（投资、健康、心理/哲学、AI/科技、美学）输出。"
@@ -349,16 +318,19 @@ def main():
         "输出 Markdown，标题层级清晰。"
     )
 
-    extended_md = gen_text(
+    extended_md = client.responses.create(
         model="gpt-5",
-        system_prompt=extended_system,
-        user_prompt=extended_user,
-        max_tokens=2600,
-    )
+        max_output_tokens=2600,
+        input=[
+            {"role": "system", "content": extended_system},
+            {"role": "user", "content": extended_user},
+        ],
+    ).output_text
+
     (day_dir / "extended.md").write_text(extended_md, encoding="utf-8")
 
-    # 5) manifest title includes risk emoji
-    ensure_manifest(date, f"Structure {risk['emoji']} | Auto-generated")
+    # 4) manifest：用风险颜色上色
+    ensure_manifest(date, f"Structure {risk['level']} | Auto-generated")
 
 if __name__ == "__main__":
     main()
