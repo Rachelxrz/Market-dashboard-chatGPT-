@@ -1,1 +1,56 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Daily Dashboard</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,"PingFang SC","Microsoft YaHei";margin:24px;line-height:1.5}
+    h1{margin:0 0 12px}
+    .hint{color:#666;margin:0 0 18px}
+    .card{border:1px solid #ddd;border-radius:12px;padding:14px;margin:10px 0}
+    .row{display:flex;gap:10px;flex-wrap:wrap;margin-top:10px}
+    a.btn{display:inline-block;padding:8px 10px;border:1px solid #ccc;border-radius:10px;text-decoration:none}
+    a.btn:hover{border-color:#888}
+    .date{font-weight:700}
+    .title{color:#444}
+  </style>
+</head>
+<body>
+  <h1>每日看板</h1>
+  <p class="hint">包含：每日扩展阅读 + 结构监控（按日期归档）</p>
 
+  <div id="list"></div>
+
+  <script>
+    async function main(){
+      const res = await fetch('./manifest.json', { cache: "no-store" });
+      const data = await res.json();
+      const days = (data.days || []).slice().reverse(); // 最新在最上
+      const root = document.getElementById('list');
+
+      if (!days.length){
+        root.innerHTML = '<p>还没有数据。请先在 manifest.json 添加日期，并在 daily/日期/ 下放入 md 文件。</p>';
+        return;
+      }
+
+      root.innerHTML = days.map(d => {
+        const date = d.date;
+        const title = d.title || '';
+        const ext = `viewer.html?date=${encodeURIComponent(date)}&doc=extended`;
+        const st  = `viewer.html?date=${encodeURIComponent(date)}&doc=structure`;
+        return `
+          <div class="card">
+            <div><span class="date">${date}</span> <span class="title">${title}</span></div>
+            <div class="row">
+              <a class="btn" href="${ext}">查看：每日扩展阅读</a>
+              <a class="btn" href="${st}">查看：结构监控</a>
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+    main();
+  </script>
+</body>
+</html>
