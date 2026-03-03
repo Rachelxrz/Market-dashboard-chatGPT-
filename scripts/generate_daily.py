@@ -144,57 +144,73 @@ def score_risk(m: dict) -> dict:
     只用你现在已经能稳定抓到的数据：
       VIX, HYG/LQD, SPY, QQQ, GLD, UUP(美元代理), 10Y(TNX)
     """
-    score = 0
-    reasons = []
+    import math
 
-    series = m.get("series", {}) or {}
+score = 0
+reasons = []
 
-    vix = series.get("VIX", {}) or {}
-    spy = series.get("SPY", {}) or {}
-    qqq = series.get("QQQ", {}) or {}
-    gld = series.get("GLD", {}) or {}
-    uup = series.get("UUP", {}) or {}      # 美元代理（如果你有）
-    tnx = series.get("TNX", {}) or {}      # 10Y（如果你用 TNX）
+series = (m.get("series") or {})
 
-    # levels
-    vix_last = vix.get("last")
-    spy_last = spy.get("last")
-    qqq_last = qqq.get("last")
-    gld_last = gld.get("last")
-    uup_last = uup.get("last")
-    tnx_last = tnx.get("last")
+vix = (series.get("VIX") or {})
+spy = (series.get("SPY") or {})
+qqq = (series.get("QQQ") or {})
+gld = (series.get("GLD") or {})
+uup = (series.get("UUP") or {})   # 美元代理（可选）
+tnx = (series.get("TNX") or {})   # 10Y（可选）
 
-    # changes
-    vix_1d = vix.get("chg_1d_pct")
-    vix_3d = vix.get("chg_3d_pct")
-    vix_5d = vix.get("chg_5d_pct")
+# levels
+vix_last = vix.get("last")
+spy_last = spy.get("last")
+qqq_last = qqq.get("last")
+gld_last = gld.get("last")
+uup_last = uup.get("last")
+tnx_last = tnx.get("last")
 
-    spy_1d = spy.get("chg_1d_pct")
-    spy_3d = spy.get("chg_3d_pct")
-    spy_5d = spy.get("chg_5d_pct")
+# changes
+vix_1d = vix.get("chg_1d_pct")
+vix_3d = vix.get("chg_3d_pct")
+vix_5d = vix.get("chg_5d_pct")
 
-    qqq_3d = qqq.get("chg_3d_pct")
-    gld_3d = gld.get("chg_3d_pct")
+spy_1d = spy.get("chg_1d_pct")
+spy_3d = spy.get("chg_3d_pct")
+spy_5d = spy.get("chg_5d_pct")
 
-    uup_3d = uup.get("chg_3d_pct")
-    tnx_3d = tnx.get("chg_3d_pct")         # 或者你用 yield 的 chg_3d_pct
+qqq_3d = qqq.get("chg_3d_pct")
+gld_3d = gld.get("chg_3d_pct")
 
-    # credit ratio (HYG/LQD)
-    cr_3d = (m.get("credit_ratio_hyg_lqd", {}) or {}).get("chg_3d_pct")
+uup_3d = uup.get("chg_3d_pct")
+tnx_3d = tnx.get("chg_3d_pct")   # 或者你用 yield 的 chg_3d_pct
 
-    def missing(val):
-        return val is None
+# credit ratio (HYG/LQD)
+cr_3d = (m.get("credit_ratio_hyg_lqd") or {}).get("chg_3d_pct")
 
-    if missing(vix_last):
-        reasons.append("缺数据：VIX last（抓取失败/源缺失）")
-    if missing(cr_3d):
-        reasons.append("缺数据：credit_ratio_hyg_lqd chg_3d_pct")
-    if missing(qqq_3d):
-        reasons.append("缺数据：QQQ chg_3d_pct")
-    if missing(gld_3d):
-        reasons.append("缺数据：GLD chg_3d_pct")
-    if missing(spy_3d):
-        reasons.append("缺数据：SPY chg_3d_pct")
+def missing(val):
+    if val is None:
+        return True
+    if isinstance(val, str) and val.strip().lower() in ("", "na", "n/a", "none", "null"):
+        return True
+    if isinstance(val, (int, float)) and isinstance(val, float) and math.isnan(val):
+        return True
+    return False
+
+# 缺数据提示（所有会展示在 report 里）
+if missing(vix_last): reasons.append("缺数据：VIX last（抓取失败/源缺失）")
+if missing(vix_3d):   reasons.append("缺数据：VIX chg_3d_pct")
+if missing(cr_3d):    reasons.append("缺数据：credit_ratio_hyg_lqd chg_3d_pct")
+if missing(spy_3d):   reasons.append("缺数据：SPY chg_3d_pct")
+if missing(qqq_3d):   reasons.append("缺数据：QQQ chg_3d_pct")
+if missing(gld_3d):   reasons.append("缺数据：GLD chg_3d_pct")
+if missing(uup_3d):   reasons.append("缺数据：UUP chg_3d_pct（美元代理）")
+if missing(tnx_3d):   reasons.append("缺数据：TNX chg_3d_pct（10Y）")
+
+# === 核心打分门控 ===
+required_for_score = [vix_3d, cr_3d, spy_3d, qqq_3d, gld_3d]
+scorable = all(not missing(v) for v in required_for_score)
+
+if not scorable:
+    reasons.append("⚠️ 核心数据缺失：今日风险评分/策略建议将降级为“定性提示”，请先修复数据源。")
+    
+   
 
 # 信用+波动同步恶化
 if cr_3d is not None and vix_3d is not None:
