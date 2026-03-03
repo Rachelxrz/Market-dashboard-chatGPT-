@@ -40,7 +40,7 @@
         const ext = `viewer.html?date=${encodeURIComponent(date)}&doc=extended`;
         const st  = `viewer.html?date=${encodeURIComponent(date)}&doc=structure`;
         return `
-          <div class="card">
+          <div class="card ${getRiskClass(d.title)}">
             <div><span class="date">${date}</span> <span class="title">${title}</span></div>
             <div class="row">
               <a class="btn" href="${ext}">查看：每日扩展阅读</a>
