@@ -147,14 +147,49 @@ def score_risk(m: dict) -> dict:
     score = 0
     reasons = []
 
-vix = m["series"]["VIX"]
-vix_last = vix.get("last")
-vix_1d = vix.get("chg_1d_pct")
-vix_3d = vix.get("chg_3d_pct")
+    series = m.get("series", {}) or {}
 
-cr_3d = m.get("credit_ratio_hyg_lqd", {}).get("chg_3d_pct")
-spy_3d = m["series"]["SPY"].get("chg_3d_pct")
+    vix = series.get("VIX", {}) or {}
+    spy = series.get("SPY", {}) or {}
+    qqq = series.get("QQQ", {}) or {}
+    gld = series.get("GLD", {}) or {}
+    uup = series.get("UUP", {}) or {}      # 美元代理（如果你有）
+    tnx = series.get("TNX", {}) or {}      # 10Y（如果你用 TNX）
 
+    # levels
+    vix_last = vix.get("last")
+    spy_last = spy.get("last")
+    qqq_last = qqq.get("last")
+    gld_last = gld.get("last")
+    uup_last = uup.get("last")
+    tnx_last = tnx.get("last")
+
+    # changes
+    vix_1d = vix.get("chg_1d_pct")
+    vix_3d = vix.get("chg_3d_pct")
+    vix_5d = vix.get("chg_5d_pct")
+
+    spy_1d = spy.get("chg_1d_pct")
+    spy_3d = spy.get("chg_3d_pct")
+    spy_5d = spy.get("chg_5d_pct")
+
+    qqq_3d = qqq.get("chg_3d_pct")
+    gld_3d = gld.get("chg_3d_pct")
+
+    uup_3d = uup.get("chg_3d_pct")
+    tnx_3d = tnx.get("chg_3d_pct")         # 或者你用 yield 的 chg_3d_pct
+
+    # credit ratio (HYG/LQD)
+    cr_3d = (m.get("credit_ratio_hyg_lqd", {}) or {}).get("chg_3d_pct")
+
+    def missing(name, val):
+        return val is None
+
+    if missing("VIX_last", vix_last):
+        reasons.append("缺数据：VIX last（抓取失败/源缺失）")
+
+    if missing("cr_3d", cr_3d):
+        reasons.append("缺数据：credit_ratio_hyg_lqd chg_3d_pct")
 # 信用+波动同步恶化
 if cr_3d is not None and vix_3d is not None:
     if cr_3d < 0 and vix_3d > 0:
@@ -166,6 +201,17 @@ if vix_3d is not None and spy_3d is not None:
     if vix_3d > 0 and spy_3d > 0:
         score -= 1
         reasons.append("VIX上升但指数企稳 (可能钝化)")
+        qqq = m.get("series", {}).get("QQQ", {})
+        gld = m.get("series", {}).get("GLD", {})
+
+        qqq_3d = qqq.get("chg_3d_pct")
+        gld_3d = gld.get("chg_3d_pct")
+
+# 去杠杆检测
+if vix_3d is not None and qqq_3d is not None and gld_3d is not None:
+    if vix_3d > 0 and qqq_3d < 0 and gld_3d < 0:
+        score += 2
+        reasons.append("风险资产+黄金同步下跌（去杠杆结构）")
    
     # VIX 水平
     if vix_last is not None:
