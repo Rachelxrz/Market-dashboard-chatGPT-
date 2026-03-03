@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Daily Dashboard</title>
+  <title>每日看板</title>
   <style>
     body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,"PingFang SC","Microsoft YaHei";margin:24px;line-height:1.5}
     h1{margin:0 0 12px}
@@ -14,6 +14,12 @@
     a.btn:hover{border-color:#888}
     .date{font-weight:700}
     .title{color:#444}
+
+    /* 风险颜色 */
+    .risk-green { background: #e8f7ec; }
+    .risk-yellow { background: #fff8e1; }
+    .risk-orange { background: #ffe9e0; }
+    .risk-red { background: #ffe5e5; }
   </style>
 </head>
 <body>
@@ -23,45 +29,47 @@
   <div id="list"></div>
 
   <script>
+    function getRiskClass(title){
+      if(!title) return '';
+      if(title.includes('🟢')) return 'risk-green';
+      if(title.includes('🟡')) return 'risk-yellow';
+      if(title.includes('🟠')) return 'risk-orange';
+      if(title.includes('🔴')) return 'risk-red';
+      return '';
+    }
+
     async function main(){
-      const res = await fetch('./manifest.json', { cache: "no-store" });
-      const data = await res.json();
-      const days = (data.days || []).slice().reverse(); // 最新在最上
       const root = document.getElementById('list');
+      try{
+        const res = await fetch('./manifest.json', { cache: "no-store" });
+        if(!res.ok) throw new Error('manifest.json 读取失败：' + res.status);
+        const data = await res.json();
+        const days = (data.days || []).slice().reverse();
 
-      if (!days.length){
-        root.innerHTML = '<p>还没有数据。请先在 manifest.json 添加日期，并在 daily/日期/ 下放入 md 文件。</p>';
-        return;
-      }
+        if (!days.length){
+          root.innerHTML = '<p>manifest.json 里没有 days 数据。</p>';
+          return;
+        }
 
-      root.innerHTML = days.map(d => {
-        const date = d.date;
-        const title = d.title || '';
-        const ext = `viewer.html?date=${encodeURIComponent(date)}&doc=extended`;
-        const st  = `viewer.html?date=${encodeURIComponent(date)}&doc=structure`;
-        return `
-          <div class="card ${getRiskClass(d.title)}">
-          function getRiskClass(title){
-  if(!title) return '';
-  if(title.includes('🟢')) return 'risk-green';
-  if(title.includes('🟡')) return 'risk-yellow';
-  if(title.includes('🟠')) return 'risk-orange';
-  if(title.includes('🔴')) return 'risk-red';
-  return '';
-}
-
-            .risk-green { background: #e8f7ec; }
-.risk-yellow { background: #fff8e1; }
-.risk-orange { background: #ffe9e0; }
-.risk-red { background: #ffe5e5; }
-<div><span class="date">${date}</span> <span class="title">${title}</span></div>
-            <div class="row">
-              <a class="btn" href="${ext}">查看：每日扩展阅读</a>
-              <a class="btn" href="${st}">查看：结构监控</a>
+        root.innerHTML = days.map(d => {
+          const date = d.date;
+          const title = d.title || '';
+          const ext = `viewer.html?date=${encodeURIComponent(date)}&doc=extended`;
+          const st  = `viewer.html?date=${encodeURIComponent(date)}&doc=structure`;
+          return `
+            <div class="card ${getRiskClass(title)}">
+              <div><span class="date">${date}</span> <span class="title">${title}</span></div>
+              <div class="row">
+                <a class="btn" href="${ext}">查看：每日扩展阅读</a>
+                <a class="btn" href="${st}">查看：结构监控</a>
+              </div>
             </div>
-          </div>
-        `;
-      }).join('');
+          `;
+        }).join('');
+      }catch(e){
+        root.innerHTML = `<p>加载失败：${e.message}</p>
+                          <p>请检查 manifest.json 是否为有效 JSON。</p>`;
+      }
     }
     main();
   </script>
