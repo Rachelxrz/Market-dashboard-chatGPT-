@@ -356,18 +356,39 @@ def metrics_for_prompt(date: str, metrics: Dict[str, Any], risk: Dict[str, Any])
 # LLM generation
 # =========================
 
-def llm_md(model: str, system_prompt: str, user_prompt: str, max_tokens: int) -> str:
-    resp = client.responses.create(
-        model=model,
-        max_output_tokens=max_tokens,
-        input=[
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_prompt},
-        ],
-    )
-    return resp.output_text or ""
+def llm_md(model: str, system_prompt: str, user_prompt: str, max_tokens: int, debug_bucket: dict, tag: str) -> str:
+    """
+    - 永不静默：出错/空输出都写入 debug_bucket
+    - 返回空时给出可见错误文本（写进md）
+    """
+    try:
+        resp = client.responses.create(
+            model=model,
+            max_output_tokens=max_tokens,
+            input=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt},
+            ],
+        )
+        text = (resp.output_text or "").strip()
 
-def gen_structure_md(date: str, metrics: Dict[str, Any], risk: Dict[str, Any]) -> str:
+        debug_bucket[tag] = {
+            "model": model,
+            "has_output_text": bool(resp.output_text),
+            "output_text_len": len(resp.output_text or ""),
+        }
+
+        if not text:
+            return f"**[ERROR] LLM返回空文本：model={model}，请查看 llm_debug.json / Actions logs**\n"
+
+        return text + "\n"
+
+    except Exception as e:
+        debug_bucket[tag] = {"model": model, "exception": repr(e)}
+        return f"**[ERROR] LLM调用失败：model={model}，error={repr(e)}**\n"
+
+
+def gen_structure_md(date: str, metrics: Dict[str, Any], risk: Dict[str, Any], debug_bucket: dict) -> str:
     system = (
         "你是一个严谨的宏观与风险结构监控分析师，用中文输出Markdown，结构清晰，避免空话。"
         "你必须【只基于用户提供的JSON数据】做判断；不得编造任何数值、日期或新闻。"
@@ -385,12 +406,14 @@ def gen_structure_md(date: str, metrics: Dict[str, Any], risk: Dict[str, Any]) -
         "下面是【唯一可信数据源】JSON：\n"
         f"{metrics_for_prompt(date, metrics, risk)}\n"
     )
-    return llm_md("gpt-4.1", system, user, max_tokens=1600)
+    # ✅ 统一用 gpt-4.1，避免 gpt-5 不可用导致空白
+    return llm_md("gpt-4.1", system, user, max_tokens=1600, debug_bucket=debug_bucket, tag="structure")
 
-def gen_extended_md(date: str) -> str:
+
+def gen_extended_md(date: str, debug_bucket: dict) -> str:
     """
-    Strict版：拆分生成，避免 token 不够导致“只有两条”。
-    注意：你这里没有联网抓新闻，所以内容必须用“需核对”口径+可核对指标来源。
+    Strict版：拆分生成，避免token截断。
+    注意：这里并没有联网抓新闻，所以会输出“需核对”的结构化阅读内容，但不应为空。
     """
     sys_common = (
         "你是一个结构化阅读简报编辑，用中文输出Markdown。"
@@ -398,7 +421,10 @@ def gen_extended_md(date: str) -> str:
         "严禁输出“占位符/待补充/模板说明/框架版”等字样，必须输出完整内容。"
     )
 
-    # 1) 投资（含X观点+税务+Estate）
+    def call(tag: str, prompt: str, max_tokens: int) -> str:
+        # ✅ 统一用 gpt-4.1（稳定）
+        return llm_md("gpt-4.1", sys_common, prompt, max_tokens=max_tokens, debug_bucket=debug_bucket, tag=tag)
+
     invest_user = (
         f"请生成《每日扩展阅读 Strict | {date}》的【投资】板块。\n"
         "要求：\n"
@@ -409,59 +435,38 @@ def gen_extended_md(date: str) -> str:
         "E) 本板块最后写【板块综合评论】不少于5句。\n"
         "只输出本板块内容（不要输出其他板块）。"
     )
-    invest_md = llm_md("gpt-4.1", sys_common, invest_user, max_tokens=2200)
-
-    # 2) 健康（抗衰老）
-    health_user = (
-        f"请生成《每日扩展阅读 Strict | {date}》的【健康（重点抗衰老）】板块。\n"
-        "要求：Top10编号1-10，每条3-5句，并在最后写【板块综合评论】不少于5句。"
-    )
-    health_md = llm_md("gpt-4.1", sys_common, health_user, max_tokens=1800)
-
-    # 3) 心理/哲学
-    psycho_user = (
-        f"请生成《每日扩展阅读 Strict | {date}》的【心理/哲学】板块。\n"
-        "要求：Top10编号1-10，每条3-5句，并在最后写【板块综合评论】不少于5句。"
-    )
-    psycho_md = llm_md("gpt-4.1", sys_common, psycho_user, max_tokens=1800)
-
-    # 4) AI/科技
-    ai_user = (
-        f"请生成《每日扩展阅读 Strict | {date}》的【AI/科技】板块。\n"
-        "要求：Top10编号1-10，每条3-5句，并在最后写【板块综合评论】不少于5句。"
-    )
-    ai_md = llm_md("gpt-5", sys_common, ai_user, max_tokens=1800)
-
-    # 5) 美学
-    art_user = (
-        f"请生成《每日扩展阅读 Strict | {date}》的【美学】板块。\n"
-        "要求：Top10编号1-10，每条3-5句，并在最后写【板块综合评论】不少于5句。"
-    )
-    art_md = llm_md("gpt-4.1", sys_common, art_user, max_tokens=1800)
-
-    # 6) 全局总评
+    health_user = f"请生成《每日扩展阅读 Strict | {date}》的【健康（重点抗衰老）】板块。Top10编号1-10，每条3-5句，最后【板块综合评论】不少于5句。"
+    psycho_user = f"请生成《每日扩展阅读 Strict | {date}》的【心理/哲学】板块。Top10编号1-10，每条3-5句，最后【板块综合评论】不少于5句。"
+    ai_user = f"请生成《每日扩展阅读 Strict | {date}》的【AI/科技】板块。Top10编号1-10，每条3-5句，最后【板块综合评论】不少于5句。"
+    art_user = f"请生成《每日扩展阅读 Strict | {date}》的【美学】板块。Top10编号1-10，每条3-5句，最后【板块综合评论】不少于5句。"
     global_user = (
-        f"请为《每日扩展阅读 Strict | {date}》生成【全局总评】。\n"
-        "不少于8句话：总结五板块共同结构、风险等级、未来1–4周关注点与关键风险。"
+        f"请为《每日扩展阅读 Strict | {date}》生成【全局总评】。不少于8句话："
+        "总结五板块共同结构、风险等级、未来1–4周关注点与关键风险。"
         "不得引用任何不存在的实时新闻或具体数据；如涉及数据必须写“需核对”并给出核对口径。"
     )
-    global_md = llm_md("gpt-4.1", sys_common, global_user, max_tokens=900)
 
-    # 拼接成一个文件（带总标题）
     out = []
     out.append(f"# 每日扩展阅读 Strict | {date}\n")
-    out.append(invest_md.strip() + "\n")
+
+    out.append(call("invest", invest_user, 2200).strip() + "\n")
     out.append("\n---\n")
-    out.append(health_md.strip() + "\n")
+    out.append(call("health", health_user, 1800).strip() + "\n")
     out.append("\n---\n")
-    out.append(psycho_md.strip() + "\n")
+    out.append(call("psycho", psycho_user, 1800).strip() + "\n")
     out.append("\n---\n")
-    out.append(ai_md.strip() + "\n")
+    out.append(call("ai", ai_user, 1800).strip() + "\n")
     out.append("\n---\n")
-    out.append(art_md.strip() + "\n")
+    out.append(call("aesthetics", art_user, 1800).strip() + "\n")
     out.append("\n---\n")
-    out.append(global_md.strip() + "\n")
+    out.append(call("global", global_user, 900).strip() + "\n")
+
     return "\n".join(out)
+
+  
+ 
+  
+  
+  
 
 # =========================
 # Main
