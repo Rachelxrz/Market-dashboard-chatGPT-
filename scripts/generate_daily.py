@@ -409,21 +409,21 @@ def gen_extended_md(date: str) -> str:
         "E) 本板块最后写【板块综合评论】不少于5句。\n"
         "只输出本板块内容（不要输出其他板块）。"
     )
-    invest_md = llm_md("gpt-5", sys_common, invest_user, max_tokens=2200)
+    invest_md = llm_md("gpt-4.1", sys_common, invest_user, max_tokens=2200)
 
     # 2) 健康（抗衰老）
     health_user = (
         f"请生成《每日扩展阅读 Strict | {date}》的【健康（重点抗衰老）】板块。\n"
         "要求：Top10编号1-10，每条3-5句，并在最后写【板块综合评论】不少于5句。"
     )
-    health_md = llm_md("gpt-5", sys_common, health_user, max_tokens=1800)
+    health_md = llm_md("gpt-4.1", sys_common, health_user, max_tokens=1800)
 
     # 3) 心理/哲学
     psycho_user = (
         f"请生成《每日扩展阅读 Strict | {date}》的【心理/哲学】板块。\n"
         "要求：Top10编号1-10，每条3-5句，并在最后写【板块综合评论】不少于5句。"
     )
-    psycho_md = llm_md("gpt-5", sys_common, psycho_user, max_tokens=1800)
+    psycho_md = llm_md("gpt-4.1", sys_common, psycho_user, max_tokens=1800)
 
     # 4) AI/科技
     ai_user = (
@@ -437,7 +437,7 @@ def gen_extended_md(date: str) -> str:
         f"请生成《每日扩展阅读 Strict | {date}》的【美学】板块。\n"
         "要求：Top10编号1-10，每条3-5句，并在最后写【板块综合评论】不少于5句。"
     )
-    art_md = llm_md("gpt-5", sys_common, art_user, max_tokens=1800)
+    art_md = llm_md("gpt-4.1", sys_common, art_user, max_tokens=1800)
 
     # 6) 全局总评
     global_user = (
@@ -445,7 +445,7 @@ def gen_extended_md(date: str) -> str:
         "不少于8句话：总结五板块共同结构、风险等级、未来1–4周关注点与关键风险。"
         "不得引用任何不存在的实时新闻或具体数据；如涉及数据必须写“需核对”并给出核对口径。"
     )
-    global_md = llm_md("gpt-5", sys_common, global_user, max_tokens=900)
+    global_md = llm_md("gpt-4.1", sys_common, global_user, max_tokens=900)
 
     # 拼接成一个文件（带总标题）
     out = []
