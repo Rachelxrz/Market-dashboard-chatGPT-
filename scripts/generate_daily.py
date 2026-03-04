@@ -1,384 +1,424 @@
-import os, json
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+"""
+generate_daily.py (Version 2.0)
+- 生成 daily/{YYYY-MM-DD}/structure.md 结构监控（真·结构监控：先抽取/计算指标 -> 再写报告）
+- 生成 daily/{YYYY-MM-DD}/extended.md  每日扩展阅读 Strict
+- 更新 manifest.json
+
+✅ 关键改进：
+1) 结构监控不再“让模型瞎写数值”，而是：
+   - 先从 market_snapshot.json（或你已有的数据管线）拿到 m
+   - 用 score_risk(m) 输出 risk_obj（含 snapshot/reasons/actions/triggers）
+   - 结构监控 markdown 由 risk_obj +（可选）LLM润色生成
+2) 缺数据就降级：明确提示“数据源需修复”，不胡编。
+"""
+
+import os
+import json
 from datetime import datetime, timezone
 from pathlib import Path
-
-import numpy as np
-import pandas as pd
-import yfinance as yf
+from typing import Any, Dict, Optional
 
 from openai import OpenAI
 
-client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+# ----------------------------
+# Config
+# ----------------------------
+client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY", ""))
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 DAILY_DIR = REPO_ROOT / "daily"
 MANIFEST = REPO_ROOT / "manifest.json"
 
-# ====== 你关心的核心监控标的（Yahoo Finance 可直接取） ======
-# VIX: ^VIX
-# 10Y: ^TNX (注意：TNX 是“收益率*10”，比如 43.2 = 4.32%)
-# DXY: 用 UUP 作为美元强弱代理（更稳定，且 yfinance 可取）
-TICKERS = {
-    "VIX": "^VIX",
-    "SPY": "SPY",
-    "QQQ": "QQQ",
-    "GLD": "GLD",
-    "HYG": "HYG",
-    "LQD": "LQD",
-    "UUP": "UUP",     # DXY proxy
-    "TNX": "^TNX",    # 10Y yield * 10
-}
+# 你可以把外部抓取结果写到这个文件，让本脚本读取
+# 建议结构：
+# {
+#   "series": {
+#     "VIX": {"last": 23.57, "chg_1d_pct": 9.93, "chg_3d_pct": 26.52, "chg_5d_pct": 20.56},
+#     "SPY": {"last": ..., "chg_3d_pct": ...},
+#     "QQQ": {"last": ..., "chg_3d_pct": ...},
+#     "GLD": {"last": ..., "chg_3d_pct": ...},
+#     "UUP": {"last": ..., "chg_3d_pct": ...},   # optional
+#     "TNX": {"last": ..., "chg_3d_pct": ...},   # optional
+#     "HYG": {...}, "LQD": {...}                 # optional
+#   },
+#   "credit_ratio_hyg_lqd": {"chg_3d_pct": -0.15}
+# }
+DEFAULT_SNAPSHOT_PATH = REPO_ROOT / "market_snapshot.json"
 
-RISK_EMOJI = {0: "🟢", 1: "🟡", 2: "🟠", 3: "🔴"}
 
-def today_ymd_utc():
+# ----------------------------
+# Helpers
+# ----------------------------
+def today_ymd_utc() -> str:
+    # 你希望按“美国东部 8:00 AM”生成：在 GitHub Actions cron 控制触发时间
     return datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
-def ensure_manifest(date: str, title: str):
+
+def ensure_manifest(date: str, title: str) -> None:
     if MANIFEST.exists():
-        data = json.loads(MANIFEST.read_text(encoding="utf-8") or "{}")
+        raw = MANIFEST.read_text(encoding="utf-8").strip()
+        data = json.loads(raw) if raw else {}
     else:
         data = {}
 
     days = data.get("days", [])
     if not any(d.get("date") == date for d in days):
         days.append({"date": date, "title": title})
+    else:
+        # 如果同一天已存在，就更新 title（避免旧风险色残留）
+        for d in days:
+            if d.get("date") == date:
+                d["title"] = title
+
     data["days"] = days
     MANIFEST.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
 
-def safe_pct(x):
-    if x is None or (isinstance(x, float) and np.isnan(x)):
-        return None
-    return float(x)
 
-def fetch_close_prices(symbols: list[str], period="45d") -> pd.DataFrame:
-    """
-    下载 Close 价格；返回 df: index=Date, columns=symbol
-    """
-    data = yf.download(
-        tickers=" ".join(symbols),
-        period=period,
-        interval="1d",
-        group_by="column",
-        auto_adjust=False,
-        threads=True,
-        progress=False,
+def gen_text(model: str, system_prompt: str, user_prompt: str, max_output_tokens: int) -> str:
+    resp = client.responses.create(
+        model=model,
+        max_output_tokens=max_output_tokens,
+        input=[
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt},
+        ],
     )
+    return resp.output_text or ""
 
-    # yfinance 返回结构可能是：
-    # - 多 ticker：列是 MultiIndex (PriceField, Ticker)
-    # - 单 ticker：列是 PriceField
-    if isinstance(data.columns, pd.MultiIndex):
-        close = data["Close"].copy()
-    else:
-        close = data[["Close"]].copy()
-        close.columns = [symbols[0]]
 
-    close = close.dropna(how="all")
-    return close
-
-def calc_trend_metrics(close: pd.DataFrame, name_map: dict[str, str]) -> dict:
+def load_market_snapshot() -> Dict[str, Any]:
     """
-    用 close（列为 yfinance symbol）计算：
-    - last
-    - 1d/3d/5d/10d 变化%
-    - 3/5/10 日均线（对“价格/指数”类）
-    - 信用比值 HYG/LQD 与其 3/5/10 日变化%
+    真·结构监控的数据入口：m
+    - 优先：环境变量 MARKET_SNAPSHOT_PATH 指定路径
+    - 其次：repo 根目录 market_snapshot.json
+    - 都没有：返回空（会自动降级）
     """
-    def last_valid(s: pd.Series):
-        s2 = s.dropna()
-        return None if s2.empty else float(s2.iloc[-1])
+    p = os.environ.get("MARKET_SNAPSHOT_PATH", "").strip()
+    path = Path(p) if p else DEFAULT_SNAPSHOT_PATH
+    if not path.exists():
+        return {}
 
-    def pct_change_n(s: pd.Series, n: int):
-        s2 = s.dropna()
-        if len(s2) <= n:
+    try:
+        return json.loads(path.read_text(encoding="utf-8"))
+    except Exception:
+        return {}
+
+
+def safe_num(x: Any) -> Optional[float]:
+    try:
+        if x is None:
             return None
-        return float((s2.iloc[-1] / s2.iloc[-1 - n] - 1.0) * 100)
+        return float(x)
+    except Exception:
+        return None
 
-    out = {"asof_utc_date": today_ymd_utc(), "series": {}}
 
-    # 单标的指标
-    for k, sym in name_map.items():
-        if sym not in close.columns:
-            out["series"][k] = {"symbol": sym, "error": "no_data"}
-            continue
-
-        s = close[sym]
-        out["series"][k] = {
-            "symbol": sym,
-            "last": last_valid(s),
-            "chg_1d_pct": pct_change_n(s, 1),
-            "chg_3d_pct": pct_change_n(s, 3),
-            "chg_5d_pct": pct_change_n(s, 5),
-            "chg_10d_pct": pct_change_n(s, 10),
-            "sma_3": float(s.dropna().rolling(3).mean().iloc[-1]) if len(s.dropna()) >= 3 else None,
-            "sma_5": float(s.dropna().rolling(5).mean().iloc[-1]) if len(s.dropna()) >= 5 else None,
-            "sma_10": float(s.dropna().rolling(10).mean().iloc[-1]) if len(s.dropna()) >= 10 else None,
-        }
-
-    # 信用：HYG/LQD
-    hyg = close.get(name_map["HYG"])
-    lqd = close.get(name_map["LQD"])
-    if hyg is not None and lqd is not None:
-        ratio = (hyg / lqd).dropna()
-        out["credit_ratio_hyg_lqd"] = {
-            "last": last_valid(ratio),
-            "chg_1d_pct": pct_change_n(ratio, 1),
-            "chg_3d_pct": pct_change_n(ratio, 3),
-            "chg_5d_pct": pct_change_n(ratio, 5),
-            "chg_10d_pct": pct_change_n(ratio, 10),
-        }
-    else:
-        out["credit_ratio_hyg_lqd"] = {"error": "no_data"}
-
-    # 10Y：^TNX 是 *10
-    tnx_last = out["series"].get("TNX", {}).get("last")
-    if tnx_last is not None:
-        out["us10y_yield_pct_est"] = float(tnx_last / 10.0)
-
-    return out
-
+# ----------------------------
+# Continuous Trend Risk Model (0-12)
+# ----------------------------
 def score_risk(m: dict) -> dict:
     """
-    连续趋势评分（0-12）→ 风险颜色
-    只用你现在已经能稳定抓到的数据：
-      VIX, HYG/LQD, SPY, QQQ, GLD, UUP(美元代理), 10Y(TNX)
+    连续趋势评分 (0-12) -> 风险颜色
+    只用你现在能稳定抓到的数据:
+      VIX, SPY, QQQ, GLD, UUP(可选), TNX(可选), credit_ratio_hyg_lqd
     """
-    import math
+    score = 0
+    reasons = []
+    triggers = []
+    actions = []
 
-score = 0
-reasons = []
+    series = (m.get("series") or {})
 
-series = (m.get("series") or {})
+    vix = (series.get("VIX") or {})
+    spy = (series.get("SPY") or {})
+    qqq = (series.get("QQQ") or {})
+    gld = (series.get("GLD") or {})
+    uup = (series.get("UUP") or {})
+    tnx = (series.get("TNX") or {})
 
-vix = (series.get("VIX") or {})
-spy = (series.get("SPY") or {})
-qqq = (series.get("QQQ") or {})
-gld = (series.get("GLD") or {})
-uup = (series.get("UUP") or {})   # 美元代理（可选）
-tnx = (series.get("TNX") or {})   # 10Y（可选）
+    # levels
+    vix_last = safe_num(vix.get("last"))
+    spy_last = safe_num(spy.get("last"))
+    qqq_last = safe_num(qqq.get("last"))
+    gld_last = safe_num(gld.get("last"))
+    uup_last = safe_num(uup.get("last"))
+    tnx_last = safe_num(tnx.get("last"))
 
-# levels
-vix_last = vix.get("last")
-spy_last = spy.get("last")
-qqq_last = qqq.get("last")
-gld_last = gld.get("last")
-uup_last = uup.get("last")
-tnx_last = tnx.get("last")
+    # changes
+    vix_1d = safe_num(vix.get("chg_1d_pct"))
+    vix_3d = safe_num(vix.get("chg_3d_pct"))
+    vix_5d = safe_num(vix.get("chg_5d_pct"))
 
-# changes
-vix_1d = vix.get("chg_1d_pct")
-vix_3d = vix.get("chg_3d_pct")
-vix_5d = vix.get("chg_5d_pct")
+    spy_3d = safe_num(spy.get("chg_3d_pct"))
+    qqq_3d = safe_num(qqq.get("chg_3d_pct"))
+    gld_3d = safe_num(gld.get("chg_3d_pct"))
 
-spy_1d = spy.get("chg_1d_pct")
-spy_3d = spy.get("chg_3d_pct")
-spy_5d = spy.get("chg_5d_pct")
+    uup_3d = safe_num(uup.get("chg_3d_pct"))
+    tnx_3d = safe_num(tnx.get("chg_3d_pct"))
 
-qqq_3d = qqq.get("chg_3d_pct")
-gld_3d = gld.get("chg_3d_pct")
+    # credit ratio (HYG/LQD)
+    cr_3d = safe_num((m.get("credit_ratio_hyg_lqd") or {}).get("chg_3d_pct"))
 
-uup_3d = uup.get("chg_3d_pct")
-tnx_3d = tnx.get("chg_3d_pct")   # 或者你用 yield 的 chg_3d_pct
+    # -------- 缺数据提示（先做，再打分）--------
+    def missing(val):
+        return val is None
 
-# credit ratio (HYG/LQD)
-cr_3d = (m.get("credit_ratio_hyg_lqd") or {}).get("chg_3d_pct")
+    if missing(vix_last): reasons.append("缺数据：VIX last（抓取失败/源缺失）")
+    if missing(vix_3d):  reasons.append("缺数据：VIX chg_3d_pct")
+    if missing(cr_3d):   reasons.append("缺数据：credit_ratio_hyg_lqd chg_3d_pct")
+    if missing(spy_3d):  reasons.append("缺数据：SPY chg_3d_pct")
+    if missing(qqq_3d):  reasons.append("缺数据：QQQ chg_3d_pct")
+    if missing(gld_3d):  reasons.append("缺数据：GLD chg_3d_pct")
+    if missing(uup_3d):  reasons.append("缺数据：UUP chg_3d_pct（美元代理，可选）")
+    if missing(tnx_3d):  reasons.append("缺数据：TNX chg_3d_pct（10Y，可选）")
 
-def missing(val):
-    if val is None:
-        return True
-    if isinstance(val, str) and val.strip().lower() in ("", "na", "n/a", "none", "null"):
-        return True
-    if isinstance(val, (int, float)) and isinstance(val, float) and math.isnan(val):
-        return True
-    return False
+    required = [vix_last, vix_3d, cr_3d, spy_3d, qqq_3d, gld_3d]
+    scorable = all(not missing(x) for x in required)
 
-# 缺数据提示（所有会展示在 report 里）
-if missing(vix_last): reasons.append("缺数据：VIX last（抓取失败/源缺失）")
-if missing(vix_3d):   reasons.append("缺数据：VIX chg_3d_pct")
-if missing(cr_3d):    reasons.append("缺数据：credit_ratio_hyg_lqd chg_3d_pct")
-if missing(spy_3d):   reasons.append("缺数据：SPY chg_3d_pct")
-if missing(qqq_3d):   reasons.append("缺数据：QQQ chg_3d_pct")
-if missing(gld_3d):   reasons.append("缺数据：GLD chg_3d_pct")
-if missing(uup_3d):   reasons.append("缺数据：UUP chg_3d_pct（美元代理）")
-if missing(tnx_3d):   reasons.append("缺数据：TNX chg_3d_pct（10Y）")
+    if not scorable:
+        return {
+            "score": None,
+            "risk": "🟡",
+            "data_quality": "degraded",
+            "reasons": reasons + ["⚠️ 核心数据缺失：今日评分/策略建议降级为“定性提示”。先修复数据源。"],
+            "triggers": [
+                "修复数据源后再启用评分：必须拿到 VIX(last,3D)、cr_3D、SPY_3D、QQQ_3D、GLD_3D"
+            ],
+            "actions": [
+                "先不要根据缺数据的报告做大幅操作；优先修复抓取与字段映射"
+            ],
+            "snapshot": {
+                "vix_last": vix_last, "vix_1d": vix_1d, "vix_3d": vix_3d, "vix_5d": vix_5d,
+                "cr_3d": cr_3d,
+                "spy_last": spy_last, "spy_3d": spy_3d,
+                "qqq_last": qqq_last, "qqq_3d": qqq_3d,
+                "gld_last": gld_last, "gld_3d": gld_3d,
+                "uup_last": uup_last, "uup_3d": uup_3d,
+                "tnx_last": tnx_last, "tnx_3d": tnx_3d,
+            }
+        }
 
-# === 核心打分门控 ===
-required_for_score = [vix_3d, cr_3d, spy_3d, qqq_3d, gld_3d]
-scorable = all(not missing(v) for v in required_for_score)
-
-if not scorable:
-    reasons.append("⚠️ 核心数据缺失：今日风险评分/策略建议将降级为“定性提示”，请先修复数据源。")
-    
-   
-
-# 信用+波动同步恶化
-if cr_3d is not None and vix_3d is not None:
-    if cr_3d < 0 and vix_3d > 0:
+    # -------- A. VIX 水平（0-3）--------
+    if vix_last >= 30:
+        score += 3
+        reasons.append(f"VIX高位({vix_last:.2f}≥30)：系统性压力")
+        triggers.append("若 VIX 连续2天≥30：进入防守/降杠杆优先")
+    elif vix_last >= 20:
+        score += 2
+        reasons.append(f"VIX进入高波动区({vix_last:.2f}∈[20,30))")
+        triggers.append("若 VIX ≥25 且 3D继续上行：风险升级")
+    elif vix_last >= 16:
         score += 1
-        reasons.append("信用+波动同步恶化 (risk-off强化)")
+        reasons.append(f"VIX抬升({vix_last:.2f}∈[16,20))：风险偏好走弱")
+    else:
+        reasons.append(f"VIX低位({vix_last:.2f}<16)：波动层面偏稳")
 
-# 风险钝化检测
-if vix_3d is not None and spy_3d is not None:
-    if vix_3d > 0 and spy_3d > 0:
+    # -------- B. VIX 趋势（0-2）--------
+    if vix_3d >= 15:
+        score += 2
+        reasons.append(f"VIX 3D升温({vix_3d:+.2f}%)：波动趋势恶化")
+    elif vix_3d >= 5:
+        score += 1
+        reasons.append(f"VIX 3D上行({vix_3d:+.2f}%)：波动抬升")
+
+    # -------- C. 信用风险（0-3）--------
+    # 这里按你此前逻辑：cr_3d < 0 = 信用恶化（risk-off）
+    if cr_3d <= -1.5:
+        score += 3
+        reasons.append(f"信用显著走弱(cr_3d={cr_3d:+.2f}%)：risk-off 信号强")
+        triggers.append("若 cr_3d 继续下探且 VIX>20：优先控仓/防守")
+    elif cr_3d < 0:
+        score += 2
+        reasons.append(f"信用走弱(cr_3d={cr_3d:+.2f}%)：风险偏好下降")
+    elif cr_3d > 0.8:
         score -= 1
-        reasons.append("VIX上升但指数企稳 (可能钝化)")
-        qqq = m.get("series", {}).get("QQQ", {})
-        gld = m.get("series", {}).get("GLD", {})
+        reasons.append(f"信用改善(cr_3d={cr_3d:+.2f}%)：对冲部分风险")
+    else:
+        reasons.append(f"信用中性(cr_3d={cr_3d:+.2f}%)")
 
-        qqq_3d = qqq.get("chg_3d_pct")
-        gld_3d = gld.get("chg_3d_pct")
+    # -------- D. 风险资产压力（0-2）--------
+    if spy_3d <= -2 and qqq_3d <= -2:
+        score += 2
+        reasons.append(f"股指同步走弱(SPY3D={spy_3d:+.2f}%, QQQ3D={qqq_3d:+.2f}%)")
+    elif qqq_3d <= -2 or spy_3d <= -2:
+        score += 1
+        reasons.append(f"股指出现压力(SPY3D={spy_3d:+.2f}%, QQQ3D={qqq_3d:+.2f}%)")
 
-# 去杠杆检测
-if vix_3d is not None and qqq_3d is not None and gld_3d is not None:
+    # -------- E. 去杠杆结构（0-2）--------
+    # VIX↑ 且 QQQ↓ 且 GLD↓ => “去杠杆/现金为王”
     if vix_3d > 0 and qqq_3d < 0 and gld_3d < 0:
         score += 2
-        reasons.append("风险资产+黄金同步下跌（去杠杆结构）")
-   
-    # VIX 水平
-    if vix_last is not None:
-        if vix_last >= 30:
-            score += 4; reasons.append("VIX≥30（高压力）")
-        elif vix_last >= 25:
-            score += 3; reasons.append("VIX 25-30（压力上升）")
-        elif vix_last >= 20:
-            score += 2; reasons.append("VIX 20-25（波动抬升）")
-        elif vix_last >= 16:
-            score += 1; reasons.append("VIX 16-20（波动偏高）")
+        reasons.append(
+            f"去杠杆结构：VIX↑({vix_3d:+.2f}%) 且 QQQ↓({qqq_3d:+.2f}%) 且 GLD↓({gld_3d:+.2f}%)"
+        )
+        triggers.append("若该结构连续2天：避免抄底，优先防守与分批")
 
-    # VIX 变化（连续趋势）
-    if vix_1d is not None and vix_1d >= 8:
-        score += 2; reasons.append("VIX 单日≥+8%（波动冲击）")
-    if vix_3d is not None and vix_3d >= 15:
-        score += 2; reasons.append("VIX 3日≥+15%（趋势性升温）")
+    # 截断到 0-12
+    score = max(0, min(12, score))
 
-    # 信用：HYG/LQD（越跌越危险）
-    cr = m.get("credit_ratio_hyg_lqd", {})
-    cr_3d = cr.get("chg_3d_pct")
-    cr_5d = cr.get("chg_5d_pct")
-    if cr_3d is not None and cr_3d <= -0.6:
-        score += 2; reasons.append("HYG/LQD 3日走弱（信用收紧）")
-    if cr_5d is not None and cr_5d <= -1.0:
-        score += 2; reasons.append("HYG/LQD 5日走弱（信用恶化）")
-
-    # 风险资产回撤
-    qqq_5d = m["series"]["QQQ"].get("chg_5d_pct")
-    spy_5d = m["series"]["SPY"].get("chg_5d_pct")
-    if qqq_5d is not None and qqq_5d <= -3.0:
-        score += 2; reasons.append("QQQ 5日≤-3%（成长承压）")
-    if spy_5d is not None and spy_5d <= -2.0:
-        score += 1; reasons.append("SPY 5日≤-2%（大盘回撤）")
-
-    # 流动性收缩特征：美元走强 + 利率走高 + 风险资产回撤
-    uup_5d = m["series"]["UUP"].get("chg_5d_pct")
-    tnx_5d = m["series"]["TNX"].get("chg_5d_pct")
-    if uup_5d is not None and tnx_5d is not None:
-        if uup_5d >= 0.8 and tnx_5d >= 1.5:
-            score += 2; reasons.append("美元+利率同涨（金融条件收紧）")
-
-    # “假避险/去杠杆”特征：VIX↑ 但 GLD 也大跌（说明被动抛售）
-    gld_1d = m["series"]["GLD"].get("chg_1d_pct")
-    if vix_1d is not None and vix_1d >= 8 and gld_1d is not None and gld_1d <= -1.2:
-        score += 1; reasons.append("VIX冲击且黄金下跌（去杠杆/现金为王）")
-
-    # 风险等级映射
-    # 0-2 🟢 | 3-5 🟡 | 6-8 🟠 | 9+ 🔴
+    # 风险颜色映射
     if score <= 2:
-        level = "🟢"
+        risk = "🟢"
     elif score <= 5:
-        level = "🟡"
+        risk = "🟡"
     elif score <= 8:
-        level = "🟠"
+        risk = "🟠"
     else:
-        level = "🔴"
+        risk = "🔴"
 
-    return {"score": int(score), "level": level, "reasons": reasons}
+    # 动作建议（与评分绑定）
+    if risk in ("🟠", "🔴"):
+        actions += [
+            "不追高；减少高beta加仓冲动（尤其在 VIX>20 且信用走弱时）",
+            "若必须操作：以“分批/小步/可撤回”为原则，优先降低波动来源（高估值成长/高杠杆）",
+            "防守侧：保留现金/短债；对冲可用保护性put或降低净敞口（视账户权限）",
+        ]
+    elif risk == "🟡":
+        actions += [
+            "以持仓管理为主：不追涨、回撤分批，避免一次性重仓",
+            "关注信用与VIX是否同向恶化：一旦出现，立刻转防守节奏",
+        ]
+    else:
+        actions += [
+            "风险偏稳：可按计划执行轮动，但仍避免情绪化加杠杆",
+        ]
 
-def format_metrics_for_prompt(m: dict, risk: dict) -> str:
+    # 可选：美元/利率辅助观测（不参与核心评分）
+    if (uup_3d is not None) and (tnx_3d is not None):
+        reasons.append(f"辅助观测：UUP3D={uup_3d:+.2f}%；TNX3D={tnx_3d:+.2f}%（美元/利率压力）")
+
+    return {
+        "score": score,
+        "risk": risk,
+        "data_quality": "ok",
+        "reasons": reasons,
+        "triggers": triggers,
+        "actions": actions,
+        "snapshot": {
+            "vix_last": vix_last,
+            "vix_1d": vix_1d, "vix_3d": vix_3d, "vix_5d": vix_5d,
+            "cr_3d": cr_3d,
+            "spy_last": spy_last, "spy_3d": spy_3d,
+            "qqq_last": qqq_last, "qqq_3d": qqq_3d,
+            "gld_last": gld_last, "gld_3d": gld_3d,
+            "uup_last": uup_last, "uup_3d": uup_3d,
+            "tnx_last": tnx_last, "tnx_3d": tnx_3d,
+        }
+    }
+
+
+# ----------------------------
+# Structure report builder (deterministic first, then optional LLM polish)
+# ----------------------------
+def build_structure_md(date: str, risk_obj: dict) -> str:
     """
-    给模型的“已计算数据摘要”（非常关键：模型不再胡编）
+    结构监控：优先用确定性模板（不依赖 LLM）保证“真·结构监控”可用
+    你也可以在 main() 里打开 LLM 润色（可选）
     """
-    def line(name, key):
-        s = m["series"][name]
-        last = s.get("last")
-        c1 = s.get("chg_1d_pct")
-        c3 = s.get("chg_3d_pct")
-        c5 = s.get("chg_5d_pct")
-        return f"- {key}: last={last:.2f} | 1d={c1:+.2f}% | 3d={c3:+.2f}% | 5d={c5:+.2f}%"
+    snap = risk_obj.get("snapshot", {}) or {}
+    score = risk_obj.get("score")
+    risk = risk_obj.get("risk", "🟡")
+    dq = risk_obj.get("data_quality", "ok")
 
-    tnx_y = m.get("us10y_yield_pct_est")
-    credit_last = m.get("credit_ratio_hyg_lqd", {}).get("last")
-    credit_3d = m.get("credit_ratio_hyg_lqd", {}).get("chg_3d_pct")
-    credit_5d = m.get("credit_ratio_hyg_lqd", {}).get("chg_5d_pct")
+    def f(x, nd=2, pct=False):
+        if x is None:
+            return "NA"
+        try:
+            if pct:
+                return f"{float(x):+.{nd}f}%"
+            return f"{float(x):.{nd}f}"
+        except Exception:
+            return "NA"
 
-    lines = [
-        f"## 风险引擎输出（已计算）",
-        f"- 风险评分: {risk['score']} / 12",
-        f"- 风险等级: {risk['level']}",
-        f"- 触发原因: " + "；".join(risk["reasons"]) if risk["reasons"] else "- 触发原因: 无明显触发",
-        "",
-        "## 关键指标（已抓取）",
-        line("VIX", "VIX"),
-        line("SPY", "SPY"),
-        line("QQQ", "QQQ"),
-        line("GLD", "GLD"),
-        line("UUP", "美元代理(UUP)"),
-        f"- 10Y(来自^TNX): est_yield={tnx_y:.2f}% | 5d={m['series']['TNX'].get('chg_5d_pct', 0):+.2f}%" if tnx_y is not None else "- 10Y: no_data",
-        f"- 信用代理(HYG/LQD): last={credit_last:.4f} | 3d={credit_3d:+.2f}% | 5d={credit_5d:+.2f}%" if credit_last is not None else "- 信用代理(HYG/LQD): no_data",
-    ]
+    lines = []
+    lines.append(f"# 结构监控（{date}）")
+    lines.append("")
+    lines.append("## 1) 风险等级与评分")
+    if score is None:
+        lines.append(f"- 风险等级：{risk}（数据降级）")
+        lines.append(f"- 风险评分：NA（核心数据缺失）")
+    else:
+        lines.append(f"- 风险等级：{risk}")
+        lines.append(f"- 风险评分：{score} / 12")
+    lines.append(f"- 数据质量：{dq}")
+    lines.append("")
+
+    lines.append("## 2) 核心指标快照（自动抽取）")
+    lines.append(f"- VIX：{f(snap.get('vix_last'))}；1D {f(snap.get('vix_1d'), pct=True)} / 3D {f(snap.get('vix_3d'), pct=True)} / 5D {f(snap.get('vix_5d'), pct=True)}")
+    lines.append(f"- 信用（HYG/LQD 比例 3D）：{f(snap.get('cr_3d'), pct=True)}（<0 通常视为信用走弱）")
+    lines.append(f"- SPY 3D：{f(snap.get('spy_3d'), pct=True)}；QQQ 3D：{f(snap.get('qqq_3d'), pct=True)}；GLD 3D：{f(snap.get('gld_3d'), pct=True)}")
+    lines.append(f"- UUP 3D（可选）：{f(snap.get('uup_3d'), pct=True)}；TNX 3D（可选）：{f(snap.get('tnx_3d'), pct=True)}")
+    lines.append("")
+
+    lines.append("## 3) 结构解读（原因链）")
+    for r in (risk_obj.get("reasons") or [])[:12]:
+        lines.append(f"- {r}")
+    lines.append("")
+
+    lines.append("## 4) 风险触发条件（如果继续恶化/转好）")
+    if risk_obj.get("triggers"):
+        for t in risk_obj["triggers"][:10]:
+            lines.append(f"- {t}")
+    else:
+        lines.append("- 暂无（或数据不足以生成触发条件）")
+    lines.append("")
+
+    lines.append("## 5) 可执行策略建议（不追高 / 加减仓倾向）")
+    if risk_obj.get("actions"):
+        for a in risk_obj["actions"][:10]:
+            lines.append(f"- {a}")
+    else:
+        lines.append("- 数据不足：先修复抓取，再输出策略")
+    lines.append("")
+
     return "\n".join(lines)
 
+
+# ----------------------------
+# Main
+# ----------------------------
 def main():
     date = today_ymd_utc()
     day_dir = DAILY_DIR / date
     day_dir.mkdir(parents=True, exist_ok=True)
 
-    # 1) 抓数据 + 算趋势
-    symbols = list(TICKERS.values())
-    close = fetch_close_prices(symbols, period="60d")
-    metrics = calc_trend_metrics(close, TICKERS)
-    risk = score_risk(metrics)
+    # 0) Load market snapshot (m)
+    m = load_market_snapshot()
 
-    # 保存机器可读指标
-    (day_dir / "metrics.json").write_text(
-        json.dumps({"date": date, "metrics": metrics, "risk": risk}, ensure_ascii=False, indent=2),
-        encoding="utf-8"
-    )
+    # 1) 先评分（真·结构监控的核心）
+    risk_obj = score_risk(m)
 
-    # 2) 结构监控（用“已计算数据”约束模型，避免胡编）
-    structure_system = "你是一个严谨的宏观与风险结构监控分析师。你必须只基于我提供的【已计算数据】做判断，不能杜撰任何数值。用中文输出 Markdown，结构清晰，直接给可执行建议。"
+    # 2) 结构监控（确定性模板输出，保证不胡编）
+    structure_md = build_structure_md(date, risk_obj)
 
-    metrics_block = format_metrics_for_prompt(metrics, risk)
+    # （可选）LLM润色：仍然禁止编造数值（默认关闭更稳）
+    # 如果你想开：把 ENABLE_LLM_POLISH=1 写进 Actions env
+    if os.environ.get("ENABLE_LLM_POLISH", "").strip() == "1":
+        structure_system = "你是严谨的宏观与风险结构监控分析师，用中文输出，结构清晰，避免空话。禁止编造任何数值。"
+        structure_user = f"""
+今天日期是 {date}（UTC）。请基于下方 JSON 生成《结构监控（含策略建议）》。
+硬性要求：
+1) 标题必须是第一行：# 结构监控（{date}）
+2) 只允许引用 JSON 内给出的数值；禁止编造；缺失就写 NA 并给“修复建议”
+3) 必须包含：风险等级+评分、VIX、信用、资金偏好/去杠杆、DXY/10Y（如果有）、触发条件、可执行策略建议
+4) 输出 Markdown，不要出现其它年份或日期
 
-    structure_user = (
-        f"今天日期是 {date}（UTC）。请生成今日《结构监控（含策略建议）》并严格使用这个日期。\n"
-        f"输出必须以第一行标题开头：# 结构监控（{date}）\n"
-        "你必须包含：\n"
-        "1) 风险等级（🟢🟡🟠🔴之一）+ 风险评分（0-12）\n"
-        "2) VIX（水平+1d/3d/5d趋势）\n"
-        "3) 信用（HYG/LQD 比值与 3d/5d趋势）\n"
-        "4) 资金风险代理（SPY/QQQ/GLD 的 1d/5d趋势，用于判断 risk-on/off 与是否去杠杆）\n"
-        "5) DXY 代理（UUP）与 10Y（TNX换算）趋势\n"
-        "6) 板块轮动（用 SPY vs QQQ vs GLD 的相对强弱给出结论）\n"
-        "7) 风险触发条件（明确数值阈值，比如 VIX>25、HYG/LQD 5d<-1% 等）\n"
-        "8) 可执行策略建议（不追高、加仓/减仓倾向；给出 3 条“如果…就…”规则）\n\n"
-        "【已计算数据】如下（只能用这些数据，不得新增任何数字）：\n"
-        f"{metrics_block}\n\n"
-        "输出为 Markdown，不要出现其它年份或日期。"
-    )
-
-    structure_md = client.responses.create(
-        model="gpt-4.1",
-        max_output_tokens=1400,
-        input=[
-            {"role": "system", "content": structure_system},
-            {"role": "user", "content": structure_user},
-        ],
-    ).output_text
+JSON：
+{json.dumps(risk_obj, ensure_ascii=False, indent=2)}
+"""
+        structure_md = gen_text(
+            model="gpt-4.1",
+            system_prompt=structure_system,
+            user_prompt=structure_user,
+            max_output_tokens=1200,
+        )
 
     (day_dir / "structure.md").write_text(structure_md, encoding="utf-8")
 
-    # 3) 每日扩展阅读（保持你现在版本）
+    # 3) 每日扩展阅读 Strict（与你之前一致：模型输出为主）
     extended_system = (
         "你是一个结构化阅读简报编辑，用中文输出 Markdown。"
         "你必须严格遵循用户的固定模板标准：按板块（投资、健康、心理/哲学、AI/科技、美学）输出。"
@@ -401,19 +441,22 @@ def main():
         "输出 Markdown，标题层级清晰。"
     )
 
-    extended_md = client.responses.create(
+    extended_md = gen_text(
         model="gpt-5",
+        system_prompt=extended_system,
+        user_prompt=extended_user,
         max_output_tokens=2600,
-        input=[
-            {"role": "system", "content": extended_system},
-            {"role": "user", "content": extended_user},
-        ],
-    ).output_text
-
+    )
     (day_dir / "extended.md").write_text(extended_md, encoding="utf-8")
 
-    # 4) manifest：用风险颜色上色
-    ensure_manifest(date, f"Structure {risk['level']} | Auto-generated")
+    # 4) manifest：标题里放🟢🟡🟠🔴，首页会自动着色
+    risk = risk_obj.get("risk", "🟡")
+    ensure_manifest(date, f"Structure {risk} | Auto-generated")
+
+    # 5) 可选：把 risk_obj 也存档，方便 debug
+    if os.environ.get("SAVE_RISK_JSON", "").strip() == "1":
+        (day_dir / "risk.json").write_text(json.dumps(risk_obj, ensure_ascii=False, indent=2), encoding="utf-8")
+
 
 if __name__ == "__main__":
     main()
