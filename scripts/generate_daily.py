@@ -510,6 +510,18 @@ def main():
     extended_md = gen_extended_md(date)
     (day_dir / "extended.md").write_text(extended_md, encoding="utf-8")
 
+    llm_debug = {}
+    structure_md = gen_structure_md(date, metrics, risk, llm_debug)
+    (day_dir / "structure.md").write_text(structure_md, encoding="utf-8")
+
+    extended_md = gen_extended_md(date, llm_debug)
+    (day_dir / "extended.md").write_text(extended_md, encoding="utf-8")
+
+    (day_dir / "llm_debug.json").write_text(
+        json.dumps(llm_debug, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+
     # 5) manifest：标题里放🟢🟡🟠🔴，首页自动着色
     icon = risk.get("risk") if risk.get("risk") in ["🟢", "🟡", "🟠", "🔴"] else "🟡"
     q = risk.get("data_quality", "ok")
