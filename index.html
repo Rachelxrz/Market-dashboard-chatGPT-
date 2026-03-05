@@ -80,7 +80,9 @@
         const res = await fetch('./manifest.json', { cache: "no-store" });
         if(!res.ok) throw new Error('manifest.json 读取失败：' + res.status);
         const data = await res.json();
-        const days = (data.days || []).slice().reverse(); // 最新 -> 更早
+        const days = (data.days || [])
+          .slice()
+          .sort((a, b) => new Date(b.date) - new Date(a.date));// 最新 -> 更早
 
         if (!days.length){
           root.innerHTML = '<p>manifest.json 里没有 days 数据。</p>';
