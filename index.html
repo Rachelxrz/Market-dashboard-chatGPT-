@@ -53,9 +53,7 @@
   <script>
     let lang = "cn";
 
-  function toggleLang(){
-    lang = (lang === "cn") ? "en" : "cn";
-
+ 
     // 可选：切换提示语
     const hint = document.getElementById("hint");
     if (hint) {
@@ -93,7 +91,7 @@
       return 'yellow';
     }
 
-    let lang = "cn";
+    
 
   function toggleLang(){
     lang = (lang === "cn") ? "en" : "cn";
@@ -116,7 +114,7 @@
           root.innerHTML = '<p>manifest.json 里没有 days 数据。</p>';
           return;
         }
-        window.addEventListener("DOMContentLoaded", main);
+       
 
         // 1) 最近7天趋势条（点一下直达当天 structure）
         const last7 = days.slice(0, 7);
@@ -168,6 +166,7 @@
       }
     }
     main();
+    window.addEventListener("DOMContentLoaded", main);
   </script>
 </body>
 </html>
