@@ -144,7 +144,7 @@
         root.innerHTML = days.map(d => {
           const date = d.date;
           const title = d.title || '';
-          const ext = `viewer.html?date=${encodeURIComponent(date)}&doc=${lang === "cn" ? "extended_cn" : "extended_en"}`;
+          const ext = `viewer.html?date=${encodeURIComponent(date)}&doc=extended`;
           const st  = `viewer.html?date=${encodeURIComponent(date)}&doc=structure`;
           return `
             <div class="card ${getRiskClass(title)}">
