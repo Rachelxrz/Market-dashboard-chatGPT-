@@ -10,8 +10,11 @@
     .hint{color:#666;margin:0 0 18px}
     .card{border:1px solid #ddd;border-radius:12px;padding:14px;margin:10px 0}
     .row{display:flex;gap:10px;flex-wrap:wrap;margin-top:10px}
-    a.btn{display:inline-block;padding:8px 10px;border:1px solid #ccc;border-radius:10px;text-decoration:none}
-    a.btn:hover{border-color:#888}
+
+    /* ✅ btn 样式：同时支持 a.btn 和 button.btn */
+    .btn{display:inline-block;padding:8px 10px;border:1px solid #ccc;border-radius:10px;text-decoration:none;background:#fff;cursor:pointer}
+    .btn:hover{border-color:#888}
+
     .date{font-weight:700}
     .title{color:#444}
 
@@ -37,13 +40,14 @@
   </style>
 </head>
 <body>
-  <h1>每日看板</h1>
+  <h1 id="pageTitle">每日看板</h1>
+
   <div style="margin: 8px 0 14px 0;">
-  <button class="btn" onclick="toggleLang()">中文 / EN</button>
+    <button class="btn" id="langBtn" onclick="toggleLang()">中文 / EN</button>
   </div>
 
   <p class="hint" id="hint">包含：每日扩展阅读 + 结构监控（按日期归档）</p>
-  
+
   <!-- 最近7天趋势条 -->
   <div id="trend"></div>
 
@@ -53,17 +57,25 @@
   <script>
     let lang = "cn";
 
- 
-    // 可选：切换提示语
-    const hint = document.getElementById("hint");
-    if (hint) {
-      hint.textContent = (lang === "cn")
+    function applyStaticTexts(){
+      const hint = document.getElementById("hint");
+      const pageTitle = document.getElementById("pageTitle");
+      const langBtn = document.getElementById("langBtn");
+
+      if (pageTitle) pageTitle.textContent = (lang === "cn") ? "每日看板" : "Daily Dashboard";
+      if (hint) hint.textContent = (lang === "cn")
         ? "包含：每日扩展阅读 + 结构监控（按日期归档）"
         : "Includes: Daily Insights + Structure Monitor (archived by date)";
+
+      if (langBtn) langBtn.textContent = (lang === "cn") ? "中文 / EN" : "CN / English";
     }
 
-    main(); // 重新渲染
-  }
+    function toggleLang(){
+      lang = (lang === "cn") ? "en" : "cn";
+      applyStaticTexts();
+      main(); // 重新渲染列表文案
+    }
+
     function getRiskClass(title){
       if(!title) return '';
       if(title.includes('🟢')) return 'risk-green';
@@ -81,8 +93,6 @@
       return '';
     }
 
-    
-
     function getDotClass(emoji){
       if(emoji==='🟢') return 'green';
       if(emoji==='🟡') return 'yellow';
@@ -91,13 +101,6 @@
       return 'yellow';
     }
 
-    
-
-  function toggleLang(){
-    lang = (lang === "cn") ? "en" : "cn";
-    main();   // 重新渲染页面
-  }
-
     async function main(){
       const root = document.getElementById('list');
       const trendRoot = document.getElementById('trend');
@@ -105,22 +108,29 @@
       try{
         const res = await fetch('./manifest.json', { cache: "no-store" });
         if(!res.ok) throw new Error('manifest.json 读取失败：' + res.status);
+
         const data = await res.json();
         const days = (data.days || [])
           .slice()
-          .sort((a, b) => new Date(b.date) - new Date(a.date));// 最新 -> 更早
+          .sort((a, b) => new Date(b.date) - new Date(a.date)); // 最新 -> 更早
 
         if (!days.length){
-          root.innerHTML = '<p>manifest.json 里没有 days 数据。</p>';
+          root.innerHTML = (lang === "cn")
+            ? '<p>manifest.json 里没有 days 数据。</p>'
+            : '<p>No "days" data found in manifest.json.</p>';
+          trendRoot.innerHTML = '';
           return;
         }
-       
 
-        // 1) 最近7天趋势条（点一下直达当天 structure）
+        // 1) 最近7天趋势条
         const last7 = days.slice(0, 7);
         trendRoot.innerHTML = `
           <div class="trend-wrap">
-            <div class="trend-title">📈 最近 7 天风险趋势（点一下跳到当天结构监控）</div>
+            <div class="trend-title">${
+              lang === "cn"
+                ? "📈 最近 7 天风险趋势（点一下跳到当天结构监控）"
+                : "📈 Risk Trend (Last 7 Days) — click to open Structure Monitor"
+            }</div>
             <div class="trend-row">
               ${last7.map(d => {
                 const emoji = getRiskEmoji(d.title || '');
@@ -145,15 +155,16 @@
           const title = d.title || '';
           const ext = `viewer.html?date=${encodeURIComponent(date)}&doc=extended`;
           const st  = `viewer.html?date=${encodeURIComponent(date)}&doc=structure`;
+
           return `
             <div class="card ${getRiskClass(title)}">
               <div><span class="date">${date}</span> <span class="title">${title}</span></div>
               <div class="row">
                 <a class="btn" href="${ext}">
-                ${lang === "cn" ? "查看：每日扩展阅读" : "View: Daily Insights"}
+                  ${lang === "cn" ? "查看：每日扩展阅读" : "View: Daily Insights"}
                 </a>
                 <a class="btn" href="${st}">
-                ${lang === "cn" ? "查看：结构监控" : "View: Structure Monitor"}
+                  ${lang === "cn" ? "查看：结构监控" : "View: Structure Monitor"}
                 </a>
               </div>
             </div>
@@ -161,12 +172,18 @@
         }).join('');
 
       }catch(e){
-        root.innerHTML = `<p>加载失败：${e.message}</p>
-                          <p>请检查 manifest.json 是否为有效 JSON。</p>`;
+        root.innerHTML = (lang === "cn")
+          ? `<p>加载失败：${e.message}</p><p>请检查 manifest.json 是否为有效 JSON。</p>`
+          : `<p>Load failed: ${e.message}</p><p>Please verify manifest.json is valid JSON.</p>`;
+        trendRoot.innerHTML = '';
       }
     }
-    main();
-    window.addEventListener("DOMContentLoaded", main);
+
+    // ✅ 只在 DOM ready 后跑一次
+    window.addEventListener("DOMContentLoaded", () => {
+      applyStaticTexts();
+      main();
+    });
   </script>
 </body>
 </html>
