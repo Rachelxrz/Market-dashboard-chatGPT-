@@ -100,6 +100,29 @@ HTTP_RETRIES = 2
 # 工具函数
 # =========================
 
+def to_jsonable(obj):
+    """Make objects JSON-serializable (OpenAI SDK / pydantic / misc)."""
+    if obj is None:
+        return None
+    # pydantic v2
+    if hasattr(obj, "model_dump"):
+        try:
+            return obj.model_dump()
+        except Exception:
+            pass
+    # pydantic v1 / dataclasses-like
+    if hasattr(obj, "dict"):
+        try:
+            return obj.dict()
+        except Exception:
+            pass
+    if hasattr(obj, "__dict__"):
+        try:
+            return dict(obj.__dict__)
+        except Exception:
+            pass
+    return str(obj)
+
 def today_ymd_utc() -> str:
     return datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
@@ -605,7 +628,8 @@ def gen_structure_md(date: str,
 
     text = resp.output_text or ""
     debug_bucket["structure_model"] = OPENAI_MODEL_STRUCTURE
-    debug_bucket["structure_tokens"] = getattr(resp, "usage", None)
+    debug_bucket["extended_tokens"]  = to_jsonable(getattr(resp, "usage", None))
+   
     return text
 
 
@@ -677,7 +701,8 @@ def gen_extended_md(date: str,
     )
     text = resp.output_text or ""
     debug_bucket["extended_model"] = OPENAI_MODEL_EXTENDED
-    debug_bucket["extended_tokens"] = getattr(resp, "usage", None)
+    debug_bucket["structure_tokens"] = to_jsonable(getattr(resp, "usage", None))
+   
     return text
 
 
