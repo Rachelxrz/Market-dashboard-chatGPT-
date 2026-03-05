@@ -116,6 +116,7 @@
           root.innerHTML = '<p>manifest.json 里没有 days 数据。</p>';
           return;
         }
+        window.addEventListener("DOMContentLoaded", main);
 
         // 1) 最近7天趋势条（点一下直达当天 structure）
         const last7 = days.slice(0, 7);
