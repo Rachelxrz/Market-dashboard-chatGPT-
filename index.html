@@ -64,6 +64,8 @@
       return '';
     }
 
+    
+
     function getDotClass(emoji){
       if(emoji==='🟢') return 'green';
       if(emoji==='🟡') return 'yellow';
@@ -71,6 +73,13 @@
       if(emoji==='🔴') return 'red';
       return 'yellow';
     }
+
+    let lang = "cn";
+
+  function toggleLang(){
+    lang = (lang === "cn") ? "en" : "cn";
+    main();   // 重新渲染页面
+  }
 
     async function main(){
       const root = document.getElementById('list');
@@ -116,7 +125,7 @@
         root.innerHTML = days.map(d => {
           const date = d.date;
           const title = d.title || '';
-          const ext = `viewer.html?date=${encodeURIComponent(date)}&doc=extended`;
+          const ext = `viewer.html?date=${encodeURIComponent(date)}&doc=${lang === "cn" ? "extended_cn" : "extended_en"}`;
           const st  = `viewer.html?date=${encodeURIComponent(date)}&doc=structure`;
           return `
             <div class="card ${getRiskClass(title)}">
