@@ -38,8 +38,12 @@
 </head>
 <body>
   <h1>每日看板</h1>
-  <p class="hint">包含：每日扩展阅读 + 结构监控（按日期归档）</p>
+  <div style="margin: 8px 0 14px 0;">
+  <button class="btn" onclick="toggleLang()">中文 / EN</button>
+  </div>
 
+  <p class="hint" id="hint">包含：每日扩展阅读 + 结构监控（按日期归档）</p>
+  
   <!-- 最近7天趋势条 -->
   <div id="trend"></div>
 
@@ -47,6 +51,21 @@
   <div id="list"></div>
 
   <script>
+    let lang = "cn";
+
+  function toggleLang(){
+    lang = (lang === "cn") ? "en" : "cn";
+
+    // 可选：切换提示语
+    const hint = document.getElementById("hint");
+    if (hint) {
+      hint.textContent = (lang === "cn")
+        ? "包含：每日扩展阅读 + 结构监控（按日期归档）"
+        : "Includes: Daily Insights + Structure Monitor (archived by date)";
+    }
+
+    main(); // 重新渲染
+  }
     function getRiskClass(title){
       if(!title) return '';
       if(title.includes('🟢')) return 'risk-green';
@@ -131,8 +150,12 @@
             <div class="card ${getRiskClass(title)}">
               <div><span class="date">${date}</span> <span class="title">${title}</span></div>
               <div class="row">
-                <a class="btn" href="${ext}">查看：每日扩展阅读</a>
-                <a class="btn" href="${st}">查看：结构监控</a>
+                <a class="btn" href="${ext}">
+                ${lang === "cn" ? "查看：每日扩展阅读" : "View: Daily Insights"}
+                </a>
+                <a class="btn" href="${st}">
+                ${lang === "cn" ? "查看：结构监控" : "View: Structure Monitor"}
+                </a>
               </div>
             </div>
           `;
