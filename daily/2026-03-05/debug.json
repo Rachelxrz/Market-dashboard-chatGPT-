@@ -1,26 +1,26 @@
 {
   "structure_model": "gpt-4.1",
   "extended_tokens": {
-    "input_tokens": 1097,
+    "input_tokens": 1079,
     "input_tokens_details": {
       "cached_tokens": 0
     },
-    "output_tokens": 1337,
+    "output_tokens": 1170,
     "output_tokens_details": {
       "reasoning_tokens": 0
     },
-    "total_tokens": 2434
+    "total_tokens": 2249
   },
   "extended_model": "gpt-5",
   "structure_tokens": {
-    "input_tokens": 2367,
+    "input_tokens": 2327,
     "input_tokens_details": {
       "cached_tokens": 0
     },
     "output_tokens": 2600,
     "output_tokens_details": {
-      "reasoning_tokens": 1984
+      "reasoning_tokens": 2432
     },
-    "total_tokens": 4967
+    "total_tokens": 4927
   }
 }
