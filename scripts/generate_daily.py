@@ -758,4 +758,4 @@ def main():
 
     print("news fetched:", len(news.get("items", [])))
     if __name__ == "__main__":
-      main()
+    main()
