@@ -746,7 +746,7 @@ def main():
     extended_md = gen_extended_md(date, metrics, risk, news=news, debug_bucket=llm_debug)
     (day_dir / "extended.md").write_text(extended_md, encoding="utf-8")
 
-    # 5) manifest：标题里放🟢🟡🟠🔴，首页会自动着色
+    # 5) manifest: 标题里放🟢🟡🟠🔴，首页会自动着色
     risk_color = risk.get("risk") or "🟡"
     ensure_manifest(date, f"Structure {risk_color} | Auto-generated")
 
