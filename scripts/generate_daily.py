@@ -751,10 +751,10 @@ def main():
         ensure_manifest(date, f"Structure {risk_color} | Auto-generated")
 
     # 6) 写 debug（可选）
-    (day_dir / "debug.json").write_text(
+        (day_dir / "debug.json").write_text(
         json.dumps(llm_debug, ensure_ascii=False, indent=2),
         encoding="utf-8"
-    )
+        )
 
 
 if __name__ == "__main__":
