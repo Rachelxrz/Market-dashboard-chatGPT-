@@ -753,6 +753,9 @@ def main():
     # 6) 写 debug（可选）
     (day_dir / "debug.json").write_text(json.dumps(llm_debug, ensure_ascii=False, indent=2), encoding="utf-8")
 
-   print("RSS news fetched:", len(news_items))
-if __name__ == "__main__":
-    main()
+  # 3) 新闻（RSS）
+    news = fetch_rss_items()
+
+    print("news fetched:", len(news.get("items", [])))
+    if __name__ == "__main__":
+      main()
