@@ -747,20 +747,15 @@ def main():
     (day_dir / "extended.md").write_text(extended_md, encoding="utf-8")
 
     # 5) manifest：标题里放🟢🟡🟠🔴，首页会自动着色
-    risk_color = risk.get("risk") or "🟡"
-    ensure_manifest(date, f"Structure {risk_color} | Auto-generated")
+        risk_color = risk.get("risk") or "🟡"
+        ensure_manifest(date, f"Structure {risk_color} | Auto-generated")
 
     # 6) 写 debug（可选）
-    (day_dir / "debug.json").write_text(json.dumps(llm_debug, ensure_ascii=False, indent=2), encoding="utf-8")
+    (day_dir / "debug.json").write_text(
+        json.dumps(llm_debug, ensure_ascii=False, indent=2),
+        encoding="utf-8"
+    )
 
-  # 3) 新闻（RSS）
-    # 6) 写 debug（可选）
-  (day_dir / "debug.json").write_text(
-    json.dumps(llm_debug, ensure_ascii=False, indent=2),
-    encoding="utf-8"
-  )
 
 if __name__ == "__main__":
-    main()
-    if __name__ == "__main__":
     main()
