@@ -484,6 +484,7 @@ def score_risk(metrics: Dict[str, Any]) -> Dict[str, Any]:
 # 3) 新闻抓取（RSS）
 # =========================
 
+
 def fetch_rss_items(limit_total: int = 30) -> Dict[str, Any]:
     """
     返回：
@@ -528,7 +529,7 @@ def fetch_rss_items(limit_total: int = 30) -> Dict[str, Any]:
         out["status"] = "degraded"
 
     return out
-
+print("RSS news fetched:", len(news_items))
 
 # =========================
 # 4) LLM 生成（结构监控 / 扩展阅读）
@@ -752,6 +753,6 @@ def main():
     # 6) 写 debug（可选）
     (day_dir / "debug.json").write_text(json.dumps(llm_debug, ensure_ascii=False, indent=2), encoding="utf-8")
 
-
+   print("RSS news fetched:", len(news_items))
 if __name__ == "__main__":
     main()
