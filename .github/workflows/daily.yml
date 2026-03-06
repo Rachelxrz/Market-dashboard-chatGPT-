@@ -5,7 +5,9 @@ on:
     # GitHub Actions 的 cron 是 UTC
     # 你想要 8:00 AM ET：大约是 13:00 UTC（冬令时），夏令时是 12:00 UTC
     # 先用 13:05 UTC 跑（冬令时准确），夏令时你可以改成 12:05 UTC
-    - cron: "5 13 * * *"
+
+    - cron: "5 13 * * *"   # 09:05 EDT
+    - cron: "5 14 * * *"   # 09:05 EST
   workflow_dispatch: {}
 
 permissions:
