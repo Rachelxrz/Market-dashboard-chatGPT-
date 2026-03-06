@@ -529,7 +529,7 @@ def fetch_rss_items(limit_total: int = 30) -> Dict[str, Any]:
         out["status"] = "degraded"
 
     return out
-print("RSS news fetched:", len(news_items))
+# print("RSS news fetched:", len(news_items))
 
 # =========================
 # 4) LLM 生成（结构监控 / 扩展阅读）
