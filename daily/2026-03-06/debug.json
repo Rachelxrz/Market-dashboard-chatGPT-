@@ -5,11 +5,11 @@
     "input_tokens_details": {
       "cached_tokens": 0
     },
-    "output_tokens": 1307,
+    "output_tokens": 1282,
     "output_tokens_details": {
       "reasoning_tokens": 0
     },
-    "total_tokens": 2385
+    "total_tokens": 2360
   },
   "extended_model": "gpt-5",
   "structure_tokens": {
