@@ -5,15 +5,15 @@
     "input_tokens_details": {
       "cached_tokens": 0
     },
-    "output_tokens": 1314,
+    "output_tokens": 1073,
     "output_tokens_details": {
       "reasoning_tokens": 0
     },
-    "total_tokens": 2392
+    "total_tokens": 2151
   },
   "extended_model": "gpt-5",
   "structure_tokens": {
-    "input_tokens": 2335,
+    "input_tokens": 2334,
     "input_tokens_details": {
       "cached_tokens": 0
     },
@@ -21,6 +21,6 @@
     "output_tokens_details": {
       "reasoning_tokens": 2560
     },
-    "total_tokens": 4895
+    "total_tokens": 4894
   }
 }
