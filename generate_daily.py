@@ -1154,7 +1154,7 @@ def write_monitor_html(payload: dict):
         </div>
         <div class="hero-item">
           <div class="hero-label">风险等级</div>
-          <div class="hero-value">{html.escape(str(risk_score))}/5</div>
+          <div class="hero-value">{html.escape(str(risk_score))}/4</div>
         </div>
         <div class="hero-item">
           <div class="hero-label">一句话建议</div>
@@ -1242,5 +1242,6 @@ if __name__ == "__main__":
     except Exception:
         traceback.print_exc()
         raise
+
 
 
