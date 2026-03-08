@@ -89,7 +89,7 @@
     }
     .snap-grid {
       display: grid;
-      grid-template-columns: repeat(4, minmax(0,1fr));
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
       gap: 14px;
     }
     .snap-card {
@@ -173,7 +173,7 @@
 <body>
   <div class="wrap">
     <h1>结构监控</h1>
-    <div class="top-meta">生成时间：2026-03-08 20:13:42 UTC</div>
+    <div class="top-meta">生成时间：2026-03-08 20:55:12 UTC</div>
     <div class="nav"><a href="./reading.html">查看每日扩展阅读</a></div>
 
     <section class="hero">
@@ -184,11 +184,11 @@
         </div>
         <div class="hero-item">
           <div class="hero-label">风险等级</div>
-          <div class="hero-value">4/5</div>
+          <div class="hero-value">4/4</div>
         </div>
         <div class="hero-item">
           <div class="hero-label">一句话建议</div>
-          <div class="hero-value" style="font-size:17px;font-weight:600;">当前结构为 Risk-off，风险等级 4/5；VIX 29.49，QQQ -1.24%，GLD -2.12%。</div>
+          <div class="hero-value" style="font-size:17px;font-weight:600;">当前结构为 Risk-off，风险等级 4/4；VIX 29.49，QQQ -1.49%，GLD +1.04%，VLCC 3天 -6.18%。</div>
         </div>
         <div class="hero-item">
           <div class="hero-label">综合判断</div>
@@ -203,74 +203,93 @@
       <div class="snap-card">
   <div class="snap-title">SPY</div>
   <div class="snap-price">672.38</div>
-  <div class="snap-change">-1.98%</div>
+  <div class="snap-change">1天：-2.47%</div>
+  <div class="snap-change">3天：-1.17%</div>
   <div class="snap-note">美股大盘代理</div>
 </div>
 <div class="snap-card">
   <div class="snap-title">QQQ</div>
   <div class="snap-price">599.75</div>
-  <div class="snap-change">-1.24%</div>
+  <div class="snap-change">1天：-1.49%</div>
+  <div class="snap-change">3天：-0.30%</div>
   <div class="snap-note">科技成长代理</div>
 </div>
 <div class="snap-card">
   <div class="snap-title">DIA</div>
   <div class="snap-price">475.23</div>
-  <div class="snap-change">-2.95%</div>
+  <div class="snap-change">1天：-4.20%</div>
+  <div class="snap-change">3天：-2.12%</div>
   <div class="snap-note">道指代理</div>
 </div>
 <div class="snap-card">
   <div class="snap-title">IWM</div>
   <div class="snap-price">250.89</div>
-  <div class="snap-change">-4.02%</div>
+  <div class="snap-change">1天：-5.18%</div>
+  <div class="snap-change">3天：-3.22%</div>
   <div class="snap-note">小盘股代理</div>
 </div>
 <div class="snap-card">
   <div class="snap-title">GLD</div>
   <div class="snap-price">473.51</div>
-  <div class="snap-change">-2.12%</div>
+  <div class="snap-change">1天：+1.04%</div>
+  <div class="snap-change">3天：+1.15%</div>
   <div class="snap-note">黄金代理</div>
 </div>
 <div class="snap-card">
   <div class="snap-title">SLV</div>
   <div class="snap-price">75.94</div>
-  <div class="snap-change">-10.65%</div>
+  <div class="snap-change">1天：-0.89%</div>
+  <div class="snap-change">3天：+1.69%</div>
   <div class="snap-note">白银代理</div>
 </div>
 <div class="snap-card">
   <div class="snap-title">USO</div>
   <div class="snap-price">108.77</div>
-  <div class="snap-change">+32.73%</div>
+  <div class="snap-change">1天：+34.53%</div>
+  <div class="snap-change">3天：+20.59%</div>
   <div class="snap-note">原油代理</div>
 </div>
 <div class="snap-card">
   <div class="snap-title">UUP</div>
   <div class="snap-price">27.47</div>
-  <div class="snap-change">+1.44%</div>
+  <div class="snap-change">1天：+1.40%</div>
+  <div class="snap-change">3天：+0.04%</div>
   <div class="snap-note">美元代理</div>
 </div>
 <div class="snap-card">
   <div class="snap-title">TNX</div>
   <div class="snap-price">4.13</div>
-  <div class="snap-change">+2.10%</div>
+  <div class="snap-change">1天：+2.58%</div>
+  <div class="snap-change">3天：+1.90%</div>
   <div class="snap-note">10年美债收益率代理</div>
 </div>
 <div class="snap-card">
   <div class="snap-title">VIX</div>
   <div class="snap-price">29.49</div>
-  <div class="snap-change">+48.49%</div>
+  <div class="snap-change">1天：+54.48%</div>
+  <div class="snap-change">3天：+25.12%</div>
   <div class="snap-note">波动率代理</div>
 </div>
 <div class="snap-card">
   <div class="snap-title">HYG</div>
   <div class="snap-price">79.69</div>
-  <div class="snap-change">-1.28%</div>
+  <div class="snap-change">1天：-1.62%</div>
+  <div class="snap-change">3天：-0.54%</div>
   <div class="snap-note">高收益债偏好</div>
 </div>
 <div class="snap-card">
   <div class="snap-title">LQD</div>
   <div class="snap-price">110.16</div>
-  <div class="snap-change">-1.36%</div>
+  <div class="snap-change">1天：-1.28%</div>
+  <div class="snap-change">3天：-0.64%</div>
   <div class="snap-note">投资级信用债</div>
+</div>
+<div class="snap-card">
+  <div class="snap-title">VLCC</div>
+  <div class="snap-price">18.07</div>
+  <div class="snap-change">1天：+3.55%</div>
+  <div class="snap-change">3天：-6.18%</div>
+  <div class="snap-note">VLCC 航运代理（当前映射: DHT）</div>
 </div>
     </div>
 
@@ -287,7 +306,7 @@
         <tr>
   <td>VIX</td>
   <td>风险</td>
-  <td>VIX 已进入高波动区，说明风险厌恶明显上升。</td>
+  <td>VIX 进入高波动区，通常意味着风险偏好明显收缩。</td>
 </tr>
 <tr>
   <td>SPY</td>
@@ -301,8 +320,8 @@
 </tr>
 <tr>
   <td>GLD</td>
-  <td>风险</td>
-  <td>GLD 当日走弱较明显，说明该方向对当前结构的支持不足。</td>
+  <td>正常</td>
+  <td>GLD 当日表现偏强，当前方向对整体结构相对有利。</td>
 </tr>
 <tr>
   <td>UUP</td>
@@ -312,17 +331,17 @@
 <tr>
   <td>TNX</td>
   <td>风险</td>
-  <td>10年美债收益率上行较明显，需警惕对成长股估值造成压制。</td>
+  <td>10年美债收益率继续抬升，需警惕对科技与高估值资产的压制。</td>
 </tr>
 <tr>
   <td>HYG</td>
   <td>风险</td>
-  <td>HYG 走弱，说明信用偏好有所收缩。</td>
+  <td>HYG 走弱较明显，说明信用偏好正在收缩。</td>
 </tr>
 <tr>
   <td>LQD</td>
   <td>风险</td>
-  <td>LQD 转弱，需留意信用与利率环境的共同压力。</td>
+  <td>LQD 转弱，说明利率或信用层面的压力正在累积。</td>
 </tr>
       </tbody>
     </table>

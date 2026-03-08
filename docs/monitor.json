@@ -1,104 +1,138 @@
 {
-  "generated_at": "2026-03-08 20:13:42 UTC",
+  "generated_at": "2026-03-08 20:55:12 UTC",
   "regime": "Risk-off",
   "risk_score": 4,
-  "internal_score": 16,
+  "internal_score": 14,
   "summary": "当前结构偏防守，波动、利率或信用层面至少有多项指标同步施压，不宜激进扩张风险敞口。",
   "market_snapshot": {
     "SPY": {
       "label": "SPY",
       "price": 672.38,
-      "change": -13.610000000000014,
-      "change_pct": -1.9839939357716603,
+      "change": -17.049999999999955,
+      "change_pct": -2.4730574532584826,
+      "change_3d": -7.9500170898437545,
+      "change_3d_pct": -1.1685530389869425,
       "note": "美股大盘代理",
       "ok": true
     },
     "QQQ": {
       "label": "QQQ",
       "price": 599.75,
-      "change": -7.539999999999964,
-      "change_pct": -1.2415814520245623,
+      "change": -9.059999999999945,
+      "change_pct": -1.4881490120070213,
+      "change_3d": -1.83001708984375,
+      "change_3d_pct": -0.30420177496860634,
       "note": "科技成长代理",
       "ok": true
     },
     "DIA": {
       "label": "DIA",
       "price": 475.23,
-      "change": -14.430000000000007,
-      "change_pct": -2.946942776620513,
+      "change": -20.849999999999966,
+      "change_pct": -4.202951136913394,
+      "change_3d": -10.289989013671857,
+      "change_3d_pct": -2.119374947790687,
       "note": "道指代理",
       "ok": true
     },
     "IWM": {
       "label": "IWM",
       "price": 250.89,
-      "change": -10.520000000000039,
-      "change_pct": -4.024329597184514,
+      "change": -13.720000000000027,
+      "change_pct": -5.184989229432004,
+      "change_3d": -8.349990234375014,
+      "change_3d_pct": -3.22094991086287,
       "note": "小盘股代理",
       "ok": true
     },
     "GLD": {
       "label": "GLD",
       "price": 473.51,
-      "change": -10.240000000000009,
-      "change_pct": -2.116795865633077,
+      "change": 4.889999999999986,
+      "change_pct": 1.0434893943920418,
+      "change_3d": 5.369985351562491,
+      "change_3d_pct": 1.1470895850668155,
       "note": "黄金代理",
       "ok": true
     },
     "SLV": {
       "label": "SLV",
       "price": 75.94,
-      "change": -9.049999999999997,
-      "change_pct": -10.648311566066592,
+      "change": -0.6800000000000068,
+      "change_pct": -0.8874967371443576,
+      "change_3d": 1.2599996948242165,
+      "change_3d_pct": 1.6871982989760257,
       "note": "白银代理",
       "ok": true
     },
     "USO": {
       "label": "USO",
       "price": 108.77,
-      "change": 26.819999999999993,
-      "change_pct": 32.72727272727272,
+      "change": 27.92,
+      "change_pct": 34.53308596165739,
+      "change_3d": 18.57000305175781,
+      "change_3d_pct": 20.58758722842695,
       "note": "原油代理",
       "ok": true
     },
     "UUP": {
       "label": "UUP",
       "price": 27.47,
-      "change": 0.39000000000000057,
-      "change_pct": 1.4401772525849357,
+      "change": 0.379999999999999,
+      "change_pct": 1.4027316352897712,
+      "change_3d": 0.010000915527342613,
+      "change_3d_pct": 0.03641994122642802,
       "note": "美元代理",
       "ok": true
     },
     "TNX": {
       "label": "TNX",
       "price": 4.133,
-      "change": 0.08499999999999996,
-      "change_pct": 2.099802371541501,
+      "change": 0.10400000000000009,
+      "change_pct": 2.5812856788284955,
+      "change_3d": 0.0769997673034668,
+      "change_3d_pct": 1.8984162447218444,
       "note": "10年美债收益率代理",
       "ok": true
     },
     "VIX": {
       "label": "VIX",
       "price": 29.49,
-      "change": 9.629999999999999,
-      "change_pct": 48.489425981873104,
+      "change": 10.399999999999999,
+      "change_pct": 54.47878470403352,
+      "change_3d": 5.92000030517578,
+      "change_3d_pct": 25.11667535776746,
       "note": "波动率代理",
       "ok": true
     },
     "HYG": {
       "label": "HYG",
       "price": 79.69,
-      "change": -1.0300000000000011,
-      "change_pct": -1.2760158572844416,
+      "change": -1.3100000000000023,
+      "change_pct": -1.617283950617287,
+      "change_3d": -0.4300027465820335,
+      "change_3d_pct": -0.5366983672505898,
       "note": "高收益债偏好",
       "ok": true
     },
     "LQD": {
       "label": "LQD",
       "price": 110.16,
-      "change": -1.5200000000000102,
-      "change_pct": -1.3610315186246509,
+      "change": -1.4300000000000068,
+      "change_pct": -1.2814768348418377,
+      "change_3d": -0.7100027465820347,
+      "change_3d_pct": -0.6403921069659422,
       "note": "投资级信用债",
+      "ok": true
+    },
+    "VLCC": {
+      "label": "VLCC",
+      "price": 18.07,
+      "change": 0.620000000000001,
+      "change_pct": 3.5530085959885445,
+      "change_3d": -1.1900002288818357,
+      "change_3d_pct": -6.178609630011009,
+      "note": "VLCC 航运代理（当前映射: DHT）",
       "ok": true
     }
   },
@@ -106,7 +140,7 @@
     "VIX": {
       "status_level": "risk",
       "status": "风险",
-      "comment": "VIX 已进入高波动区，说明风险厌恶明显上升。"
+      "comment": "VIX 进入高波动区，通常意味着风险偏好明显收缩。"
     },
     "SPY": {
       "status_level": "risk",
@@ -119,9 +153,9 @@
       "comment": "QQQ 当日走弱较明显，说明该方向对当前结构的支持不足。"
     },
     "GLD": {
-      "status_level": "risk",
-      "status": "风险",
-      "comment": "GLD 当日走弱较明显，说明该方向对当前结构的支持不足。"
+      "status_level": "normal",
+      "status": "正常",
+      "comment": "GLD 当日表现偏强，当前方向对整体结构相对有利。"
     },
     "UUP": {
       "status_level": "risk",
@@ -131,21 +165,21 @@
     "TNX": {
       "status_level": "risk",
       "status": "风险",
-      "comment": "10年美债收益率上行较明显，需警惕对成长股估值造成压制。"
+      "comment": "10年美债收益率继续抬升，需警惕对科技与高估值资产的压制。"
     },
     "HYG": {
       "status_level": "risk",
       "status": "风险",
-      "comment": "HYG 走弱，说明信用偏好有所收缩。"
+      "comment": "HYG 走弱较明显，说明信用偏好正在收缩。"
     },
     "LQD": {
       "status_level": "risk",
       "status": "风险",
-      "comment": "LQD 转弱，需留意信用与利率环境的共同压力。"
+      "comment": "LQD 转弱，说明利率或信用层面的压力正在累积。"
     }
   },
   "actions": {
-    "one_liner": "当前结构为 Risk-off，风险等级 4/5；VIX 29.49，QQQ -1.24%，GLD -2.12%。",
+    "one_liner": "当前结构为 Risk-off，风险等级 4/4；VIX 29.49，QQQ -1.49%，GLD +1.04%，VLCC 3天 -6.18%。",
     "core": "核心仓以保守处理为主，不宜在高波动阶段扩大总风险暴露。",
     "trend": "趋势仓应明显收缩，只保留最强主线，弱势仓位优先处理。",
     "defense": "防守仓、黄金和低波动方向应明显提高权重，用于稳定组合。",
