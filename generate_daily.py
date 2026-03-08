@@ -875,7 +875,7 @@ def summary_from_actions(regime, risk_score, vix, qqq_chg, gld_chg, vlcc_chg_3d)
     qqq_text = f"QQQ {fmt_pct(qqq_chg, 2)}" if qqq_chg is not None else "QQQ 待确认"
     gld_text = f"GLD {fmt_pct(gld_chg, 2)}" if gld_chg is not None else "GLD 待确认"
     vlcc_text = f"VLCC 3天 {fmt_pct(vlcc_chg_3d, 2)}" if vlcc_chg_3d is not None else "VLCC 待确认"
-    return f"当前结构为 {regime}，风险等级 {risk_score}/5；{vix_text}，{qqq_text}，{gld_text}，{vlcc_text}。"
+    return f"当前结构为 {regime}，风险等级 {risk_score}/4；{vix_text}，{qqq_text}，{gld_text}，{vlcc_text}。"
 
 def build_market_snapshot():
     raw = fetch_market_snapshot()
@@ -1057,11 +1057,11 @@ def write_monitor_html(payload: dict):
       font-size: 18px;
       line-height: 1.8;
     }}
-    .snap-grid {{
+    .snap-grid {
       display: grid;
-      grid-template-columns: repeat(4, minmax(0,1fr));
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
       gap: 14px;
-    }}
+    }
     .snap-card {{
       background: var(--card);
       border: 1px solid var(--line);
@@ -1242,4 +1242,5 @@ if __name__ == "__main__":
     except Exception:
         traceback.print_exc()
         raise
+
 
