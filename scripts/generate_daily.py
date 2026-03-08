@@ -865,7 +865,7 @@ def build_structure_monitor(snapshot: dict):
 def build_regime(structure_monitor: dict):
     total = 0
     for v in structure_monitor.values():
-    total += risk_level_to_score(v["status_level"])
+        total += risk_level_to_score(v["status_level"])
     
     # 0-3 低风险；4-7 中性；8+ 风险偏高
     if total <= 3:
