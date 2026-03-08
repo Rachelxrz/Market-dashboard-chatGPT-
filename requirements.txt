@@ -6,4 +6,4 @@ pandas>=2.2.0
 numpy>=1.26.0
 feedparser
 requests
-python-dateutil
+python-dateutil>=2.9.0
