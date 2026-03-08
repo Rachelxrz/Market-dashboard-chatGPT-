@@ -1057,11 +1057,11 @@ def write_monitor_html(payload: dict):
       font-size: 18px;
       line-height: 1.8;
     }}
-    .snap-grid {
+    .snap-grid {{
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
       gap: 14px;
-    }
+    }}
     .snap-card {{
       background: var(--card);
       border: 1px solid var(--line);
@@ -1242,6 +1242,7 @@ if __name__ == "__main__":
     except Exception:
         traceback.print_exc()
         raise
+
 
 
 
