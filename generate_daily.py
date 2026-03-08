@@ -129,7 +129,7 @@ SECTIONS = {
 # =========================
 # 结构监控标的
 # =========================
-
+VLCC_PROXY_SYMBOL = os.getenv("VLCC_PROXY_SYMBOL", "DHT").strip().upper()
 MARKET_SYMBOLS = {
     "SPY": {"label": "SPY", "kind": "etf", "note": "美股大盘代理"},
     "QQQ": {"label": "QQQ", "kind": "etf", "note": "科技成长代理"},
@@ -143,6 +143,11 @@ MARKET_SYMBOLS = {
     "^VIX": {"label": "VIX", "kind": "index", "note": "波动率代理"},
     "HYG": {"label": "HYG", "kind": "etf", "note": "高收益债偏好"},
     "LQD": {"label": "LQD", "kind": "etf", "note": "投资级信用债"},
+    VLCC_PROXY_SYMBOL: {
+        "label": "VLCC",
+        "kind": "equity",
+        "note": f"VLCC 航运代理（当前映射: {VLCC_PROXY_SYMBOL}）"
+    },
 }
 
 
@@ -607,25 +612,28 @@ def fetch_yahoo_chart(symbol: str, range_: str = "5d", interval: str = "1d"):
     return resp.json()
 
 
-def extract_last_two_valid(values):
+def extract_last_n_valid(values, n=2):
     vals = [safe_float(x) for x in values if safe_float(x) is not None]
-    if len(vals) >= 2:
-        return vals[-2], vals[-1]
-    if len(vals) == 1:
-        return vals[0], vals[0]
-    return None, None
+    if not vals:
+        return []
+    return vals[-n:]
 
 
 def fetch_market_symbol(symbol: str):
     info = MARKET_SYMBOLS[symbol]
     try:
-        data = fetch_yahoo_chart(symbol, range_="5d", interval="1d")
+        data = fetch_yahoo_chart(symbol, range_="10d", interval="1d")
         result = data["chart"]["result"][0]
         meta = result.get("meta", {}) or {}
         quote = ((result.get("indicators", {}) or {}).get("quote", [{}]) or [{}])[0]
         closes = quote.get("close", []) or []
 
-        prev_close, last_close = extract_last_two_valid(closes)
+        valid_closes = extract_last_n_valid(closes, n=5)
+
+        last_close = valid_closes[-1] if len(valid_closes) >= 1 else None
+        prev_close = valid_closes[-2] if len(valid_closes) >= 2 else None
+        close_3d_ago = valid_closes[-4] if len(valid_closes) >= 4 else None
+
         regular_market_price = safe_float(meta.get("regularMarketPrice"), last_close)
         previous_close = safe_float(meta.get("chartPreviousClose"), prev_close)
 
@@ -640,6 +648,12 @@ def fetch_market_symbol(symbol: str):
             change = regular_market_price - previous_close
             change_pct = change / previous_close * 100.0
 
+        change_3d = None
+        change_3d_pct = None
+        if regular_market_price is not None and close_3d_ago not in (None, 0):
+            change_3d = regular_market_price - close_3d_ago
+            change_3d_pct = change_3d / close_3d_ago * 100.0
+
         return {
             "symbol": symbol,
             "label": info["label"],
@@ -649,6 +663,8 @@ def fetch_market_symbol(symbol: str):
             "previous_close": previous_close,
             "change": change,
             "change_pct": change_pct,
+            "change_3d": change_3d,
+            "change_3d_pct": change_3d_pct,
             "ok": True,
         }
     except Exception as e:
@@ -662,6 +678,8 @@ def fetch_market_symbol(symbol: str):
             "previous_close": None,
             "change": None,
             "change_pct": None,
+            "change_3d": None,
+            "change_3d_pct": None,
             "ok": False,
         }
 
@@ -686,13 +704,14 @@ def status_text(level: str) -> str:
 def classify_vix(vix_value):
     if vix_value is None:
         return "watch", "VIX 数据缺失，需人工复核。"
-    if vix_value < 18:
-        return "normal", "VIX 处于较低区间，风险偏好未见明显失控。"
-    if vix_value < 25:
-        return "watch", "VIX 有所抬升，说明市场对波动的定价开始提高。"
-    if vix_value < 35:
-        return "risk", "VIX 已进入高波动区，说明风险厌恶明显上升。"
-    return "risk", "VIX 处于极高区间，通常对应更强的防守需求。"
+
+    if vix_value < 16:
+        return "normal", "VIX 处于低位，说明市场波动定价仍较温和。"
+    if vix_value < 22:
+        return "watch", "VIX 已离开舒适区，说明市场对不确定性的定价开始上升。"
+    if vix_value < 30:
+        return "risk", "VIX 进入高波动区，通常意味着风险偏好明显收缩。"
+    return "risk", "VIX 处于极高区间，结构上更应偏向防守。"
 
 
 def classify_by_change_pct(label, change_pct, positive_good=True):
@@ -711,31 +730,36 @@ def classify_by_change_pct(label, change_pct, positive_good=True):
 def classify_tnx(change_pct, price):
     if price is None or change_pct is None:
         return "watch", "TNX 数据缺失，需人工复核。"
-    if change_pct <= -1.0:
+
+    if price >= 4.60 and change_pct > 0:
+        return "risk", "10年美债收益率处于高位且继续上行，对成长资产估值压力较大。"
+    if change_pct <= -1.5:
         return "normal", "10年美债收益率明显回落，通常有利于成长资产估值稳定。"
-    if change_pct <= 1.0:
-        return "watch", "10年美债收益率变化有限，当前更偏中性。"
-    return "risk", "10年美债收益率上行较明显，需警惕对成长股估值造成压制。"
+    if change_pct <= 0.8:
+        return "watch", "10年美债收益率变化有限，当前更偏中性观察。"
+    return "risk", "10年美债收益率继续抬升，需警惕对科技与高估值资产的压制。"
 
 
 def classify_hyg(change_pct):
     if change_pct is None:
         return "watch", "HYG 数据缺失，需人工复核。"
-    if change_pct >= 0.3:
-        return "normal", "HYG 偏强，说明信用风险偏好尚可。"
-    if change_pct >= -0.3:
-        return "watch", "HYG 横盘，信用层面未给出强烈方向。"
-    return "risk", "HYG 走弱，说明信用偏好有所收缩。"
+
+    if change_pct >= 0.35:
+        return "normal", "HYG 偏强，说明信用风险偏好整体仍可接受。"
+    if change_pct >= -0.40:
+        return "watch", "HYG 未给出明显方向，信用层面更偏中性。"
+    return "risk", "HYG 走弱较明显，说明信用偏好正在收缩。"
 
 
 def classify_lqd(change_pct):
     if change_pct is None:
         return "watch", "LQD 数据缺失，需人工复核。"
-    if change_pct >= 0.2:
-        return "normal", "LQD 偏稳偏强，投资级信用环境暂未恶化。"
-    if change_pct >= -0.3:
+
+    if change_pct >= 0.15:
+        return "normal", "LQD 偏稳偏强，投资级信用环境暂未见明显恶化。"
+    if change_pct >= -0.25:
         return "watch", "LQD 变化有限，信用环境整体中性。"
-    return "risk", "LQD 转弱，需留意信用与利率环境的共同压力。"
+    return "risk", "LQD 转弱，说明利率或信用层面的压力正在累积。"
 
 
 def risk_level_to_score(level: str) -> int:
@@ -812,6 +836,7 @@ def build_actions(snapshot: dict, regime: str, risk_score: int):
     vix = snapshot.get("VIX", {}).get("price")
     qqq_chg = snapshot.get("QQQ", {}).get("change_pct")
     gld_chg = snapshot.get("GLD", {}).get("change_pct")
+    vlcc_chg_3d = snapshot.get("VLCC", {}).get("change_3d_pct")
 
     if regime == "Risk-on":
         core = "核心仓可继续持有，优先保留高质量主线资产，但仍不建议在单日急涨后追高。"
@@ -834,7 +859,7 @@ def build_actions(snapshot: dict, regime: str, risk_score: int):
         defense = "防守仓、黄金和低波动方向应明显提高权重，用于稳定组合。"
         watchlist = "重点观察 VIX、TNX、信用ETF 是否继续恶化，防止结构进一步破坏。"
 
-    one_liner = summary_from_actions(regime, risk_score, vix, qqq_chg, gld_chg)
+    one_liner = summary_from_actions(regime, risk_score, vix, qqq_chg, gld_chg, vlcc_chg_3d)
 
     return {
         "one_liner": one_liner,
@@ -845,16 +870,16 @@ def build_actions(snapshot: dict, regime: str, risk_score: int):
     }
 
 
-def summary_from_actions(regime, risk_score, vix, qqq_chg, gld_chg):
+def summary_from_actions(regime, risk_score, vix, qqq_chg, gld_chg, vlcc_chg_3d):
     vix_text = f"VIX {fmt_num(vix, 2)}" if vix is not None else "VIX 待确认"
     qqq_text = f"QQQ {fmt_pct(qqq_chg, 2)}" if qqq_chg is not None else "QQQ 待确认"
     gld_text = f"GLD {fmt_pct(gld_chg, 2)}" if gld_chg is not None else "GLD 待确认"
-    return f"当前结构为 {regime}，风险等级 {risk_score}/5；{vix_text}，{qqq_text}，{gld_text}。"
-
+    vlcc_text = f"VLCC 3天 {fmt_pct(vlcc_chg_3d, 2)}" if vlcc_chg_3d is not None else "VLCC 待确认"
+    return f"当前结构为 {regime}，风险等级 {risk_score}/5；{vix_text}，{qqq_text}，{gld_text}，{vlcc_text}。"
 
 def build_market_snapshot():
     raw = fetch_market_snapshot()
-    order = ["SPY", "QQQ", "DIA", "IWM", "GLD", "SLV", "USO", "UUP", "TNX", "VIX", "HYG", "LQD"]
+    order = ["SPY", "QQQ", "DIA", "IWM", "GLD", "SLV", "USO", "UUP", "TNX", "VIX", "HYG", "LQD", "VLCC"]
     out = {}
     for label in order:
         item = raw.get(label, {})
@@ -863,6 +888,8 @@ def build_market_snapshot():
             "price": item.get("price"),
             "change": item.get("change"),
             "change_pct": item.get("change_pct"),
+            "change_3d": item.get("change_3d"),
+            "change_3d_pct": item.get("change_3d_pct"),
             "note": item.get("note", ""),
             "ok": item.get("ok", False),
         }
@@ -896,7 +923,7 @@ def write_monitor_json(payload: dict):
 
 
 def render_snapshot_cards(snapshot: dict) -> str:
-    order = ["SPY", "QQQ", "DIA", "IWM", "GLD", "SLV", "USO", "UUP", "TNX", "VIX", "HYG", "LQD"]
+    order = ["SPY", "QQQ", "DIA", "IWM", "GLD", "SLV", "USO", "UUP", "TNX", "VIX", "HYG", "LQD", "VLCC"]
     cards = []
     for label in order:
         item = snapshot.get(label, {})
@@ -905,7 +932,8 @@ def render_snapshot_cards(snapshot: dict) -> str:
 <div class="snap-card">
   <div class="snap-title">{html.escape(label)}</div>
   <div class="snap-price">{html.escape(fmt_num(item.get("price"), 2))}</div>
-  <div class="snap-change">{html.escape(fmt_pct(item.get("change_pct"), 2))}</div>
+  <div class="snap-change">1天：{html.escape(fmt_pct(item.get("change_pct"), 2))}</div>
+  <div class="snap-change">3天：{html.escape(fmt_pct(item.get("change_3d_pct"), 2))}</div>
   <div class="snap-note">{html.escape(item.get("note", ""))}</div>
 </div>
 """.strip()
@@ -1214,3 +1242,4 @@ if __name__ == "__main__":
     except Exception:
         traceback.print_exc()
         raise
+
