@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>每日扩展阅读</title>
+  <title>结构监控</title>
   <style>
     :root {
       --bg: #f7f7f8;
@@ -12,6 +12,7 @@
       --muted: #6b7280;
       --line: #e5e7eb;
       --link: #1d4ed8;
+      --accent: #111827;
     }
     * { box-sizing: border-box; }
     body {
@@ -23,347 +24,326 @@
       line-height: 1.7;
     }
     .wrap {
-      max-width: 1100px;
+      max-width: 1180px;
       margin: 0 auto;
-      padding: 28px 20px 56px;
+      padding: 28px 20px 60px;
     }
     h1 {
-      margin: 0 0 10px;
-      font-size: 34px;
+      margin: 0 0 8px;
+      font-size: 36px;
       line-height: 1.2;
     }
-    .top-meta {
-      color: var(--muted);
-      margin-bottom: 26px;
-      font-size: 14px;
-    }
     h2 {
-      margin: 34px 0 10px;
+      margin: 34px 0 12px;
       font-size: 28px;
       line-height: 1.25;
     }
-    .section-meta {
+    .top-meta {
       color: var(--muted);
-      margin: 0 0 16px;
       font-size: 14px;
+      margin-bottom: 20px;
+    }
+    .nav a {
+      display: inline-block;
+      background: var(--accent);
+      color: white;
+      text-decoration: none;
+      padding: 10px 14px;
+      border-radius: 10px;
+      font-size: 14px;
+      margin-bottom: 22px;
+    }
+    .hero {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 20px;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+    }
+    .hero-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0,1fr));
+      gap: 14px;
+      margin-top: 14px;
+    }
+    .hero-item {
+      background: #fafafa;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 14px;
+    }
+    .hero-label {
+      color: var(--muted);
+      font-size: 13px;
+      margin-bottom: 6px;
+    }
+    .hero-value {
+      font-size: 20px;
+      font-weight: 700;
+      line-height: 1.35;
+    }
+    .hero-summary {
+      margin-top: 14px;
+      font-size: 18px;
+      line-height: 1.8;
+    }
+    .snap-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0,1fr));
+      gap: 14px;
+    }
+    .snap-card {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 16px;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+    }
+    .snap-title {
+      color: var(--muted);
+      font-size: 13px;
+      margin-bottom: 6px;
+    }
+    .snap-price {
+      font-size: 24px;
+      font-weight: 700;
+      line-height: 1.3;
+    }
+    .snap-change {
+      font-size: 16px;
+      margin-top: 4px;
+    }
+    .snap-note {
+      color: var(--muted);
+      font-size: 13px;
+      margin-top: 6px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+    }
+    th, td {
+      padding: 14px 12px;
+      border-bottom: 1px solid var(--line);
+      text-align: left;
+      vertical-align: top;
+      font-size: 16px;
+    }
+    th {
+      background: #fafafa;
+      font-size: 14px;
+      color: var(--muted);
     }
     .card {
       background: var(--card);
       border: 1px solid var(--line);
       border-radius: 16px;
-      padding: 18px 18px 16px;
-      margin-bottom: 14px;
+      padding: 18px;
+      margin-top: 14px;
       box-shadow: 0 1px 2px rgba(0,0,0,0.03);
     }
-    .title-row {
-      font-size: 22px;
+    .action-title {
+      font-size: 18px;
       font-weight: 700;
-      line-height: 1.45;
-      margin-bottom: 8px;
+      margin-bottom: 6px;
     }
-    .rank {
-      display: inline-block;
-      min-width: 26px;
+    .action-text {
+      font-size: 18px;
+      line-height: 1.8;
     }
-    a {
-      color: var(--link);
-      text-decoration: underline;
-      text-underline-offset: 2px;
+    @media (max-width: 900px) {
+      .hero-grid, .snap-grid { grid-template-columns: repeat(2, minmax(0,1fr)); }
     }
-    .meta {
-      color: var(--muted);
-      font-size: 14px;
-      margin-bottom: 12px;
-    }
-    .analysis {
-      font-size: 20px;
-      line-height: 1.9;
-      white-space: normal;
-    }
-    @media (max-width: 768px) {
+    @media (max-width: 640px) {
       .wrap { padding: 18px 14px 40px; }
-      h1 { font-size: 28px; }
+      h1 { font-size: 30px; }
       h2 { font-size: 24px; }
-      .title-row { font-size: 18px; }
-      .analysis { font-size: 17px; line-height: 1.8; }
+      .hero-grid, .snap-grid { grid-template-columns: 1fr; }
+      .hero-value, .snap-price { font-size: 22px; }
+      .hero-summary, .action-text { font-size: 17px; }
+      th, td { font-size: 15px; }
     }
   </style>
 </head>
 <body>
   <div class="wrap">
-    <h1>每日扩展阅读</h1>
-    <div class="top-meta">
-      生成时间：2026-03-08 19:49:57 UTC<br>
-      抓取范围：最近 24 小时内新闻
+    <h1>结构监控</h1>
+    <div class="top-meta">生成时间：2026-03-08 20:13:42 UTC</div>
+    <div class="nav"><a href="./reading.html">查看每日扩展阅读</a></div>
+
+    <section class="hero">
+      <div class="hero-grid">
+        <div class="hero-item">
+          <div class="hero-label">今日结构</div>
+          <div class="hero-value">Risk-off</div>
+        </div>
+        <div class="hero-item">
+          <div class="hero-label">风险等级</div>
+          <div class="hero-value">4/5</div>
+        </div>
+        <div class="hero-item">
+          <div class="hero-label">一句话建议</div>
+          <div class="hero-value" style="font-size:17px;font-weight:600;">当前结构为 Risk-off，风险等级 4/5；VIX 29.49，QQQ -1.24%，GLD -2.12%。</div>
+        </div>
+        <div class="hero-item">
+          <div class="hero-label">综合判断</div>
+          <div class="hero-value" style="font-size:17px;font-weight:600;">当前结构偏防守，波动、利率或信用层面至少有多项指标同步施压，不宜激进扩张风险敞口。</div>
+        </div>
+      </div>
+      <div class="hero-summary">当前结构偏防守，波动、利率或信用层面至少有多项指标同步施压，不宜激进扩张风险敞口。</div>
+    </section>
+
+    <h2>市场快照</h2>
+    <div class="snap-grid">
+      <div class="snap-card">
+  <div class="snap-title">SPY</div>
+  <div class="snap-price">672.38</div>
+  <div class="snap-change">-1.98%</div>
+  <div class="snap-note">美股大盘代理</div>
+</div>
+<div class="snap-card">
+  <div class="snap-title">QQQ</div>
+  <div class="snap-price">599.75</div>
+  <div class="snap-change">-1.24%</div>
+  <div class="snap-note">科技成长代理</div>
+</div>
+<div class="snap-card">
+  <div class="snap-title">DIA</div>
+  <div class="snap-price">475.23</div>
+  <div class="snap-change">-2.95%</div>
+  <div class="snap-note">道指代理</div>
+</div>
+<div class="snap-card">
+  <div class="snap-title">IWM</div>
+  <div class="snap-price">250.89</div>
+  <div class="snap-change">-4.02%</div>
+  <div class="snap-note">小盘股代理</div>
+</div>
+<div class="snap-card">
+  <div class="snap-title">GLD</div>
+  <div class="snap-price">473.51</div>
+  <div class="snap-change">-2.12%</div>
+  <div class="snap-note">黄金代理</div>
+</div>
+<div class="snap-card">
+  <div class="snap-title">SLV</div>
+  <div class="snap-price">75.94</div>
+  <div class="snap-change">-10.65%</div>
+  <div class="snap-note">白银代理</div>
+</div>
+<div class="snap-card">
+  <div class="snap-title">USO</div>
+  <div class="snap-price">108.77</div>
+  <div class="snap-change">+32.73%</div>
+  <div class="snap-note">原油代理</div>
+</div>
+<div class="snap-card">
+  <div class="snap-title">UUP</div>
+  <div class="snap-price">27.47</div>
+  <div class="snap-change">+1.44%</div>
+  <div class="snap-note">美元代理</div>
+</div>
+<div class="snap-card">
+  <div class="snap-title">TNX</div>
+  <div class="snap-price">4.13</div>
+  <div class="snap-change">+2.10%</div>
+  <div class="snap-note">10年美债收益率代理</div>
+</div>
+<div class="snap-card">
+  <div class="snap-title">VIX</div>
+  <div class="snap-price">29.49</div>
+  <div class="snap-change">+48.49%</div>
+  <div class="snap-note">波动率代理</div>
+</div>
+<div class="snap-card">
+  <div class="snap-title">HYG</div>
+  <div class="snap-price">79.69</div>
+  <div class="snap-change">-1.28%</div>
+  <div class="snap-note">高收益债偏好</div>
+</div>
+<div class="snap-card">
+  <div class="snap-title">LQD</div>
+  <div class="snap-price">110.16</div>
+  <div class="snap-change">-1.36%</div>
+  <div class="snap-note">投资级信用债</div>
+</div>
     </div>
-    <section class="section">
-  <h2>投资</h2>
-  <p class="section-meta">最近24小时内新闻：10 条</p>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">1.</span>
-    <a href="https://www.cnbc.com/2026/03/08/trump-save-america-act-voter-id.html" target="_blank" rel="noopener noreferrer">Trump vows legislative blockade until SAVE America voter-ID bill is passed</a>
-  </div>
-  <div class="meta">来源：US Top News and Analysis ｜ 发布时间：2026-03-08 19:42 UTC</div>
-  <div class="analysis">特朗普承诺在SAVE America选民身份证法案通过之前将进行立法封锁，尽管该法案在参议院几乎注定会失败，民主党将利用阻挠战来阻止其通过。这一举动反映了特朗普在选民身份问题上的坚定立场，旨在巩固其支持基础并激励选民参与。尽管法案的通过可能性微乎其微，但特朗普的策略可能在未来的选举中影响共和党的选民动员和政策方向，进一步加剧两党之间的对立。</div>
-</div>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">2.</span>
-    <a href="https://www.cnbc.com/2026/03/08/jim-cramers-advice-for-investors-during-us-iran-war-oil-surge.html" target="_blank" rel="noopener noreferrer">War disruptions may send oil to $150 to $200 a barrel. Here&#x27;s my advice for stock investors</a>
-  </div>
-  <div class="meta">来源：US Top News and Analysis ｜ 发布时间：2026-03-08 19:27 UTC</div>
-  <div class="analysis">近期，市场分析师Jim Cramer在其专栏中指出，战争带来的干扰可能导致油价飙升至每桶150至200美元。这一预测的重要性在于，油价的急剧上涨将直接影响全球经济，尤其是能源依赖型行业和消费者支出。高油价可能导致通货膨胀加剧，进而影响中央银行的货币政策，投资者需谨慎应对潜在的市场波动。Cramer建议投资者在此背景下调整投资策略，以应对可能的市场变化和风险。</div>
-</div>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">3.</span>
-    <a href="https://www.marketwatch.com/story/his-children-might-resent-her-my-widowed-mother-has-a-life-estate-does-that-override-a-prenup-and-will-0e217484?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer">My mother will live in her second husband’s house if he dies before her. Will his kids be hopping mad?</a>
-  </div>
-  <div class="meta">来源：MarketWatch.com - Top Stories ｜ 发布时间：2026-03-08 19:26 UTC</div>
-  <div class="analysis">从目前公开信息看，这则新闻涉及到继承和家庭财产分配的问题。文章提到一位女性在其第二任丈夫去世后将继续居住在他的房产中，这可能引发其丈夫子女的不满。此类情况在现代家庭中并不少见，尤其是在离婚和再婚日益普遍的背景下，如何合理安排财产继承和居住权利成为重要议题。此事件不仅反映了个人家庭关系的复杂性，也可能对相关法律和社会观念产生影响，尤其是在遗产分配和家庭责任方面。</div>
-</div>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">4.</span>
-    <a href="https://www.marketwatch.com/story/oil-prices-are-the-no-1-thing-investors-are-watching-right-now-heres-why-171942dc?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer">Oil prices are the No. 1 thing investors are watching right now. Here’s why.</a>
-  </div>
-  <div class="meta">来源：MarketWatch.com - Top Stories ｜ 发布时间：2026-03-08 19:25 UTC</div>
-  <div class="analysis">近期，油价的上涨已成为投资者关注的焦点，这一趋势可能对股市产生深远影响。油价的波动不仅直接影响能源类股票的表现，还可能通过影响生产成本和消费者支出，间接影响其他行业的盈利能力。随着全球经济复苏的步伐不一，油价的持续上涨可能加剧通货膨胀压力，进而影响中央银行的货币政策决策。因此，投资者需密切关注油价走势，以便及时调整投资策略。</div>
-</div>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">5.</span>
-    <a href="https://finance.yahoo.com/news/2-top-cybersecurity-stocks-buy-192000929.html" target="_blank" rel="noopener noreferrer">2 Top Cybersecurity Stocks to Buy in March</a>
-  </div>
-  <div class="meta">来源：Yahoo Finance ｜ 发布时间：2026-03-08 19:20 UTC</div>
-  <div class="analysis">从目前公开信息看，Yahoo Finance推荐了两只网络安全股票，适合在三月份进行投资。网络安全领域正面临日益增长的需求，尤其是在数字化转型加速的背景下，企业和个人对安全防护的重视程度显著提升。这一趋势可能推动相关公司的业绩增长，并吸引更多投资者关注该板块。随着网络攻击事件频发，投资者对网络安全企业的信心也在增强，这可能进一步推动市场对这些股票的需求。</div>
-</div>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">6.</span>
-    <a href="https://finance.yahoo.com/news/why-shares-c3-ai-stock-191819248.html" target="_blank" rel="noopener noreferrer">Why Shares of C3.ai Stock Fell 27.8% in February</a>
-  </div>
-  <div class="meta">来源：Yahoo Finance ｜ 发布时间：2026-03-08 19:18 UTC</div>
-  <div class="analysis">C3.ai的股价在二月份下跌了27.8%，这一波动反映了市场对其未来增长潜力的担忧。分析人士指出，投资者对人工智能领域的热情逐渐减弱，加之公司财报未能满足预期，导致市场信心下降。此外，C3.ai面临的竞争加剧也可能影响其市场份额和盈利能力。整体来看，这一股价下跌可能会对投资者的信心产生负面影响，并促使公司在战略上进行调整以应对市场挑战。</div>
-</div>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">7.</span>
-    <a href="https://finance.yahoo.com/news/analysts-message-investors-gold-price-191300480.html" target="_blank" rel="noopener noreferrer">Analysts have a message for investors on the gold price drop</a>
-  </div>
-  <div class="meta">来源：Yahoo Finance ｜ 发布时间：2026-03-08 19:13 UTC</div>
-  <div class="analysis">近期，分析师对黄金价格下跌发出了警示，指出这一趋势可能影响投资者的决策。黄金作为传统避险资产，其价格波动往往反映市场对经济前景的预期。当前黄金价格的下滑可能与全球经济复苏、利率上升及通胀预期变化有关，这些因素共同作用可能导致投资者重新评估其资产配置策略。未来，若黄金价格持续走低，可能会促使部分投资者转向其他资产类别，从而影响市场流动性和投资结构。</div>
-</div>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">8.</span>
-    <a href="https://www.marketwatch.com/story/the-true-cost-of-daylight-saving-time-is-a-672-million-hit-to-the-u-s-economy-70953f73?mod=mw_rss_topstories" target="_blank" rel="noopener noreferrer">The true cost of daylight-saving time is a $672 million hit to the U.S. economy</a>
-  </div>
-  <div class="meta">来源：MarketWatch.com - Top Stories ｜ 发布时间：2026-03-08 19:05 UTC</div>
-  <div class="analysis">根据MarketWatch的研究，美国在夏令时调整中每年损失约6.72亿美元，这一数字超出了人们对失去睡眠时间的直观理解。夏令时的实施不仅影响了个人的生理节奏，还对生产力、健康和交通安全产生了负面影响。这一经济损失可能促使政策制定者重新审视夏令时的必要性，进而影响未来的时间管理政策和相关行业的运营模式。随着公众对健康和效率的关注加剧，这一问题可能会成为更广泛讨论的焦点。</div>
-</div>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">9.</span>
-    <a href="https://finance.yahoo.com/news/nike-stock-going-70-190200132.html" target="_blank" rel="noopener noreferrer">Is Nike Stock Going to $70?</a>
-  </div>
-  <div class="meta">来源：Yahoo Finance ｜ 发布时间：2026-03-08 19:02 UTC</div>
-  <div class="analysis">从目前公开信息看，耐克股价是否会达到70美元引发了市场的广泛关注。耐克作为全球知名运动品牌，其股价波动不仅反映了公司自身的业绩表现，也与整体消费市场和经济环境密切相关。分析师对耐克未来的业绩预期、市场竞争态势以及消费者需求变化等因素进行了评估，这些都可能影响其股价走势。如果耐克能够有效应对市场挑战并实现增长，股价上涨的可能性将增加，反之则可能面临压力。</div>
-</div>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">10.</span>
-    <a href="https://www.cnbc.com/2026/03/07/canada-boycott-trump-travel-alcohol-economy.html" target="_blank" rel="noopener noreferrer">One year after Trump’s sovereignty threats, Canadians keep ‘elbows up’</a>
-  </div>
-  <div class="meta">来源：US Top News and Analysis ｜ 发布时间：2026-03-08 19:00 UTC</div>
-  <div class="analysis">特朗普去年对加拿大的主权威胁和关税政策，激发了加拿大全国范围内的爱国情绪，进而促成了一种新的社会和经济秩序。这种变化不仅反映了加拿大民众对外部压力的反应，也可能在未来影响加拿大的贸易政策和国际关系。随着加拿大人对本国产品和服务的支持力度加大，国内市场的竞争格局可能会发生变化，进而影响到与美国的经济互动。总的来看，这一现象显示出国家认同感在经济决策中的重要性。</div>
-</div>
-</section>
-<section class="section">
-  <h2>健康</h2>
-  <p class="section-meta">最近24小时内新闻：3 条</p>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">1.</span>
-    <a href="https://www.sciencedaily.com/releases/2026/03/260306224216.htm" target="_blank" rel="noopener noreferrer">Study finds phone use on the toilet may cause painful medical condition</a>
-  </div>
-  <div class="meta">来源：Health &amp; Medicine News -- ScienceDaily ｜ 发布时间：2026-03-08 02:53 UTC</div>
-  <div class="analysis">一项新研究表明，使用智能手机时上厕所可能会增加患痔疮的风险，相关数据显示，手机用户的风险比不使用手机的人高出46%。研究发现，手机使用者在厕所的时间明显延长，常因浏览新闻或社交媒体而分心，这可能导致肛门组织承受更大压力。考虑到痔疮在美国每年造成近400万次就医和超过8亿美元的医疗费用，这一发现不仅揭示了现代生活习惯对健康的潜在影响，也可能促使人们重新审视日常生活中的小习惯，从而降低健康风险。</div>
-</div>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">2.</span>
-    <a href="https://www.sciencedaily.com/releases/2026/03/260307155943.htm" target="_blank" rel="noopener noreferrer">Scientists discover a brain signal that may trigger autism’s domino effect</a>
-  </div>
-  <div class="meta">来源：Health &amp; Medicine News -- ScienceDaily ｜ 发布时间：2026-03-08 01:28 UTC</div>
-  <div class="analysis">研究人员发现，氮氧化物这一小分子信号在某些自闭症类型中可能引发一系列分子连锁反应。具体而言，氮氧化物的活性增加会影响一种名为TSC2的保护性蛋白，削弱细胞内的重要制动机制，从而导致mTOR通路的过度活跃。mTOR通路在细胞生长和蛋白质生产中起着关键作用，过度活跃可能与自闭症的症状相关。该研究的发现为自闭症的生物学研究和未来治疗提供了新的方向，尤其是在阻断这一连锁反应的步骤后，细胞活动能够恢复到更健康的平衡状态。此项研究不仅深化了对自闭症机制的理解，也为潜在的干预策略奠定了基础。</div>
-</div>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">3.</span>
-    <a href="https://www.sciencedaily.com/releases/2026/03/260306224229.htm" target="_blank" rel="noopener noreferrer">Golden Retriever genes linked to anxiety, aggression, and intelligence in humans</a>
-  </div>
-  <div class="meta">来源：Health &amp; Medicine News -- ScienceDaily ｜ 发布时间：2026-03-07 20:54 UTC</div>
-  <div class="analysis">研究人员对1300只金毛寻回犬的基因进行分析，发现某些基因与犬类的焦虑、活跃和攻击性行为相关，同时这些基因也与人类的焦虑、抑郁和智力特征有关。这一发现表明，犬类与人类在情感和行为上可能存在共同的生物学基础，具有重要的科学价值。理解这些基因之间的联系，不仅能帮助宠物主人更好地解读狗狗的情绪反应，还可能为改善训练和兽医护理提供新的思路。这项研究为跨物种的情感和行为研究开辟了新的方向，可能对心理健康领域产生深远影响。</div>
-</div>
-</section>
-<section class="section">
-  <h2>心理/哲学</h2>
-  <p class="section-meta">最近24小时内新闻：2 条</p>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">1.</span>
-    <a href="https://www.sciencedaily.com/releases/2026/03/260307155943.htm" target="_blank" rel="noopener noreferrer">Scientists discover a brain signal that may trigger autism’s domino effect</a>
-  </div>
-  <div class="meta">来源：Mind &amp; Brain News -- ScienceDaily ｜ 发布时间：2026-03-08 01:28 UTC</div>
-  <div class="analysis">研究人员发现了一种可能引发自闭症连锁反应的脑信号，主要涉及一氧化氮这一分子信号。该研究表明，当一氧化氮水平升高时，会影响一种名为TSC2的保护性蛋白，进而导致mTOR通路的过度活跃，这对细胞的生长和蛋白质生产至关重要。这一发现不仅为理解自闭症的生物机制提供了新视角，也为未来的治疗方法指明了方向，尤其是在通过调控这一分子链反应来恢复细胞活动的健康平衡方面。随着研究的深入，或许能够开发出更有效的干预措施，改善自闭症患者的生活质量。</div>
-</div>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">2.</span>
-    <a href="https://www.sciencedaily.com/releases/2026/03/260306224229.htm" target="_blank" rel="noopener noreferrer">Golden Retriever genes linked to anxiety, aggression, and intelligence in humans</a>
-  </div>
-  <div class="meta">来源：Mind &amp; Brain News -- ScienceDaily ｜ 发布时间：2026-03-07 20:54 UTC</div>
-  <div class="analysis">研究人员对1300只金毛寻回犬的基因进行分析，发现一些与犬类行为相关的基因同样与人类的焦虑、抑郁和智力特征有关。这一发现表明，犬类与人类在情感和行为上可能存在共同的生物学基础。这不仅有助于主人更好地理解宠物的反应，还可能为改善训练方法和兽医护理提供新的思路。通过深入研究这些基因，未来或许能够更有效地应对犬类和人类的情绪问题。</div>
-</div>
-</section>
-<section class="section">
-  <h2>AI 科技</h2>
-  <p class="section-meta">最近24小时内新闻：6 条</p>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">1.</span>
-    <a href="https://www.theverge.com/tech/891151/apple-is-going-high-end-with-new-ultra-products-next" target="_blank" rel="noopener noreferrer">Apple is going high-end with new ‘Ultra’ products next</a>
-  </div>
-  <div class="meta">来源：The Verge ｜ 发布时间：2026-03-08 17:51 UTC</div>
-  <div class="analysis">苹果公司在推出低价的MacBook Neo后，正计划推出至少三款高端“Ultra”系列产品。这一转变表明，苹果希望在高端市场上进一步巩固其地位，尽管新产品可能不直接使用“Ultra”这一名称，但预计将会有较高的价格溢价。根据目前的消息，折叠iPhone和触控MacBook Pro等产品将成为其高端战略的核心，而新一代AirPods则可能引入摄像头功能，以增强与Siri的互动。这一系列产品的推出，可能会吸引更多追求高端体验的消费者，同时也显示出苹果在市场定位上的灵活性。</div>
-</div>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">2.</span>
-    <a href="https://www.theverge.com/column/890713/mabe-fratti-sentir-que-no-sabes-review" target="_blank" rel="noopener noreferrer">Listen to this: Mabe Fratti’s experimental cello pop</a>
-  </div>
-  <div class="meta">来源：The Verge ｜ 发布时间：2026-03-08 16:00 UTC</div>
-  <div class="analysis">Mabe Fratti的最新专辑《Sentir Que No Sabes》展示了她在实验音乐与流行音乐之间的探索。专辑开篇曲目“Kravitz”以其独特的无声感和工业风格引人注目，结合了大提琴的低音与简单的打击乐，营造出一种紧张而富有层次的氛围。歌词中涉及的偏执主题和略显不和谐的乐器声，进一步增强了这种紧张感，反映了当代社会的焦虑情绪。通过这张专辑，Fratti不仅在音乐上寻求创新，也在艺术表达上挑战传统界限，可能会吸引更广泛的听众群体。</div>
-</div>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">3.</span>
-    <a href="https://www.theverge.com/entertainment/891057/what-were-listening-to-watching-and-reading" target="_blank" rel="noopener noreferrer">What we’re listening to, watching, and reading right now.</a>
-  </div>
-  <div class="meta">来源：The Verge ｜ 发布时间：2026-03-08 15:00 UTC</div>
-  <div class="analysis">The Verge近期分享了他们在音乐、影视和书籍方面的推荐，强调了在信息过载的时代，人工推荐的重要性。随着社交媒体和算法推荐的普及，许多优秀的艺术作品可能被淹没在潮流之中，因此人类的主观推荐能够帮助人们发现那些被忽视的经典或新作。这种方式不仅能丰富用户的文化体验，也可能推动一些小众艺术作品的复兴，影响相关创作者和市场的动态。总的来看，这一举措反映了对艺术多样性和人性化推荐的重视。</div>
-</div>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">4.</span>
-    <a href="https://www.theverge.com/tech/888482/easysmx-s10-lite-switch-2-native-wireless-controller-hands-on" target="_blank" rel="noopener noreferrer">The best Switch 2 controller just got better (and a little worse)</a>
-  </div>
-  <div class="meta">来源：The Verge ｜ 发布时间：2026-03-08 14:00 UTC</div>
-  <div class="analysis">EasySMX S10 Lite控制器的推出标志着第三方配件在Switch 2生态系统中的进一步成熟。该控制器不仅支持原生连接，还具备游戏内后置按键自定义功能，提升了用户体验。尽管S10 Lite在某些方面削减了功能，但其价格优势和易用性可能会吸引更多玩家，进而对市场竞争产生影响。这一变化可能促使其他厂商加速研发类似功能的产品，进一步丰富Switch 2的配件生态。</div>
-</div>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">5.</span>
-    <a href="https://www.theverge.com/podcast/891124/the-cute-and-cursed-story-of-furby" target="_blank" rel="noopener noreferrer">The cute and cursed story of Furby</a>
-  </div>
-  <div class="meta">来源：The Verge ｜ 发布时间：2026-03-08 12:17 UTC</div>
-  <div class="analysis">Furby作为1998年最热门的玩具，其成功不仅源于其可爱的外形和简单的互动功能，还体现了当时技术的创新和人机交互的新思路。从目前公开信息看，Furby的设计和编程方式为后来的人工智能产品提供了重要的启示，尤其是在如何建立与用户情感连接方面。Furby的流行反映了消费者对技术产品的情感依赖，这一趋势可能会影响未来AI产品的开发方向，促使企业更加关注用户体验和情感交互。</div>
-</div>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">6.</span>
-    <a href="https://www.theverge.com/column/890135/truth-hybrid-vehicles" target="_blank" rel="noopener noreferrer">The uncomfortable truth about hybrid vehicles</a>
-  </div>
-  <div class="meta">来源：The Verge ｜ 发布时间：2026-03-08 12:00 UTC</div>
-  <div class="analysis">近期关于混合动力汽车的讨论揭示了一个不容忽视的现实：许多插电式混合动力车主并未充分利用其充电功能，这在一定程度上削弱了该技术的环保优势。这一现象的背后，反映出消费者对电动汽车的认知和使用习惯仍存在显著差距。随着电动汽车市场的竞争加剧，混合动力车的流行可能会影响未来汽车技术的发展方向，尤其是在如何有效推广和使用清洁能源方面。制造商和政策制定者需要重新审视混合动力技术的推广策略，以确保其真正实现环保目标。</div>
-</div>
-</section>
-<section class="section">
-  <h2>美学</h2>
-  <p class="section-meta">最近24小时内新闻：10 条</p>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">1.</span>
-    <a href="https://www.nytimes.com/2026/03/08/arts/music/country-joe-mcdonald-dead.html" target="_blank" rel="noopener noreferrer">Country Joe McDonald, Whose Antiwar Song Became an Anthem, Dies at 84</a>
-  </div>
-  <div class="meta">来源：NYT &gt; Arts ｜ 发布时间：2026-03-08 18:49 UTC</div>
-  <div class="analysis">Country Joe McDonald的去世标志着一个时代的结束，他的反战歌曲在1960年代成为了抗议运动的象征。作为伍德斯托克音乐节的明星之一，他与乐队Fish的表演不仅影响了当时的音乐潮流，也激励了无数年轻人参与社会变革。McDonald的音乐生涯跨越数十年，反映了美国社会的变迁和文化的多样性。他的离世可能促使人们重新审视那个动荡年代的音乐遗产及其对当代社会的影响。</div>
-</div>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">2.</span>
-    <a href="https://www.nytimes.com/2026/03/08/science/momath-reopening-mathematics.html" target="_blank" rel="noopener noreferrer">MoMath Brings Prime Numbers to a Prime New Location</a>
-  </div>
-  <div class="meta">来源：NYT &gt; Arts ｜ 发布时间：2026-03-08 16:54 UTC</div>
-  <div class="analysis">国家数学博物馆（MoMath）在曼哈顿的新址开设了新展览和艺术画廊，标志着其在原有空间不足的情况下的扩张。这一举措不仅为公众提供了更丰富的数学体验，也提升了数学在艺术领域的表现力，促进了跨学科的交流。新位置的选择在繁华的商业区，预计将吸引更多游客，进一步提升数学教育的公众参与度。从目前公开信息看，这一发展可能会激发更多类似机构的创新思维，推动数学与艺术结合的趋势。</div>
-</div>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">3.</span>
-    <a href="https://www.designboom.com/design/ferreol-babin-french-countryside-hand-carved-furniture-friedman-benda-exhibition-landscape/" target="_blank" rel="noopener noreferrer">ferréol babin renders french countryside on hand-carved furniture for friedman benda show</a>
-  </div>
-  <div class="meta">来源：designboom | architecture &amp; design magazine ｜ 发布时间：2026-03-08 14:45 UTC</div>
-  <div class="analysis">Ferréol Babin在Friedman Benda展览中展示了以手工雕刻的家具为载体，描绘法国乡村的田园风光。这一展览不仅突显了木雕艺术的精湛技艺，还反映了设计与自然之间的深刻联系。通过将传统工艺与现代设计相结合，Babin的作品可能会影响当代家具设计的方向，鼓励更多设计师关注材料的质感和文化背景。此展览也为观众提供了一种新的审美体验，促使人们重新思考日常生活中的艺术价值。</div>
-</div>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">4.</span>
-    <a href="https://www.nytimes.com/2026/03/08/arts/television/snl-ryan-gosling-harry-styles-iran-war.html" target="_blank" rel="noopener noreferrer">On ‘S.N.L.’, Pete Hegseth Says Iran ‘Isn’t a War, It’s a Situationship’</a>
-  </div>
-  <div class="meta">来源：NYT &gt; Arts ｜ 发布时间：2026-03-08 14:09 UTC</div>
-  <div class="analysis">在最近一期《周六夜现场》中，演员Colin Jost扮演国防部长Pete Hegseth，提到伊朗问题时称其为“关系状态”，而非战争。这一表述引发了观众对当前美伊关系的关注，反映出对复杂国际局势的轻松调侃。通过这种幽默的方式，节目不仅娱乐了观众，也可能促使人们对国际政治的思考。此类节目在塑造公众舆论和理解重大国际事件方面具有一定影响力。</div>
-</div>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">5.</span>
-    <a href="https://www.nytimes.com/2026/03/08/arts/met-opera-peter-gelb-finances.html" target="_blank" rel="noopener noreferrer">The Met Opera’s Desperate Hunt for Money</a>
-  </div>
-  <div class="meta">来源：NYT &gt; Arts ｜ 发布时间：2026-03-08 14:01 UTC</div>
-  <div class="analysis">纽约大都会歌剧院正面临资金短缺的严峻挑战，迫使其寻求外国政府支持、新的筹款策略，甚至探索太空等非传统领域。这一现象反映了美国大型表演艺术机构在经济压力下的脆弱性，尤其是在疫情后的恢复过程中。若无法找到有效的资金解决方案，可能会影响到其艺术创作和演出安排，进而对整个文化生态造成冲击。此举也引发了对表演艺术可持续性及其在现代社会中角色的深刻思考。</div>
-</div>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">6.</span>
-    <a href="https://www.nytimes.com/2026/03/07/arts/humanities-endowment-doge-trump.html" target="_blank" rel="noopener noreferrer">When DOGE Unleashed ChatGPT on the Humanities</a>
-  </div>
-  <div class="meta">来源：NYT &gt; Arts ｜ 发布时间：2026-03-08 13:11 UTC</div>
-  <div class="analysis">近期披露的文件显示，美国国家人文学科基金会在接受特朗普政府的政策影响下，使用人工智能取消了大部分已批准的资助。这一举措不仅反映了政治与文化资助之间的紧密联系，也引发了对人文学科未来发展的担忧。随着AI技术在决策过程中的介入，可能会对学术研究的独立性和多样性产生深远影响，尤其是在政府政策导向的背景下。此事件凸显了科技与人文领域之间的复杂关系，值得进一步关注。</div>
-</div>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">7.</span>
-    <a href="https://www.dezeen.com/2026/03/08/aatismo-haniyasu-house/" target="_blank" rel="noopener noreferrer">Aatismo references ceramic glazes for streaked house extension in Japan</a>
-  </div>
-  <div class="meta">来源：Dezeen ｜ 发布时间：2026-03-08 11:00 UTC</div>
-  <div class="analysis">Aatismo建筑工作室对位于日本镰仓的Haniyasu House进行了独特的改造，采用了模仿陶瓷釉面的粗糙墙面设计。这种设计不仅体现了对日本土地和陶艺神灵的敬意，也展示了当地建筑师对自然材料的创新运用。通过将粘土、土壤和金属粉末结合，Aatismo成功地将传统工艺与现代建筑理念相结合，可能会对未来的住宅设计产生启示，推动更多设计师探索与自然环境的和谐共生。此项目的成功也可能引发对日本传统文化与现代建筑融合的更广泛讨论。</div>
-</div>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">8.</span>
-    <a href="https://www.dezeen.com/2026/03/08/blockwork-walls-lookbooks/" target="_blank" rel="noopener noreferrer">Seven tactile living spaces with blockwork walls</a>
-  </div>
-  <div class="meta">来源：Dezeen ｜ 发布时间：2026-03-08 10:00 UTC</div>
-  <div class="analysis">这篇报道展示了以混凝土块墙为背景的七个温馨、明亮且富有触感的居住空间，涵盖了美国、澳大利亚和日本等地的设计实例。这些设计不仅体现了当地的建筑特色，如墨尔本的混凝土块住宅参考了当地农舍的风格，还展示了现代居住空间的多样性和实用性。随着人们对居住环境的审美和功能要求不断提升，这类设计可能会影响未来住宅建筑的趋势，推动更多采用自然材料和简约风格的项目出现。</div>
-</div>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">9.</span>
-    <a href="https://www.nytimes.com/2026/03/08/arts/michelangelo-works-art-history.html" target="_blank" rel="noopener noreferrer">‘New Michelangelos’ and the ‘Dan Brown Approach’ to Art History</a>
-  </div>
-  <div class="meta">来源：NYT &gt; Arts ｜ 发布时间：2026-03-08 09:01 UTC</div>
-  <div class="analysis">近期，关于一些新归属米开朗基罗的作品引发了广泛讨论，尽管这些作品背后有着引人入胜的故事，但专家们普遍认为它们不太可能出自米开朗基罗之手。这一现象反映了当代艺术史研究中对作品归属的复杂性，以及如何在吸引公众兴趣与保持学术严谨之间取得平衡。随着“丹·布朗式”的艺术历史解读方式逐渐流行，可能会对艺术品市场和公众对艺术的理解产生深远影响，尤其是在艺术真伪和价值评估方面。</div>
-</div>
-<div class="card">
-  <div class="title-row">
-    <span class="rank">10.</span>
-    <a href="https://www.nytimes.com/2026/03/08/arts/television/rooster-review-steve-carell.html" target="_blank" rel="noopener noreferrer">‘Rooster’ Review: Steve Carell Goes to School</a>
-  </div>
-  <div class="meta">来源：NYT &gt; Arts ｜ 发布时间：2026-03-08 09:00 UTC</div>
-  <div class="analysis">在HBO的新喜剧《Rooster》中，史蒂夫·卡瑞尔饰演一位畅销小说家，卷入校园政治的复杂局面。这部剧不仅展示了卡瑞尔的喜剧才华，也反映了当代大学环境中存在的各种社会和政治问题。通过对校园生活的幽默描绘，该剧可能引发观众对教育体制和文化冲突的深思。随着喜剧的流行，类似题材的作品可能会更频繁地出现在荧幕上，进一步影响公众对相关议题的关注和讨论。</div>
-</div>
-</section>
+
+    <h2>结构监控核心</h2>
+    <table>
+      <thead>
+        <tr>
+          <th style="width:110px;">指标</th>
+          <th style="width:100px;">状态</th>
+          <th>说明</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+  <td>VIX</td>
+  <td>风险</td>
+  <td>VIX 已进入高波动区，说明风险厌恶明显上升。</td>
+</tr>
+<tr>
+  <td>SPY</td>
+  <td>风险</td>
+  <td>SPY 当日走弱较明显，说明该方向对当前结构的支持不足。</td>
+</tr>
+<tr>
+  <td>QQQ</td>
+  <td>风险</td>
+  <td>QQQ 当日走弱较明显，说明该方向对当前结构的支持不足。</td>
+</tr>
+<tr>
+  <td>GLD</td>
+  <td>风险</td>
+  <td>GLD 当日走弱较明显，说明该方向对当前结构的支持不足。</td>
+</tr>
+<tr>
+  <td>UUP</td>
+  <td>风险</td>
+  <td>UUP 当日走弱较明显，说明该方向对当前结构的支持不足。</td>
+</tr>
+<tr>
+  <td>TNX</td>
+  <td>风险</td>
+  <td>10年美债收益率上行较明显，需警惕对成长股估值造成压制。</td>
+</tr>
+<tr>
+  <td>HYG</td>
+  <td>风险</td>
+  <td>HYG 走弱，说明信用偏好有所收缩。</td>
+</tr>
+<tr>
+  <td>LQD</td>
+  <td>风险</td>
+  <td>LQD 转弱，需留意信用与利率环境的共同压力。</td>
+</tr>
+      </tbody>
+    </table>
+
+    <h2>操作建议</h2>
+    <div class="card">
+      <div class="action-title">核心仓</div>
+      <div class="action-text">核心仓以保守处理为主，不宜在高波动阶段扩大总风险暴露。</div>
+    </div>
+    <div class="card">
+      <div class="action-title">趋势仓</div>
+      <div class="action-text">趋势仓应明显收缩，只保留最强主线，弱势仓位优先处理。</div>
+    </div>
+    <div class="card">
+      <div class="action-title">防守仓</div>
+      <div class="action-text">防守仓、黄金和低波动方向应明显提高权重，用于稳定组合。</div>
+    </div>
+    <div class="card">
+      <div class="action-title">观察项</div>
+      <div class="action-text">重点观察 VIX、TNX、信用ETF 是否继续恶化，防止结构进一步破坏。</div>
+    </div>
   </div>
 </body>
 </html>

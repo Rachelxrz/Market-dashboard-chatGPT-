@@ -1,0 +1,154 @@
+{
+  "generated_at": "2026-03-08 20:13:42 UTC",
+  "regime": "Risk-off",
+  "risk_score": 4,
+  "internal_score": 16,
+  "summary": "当前结构偏防守，波动、利率或信用层面至少有多项指标同步施压，不宜激进扩张风险敞口。",
+  "market_snapshot": {
+    "SPY": {
+      "label": "SPY",
+      "price": 672.38,
+      "change": -13.610000000000014,
+      "change_pct": -1.9839939357716603,
+      "note": "美股大盘代理",
+      "ok": true
+    },
+    "QQQ": {
+      "label": "QQQ",
+      "price": 599.75,
+      "change": -7.539999999999964,
+      "change_pct": -1.2415814520245623,
+      "note": "科技成长代理",
+      "ok": true
+    },
+    "DIA": {
+      "label": "DIA",
+      "price": 475.23,
+      "change": -14.430000000000007,
+      "change_pct": -2.946942776620513,
+      "note": "道指代理",
+      "ok": true
+    },
+    "IWM": {
+      "label": "IWM",
+      "price": 250.89,
+      "change": -10.520000000000039,
+      "change_pct": -4.024329597184514,
+      "note": "小盘股代理",
+      "ok": true
+    },
+    "GLD": {
+      "label": "GLD",
+      "price": 473.51,
+      "change": -10.240000000000009,
+      "change_pct": -2.116795865633077,
+      "note": "黄金代理",
+      "ok": true
+    },
+    "SLV": {
+      "label": "SLV",
+      "price": 75.94,
+      "change": -9.049999999999997,
+      "change_pct": -10.648311566066592,
+      "note": "白银代理",
+      "ok": true
+    },
+    "USO": {
+      "label": "USO",
+      "price": 108.77,
+      "change": 26.819999999999993,
+      "change_pct": 32.72727272727272,
+      "note": "原油代理",
+      "ok": true
+    },
+    "UUP": {
+      "label": "UUP",
+      "price": 27.47,
+      "change": 0.39000000000000057,
+      "change_pct": 1.4401772525849357,
+      "note": "美元代理",
+      "ok": true
+    },
+    "TNX": {
+      "label": "TNX",
+      "price": 4.133,
+      "change": 0.08499999999999996,
+      "change_pct": 2.099802371541501,
+      "note": "10年美债收益率代理",
+      "ok": true
+    },
+    "VIX": {
+      "label": "VIX",
+      "price": 29.49,
+      "change": 9.629999999999999,
+      "change_pct": 48.489425981873104,
+      "note": "波动率代理",
+      "ok": true
+    },
+    "HYG": {
+      "label": "HYG",
+      "price": 79.69,
+      "change": -1.0300000000000011,
+      "change_pct": -1.2760158572844416,
+      "note": "高收益债偏好",
+      "ok": true
+    },
+    "LQD": {
+      "label": "LQD",
+      "price": 110.16,
+      "change": -1.5200000000000102,
+      "change_pct": -1.3610315186246509,
+      "note": "投资级信用债",
+      "ok": true
+    }
+  },
+  "structure_monitor": {
+    "VIX": {
+      "status_level": "risk",
+      "status": "风险",
+      "comment": "VIX 已进入高波动区，说明风险厌恶明显上升。"
+    },
+    "SPY": {
+      "status_level": "risk",
+      "status": "风险",
+      "comment": "SPY 当日走弱较明显，说明该方向对当前结构的支持不足。"
+    },
+    "QQQ": {
+      "status_level": "risk",
+      "status": "风险",
+      "comment": "QQQ 当日走弱较明显，说明该方向对当前结构的支持不足。"
+    },
+    "GLD": {
+      "status_level": "risk",
+      "status": "风险",
+      "comment": "GLD 当日走弱较明显，说明该方向对当前结构的支持不足。"
+    },
+    "UUP": {
+      "status_level": "risk",
+      "status": "风险",
+      "comment": "UUP 当日走弱较明显，说明该方向对当前结构的支持不足。"
+    },
+    "TNX": {
+      "status_level": "risk",
+      "status": "风险",
+      "comment": "10年美债收益率上行较明显，需警惕对成长股估值造成压制。"
+    },
+    "HYG": {
+      "status_level": "risk",
+      "status": "风险",
+      "comment": "HYG 走弱，说明信用偏好有所收缩。"
+    },
+    "LQD": {
+      "status_level": "risk",
+      "status": "风险",
+      "comment": "LQD 转弱，需留意信用与利率环境的共同压力。"
+    }
+  },
+  "actions": {
+    "one_liner": "当前结构为 Risk-off，风险等级 4/5；VIX 29.49，QQQ -1.24%，GLD -2.12%。",
+    "core": "核心仓以保守处理为主，不宜在高波动阶段扩大总风险暴露。",
+    "trend": "趋势仓应明显收缩，只保留最强主线，弱势仓位优先处理。",
+    "defense": "防守仓、黄金和低波动方向应明显提高权重，用于稳定组合。",
+    "watchlist": "重点观察 VIX、TNX、信用ETF 是否继续恶化，防止结构进一步破坏。"
+  }
+}
