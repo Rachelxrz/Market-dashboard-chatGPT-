@@ -1,45 +1,101 @@
-name: Daily Dashboard Generator
+<!doctype html>
+<html lang="zh-CN">
+<head>
 
-on:
-  schedule:
-    # GitHub Actions 的 cron 是 UTC
-    # 你想要 8:00 AM ET：大约是 13:00 UTC（冬令时），夏令时是 12:00 UTC
-    # 先用 13:05 UTC 跑（冬令时准确），夏令时你可以改成 12:05 UTC
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-    - cron: "5 13 * * *"   # 09:05 EDT
-    - cron: "5 14 * * *"   # 09:05 EST
-  workflow_dispatch: {}
+<title>每日看板</title>
 
-permissions:
-  contents: write
+<style>
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+body{
+font-family:system-ui,-apple-system;
+background:#f5f7fb;
+padding:40px;
+}
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
+.container{
+max-width:800px;
+margin:auto;
+}
 
-      - name: Install deps
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+.card{
+background:white;
+border-radius:16px;
+padding:25px;
+border:1px solid #e5e7eb;
+margin-bottom:20px;
+}
 
-      - name: Generate daily files
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: |
-          python scripts/generate_daily.py
+button{
+padding:12px 20px;
+border:none;
+border-radius:10px;
+background:#2563eb;
+color:white;
+cursor:pointer;
+font-size:16px;
+}
 
-      - name: Commit & push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add daily manifest.json
-          git commit -m "Daily update" || echo "Nothing to commit"
-          git push
+.date{
+font-size:20px;
+margin-bottom:20px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="card">
+
+<div class="date" id="date"></div>
+
+<button onclick="openDoc('market_brief')">
+市场简报
+</button>
+
+<button onclick="openDoc('reading')">
+扩展阅读
+</button>
+
+<button onclick="openDoc('structure')">
+结构监控
+</button>
+
+</div>
+
+</div>
+
+<script>
+
+async function init(){
+
+const r=await fetch("./daily/manifest.json?t="+Date.now())
+
+const data=await r.json()
+
+const latest=data.latest
+
+document.getElementById("date").innerText="最新日期 "+latest
+
+window.latest=latest
+
+}
+
+function openDoc(type){
+
+location.href="viewer.html?date="+window.latest+"&doc="+type
+
+}
+
+init()
+
+</script>
+
+</body>
+</html>
