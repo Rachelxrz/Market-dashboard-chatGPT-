@@ -139,14 +139,18 @@ MARKET_SYMBOLS = {
     "SLV": {"label": "SLV", "kind": "etf", "note": "白银代理"},
     "USO": {"label": "USO", "kind": "etf", "note": "原油代理"},
     "UUP": {"label": "UUP", "kind": "etf", "note": "美元代理"},
-    "^TNX": {"label": "TNX", "kind": "index", "note": "10年美债收益率代理"},
-    "^VIX": {"label": "VIX", "kind": "index", "note": "波动率代理"},
-    "HYG": {"label": "HYG", "kind": "etf", "note": "高收益债偏好"},
-    "LQD": {"label": "LQD", "kind": "etf", "note": "投资级信用债"},
+
+    "^TNX": {"label": "TNX", "kind": "index", "note": "10年美债收益率"},
+    "^VIX": {"label": "VIX", "kind": "index", "note": "股市波动率"},
+    "^MOVE": {"label": "MOVE", "kind": "index", "note": "债券波动率"},
+
+    "HYG": {"label": "HYG", "kind": "etf", "note": "高收益债信用"},
+    "LQD": {"label": "LQD", "kind": "etf", "note": "投资级信用"},
+
     VLCC_PROXY_SYMBOL: {
         "label": "VLCC",
         "kind": "equity",
-        "note": f"VLCC 航运代理（当前映射: {VLCC_PROXY_SYMBOL}）"
+        "note": f"VLCC 航运代理（当前: {VLCC_PROXY_SYMBOL}）"
     },
 }
 
@@ -713,6 +717,18 @@ def classify_vix(vix_value):
         return "risk", "VIX 进入高波动区，通常意味着风险偏好明显收缩。"
     return "risk", "VIX 处于极高区间，结构上更应偏向防守。"
 
+    def classify_move(move_value):
+    if move_value is None:
+        return "watch", "MOVE 数据缺失。"
+
+    if move_value < 90:
+        return "normal", "债券市场波动率较低，利率环境稳定。"
+
+    if move_value < 120:
+        return "watch", "债券波动率上升，说明利率预期开始不稳定。"
+
+    return "risk", "MOVE 已进入高波动区，利率市场出现明显压力。"
+
 
 def classify_by_change_pct(label, change_pct, positive_good=True):
     if change_pct is None:
@@ -768,6 +784,7 @@ def risk_level_to_score(level: str) -> int:
 
 def build_structure_monitor(snapshot: dict):
     vix_price = snapshot.get("VIX", {}).get("price")
+    move_price = snapshot.get("MOVE", {}).get("price")
     spy_chg = snapshot.get("SPY", {}).get("change_pct")
     qqq_chg = snapshot.get("QQQ", {}).get("change_pct")
     gld_chg = snapshot.get("GLD", {}).get("change_pct")
@@ -780,37 +797,75 @@ def build_structure_monitor(snapshot: dict):
     items = {}
 
     level, comment = classify_vix(vix_price)
-    items["VIX"] = {"status_level": level, "status": status_text(level), "comment": comment}
+    items["VIX"] = {
+        "status_level": level,
+        "status": status_text(level),
+        "comment": comment
+    }
+
+    level, comment = classify_move(move_price)
+    items["MOVE"] = {
+        "status_level": level,
+        "status": status_text(level),
+        "comment": comment
+    }
 
     level, comment = classify_by_change_pct("SPY", spy_chg, positive_good=True)
-    items["SPY"] = {"status_level": level, "status": status_text(level), "comment": comment}
+    items["SPY"] = {
+        "status_level": level,
+        "status": status_text(level),
+        "comment": comment
+    }
 
     level, comment = classify_by_change_pct("QQQ", qqq_chg, positive_good=True)
-    items["QQQ"] = {"status_level": level, "status": status_text(level), "comment": comment}
+    items["QQQ"] = {
+        "status_level": level,
+        "status": status_text(level),
+        "comment": comment
+    }
 
     level, comment = classify_by_change_pct("GLD", gld_chg, positive_good=True)
-    items["GLD"] = {"status_level": level, "status": status_text(level), "comment": comment}
+    items["GLD"] = {
+        "status_level": level,
+        "status": status_text(level),
+        "comment": comment
+    }
 
     level, comment = classify_by_change_pct("UUP", uup_chg, positive_good=False)
-    items["UUP"] = {"status_level": level, "status": status_text(level), "comment": comment}
+    items["UUP"] = {
+        "status_level": level,
+        "status": status_text(level),
+        "comment": comment
+    }
 
     level, comment = classify_tnx(tnx_chg, tnx_price)
-    items["TNX"] = {"status_level": level, "status": status_text(level), "comment": comment}
+    items["TNX"] = {
+        "status_level": level,
+        "status": status_text(level),
+        "comment": comment
+    }
 
     level, comment = classify_hyg(hyg_chg)
-    items["HYG"] = {"status_level": level, "status": status_text(level), "comment": comment}
+    items["HYG"] = {
+        "status_level": level,
+        "status": status_text(level),
+        "comment": comment
+    }
 
     level, comment = classify_lqd(lqd_chg)
-    items["LQD"] = {"status_level": level, "status": status_text(level), "comment": comment}
+    items["LQD"] = {
+        "status_level": level,
+        "status": status_text(level),
+        "comment": comment
+    }
 
     return items
-
 
 def build_regime(structure_monitor: dict):
     total = 0
     for v in structure_monitor.values():
-        total += risk_level_to_score(v["status_level"])
-
+    total += risk_level_to_score(v["status_level"])
+    
     # 0-3 低风险；4-7 中性；8+ 风险偏高
     if total <= 3:
         regime = "Risk-on"
@@ -879,7 +934,7 @@ def summary_from_actions(regime, risk_score, vix, qqq_chg, gld_chg, vlcc_chg_3d)
 
 def build_market_snapshot():
     raw = fetch_market_snapshot()
-    order = ["SPY", "QQQ", "DIA", "IWM", "GLD", "SLV", "USO", "UUP", "TNX", "VIX", "HYG", "LQD", "VLCC"]
+    order = ["SPY","QQQ","DIA","IWM","GLD","SLV","USO","UUP","TNX","MOVE","VIX","HYG","LQD","VLCC"]
     out = {}
     for label in order:
         item = raw.get(label, {})
@@ -942,7 +997,7 @@ def render_snapshot_cards(snapshot: dict) -> str:
 
 
 def render_monitor_table(structure_monitor: dict) -> str:
-    order = ["VIX", "SPY", "QQQ", "GLD", "UUP", "TNX", "HYG", "LQD"]
+    order = ["VIX","MOVE","TNX","SPY","QQQ","GLD","UUP","HYG","LQD"]
     rows = []
     for key in order:
         item = structure_monitor.get(key, {})
@@ -1242,6 +1297,7 @@ if __name__ == "__main__":
     except Exception:
         traceback.print_exc()
         raise
+
 
 
 
