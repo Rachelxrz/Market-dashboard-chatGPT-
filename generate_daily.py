@@ -717,7 +717,7 @@ def classify_vix(vix_value):
         return "risk", "VIX 进入高波动区，通常意味着风险偏好明显收缩。"
     return "risk", "VIX 处于极高区间，结构上更应偏向防守。"
 
-    def classify_move(move_value):
+def classify_move(move_value):
     if move_value is None:
         return "watch", "MOVE 数据缺失。"
 
@@ -978,7 +978,7 @@ def write_monitor_json(payload: dict):
 
 
 def render_snapshot_cards(snapshot: dict) -> str:
-    order = ["SPY", "QQQ", "DIA", "IWM", "GLD", "SLV", "USO", "UUP", "TNX", "VIX", "HYG", "LQD", "VLCC"]
+    order = ["SPY","QQQ","DIA","IWM","GLD","SLV","USO","UUP","TNX","MOVE","VIX","HYG","LQD","VLCC"]
     cards = []
     for label in order:
         item = snapshot.get(label, {})
@@ -1297,6 +1297,7 @@ if __name__ == "__main__":
     except Exception:
         traceback.print_exc()
         raise
+
 
 
 
