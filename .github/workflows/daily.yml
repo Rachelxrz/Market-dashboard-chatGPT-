@@ -1,101 +1,46 @@
-<!doctype html>
-<html lang="zh-CN">
-<head>
+name: Daily Dashboard
 
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+on:
+  schedule:
+    # 09:00 America/New_York
+    # EST = 14:00 UTC, EDT = 13:00 UTC
+    # GitHub Actions 不支持直接写时区，所以这里同时覆盖冬令时/夏令时
+    - cron: '0 14 * * *'
+    - cron: '0 13 * * *'
+  workflow_dispatch:
 
-<title>每日看板</title>
+permissions:
+  contents: write
 
-<style>
+jobs:
+  build-daily:
+    runs-on: ubuntu-latest
 
-body{
-font-family:system-ui,-apple-system;
-background:#f5f7fb;
-padding:40px;
-}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-.container{
-max-width:800px;
-margin:auto;
-}
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
-.card{
-background:white;
-border-radius:16px;
-padding:25px;
-border:1px solid #e5e7eb;
-margin-bottom:20px;
-}
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-button{
-padding:12px 20px;
-border:none;
-border-radius:10px;
-background:#2563eb;
-color:white;
-cursor:pointer;
-font-size:16px;
-}
+      - name: Generate daily files
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          TZ: America/New_York
+        run: |
+          python generate_daily.py
 
-.date{
-font-size:20px;
-margin-bottom:20px;
-}
-
-</style>
-
-</head>
-
-<body>
-
-<div class="container">
-
-<div class="card">
-
-<div class="date" id="date"></div>
-
-<button onclick="openDoc('market_brief')">
-市场简报
-</button>
-
-<button onclick="openDoc('reading')">
-扩展阅读
-</button>
-
-<button onclick="openDoc('structure')">
-结构监控
-</button>
-
-</div>
-
-</div>
-
-<script>
-
-async function init(){
-
-const r=await fetch("./daily/manifest.json?t="+Date.now())
-
-const data=await r.json()
-
-const latest=data.latest
-
-document.getElementById("date").innerText="最新日期 "+latest
-
-window.latest=latest
-
-}
-
-function openDoc(type){
-
-location.href="viewer.html?date="+window.latest+"&doc="+type
-
-}
-
-init()
-
-</script>
-
-</body>
-</html>
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --cached --quiet || git commit -m "daily update"
+          git push
