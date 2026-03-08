@@ -92,22 +92,10 @@
     h3{font-size:20px}
     h4{font-size:18px}
 
-    p{
-      margin:0 0 1em;
-    }
-
-    ul,ol{
-      padding-left:1.5em;
-      margin:0 0 1em;
-    }
-
-    li{
-      margin:.35em 0;
-    }
-
-    a{
-      color:var(--link);
-    }
+    p{ margin:0 0 1em; }
+    ul,ol{ padding-left:1.5em; margin:0 0 1em; }
+    li{ margin:.35em 0; }
+    a{ color:var(--link); }
 
     blockquote{
       margin:1em 0;
@@ -132,11 +120,7 @@
       font-size:.95em;
     }
 
-    pre code{
-      background:transparent;
-      padding:0;
-    }
-
+    pre code{ background:transparent; padding:0; }
     :not(pre) > code{
       background:#f2f4f7;
       padding:.15em .4em;
@@ -157,15 +141,8 @@
       vertical-align:top;
     }
 
-    th{
-      background:#f8fafc;
-    }
-
-    img{
-      max-width:100%;
-      height:auto;
-      border-radius:10px;
-    }
+    th{ background:#f8fafc; }
+    img{ max-width:100%; height:auto; border-radius:10px; }
 
     .error{
       color:var(--danger);
@@ -173,10 +150,7 @@
       margin-bottom:10px;
     }
 
-    .hint{
-      color:var(--muted);
-      font-size:14px;
-    }
+    .hint{ color:var(--muted); font-size:14px; }
 
     .pathbox{
       margin-top:10px;
@@ -190,7 +164,6 @@
     }
   </style>
 
-  <!-- Markdown 渲染 -->
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
@@ -214,57 +187,63 @@
 
     function escapeHtml(str) {
       return String(str).replace(/[&<>"']/g, function (m) {
-        return ({
-          '&': '&amp;',
-          '<': '&lt;',
-          '>': '&gt;',
-          '"': '&quot;',
-          "'": '&#39;'
-        })[m];
+        return ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'})[m];
       });
     }
 
     function normalizeDoc(doc) {
       if (!doc) return 'reading';
-
       const d = String(doc).trim().toLowerCase();
 
-      if (['reading', 'read', 'daily_reading', 'expand', 'expanded', 'extension'].includes(d)) {
+      if (['reading','read','daily_reading','expand','expanded','extension','extended','extended_reading'].includes(d)) {
         return 'reading';
       }
-      if (['structure', 'monitor', 'risk', 'dashboard'].includes(d)) {
+      if (['market','brief','market_brief','news'].includes(d)) {
+        return 'market';
+      }
+      if (['structure','monitor','risk','dashboard','structure_monitor'].includes(d)) {
         return 'structure';
       }
-
       return d;
     }
 
     function labelOf(doc) {
-      return doc === 'structure' ? '结构监控' : '每日扩展阅读';
+      if (doc === 'market') return '市场简报';
+      if (doc === 'structure') return '结构监控';
+      return '每日扩展阅读';
     }
 
     async function fetchText(path) {
       const res = await fetch(path + '?v=' + Date.now(), { cache: 'no-store' });
-      if (!res.ok) {
-        throw new Error(`HTTP ${res.status} ${res.statusText}`);
-      }
+      if (!res.ok) throw new Error(`HTTP ${res.status} ${res.statusText}`);
       return await res.text();
     }
 
     function renderMarkdown(md) {
       if (window.marked && typeof marked.parse === 'function') {
-        marked.setOptions({
-          breaks: true,
-          gfm: true
-        });
+        marked.setOptions({ breaks: true, gfm: true });
         return marked.parse(md);
       }
       return '<pre>' + escapeHtml(md) + '</pre>';
     }
 
+    function candidatePaths(date, doc) {
+      const groups = {
+        reading: ['extended_reading.md','reading.md','extended.md'],
+        market: ['market_brief.md','news.md','brief.md'],
+        structure: ['structure.md','structure_monitor.md']
+      };
+      const names = groups[doc] || [`${doc}.md`];
+      return names.flatMap(name => [
+        `./daily/${date}/${name}`,
+        `daily/${date}/${name}`,
+        `./${date}/${name}`,
+        `${date}/${name}`
+      ]);
+    }
+
     async function tryPaths(paths) {
       const errors = [];
-
       for (const path of paths) {
         try {
           const text = await fetchText(path);
@@ -273,7 +252,6 @@
           errors.push(`${path} -> ${err.message}`);
         }
       }
-
       throw new Error(errors.join('\n'));
     }
 
@@ -281,12 +259,10 @@
       const rawDate = getParam('date') || '';
       const rawDoc = getParam('doc') || getParam('type') || 'reading';
       const doc = normalizeDoc(rawDoc);
-
       const date = rawDate.trim();
       const label = labelOf(doc);
 
-      document.getElementById('meta').textContent =
-        `${date || '未指定日期'} · ${label}`;
+      document.getElementById('meta').textContent = `${date || '未指定日期'} · ${label}`;
 
       const statusEl = document.getElementById('status');
       const contentEl = document.getElementById('content');
@@ -297,26 +273,16 @@
           <div class="error">页面参数不完整</div>
           <p>请用类似下面的地址打开：</p>
           <div class="pathbox">viewer.html?date=2026-03-06&doc=reading</div>
-          <p class="hint">如果看结构监控，把 doc 改成 structure。</p>
+          <p class="hint">如果看结构监控，把 doc 改成 structure；如果看市场简报，把 doc 改成 market。</p>
         `;
         return;
       }
 
-      const candidatePaths = [
-        `./daily/${date}/${doc}.md`,
-        `daily/${date}/${doc}.md`,
-        `./${date}/${doc}.md`,
-        `${date}/${doc}.md`,
-        `./daily/${date}/${doc}.markdown`,
-        `daily/${date}/${doc}.markdown`,
-        `./daily/${date}/${label}.md`,
-        `daily/${date}/${label}.md`
-      ];
+      const paths = candidatePaths(date, doc);
 
       try {
         statusEl.textContent = '正在读取 Markdown 文件...';
-
-        const result = await tryPaths(candidatePaths);
+        const result = await tryPaths(paths);
         const md = (result.text || '').trim();
 
         if (!md) {
@@ -338,13 +304,7 @@
           <div class="error">内容加载失败</div>
           <p>下面这些路径都尝试过，但都没有成功：</p>
           <div class="pathbox">${escapeHtml(err.message)}</div>
-          <p class="hint">
-            请重点检查：
-            1）是否真的存在 <code>daily/${escapeHtml(date)}/${escapeHtml(doc)}.md</code>；
-            2）GitHub Pages 部署后目录是否一致；
-            3）文件名是否是 <code>reading.md</code> 而不是别的名字；
-            4）是否大小写不一致。
-          </p>
+          <p class="hint">请检查 daily/${escapeHtml(date)}/ 目录里是否真的存在对应 md 文件。</p>
         `;
       }
     }
