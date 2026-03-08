@@ -3,10 +3,11 @@ name: Daily Dashboard
 on:
   schedule:
     # 09:00 America/New_York
-    # EST = 14:00 UTC, EDT = 13:00 UTC
-    # GitHub Actions 不支持直接写时区，所以这里同时覆盖冬令时/夏令时
-    - cron: '0 14 * * *'
+    # GitHub Actions 只支持 UTC，所以同时覆盖夏令时/冬令时
+    # EDT = 13:00 UTC
+    # EST = 14:00 UTC
     - cron: '0 13 * * *'
+    - cron: '0 14 * * *'
   workflow_dispatch:
 
 permissions:
@@ -17,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -25,23 +26,50 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Show current time
+        run: |
+          echo "UTC time:"
+          date -u
+          echo "New York time:"
+          TZ=America/New_York date
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            pip install openai feedparser python-dateutil requests
+          fi
+
+      - name: Ensure docs directory exists
+        run: mkdir -p docs
 
       - name: Generate daily files
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-4o-mini
           TZ: America/New_York
         run: |
           python generate_daily.py
 
-      - name: Commit and push if changed
+      - name: Verify generated files
+        run: |
+          echo "Generated files:"
+          ls -lah docs || true
+          test -f docs/index.html
+          test -f docs/daily.json
+
+      - name: Commit and push generated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
-          git diff --cached --quiet || git commit -m "daily update"
-          git push
+
+          git add docs/
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update daily dashboard"
+            git push
+          fi
