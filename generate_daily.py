@@ -1,95 +1,131 @@
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
 """
 generate_daily.py
 
-用途：
-1. 生成 daily/YYYY-MM-DD/market_brief.md
-2. 生成 daily/YYYY-MM-DD/extended_reading.md
-3. 生成 daily/YYYY-MM-DD/structure.md
-4. 更新 daily/manifest.json
+功能：
+1. 抓取最近 24 小时内的新闻
+2. 按板块输出：投资 / 健康 / 心理哲学 / AI科技 / 美学
+3. 每个板块尽量输出 10 条新闻
+4. 每条新闻生成 3-5 句中文分析
+5. 生成 docs/daily.json
+6. 生成 docs/index.html
 
-说明：
-- 尽量使用公开可访问数据源（Yahoo Finance Chart API + Google News RSS）。
-- 若部分抓取失败，会自动降级，不让 GitHub Action 整体失败。
-- 输出内容与当前 viewer.html 的路径兼容：
-    ./daily/{date}/market_brief.md
-    ./daily/{date}/extended_reading.md
-    ./daily/{date}/structure.md
+环境变量：
+- OPENAI_API_KEY   必填（用于生成中文分析）
+- OPENAI_MODEL     可选，默认 gpt-4o-mini
+- TZ               可选，默认 America/New_York
+
+依赖：
+pip install openai feedparser python-dateutil requests
 """
 
-from __future__ import annotations
-
-import json
-import math
 import os
 import re
-import textwrap
+import json
+import time
+import html
+import math
 import traceback
-from datetime import datetime, timezone
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
+from datetime import datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
 
+import feedparser
 import requests
-from xml.etree import ElementTree as ET
+from dateutil import parser as date_parser
+
+try:
+    from openai import OpenAI
+except Exception:
+    OpenAI = None
 
 
 # =========================
 # 基础配置
 # =========================
 
-ROOT = Path(".")
-DAILY_DIR = ROOT / "daily"
-TIMEOUT = 20
+BASE_DIR = Path(__file__).resolve().parent
+DOCS_DIR = BASE_DIR / "docs"
+DOCS_DIR.mkdir(parents=True, exist_ok=True)
 
-# 你可以按需扩展
-WATCHLIST = [
-    ("QQQ", "纳指ETF"),
-    ("SPY", "标普ETF"),
-    ("GLD", "黄金ETF"),
-    ("SLV", "白银ETF"),
-    ("USO", "原油ETF"),
-    ("XLE", "能源ETF"),
-    ("NVDA", "英伟达"),
-    ("GOOG", "谷歌"),
-    ("MPWR", "Monolithic Power"),
-]
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "").strip()
+OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini").strip()
+TIMEZONE_NAME = os.getenv("TZ", "America/New_York").strip()
 
-# 结构监控重点指标
-STRUCTURE_SYMBOLS = [
-    ("^VIX", "VIX"),
-    ("HYG", "高收益债(HYG)"),
-    ("LQD", "投资级债(LQD)"),
-    ("TLT", "长债(TLT)"),
-    ("UUP", "美元代理(UUP)"),
-    ("GLD", "黄金(GLD)"),
-    ("USO", "原油(USO)"),
-    ("QQQ", "科技风险偏好(QQQ)"),
-    ("SPY", "大盘风险偏好(SPY)"),
-]
+NOW_UTC = datetime.now(timezone.utc)
+CUTOFF_UTC = NOW_UTC - timedelta(hours=24)
 
-# Google News RSS 查询
-NEWS_QUERIES = {
-    "market": [
-        ("美股与宏观", "US stock market OR Federal Reserve OR Treasury yield OR inflation"),
-        ("黄金与油价", "gold OR crude oil OR Brent OR WTI"),
-        ("AI与科技龙头", "NVIDIA OR Google OR AI stocks"),
-        ("中东与能源", "Middle East oil shipping energy"),
-    ],
-    "investment": [
-        ("投资", "investing markets federal reserve earnings"),
-    ],
-    "health": [
-        ("健康与抗衰老", "healthy aging longevity metabolic health"),
-    ],
-    "philosophy": [
-        ("心理与哲学", "psychology philosophy wellbeing cognition"),
-    ],
-    "ai": [
-        ("AI", "artificial intelligence AI model semiconductor data center"),
-    ],
-    "aesthetics": [
-        ("美学与艺术", "art design exhibition aesthetics photography"),
-    ],
+USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/124.0 Safari/537.36 DailyDashboardBot/1.0"
+)
+
+REQUEST_TIMEOUT = 20
+TARGET_ITEMS_PER_SECTION = 10
+MAX_ITEMS_PER_FEED = 20
+MAX_SUMMARY_CHARS = 800
+
+# 若 OpenAI 可用则初始化
+client = OpenAI(api_key=OPENAI_API_KEY) if (OpenAI and OPENAI_API_KEY) else None
+
+
+# =========================
+# 新闻源配置
+# =========================
+
+SECTIONS = {
+    "投资": {
+        "description": "市场、宏观、利率、公司与资产价格",
+        "feeds": [
+            "https://feeds.reuters.com/reuters/businessNews",
+            "https://feeds.reuters.com/news/usmarkets",
+            "https://finance.yahoo.com/news/rssindex",
+            "https://www.investing.com/rss/news_25.rss",
+            "https://www.investing.com/rss/news_301.rss",
+            "https://www.marketwatch.com/rss/topstories",
+            "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+        ],
+    },
+    "健康": {
+        "description": "医学、营养、抗衰老、代谢与公共健康",
+        "feeds": [
+            "https://www.medicalnewstoday.com/rss",
+            "https://www.sciencedaily.com/rss/health_medicine.xml",
+            "https://www.sciencedaily.com/rss/mind_brain.xml",
+            "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
+        ],
+    },
+    "心理/哲学": {
+        "description": "心理学、行为、认知、哲学与意义讨论",
+        "feeds": [
+            "https://www.psychologytoday.com/us/rss",
+            "https://aeon.co/feed.rss",
+            "https://rss.nytimes.com/services/xml/rss/nyt/Mind.xml",
+            "https://www.sciencedaily.com/rss/mind_brain.xml",
+        ],
+    },
+    "AI 科技": {
+        "description": "AI、芯片、软件、科技产业与研究进展",
+        "feeds": [
+            "https://feeds.arstechnica.com/arstechnica/technology-lab",
+            "https://www.theverge.com/rss/index.xml",
+            "https://www.technologyreview.com/feed/",
+            "https://www.wired.com/feed/tag/ai/latest/rss",
+            "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        ],
+    },
+    "美学": {
+        "description": "艺术、设计、摄影、建筑、审美与文化",
+        "feeds": [
+            "https://www.designboom.com/feed/",
+            "https://www.dezeen.com/feed/",
+            "https://www.artnews.com/c/art-news/news/feed/",
+            "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml",
+        ],
+    },
 }
 
 
@@ -97,588 +133,465 @@ NEWS_QUERIES = {
 # 工具函数
 # =========================
 
-def ensure_dir(path: Path) -> None:
-    path.mkdir(parents=True, exist_ok=True)
+def log(msg: str):
+    print(f"[generate_daily] {msg}", flush=True)
 
 
-def now_utc_iso() -> str:
-    return datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+def clean_text(text: str) -> str:
+    if not text:
+        return ""
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = html.unescape(text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text
 
 
-def today_str() -> str:
-    return datetime.now().strftime("%Y-%m-%d")
+def short_text(text: str, limit: int = 280) -> str:
+    text = clean_text(text)
+    if len(text) <= limit:
+        return text
+    return text[: limit - 1].rstrip() + "…"
 
 
-def safe_get(url: str, params: Optional[dict] = None, headers: Optional[dict] = None) -> Optional[requests.Response]:
-    try:
-        r = requests.get(url, params=params, headers=headers, timeout=TIMEOUT)
-        r.raise_for_status()
-        return r
-    except Exception:
-        return None
-
-
-def clean_text(s: str) -> str:
-    s = re.sub(r"<[^>]+>", "", s or "")
-    s = s.replace("&nbsp;", " ").replace("&amp;", "&").replace("&#39;", "'").replace("&quot;", '"')
-    s = re.sub(r"\s+", " ", s).strip()
-    return s
-
-
-def pct_str(v: Optional[float]) -> str:
-    if v is None or math.isnan(v):
-        return "N/A"
-    sign = "+" if v >= 0 else ""
-    return f"{sign}{v:.2f}%"
-
-
-def num_str(v: Optional[float], digits: int = 2) -> str:
-    if v is None or math.isnan(v):
-        return "N/A"
-    return f"{v:.{digits}f}"
-
-
-def bullet_join(items: List[str]) -> str:
-    return "\n".join(f"- {x}" for x in items)
-
-
-def wrap(s: str, width: int = 100) -> str:
-    return textwrap.fill(s, width=width)
-
-
-# =========================
-# Yahoo Finance 数据
-# =========================
-
-def fetch_yahoo_quote(symbol: str) -> Dict[str, Optional[float]]:
+def parse_entry_datetime(entry) -> datetime | None:
     """
-    使用 Yahoo Finance chart endpoint 获取近 5 天数据
+    尽量兼容不同 RSS 字段：
+    - published_parsed
+    - updated_parsed
+    - published
+    - updated
     """
-    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}"
-    params = {
-        "range": "5d",
-        "interval": "1d",
-        "includePrePost": "false",
-        "events": "div,splits",
-    }
-    headers = {
-        "User-Agent": "Mozilla/5.0"
-    }
+    candidates = []
 
-    r = safe_get(url, params=params, headers=headers)
-    if not r:
-        return {
-            "price": None,
-            "prev_close": None,
-            "change_pct": None,
-            "high": None,
-            "low": None,
-        }
+    if getattr(entry, "published_parsed", None):
+        try:
+            t = entry.published_parsed
+            return datetime(*t[:6], tzinfo=timezone.utc)
+        except Exception:
+            pass
 
+    if getattr(entry, "updated_parsed", None):
+        try:
+            t = entry.updated_parsed
+            return datetime(*t[:6], tzinfo=timezone.utc)
+        except Exception:
+            pass
+
+    for key in ("published", "updated", "created"):
+        val = getattr(entry, key, None)
+        if val:
+            candidates.append(val)
+
+    for val in candidates:
+        try:
+            dt = parsedate_to_datetime(val)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt.astimezone(timezone.utc)
+        except Exception:
+            pass
+        try:
+            dt = date_parser.parse(val)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt.astimezone(timezone.utc)
+        except Exception:
+            pass
+
+    return None
+
+
+def normalize_url(url: str) -> str:
+    if not url:
+        return ""
+    url = url.strip()
+    url = re.sub(r"#.*$", "", url)
+    return url
+
+
+def article_key(title: str, url: str) -> str:
+    t = re.sub(r"\W+", "", (title or "").lower())
+    u = normalize_url(url).lower()
+    return f"{t[:120]}|{u[:200]}"
+
+
+def is_recent(dt: datetime | None) -> bool:
+    if not dt:
+        return False
+    return dt >= CUTOFF_UTC
+
+
+def fetch_url_text(url: str) -> str:
+    """
+    尝试抓文章正文前几千字，失败则返回空字符串。
+    不依赖第三方正文提取库，尽量保持 GitHub Actions 稳定。
+    """
     try:
-        data = r.json()
-        result = data["chart"]["result"][0]
-        quote = result["indicators"]["quote"][0]
-        closes = quote.get("close", []) or []
-        highs = quote.get("high", []) or []
-        lows = quote.get("low", []) or []
-
-        valid_closes = [x for x in closes if x is not None]
-        valid_highs = [x for x in highs if x is not None]
-        valid_lows = [x for x in lows if x is not None]
-
-        price = valid_closes[-1] if valid_closes else None
-        prev_close = valid_closes[-2] if len(valid_closes) >= 2 else None
-        change_pct = None
-        if price is not None and prev_close not in (None, 0):
-            change_pct = (price / prev_close - 1) * 100
-
-        high = valid_highs[-1] if valid_highs else None
-        low = valid_lows[-1] if valid_lows else None
-
-        return {
-            "price": price,
-            "prev_close": prev_close,
-            "change_pct": change_pct,
-            "high": high,
-            "low": low,
-        }
+        headers = {"User-Agent": USER_AGENT}
+        resp = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT)
+        resp.raise_for_status()
+        text = resp.text or ""
+        text = clean_text(text)
+        return short_text(text, limit=3000)
     except Exception:
-        return {
-            "price": None,
-            "prev_close": None,
-            "change_pct": None,
-            "high": None,
-            "low": None,
-        }
+        return ""
 
 
-def fetch_quotes(symbols: List[Tuple[str, str]]) -> Dict[str, Dict[str, Optional[float]]]:
-    out = {}
-    for sym, _name in symbols:
-        out[sym] = fetch_yahoo_quote(sym)
-    return out
-
-
-# =========================
-# Google News RSS
-# =========================
-
-def google_news_rss_url(query: str, hl: str = "zh-CN", gl: str = "US", ceid: str = "US:zh-Hans") -> str:
-    # Google News RSS 搜索
-    return f"https://news.google.com/rss/search?q={requests.utils.quote(query)}&hl={hl}&gl={gl}&ceid={ceid}"
-
-
-def fetch_rss_items(url: str, limit: int = 10) -> List[Dict[str, str]]:
-    r = safe_get(url, headers={"User-Agent": "Mozilla/5.0"})
-    if not r:
-        return []
-
+def fetch_feed_items(feed_url: str, max_items: int = MAX_ITEMS_PER_FEED) -> list[dict]:
+    """
+    从单个 RSS 获取最近24小时内的候选新闻。
+    """
+    items = []
     try:
-        root = ET.fromstring(r.text)
-        items = []
-        for item in root.findall(".//item")[:limit]:
-            title = clean_text(item.findtext("title", ""))
-            link = clean_text(item.findtext("link", ""))
-            pub = clean_text(item.findtext("pubDate", ""))
-            desc = clean_text(item.findtext("description", ""))
+        feed = feedparser.parse(feed_url)
+        entries = getattr(feed, "entries", []) or []
+        for entry in entries[:max_items]:
+            title = clean_text(getattr(entry, "title", ""))
+            link = normalize_url(getattr(entry, "link", ""))
+            summary = clean_text(getattr(entry, "summary", "") or getattr(entry, "description", ""))
+            published_dt = parse_entry_datetime(entry)
+
+            if not title or not link or not published_dt:
+                continue
+            if not is_recent(published_dt):
+                continue
+
+            source = ""
+            try:
+                source = clean_text(feed.feed.get("title", "")) if getattr(feed, "feed", None) else ""
+            except Exception:
+                source = ""
+
             items.append({
                 "title": title,
                 "link": link,
-                "pubDate": pub,
-                "description": desc,
+                "summary": short_text(summary, 500),
+                "published_dt": published_dt,
+                "published_utc": published_dt.strftime("%Y-%m-%d %H:%M UTC"),
+                "source": source or "RSS",
             })
-        return items
-    except Exception:
-        return []
+    except Exception as e:
+        log(f"抓取 RSS 失败: {feed_url} | {e}")
+    return items
 
 
-def fetch_news_by_queries(pairs: List[Tuple[str, str]], per_query: int = 3) -> List[Dict[str, str]]:
-    all_items: List[Dict[str, str]] = []
+def dedupe_items(items: list[dict]) -> list[dict]:
     seen = set()
-
-    for _label, q in pairs:
-        url = google_news_rss_url(q)
-        items = fetch_rss_items(url, limit=per_query + 2)
-        for it in items:
-            key = it["title"].strip().lower()
-            if key and key not in seen:
-                seen.add(key)
-                all_items.append(it)
-
-    return all_items
+    out = []
+    for item in sorted(items, key=lambda x: x["published_dt"], reverse=True):
+        k = article_key(item["title"], item["link"])
+        if k in seen:
+            continue
+        seen.add(k)
+        out.append(item)
+    return out
 
 
-# =========================
-# 内容生成逻辑
-# =========================
+def fallback_analysis(title: str, summary: str, section: str) -> str:
+    """
+    没有 OpenAI Key 或调用失败时的兜底分析。
+    保证仍然是 3-5 句话，不会只剩一句模板。
+    """
+    summary = summary or ""
+    parts = []
 
-def summarize_market(quotes: Dict[str, Dict[str, Optional[float]]]) -> List[str]:
-    lines = []
-
-    def q(sym: str) -> Dict[str, Optional[float]]:
-        return quotes.get(sym, {})
-
-    qqq = q("QQQ")
-    spy = q("SPY")
-    gld = q("GLD")
-    uso = q("USO")
-    xle = q("XLE")
-    nvda = q("NVDA")
-    goog = q("GOOG")
-    mpwr = q("MPWR")
-
-    lines.append(
-        f"美股风险资产方面，QQQ报 {num_str(qqq.get('price'))}，日变动 {pct_str(qqq.get('change_pct'))}；"
-        f"SPY报 {num_str(spy.get('price'))}，日变动 {pct_str(spy.get('change_pct'))}。"
-        f"这能帮助快速判断当天市场对成长股与大盘的偏好强弱。"
-    )
-
-    lines.append(
-        f"避险与大宗方面，GLD报 {num_str(gld.get('price'))}，日变动 {pct_str(gld.get('change_pct'))}；"
-        f"USO报 {num_str(uso.get('price'))}，日变动 {pct_str(uso.get('change_pct'))}；"
-        f"XLE报 {num_str(xle.get('price'))}，日变动 {pct_str(xle.get('change_pct'))}。"
-        f"黄金、原油与能源股三者的同步或背离，往往能反映市场对通胀、地缘与增长预期的变化。"
-    )
-
-    lines.append(
-        f"你较关注的科技股里，NVDA报 {num_str(nvda.get('price'))}，日变动 {pct_str(nvda.get('change_pct'))}；"
-        f"GOOG报 {num_str(goog.get('price'))}，日变动 {pct_str(goog.get('change_pct'))}；"
-        f"MPWR报 {num_str(mpwr.get('price'))}，日变动 {pct_str(mpwr.get('change_pct'))}。"
-        f"若龙头与指数同向，说明趋势较健康；若龙头显著弱于指数，则要防范结构性松动。"
-    )
-
-    return lines
-
-
-def structure_assessment(quotes: Dict[str, Dict[str, Optional[float]]]) -> Tuple[str, List[str]]:
-    def get(sym: str, field: str = "price") -> Optional[float]:
-        return quotes.get(sym, {}).get(field)
-
-    vix = get("^VIX")
-    hyg = get("HYG")
-    lqd = get("LQD")
-    tlt = get("TLT")
-    uup = get("UUP")
-    gld = get("GLD")
-    uso = get("USO")
-    qqq = get("QQQ")
-    spy = get("SPY")
-
-    score = 0
-    reasons = []
-
-    # VIX
-    if vix is not None:
-        if vix < 18:
-            score += 2
-            reasons.append(f"VIX={vix:.2f}，波动压力较低。")
-        elif vix < 24:
-            score += 1
-            reasons.append(f"VIX={vix:.2f}，仍处可控区间。")
-        elif vix < 30:
-            reasons.append(f"VIX={vix:.2f}，市场开始进入偏谨慎状态。")
-        else:
-            score -= 2
-            reasons.append(f"VIX={vix:.2f}，波动显著抬升，需警惕风险扩散。")
+    parts.append(f"这条{section}新闻值得关注，因为它反映了该板块最近 24 小时内的一个具体变化。")
+    if summary:
+        parts.append(f"从公开摘要看，核心线索是：{short_text(summary, 140)}")
     else:
-        reasons.append("VIX 数据缺失。")
+        parts.append(f"从标题看，核心线索集中在“{title}”这一主题，说明市场或舆论正在围绕这一点形成关注。")
+    parts.append("对你来说，真正重要的不是单条标题本身，而是它是否会在未来几天持续发酵并影响预期、估值或情绪。")
+    parts.append("如果同类信息连续出现，就更可能意味着这是趋势信号，而不是一次性噪音。")
 
-    # HYG vs LQD
-    if hyg is not None and lqd is not None:
-        ratio = hyg / lqd if lqd else None
-        if ratio is not None:
-            if ratio > 0.82:
-                score += 1
-                reasons.append(f"HYG/LQD≈{ratio:.3f}，信用偏好仍在。")
-            elif ratio > 0.80:
-                reasons.append(f"HYG/LQD≈{ratio:.3f}，信用环境中性。")
-            else:
-                score -= 1
-                reasons.append(f"HYG/LQD≈{ratio:.3f}，信用承受力偏弱。")
-    else:
-        reasons.append("HYG/LQD 数据不完整。")
-
-    # 美元
-    if uup is not None:
-        if uup < 29.5:
-            score += 1
-            reasons.append(f"UUP={uup:.2f}，美元压力不强。")
-        elif uup > 30.5:
-            score -= 1
-            reasons.append(f"UUP={uup:.2f}，美元偏强会压制风险资产。")
-
-    # 黄金/原油
-    if gld is not None and uso is not None:
-        if gld > 0 and uso > 0:
-            reasons.append(f"黄金(GLD)={gld:.2f}，原油(USO)={uso:.2f}，可用于观察避险与通胀线索。")
-
-    # 指数方向
-    qqq_chg = quotes.get("QQQ", {}).get("change_pct")
-    spy_chg = quotes.get("SPY", {}).get("change_pct")
-    if qqq_chg is not None and spy_chg is not None:
-        if qqq_chg > 0 and spy_chg > 0:
-            score += 1
-            reasons.append("QQQ 与 SPY 同步走强，风险偏好较稳定。")
-        elif qqq_chg < 0 and spy_chg < 0:
-            score -= 1
-            reasons.append("QQQ 与 SPY 同步走弱，需观察是否演变为连续性回撤。")
-
-    # TLT
-    if tlt is not None:
-        reasons.append(f"TLT={tlt:.2f}，可作为长端利率与避险方向的观察代理。")
-
-    if score >= 3:
-        regime = "偏风险开启（Risk-On）"
-    elif score >= 1:
-        regime = "中性偏积极"
-    elif score >= -1:
-        regime = "中性偏谨慎"
-    else:
-        regime = "偏防御（Risk-Off）"
-
-    return regime, reasons
+    return "\n".join(parts[:4])
 
 
-def format_news_section(items: List[Dict[str, str]], max_items: int = 10) -> str:
-    if not items:
-        return "- 今日未成功抓取到新闻，可稍后重跑 workflow。\n"
+def gpt_analysis(title: str, summary: str, body_text: str, section: str, source: str) -> str:
+    """
+    让 GPT 生成 3-5 句中文分析。
+    """
+    if not client:
+        return fallback_analysis(title, summary, section)
 
-    lines = []
-    for idx, it in enumerate(items[:max_items], start=1):
-        title = it.get("title", "").strip()
-        link = it.get("link", "").strip()
-        pub = it.get("pubDate", "").strip()
-        desc = it.get("description", "").strip()
+    prompt = f"""
+你是一位严谨的中文资讯编辑。请根据下面新闻信息，写出 3-5 句话的中文分析。
 
-        desc_short = desc[:180] + ("..." if len(desc) > 180 else "")
-        if link:
-            lines.append(f"{idx}. [{title}]({link})")
-        else:
-            lines.append(f"{idx}. {title}")
-        if pub:
-            lines.append(f"   - 时间：{pub}")
-        if desc_short:
-            lines.append(f"   - 摘要：{desc_short}")
+要求：
+1. 必须是中文。
+2. 必须是 3-5 句完整句子，不要只有一句。
+3. 不要空话，不要重复标题，不要写“这条新闻值得注意”之类模板句。
+4. 要概括：发生了什么、为什么重要、可能影响什么。
+5. 面向高信息密度读者，语言清晰、简洁、具体。
+6. 不要编造未提供的事实；不确定时用“从目前公开信息看”这样的表述。
+7. 输出纯文本，不要项目符号，不要编号。
 
-    return "\n".join(lines) + "\n"
+板块：{section}
+来源：{source}
+标题：{title}
+摘要：{summary or "无"}
+可用正文片段：{body_text or "无"}
+"""
 
-
-def build_market_brief(date_str: str, quotes: Dict[str, Dict[str, Optional[float]]], news_items: List[Dict[str, str]]) -> str:
-    market_summary = summarize_market(quotes)
-
-    quote_lines = []
-    for sym, name in WATCHLIST:
-        d = quotes.get(sym, {})
-        quote_lines.append(
-            f"- **{name} / {sym}**：{num_str(d.get('price'))} "
-            f"（日变动 {pct_str(d.get('change_pct'))}）"
+    try:
+        resp = client.chat.completions.create(
+            model=OPENAI_MODEL,
+            temperature=0.3,
+            messages=[
+                {
+                    "role": "system",
+                    "content": "你是一个严谨、克制、中文表达自然的新闻分析助手。",
+                },
+                {
+                    "role": "user",
+                    "content": prompt,
+                },
+            ],
         )
+        text = resp.choices[0].message.content.strip()
+        text = re.sub(r"\n{3,}", "\n\n", text)
+        return short_text(text, MAX_SUMMARY_CHARS)
+    except Exception as e:
+        log(f"OpenAI 摘要失败，回退模板: {e}")
+        return fallback_analysis(title, summary, section)
 
-    commentary = [
-        "今天先看三条主线：科技风险偏好、黄金与油价的方向、以及能源链是否重新获得相对强势。",
-        "如果科技指数与龙头个股同步上行，通常说明市场仍接受成长叙事；若指数平稳但龙头走弱，则更像内部结构轮动而非全面风险上升。",
-        "如果黄金、原油、能源股同时偏强，往往意味着市场在重新交易通胀、地缘风险或供给扰动。"
+
+def collect_section_items(section_name: str, section_cfg: dict, target_count: int = TARGET_ITEMS_PER_SECTION) -> list[dict]:
+    """
+    聚合一个板块的新闻，去重并截取前 N 条。
+    """
+    all_items = []
+    for feed_url in section_cfg["feeds"]:
+        items = fetch_feed_items(feed_url, MAX_ITEMS_PER_FEED)
+        all_items.extend(items)
+        time.sleep(0.3)
+
+    all_items = dedupe_items(all_items)
+    all_items = sorted(all_items, key=lambda x: x["published_dt"], reverse=True)
+
+    # 只取最近24小时内的前 target_count 条
+    selected = all_items[:target_count]
+    return selected
+
+
+def enrich_items_with_analysis(section_name: str, items: list[dict]) -> list[dict]:
+    enriched = []
+    for i, item in enumerate(items, start=1):
+        log(f"{section_name} - 生成第 {i}/{len(items)} 条分析：{item['title'][:80]}")
+        body_text = fetch_url_text(item["link"])
+        analysis = gpt_analysis(
+            title=item["title"],
+            summary=item.get("summary", ""),
+            body_text=body_text,
+            section=section_name,
+            source=item.get("source", ""),
+        )
+        enriched.append({
+            "rank": i,
+            "title": item["title"],
+            "link": item["link"],
+            "source": item.get("source", ""),
+            "published_utc": item["published_utc"],
+            "analysis": analysis,
+        })
+        time.sleep(0.5)
+    return enriched
+
+
+def build_payload() -> dict:
+    generated_at = NOW_UTC.strftime("%Y-%m-%d %H:%M:%S UTC")
+    payload = {
+        "generated_at": generated_at,
+        "generated_at_unix": int(NOW_UTC.timestamp()),
+        "window": {
+            "from_utc": CUTOFF_UTC.strftime("%Y-%m-%d %H:%M:%S UTC"),
+            "to_utc": NOW_UTC.strftime("%Y-%m-%d %H:%M:%S UTC"),
+            "hours": 24,
+        },
+        "sections": {},
+    }
+
+    for section_name, section_cfg in SECTIONS.items():
+        log(f"开始抓取板块：{section_name}")
+        raw_items = collect_section_items(section_name, section_cfg, TARGET_ITEMS_PER_SECTION)
+        enriched_items = enrich_items_with_analysis(section_name, raw_items)
+        payload["sections"][section_name] = {
+            "description": section_cfg["description"],
+            "count": len(enriched_items),
+            "items": enriched_items,
+        }
+
+    return payload
+
+
+def write_json(payload: dict):
+    path = DOCS_DIR / "daily.json"
+    path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    log(f"已写入 JSON: {path}")
+
+
+def section_html(section_name: str, section_data: dict) -> str:
+    items = section_data.get("items", []) or []
+    count = section_data.get("count", 0)
+
+    html_parts = [
+        f'<section class="section">',
+        f'  <h2>{html.escape(section_name)}</h2>',
+        f'  <p class="section-meta">最近24小时内新闻：{count} 条</p>',
     ]
 
-    return f"""# 今日市场简报
-
-日期：{date_str}
-
-生成时间：{now_utc_iso()}
-
-## 市场概览
-
-{chr(10).join(f"- {x}" for x in market_summary)}
-
-## 重点资产快照
-
-{chr(10).join(quote_lines)}
-
-## 今日观察
-
-{chr(10).join(f"{i+1}. {x}" for i, x in enumerate(commentary))}
-
-## 今日新闻追踪
-
-{format_news_section(news_items, max_items=10)}
-
-## ChatGPT 简评
-
-今天的简报重点不是预测单日涨跌，而是识别**结构是否延续**。  
-你比较重视“结构监控”，所以最关键的不是某一条新闻本身，而是：  
-1. 科技与大盘是否同向；  
-2. 黄金与能源是否同步变强；  
-3. 龙头是否弱于指数。  
-
-若这三者里出现两项以上恶化，就要从“正常波动”切换到“结构审视”模式。
-"""
-
-
-def build_extended_reading(date_str: str, sections: Dict[str, List[Dict[str, str]]]) -> str:
-    def build_panel(title: str, items: List[Dict[str, str]]) -> str:
-        if not items:
-            return f"""## {title}
-
-1. 今日该板块未成功抓取到公开新闻源。  
-2. 这通常不是页面问题，而是新闻源临时不可访问或返回为空。  
-3. 可直接手动重新运行 GitHub Action 再试一次。  
-4. 在系统完全稳定前，建议把它理解为“可容错的自动草稿层”。  
-5. 等后续接入更稳定的数据源后，这一板块会更完整。  
-
-### ChatGPT 综合评论
-这个板块今天没有足够内容，不建议据此做判断，更适合作为提醒你稍后补查的占位区。
-"""
-
-        lines = [f"## {title}", ""]
-        for i, it in enumerate(items[:10], start=1):
-            title_text = it.get("title", "").strip()
-            link = it.get("link", "").strip()
-            desc = it.get("description", "").strip()[:220]
-            pub = it.get("pubDate", "").strip()
-
-            if link:
-                lines.append(f"{i}. [{title_text}]({link})")
-            else:
-                lines.append(f"{i}. {title_text}")
-
-            s1 = "这条信息值得注意，因为它能帮助你快速感知该板块今天最主要的讨论方向。"
-            s2 = f"从公开新闻摘要看，核心线索是：{desc or '该条目主要反映近期该领域的新变化。'}"
-            s3 = "你可以把它当作进一步深挖的入口，而不是最终结论，因为新闻标题往往放大单一角度。"
-            s4 = "真正有价值的做法，是连续几天观察这些主题是否反复出现，从而识别趋势而不是噪音。"
-            s5 = f"发布时间：{pub}" if pub else "发布时间信息本次未获取到。"
-
-            lines.append(f"   - {s1}")
-            lines.append(f"   - {s2}")
-            lines.append(f"   - {s3}")
-            lines.append(f"   - {s4}")
-            lines.append(f"   - {s5}")
-            lines.append("")
-
-        lines.append("### ChatGPT 综合评论")
-        lines.append(
-            f"{title}板块今天的价值，不在于“看完10条新闻”，而在于识别哪些主题在重复出现。"
-            "重复出现的主题，往往比单条爆点更值得进入你的长期知识系统。"
-        )
-        lines.append("")
-        return "\n".join(lines)
-
-    return f"""# 每日扩展阅读
-
-日期：{date_str}
-
-生成时间：{now_utc_iso()}
-
-{build_panel("投资", sections.get("investment", []))}
-
-{build_panel("健康", sections.get("health", []))}
-
-{build_panel("心理/哲学", sections.get("philosophy", []))}
-
-{build_panel("AI", sections.get("ai", []))}
-
-{build_panel("美学", sections.get("aesthetics", []))}
-"""
-
-
-def build_structure(date_str: str, quotes: Dict[str, Dict[str, Optional[float]]]) -> str:
-    regime, reasons = structure_assessment(quotes)
-
-    metric_lines = []
-    for sym, label in STRUCTURE_SYMBOLS:
-        d = quotes.get(sym, {})
-        metric_lines.append(
-            f"- **{label} / {sym}**：{num_str(d.get('price'))} "
-            f"（日变动 {pct_str(d.get('change_pct'))}）"
-        )
-
-    suggestion = []
-    if "Risk-On" in regime or "中性偏积极" in regime:
-        suggestion.extend([
-            "当前更接近“可持有、可观察”的环境，但仍要盯住龙头股是否持续强于指数。",
-            "若科技指数与能源、黄金同时上涨，通常代表宏观驱动更复杂，仓位不宜过度单边。",
-            "对你而言，可以把重点放在‘趋势是否延续’而不是单日新闻刺激。"
-        ])
-    elif "中性偏谨慎" in regime:
-        suggestion.extend([
-            "当前更适合控制节奏，不适合在高波动背景下追价。",
-            "若接下来几天 VIX 抬升、HYG/LQD转弱、QQQ持续弱于SPY，就要进一步提高防御意识。",
-            "这种环境里，最怕的是把正常回撤误判成机会，或者把结构破坏误判成短暂噪音。"
-        ])
+    if not items:
+        html_parts.append('<div class="card"><p>本板块最近24小时内未抓到足够新闻。</p></div>')
     else:
-        suggestion.extend([
-            "当前更偏防御，核心任务是先确认风险是否扩散，而不是急于抄底。",
-            "若 VIX 高位、信用代理走弱、科技领跌同时出现，说明市场在重新定价风险。",
-            "这种情况下，结构性收缩仓位、保留流动性和等待确认，通常比激进加仓更重要。"
-        ])
+        for item in items:
+            analysis_html = "<br>".join(
+                html.escape(line.strip()) for line in item["analysis"].splitlines() if line.strip()
+            )
+            html_parts.append(
+                f"""
+<div class="card">
+  <div class="title-row">
+    <span class="rank">{item["rank"]}.</span>
+    <a href="{html.escape(item["link"])}" target="_blank" rel="noopener noreferrer">{html.escape(item["title"])}</a>
+  </div>
+  <div class="meta">来源：{html.escape(item["source"])} ｜ 发布时间：{html.escape(item["published_utc"])}</div>
+  <div class="analysis">{analysis_html}</div>
+</div>
+""".strip()
+            )
 
-    return f"""# 结构监控
-
-日期：{date_str}
-
-生成时间：{now_utc_iso()}
-
-## 风险状态判断
-
-**当前判断：{regime}**
-
-## 核心指标快照
-
-{chr(10).join(metric_lines)}
-
-## 指标解读
-
-{chr(10).join(f"- {x}" for x in reasons)}
-
-## 今日结构建议
-
-{chr(10).join(f"{i+1}. {x}" for i, x in enumerate(suggestion))}
-
-## 你关心的监控思路
-
-1. 先看 **VIX** 是否明显抬升。  
-2. 再看 **HYG / LQD** 是否转弱，作为信用风险代理。  
-3. 再看 **QQQ、SPY 与龙头股** 是否同步。  
-4. 最后看 **黄金、美元、原油** 是否在传递新的宏观信号。  
-
-如果上述四项里，连续两到三项同时恶化，就不再只是“普通波动”，而更像结构在松动。
-"""
+    html_parts.append("</section>")
+    return "\n".join(html_parts)
 
 
-# =========================
-# manifest.json
-# =========================
-
-def update_manifest(date_str: str) -> None:
-    ensure_dir(DAILY_DIR)
-    manifest_path = DAILY_DIR / "manifest.json"
-
-    if manifest_path.exists():
-        try:
-            manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
-        except Exception:
-            manifest = {}
-    else:
-        manifest = {}
-
-    dates = manifest.get("dates", [])
-    if date_str not in dates:
-        dates.append(date_str)
-
-    dates = sorted(set(dates), reverse=True)
-
-    manifest["latest"] = date_str
-    manifest["dates"] = dates
-
-    manifest_path.write_text(
-        json.dumps(manifest, ensure_ascii=False, indent=2),
-        encoding="utf-8"
+def write_html(payload: dict):
+    generated_at = payload.get("generated_at", "")
+    sections_html = "\n".join(
+        section_html(section_name, section_data)
+        for section_name, section_data in payload.get("sections", {}).items()
     )
 
+    html_content = f"""<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>每日扩展阅读</title>
+  <style>
+    :root {{
+      --bg: #f7f7f8;
+      --card: #ffffff;
+      --text: #111827;
+      --muted: #6b7280;
+      --line: #e5e7eb;
+      --link: #1d4ed8;
+    }}
+    * {{ box-sizing: border-box; }}
+    body {{
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC",
+                   "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+      line-height: 1.7;
+    }}
+    .wrap {{
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 28px 20px 56px;
+    }}
+    h1 {{
+      margin: 0 0 10px;
+      font-size: 34px;
+      line-height: 1.2;
+    }}
+    .top-meta {{
+      color: var(--muted);
+      margin-bottom: 26px;
+      font-size: 14px;
+    }}
+    h2 {{
+      margin: 34px 0 10px;
+      font-size: 28px;
+      line-height: 1.25;
+    }}
+    .section-meta {{
+      color: var(--muted);
+      margin: 0 0 16px;
+      font-size: 14px;
+    }}
+    .card {{
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 18px 18px 16px;
+      margin-bottom: 14px;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+    }}
+    .title-row {{
+      font-size: 22px;
+      font-weight: 700;
+      line-height: 1.45;
+      margin-bottom: 8px;
+    }}
+    .rank {{
+      display: inline-block;
+      min-width: 26px;
+    }}
+    a {{
+      color: var(--link);
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }}
+    .meta {{
+      color: var(--muted);
+      font-size: 14px;
+      margin-bottom: 12px;
+    }}
+    .analysis {{
+      font-size: 20px;
+      line-height: 1.9;
+      white-space: normal;
+    }}
+    @media (max-width: 768px) {{
+      .wrap {{ padding: 18px 14px 40px; }}
+      h1 {{ font-size: 28px; }}
+      h2 {{ font-size: 24px; }}
+      .title-row {{ font-size: 18px; }}
+      .analysis {{ font-size: 17px; line-height: 1.8; }}
+    }}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>每日扩展阅读</h1>
+    <div class="top-meta">
+      生成时间：{html.escape(generated_at)}<br>
+      抓取范围：最近 24 小时内新闻
+    </div>
+    {sections_html}
+  </div>
+</body>
+</html>
+"""
+    path = DOCS_DIR / "index.html"
+    path.write_text(html_content, encoding="utf-8")
+    log(f"已写入 HTML: {path}")
 
-# =========================
-# 主流程
-# =========================
 
-def main() -> None:
-    date_str = today_str()
-    out_dir = DAILY_DIR / date_str
-    ensure_dir(out_dir)
-    ensure_dir(DAILY_DIR)
+def main():
+    log("开始生成每日扩展阅读")
+    if not OPENAI_API_KEY:
+        log("警告：未检测到 OPENAI_API_KEY，将使用兜底分析模板，而不是 GPT 分析。")
 
-    # 1) 行情
-    all_symbols = list({sym: name for sym, name in (WATCHLIST + STRUCTURE_SYMBOLS)}.items())
-    quotes = fetch_quotes(all_symbols)
-
-    # 2) 市场新闻
-    market_news = fetch_news_by_queries(NEWS_QUERIES["market"], per_query=3)
-
-    # 3) 扩展阅读新闻
-    ext_sections = {}
-    for key in ["investment", "health", "philosophy", "ai", "aesthetics"]:
-        ext_sections[key] = fetch_news_by_queries(NEWS_QUERIES[key], per_query=10)
-
-    # 4) 生成 markdown
-    market_md = build_market_brief(date_str, quotes, market_news)
-    reading_md = build_extended_reading(date_str, ext_sections)
-    structure_md = build_structure(date_str, quotes)
-
-    (out_dir / "market_brief.md").write_text(market_md, encoding="utf-8")
-    (out_dir / "extended_reading.md").write_text(reading_md, encoding="utf-8")
-    (out_dir / "structure.md").write_text(structure_md, encoding="utf-8")
-
-    # 5) 更新 manifest
-    update_manifest(date_str)
-
-    print(f"[OK] Generated daily files for {date_str}")
-    print(f"[OK] Output dir: {out_dir}")
+    payload = build_payload()
+    write_json(payload)
+    write_html(payload)
+    log("全部完成")
 
 
 if __name__ == "__main__":
     try:
         main()
-    except Exception as e:
-        print("[FATAL] generate_daily.py failed")
-        print(str(e))
+    except Exception:
         traceback.print_exc()
         raise
