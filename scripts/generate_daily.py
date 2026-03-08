@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
@@ -15,6 +14,7 @@ generate_daily.py
 - OPENAI_API_KEY   可选；没有时阅读页会用兜底分析
 - OPENAI_MODEL     可选，默认 gpt-4o-mini
 - TZ               可选，默认 America/New_York
+- VLCC_PROXY_SYMBOL 可选，默认 DHT，可改成 FRO 等
 
 依赖：
 pip install openai feedparser python-dateutil requests
@@ -25,7 +25,6 @@ import re
 import json
 import time
 import html
-import math
 import traceback
 from pathlib import Path
 from datetime import datetime, timedelta, timezone
@@ -45,13 +44,14 @@ except Exception:
 # 基础配置
 # =========================
 
-BASE_DIR = Path(__file__).resolve().parent
+BASE_DIR = Path(__file__).resolve().parent.parent
 DOCS_DIR = BASE_DIR / "docs"
 DOCS_DIR.mkdir(parents=True, exist_ok=True)
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "").strip()
 OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini").strip()
 TIMEZONE_NAME = os.getenv("TZ", "America/New_York").strip()
+VLCC_PROXY_SYMBOL = os.getenv("VLCC_PROXY_SYMBOL", "DHT").strip().upper()
 
 NOW_UTC = datetime.now(timezone.utc)
 CUTOFF_UTC = NOW_UTC - timedelta(hours=24)
@@ -59,7 +59,7 @@ CUTOFF_UTC = NOW_UTC - timedelta(hours=24)
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
     "AppleWebKit/537.36 (KHTML, like Gecko) "
-    "Chrome/124.0 Safari/537.36 DailyDashboardBot/2.0"
+    "Chrome/124.0 Safari/537.36 DailyDashboardBot/3.0"
 )
 
 REQUEST_TIMEOUT = 20
@@ -130,7 +130,7 @@ SECTIONS = {
 # =========================
 # 结构监控标的
 # =========================
-VLCC_PROXY_SYMBOL = os.getenv("VLCC_PROXY_SYMBOL", "DHT").strip().upper()
+
 MARKET_SYMBOLS = {
     "SPY": {"label": "SPY", "kind": "etf", "note": "美股大盘代理"},
     "QQQ": {"label": "QQQ", "kind": "etf", "note": "科技成长代理"},
@@ -140,18 +140,15 @@ MARKET_SYMBOLS = {
     "SLV": {"label": "SLV", "kind": "etf", "note": "白银代理"},
     "USO": {"label": "USO", "kind": "etf", "note": "原油代理"},
     "UUP": {"label": "UUP", "kind": "etf", "note": "美元代理"},
-
     "^TNX": {"label": "TNX", "kind": "index", "note": "10年美债收益率"},
     "^VIX": {"label": "VIX", "kind": "index", "note": "股市波动率"},
     "^MOVE": {"label": "MOVE", "kind": "index", "note": "债券波动率"},
-
     "HYG": {"label": "HYG", "kind": "etf", "note": "高收益债信用"},
     "LQD": {"label": "LQD", "kind": "etf", "note": "投资级信用"},
-
     VLCC_PROXY_SYMBOL: {
         "label": "VLCC",
         "kind": "equity",
-        "note": f"VLCC 航运代理（当前: {VLCC_PROXY_SYMBOL}）"
+        "note": f"VLCC 航运代理（当前: {VLCC_PROXY_SYMBOL}）",
     },
 }
 
@@ -261,9 +258,7 @@ def parse_entry_datetime(entry):
 
 
 def is_recent(dt):
-    if not dt:
-        return False
-    return dt >= CUTOFF_UTC
+    return bool(dt and dt >= CUTOFF_UTC)
 
 
 def fetch_url_text(url: str) -> str:
@@ -325,8 +320,9 @@ def dedupe_items(items):
 
 
 def fallback_analysis(title: str, summary: str, section: str) -> str:
-    parts = []
-    parts.append(f"这条{section}新闻反映了最近24小时内该板块的一个具体变化。")
+    parts = [
+        f"这条{section}新闻反映了最近24小时内该板块的一个具体变化。"
+    ]
     if summary:
         parts.append(f"从公开摘要看，核心线索是：{short_text(summary, 150)}")
     else:
@@ -447,7 +443,7 @@ def section_html(section_name: str, section_data: dict) -> str:
     count = section_data.get("count", 0)
 
     html_parts = [
-        f'<section class="section">',
+        '<section class="section">',
         f'  <h2>{html.escape(section_name)}</h2>',
         f'  <p class="section-meta">最近24小时内新闻：{count} 条</p>',
     ]
@@ -608,7 +604,7 @@ def write_reading_html(payload: dict):
 # 结构监控逻辑
 # =========================
 
-def fetch_yahoo_chart(symbol: str, range_: str = "5d", interval: str = "1d"):
+def fetch_yahoo_chart(symbol: str, range_: str = "10d", interval: str = "1d"):
     url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}"
     params = {"range": range_, "interval": interval}
     headers = {"User-Agent": USER_AGENT}
@@ -709,7 +705,6 @@ def status_text(level: str) -> str:
 def classify_vix(vix_value):
     if vix_value is None:
         return "watch", "VIX 数据缺失，需人工复核。"
-
     if vix_value < 16:
         return "normal", "VIX 处于低位，说明市场波动定价仍较温和。"
     if vix_value < 22:
@@ -718,16 +713,14 @@ def classify_vix(vix_value):
         return "risk", "VIX 进入高波动区，通常意味着风险偏好明显收缩。"
     return "risk", "VIX 处于极高区间，结构上更应偏向防守。"
 
+
 def classify_move(move_value):
     if move_value is None:
-        return "watch", "MOVE 数据缺失。"
-
+        return "watch", "MOVE 数据缺失，需人工复核。"
     if move_value < 90:
-        return "normal", "债券市场波动率较低，利率环境稳定。"
-
+        return "normal", "债券市场波动率较低，利率环境相对稳定。"
     if move_value < 120:
         return "watch", "债券波动率上升，说明利率预期开始不稳定。"
-
     return "risk", "MOVE 已进入高波动区，利率市场出现明显压力。"
 
 
@@ -747,7 +740,6 @@ def classify_by_change_pct(label, change_pct, positive_good=True):
 def classify_tnx(change_pct, price):
     if price is None or change_pct is None:
         return "watch", "TNX 数据缺失，需人工复核。"
-
     if price >= 4.60 and change_pct > 0:
         return "risk", "10年美债收益率处于高位且继续上行，对成长资产估值压力较大。"
     if change_pct <= -1.5:
@@ -760,7 +752,6 @@ def classify_tnx(change_pct, price):
 def classify_hyg(change_pct):
     if change_pct is None:
         return "watch", "HYG 数据缺失，需人工复核。"
-
     if change_pct >= 0.35:
         return "normal", "HYG 偏强，说明信用风险偏好整体仍可接受。"
     if change_pct >= -0.40:
@@ -771,7 +762,6 @@ def classify_hyg(change_pct):
 def classify_lqd(change_pct):
     if change_pct is None:
         return "watch", "LQD 数据缺失，需人工复核。"
-
     if change_pct >= 0.15:
         return "normal", "LQD 偏稳偏强，投资级信用环境暂未见明显恶化。"
     if change_pct >= -0.25:
@@ -798,76 +788,72 @@ def build_structure_monitor(snapshot: dict):
     items = {}
 
     level, comment = classify_vix(vix_price)
-    items["VIX"] = {
-        "status_level": level,
-        "status": status_text(level),
-        "comment": comment
-    }
+    items["VIX"] = {"status_level": level, "status": status_text(level), "comment": comment}
 
     level, comment = classify_move(move_price)
-    items["MOVE"] = {
-        "status_level": level,
-        "status": status_text(level),
-        "comment": comment
-    }
-
-    level, comment = classify_by_change_pct("SPY", spy_chg, positive_good=True)
-    items["SPY"] = {
-        "status_level": level,
-        "status": status_text(level),
-        "comment": comment
-    }
-
-    level, comment = classify_by_change_pct("QQQ", qqq_chg, positive_good=True)
-    items["QQQ"] = {
-        "status_level": level,
-        "status": status_text(level),
-        "comment": comment
-    }
-
-    level, comment = classify_by_change_pct("GLD", gld_chg, positive_good=True)
-    items["GLD"] = {
-        "status_level": level,
-        "status": status_text(level),
-        "comment": comment
-    }
-
-    level, comment = classify_by_change_pct("UUP", uup_chg, positive_good=False)
-    items["UUP"] = {
-        "status_level": level,
-        "status": status_text(level),
-        "comment": comment
-    }
+    items["MOVE"] = {"status_level": level, "status": status_text(level), "comment": comment}
 
     level, comment = classify_tnx(tnx_chg, tnx_price)
-    items["TNX"] = {
-        "status_level": level,
-        "status": status_text(level),
-        "comment": comment
-    }
+    items["TNX"] = {"status_level": level, "status": status_text(level), "comment": comment}
+
+    level, comment = classify_by_change_pct("SPY", spy_chg, positive_good=True)
+    items["SPY"] = {"status_level": level, "status": status_text(level), "comment": comment}
+
+    level, comment = classify_by_change_pct("QQQ", qqq_chg, positive_good=True)
+    items["QQQ"] = {"status_level": level, "status": status_text(level), "comment": comment}
+
+    level, comment = classify_by_change_pct("GLD", gld_chg, positive_good=True)
+    items["GLD"] = {"status_level": level, "status": status_text(level), "comment": comment}
+
+    level, comment = classify_by_change_pct("UUP", uup_chg, positive_good=False)
+    items["UUP"] = {"status_level": level, "status": status_text(level), "comment": comment}
 
     level, comment = classify_hyg(hyg_chg)
-    items["HYG"] = {
-        "status_level": level,
-        "status": status_text(level),
-        "comment": comment
-    }
+    items["HYG"] = {"status_level": level, "status": status_text(level), "comment": comment}
 
     level, comment = classify_lqd(lqd_chg)
-    items["LQD"] = {
-        "status_level": level,
-        "status": status_text(level),
-        "comment": comment
-    }
+    items["LQD"] = {"status_level": level, "status": status_text(level), "comment": comment}
 
     return items
+
+
+def summarize_layer(name: str, keys: list[str], structure_monitor: dict):
+    values = [structure_monitor.get(k, {}) for k in keys]
+    scores = [risk_level_to_score(v.get("status_level", "watch")) for v in values]
+    avg_score = sum(scores) / len(scores) if scores else 1
+
+    if avg_score < 0.75:
+        level = "normal"
+        text = "正常"
+    elif avg_score < 1.5:
+        level = "watch"
+        text = "警惕"
+    else:
+        level = "risk"
+        text = "风险"
+
+    return {
+        "name": name,
+        "keys": keys,
+        "status_level": level,
+        "status": text,
+    }
+
+
+def build_layer_summary(structure_monitor: dict):
+    return {
+        "波动层": summarize_layer("波动层", ["VIX"], structure_monitor),
+        "利率层": summarize_layer("利率层", ["MOVE", "TNX"], structure_monitor),
+        "信用层": summarize_layer("信用层", ["HYG", "LQD"], structure_monitor),
+        "资产层": summarize_layer("资产层", ["QQQ", "GLD"], structure_monitor),
+    }
+
 
 def build_regime(structure_monitor: dict):
     total = 0
     for v in structure_monitor.values():
         total += risk_level_to_score(v["status_level"])
-    
-    # 0-3 低风险；4-7 中性；8+ 风险偏高
+
     if total <= 3:
         regime = "Risk-on"
         risk_score = 1
@@ -888,8 +874,18 @@ def build_regime(structure_monitor: dict):
     return regime, risk_score, summary, total
 
 
+def summary_from_actions(regime, risk_score, vix, move, qqq_chg, gld_chg, vlcc_chg_3d):
+    vix_text = f"VIX {fmt_num(vix, 2)}" if vix is not None else "VIX 待确认"
+    move_text = f"MOVE {fmt_num(move, 2)}" if move is not None else "MOVE 待确认"
+    qqq_text = f"QQQ {fmt_pct(qqq_chg, 2)}" if qqq_chg is not None else "QQQ 待确认"
+    gld_text = f"GLD {fmt_pct(gld_chg, 2)}" if gld_chg is not None else "GLD 待确认"
+    vlcc_text = f"VLCC 3天 {fmt_pct(vlcc_chg_3d, 2)}" if vlcc_chg_3d is not None else "VLCC 待确认"
+    return f"当前结构为 {regime}，风险等级 {risk_score}/4；{vix_text}，{move_text}，{qqq_text}，{gld_text}，{vlcc_text}。"
+
+
 def build_actions(snapshot: dict, regime: str, risk_score: int):
     vix = snapshot.get("VIX", {}).get("price")
+    move = snapshot.get("MOVE", {}).get("price")
     qqq_chg = snapshot.get("QQQ", {}).get("change_pct")
     gld_chg = snapshot.get("GLD", {}).get("change_pct")
     vlcc_chg_3d = snapshot.get("VLCC", {}).get("change_3d_pct")
@@ -898,24 +894,24 @@ def build_actions(snapshot: dict, regime: str, risk_score: int):
         core = "核心仓可继续持有，优先保留高质量主线资产，但仍不建议在单日急涨后追高。"
         trend = "趋势仓可偏向强势方向，但需要继续观察成交与后续跟随，而不是只看单日涨幅。"
         defense = "防守仓可以维持基础配置，不必明显扩张。"
-        watchlist = "重点继续观察 VIX 是否维持低位，以及 TNX 是否重新上行。"
+        watchlist = "重点继续观察 VIX 是否维持低位，以及 MOVE、TNX 是否重新上行。"
     elif regime == "Neutral":
         core = "核心仓先不动，维持既有框架，避免因为单日波动频繁切换。"
         trend = "趋势仓更适合聚焦少数强势资产，弱势科技或高波动标的不要盲目加仓。"
         defense = "黄金和防守仓维持原配置即可，更多是平衡而不是全面转防守。"
-        watchlist = "重点观察 VIX、TNX、HYG 是否出现连续两到三天同向变化。"
+        watchlist = "重点观察 VIX、MOVE、TNX、HYG 是否出现连续两到三天同向变化。"
     elif regime == "Neutral / Defensive":
         core = "核心仓仍以稳定为主，但要降低进攻性，优先保留确定性更高的资产。"
         trend = "趋势仓应缩小战线，避免在结构不明时追逐短线弹性。"
         defense = "黄金、防守和真实资产比重可以适度提高，用来对冲结构不确定性。"
-        watchlist = "重点观察 VIX 是否继续抬升，以及 HYG/LQD 是否同步走弱。"
+        watchlist = "重点观察 VIX、MOVE 是否继续抬升，以及 HYG/LQD 是否同步走弱。"
     else:
         core = "核心仓以保守处理为主，不宜在高波动阶段扩大总风险暴露。"
         trend = "趋势仓应明显收缩，只保留最强主线，弱势仓位优先处理。"
         defense = "防守仓、黄金和低波动方向应明显提高权重，用于稳定组合。"
-        watchlist = "重点观察 VIX、TNX、信用ETF 是否继续恶化，防止结构进一步破坏。"
+        watchlist = "重点观察 VIX、MOVE、TNX、信用ETF 是否继续恶化，防止结构进一步破坏。"
 
-    one_liner = summary_from_actions(regime, risk_score, vix, qqq_chg, gld_chg, vlcc_chg_3d)
+    one_liner = summary_from_actions(regime, risk_score, vix, move, qqq_chg, gld_chg, vlcc_chg_3d)
 
     return {
         "one_liner": one_liner,
@@ -926,16 +922,9 @@ def build_actions(snapshot: dict, regime: str, risk_score: int):
     }
 
 
-def summary_from_actions(regime, risk_score, vix, qqq_chg, gld_chg, vlcc_chg_3d):
-    vix_text = f"VIX {fmt_num(vix, 2)}" if vix is not None else "VIX 待确认"
-    qqq_text = f"QQQ {fmt_pct(qqq_chg, 2)}" if qqq_chg is not None else "QQQ 待确认"
-    gld_text = f"GLD {fmt_pct(gld_chg, 2)}" if gld_chg is not None else "GLD 待确认"
-    vlcc_text = f"VLCC 3天 {fmt_pct(vlcc_chg_3d, 2)}" if vlcc_chg_3d is not None else "VLCC 待确认"
-    return f"当前结构为 {regime}，风险等级 {risk_score}/4；{vix_text}，{qqq_text}，{gld_text}，{vlcc_text}。"
-
 def build_market_snapshot():
     raw = fetch_market_snapshot()
-    order = ["SPY","QQQ","DIA","IWM","GLD","SLV","USO","UUP","TNX","MOVE","VIX","HYG","LQD","VLCC"]
+    order = ["SPY", "QQQ", "DIA", "IWM", "GLD", "SLV", "USO", "UUP", "TNX", "MOVE", "VIX", "HYG", "LQD", "VLCC"]
     out = {}
     for label in order:
         item = raw.get(label, {})
@@ -956,10 +945,11 @@ def build_monitor_payload():
     generated_at = NOW_UTC.strftime("%Y-%m-%d %H:%M:%S UTC")
     market_snapshot = build_market_snapshot()
     structure_monitor = build_structure_monitor(market_snapshot)
+    layer_summary = build_layer_summary(structure_monitor)
     regime, risk_score, summary, internal_score = build_regime(structure_monitor)
     actions = build_actions(market_snapshot, regime, risk_score)
 
-    payload = {
+    return {
         "generated_at": generated_at,
         "regime": regime,
         "risk_score": risk_score,
@@ -967,9 +957,9 @@ def build_monitor_payload():
         "summary": summary,
         "market_snapshot": market_snapshot,
         "structure_monitor": structure_monitor,
+        "layer_summary": layer_summary,
         "actions": actions,
     }
-    return payload
 
 
 def write_monitor_json(payload: dict):
@@ -979,7 +969,7 @@ def write_monitor_json(payload: dict):
 
 
 def render_snapshot_cards(snapshot: dict) -> str:
-    order = ["SPY","QQQ","DIA","IWM","GLD","SLV","USO","UUP","TNX","MOVE","VIX","HYG","LQD","VLCC"]
+    order = ["SPY", "QQQ", "DIA", "IWM", "GLD", "SLV", "USO", "UUP", "TNX", "MOVE", "VIX", "HYG", "LQD", "VLCC"]
     cards = []
     for label in order:
         item = snapshot.get(label, {})
@@ -998,7 +988,7 @@ def render_snapshot_cards(snapshot: dict) -> str:
 
 
 def render_monitor_table(structure_monitor: dict) -> str:
-    order = ["VIX","MOVE","TNX","SPY","QQQ","GLD","UUP","HYG","LQD"]
+    order = ["VIX", "MOVE", "TNX", "SPY", "QQQ", "GLD", "UUP", "HYG", "LQD"]
     rows = []
     for key in order:
         item = structure_monitor.get(key, {})
@@ -1014,6 +1004,23 @@ def render_monitor_table(structure_monitor: dict) -> str:
     return "\n".join(rows)
 
 
+def render_layer_cards(layer_summary: dict) -> str:
+    order = ["波动层", "利率层", "信用层", "资产层"]
+    cards = []
+    for key in order:
+        item = layer_summary.get(key, {})
+        cards.append(
+            f"""
+<div class="layer-card">
+  <div class="layer-title">{html.escape(key)}</div>
+  <div class="layer-status">{html.escape(item.get("status", ""))}</div>
+  <div class="layer-note">{html.escape(" + ".join(item.get("keys", [])))}</div>
+</div>
+""".strip()
+        )
+    return "\n".join(cards)
+
+
 def write_monitor_html(payload: dict):
     generated_at = payload.get("generated_at", "")
     regime = payload.get("regime", "N/A")
@@ -1022,6 +1029,7 @@ def write_monitor_html(payload: dict):
     one_liner = payload.get("actions", {}).get("one_liner", "")
     snapshot_html = render_snapshot_cards(payload.get("market_snapshot", {}))
     monitor_rows = render_monitor_table(payload.get("structure_monitor", {}))
+    layer_cards = render_layer_cards(payload.get("layer_summary", {}))
     actions = payload.get("actions", {})
 
     html_content = f"""<!doctype html>
@@ -1113,6 +1121,33 @@ def write_monitor_html(payload: dict):
       font-size: 18px;
       line-height: 1.8;
     }}
+    .layer-grid {{
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 14px;
+    }}
+    .layer-card {{
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 16px;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+    }}
+    .layer-title {{
+      color: var(--muted);
+      font-size: 13px;
+      margin-bottom: 6px;
+    }}
+    .layer-status {{
+      font-size: 24px;
+      font-weight: 700;
+      line-height: 1.3;
+    }}
+    .layer-note {{
+      color: var(--muted);
+      font-size: 13px;
+      margin-top: 6px;
+    }}
     .snap-grid {{
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
@@ -1183,14 +1218,14 @@ def write_monitor_html(payload: dict):
       line-height: 1.8;
     }}
     @media (max-width: 900px) {{
-      .hero-grid, .snap-grid {{ grid-template-columns: repeat(2, minmax(0,1fr)); }}
+      .hero-grid {{ grid-template-columns: repeat(2, minmax(0,1fr)); }}
     }}
     @media (max-width: 640px) {{
       .wrap {{ padding: 18px 14px 40px; }}
       h1 {{ font-size: 30px; }}
       h2 {{ font-size: 24px; }}
-      .hero-grid, .snap-grid {{ grid-template-columns: 1fr; }}
-      .hero-value, .snap-price {{ font-size: 22px; }}
+      .hero-grid {{ grid-template-columns: 1fr; }}
+      .hero-value, .snap-price, .layer-status {{ font-size: 22px; }}
       .hero-summary, .action-text {{ font-size: 17px; }}
       th, td {{ font-size: 15px; }}
     }}
@@ -1223,6 +1258,11 @@ def write_monitor_html(payload: dict):
       </div>
       <div class="hero-summary">{html.escape(summary)}</div>
     </section>
+
+    <h2>结构分层总览</h2>
+    <div class="layer-grid">
+      {layer_cards}
+    </div>
 
     <h2>市场快照</h2>
     <div class="snap-grid">
@@ -1279,12 +1319,10 @@ def main():
     if not OPENAI_API_KEY:
         log("警告：未检测到 OPENAI_API_KEY，扩展阅读将使用兜底分析模板。")
 
-    # 1) 结构监控主页
     monitor_payload = build_monitor_payload()
     write_monitor_json(monitor_payload)
     write_monitor_html(monitor_payload)
 
-    # 2) 每日扩展阅读
     reading_payload = build_reading_payload()
     write_reading_json(reading_payload)
     write_reading_html(reading_payload)
@@ -1298,9 +1336,3 @@ if __name__ == "__main__":
     except Exception:
         traceback.print_exc()
         raise
-
-
-
-
-
-
