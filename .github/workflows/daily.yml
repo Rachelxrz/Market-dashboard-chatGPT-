@@ -2,17 +2,17 @@ name: Daily Dashboard
 
 on:
   schedule:
-    # Morning run — 09:00 America/New_York
-    # EDT = 13:00 UTC
-    # EST = 14:00 UTC
-    - cron: '0 13 * * *'
-    - cron: '0 14 * * *'
+    # Morning run — 09:07 America/New_York
+    # EDT = 13:07 UTC
+    # EST = 14:07 UTC
+    - cron: '7 13 * * *'
+    - cron: '7 14 * * *'
 
-    # Close run — 16:30 America/New_York
-    # EDT = 20:30 UTC
-    # EST = 21:30 UTC
-    - cron: '30 20 * * *'
-    - cron: '30 21 * * *'
+    # Close run — 16:37 America/New_York
+    # EDT = 20:37 UTC
+    # EST = 21:37 UTC
+    - cron: '37 20 * * *'
+    - cron: '37 21 * * *'
 
   workflow_dispatch:
     inputs:
@@ -20,6 +20,7 @@ on:
         description: 'Run mode: morning or close'
         required: false
         default: 'morning'
+
 
 permissions:
   contents: write
