@@ -1,5 +1,6 @@
 {
-  "generated_at": "2026-03-09 03:18:20 UTC",
+  "generated_at": "2026-03-09 03:53:05 UTC",
+  "run_mode": "morning",
   "regime": "Risk-off",
   "risk_score": 4,
   "internal_score": 14,
@@ -109,8 +110,8 @@
     "VIX": {
       "label": "VIX",
       "price": 29.49,
-      "change": 8.479999999999997,
-      "change_pct": 40.361732508329354,
+      "change": 10.399999999999999,
+      "change_pct": 54.47878470403352,
       "change_3d": 5.92000030517578,
       "change_3d_pct": 25.11667535776746,
       "note": "股市波动率",
@@ -246,8 +247,8 @@
     }
   },
   "actions": {
-    "one_liner_zh": "当前结构为 Risk-off，风险等级 4/4；VIX 29.49，MOVE 81.26，QQQ -1.49%，GLD +1.04%，VLCC 3天 -6.18%。",
-    "one_liner_en": "The current regime is Risk-off with a risk score of 4/4; VIX 29.49, MOVE 81.26, QQQ -1.49%, GLD +1.04%, VLCC 3d -6.18%.",
+    "one_liner_zh": "当前结构为 Risk-off，风险等级 4/4；VIX 29.49，MOVE 81.26，QQQ -1.49%，GLD +1.04%，VLCC 3天 -6.18%。 当前为早间版。",
+    "one_liner_en": "The current regime is Risk-off with a risk score of 4/4; VIX 29.49, MOVE 81.26, QQQ -1.49%, GLD +1.04%, VLCC 3d -6.18%. Current mode: Morning Edition.",
     "core_zh": "核心仓以保守处理为主，不宜在高波动阶段扩大总风险暴露。",
     "core_en": "Core positions should be handled conservatively, with no expansion of overall risk exposure during high-volatility phases.",
     "trend_zh": "趋势仓应明显收缩，只保留最强主线，弱势仓位优先处理。",
