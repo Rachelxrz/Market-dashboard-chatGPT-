@@ -68,9 +68,10 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "").strip()
 OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini").strip()
 TIMEZONE_NAME = os.getenv("TZ", "America/New_York").strip()
 VLCC_PROXY_SYMBOL = os.getenv("VLCC_PROXY_SYMBOL", "DHT").strip().upper()
+RUN_MODE = os.getenv("RUN_MODE", "morning").strip().lower()
 
 NOW_UTC = datetime.now(timezone.utc)
-CUTOFF_UTC = NOW_UTC - timedelta(hours=24)
+CUTOFF_UTC = NOW_UTC - timedelta(hours=reading_hours_window())
 TODAY_STR = NOW_UTC.strftime("%Y-%m-%d")
 
 HISTORY_DIR = DOCS_DIR / "history"
@@ -180,6 +181,12 @@ MARKET_SYMBOLS = {
 # =========================
 # 通用工具
 # =========================
+def run_mode_label() -> str:
+    return "收盘版" if RUN_MODE == "close" else "早间版"
+
+
+def reading_hours_window() -> int:
+    return 12 if RUN_MODE == "close" else 24
 
 def log(msg: str):
     print(f"[generate_daily] {msg}", flush=True)
@@ -558,8 +565,9 @@ def build_reading_payload():
         "window": {
             "from_utc": CUTOFF_UTC.strftime("%Y-%m-%d %H:%M:%S UTC"),
             "to_utc": NOW_UTC.strftime("%Y-%m-%d %H:%M:%S UTC"),
-            "hours": 24,
-        },
+            "hours": reading_hours_window(),
+            "run_mode": RUN_MODE,
+      },
         "sections": {},
     }
 
@@ -649,6 +657,8 @@ def section_html(section_name: str, section_data: dict) -> str:
 
 def write_reading_html(payload: dict):
     generated_at = payload.get("generated_at", "")
+    mode_label = run_mode_label()
+    window_hours = payload.get("window", {}).get("hours", reading_hours_window())
     sections_html = "\n".join(
         section_html(section_name, section_data)
         for section_name, section_data in payload.get("sections", {}).items()
@@ -799,11 +809,12 @@ def write_reading_html(payload: dict):
 </head>
 <body>
   <div class="wrap">
-    <h1>每日扩展阅读</h1>
+    <h1>每日扩展阅读（{html.escape(mode_label)}）</h1>
     <div class="top-meta">
       生成时间：{html.escape(generated_at)}<br>
-      抓取范围：最近 24 小时内新闻
-    </div>
+      抓取范围：最近 {html.escape(str(window_hours))} 小时内新闻<br>
+      模式：{html.escape(mode_label)}
+  </div>
 
     <div class="nav">
       <a href="./index.html">返回结构监控</a>
@@ -1250,6 +1261,7 @@ def summary_from_actions_bilingual(regime, risk_score, vix, move, qqq_chg, gld_c
 
 
 def build_actions(snapshot: dict, regime: str, risk_score: int):
+    mode_label = run_mode_label()
     vix = snapshot.get("VIX", {}).get("price")
     move = snapshot.get("MOVE", {}).get("price")
     qqq_chg = snapshot.get("QQQ", {}).get("change_pct")
@@ -1295,6 +1307,9 @@ def build_actions(snapshot: dict, regime: str, risk_score: int):
 
     one_liner = summary_from_actions_bilingual(regime, risk_score, vix, move, qqq_chg, gld_chg, vlcc_chg_3d)
 
+    one_liner["zh"] += f" 当前为{mode_label}。"
+    one_liner["en"] += f" Current mode: {'Close Edition' if RUN_MODE == 'close' else 'Morning Edition'}."
+
     return {
         "one_liner_zh": one_liner["zh"],
         "one_liner_en": one_liner["en"],
@@ -1338,6 +1353,7 @@ def build_monitor_payload():
 
     return {
         "generated_at": generated_at,
+        "run_mode": RUN_MODE,
         "regime": regime,
         "risk_score": risk_score,
         "internal_score": internal_score,
@@ -1768,6 +1784,7 @@ def write_monitor_html(payload: dict):
 
 def main():
     log("开始生成结构监控与每日扩展阅读")
+    log(f"当前运行模式: {RUN_MODE}")
 
     if not OPENAI_API_KEY:
         log("警告：未检测到 OPENAI_API_KEY，双语扩展阅读将使用兜底分析模板。")
