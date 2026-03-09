@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09 03:53:05 UTC",
+  "generated_at": "2026-03-09 13:18:10 UTC",
   "run_mode": "morning",
   "regime": "Risk-off",
   "risk_score": 4,
@@ -89,11 +89,11 @@
     },
     "TNX": {
       "label": "TNX",
-      "price": 4.133,
-      "change": 0.10400000000000009,
-      "change_pct": 2.5812856788284955,
-      "change_3d": 0.0769997673034668,
-      "change_3d_pct": 1.8984162447218444,
+      "price": 4.171,
+      "change": 0.1379999999999999,
+      "change_pct": 3.421770394247456,
+      "change_3d": 0.09100007629394558,
+      "change_3d_pct": 2.2303940685196375,
       "note": "10年美债收益率",
       "ok": true
     },
@@ -109,11 +109,11 @@
     },
     "VIX": {
       "label": "VIX",
-      "price": 29.49,
-      "change": 10.399999999999999,
-      "change_pct": 54.47878470403352,
-      "change_3d": 5.92000030517578,
-      "change_3d_pct": 25.11667535776746,
+      "price": 31.38,
+      "change": 12.29,
+      "change_pct": 64.379256155055,
+      "change_3d": 10.230000381469726,
+      "change_3d_pct": 48.368797002279166,
       "note": "股市波动率",
       "ok": true
     },
@@ -152,8 +152,8 @@
     "VIX": {
       "status_level": "risk",
       "status": "风险",
-      "comment_zh": "VIX 进入高波动区，通常意味着风险偏好明显收缩。",
-      "comment_en": "VIX has entered a high-volatility zone, usually signaling a clear contraction in risk appetite."
+      "comment_zh": "VIX 处于极高区间，结构上更应偏向防守。",
+      "comment_en": "VIX is at an extremely elevated level, implying a structurally defensive environment."
     },
     "MOVE": {
       "status_level": "normal",
@@ -247,8 +247,8 @@
     }
   },
   "actions": {
-    "one_liner_zh": "当前结构为 Risk-off，风险等级 4/4；VIX 29.49，MOVE 81.26，QQQ -1.49%，GLD +1.04%，VLCC 3天 -6.18%。 当前为早间版。",
-    "one_liner_en": "The current regime is Risk-off with a risk score of 4/4; VIX 29.49, MOVE 81.26, QQQ -1.49%, GLD +1.04%, VLCC 3d -6.18%. Current mode: Morning Edition.",
+    "one_liner_zh": "当前结构为 Risk-off，风险等级 4/4；VIX 31.38，MOVE 81.26，QQQ -1.49%，GLD +1.04%，VLCC 3天 -6.18%。 当前为早间版。",
+    "one_liner_en": "The current regime is Risk-off with a risk score of 4/4; VIX 31.38, MOVE 81.26, QQQ -1.49%, GLD +1.04%, VLCC 3d -6.18%. Current mode: Morning Edition.",
     "core_zh": "核心仓以保守处理为主，不宜在高波动阶段扩大总风险暴露。",
     "core_en": "Core positions should be handled conservatively, with no expansion of overall risk exposure during high-volatility phases.",
     "trend_zh": "趋势仓应明显收缩，只保留最强主线，弱势仓位优先处理。",
