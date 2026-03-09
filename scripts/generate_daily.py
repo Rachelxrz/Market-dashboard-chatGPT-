@@ -71,7 +71,7 @@ VLCC_PROXY_SYMBOL = os.getenv("VLCC_PROXY_SYMBOL", "DHT").strip().upper()
 RUN_MODE = os.getenv("RUN_MODE", "morning").strip().lower()
 
 NOW_UTC = datetime.now(timezone.utc)
-CUTOFF_UTC = NOW_UTC - timedelta(hours=reading_hours_window())
+cutoff_utc = NOW_UTC - timedelta(hours=24)
 TODAY_STR = NOW_UTC.strftime("%Y-%m-%d")
 
 HISTORY_DIR = DOCS_DIR / "history"
@@ -344,7 +344,7 @@ def parse_entry_datetime(entry):
 
 
 def is_recent(dt):
-    return bool(dt and dt >= CUTOFF_UTC)
+    return bool(dt and dt >= cutoff_utc)
 
 
 def fetch_url_text(url: str) -> str:
@@ -558,12 +558,13 @@ def enrich_items_with_analysis(section_name: str, items):
 
 
 def build_reading_payload():
+    CUTOFF_UTC = NOW_UTC - timedelta(hours=24)
     generated_at = NOW_UTC.strftime("%Y-%m-%d %H:%M:%S UTC")
     payload = {
         "generated_at": generated_at,
         "generated_at_unix": int(NOW_UTC.timestamp()),
         "window": {
-            "from_utc": CUTOFF_UTC.strftime("%Y-%m-%d %H:%M:%S UTC"),
+            "from_utc": cutoff_utc.strftime("%Y-%m-%d %H:%M:%S UTC"),
             "to_utc": NOW_UTC.strftime("%Y-%m-%d %H:%M:%S UTC"),
             "hours": reading_hours_window(),
             "run_mode": RUN_MODE,
