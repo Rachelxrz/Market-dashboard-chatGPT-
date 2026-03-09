@@ -421,6 +421,13 @@ SECTION_EN_MAP = {
     "AI 科技": "AI / Technology",
     "美学": "Aesthetics",
 }
+def fallback_analysis_en(section: str) -> str:
+    section_en = SECTION_EN_MAP.get(section, section)
+    return (
+        f"This {section_en} news item reflects a concrete development within the last 24 hours. "
+        f"The key question is whether this theme will continue to shape expectations, valuations, or sentiment over the next few days. "
+        f"If similar reports keep appearing, it is more likely to represent a trend rather than one-off noise."
+    )
 
 
 def gpt_bilingual_analysis(title: str, summary: str, body_text: str, section: str, source: str) -> dict:
@@ -492,6 +499,8 @@ Body snippet: {body_text or "None"}
 
         if not zh or not en:
             raise ValueError("Bilingual markers not found")
+        
+        log(f"双语摘要成功: {title[:60]}")
 
         return {
             "zh": short_text(zh, MAX_SUMMARY_CHARS),
