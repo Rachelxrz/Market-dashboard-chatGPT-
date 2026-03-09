@@ -2,19 +2,34 @@
 # -*- coding: utf-8 -*-
 
 """
-generate_daily.py
+scripts/generate_daily.py
 
 输出：
-1. docs/index.html       -> 结构监控主页
-2. docs/monitor.json     -> 结构监控数据
-3. docs/reading.html     -> 每日扩展阅读
-4. docs/reading.json     -> 每日扩展阅读数据
+1. docs/index.html                  -> 最新结构监控主页
+2. docs/monitor.json                -> 最新结构监控数据
+3. docs/reading.html                -> 最新每日扩展阅读
+4. docs/reading.json                -> 最新每日扩展阅读数据
+
+5. docs/history/YYYY-MM-DD/index.html
+6. docs/history/YYYY-MM-DD/monitor.json
+7. docs/history/YYYY-MM-DD/reading.html
+8. docs/history/YYYY-MM-DD/reading.json
+
+功能：
+- 保留最近 7 天历史
+- 扩展阅读中英双栏
+- 结构监控中英双语
+- 四层结构监控
+  波动层：VIX
+  利率层：MOVE + TNX
+  信用层：HYG + LQD
+  资产层：QQQ + GLD + VLCC
 
 环境变量：
-- OPENAI_API_KEY   可选；没有时阅读页会用兜底分析
-- OPENAI_MODEL     可选，默认 gpt-4o-mini
-- TZ               可选，默认 America/New_York
-- VLCC_PROXY_SYMBOL 可选，默认 DHT，可改成 FRO 等
+- OPENAI_API_KEY      可选；没有时会使用兜底分析
+- OPENAI_MODEL        可选，默认 gpt-4o-mini
+- TZ                  可选，默认 America/New_York
+- VLCC_PROXY_SYMBOL   可选，默认 DHT，可改成 FRO 等
 
 依赖：
 pip install openai feedparser python-dateutil requests
@@ -25,6 +40,7 @@ import re
 import json
 import time
 import html
+import shutil
 import traceback
 from pathlib import Path
 from datetime import datetime, timedelta, timezone
@@ -55,17 +71,25 @@ VLCC_PROXY_SYMBOL = os.getenv("VLCC_PROXY_SYMBOL", "DHT").strip().upper()
 
 NOW_UTC = datetime.now(timezone.utc)
 CUTOFF_UTC = NOW_UTC - timedelta(hours=24)
+TODAY_STR = NOW_UTC.strftime("%Y-%m-%d")
+
+HISTORY_DIR = DOCS_DIR / "history"
+HISTORY_DIR.mkdir(parents=True, exist_ok=True)
+
+TODAY_HISTORY_DIR = HISTORY_DIR / TODAY_STR
+TODAY_HISTORY_DIR.mkdir(parents=True, exist_ok=True)
 
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
     "AppleWebKit/537.36 (KHTML, like Gecko) "
-    "Chrome/124.0 Safari/537.36 DailyDashboardBot/3.0"
+    "Chrome/124.0 Safari/537.36 DailyDashboardBot/Final"
 )
 
 REQUEST_TIMEOUT = 20
 TARGET_ITEMS_PER_SECTION = 10
 MAX_ITEMS_PER_FEED = 20
-MAX_SUMMARY_CHARS = 900
+MAX_SUMMARY_CHARS = 1200
+HISTORY_KEEP_DAYS = 7
 
 client = OpenAI(api_key=OPENAI_API_KEY) if (OpenAI and OPENAI_API_KEY) else None
 
@@ -218,6 +242,61 @@ def article_key(title: str, url: str) -> str:
     return f"{t[:120]}|{u[:200]}"
 
 
+def list_history_days(limit: int = HISTORY_KEEP_DAYS):
+    if not HISTORY_DIR.exists():
+        return []
+    days = []
+    for p in HISTORY_DIR.iterdir():
+        if p.is_dir():
+            try:
+                datetime.strptime(p.name, "%Y-%m-%d")
+                days.append(p.name)
+            except Exception:
+                pass
+    return sorted(days, reverse=True)[:limit]
+
+
+def cleanup_old_history(keep_days: int = HISTORY_KEEP_DAYS):
+    if not HISTORY_DIR.exists():
+        return
+
+    dirs = []
+    for p in HISTORY_DIR.iterdir():
+        if p.is_dir():
+            try:
+                dt = datetime.strptime(p.name, "%Y-%m-%d")
+                dirs.append((dt, p))
+            except Exception:
+                continue
+
+    dirs.sort(key=lambda x: x[0], reverse=True)
+
+    for _, path in dirs[keep_days:]:
+        try:
+            shutil.rmtree(path)
+            log(f"已删除旧归档: {path}")
+        except Exception as e:
+            log(f"删除旧归档失败 {path}: {e}")
+
+
+def render_history_links(page_name: str) -> str:
+    """
+    page_name:
+    - 'index.html'
+    - 'reading.html'
+    """
+    days = list_history_days(HISTORY_KEEP_DAYS)
+    if not days:
+        return ""
+
+    links = []
+    for day in days:
+        href = f"./history/{day}/{page_name}"
+        links.append(f'<a href="{html.escape(href)}">{html.escape(day)}</a>')
+
+    return '<div class="history-links">' + "".join(links) + "</div>"
+
+
 # =========================
 # 阅读页逻辑
 # =========================
@@ -320,9 +399,7 @@ def dedupe_items(items):
 
 
 def fallback_analysis(title: str, summary: str, section: str) -> str:
-    parts = [
-        f"这条{section}新闻反映了最近24小时内该板块的一个具体变化。"
-    ]
+    parts = [f"这条{section}新闻反映了最近24小时内该板块的一个具体变化。"]
     if summary:
         parts.append(f"从公开摘要看，核心线索是：{short_text(summary, 150)}")
     else:
@@ -332,43 +409,62 @@ def fallback_analysis(title: str, summary: str, section: str) -> str:
     return "\n".join(parts[:4])
 
 
-def gpt_analysis(title: str, summary: str, body_text: str, section: str, source: str) -> str:
+def fallback_analysis_en(section: str) -> str:
+    return (
+        f"This {section} news item reflects a concrete development within the last 24 hours. "
+        f"The key question is whether the theme will continue to shape expectations, valuations, or sentiment over the next few days. "
+        f"If similar reports keep appearing, it is more likely to represent a trend rather than one-off noise."
+    )
+
+
+def gpt_bilingual_analysis(title: str, summary: str, body_text: str, section: str, source: str) -> dict:
     if not client:
-        return fallback_analysis(title, summary, section)
+        return {
+            "zh": fallback_analysis(title, summary, section),
+            "en": fallback_analysis_en(section),
+        }
 
     prompt = f"""
-你是一位严谨的中文资讯编辑。请根据下面新闻信息，写出 3-5 句话的中文分析。
+You are a rigorous bilingual editor.
 
-要求：
-1. 必须是中文。
-2. 必须是 3-5 句完整句子。
-3. 不要空话，不要重复标题，不要写模板句。
-4. 要回答：发生了什么、为什么重要、可能影响什么。
-5. 面向高信息密度读者，语言清晰、克制、具体。
-6. 不要编造未提供的事实；不确定时用“从目前公开信息看”之类表述。
-7. 输出纯文本，不要项目符号，不要编号。
+Based on the following information, produce:
+1. Chinese analysis: 3-5 full sentences
+2. English analysis: 3-5 full sentences
 
-板块：{section}
-来源：{source}
-标题：{title}
-摘要：{summary or "无"}
-可用正文片段：{body_text or "无"}
+Requirements:
+- Chinese and English should convey the same core meaning
+- Be specific, concise, and professional
+- Explain what happened, why it matters, and what it may affect
+- Do not fabricate facts
+- Output valid JSON only with keys "zh" and "en"
+
+Section: {section}
+Source: {source}
+Title: {title}
+Summary: {summary or "None"}
+Body snippet: {body_text or "None"}
 """
     try:
         resp = client.chat.completions.create(
             model=OPENAI_MODEL,
             temperature=0.3,
             messages=[
-                {"role": "system", "content": "你是一个严谨、克制、中文表达自然的新闻分析助手。"},
+                {"role": "system", "content": "You are a rigorous bilingual editor who writes in both Chinese and English."},
                 {"role": "user", "content": prompt},
             ],
         )
         text = resp.choices[0].message.content.strip()
-        text = re.sub(r"\n{3,}", "\n\n", text)
-        return short_text(text, MAX_SUMMARY_CHARS)
+        data = json.loads(text)
+        return {
+            "zh": short_text(data.get("zh", ""), MAX_SUMMARY_CHARS),
+            "en": short_text(data.get("en", ""), MAX_SUMMARY_CHARS),
+        }
     except Exception as e:
-        log(f"OpenAI 摘要失败，回退模板: {e}")
-        return fallback_analysis(title, summary, section)
+        log(f"双语摘要失败，回退: {e}")
+        return {
+            "zh": fallback_analysis(title, summary, section),
+            "en": fallback_analysis_en(section),
+        }
 
 
 def collect_section_items(section_name: str, section_cfg: dict, target_count: int = TARGET_ITEMS_PER_SECTION):
@@ -385,9 +481,9 @@ def collect_section_items(section_name: str, section_cfg: dict, target_count: in
 def enrich_items_with_analysis(section_name: str, items):
     enriched = []
     for i, item in enumerate(items, start=1):
-        log(f"{section_name} - 生成第 {i}/{len(items)} 条分析：{item['title'][:80]}")
+        log(f"{section_name} - 生成第 {i}/{len(items)} 条双语分析：{item['title'][:80]}")
         body_text = fetch_url_text(item["link"])
-        analysis = gpt_analysis(
+        analysis = gpt_bilingual_analysis(
             title=item["title"],
             summary=item.get("summary", ""),
             body_text=body_text,
@@ -400,7 +496,8 @@ def enrich_items_with_analysis(section_name: str, items):
             "link": item["link"],
             "source": item.get("source", ""),
             "published_utc": item["published_utc"],
-            "analysis": analysis,
+            "analysis_zh": analysis["zh"],
+            "analysis_en": analysis["en"],
         })
         time.sleep(0.35)
     return enriched
@@ -432,10 +529,28 @@ def build_reading_payload():
     return payload
 
 
+def write_json_dual(payload: dict, latest_path: Path, history_path: Path, name: str):
+    text = json.dumps(payload, ensure_ascii=False, indent=2)
+    latest_path.write_text(text, encoding="utf-8")
+    history_path.write_text(text, encoding="utf-8")
+    log(f"已写入 {name}: {latest_path}")
+    log(f"已写入历史 {name}: {history_path}")
+
+
+def write_html_dual(content: str, latest_path: Path, history_path: Path, name: str):
+    latest_path.write_text(content, encoding="utf-8")
+    history_path.write_text(content, encoding="utf-8")
+    log(f"已写入 {name}: {latest_path}")
+    log(f"已写入历史 {name}: {history_path}")
+
+
 def write_reading_json(payload: dict):
-    path = DOCS_DIR / "reading.json"
-    path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    log(f"已写入 reading.json: {path}")
+    write_json_dual(
+        payload,
+        DOCS_DIR / "reading.json",
+        TODAY_HISTORY_DIR / "reading.json",
+        "reading.json",
+    )
 
 
 def section_html(section_name: str, section_data: dict) -> str:
@@ -452,9 +567,13 @@ def section_html(section_name: str, section_data: dict) -> str:
         html_parts.append('<div class="card"><p>本板块最近24小时内未抓到足够新闻。</p></div>')
     else:
         for item in items:
-            analysis_html = "<br>".join(
-                html.escape(line.strip()) for line in item["analysis"].splitlines() if line.strip()
+            analysis_zh_html = "<br>".join(
+                html.escape(line.strip()) for line in item["analysis_zh"].splitlines() if line.strip()
             )
+            analysis_en_html = "<br>".join(
+                html.escape(line.strip()) for line in item["analysis_en"].splitlines() if line.strip()
+            )
+
             html_parts.append(
                 f"""
 <div class="card">
@@ -463,7 +582,16 @@ def section_html(section_name: str, section_data: dict) -> str:
     <a href="{html.escape(item["link"])}" target="_blank" rel="noopener noreferrer">{html.escape(item["title"])}</a>
   </div>
   <div class="meta">来源：{html.escape(item["source"])} ｜ 发布时间：{html.escape(item["published_utc"])}</div>
-  <div class="analysis">{analysis_html}</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">{analysis_zh_html}</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">{analysis_en_html}</div>
+    </div>
+  </div>
 </div>
 """.strip()
             )
@@ -478,6 +606,7 @@ def write_reading_html(payload: dict):
         section_html(section_name, section_data)
         for section_name, section_data in payload.get("sections", {}).items()
     )
+    history_links = render_history_links("reading.html")
 
     html_content = f"""<!doctype html>
 <html lang="zh-CN">
@@ -504,7 +633,7 @@ def write_reading_html(payload: dict):
       line-height: 1.7;
     }}
     .wrap {{
-      max-width: 1100px;
+      max-width: 1220px;
       margin: 0 auto;
       padding: 28px 20px 56px;
     }}
@@ -515,11 +644,11 @@ def write_reading_html(payload: dict):
     }}
     .top-meta {{
       color: var(--muted);
-      margin-bottom: 26px;
+      margin-bottom: 20px;
       font-size: 14px;
     }}
     .nav {{
-      margin: 6px 0 26px;
+      margin: 6px 0 18px;
     }}
     .nav a {{
       display: inline-block;
@@ -529,6 +658,22 @@ def write_reading_html(payload: dict):
       padding: 10px 14px;
       border-radius: 10px;
       font-size: 14px;
+      margin-right: 10px;
+      margin-bottom: 8px;
+    }}
+    .history-links {{
+      margin: 8px 0 28px;
+    }}
+    .history-links a {{
+      display: inline-block;
+      color: #111827;
+      text-decoration: none;
+      background: #eceff3;
+      padding: 8px 12px;
+      border-radius: 999px;
+      font-size: 13px;
+      margin-right: 8px;
+      margin-bottom: 8px;
     }}
     h2 {{
       margin: 34px 0 10px;
@@ -568,10 +713,33 @@ def write_reading_html(payload: dict):
       font-size: 14px;
       margin-bottom: 12px;
     }}
+    .analysis-grid {{
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+      margin-top: 8px;
+    }}
+    .analysis-col {{
+      background: #fafafa;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 14px;
+    }}
+    .analysis-label {{
+      color: var(--muted);
+      font-size: 13px;
+      margin-bottom: 8px;
+      font-weight: 600;
+    }}
     .analysis {{
-      font-size: 20px;
+      font-size: 19px;
       line-height: 1.9;
       white-space: normal;
+    }}
+    @media (max-width: 900px) {{
+      .analysis-grid {{
+        grid-template-columns: 1fr;
+      }}
     }}
     @media (max-width: 768px) {{
       .wrap {{ padding: 18px 14px 40px; }}
@@ -589,15 +757,24 @@ def write_reading_html(payload: dict):
       生成时间：{html.escape(generated_at)}<br>
       抓取范围：最近 24 小时内新闻
     </div>
-    <div class="nav"><a href="./index.html">返回结构监控</a></div>
+
+    <div class="nav">
+      <a href="./index.html">返回结构监控</a>
+    </div>
+
+    {history_links}
+
     {sections_html}
   </div>
 </body>
 </html>
 """
-    path = DOCS_DIR / "reading.html"
-    path.write_text(html_content, encoding="utf-8")
-    log(f"已写入 reading.html: {path}")
+    write_html_dual(
+        html_content,
+        DOCS_DIR / "reading.html",
+        TODAY_HISTORY_DIR / "reading.html",
+        "reading.html",
+    )
 
 
 # =========================
@@ -704,69 +881,147 @@ def status_text(level: str) -> str:
 
 def classify_vix(vix_value):
     if vix_value is None:
-        return "watch", "VIX 数据缺失，需人工复核。"
+        return "watch", {
+            "zh": "VIX 数据缺失，需人工复核。",
+            "en": "VIX data is missing and requires manual review.",
+        }
     if vix_value < 16:
-        return "normal", "VIX 处于低位，说明市场波动定价仍较温和。"
+        return "normal", {
+            "zh": "VIX 处于低位，说明市场波动定价仍较温和。",
+            "en": "VIX remains at a low level, indicating relatively mild volatility pricing.",
+        }
     if vix_value < 22:
-        return "watch", "VIX 已离开舒适区，说明市场对不确定性的定价开始上升。"
+        return "watch", {
+            "zh": "VIX 已离开舒适区，说明市场对不确定性的定价开始上升。",
+            "en": "VIX has moved out of the comfort zone, suggesting rising pricing of uncertainty.",
+        }
     if vix_value < 30:
-        return "risk", "VIX 进入高波动区，通常意味着风险偏好明显收缩。"
-    return "risk", "VIX 处于极高区间，结构上更应偏向防守。"
+        return "risk", {
+            "zh": "VIX 进入高波动区，通常意味着风险偏好明显收缩。",
+            "en": "VIX has entered a high-volatility zone, usually signaling a clear contraction in risk appetite.",
+        }
+    return "risk", {
+        "zh": "VIX 处于极高区间，结构上更应偏向防守。",
+        "en": "VIX is at an extremely elevated level, implying a structurally defensive environment.",
+    }
 
 
 def classify_move(move_value):
     if move_value is None:
-        return "watch", "MOVE 数据缺失，需人工复核。"
+        return "watch", {
+            "zh": "MOVE 数据缺失，需人工复核。",
+            "en": "MOVE data is missing and requires manual review.",
+        }
     if move_value < 90:
-        return "normal", "债券市场波动率较低，利率环境相对稳定。"
+        return "normal", {
+            "zh": "债券市场波动率较低，利率环境相对稳定。",
+            "en": "Bond-market volatility is relatively low, suggesting a more stable rate environment.",
+        }
     if move_value < 120:
-        return "watch", "债券波动率上升，说明利率预期开始不稳定。"
-    return "risk", "MOVE 已进入高波动区，利率市场出现明显压力。"
+        return "watch", {
+            "zh": "债券波动率上升，说明利率预期开始不稳定。",
+            "en": "Bond volatility is rising, indicating growing instability in rate expectations.",
+        }
+    return "risk", {
+        "zh": "MOVE 已进入高波动区，利率市场出现明显压力。",
+        "en": "MOVE has entered a high-volatility zone, showing clear stress in the rates market.",
+    }
 
 
 def classify_by_change_pct(label, change_pct, positive_good=True):
     if change_pct is None:
-        return "watch", f"{label} 数据缺失，需人工复核。"
+        return "watch", {
+            "zh": f"{label} 数据缺失，需人工复核。",
+            "en": f"{label} data is missing and requires manual review.",
+        }
 
     score = change_pct if positive_good else -change_pct
 
     if score >= 0.5:
-        return "normal", f"{label} 当日表现偏强，当前方向对整体结构相对有利。"
+        return "normal", {
+            "zh": f"{label} 当日表现偏强，当前方向对整体结构相对有利。",
+            "en": f"{label} is relatively strong today, which is supportive for the broader structure.",
+        }
     if score >= -0.5:
-        return "watch", f"{label} 当日变化不大，结构上更像中性或等待确认。"
-    return "risk", f"{label} 当日走弱较明显，说明该方向对当前结构的支持不足。"
+        return "watch", {
+            "zh": f"{label} 当日变化不大，结构上更像中性或等待确认。",
+            "en": f"{label} is little changed today, leaving the structure more neutral and still awaiting confirmation.",
+        }
+    return "risk", {
+        "zh": f"{label} 当日走弱较明显，说明该方向对当前结构的支持不足。",
+        "en": f"{label} is notably weaker today, suggesting insufficient support from this direction.",
+    }
 
 
 def classify_tnx(change_pct, price):
     if price is None or change_pct is None:
-        return "watch", "TNX 数据缺失，需人工复核。"
+        return "watch", {
+            "zh": "TNX 数据缺失，需人工复核。",
+            "en": "TNX data is missing and requires manual review.",
+        }
     if price >= 4.60 and change_pct > 0:
-        return "risk", "10年美债收益率处于高位且继续上行，对成长资产估值压力较大。"
+        return "risk", {
+            "zh": "10年美债收益率处于高位且继续上行，对成长资产估值压力较大。",
+            "en": "The 10-year Treasury yield is high and still rising, creating significant valuation pressure on growth assets.",
+        }
     if change_pct <= -1.5:
-        return "normal", "10年美债收益率明显回落，通常有利于成长资产估值稳定。"
+        return "normal", {
+            "zh": "10年美债收益率明显回落，通常有利于成长资产估值稳定。",
+            "en": "The 10-year Treasury yield is falling notably, which is usually supportive for growth-asset valuations.",
+        }
     if change_pct <= 0.8:
-        return "watch", "10年美债收益率变化有限，当前更偏中性观察。"
-    return "risk", "10年美债收益率继续抬升，需警惕对科技与高估值资产的压制。"
+        return "watch", {
+            "zh": "10年美债收益率变化有限，当前更偏中性观察。",
+            "en": "The 10-year Treasury yield is little changed, leaving the current setup more neutral.",
+        }
+    return "risk", {
+        "zh": "10年美债收益率继续抬升，需警惕对科技与高估值资产的压制。",
+        "en": "The 10-year Treasury yield continues to rise, which could weigh on tech and other high-valuation assets.",
+    }
 
 
 def classify_hyg(change_pct):
     if change_pct is None:
-        return "watch", "HYG 数据缺失，需人工复核。"
+        return "watch", {
+            "zh": "HYG 数据缺失，需人工复核。",
+            "en": "HYG data is missing and requires manual review.",
+        }
     if change_pct >= 0.35:
-        return "normal", "HYG 偏强，说明信用风险偏好整体仍可接受。"
+        return "normal", {
+            "zh": "HYG 偏强，说明信用风险偏好整体仍可接受。",
+            "en": "HYG is relatively strong, indicating that credit risk appetite remains acceptable overall.",
+        }
     if change_pct >= -0.40:
-        return "watch", "HYG 未给出明显方向，信用层面更偏中性。"
-    return "risk", "HYG 走弱较明显，说明信用偏好正在收缩。"
+        return "watch", {
+            "zh": "HYG 未给出明显方向，信用层面更偏中性。",
+            "en": "HYG is not giving a clear signal, leaving credit conditions more neutral.",
+        }
+    return "risk", {
+        "zh": "HYG 走弱较明显，说明信用偏好正在收缩。",
+        "en": "HYG is weakening meaningfully, suggesting a contraction in credit appetite.",
+    }
 
 
 def classify_lqd(change_pct):
     if change_pct is None:
-        return "watch", "LQD 数据缺失，需人工复核。"
+        return "watch", {
+            "zh": "LQD 数据缺失，需人工复核。",
+            "en": "LQD data is missing and requires manual review.",
+        }
     if change_pct >= 0.15:
-        return "normal", "LQD 偏稳偏强，投资级信用环境暂未见明显恶化。"
+        return "normal", {
+            "zh": "LQD 偏稳偏强，投资级信用环境暂未见明显恶化。",
+            "en": "LQD is relatively stable to firm, with no clear deterioration yet in investment-grade credit conditions.",
+        }
     if change_pct >= -0.25:
-        return "watch", "LQD 变化有限，信用环境整体中性。"
-    return "risk", "LQD 转弱，说明利率或信用层面的压力正在累积。"
+        return "watch", {
+            "zh": "LQD 变化有限，信用环境整体中性。",
+            "en": "LQD is little changed, leaving overall credit conditions neutral.",
+        }
+    return "risk", {
+        "zh": "LQD 转弱，说明利率或信用层面的压力正在累积。",
+        "en": "LQD is weakening, indicating accumulating pressure from rates and/or credit conditions.",
+    }
 
 
 def risk_level_to_score(level: str) -> int:
@@ -788,31 +1043,76 @@ def build_structure_monitor(snapshot: dict):
     items = {}
 
     level, comment = classify_vix(vix_price)
-    items["VIX"] = {"status_level": level, "status": status_text(level), "comment": comment}
+    items["VIX"] = {
+        "status_level": level,
+        "status": status_text(level),
+        "comment_zh": comment["zh"],
+        "comment_en": comment["en"],
+    }
 
     level, comment = classify_move(move_price)
-    items["MOVE"] = {"status_level": level, "status": status_text(level), "comment": comment}
+    items["MOVE"] = {
+        "status_level": level,
+        "status": status_text(level),
+        "comment_zh": comment["zh"],
+        "comment_en": comment["en"],
+    }
 
     level, comment = classify_tnx(tnx_chg, tnx_price)
-    items["TNX"] = {"status_level": level, "status": status_text(level), "comment": comment}
+    items["TNX"] = {
+        "status_level": level,
+        "status": status_text(level),
+        "comment_zh": comment["zh"],
+        "comment_en": comment["en"],
+    }
 
     level, comment = classify_by_change_pct("SPY", spy_chg, positive_good=True)
-    items["SPY"] = {"status_level": level, "status": status_text(level), "comment": comment}
+    items["SPY"] = {
+        "status_level": level,
+        "status": status_text(level),
+        "comment_zh": comment["zh"],
+        "comment_en": comment["en"],
+    }
 
     level, comment = classify_by_change_pct("QQQ", qqq_chg, positive_good=True)
-    items["QQQ"] = {"status_level": level, "status": status_text(level), "comment": comment}
+    items["QQQ"] = {
+        "status_level": level,
+        "status": status_text(level),
+        "comment_zh": comment["zh"],
+        "comment_en": comment["en"],
+    }
 
     level, comment = classify_by_change_pct("GLD", gld_chg, positive_good=True)
-    items["GLD"] = {"status_level": level, "status": status_text(level), "comment": comment}
+    items["GLD"] = {
+        "status_level": level,
+        "status": status_text(level),
+        "comment_zh": comment["zh"],
+        "comment_en": comment["en"],
+    }
 
     level, comment = classify_by_change_pct("UUP", uup_chg, positive_good=False)
-    items["UUP"] = {"status_level": level, "status": status_text(level), "comment": comment}
+    items["UUP"] = {
+        "status_level": level,
+        "status": status_text(level),
+        "comment_zh": comment["zh"],
+        "comment_en": comment["en"],
+    }
 
     level, comment = classify_hyg(hyg_chg)
-    items["HYG"] = {"status_level": level, "status": status_text(level), "comment": comment}
+    items["HYG"] = {
+        "status_level": level,
+        "status": status_text(level),
+        "comment_zh": comment["zh"],
+        "comment_en": comment["en"],
+    }
 
     level, comment = classify_lqd(lqd_chg)
-    items["LQD"] = {"status_level": level, "status": status_text(level), "comment": comment}
+    items["LQD"] = {
+        "status_level": level,
+        "status": status_text(level),
+        "comment_zh": comment["zh"],
+        "comment_en": comment["en"],
+    }
 
     return items
 
@@ -825,18 +1125,22 @@ def summarize_layer(name: str, keys: list[str], structure_monitor: dict):
     if avg_score < 0.75:
         level = "normal"
         text = "正常"
+        text_en = "Normal"
     elif avg_score < 1.5:
         level = "watch"
         text = "警惕"
+        text_en = "Watch"
     else:
         level = "risk"
         text = "风险"
+        text_en = "Risk"
 
     return {
         "name": name,
         "keys": keys,
         "status_level": level,
         "status": text,
+        "status_en": text_en,
     }
 
 
@@ -845,7 +1149,7 @@ def build_layer_summary(structure_monitor: dict):
         "波动层": summarize_layer("波动层", ["VIX"], structure_monitor),
         "利率层": summarize_layer("利率层", ["MOVE", "TNX"], structure_monitor),
         "信用层": summarize_layer("信用层", ["HYG", "LQD"], structure_monitor),
-        "资产层": summarize_layer("资产层", ["QQQ", "GLD"], structure_monitor),
+        "资产层": summarize_layer("资产层", ["QQQ", "GLD", "VLCC"], structure_monitor),
     }
 
 
@@ -857,30 +1161,45 @@ def build_regime(structure_monitor: dict):
     if total <= 3:
         regime = "Risk-on"
         risk_score = 1
-        summary = "当前结构偏积极，波动未明显放大，信用与风险偏好总体尚可。"
+        summary_zh = "当前结构偏积极，波动未明显放大，信用与风险偏好总体尚可。"
+        summary_en = "The current structure is constructive, with no major volatility expansion and generally acceptable credit and risk appetite."
     elif total <= 7:
         regime = "Neutral"
         risk_score = 2
-        summary = "当前结构偏中性，部分变量出现分化，更像震荡中的观察阶段，而不是明确单边结构。"
+        summary_zh = "当前结构偏中性，部分变量出现分化，更像震荡中的观察阶段，而不是明确单边结构。"
+        summary_en = "The current structure is neutral, with some divergence across variables, suggesting more of an observation phase than a clear one-way trend."
     elif total <= 11:
         regime = "Neutral / Defensive"
         risk_score = 3
-        summary = "当前结构偏谨慎，说明风险偏好与估值支撑并不稳固，防守比重应适度提高。"
+        summary_zh = "当前结构偏谨慎，说明风险偏好与估值支撑并不稳固，防守比重应适度提高。"
+        summary_en = "The current structure is cautious, suggesting that risk appetite and valuation support are not firm and that defensive positioning should be moderately increased."
     else:
         regime = "Risk-off"
         risk_score = 4
-        summary = "当前结构偏防守，波动、利率或信用层面至少有多项指标同步施压，不宜激进扩张风险敞口。"
+        summary_zh = "当前结构偏防守，波动、利率或信用层面至少有多项指标同步施压，不宜激进扩张风险敞口。"
+        summary_en = "The current structure is defensive, with simultaneous pressure from multiple indicators across volatility, rates, or credit, making aggressive risk expansion inadvisable."
 
-    return regime, risk_score, summary, total
+    return regime, risk_score, summary_zh, summary_en, total
 
 
-def summary_from_actions(regime, risk_score, vix, move, qqq_chg, gld_chg, vlcc_chg_3d):
-    vix_text = f"VIX {fmt_num(vix, 2)}" if vix is not None else "VIX 待确认"
-    move_text = f"MOVE {fmt_num(move, 2)}" if move is not None else "MOVE 待确认"
-    qqq_text = f"QQQ {fmt_pct(qqq_chg, 2)}" if qqq_chg is not None else "QQQ 待确认"
-    gld_text = f"GLD {fmt_pct(gld_chg, 2)}" if gld_chg is not None else "GLD 待确认"
-    vlcc_text = f"VLCC 3天 {fmt_pct(vlcc_chg_3d, 2)}" if vlcc_chg_3d is not None else "VLCC 待确认"
-    return f"当前结构为 {regime}，风险等级 {risk_score}/4；{vix_text}，{move_text}，{qqq_text}，{gld_text}，{vlcc_text}。"
+def summary_from_actions_bilingual(regime, risk_score, vix, move, qqq_chg, gld_chg, vlcc_chg_3d):
+    zh = (
+        f"当前结构为 {regime}，风险等级 {risk_score}/4；"
+        f"VIX {fmt_num(vix, 2) if vix is not None else 'N/A'}，"
+        f"MOVE {fmt_num(move, 2) if move is not None else 'N/A'}，"
+        f"QQQ {fmt_pct(qqq_chg, 2) if qqq_chg is not None else 'N/A'}，"
+        f"GLD {fmt_pct(gld_chg, 2) if gld_chg is not None else 'N/A'}，"
+        f"VLCC 3天 {fmt_pct(vlcc_chg_3d, 2) if vlcc_chg_3d is not None else 'N/A'}。"
+    )
+    en = (
+        f"The current regime is {regime} with a risk score of {risk_score}/4; "
+        f"VIX {fmt_num(vix, 2) if vix is not None else 'N/A'}, "
+        f"MOVE {fmt_num(move, 2) if move is not None else 'N/A'}, "
+        f"QQQ {fmt_pct(qqq_chg, 2) if qqq_chg is not None else 'N/A'}, "
+        f"GLD {fmt_pct(gld_chg, 2) if gld_chg is not None else 'N/A'}, "
+        f"VLCC 3d {fmt_pct(vlcc_chg_3d, 2) if vlcc_chg_3d is not None else 'N/A'}."
+    )
+    return {"zh": zh, "en": en}
 
 
 def build_actions(snapshot: dict, regime: str, risk_score: int):
@@ -891,34 +1210,55 @@ def build_actions(snapshot: dict, regime: str, risk_score: int):
     vlcc_chg_3d = snapshot.get("VLCC", {}).get("change_3d_pct")
 
     if regime == "Risk-on":
-        core = "核心仓可继续持有，优先保留高质量主线资产，但仍不建议在单日急涨后追高。"
-        trend = "趋势仓可偏向强势方向，但需要继续观察成交与后续跟随，而不是只看单日涨幅。"
-        defense = "防守仓可以维持基础配置，不必明显扩张。"
-        watchlist = "重点继续观察 VIX 是否维持低位，以及 MOVE、TNX 是否重新上行。"
+        core_zh = "核心仓可继续持有，优先保留高质量主线资产，但仍不建议在单日急涨后追高。"
+        core_en = "Core positions can continue to be held, with priority on high-quality leaders, but chasing sharp single-day gains is still not advised."
+        trend_zh = "趋势仓可偏向强势方向，但需要继续观察成交与后续跟随，而不是只看单日涨幅。"
+        trend_en = "Trend positions can lean toward stronger areas, but follow-through and participation should still be monitored rather than relying on one-day gains."
+        defense_zh = "防守仓可以维持基础配置，不必明显扩张。"
+        defense_en = "Defensive positions can remain at baseline allocations without a notable expansion."
+        watchlist_zh = "重点继续观察 VIX 是否维持低位，以及 MOVE、TNX 是否重新上行。"
+        watchlist_en = "Continue to focus on whether VIX stays low and whether MOVE or TNX start rising again."
     elif regime == "Neutral":
-        core = "核心仓先不动，维持既有框架，避免因为单日波动频繁切换。"
-        trend = "趋势仓更适合聚焦少数强势资产，弱势科技或高波动标的不要盲目加仓。"
-        defense = "黄金和防守仓维持原配置即可，更多是平衡而不是全面转防守。"
-        watchlist = "重点观察 VIX、MOVE、TNX、HYG 是否出现连续两到三天同向变化。"
+        core_zh = "核心仓先不动，维持既有框架，避免因为单日波动频繁切换。"
+        core_en = "Leave core positions unchanged for now and maintain the current framework rather than reacting to one-day volatility."
+        trend_zh = "趋势仓更适合聚焦少数强势资产，弱势科技或高波动标的不要盲目加仓。"
+        trend_en = "Trend positions should focus on a smaller set of strong assets, while avoiding blind adds to weak tech or high-volatility names."
+        defense_zh = "黄金和防守仓维持原配置即可，更多是平衡而不是全面转防守。"
+        defense_en = "Gold and defensive positions can remain at current levels, with more emphasis on balance than an outright defensive shift."
+        watchlist_zh = "重点观察 VIX、MOVE、TNX、HYG 是否出现连续两到三天同向变化。"
+        watchlist_en = "Focus on whether VIX, MOVE, TNX, and HYG show the same directional move for two to three consecutive days."
     elif regime == "Neutral / Defensive":
-        core = "核心仓仍以稳定为主，但要降低进攻性，优先保留确定性更高的资产。"
-        trend = "趋势仓应缩小战线，避免在结构不明时追逐短线弹性。"
-        defense = "黄金、防守和真实资产比重可以适度提高，用来对冲结构不确定性。"
-        watchlist = "重点观察 VIX、MOVE 是否继续抬升，以及 HYG/LQD 是否同步走弱。"
+        core_zh = "核心仓仍以稳定为主，但要降低进攻性，优先保留确定性更高的资产。"
+        core_en = "Core positions should remain stability-focused, with reduced aggressiveness and priority given to more certain assets."
+        trend_zh = "趋势仓应缩小战线，避免在结构不明时追逐短线弹性。"
+        trend_en = "Trend positions should narrow their focus and avoid chasing short-term upside when the structure is unclear."
+        defense_zh = "黄金、防守和真实资产比重可以适度提高，用来对冲结构不确定性。"
+        defense_en = "Gold, defensive holdings, and real assets can be moderately increased to hedge structural uncertainty."
+        watchlist_zh = "重点观察 VIX、MOVE 是否继续抬升，以及 HYG/LQD 是否同步走弱。"
+        watchlist_en = "Watch whether VIX and MOVE continue rising and whether HYG and LQD weaken together."
     else:
-        core = "核心仓以保守处理为主，不宜在高波动阶段扩大总风险暴露。"
-        trend = "趋势仓应明显收缩，只保留最强主线，弱势仓位优先处理。"
-        defense = "防守仓、黄金和低波动方向应明显提高权重，用于稳定组合。"
-        watchlist = "重点观察 VIX、MOVE、TNX、信用ETF 是否继续恶化，防止结构进一步破坏。"
+        core_zh = "核心仓以保守处理为主，不宜在高波动阶段扩大总风险暴露。"
+        core_en = "Core positions should be handled conservatively, with no expansion of overall risk exposure during high-volatility phases."
+        trend_zh = "趋势仓应明显收缩，只保留最强主线，弱势仓位优先处理。"
+        trend_en = "Trend positions should be reduced meaningfully, keeping only the strongest themes and trimming weaker holdings first."
+        defense_zh = "防守仓、黄金和低波动方向应明显提高权重，用于稳定组合。"
+        defense_en = "Defensive positions, gold, and lower-volatility areas should carry more weight to stabilize the portfolio."
+        watchlist_zh = "重点观察 VIX、MOVE、TNX、信用ETF 是否继续恶化，防止结构进一步破坏。"
+        watchlist_en = "Watch closely whether VIX, MOVE, TNX, and credit ETFs continue to deteriorate, to guard against further structural damage."
 
-    one_liner = summary_from_actions(regime, risk_score, vix, move, qqq_chg, gld_chg, vlcc_chg_3d)
+    one_liner = summary_from_actions_bilingual(regime, risk_score, vix, move, qqq_chg, gld_chg, vlcc_chg_3d)
 
     return {
-        "one_liner": one_liner,
-        "core": core,
-        "trend": trend,
-        "defense": defense,
-        "watchlist": watchlist,
+        "one_liner_zh": one_liner["zh"],
+        "one_liner_en": one_liner["en"],
+        "core_zh": core_zh,
+        "core_en": core_en,
+        "trend_zh": trend_zh,
+        "trend_en": trend_en,
+        "defense_zh": defense_zh,
+        "defense_en": defense_en,
+        "watchlist_zh": watchlist_zh,
+        "watchlist_en": watchlist_en,
     }
 
 
@@ -946,7 +1286,7 @@ def build_monitor_payload():
     market_snapshot = build_market_snapshot()
     structure_monitor = build_structure_monitor(market_snapshot)
     layer_summary = build_layer_summary(structure_monitor)
-    regime, risk_score, summary, internal_score = build_regime(structure_monitor)
+    regime, risk_score, summary_zh, summary_en, internal_score = build_regime(structure_monitor)
     actions = build_actions(market_snapshot, regime, risk_score)
 
     return {
@@ -954,7 +1294,8 @@ def build_monitor_payload():
         "regime": regime,
         "risk_score": risk_score,
         "internal_score": internal_score,
-        "summary": summary,
+        "summary_zh": summary_zh,
+        "summary_en": summary_en,
         "market_snapshot": market_snapshot,
         "structure_monitor": structure_monitor,
         "layer_summary": layer_summary,
@@ -963,9 +1304,12 @@ def build_monitor_payload():
 
 
 def write_monitor_json(payload: dict):
-    path = DOCS_DIR / "monitor.json"
-    path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    log(f"已写入 monitor.json: {path}")
+    write_json_dual(
+        payload,
+        DOCS_DIR / "monitor.json",
+        TODAY_HISTORY_DIR / "monitor.json",
+        "monitor.json",
+    )
 
 
 def render_snapshot_cards(snapshot: dict) -> str:
@@ -997,7 +1341,8 @@ def render_monitor_table(structure_monitor: dict) -> str:
 <tr>
   <td>{html.escape(key)}</td>
   <td>{html.escape(item.get("status", ""))}</td>
-  <td>{html.escape(item.get("comment", ""))}</td>
+  <td>{html.escape(item.get("comment_zh", ""))}</td>
+  <td>{html.escape(item.get("comment_en", ""))}</td>
 </tr>
 """.strip()
         )
@@ -1012,8 +1357,8 @@ def render_layer_cards(layer_summary: dict) -> str:
         cards.append(
             f"""
 <div class="layer-card">
-  <div class="layer-title">{html.escape(key)}</div>
-  <div class="layer-status">{html.escape(item.get("status", ""))}</div>
+  <div class="layer-title">{html.escape(key)} / {html.escape(item.get("name", ""))}</div>
+  <div class="layer-status">{html.escape(item.get("status", ""))} / {html.escape(item.get("status_en", ""))}</div>
   <div class="layer-note">{html.escape(" + ".join(item.get("keys", [])))}</div>
 </div>
 """.strip()
@@ -1021,16 +1366,30 @@ def render_layer_cards(layer_summary: dict) -> str:
     return "\n".join(cards)
 
 
+def bilingual_block(zh: str, en: str) -> str:
+    return (
+        f'<div class="bilingual-block">'
+        f'<div class="bilingual-label">中文</div>'
+        f'<div class="bilingual-text">{html.escape(zh)}</div>'
+        f'<div class="bilingual-label" style="margin-top:12px;">English</div>'
+        f'<div class="bilingual-text">{html.escape(en)}</div>'
+        f'</div>'
+    )
+
+
 def write_monitor_html(payload: dict):
     generated_at = payload.get("generated_at", "")
     regime = payload.get("regime", "N/A")
     risk_score = payload.get("risk_score", "N/A")
-    summary = payload.get("summary", "")
-    one_liner = payload.get("actions", {}).get("one_liner", "")
+    summary_zh = payload.get("summary_zh", "")
+    summary_en = payload.get("summary_en", "")
+    one_liner_zh = payload.get("actions", {}).get("one_liner_zh", "")
+    one_liner_en = payload.get("actions", {}).get("one_liner_en", "")
     snapshot_html = render_snapshot_cards(payload.get("market_snapshot", {}))
     monitor_rows = render_monitor_table(payload.get("structure_monitor", {}))
     layer_cards = render_layer_cards(payload.get("layer_summary", {}))
     actions = payload.get("actions", {})
+    history_links = render_history_links("index.html")
 
     html_content = f"""<!doctype html>
 <html lang="zh-CN">
@@ -1058,7 +1417,7 @@ def write_monitor_html(payload: dict):
       line-height: 1.7;
     }}
     .wrap {{
-      max-width: 1180px;
+      max-width: 1280px;
       margin: 0 auto;
       padding: 28px 20px 60px;
     }}
@@ -1085,7 +1444,22 @@ def write_monitor_html(payload: dict):
       padding: 10px 14px;
       border-radius: 10px;
       font-size: 14px;
-      margin-bottom: 22px;
+      margin-bottom: 12px;
+      margin-right: 10px;
+    }}
+    .history-links {{
+      margin: 8px 0 24px;
+    }}
+    .history-links a {{
+      display: inline-block;
+      color: #111827;
+      text-decoration: none;
+      background: #eceff3;
+      padding: 8px 12px;
+      border-radius: 999px;
+      font-size: 13px;
+      margin-right: 8px;
+      margin-bottom: 8px;
     }}
     .hero {{
       background: var(--card);
@@ -1118,12 +1492,24 @@ def write_monitor_html(payload: dict):
     }}
     .hero-summary {{
       margin-top: 14px;
-      font-size: 18px;
+    }}
+    .bilingual-block {{
+      font-size: 17px;
       line-height: 1.8;
+    }}
+    .bilingual-label {{
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 600;
+      margin-bottom: 4px;
+    }}
+    .bilingual-text {{
+      font-size: 17px;
+      line-height: 1.85;
     }}
     .layer-grid {{
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
       gap: 14px;
     }}
     .layer-card {{
@@ -1139,7 +1525,7 @@ def write_monitor_html(payload: dict):
       margin-bottom: 6px;
     }}
     .layer-status {{
-      font-size: 24px;
+      font-size: 22px;
       font-weight: 700;
       line-height: 1.3;
     }}
@@ -1211,23 +1597,32 @@ def write_monitor_html(payload: dict):
     .action-title {{
       font-size: 18px;
       font-weight: 700;
-      margin-bottom: 6px;
+      margin-bottom: 8px;
     }}
-    .action-text {{
-      font-size: 18px;
-      line-height: 1.8;
+    @media (max-width: 1000px) {{
+      .hero-grid {{
+        grid-template-columns: repeat(2, minmax(0,1fr));
+      }}
     }}
-    @media (max-width: 900px) {{
-      .hero-grid {{ grid-template-columns: repeat(2, minmax(0,1fr)); }}
-    }}
-    @media (max-width: 640px) {{
-      .wrap {{ padding: 18px 14px 40px; }}
-      h1 {{ font-size: 30px; }}
-      h2 {{ font-size: 24px; }}
-      .hero-grid {{ grid-template-columns: 1fr; }}
-      .hero-value, .snap-price, .layer-status {{ font-size: 22px; }}
-      .hero-summary, .action-text {{ font-size: 17px; }}
-      th, td {{ font-size: 15px; }}
+    @media (max-width: 700px) {{
+      .hero-grid {{
+        grid-template-columns: 1fr;
+      }}
+      .wrap {{
+        padding: 18px 14px 40px;
+      }}
+      h1 {{
+        font-size: 30px;
+      }}
+      h2 {{
+        font-size: 24px;
+      }}
+      .hero-value, .snap-price, .layer-status {{
+        font-size: 22px;
+      }}
+      th, td {{
+        font-size: 15px;
+      }}
     }}
   </style>
 </head>
@@ -1235,28 +1630,35 @@ def write_monitor_html(payload: dict):
   <div class="wrap">
     <h1>结构监控</h1>
     <div class="top-meta">生成时间：{html.escape(generated_at)}</div>
-    <div class="nav"><a href="./reading.html">查看每日扩展阅读</a></div>
+
+    <div class="nav">
+      <a href="./reading.html">查看每日扩展阅读</a>
+    </div>
+
+    {history_links}
 
     <section class="hero">
       <div class="hero-grid">
         <div class="hero-item">
-          <div class="hero-label">今日结构</div>
+          <div class="hero-label">今日结构 / Regime</div>
           <div class="hero-value">{html.escape(regime)}</div>
         </div>
         <div class="hero-item">
-          <div class="hero-label">风险等级</div>
+          <div class="hero-label">风险等级 / Risk Score</div>
           <div class="hero-value">{html.escape(str(risk_score))}/4</div>
         </div>
         <div class="hero-item">
-          <div class="hero-label">一句话建议</div>
-          <div class="hero-value" style="font-size:17px;font-weight:600;">{html.escape(one_liner)}</div>
+          <div class="hero-label">一句话建议 / One-liner</div>
+          {bilingual_block(one_liner_zh, one_liner_en)}
         </div>
         <div class="hero-item">
-          <div class="hero-label">综合判断</div>
-          <div class="hero-value" style="font-size:17px;font-weight:600;">{html.escape(summary)}</div>
+          <div class="hero-label">综合判断 / Summary</div>
+          {bilingual_block(summary_zh, summary_en)}
         </div>
       </div>
-      <div class="hero-summary">{html.escape(summary)}</div>
+      <div class="hero-summary">
+        {bilingual_block(summary_zh, summary_en)}
+      </div>
     </section>
 
     <h2>结构分层总览</h2>
@@ -1275,7 +1677,8 @@ def write_monitor_html(payload: dict):
         <tr>
           <th style="width:110px;">指标</th>
           <th style="width:100px;">状态</th>
-          <th>说明</th>
+          <th>中文说明</th>
+          <th>English</th>
         </tr>
       </thead>
       <tbody>
@@ -1285,28 +1688,31 @@ def write_monitor_html(payload: dict):
 
     <h2>操作建议</h2>
     <div class="card">
-      <div class="action-title">核心仓</div>
-      <div class="action-text">{html.escape(actions.get("core", ""))}</div>
+      <div class="action-title">核心仓 / Core</div>
+      {bilingual_block(actions.get("core_zh", ""), actions.get("core_en", ""))}
     </div>
     <div class="card">
-      <div class="action-title">趋势仓</div>
-      <div class="action-text">{html.escape(actions.get("trend", ""))}</div>
+      <div class="action-title">趋势仓 / Trend</div>
+      {bilingual_block(actions.get("trend_zh", ""), actions.get("trend_en", ""))}
     </div>
     <div class="card">
-      <div class="action-title">防守仓</div>
-      <div class="action-text">{html.escape(actions.get("defense", ""))}</div>
+      <div class="action-title">防守仓 / Defense</div>
+      {bilingual_block(actions.get("defense_zh", ""), actions.get("defense_en", ""))}
     </div>
     <div class="card">
-      <div class="action-title">观察项</div>
-      <div class="action-text">{html.escape(actions.get("watchlist", ""))}</div>
+      <div class="action-title">观察项 / Watchlist</div>
+      {bilingual_block(actions.get("watchlist_zh", ""), actions.get("watchlist_en", ""))}
     </div>
   </div>
 </body>
 </html>
 """
-    path = DOCS_DIR / "index.html"
-    path.write_text(html_content, encoding="utf-8")
-    log(f"已写入 index.html: {path}")
+    write_html_dual(
+        html_content,
+        DOCS_DIR / "index.html",
+        TODAY_HISTORY_DIR / "index.html",
+        "index.html",
+    )
 
 
 # =========================
@@ -1317,7 +1723,7 @@ def main():
     log("开始生成结构监控与每日扩展阅读")
 
     if not OPENAI_API_KEY:
-        log("警告：未检测到 OPENAI_API_KEY，扩展阅读将使用兜底分析模板。")
+        log("警告：未检测到 OPENAI_API_KEY，双语扩展阅读将使用兜底分析模板。")
 
     monitor_payload = build_monitor_payload()
     write_monitor_json(monitor_payload)
@@ -1326,6 +1732,8 @@ def main():
     reading_payload = build_reading_payload()
     write_reading_json(reading_payload)
     write_reading_html(reading_payload)
+
+    cleanup_old_history(HISTORY_KEEP_DAYS)
 
     log("全部完成")
 
