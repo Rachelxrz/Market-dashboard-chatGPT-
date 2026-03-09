@@ -87,6 +87,33 @@
       font-size: 18px;
       line-height: 1.8;
     }
+    .layer-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 14px;
+    }
+    .layer-card {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      padding: 16px;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+    }
+    .layer-title {
+      color: var(--muted);
+      font-size: 13px;
+      margin-bottom: 6px;
+    }
+    .layer-status {
+      font-size: 24px;
+      font-weight: 700;
+      line-height: 1.3;
+    }
+    .layer-note {
+      color: var(--muted);
+      font-size: 13px;
+      margin-top: 6px;
+    }
     .snap-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
@@ -157,14 +184,14 @@
       line-height: 1.8;
     }
     @media (max-width: 900px) {
-      .hero-grid, .snap-grid { grid-template-columns: repeat(2, minmax(0,1fr)); }
+      .hero-grid { grid-template-columns: repeat(2, minmax(0,1fr)); }
     }
     @media (max-width: 640px) {
       .wrap { padding: 18px 14px 40px; }
       h1 { font-size: 30px; }
       h2 { font-size: 24px; }
-      .hero-grid, .snap-grid { grid-template-columns: 1fr; }
-      .hero-value, .snap-price { font-size: 22px; }
+      .hero-grid { grid-template-columns: 1fr; }
+      .hero-value, .snap-price, .layer-status { font-size: 22px; }
       .hero-summary, .action-text { font-size: 17px; }
       th, td { font-size: 15px; }
     }
@@ -173,7 +200,7 @@
 <body>
   <div class="wrap">
     <h1>结构监控</h1>
-    <div class="top-meta">生成时间：2026-03-08 20:55:12 UTC</div>
+    <div class="top-meta">生成时间：2026-03-09 00:20:14 UTC</div>
     <div class="nav"><a href="./reading.html">查看每日扩展阅读</a></div>
 
     <section class="hero">
@@ -188,7 +215,7 @@
         </div>
         <div class="hero-item">
           <div class="hero-label">一句话建议</div>
-          <div class="hero-value" style="font-size:17px;font-weight:600;">当前结构为 Risk-off，风险等级 4/4；VIX 29.49，QQQ -1.49%，GLD +1.04%，VLCC 3天 -6.18%。</div>
+          <div class="hero-value" style="font-size:17px;font-weight:600;">当前结构为 Risk-off，风险等级 4/4；VIX 29.49，MOVE 81.26，QQQ -1.49%，GLD +1.04%，VLCC 3天 -6.18%。</div>
         </div>
         <div class="hero-item">
           <div class="hero-label">综合判断</div>
@@ -197,6 +224,30 @@
       </div>
       <div class="hero-summary">当前结构偏防守，波动、利率或信用层面至少有多项指标同步施压，不宜激进扩张风险敞口。</div>
     </section>
+
+    <h2>结构分层总览</h2>
+    <div class="layer-grid">
+      <div class="layer-card">
+  <div class="layer-title">波动层</div>
+  <div class="layer-status">风险</div>
+  <div class="layer-note">VIX</div>
+</div>
+<div class="layer-card">
+  <div class="layer-title">利率层</div>
+  <div class="layer-status">警惕</div>
+  <div class="layer-note">MOVE + TNX</div>
+</div>
+<div class="layer-card">
+  <div class="layer-title">信用层</div>
+  <div class="layer-status">风险</div>
+  <div class="layer-note">HYG + LQD</div>
+</div>
+<div class="layer-card">
+  <div class="layer-title">资产层</div>
+  <div class="layer-status">警惕</div>
+  <div class="layer-note">QQQ + GLD</div>
+</div>
+    </div>
 
     <h2>市场快照</h2>
     <div class="snap-grid">
@@ -261,35 +312,42 @@
   <div class="snap-price">4.13</div>
   <div class="snap-change">1天：+2.58%</div>
   <div class="snap-change">3天：+1.90%</div>
-  <div class="snap-note">10年美债收益率代理</div>
+  <div class="snap-note">10年美债收益率</div>
+</div>
+<div class="snap-card">
+  <div class="snap-title">MOVE</div>
+  <div class="snap-price">81.26</div>
+  <div class="snap-change">1天：+26.44%</div>
+  <div class="snap-change">3天：+4.52%</div>
+  <div class="snap-note">债券波动率</div>
 </div>
 <div class="snap-card">
   <div class="snap-title">VIX</div>
   <div class="snap-price">29.49</div>
   <div class="snap-change">1天：+54.48%</div>
   <div class="snap-change">3天：+25.12%</div>
-  <div class="snap-note">波动率代理</div>
+  <div class="snap-note">股市波动率</div>
 </div>
 <div class="snap-card">
   <div class="snap-title">HYG</div>
   <div class="snap-price">79.69</div>
   <div class="snap-change">1天：-1.62%</div>
   <div class="snap-change">3天：-0.54%</div>
-  <div class="snap-note">高收益债偏好</div>
+  <div class="snap-note">高收益债信用</div>
 </div>
 <div class="snap-card">
   <div class="snap-title">LQD</div>
   <div class="snap-price">110.16</div>
   <div class="snap-change">1天：-1.28%</div>
   <div class="snap-change">3天：-0.64%</div>
-  <div class="snap-note">投资级信用债</div>
+  <div class="snap-note">投资级信用</div>
 </div>
 <div class="snap-card">
   <div class="snap-title">VLCC</div>
   <div class="snap-price">18.07</div>
   <div class="snap-change">1天：+3.55%</div>
   <div class="snap-change">3天：-6.18%</div>
-  <div class="snap-note">VLCC 航运代理（当前映射: DHT）</div>
+  <div class="snap-note">VLCC 航运代理（当前: DHT）</div>
 </div>
     </div>
 
@@ -307,6 +365,16 @@
   <td>VIX</td>
   <td>风险</td>
   <td>VIX 进入高波动区，通常意味着风险偏好明显收缩。</td>
+</tr>
+<tr>
+  <td>MOVE</td>
+  <td>正常</td>
+  <td>债券市场波动率较低，利率环境相对稳定。</td>
+</tr>
+<tr>
+  <td>TNX</td>
+  <td>风险</td>
+  <td>10年美债收益率继续抬升，需警惕对科技与高估值资产的压制。</td>
 </tr>
 <tr>
   <td>SPY</td>
@@ -327,11 +395,6 @@
   <td>UUP</td>
   <td>风险</td>
   <td>UUP 当日走弱较明显，说明该方向对当前结构的支持不足。</td>
-</tr>
-<tr>
-  <td>TNX</td>
-  <td>风险</td>
-  <td>10年美债收益率继续抬升，需警惕对科技与高估值资产的压制。</td>
 </tr>
 <tr>
   <td>HYG</td>
@@ -361,7 +424,7 @@
     </div>
     <div class="card">
       <div class="action-title">观察项</div>
-      <div class="action-text">重点观察 VIX、TNX、信用ETF 是否继续恶化，防止结构进一步破坏。</div>
+      <div class="action-text">重点观察 VIX、MOVE、TNX、信用ETF 是否继续恶化，防止结构进一步破坏。</div>
     </div>
   </div>
 </body>

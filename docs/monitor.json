@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08 20:55:12 UTC",
+  "generated_at": "2026-03-09 00:20:14 UTC",
   "regime": "Risk-off",
   "risk_score": 4,
   "internal_score": 14,
@@ -92,7 +92,17 @@
       "change_pct": 2.5812856788284955,
       "change_3d": 0.0769997673034668,
       "change_3d_pct": 1.8984162447218444,
-      "note": "10年美债收益率代理",
+      "note": "10年美债收益率",
+      "ok": true
+    },
+    "MOVE": {
+      "label": "MOVE",
+      "price": 81.262,
+      "change": 16.992000000000004,
+      "change_pct": 26.43846273533531,
+      "change_3d": 3.5120000000000005,
+      "change_3d_pct": 4.517041800643088,
+      "note": "债券波动率",
       "ok": true
     },
     "VIX": {
@@ -102,7 +112,7 @@
       "change_pct": 54.47878470403352,
       "change_3d": 5.92000030517578,
       "change_3d_pct": 25.11667535776746,
-      "note": "波动率代理",
+      "note": "股市波动率",
       "ok": true
     },
     "HYG": {
@@ -112,7 +122,7 @@
       "change_pct": -1.617283950617287,
       "change_3d": -0.4300027465820335,
       "change_3d_pct": -0.5366983672505898,
-      "note": "高收益债偏好",
+      "note": "高收益债信用",
       "ok": true
     },
     "LQD": {
@@ -122,7 +132,7 @@
       "change_pct": -1.2814768348418377,
       "change_3d": -0.7100027465820347,
       "change_3d_pct": -0.6403921069659422,
-      "note": "投资级信用债",
+      "note": "投资级信用",
       "ok": true
     },
     "VLCC": {
@@ -132,7 +142,7 @@
       "change_pct": 3.5530085959885445,
       "change_3d": -1.1900002288818357,
       "change_3d_pct": -6.178609630011009,
-      "note": "VLCC 航运代理（当前映射: DHT）",
+      "note": "VLCC 航运代理（当前: DHT）",
       "ok": true
     }
   },
@@ -141,6 +151,16 @@
       "status_level": "risk",
       "status": "风险",
       "comment": "VIX 进入高波动区，通常意味着风险偏好明显收缩。"
+    },
+    "MOVE": {
+      "status_level": "normal",
+      "status": "正常",
+      "comment": "债券市场波动率较低，利率环境相对稳定。"
+    },
+    "TNX": {
+      "status_level": "risk",
+      "status": "风险",
+      "comment": "10年美债收益率继续抬升，需警惕对科技与高估值资产的压制。"
     },
     "SPY": {
       "status_level": "risk",
@@ -162,11 +182,6 @@
       "status": "风险",
       "comment": "UUP 当日走弱较明显，说明该方向对当前结构的支持不足。"
     },
-    "TNX": {
-      "status_level": "risk",
-      "status": "风险",
-      "comment": "10年美债收益率继续抬升，需警惕对科技与高估值资产的压制。"
-    },
     "HYG": {
       "status_level": "risk",
       "status": "风险",
@@ -178,11 +193,48 @@
       "comment": "LQD 转弱，说明利率或信用层面的压力正在累积。"
     }
   },
+  "layer_summary": {
+    "波动层": {
+      "name": "波动层",
+      "keys": [
+        "VIX"
+      ],
+      "status_level": "risk",
+      "status": "风险"
+    },
+    "利率层": {
+      "name": "利率层",
+      "keys": [
+        "MOVE",
+        "TNX"
+      ],
+      "status_level": "watch",
+      "status": "警惕"
+    },
+    "信用层": {
+      "name": "信用层",
+      "keys": [
+        "HYG",
+        "LQD"
+      ],
+      "status_level": "risk",
+      "status": "风险"
+    },
+    "资产层": {
+      "name": "资产层",
+      "keys": [
+        "QQQ",
+        "GLD"
+      ],
+      "status_level": "watch",
+      "status": "警惕"
+    }
+  },
   "actions": {
-    "one_liner": "当前结构为 Risk-off，风险等级 4/4；VIX 29.49，QQQ -1.49%，GLD +1.04%，VLCC 3天 -6.18%。",
+    "one_liner": "当前结构为 Risk-off，风险等级 4/4；VIX 29.49，MOVE 81.26，QQQ -1.49%，GLD +1.04%，VLCC 3天 -6.18%。",
     "core": "核心仓以保守处理为主，不宜在高波动阶段扩大总风险暴露。",
     "trend": "趋势仓应明显收缩，只保留最强主线，弱势仓位优先处理。",
     "defense": "防守仓、黄金和低波动方向应明显提高权重，用于稳定组合。",
-    "watchlist": "重点观察 VIX、TNX、信用ETF 是否继续恶化，防止结构进一步破坏。"
+    "watchlist": "重点观察 VIX、MOVE、TNX、信用ETF 是否继续恶化，防止结构进一步破坏。"
   }
 }
