@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-09 14:51:55 UTC",
-  "generated_at_unix": 1773067915,
+  "generated_at": "2026-03-09 21:01:45 UTC",
+  "generated_at_unix": 1773090105,
   "window": {
-    "from_utc": "2026-03-08 14:51:55 UTC",
-    "to_utc": "2026-03-09 14:51:55 UTC",
+    "from_utc": "2026-03-08 21:01:45 UTC",
+    "to_utc": "2026-03-09 21:01:45 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,150 +14,141 @@
       "items": [
         {
           "rank": 1,
-          "title": "Hims & Hers shares surge after Novo Nordisk drops patent infringement case over compounded weight loss drugs",
-          "link": "https://www.cnbc.com/2026/03/09/novo-nordisk-ends-legal-proceedings-hims-hers-compounded-weight-loss-drugs.html",
+          "title": "Trump says Iran 'war is very complete,' talks to Putin, reports say",
+          "link": "https://www.cnbc.com/2026/03/09/trump-iran-war-end.html",
           "source": "US Top News and Analysis",
-          "published_utc": "2026-03-09 14:48 UTC",
-          "analysis_zh": "Hims & Hers的股票在诺和诺德撤回针对其的专利侵权诉讼后大幅上涨。诺和诺德与Hims & Hers达成协议，后者将销售诺和诺德的品牌药物。这一事件不仅缓解了Hims & Hers在法律上的压力，还可能为其未来的市场拓展提供了新的机会。投资者对这一消息反应积极，显示出对Hims & Hers未来发展的信心。",
-          "analysis_en": "Shares of Hims & Hers surged after Novo Nordisk dropped its patent infringement case against the telehealth provider. The two companies reached an agreement that allows Hims & Hers to sell Novo's branded medications. This development not only alleviates legal pressures on Hims & Hers but also opens up new opportunities for market expansion. Investors reacted positively to the news, reflecting confidence in Hims & Hers' future growth."
+          "published_utc": "2026-03-09 21:01 UTC",
+          "analysis_zh": "美国总统特朗普近日表示，与伊朗的战争可能比预期更快结束，这一言论引发了美国股市的上涨。这一消息的重要性在于，若战争迅速结束，可能会减轻市场对地缘政治风险的担忧，进而促进投资者信心的恢复。此外，特朗普与普京的对话也可能影响国际关系，尤其是在中东地区的局势稳定方面。",
+          "analysis_en": "Recently, President Trump stated that the war with Iran could end sooner than expected, which led to a rise in U.S. stock market indexes. This statement is significant because a swift resolution to the conflict could alleviate market concerns over geopolitical risks, thereby restoring investor confidence. Additionally, Trump's discussions with Putin may impact international relations, particularly regarding stability in the Middle East."
         },
         {
           "rank": 2,
-          "title": "Oil surges above $100 per barrel as Iran war triggers record supply disruption with no end in sight",
-          "link": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
+          "title": "Anthropic was the Pentagon's choice for AI. Now it's banned and experts are worried",
+          "link": "https://www.cnbc.com/2026/03/09/anthropic-was-the-pentagons-choice-for-ai-now-its-banned-and-experts-are-worried.html",
           "source": "US Top News and Analysis",
-          "published_utc": "2026-03-09 14:46 UTC",
-          "analysis_zh": "近期，由于伊朗战争导致供应中断，国际油价已超过每桶100美元。海湾阿拉伯国家的石油生产商因无法通过霍尔木兹海峡出口而面临储存空间不足的问题，因此不得不减产。这一现象不仅影响了全球能源市场的稳定性，也可能导致油价进一步上涨，进而影响各国经济，尤其是依赖进口石油的国家。",
-          "analysis_en": "Recently, international oil prices have surged above $100 per barrel due to supply disruptions caused by the war in Iran. Gulf Arab oil producers are cutting production as they face storage shortages, unable to export through the Strait of Hormuz. This situation not only affects the stability of the global energy market but may also lead to further increases in oil prices, impacting economies, particularly those that rely heavily on oil imports."
+          "published_utc": "2026-03-09 20:56 UTC",
+          "analysis_zh": "美国国防部选择了人工智能公司Anthropic作为其合作伙伴，但最近该公司被列入黑名单，这引发了许多行业专家的担忧。Anthropic与亚马逊和Palantir的合作曾使其在国防部内取得了一定的进展，而现在的禁令可能会影响其未来的发展。此事件不仅影响了Anthropic的业务，也可能对整个人工智能行业的合作模式和政策产生深远的影响。",
+          "analysis_en": "The U.S. Department of Defense had selected the AI company Anthropic as a partner, but it has recently been blacklisted, raising concerns among many industry experts. Anthropic's partnerships with Amazon and Palantir had previously allowed it to make significant inroads within the DOD, and this ban could hinder its future growth. This situation not only affects Anthropic's operations but may also have broader implications for collaboration and policy within the entire AI industry."
         },
         {
           "rank": 3,
-          "title": "TSA staff shortages lead to hourslong security lines for travelers at some airports",
-          "link": "https://www.cnbc.com/2026/03/08/tsa-airport-security-line-delays-in-government-shutdown.html",
+          "title": "There's another energy market that may get hit harder than oil by Strait of Hormuz closure",
+          "link": "https://www.cnbc.com/2026/03/09/theres-another-energy-market-that-may-get-hit-harder-than-oil-by-strait-of-hormuz-closure.html",
           "source": "US Top News and Analysis",
-          "published_utc": "2026-03-09 14:45 UTC",
-          "analysis_zh": "由于美国运输安全管理局（TSA）的人手短缺，许多机场的安检队伍出现了长达数小时的等待时间。这一情况不仅给旅行者带来了极大的不便，也可能影响到航空公司的运营效率和旅客的出行体验。随着假期的临近，安检延误可能导致航班延误或取消，进而影响到整个航空运输系统的正常运作。",
-          "analysis_en": "Due to staffing shortages at the Transportation Security Administration (TSA), many airports are experiencing security lines that can last for hours. This situation not only causes significant inconvenience for travelers but may also impact airline operations and overall passenger experience. As the holiday season approaches, delays at security could lead to flight delays or cancellations, further affecting the normal functioning of the air transportation system."
+          "published_utc": "2026-03-09 20:51 UTC",
+          "analysis_zh": "霍尔木兹海峡的关闭可能对全球液化天然气市场造成更大的影响。大约20%的全球液化天然气通过该海峡运输，因此其关闭将导致供应链中断，进而推高能源价格。这一事件不仅影响到能源市场的稳定性，还可能对依赖进口天然气的国家造成经济压力，进一步影响全球能源安全。",
+          "analysis_en": "The closure of the Strait of Hormuz could have a more significant impact on the global liquefied natural gas market. Approximately 20% of the world's liquefied natural gas passes through this strait, so its closure would disrupt supply chains and likely drive up energy prices. This event not only threatens the stability of energy markets but may also place economic pressure on countries that rely on imported natural gas, further affecting global energy security."
         },
         {
           "rank": 4,
-          "title": "UAE sees drop in Iran missile and drone attacks on Monday",
-          "link": "https://www.investing.com/news/stock-market-news/uae-sees-drop-in-iran-missile-and-drone-attacks-on-monday-93CH-4550021",
-          "source": "Stock Market News",
-          "published_utc": "2026-03-09 14:44 UTC",
-          "analysis_zh": "阿联酋在周一报告称，伊朗的导弹和无人机攻击有所减少。这一变化可能与地区紧张局势的缓解有关，反映出外交努力的成效。减少攻击不仅有助于提升阿联酋的安全局势，也可能对该地区的经济稳定产生积极影响。",
-          "analysis_en": "On Monday, the UAE reported a decrease in missile and drone attacks from Iran. This change may be linked to a de-escalation of regional tensions, reflecting the effectiveness of diplomatic efforts. The reduction in attacks not only enhances the security situation in the UAE but could also have a positive impact on economic stability in the region."
+          "title": "Oil prices decline after nearly hitting $120 as Trump says U.S. considering taking over Strait of Hormuz",
+          "link": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-03-09 20:45 UTC",
+          "analysis_zh": "近期，油价在接近120美元后出现下跌，原因是特朗普表示美国正在考虑接管霍尔木兹海峡。海湾阿拉伯国家的石油生产商因缺乏储存空间而被迫削减产量，因为他们无法通过霍尔木兹海峡进行出口。这一事件不仅影响了全球油市的供需平衡，也可能导致国际油价的波动，进而影响各国经济和能源政策。",
+          "analysis_en": "Recently, oil prices have declined after nearly reaching $120, following Trump's statement that the U.S. is considering taking over the Strait of Hormuz. Gulf Arab oil producers are forced to cut production due to a lack of storage space, as they cannot export through the Strait. This situation not only affects the supply-demand balance in the global oil market but may also lead to fluctuations in international oil prices, impacting the economies and energy policies of various countries."
         },
         {
           "rank": 5,
-          "title": "Bitcoin price today: up at $69k but rangebound as oil surge stokes inflation fears",
-          "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-muted-near-67k-as-oil-surge-stokes-inflation-fears-4548687",
-          "source": "Cryptocurrency News",
-          "published_utc": "2026-03-09 14:43 UTC",
-          "analysis_zh": "今天，比特币价格上涨至69,000美元，但由于油价飙升引发通胀担忧，市场仍处于区间震荡中。这一价格波动表明，尽管比特币的价值在短期内有所上升，但市场情绪依然谨慎。投资者对通胀的担忧可能会影响他们的投资决策，从而对加密货币市场的稳定性产生影响。",
-          "analysis_en": "Today, Bitcoin's price has risen to $69,000, but the market remains rangebound due to surging oil prices that are raising inflation fears. This price fluctuation indicates that while Bitcoin's value has increased in the short term, market sentiment remains cautious. Concerns about inflation may influence investors' decisions, potentially impacting the stability of the cryptocurrency market."
+          "title": "Air New Zealand suspends FY26 outlook, flags network changes as fuel prices soar",
+          "link": "https://www.investing.com/news/stock-market-news/air-new-zealand-suspends-fy26-forecast-as-jet-fuel-spikes-on-middle-east-conflict-4550478",
+          "source": "Stock Market News",
+          "published_utc": "2026-03-09 20:43 UTC",
+          "analysis_zh": "新西兰航空宣布暂停对2026财年的展望，并表示由于燃料价格飙升，将对其航线网络进行调整。这一决定反映了航空业在面对不断上涨的运营成本时所面临的挑战。暂停展望可能会影响投资者的信心，导致股价波动。此外，航线的调整可能会影响公司的盈利能力和市场竞争力。",
+          "analysis_en": "Air New Zealand has suspended its outlook for the fiscal year 2026 and indicated that it will make changes to its network due to soaring fuel prices. This decision highlights the challenges the airline industry faces with rising operational costs. The suspension of the outlook may affect investor confidence and lead to fluctuations in stock prices. Furthermore, the adjustments to the network could impact the company's profitability and competitive position in the market."
         },
         {
           "rank": 6,
-          "title": "PG&E, Algonquin Power and Avista Are Drawing New Analyst Interest in the Utility Sector",
-          "link": "https://finance.yahoo.com/news/pg-e-algonquin-power-avista-144316478.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-09 14:43 UTC",
-          "analysis_zh": "最近，PG&E、Algonquin Power和Avista三家公司在公用事业行业引起了新的分析师关注。这一现象表明，投资者对公用事业领域的兴趣正在上升，可能是由于市场对可再生能源和基础设施投资的重视。分析师的关注可能会推动这些公司的股价上涨，并吸引更多的投资者参与，进而影响整个行业的资本流动和发展方向。",
-          "analysis_en": "Recently, PG&E, Algonquin Power, and Avista have garnered new analyst interest in the utility sector. This trend indicates a growing investor interest in the utility industry, likely driven by the market's focus on renewable energy and infrastructure investments. The attention from analysts could lead to an increase in the stock prices of these companies and attract more investors, potentially influencing capital flows and development directions across the entire sector."
+          "title": "Hewlett Packard Enterprise forecasts revenue above estimates on AI boom",
+          "link": "https://www.investing.com/news/stock-market-news/hewlett-packard-enterprise-forecasts-revenue-above-estimates-4550529",
+          "source": "Stock Market News",
+          "published_utc": "2026-03-09 20:43 UTC",
+          "analysis_zh": "惠普企业公司预测，由于人工智能的快速发展，其收入将超出市场预期。这一预测表明，人工智能技术正在推动企业增长，并可能改变整个行业的竞争格局。投资者对此消息反应积极，可能会导致股价上涨，并吸引更多资金流入相关领域。",
+          "analysis_en": "Hewlett Packard Enterprise has forecasted that its revenue will exceed market expectations due to the rapid growth of artificial intelligence. This prediction indicates that AI technology is driving business growth and could alter the competitive landscape across the industry. Investors have reacted positively to this news, which may lead to a rise in stock prices and attract more capital into related sectors."
         },
         {
           "rank": 7,
-          "title": "Factbox-Airlines cancel more flights as Middle East conflict escalates",
-          "link": "https://www.investing.com/news/stock-market-news/factboxairlines-cancel-more-flights-as-middle-east-conflict-escalates-4550020",
+          "title": "Wall St ends higher as hopes of Iran war resolution offset inflation fears",
+          "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-slump-as-iran-war-drags-on-oil-near-120-stokes-inflation-worries-4548817",
           "source": "Stock Market News",
-          "published_utc": "2026-03-09 14:42 UTC",
-          "analysis_zh": "随着中东冲突的升级，多家航空公司宣布取消更多航班。这一决定不仅影响了数以千计的旅客出行计划，也反映了地区局势对全球航空业的深远影响。航班取消可能导致航空公司面临经济损失，同时也可能加剧人们对安全旅行的担忧，进一步影响旅游业的复苏。",
-          "analysis_en": "As the conflict in the Middle East escalates, several airlines have announced the cancellation of more flights. This decision affects thousands of travelers and highlights the significant impact of regional instability on the global aviation industry. The flight cancellations may lead to financial losses for the airlines and heighten concerns about safe travel, potentially hindering the recovery of the tourism sector."
+          "published_utc": "2026-03-09 20:42 UTC",
+          "analysis_zh": "华尔街股市上涨，主要是因为市场对伊朗战争局势缓和的希望，抵消了对通货膨胀的担忧。这一变化表明投资者对未来经济形势的乐观情绪，可能会刺激更多资金流入股市。若战争得到有效解决，可能会进一步稳定全球经济，促进各行业的复苏。",
+          "analysis_en": "Wall Street's stock market rose, primarily due to hopes for a resolution in the Iran conflict, which alleviated concerns about inflation. This shift indicates a growing optimism among investors regarding the future economic outlook, potentially leading to increased capital inflow into the stock market. If the conflict is effectively resolved, it could further stabilize the global economy and promote recovery across various sectors."
         },
         {
           "rank": 8,
-          "title": "Stock Gains Without the Stress? The “Safety Net” ETF That Protects You From the First 15% of Market Losses",
-          "link": "https://finance.yahoo.com/news/stock-gains-without-stress-safety-144223510.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-09 14:42 UTC",
-          "analysis_zh": "最近，一种新的交易所交易基金（ETF）引起了投资者的关注，这种基金能够在市场下跌的初期阶段提供保护，具体来说是前15%的损失。这一创新的金融产品为投资者提供了一种相对安全的投资方式，尤其是在市场波动加剧的情况下。它的推出可能会吸引那些希望降低风险的投资者，从而改变他们的投资策略和市场参与方式。",
-          "analysis_en": "Recently, a new exchange-traded fund (ETF) has garnered attention from investors as it offers protection against the first 15% of market losses. This innovative financial product provides a relatively safe investment option, especially during periods of increased market volatility. Its introduction may attract risk-averse investors, potentially altering their investment strategies and overall market participation."
+          "title": "Shares turn higher, oil prices retreat after Trump hints at end to Iran war",
+          "link": "https://www.investing.com/news/stock-market-news/oil-soars-shares-slide-in-asia-as-middle-east-conflict-rages-4548645",
+          "source": "Stock Market News",
+          "published_utc": "2026-03-09 20:42 UTC",
+          "analysis_zh": "近期，特朗普暗示伊朗战争可能接近尾声，导致股市上涨，油价回落。这一消息对投资者而言意义重大，因为战争的不确定性往往会影响市场情绪和油价波动。若战争真的结束，可能会促进全球经济复苏，并稳定能源市场，从而影响相关行业的投资决策。",
+          "analysis_en": "Recently, Trump hinted that the war in Iran might be coming to an end, which led to a rise in stock prices and a retreat in oil prices. This news is significant for investors, as the uncertainty of war often impacts market sentiment and oil price fluctuations. If the conflict does indeed come to a close, it could foster global economic recovery and stabilize the energy market, thereby influencing investment decisions in related sectors."
         },
         {
           "rank": 9,
-          "title": "The Dividend ETF That Survived The 2008 and 2020 Panics Is Still Paying Monthly Income in 2026",
-          "link": "https://finance.yahoo.com/news/dividend-etf-survived-2008-2020-144018046.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-09 14:40 UTC",
-          "analysis_zh": "一项新的研究表明，一种在2008年和2020年金融危机中幸存下来的股息ETF，预计在2026年仍将继续每月支付收入。这一消息对投资者来说尤为重要，因为它表明该ETF在市场动荡中具有较强的韧性和稳定性。随着经济的不确定性加剧，投资者可能会更倾向于选择这种能够提供稳定现金流的投资工具，从而影响市场对股息ETF的需求。",
-          "analysis_en": "A recent study indicates that a dividend ETF, which survived the financial crises of 2008 and 2020, is expected to continue paying monthly income in 2026. This is significant for investors as it demonstrates the ETF's resilience and stability during market turmoil. With increasing economic uncertainty, investors may be more inclined to opt for such investment tools that provide a steady cash flow, potentially affecting the demand for dividend ETFs in the market."
+          "title": "FBI obtains records of Arizona Senate audit of 2020 Maricopa County election results, Republican says",
+          "link": "https://www.cnbc.com/2026/03/09/trump-arizona-election-grand-jury-maricopa-fbi.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-03-09 20:41 UTC",
+          "analysis_zh": "美国联邦调查局（FBI）获得了关于亚利桑那州参议院对2020年马里科帕县选举结果审计的记录。这一事件引发了广泛关注，因为前总统特朗普长期以来声称在2020年选举中遭遇了不公正对待。FBI的介入可能会对选举结果的合法性产生进一步的影响，也可能加剧政治分歧，尤其是在共和党内部。此举不仅关乎选举的透明度，还可能影响未来选举的信任度。",
+          "analysis_en": "The FBI has obtained records related to the Arizona Senate's audit of the 2020 Maricopa County election results. This development has garnered significant attention, as former President Trump has long claimed he was unfairly treated in the 2020 election. The FBI's involvement could further impact the legitimacy of the election results and may intensify political divisions, particularly within the Republican Party. This action raises concerns about electoral transparency and could affect trust in future elections."
         },
         {
           "rank": 10,
-          "title": "Retirees With $3 Million Still Can’t Sleep",
-          "link": "https://finance.yahoo.com/news/retirees-3-million-still-t-143928210.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-09 14:39 UTC",
-          "analysis_zh": "尽管许多退休人员拥有300万美元的储蓄，但他们依然感到焦虑和不安。这种情况反映了退休生活的不确定性，尤其是在经济波动和通货膨胀加剧的背景下。即使有相对丰厚的财务储备，许多人仍然担心未来的生活成本和医疗费用。这种心理状态可能会影响他们的消费行为和投资决策，进而对整体经济产生影响。",
-          "analysis_en": "Despite having savings of $3 million, many retirees still feel anxious and restless. This situation highlights the uncertainty surrounding retirement, especially in the context of economic fluctuations and rising inflation. Even with substantial financial reserves, many worry about future living costs and healthcare expenses. This mindset may influence their spending habits and investment decisions, potentially impacting the broader economy."
+          "title": "Older workers embrace job hopping — and it’s good for their retirement prospects",
+          "link": "https://www.marketwatch.com/story/older-workers-embrace-job-hopping-and-its-good-for-their-retirement-prospects-1b52c1b0?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-03-09 20:41 UTC",
+          "analysis_zh": "越来越多的老年员工开始频繁跳槽，这一趋势对他们的退休前景产生了积极影响。通过更换工作，他们能够找到更高薪的职位，从而提升自己的经济状况。这种现象不仅反映了劳动市场的变化，也可能促使企业在薪酬和福利方面进行更大的竞争，以吸引和留住人才。",
+          "analysis_en": "An increasing number of older workers are embracing job hopping, which positively impacts their retirement prospects. By moving from one job to another, they can secure higher-paying positions, thereby improving their financial situation. This trend not only highlights changes in the labor market but may also encourage companies to enhance their compensation and benefits to attract and retain talent."
         }
       ]
     },
     "健康": {
       "description": "医学、营养、抗衰老、代谢与公共健康",
-      "count": 5,
+      "count": 4,
       "items": [
         {
           "rank": 1,
-          "title": "Viral Outbreaks Take a Common Path from Animals to People, Study Finds",
-          "link": "https://www.nytimes.com/2026/03/09/science/covid-coronavirus-evolution.html",
+          "title": "F.D.A. Opens Door to More Flavored E-Cigarettes",
+          "link": "https://www.nytimes.com/2026/03/09/health/fda-e-cigarettes-flavors.html",
           "source": "NYT > Health",
-          "published_utc": "2026-03-09 13:43 UTC",
-          "analysis_zh": "一项新的研究发现，病毒爆发通常是从动物传播到人类的。研究人员开发了一种新工具，可以区分自然发生的病毒爆发和实验室事故引发的病毒传播。这一发现对公共卫生至关重要，因为它有助于更好地理解病毒传播的机制，从而制定有效的防控措施。了解病毒的来源也可能影响未来的疫苗研发和疫情应对策略。",
-          "analysis_en": "A new study has found that viral outbreaks typically spread from animals to humans. Researchers have developed a new tool to distinguish between naturally occurring viral outbreaks and those caused by lab accidents. This finding is crucial for public health as it helps to better understand the mechanisms of virus transmission, allowing for the development of effective prevention measures. Understanding the origins of viruses may also impact future vaccine development and pandemic response strategies."
+          "published_utc": "2026-03-09 20:48 UTC",
+          "analysis_zh": "美国食品药品监督管理局（F.D.A.）提出允许更多口味的电子烟，包括薄荷、咖啡、香料和茶等，以吸引成年消费者。然而，市场上充斥着针对青少年的非法糖果口味电子烟。这一政策的变化可能会引发公众对青少年吸烟问题的担忧，同时也可能影响电子烟市场的竞争格局。允许更多口味的电子烟可能会使成年用户更容易找到他们喜欢的产品，但也可能无意中增加青少年接触这些产品的机会。",
+          "analysis_en": "The U.S. Food and Drug Administration (F.D.A.) has proposed allowing additional flavors for e-cigarettes, such as mint, coffee, spices, and tea, to attract adult consumers. However, the market is already flooded with illicit candy-flavored varieties aimed at teenagers. This policy shift could raise public concerns about youth smoking while also impacting the competitive landscape of the e-cigarette market. Allowing more flavors may make it easier for adult users to find products they enjoy, but it could also inadvertently increase the chances of teenagers being exposed to these products."
         },
         {
           "rank": 2,
+          "title": "Viral Outbreaks Take a Common Path from Animals to People, Study Finds",
+          "link": "https://www.nytimes.com/2026/03/09/science/covid-coronavirus-evolution.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-03-09 18:27 UTC",
+          "analysis_zh": "一项新的研究发现，病毒从动物传播到人类的过程有着共同的路径。研究人员开发了一种新工具，可以区分自然发生的病毒疫情和实验室事故引发的疫情。这项发现对公共卫生至关重要，因为它有助于更好地理解病毒传播的机制，从而制定有效的防控措施。随着全球化加速，控制病毒传播的能力将直接影响人类的健康安全。",
+          "analysis_en": "A new study has found that viruses often follow a common path when transferring from animals to humans. Researchers have developed a new tool to distinguish between naturally occurring viral outbreaks and those caused by lab accidents. This discovery is crucial for public health, as it enhances our understanding of how viruses spread, allowing for the development of effective prevention strategies. As globalization accelerates, our ability to control viral transmission will directly impact human health and safety."
+        },
+        {
+          "rank": 3,
           "title": "Parents’ stress may be quietly driving childhood obesity, Yale study finds",
           "link": "https://www.sciencedaily.com/releases/2026/03/260307213228.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-09 00:28 UTC",
-          "analysis_zh": "耶鲁大学的一项研究发现，降低父母的压力可以有效保护幼儿免受肥胖的影响。研究表明，当父母练习正念和压力管理技巧时，孩子们的饮食习惯变得更健康，避免了仅关注饮食和锻炼的家庭中常见的体重增加。这项发现的重要性在于，它揭示了父母的心理健康对儿童肥胖的潜在影响，提示我们在预防儿童肥胖时应考虑更全面的因素。",
-          "analysis_en": "A Yale study has found that reducing parental stress can significantly protect young children from obesity. The research indicates that when parents engage in mindfulness and stress management techniques, their children exhibit healthier eating patterns and avoid the weight gain commonly seen in families that focus solely on diet and exercise. This finding is important as it highlights the potential impact of parental mental health on childhood obesity, suggesting that a more holistic approach is needed in obesity prevention efforts."
+          "analysis_zh": "耶鲁大学的一项研究发现，降低父母的压力可以有效帮助保护幼儿免受肥胖的影响。研究表明，当父母练习正念和压力管理技能时，孩子们的饮食模式变得更健康，避免了仅关注饮食和锻炼的家庭中常见的体重增加。这一发现强调了父母心理健康在儿童肥胖预防中的重要性，可能促使相关政策和干预措施的调整，以更全面地支持家庭的健康。",
+          "analysis_en": "A Yale study found that reducing parental stress can significantly help protect young children from obesity. The research indicates that when parents engage in mindfulness and stress management, their children exhibit healthier eating patterns and avoid the weight gain often seen in families that focus solely on diet and exercise. This finding highlights the importance of parental mental health in preventing childhood obesity and may lead to adjustments in policies and interventions to more comprehensively support family health."
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Brain scans reveal how ketamine quickly lifts severe depression",
           "link": "https://www.sciencedaily.com/releases/2026/03/260307213234.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-08 23:40 UTC",
-          "analysis_zh": "一项新的脑成像研究揭示了氯胺酮如何在治疗抵抗性抑郁症患者中迅速产生抗抑郁效果。研究人员追踪了一种关键脑受体的变化，发现氯胺酮在与情绪和奖励相关的特定脑区重塑了其活性。这些变化与患者症状的改善密切相关。这项发现有助于科学家开发更好的方法，以预测哪些患者将从氯胺酮治疗中受益，从而推动抑郁症治疗的个性化进程。",
-          "analysis_en": "A new brain imaging study has revealed how ketamine produces its rapid antidepressant effects in individuals with treatment-resistant depression. Researchers tracked changes in a critical brain receptor and found that ketamine reshapes its activity in specific brain regions associated with mood and reward. These changes closely matched improvements in patients' symptoms. This finding could assist scientists in developing better methods to predict which patients will benefit from ketamine therapy, advancing personalized approaches to depression treatment."
-        },
-        {
-          "rank": 4,
-          "title": "165,000 dementia patients reveal hidden stroke risk from common drug",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260307213244.htm",
-          "source": "Health & Medicine News -- ScienceDaily",
-          "published_utc": "2026-03-08 20:45 UTC",
-          "analysis_zh": "一项针对超过165,000名痴呆症患者的大规模研究发现，常用的抗精神病药物利培酮可能会显著增加患者的中风风险。研究表明，无论患者是否有心脏病或中风病史，使用利培酮的痴呆症患者都面临更高的中风风险，这一发现挑战了以往认为某些患者可能更安全的观点。由于利培酮是唯一获准用于痴呆症的此类药物，这项研究可能促使医生重新评估其处方和监测方式，以确保患者的安全。",
-          "analysis_en": "A large-scale study involving over 165,000 dementia patients has revealed that the commonly used antipsychotic drug risperidone may significantly increase the risk of stroke. The research found that dementia patients taking risperidone, regardless of their prior history of heart disease or stroke, face a heightened risk, challenging the previous belief that certain patients might be safer candidates. As risperidone is currently the only licensed drug of its kind for dementia, this study may lead to a reevaluation of how doctors prescribe and monitor this medication to ensure patient safety."
-        },
-        {
-          "rank": 5,
-          "title": "Scientists say this simple diet change could transform your gut health",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260307213252.htm",
-          "source": "Health & Medicine News -- ScienceDaily",
-          "published_utc": "2026-03-08 19:57 UTC",
-          "analysis_zh": "最近，科学家们提出了一种名为“纤维最大化”的饮食趋势，强调增加膳食纤维摄入的重要性。研究表明，足够的纤维不仅有助于消化，还能支持有益肠道微生物的生长，并帮助调节血糖和胆固醇水平。更重要的是，增加纤维摄入可能降低肥胖、糖尿病和某些癌症的风险。这一趋势的兴起反映了人们对健康生活方式的关注，尤其是在追求更长寿命的同时，也希望保持良好的健康状态。",
-          "analysis_en": "Recently, scientists have introduced a dietary trend called \"fibermaxxing,\" which emphasizes the importance of increasing dietary fiber intake. Research indicates that sufficient fiber not only aids digestion but also supports the growth of beneficial gut microbes and helps regulate blood sugar and cholesterol levels. More importantly, increasing fiber intake may lower the risk of obesity, diabetes, and certain cancers. The rise of this trend reflects a growing awareness of healthy lifestyles, particularly as people seek to live longer while also maintaining good health."
+          "analysis_zh": "一项新的脑成像研究揭示了氯胺酮如何在治疗抵抗性抑郁症患者中迅速产生抗抑郁效果。研究人员追踪了一个关键脑受体的变化，发现氯胺酮在与情绪和奖励相关的特定脑区重塑了其活动。这些变化与患者症状的改善密切相关。该发现有助于科学家们开发更好的方法，以预测哪些患者将从氯胺酮治疗中受益。",
+          "analysis_en": "A new brain-imaging study has revealed how ketamine produces its rapid antidepressant effects in individuals with treatment-resistant depression. Researchers tracked changes in a critical brain receptor and found that ketamine reshapes its activity in specific brain regions associated with mood and reward. These changes closely matched improvements in patients' symptoms. This finding could assist scientists in developing better methods to predict who will benefit from ketamine therapy."
         }
       ]
     },
     "心理/哲学": {
       "description": "心理学、行为、认知、哲学与意义讨论",
-      "count": 4,
+      "count": 3,
       "items": [
         {
           "rank": 1,
@@ -165,8 +156,8 @@
           "link": "https://aeon.co/videos/an-artists-wistful-survey-of-his-demolished-childhood-home?utm_source=rss-feed",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-03-09 10:01 UTC",
-          "analysis_zh": "这部手绘定格动画回忆起一个因修建宽阔道路而被拆除的家庭住宅的质感。它展现了人们对失去家园的情感，以及城市发展对个人生活的影响。这一作品不仅唤起了对过去的怀念，也引发了对现代化进程中人们情感和记忆的反思。随着城市化的加速，类似的故事将越来越普遍，提醒我们在追求进步的同时，也要关注人们的情感需求。",
-          "analysis_en": "This hand-painted stop motion animation recalls the textures of a family home that was demolished to make way for a wider road. It highlights the emotional impact of losing one's home and the effects of urban development on personal lives. This work not only evokes nostalgia for the past but also prompts reflection on the emotional and memory-related consequences of modernization. As urbanization accelerates, similar stories will become more common, reminding us to consider people's emotional needs alongside the pursuit of progress."
+          "analysis_zh": "这部手绘定格动画回忆起一个因扩宽道路而被拆除的家庭住宅的质感。它不仅展现了家庭记忆的珍贵，也反映了城市发展对个人生活的影响。这样的故事提醒我们，在追求进步的同时，如何平衡现代化与情感的连结。它可能引发人们对城市规划和人文关怀的深思。",
+          "analysis_en": "This hand-painted stop motion animation recalls the textures of a family home that was demolished to make way for a widened road. It highlights the preciousness of family memories while reflecting the impact of urban development on personal lives. Such stories remind us of the need to balance modernization with emotional connections. It may provoke deeper thoughts about urban planning and the importance of humanistic care."
         },
         {
           "rank": 2,
@@ -174,8 +165,8 @@
           "link": "https://aeon.co/essays/how-should-we-define-mathematical-beauty-in-the-ai-age?utm_source=rss-feed",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-03-09 10:00 UTC",
-          "analysis_zh": "这篇文章探讨了数学之美是否真实存在，还是仅仅是人类主观的感受，尤其在人工智能时代，这种感受是否变得不再重要。数学之美一直是数学家和哲学家讨论的主题，它不仅关乎数学的形式美，也涉及人类对真理和美的追求。文章引发了对数学本质的思考，可能会影响我们对科学和艺术之间关系的理解。",
-          "analysis_en": "This article explores whether mathematical beauty is real or merely a subjective human experience that may be losing significance in the age of artificial intelligence. The concept of mathematical beauty has long been a topic of discussion among mathematicians and philosophers, relating not only to the aesthetics of mathematics but also to humanity's pursuit of truth and beauty. The piece prompts reflection on the nature of mathematics, which could influence our understanding of the relationship between science and art."
+          "analysis_zh": "这篇文章探讨了数学之美是否真实存在，还是仅仅是人类主观的感受，尤其在人工智能时代，这种感受是否变得不再重要。数学之美的讨论不仅关乎数学本身，也涉及到人类如何理解和欣赏美的本质。随着人工智能的发展，传统的美学观念可能会受到挑战，促使我们重新思考数学与艺术之间的关系。这一议题对教育、科学研究以及艺术创作都有潜在的影响。",
+          "analysis_en": "This article examines whether mathematical beauty is real or merely a subjective human experience that may be losing significance in the age of artificial intelligence. The discussion of mathematical beauty not only pertains to mathematics itself but also touches on how humans understand and appreciate the essence of beauty. As artificial intelligence evolves, traditional aesthetic concepts may be challenged, prompting a reevaluation of the relationship between mathematics and art. This topic could have potential implications for education, scientific research, and artistic creation."
         },
         {
           "rank": 3,
@@ -183,17 +174,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/03/260307213234.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-03-08 23:40 UTC",
-          "analysis_zh": "一项新的脑成像研究揭示了氯胺酮如何在治疗抵抗性抑郁症患者中迅速产生抗抑郁效果。研究人员观察到，氯胺酮改变了特定脑区的关键受体活动，这些区域与情绪和奖励相关。这些变化与患者症状的改善密切相关，说明氯胺酮的作用机制可能为未来的治疗提供新的思路。这项研究的发现可能帮助科学家更好地预测哪些患者会从氯胺酮疗法中受益。",
-          "analysis_en": "A new brain-imaging study has revealed how ketamine quickly produces antidepressant effects in patients with treatment-resistant depression. Researchers found that ketamine alters the activity of critical receptors in specific brain regions associated with mood and reward, and these changes closely corresponded with improvements in patients' symptoms. This insight into the mechanism of ketamine's action could lead to better predictions of which patients are likely to benefit from this therapy. The findings may pave the way for more personalized and effective treatment options for depression."
-        },
-        {
-          "rank": 4,
-          "title": "165,000 dementia patients reveal hidden stroke risk from common drug",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260307213244.htm",
-          "source": "Mind & Brain News -- ScienceDaily",
-          "published_utc": "2026-03-08 20:45 UTC",
-          "analysis_zh": "一项针对超过165,000名痴呆症患者的大规模研究发现，常用的抗精神病药物利培酮（risperidone）与中风风险增加有关。研究表明，这种药物在所有痴呆患者中均存在提高中风风险的可能性，包括那些没有心脏病或中风病史的患者。这一发现挑战了以往认为某些患者可能更安全的观点，可能会对医生的处方和监测方式产生重要影响。",
-          "analysis_en": "A large-scale study involving over 165,000 dementia patients has revealed that the commonly used antipsychotic drug risperidone is associated with an increased risk of stroke. The research indicates that this risk is present across all dementia patients, including those without a history of heart disease or stroke. This finding challenges the previous belief that some patients might be safer candidates for the medication, potentially leading to significant changes in how doctors prescribe and monitor this drug."
+          "analysis_zh": "一项新的脑成像研究揭示了氯胺酮如何在治疗难治性抑郁症患者中迅速产生抗抑郁效果。研究人员观察到，氯胺酮在特定大脑区域重塑了一种关键受体的活动，这些区域与情绪和奖励相关。这些变化与患者症状的改善密切相关，这一发现可能有助于科学家们更好地预测哪些患者会从氯胺酮治疗中受益。",
+          "analysis_en": "A new brain-imaging study has revealed how ketamine produces rapid antidepressant effects in individuals with treatment-resistant depression. Researchers observed that ketamine reshapes the activity of a key receptor in specific brain regions associated with mood and reward. These changes closely matched improvements in patients' symptoms, and this finding could help scientists better predict which patients will benefit from ketamine therapy."
         }
       ]
     },
@@ -203,93 +185,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Hasbro’s CEO has an AI Peppa Pig help design toys",
-          "link": "https://www.theverge.com/podcast/890703/hasbro-toys-games-magic-exodus-ai-tariffs",
-          "source": "The Verge",
-          "published_utc": "2026-03-09 14:05 UTC",
-          "analysis_zh": "哈斯布罗（Hasbro）首席执行官克里斯·科克斯（Chris Cocks）最近在一次访谈中提到，他们正在利用人工智能（AI）设计玩具，甚至让AI角色“小猪佩奇”参与其中。这一举措不仅展示了AI在玩具设计中的潜力，也反映了公司对新技术的重视。随着市场对成人玩具和游戏的需求增加，这种创新可能会改变玩具行业的格局，吸引更多消费者的关注。",
-          "analysis_en": "Chris Cocks, the CEO of Hasbro, recently discussed how the company is using artificial intelligence (AI) in toy design, even involving the AI character Peppa Pig in the process. This initiative highlights the potential of AI in the toy industry and demonstrates the company's commitment to embracing new technologies. As the demand for toys and games targeted at adults continues to grow, this innovation could reshape the landscape of the toy market and attract more consumer interest."
+          "title": "Anthropic Claims Pentagon Feud Could Cost It Billions",
+          "link": "https://www.wired.com/story/anthropic-claims-business-is-in-peril-due-to-supply-chain-risk-designation/",
+          "source": "Feed: Artificial Intelligence Latest",
+          "published_utc": "2026-03-09 20:49 UTC",
+          "analysis_zh": "人工智能初创公司Anthropic的高管表示，由于特朗普政府将其视为供应链风险，导致与多家公司之间的交易谈判暂停。这一事件可能会对Anthropic造成数十亿美元的收入损失，凸显了政治因素对科技行业的影响。此事不仅影响了Anthropic的商业前景，还可能对整个人工智能领域的投资信心产生负面影响。",
+          "analysis_en": "Executives at the AI startup Anthropic have stated that discussions with several companies have been halted after the Trump administration labeled it a supply-chain risk. This situation could lead to a revenue loss of billions for Anthropic, highlighting the significant impact of political factors on the tech industry. The incident not only affects Anthropic's business outlook but may also negatively influence investor confidence across the entire artificial intelligence sector."
         },
         {
           "rank": 2,
-          "title": "The usability imperative for securing digital asset devices",
-          "link": "https://www.technologyreview.com/2026/03/09/1132352/the-usability-imperative-for-securing-digital-asset-devices/",
-          "source": "MIT Technology Review",
-          "published_utc": "2026-03-09 14:00 UTC",
-          "analysis_zh": "在数字资产设备的安全性问题上，用户体验与安全性之间的矛盾愈发明显。以Tony Fadell开发iPod的经历为例，虽然初期注重用户体验，但随着安全漏洞的不断出现，开发团队不得不反复进行迭代以修复问题。这一过程不仅影响了产品的安全性，也引发了对未来数字设备设计的深思。随着网络安全威胁的增加，如何在确保用户友好的同时提升安全性，将成为行业的重要挑战。",
-          "analysis_en": "The conflict between usability and security in digital asset devices is becoming increasingly evident. Taking Tony Fadell's experience with the iPod as an example, while the initial focus was on user experience, the continuous discovery of security vulnerabilities forced the development team to iterate repeatedly to address these issues. This process not only impacted the security of the product but also raised important considerations for the design of future digital devices. As cyber threats grow, balancing user-friendliness with enhanced security will become a significant challenge for the industry."
+          "title": "Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google",
+          "source": "The Verge",
+          "published_utc": "2026-03-09 20:45 UTC",
+          "analysis_zh": "周一，Anthropic对美国国防部提起诉讼，因其被认定为供应链风险。几小时后，来自OpenAI和Google的近40名员工，包括Google首席科学家杰夫·迪恩，提交了一份支持Anthropic诉讼的法庭之友意见书，表达了他们对特朗普政府这一决定的担忧以及对相关技术风险的看法。这一事件不仅反映了科技行业内部对政府政策的反对声音，也可能影响未来对AI技术的监管和使用标准。",
+          "analysis_en": "On Monday, Anthropic filed a lawsuit against the Department of Defense for being designated as a supply chain risk. Hours later, nearly 40 employees from OpenAI and Google, including Google's chief scientist Jeff Dean, submitted an amicus brief in support of Anthropic's lawsuit, voicing their concerns over the Trump administration's decision and the associated risks of the technology. This incident highlights the dissent within the tech industry regarding government policies and may influence future regulations and standards for the use of AI technology."
         },
         {
           "rank": 3,
-          "title": "The Download: murky AI surveillance laws, and the White House cracks down on defiant labs",
-          "link": "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/",
-          "source": "MIT Technology Review",
-          "published_utc": "2026-03-09 13:57 UTC",
-          "analysis_zh": "美国国防部与人工智能公司Anthropic之间的争执引发了关于是否允许使用人工智能监视美国公民的重大争论。这一问题不仅涉及国家安全，还关乎公民隐私权的保护。随着技术的迅速发展，相关法律和政策亟需更新，以应对新出现的挑战。这场争论可能会影响未来人工智能技术的监管框架，并引发公众对政府监控行为的广泛关注。",
-          "analysis_en": "A public dispute between the U.S. Department of Defense and the AI company Anthropic has sparked a significant debate over whether the use of AI to surveil American citizens is permissible. This issue touches on national security as well as the protection of citizens' privacy rights. As technology evolves rapidly, there is an urgent need to update relevant laws and policies to address emerging challenges. This debate may influence the regulatory framework for AI technologies in the future and raise public awareness about government surveillance practices."
+          "title": "OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government",
+          "link": "https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/",
+          "source": "Feed: Artificial Intelligence Latest",
+          "published_utc": "2026-03-09 20:38 UTC",
+          "analysis_zh": "OpenAI和谷歌的员工最近联合向美国政府提交了一份支持Anthropic的法庭友好意见书。此举表明，许多AI领域的研究人员和工程师对政府的监管措施表示担忧，并希望为Anthropic辩护。这一事件的重要性在于，它可能影响未来AI技术的监管框架，尤其是在涉及创新和竞争的方面。随着AI技术的快速发展，如何平衡监管与创新将成为一个关键议题。",
+          "analysis_en": "Recently, OpenAI and Google employees jointly filed an amicus brief in support of Anthropic against the U.S. government. This action highlights concerns among many researchers and engineers in the AI field regarding government regulatory measures and their desire to defend Anthropic. The significance of this event lies in its potential impact on the future regulatory framework for AI technology, particularly concerning innovation and competition. As AI technology continues to evolve rapidly, finding a balance between regulation and innovation will become a critical issue."
         },
         {
           "rank": 4,
-          "title": "Panic’s gaming ambitions hinge on the weird and whimsical",
-          "link": "https://www.theverge.com/games/890010/panic-gaming-big-walk-portland-house-house",
+          "title": "Bluesky CEO Jay Graber will step aside",
+          "link": "https://www.theverge.com/tech/891562/bluesky-new-ceo",
           "source": "The Verge",
-          "published_utc": "2026-03-09 13:00 UTC",
-          "analysis_zh": "Panic公司即将推出一款名为《Big Walk》的新游戏，这款游戏由《无名鹅游戏》的开发团队House House制作，预计将在2026年发布。尽管以一只讨厌的鹅为主题的游戏并不是成功的传统配方，但Panic一直以来的游戏策略就是追求独特和异想天开的创意。这种创新的方向不仅吸引了玩家的关注，也可能影响未来游戏开发的趋势，鼓励更多开发者尝试不同寻常的概念。",
-          "analysis_en": "Panic is set to launch a new game called \"Big Walk,\" developed by House House, the team behind \"Untitled Goose Game,\" with a release planned for 2026. While a game centered around an annoying goose may not seem like a conventional success formula, Panic has consistently embraced unique and whimsical ideas in its gaming strategy. This innovative approach not only captures players' attention but may also influence future trends in game development, encouraging more developers to explore unconventional concepts."
+          "published_utc": "2026-03-09 20:24 UTC",
+          "analysis_zh": "Bluesky的首席执行官杰·格雷伯（Jay Graber）宣布将辞去CEO职务，转而担任首席创新官。自2021年Bluesky从Twitter的研究项目独立以来，格雷伯一直在推动平台的发展。此时，前Automattic首席执行官托尼·施奈德（Toni Schneider）将担任临时CEO，直到找到永久接任者。此变动表明Bluesky在快速增长的同时，也在寻求新的领导方向，以适应不断变化的社交媒体环境。",
+          "analysis_en": "Jay Graber, the CEO of Bluesky, has announced her decision to step down from the role and will transition to Chief Innovation Officer. Since Bluesky's independence from Twitter as a research project in 2021, Graber has been instrumental in the platform's growth. Toni Schneider, the former CEO of Automattic, will take over as interim CEO until a permanent successor is appointed. This change highlights Bluesky's efforts to adapt its leadership as it continues to grow rapidly in the evolving social media landscape."
         },
         {
           "rank": 5,
-          "title": "The iPhone 17E is good, but you probably shouldn’t buy it",
-          "link": "https://www.theverge.com/tech/891164/apple-iphone-17e-review",
+          "title": "You can get three months of Disney Plus and Hulu for $15",
+          "link": "https://www.theverge.com/gadgets/891598/disney-plus-hulu-academy-awards-deal-sale",
           "source": "The Verge",
-          "published_utc": "2026-03-09 13:00 UTC",
-          "analysis_zh": "苹果最新发布的iPhone 17E在性价比上优于前代的16E，但这对大多数消费者来说并没有太大意义。最重要的是，iPhone 17的存在意味着多花200美元或每月多支付9美元的分期付款，用户可以获得更全面的升级。如果经济条件允许，选择iPhone 17将是更明智的决定。iPhone 17E虽然取代了16E，但仍然缺少一些核心功能，使得其600美元的价格显得有些高。",
-          "analysis_en": "Apple's latest release, the iPhone 17E, offers better value compared to its predecessor, the 16E, but this is unlikely to matter to most consumers. The key point is that the existence of the iPhone 17 means spending an additional $200 or $9 more per month on a payment plan for a more comprehensive upgrade. If financially feasible, opting for the iPhone 17 would be a wiser choice. While the iPhone 17E replaces the 16E, it still lacks some core features, making its $600 price tag feel somewhat excessive."
+          "published_utc": "2026-03-09 20:14 UTC",
+          "analysis_zh": "最近，Disney Plus和Hulu推出了一项促销活动，新用户和符合条件的回归用户可以以每月4.99美元的价格享受三个月的捆绑服务。这项优惠在奥斯卡颁奖典礼前夕发布，首次允许用户在Hulu上直播该典礼，时间定于3月15日。这一活动不仅为观众提供了观看奥斯卡提名影片的机会，还吸引了更多用户订阅这两项流媒体服务，可能会进一步推动它们的用户增长。",
+          "analysis_en": "Recently, Disney Plus and Hulu launched a promotional offer where new and eligible returning subscribers can enjoy a bundled service for just $4.99 per month for three months. This deal was introduced just ahead of the Oscars, allowing viewers to stream the ceremony live on Hulu for the first time on March 15. This promotion not only provides audiences with the chance to watch Oscar-nominated films but also aims to attract more subscribers to these streaming services, potentially boosting their user growth."
         },
         {
           "rank": 6,
-          "title": "Apple iPad Air M4 review: a little bit faster now",
-          "link": "https://www.theverge.com/tech/891242/apple-ipad-air-review-2026",
+          "title": "Apple’s new M5 Max feels like a huge upgrade if you bought your laptop three years ago",
+          "link": "https://www.theverge.com/gadgets/891508/apple-macbook-pro-air-2026-m5-max-benchmark-comparisons-m4-m3-m2-m1",
           "source": "The Verge",
-          "published_utc": "2026-03-09 13:00 UTC",
-          "analysis_zh": "苹果最新发布的iPad Air M4搭载了三款升级芯片，包括M4处理器、C1X蜂窝调制解调器和N1芯片，使其支持Wi-Fi 7、蓝牙6和Thread。这一系列升级使得iPad Air在性能上有了显著提升，虽然仍然无法与iPad Pro相提并论，但对于大多数用户来说，它提供了良好的性价比。随着技术的不断进步，iPad Air可能会吸引更多希望以合理价格获取先进功能的消费者。",
-          "analysis_en": "Apple's latest iPad Air M4 features three upgraded chips, including the M4 processor, C1X cellular modem, and N1 chip, which enable support for Wi-Fi 7, Bluetooth 6, and Thread. These upgrades significantly enhance the device's performance, making it a compelling option for most users, even if it doesn't quite match the iPad Pro. As technology continues to evolve, the iPad Air may attract more consumers looking for advanced features at a reasonable price."
+          "published_utc": "2026-03-09 20:00 UTC",
+          "analysis_zh": "苹果最新发布的M5 Max芯片在性能上对三年前购买笔记本电脑的用户来说，感觉像是一次巨大的升级。尽管新款MacBook的设计与去年的型号相同，但在速度和存储方面的提升，尤其是更快的SSD，可能会吸引那些使用旧款设备的用户考虑升级。这一变化对于苹果在市场上的竞争力至关重要，可能会影响消费者的购买决策和品牌忠诚度。",
+          "analysis_en": "Apple's newly released M5 Max chip feels like a significant upgrade for users who bought their laptops three years ago. While the new MacBooks share the same design as last year's models, improvements in speed and storage, particularly with faster SSDs, may entice users of older devices to consider upgrading. This change is crucial for Apple's competitiveness in the market and could influence consumer purchasing decisions and brand loyalty."
         },
         {
           "rank": 7,
-          "title": "Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’",
-          "link": "https://www.wired.com/story/feeld-was-a-dating-app-for-the-freaks-now-some-people-call-it-normie-hell/",
-          "source": "Feed: Artificial Intelligence Latest",
-          "published_utc": "2026-03-09 13:00 UTC",
-          "analysis_zh": "Feeld是一款曾经专为非传统恋爱需求设计的约会应用，但如今却吸引了越来越多寻求普通约会的用户。这一变化引发了一些原本的用户的不满，他们认为应用的初衷正在被稀释。随着用户群体的扩大，Feeld可能面临着品牌形象的重塑和市场定位的挑战。这也反映出社交应用在满足多样化需求与保持独特性之间的矛盾。",
-          "analysis_en": "Feeld, once a dating app tailored for unconventional preferences, is now attracting a growing number of users seeking more mainstream connections. This shift has led to dissatisfaction among some original users, who feel that the app's original purpose is being diluted. As the user base expands, Feeld may face challenges in redefining its brand identity and market positioning. This situation highlights the tension social apps face in balancing diverse user needs while maintaining their uniqueness."
+          "title": "Apple Studio Display XDR review: pro at a premium",
+          "link": "https://www.theverge.com/tech/891436/apple-studio-display-xdr-review",
+          "source": "The Verge",
+          "published_utc": "2026-03-09 20:00 UTC",
+          "analysis_zh": "苹果最近发布了全新的Studio Display XDR，这款显示器在技术上进行了升级，尽管外观与四年前的5K Studio Display相似。新款显示器配备了12MP的Center Stage摄像头和六个扬声器的空间音频系统，提供更清晰的图像和更好的音质。这一更新对于专业用户尤为重要，因为它不仅提升了显示效果，还增加了连接性和使用便利性。尽管价格依然高昂，但对于追求高品质显示的用户来说，这款产品仍然具有吸引力。",
+          "analysis_en": "Apple has recently launched the new Studio Display XDR, which features technical upgrades while maintaining a similar appearance to the 5K Studio Display released four years ago. The new model includes a 12MP Center Stage camera and a six-speaker spatial audio system, offering clearer images and improved sound quality. This update is particularly significant for professional users, as it enhances display performance and connectivity. Although the price remains high, the product still appeals to those seeking high-quality displays."
         },
         {
           "rank": 8,
-          "title": "How Live Nation allegedly terrorized the concert industry",
-          "link": "https://www.theverge.com/report/891241/live-nation-ticketmaster-week-one-jury-trial",
+          "title": "One of this rugged phone’s cameras is a pop-out action cam",
+          "link": "https://www.theverge.com/tech/891496/ulefone-rugone-xsnap-7-pro-removable-action-camera",
           "source": "The Verge",
-          "published_utc": "2026-03-09 12:39 UTC",
-          "analysis_zh": "SeatGeek原本即将与达拉斯牛仔队达成一项重要的票务合作协议，计划在其体育场内接管第一方销售。然而，谈判中出现了一个关键问题：“演唱会问题”。球队担心如果放弃SeatGeek的竞争对手Ticketmaster，Ticketmaster的母公司Live Nation可能会撤走在该体育场的演唱会，进而影响球队的重要收入来源。这一事件凸显了票务行业中的竞争和垄断问题，可能会对未来的票务合作和市场格局产生深远影响。",
-          "analysis_en": "SeatGeek was on the verge of securing a significant ticketing partnership with the Dallas Cowboys, intending to take over first-party sales at their stadium. However, negotiations hit a snag over what was termed the \"concert issue.\" The team feared that if they dropped SeatGeek's rival, Ticketmaster, the latter's parent company, Live Nation, could pull concerts from the stadium, jeopardizing a crucial revenue stream. This situation highlights the competitive and monopolistic dynamics within the ticketing industry, which could have lasting implications for future ticketing partnerships and market structures."
+          "published_utc": "2026-03-09 19:43 UTC",
+          "analysis_zh": "Ulefone推出了一款名为RugOne Xsnap 7 Pro的坚固智能手机，其独特之处在于配备了一款可拆卸的后置运动相机。这款相机可以从手机上弹出，作为独立的运动相机使用，适合在恶劣环境中拍摄。这一创新设计不仅提升了手机的功能性，也为用户提供了更多拍摄选择，尤其是户外爱好者。随着智能手机市场竞争的加剧，这种新颖的设计可能会影响其他品牌的产品开发方向。",
+          "analysis_en": "Ulefone has introduced a rugged smartphone called the RugOne Xsnap 7 Pro, which features a detachable rear action camera. This camera can pop out from the phone and be used independently, making it ideal for capturing footage in tough environments. This innovative design enhances the phone's functionality and offers users more shooting options, particularly appealing to outdoor enthusiasts. As competition in the smartphone market intensifies, this unique feature may influence the product development strategies of other brands."
         },
         {
           "rank": 9,
-          "title": "Can AI Kill the Venture Capitalist?",
-          "link": "https://www.wired.com/story/ai-kill-venture-capital/",
-          "source": "Feed: Artificial Intelligence Latest",
-          "published_utc": "2026-03-09 09:00 UTC",
-          "analysis_zh": "风险投资公司正在押注人工智能将颠覆几乎所有行业，但他们是否准备好面对这一技术对自身的影响？随着AI技术的快速发展，投资者可能需要重新审视他们的商业模式和投资策略。AI不仅会改变企业的运营方式，还可能对风险投资的未来产生深远影响，促使投资者更加关注技术的适应性和创新能力。",
-          "analysis_en": "Venture capitalists are betting that artificial intelligence will disrupt nearly every industry, but are they prepared for the impact on their own sector? As AI technology rapidly evolves, investors may need to reassess their business models and investment strategies. AI is not only set to change how businesses operate but could also have profound implications for the future of venture capital, prompting investors to focus more on adaptability and innovation."
+          "title": "‘Cash Apples’ is giving away $500,000 to people who click on trees in a web browser",
+          "link": "https://www.theverge.com/games/891544/cash-apples-is-giving-away-500000-to-people-who-click-on-trees-in-a-web-browser",
+          "source": "The Verge",
+          "published_utc": "2026-03-09 19:30 UTC",
+          "analysis_zh": "“现金苹果”是一款新推出的网络游戏，玩家通过点击虚拟树木来寻找金苹果，参与者有机会赢得现金奖励。美国居民从今天下午1点开始可以参与这场游戏，最高可获得500,000美元的奖金。这项活动不仅吸引了玩家的注意，也旨在推动Cash App的注册。尽管每人每天最多只能获得200美元，但这种创新的方式可能会吸引更多用户关注和使用Cash App，从而对其市场份额产生积极影响。",
+          "analysis_en": "“Cash Apples” is a newly launched web game where players can click on virtual trees to hunt for golden apples, with a chance to win cash rewards. Starting today at 1 PM PT, residents of the United States can join this game, which offers a total prize pool of $500,000. This initiative not only captures the attention of players but also aims to drive registrations for Cash App. Although individuals can earn a maximum of $200 per day, this innovative approach may attract more users to Cash App, potentially positively impacting its market share."
         },
         {
           "rank": 10,
-          "title": "Apple is going high-end with new ‘Ultra’ products next",
-          "link": "https://www.theverge.com/tech/891151/apple-is-going-high-end-with-new-ultra-products-next",
-          "source": "The Verge",
-          "published_utc": "2026-03-08 17:51 UTC",
-          "analysis_zh": "苹果公司在推出低价的MacBook Neo后，正在准备至少三款新产品，计划将其纳入最高端的“超”系列。根据彭博社的马克·古尔曼的消息，这些新产品可能不会直接使用“超”这个名称，但其价格将高于主流产品。这一策略表明，苹果正在同时向高端和低端市场扩展，可能会影响其在竞争激烈的科技市场中的定位和销售策略。",
-          "analysis_en": "After launching the budget MacBook Neo, Apple is reportedly preparing at least three new products for its high-end \"Ultra\" lineup. According to Bloomberg's Mark Gurman, these new releases may not carry the \"Ultra\" name but will be priced higher than their mainstream counterparts. This strategy indicates that Apple is looking to expand both upmarket and downmarket, which could affect its positioning and sales strategy in the competitive tech market."
+          "title": "Anthropic Sues Department of Defense Over ‘Supply Chain Risk’ Label",
+          "link": "https://www.nytimes.com/2026/03/09/technology/anthropic-defense-artificial-intelligence-lawsuit.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-03-09 18:19 UTC",
+          "analysis_zh": "人工智能公司Anthropic对美国国防部提起了两起诉讼，指控其因意识形态原因而受到惩罚。这一事件引发了广泛关注，因为它涉及到政府与科技公司之间的紧张关系，尤其是在对待新兴技术的态度上。此案可能会影响政府在技术监管方面的政策，并引发对科技公司言论自由的更深入讨论。",
+          "analysis_en": "The artificial intelligence company Anthropic has filed two lawsuits against the Department of Defense, claiming it is being penalized for ideological reasons. This incident has garnered significant attention as it highlights the tension between the government and tech companies, particularly regarding attitudes toward emerging technologies. The outcome of this case could influence government policies on technology regulation and spark deeper discussions about free speech for tech companies."
         }
       ]
     },
@@ -299,93 +281,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Review: Jealousy, Deception and Another Round of ‘Othello’",
-          "link": "https://www.nytimes.com/2026/03/09/arts/dance/review-othello-lar-lubovitch-american-ballet-theater.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-03-09 14:49 UTC",
-          "analysis_zh": "美国芭蕾舞剧院在林肯中心开启了短暂的春季演出，呈现了拉尔·卢博维奇1997年的完整作品《奥赛罗》。然而，时间并没有使这部作品焕发新意。此演出引发了观众对嫉妒和欺骗主题的思考，尽管其表现手法显得有些过时。这一演出不仅影响了观众对经典作品的理解，也可能影响未来芭蕾舞剧院的编排选择。",
-          "analysis_en": "The American Ballet Theater opened a brief spring season at Lincoln Center with a full-length work by Lar Lubovitch from 1997, titled \"Othello.\" However, time has not revitalized this piece. The performance prompts the audience to reflect on themes of jealousy and deception, even though its execution feels somewhat outdated. This production may not only shape the audience's understanding of classic works but could also influence future programming choices for the ballet theater."
+          "title": "Iranian Media Reports Damage to Chehel Sotoun, a UNESCO-Listed Palace",
+          "link": "https://www.artnews.com/art-news/news/chehel-sotoun-damaged-iran-isfahan-1234776437/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-03-09 20:17 UTC",
+          "analysis_zh": "上周，联合国教科文组织（UNESCO）报告称，伊朗的戈莱斯坦宫在美以联合轰炸中受到了损坏。与此同时，伊朗媒体也报道了位于伊斯法罕的切赫尔索图恩宫殿遭到破坏的消息。这一事件引发了对文化遗产保护的广泛关注，尤其是在冲突地区，历史建筑的安全性受到威胁。此事不仅影响了伊朗的文化形象，也可能引发国际社会对保护世界遗产的讨论和行动。",
+          "analysis_en": "Last week, UNESCO reported that Tehran's Golestan Palace was damaged during the US-Israeli bombing of Iran. Meanwhile, Iranian media also reported damage to the Chehel Sotoun Palace located in Isfahan. This incident has raised significant concerns regarding the protection of cultural heritage, especially in conflict zones where historical buildings are at risk. The situation not only affects Iran's cultural image but may also prompt discussions and actions from the international community regarding the safeguarding of world heritage."
         },
         {
           "rank": 2,
-          "title": "This LA Exhibition of Julia Stoschek’s Video Art Collection Is the City’s Hottest Ticket",
-          "link": "https://www.artnews.com/art-news/news/la-exhibition-julia-stoschek-video-art-collection-1234775995/",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-03-09 14:42 UTC",
-          "analysis_zh": "洛杉矶的朱莉亚·斯托施克视频艺术收藏展吸引了众多观众，展览由乌多·基特尔曼策划，展示了多种时间性艺术作品和经典电影。这场展览在一座华丽却破旧的市中心宫殿内进行，尽管它被称为展览，但策展人强调这并不只是一个简单的展览。此事件的重要性在于它展示了当代艺术与历史文化的交融，可能会吸引更多人关注视频艺术及其在现代艺术中的地位。",
-          "analysis_en": "The exhibition of Julia Stoschek's video art collection in Los Angeles has drawn significant attention, organized by Udo Kittelmann and featuring a range of time-based artworks and classic films. Set in a beautifully decaying downtown palace, the event is referred to as more than just an exhibition, as the curator emphasizes its broader cultural significance. This event matters because it highlights the fusion of contemporary art with historical culture, potentially increasing public interest in video art and its role in modern artistic expression."
+          "title": "Live Nation, Ticketmaster’s Owner, Settles Antitrust Case With Justice Dept.",
+          "link": "https://www.nytimes.com/2026/03/09/arts/music/live-nation-ticketmaster-antitrust-suit-settled.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-03-09 20:05 UTC",
+          "analysis_zh": "美国最大的现场娱乐公司Live Nation与司法部达成和解，避免了对其进行拆分的风险。这一和解协议需要法院的批准，但参与诉讼的州对条款表示反对。这一事件的重要性在于，它可能会影响音乐会门票市场的竞争格局，尤其是在Ticketmaster主导的情况下，消费者的选择和票价可能会受到影响。",
+          "analysis_en": "Live Nation, the largest live entertainment company in the U.S., has reached a settlement with the Justice Department, which helps it avoid a potential breakup. This agreement requires court approval, but the states involved in the lawsuit have expressed objections to its terms. The significance of this event lies in its potential impact on the competitive landscape of the concert ticket market, particularly under Ticketmaster's dominance, which could affect consumer choices and ticket prices."
         },
         {
           "rank": 3,
-          "title": "Justice Department and Live Nation Reach Settlement Terms in Antitrust Case",
-          "link": "https://www.nytimes.com/2026/03/09/arts/music/live-nation-ticketmaster-antitrust-suit-settled.html",
+          "title": "Tatjana Wood, Award-Winning Comic Book Colorist, Dies at 99",
+          "link": "https://www.nytimes.com/2026/03/07/arts/tatjana-wood-dead.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-03-09 14:42 UTC",
-          "analysis_zh": "美国司法部与现场娱乐公司达成了反垄断案的和解协议，该协议需要法院的批准才能生效。此项和解避免了对这一大型音乐会公司的解散，但参与诉讼的各州对和解条款表示反对。这一事件的重要性在于，它可能影响未来音乐产业的竞争格局以及其他类似案件的处理方式。",
-          "analysis_en": "The U.S. Department of Justice has reached a settlement agreement with Live Nation in an antitrust case, which requires judicial approval to take effect. This settlement prevents the breakup of the concert giant, but states that joined the lawsuit have expressed objections to the terms. The significance of this event lies in its potential impact on the competitive landscape of the music industry and how similar cases may be handled in the future."
+          "published_utc": "2026-03-09 20:04 UTC",
+          "analysis_zh": "著名的漫画书上色师塔季娜·伍德于99岁时去世。她曾参与DC漫画的多个知名创作团队，尤其是在《沼泽怪物》系列中发挥了重要作用。伍德的去世不仅是漫画界的损失，也让人们重新审视女性在这一领域的重要贡献。她的作品影响了一代又一代的漫画艺术家，未来的创作者将继续受到她的启发。",
+          "analysis_en": "Tatjana Wood, the renowned comic book colorist, has passed away at the age of 99. She was a vital part of acclaimed creative teams for DC Comics, particularly known for her work on the series \"Swamp Thing.\" Her passing is a significant loss for the comic book community and highlights the important contributions of women in this field. Wood's influence will continue to inspire future generations of comic artists."
         },
         {
           "rank": 4,
-          "title": "Harry Styles Hits the Club on ‘Kiss All the Time. Disco, Occasionally.’",
-          "link": "https://www.nytimes.com/2026/03/09/arts/music/harry-styles-kiss-all-the-time-disco-occasionally-review.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-03-09 14:42 UTC",
-          "analysis_zh": "哈里·斯泰尔斯的新专辑《Kiss All the Time. Disco, Occasionally.》庆祝了夜店文化中的共同体验。这张专辑虽然充满了闪亮的旋律，却并未深入展现他个人的内心世界。这一现象引发了对流行音乐艺术家在作品中展现自我的讨论，可能会影响听众对音乐真实性的期待。",
-          "analysis_en": "Harry Styles' new album, \"Kiss All the Time. Disco, Occasionally.,\" celebrates the communal experience of clubbing. While the album is filled with shiny melodies, it doesn't delve deeply into his personal life. This raises discussions about the expectations of authenticity in pop music, which could influence how listeners perceive the artist's work."
+          "title": "SPF Architects clads cantilevered Beverly Hills house in black and bronze",
+          "link": "https://www.dezeen.com/2026/03/09/bronze-and-black-house-spf-architects/",
+          "source": "Dezeen",
+          "published_utc": "2026-03-09 20:00 UTC",
+          "analysis_zh": "SPF建筑事务所最近在加利福尼亚州比佛利山庄完成了一座名为“黑与铜屋”的悬臂式住宅。这座住宅的设计特点是铝制外壳和一个看似悬浮在地面上的上层结构。此项目的重要性在于它展示了现代建筑如何在美学与功能之间取得平衡，同时也反映了比佛利山庄地区对创新设计的需求。这种设计可能会影响未来住宅建筑的趋势，鼓励更多的建筑师探索悬臂结构和独特的材料运用。",
+          "analysis_en": "SPF Architects has recently completed a cantilevered house in Beverly Hills, California, known as the \"Bronze and Black House.\" The design features an aluminum skin and an upper volume that appears to float above the ground level. This project is significant as it demonstrates how modern architecture can balance aesthetics with functionality, reflecting the demand for innovative designs in the Beverly Hills area. Such a design may influence future residential architecture trends, encouraging more architects to explore cantilevered structures and unique material applications."
         },
         {
           "rank": 5,
-          "title": "Inside the UK Companies House Filings for Stephen Friedman and More: Morning Links for March 9, 2026",
-          "link": "https://www.artnews.com/art-news/news/uk-companies-house-filings-stephen-friedman-morning-links-1234776347/",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-03-09 13:24 UTC",
-          "analysis_zh": "近日，英国公司注册处发布了关于斯蒂芬·弗里德曼等画廊的财务文件。这些文件虽然提供了一些有趣的细节，但由于仅涵盖画廊在英国的业务，其实用性受到限制。这一事件的重要性在于，它为艺术市场的透明度提供了新的视角，可能影响投资者和收藏家的决策。随着艺术行业对财务透明度的重视，类似的文件将可能成为未来评估画廊和艺术家的重要依据。",
-          "analysis_en": "Recently, the UK Companies House released financial filings related to galleries, including Stephen Friedman. While these documents offer intriguing details, their usefulness is limited since they only cover the galleries' UK operations. This event is significant as it provides a new perspective on transparency in the art market, which may influence the decisions of investors and collectors. As the art industry increasingly values financial transparency, such filings could become essential for evaluating galleries and artists in the future."
+          "title": "mechanical marble clock moves steel balls into pixel-like digits to tell the time",
+          "link": "https://www.designboom.com/technology/mechanical-marble-clock-moves-steel-balls-pixel-digits-time-strange-inventions/",
+          "source": "designboom | architecture & design magazine",
+          "published_utc": "2026-03-09 18:30 UTC",
+          "analysis_zh": "一款新型机械大理石时钟通过机械臂每分钟移动钢球，形成像素化的数字来显示时间。这款时钟的尺寸大约与切菜板相当，适合放置在用户的桌面上。此设备的创新设计不仅提升了时间显示的趣味性，也为现代家居装饰增添了一份独特的美感。随着智能家居的普及，这种结合艺术与科技的产品可能会受到越来越多消费者的青睐。",
+          "analysis_en": "A new mechanical marble clock tells time by moving steel balls into pixel-like digits using a robotic arm every minute. The clock is roughly the size of a chopping board, making it suitable for placement on a user's desk. This innovative design not only adds a playful element to timekeeping but also enhances the aesthetic appeal of modern home decor. As smart home technology becomes more prevalent, products that blend art and technology like this may attract increasing interest from consumers."
         },
         {
           "rank": 6,
-          "title": "Icelandic Pavilion at Venice Biennale to Present Ásta Fanney Sigurðardóttir’s “Pocket Universe”",
-          "link": "https://www.artnews.com/art-news/news/iceland-venice-biennale-asta-fanney-sigurdardottir-1234776109/",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-03-09 13:00 UTC",
-          "analysis_zh": "在威尼斯双年展上，冰岛馆将展出艺术家Ásta Fanney Sigurðardóttir的作品《口袋宇宙》。她在采访中提到“希望”这个词的独特性，强调它的存在依赖于人们的需求，且常常令人怀疑其真实性。这一展览不仅展示了艺术家的创作才华，也引发了人们对希望和存在的深刻思考。这样的艺术作品在当今社会中尤为重要，因为它们能够激发观众对自身情感和生活状态的反思。",
-          "analysis_en": "The Icelandic Pavilion at the Venice Biennale will feature the work \"Pocket Universe\" by artist Ásta Fanney Sigurðardóttir. In an interview, she discussed the peculiar nature of the word \"hope,\" emphasizing that it only exists when needed and often leaves one questioning its authenticity. This exhibition not only highlights the artist's creative talent but also provokes deep reflections on hope and existence. Such artistic expressions are particularly significant in today's society as they inspire audiences to contemplate their own emotions and life circumstances."
+          "title": "After a Shooting at Rihanna’s Home, a Woman Is Held on Suspicion of Attempted Murder",
+          "link": "https://www.nytimes.com/2026/03/08/arts/music/rihanna-house-shooting-beverly-hills.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-03-09 18:06 UTC",
+          "analysis_zh": "在蕾哈娜家中发生了一起枪击事件，警方逮捕了一名35岁的女性，怀疑她企图谋杀。尽管事件没有造成任何伤亡，但这起事件引发了公众对名人安全问题的关注。此事件可能会影响蕾哈娜的公众形象以及她的社交活动，同时也可能促使其他名人加强安全措施。",
+          "analysis_en": "A shooting incident occurred at Rihanna's home, leading to the arrest of a 35-year-old woman on suspicion of attempted murder. Although no injuries were reported, the incident has raised public concern regarding the safety of celebrities. This event may affect Rihanna's public image and her social activities, and it could also prompt other celebrities to enhance their security measures."
         },
         {
           "rank": 7,
-          "title": "six designers redefine outdoor living with unopiù at milan design week 2026",
-          "link": "https://www.designboom.com/design/outdoor-furniture-unopiu-milan-design-week-2026/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-03-09 11:30 UTC",
-          "analysis_zh": "在2026年米兰设计周上，六位设计师与unopiù合作，重新定义了户外生活的体验。他们通过精心策划的现代叙事，展示了如何将户外空间转变为一个更具吸引力和功能性的环境。这一活动不仅突显了设计师们的创新思维，也反映了当代人对户外生活方式的重视，可能会影响未来的室外家具设计和城市空间规划。",
-          "analysis_en": "At the Milan Design Week 2026, six designers collaborated with unopiù to redefine the outdoor living experience. They showcased how to transform outdoor spaces into more appealing and functional environments through a curated contemporary narrative. This event not only highlights the innovative thinking of the designers but also reflects the contemporary emphasis on outdoor lifestyles, which may influence future outdoor furniture design and urban space planning."
+          "title": "Ancient Egyptians Used Correction Fluid to Fix Errors on Papyri, Researchers Discover",
+          "link": "https://www.artnews.com/art-news/news/ancient-egyptians-correction-fluid-book-of-the-dead-1234776392/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-03-09 18:04 UTC",
+          "analysis_zh": "英国菲茨威廉博物馆的研究人员发现，古埃及人在纸莎草纸上使用修正液来修正错误。这一发现揭示了古埃及人在书写和记录方面的细致与智慧，表明他们在处理文本错误时并不依赖于简单的删除或重写。这一研究不仅丰富了我们对古埃及文化的理解，也可能影响我们对古代文献修订技术的认识。",
+          "analysis_en": "Researchers at the Fitzwilliam Museum in England discovered that ancient Egyptians used correction fluid to fix errors on papyri. This finding highlights the sophistication and attention to detail in ancient Egyptian writing practices, indicating that they did not simply erase or rewrite mistakes. This study not only enhances our understanding of ancient Egyptian culture but may also influence our perceptions of ancient document revision techniques."
         },
         {
           "rank": 8,
-          "title": "Charred tree trunks support sauna on Finnish island by Jaakko Torvinen",
-          "link": "https://www.dezeen.com/2026/03/09/puusauna-jaakko-torvinen/",
-          "source": "Dezeen",
-          "published_utc": "2026-03-09 11:30 UTC",
-          "analysis_zh": "芬兰建筑师雅科·托尔维宁设计的普萨乌纳（Puusauna）是一座位于芬兰海湾的桑拿和茶室，其屋顶由完整的烧焦树干支撑。这座30平方米的桑拿位于一个小岛上，周围是森林与海滩的交界处。这个设计不仅展示了与自然环境的和谐共存，也突显了可持续建筑的理念，可能会影响未来建筑设计的方向，鼓励更多使用自然材料和生态友好的方法。",
-          "analysis_en": "The Puusauna, designed by Finnish architect Jaakko Torvinen, is a sauna and tea room located on a small island in the Gulf of Finland, supported by whole charred tree trunks. This 30-square-meter sauna sits at the boundary where a large forest meets the beach. The design not only showcases a harmonious coexistence with the natural environment but also emphasizes the concept of sustainable architecture, which may influence future architectural trends by encouraging the use of natural materials and eco-friendly practices."
+          "title": "Jonas Wood Turns Tennis Courts into Color Experiments in New Gagosian Show",
+          "link": "https://www.artnews.com/art-news/news/jonas-wood-tennis-court-paintings-gagosian-1234776395/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-03-09 18:01 UTC",
+          "analysis_zh": "在洛杉矶的Gagosian画廊，艺术家乔纳斯·伍德（Jonas Wood）展示了他的新作，将网球场转化为色彩实验的舞台。这些作品不仅仅是对网球比赛的再现，更是对色彩和几何形状的深入探索。这一展览的重要性在于它挑战了传统艺术表现形式，鼓励观众重新思考运动与艺术之间的关系。伍德的作品可能会对当代艺术界产生深远影响，激发更多艺术家探索运动与视觉艺术的交集。",
+          "analysis_en": "At the Gagosian gallery in Los Angeles, artist Jonas Wood showcases his new works, transforming tennis courts into platforms for color experiments. These pieces go beyond mere representations of televised matches; they delve into the exploration of color and geometry. This exhibition is significant as it challenges traditional artistic expressions and encourages viewers to rethink the relationship between sports and art. Wood's work may have a profound impact on the contemporary art scene, inspiring more artists to explore the intersection of movement and visual art."
         },
         {
           "rank": 9,
-          "title": "Jony Ive designs oak rostrum for Christie's auction house",
-          "link": "https://www.dezeen.com/2026/03/09/jony-ive-rostrum-christies-auction-house/",
+          "title": "Mischief switches NPR logo letters with \"the hard questions\" in branding campaign",
+          "link": "https://www.dezeen.com/2026/03/09/mischief-npr-logo-campaign/",
           "source": "Dezeen",
-          "published_utc": "2026-03-09 11:15 UTC",
-          "analysis_zh": "著名设计师乔尼·艾夫（Jony Ive）与英国设计工作室Benchmark合作，为佳士得（Christie's）拍卖行设计了一款新的讲台，取代了由托马斯·契贝尔（Thomas Chippendale）设计的旧讲台。这款新讲台上周正式揭幕，将在全球所有佳士得拍卖行使用。艾夫希望通过这款设计传达出简约而优雅的美学，反映出佳士得作为全球顶级艺术品拍卖行的地位。这一变化不仅提升了拍卖行的视觉形象，也可能影响到未来拍卖活动的整体氛围和客户体验。",
-          "analysis_en": "Renowned designer Jony Ive has collaborated with the UK studio Benchmark to create a new rostrum for Christie's auction house, replacing the previous design by Thomas Chippendale. Unveiled last week, this new rostrum will be used in all Christie's auction houses worldwide. Ive aimed to convey a sense of simplicity and elegance through this design, reflecting Christie's status as a leading auction house for fine art. This change not only enhances the visual identity of the auction house but may also influence the overall atmosphere and client experience during future auctions."
+          "published_utc": "2026-03-09 18:00 UTC",
+          "analysis_zh": "纽约的品牌代理公司Mischief与美国国家公共广播电台（NPR）合作，发起了一项宣传活动，旨在用三个字母的问题取代NPR的标志，以抗议联邦资金的削减。这一标志的变化在社交媒体、印刷和数字平台上广泛传播。这一举动不仅引发了公众对公共广播资金问题的关注，也可能影响到NPR的品牌形象和未来的资金支持。",
+          "analysis_en": "The New York branding agency Mischief has collaborated with the National Public Radio (NPR) to launch a campaign that replaces the NPR logo with three-letter questions, protesting against federal funding cuts. This logo change has been widely disseminated across social media, print, and digital platforms. This move not only raises public awareness about the funding issues facing public broadcasting but may also impact NPR's brand image and future funding support."
         },
         {
           "rank": 10,
-          "title": "egg-shaped bulbs hatch from ceramic tiles in a modular lighting system",
-          "link": "https://www.designboom.com/design/egg-shaped-bulbs-ceramic-tiles-light-modular-wall-chair-lamp-leucos-redduo-glowtile-matter-shape/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-03-09 11:10 UTC",
-          "analysis_zh": "在2026年巴黎的物质与形状博览会上，推出了一种新型的模块化照明设计，该设计采用了蛋形灯泡和陶瓷瓷砖。这个照明系统不仅可以堆叠成墙壁，还可以组合成椅子。这一创新设计不仅展示了现代照明的灵活性，也为室内装饰提供了新的可能性，可能会影响未来的家居和商业空间设计。",
-          "analysis_en": "At the 2026 Matter and Shape Fair in Paris, a new modular lighting design featuring egg-shaped bulbs and ceramic tiles was unveiled. This lighting system can be stacked to form walls or combined to create chairs. This innovative design not only showcases the flexibility of modern lighting but also opens up new possibilities for interior decoration, potentially influencing future designs in both residential and commercial spaces."
+          "title": "‘Let’s Go for a Walk’: Three Dance Artists Strip Down Movement",
+          "link": "https://www.nytimes.com/2026/03/09/arts/dance/nacera-belaza-noe-soulier-anne-teresa-de-keersmaeker-dance-reflections.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-03-09 17:24 UTC",
+          "analysis_zh": "在舞蹈反思节上，三位舞蹈艺术家纳塞拉·贝拉扎、安妮·特蕾莎·德·凯尔斯梅克和诺埃·苏利耶都尝试回归舞蹈的基本元素。尽管每位艺术家的表现各有不同，但这一探索的重要性在于它促使观众重新思考舞蹈的本质和表达方式。这种回归基本的尝试可能会影响未来舞蹈创作的方向，激发更多艺术家关注舞蹈的根本特征。",
+          "analysis_en": "At the Dance Reflections festival, three dance artists—Nacera Belaza, Anne Teresa De Keersmaeker, and Noé Soulier—sought to return to the fundamental elements of movement. While the outcomes varied among the artists, this exploration is significant as it encourages audiences to rethink the essence and modes of expression in dance. Such a return to basics may influence the direction of future dance creations, inspiring more artists to focus on the core characteristics of the art form."
         }
       ]
     }
