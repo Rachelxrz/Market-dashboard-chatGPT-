@@ -2,13 +2,24 @@ name: Daily Dashboard
 
 on:
   schedule:
-    # 09:00 America/New_York
-    # GitHub Actions 只支持 UTC，所以同时覆盖夏令时/冬令时
+    # Morning run — 09:00 America/New_York
     # EDT = 13:00 UTC
     # EST = 14:00 UTC
     - cron: '0 13 * * *'
     - cron: '0 14 * * *'
+
+    # Close run — 16:30 America/New_York
+    # EDT = 20:30 UTC
+    # EST = 21:30 UTC
+    - cron: '30 20 * * *'
+    - cron: '30 21 * * *'
+
   workflow_dispatch:
+    inputs:
+      run_mode:
+        description: 'Run mode: morning or close'
+        required: false
+        default: 'morning'
 
 permissions:
   contents: write
@@ -42,14 +53,38 @@ jobs:
             pip install openai feedparser python-dateutil requests
           fi
 
-      - name: Ensure docs directory exists
-        run: mkdir -p docs
+      - name: Ensure docs directories exist
+        run: |
+          mkdir -p docs
+          mkdir -p docs/history
+
+      - name: Determine run mode
+        id: runmode
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            MODE="${{ github.event.inputs.run_mode }}"
+          else
+            HOUR=$(date -u +%H)
+            MIN=$(date -u +%M)
+
+            if [ "$MIN" = "30" ]; then
+              MODE="close"
+            else
+              MODE="morning"
+            fi
+          fi
+
+          echo "mode=$MODE" >> $GITHUB_OUTPUT
+          echo "Resolved run mode: $MODE"
 
       - name: Generate daily files
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: gpt-4o-mini
           TZ: America/New_York
+          VLCC_PROXY_SYMBOL: DHT
+          RUN_MODE: ${{ steps.runmode.outputs.mode }}
         run: |
           python scripts/generate_daily.py
 
@@ -58,7 +93,9 @@ jobs:
           echo "Generated files:"
           ls -lah docs || true
           test -f docs/index.html
-          test -f docs/daily.json
+          test -f docs/reading.html
+          test -f docs/monitor.json
+          test -f docs/reading.json
 
       - name: Commit and push generated files
         run: |
@@ -70,6 +107,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Update daily dashboard"
+            git commit -m "Update daily dashboard (${{ steps.runmode.outputs.mode }})"
             git push
           fi
