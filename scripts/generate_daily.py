@@ -400,21 +400,27 @@ def dedupe_items(items):
 
 def fallback_analysis(title: str, summary: str, section: str) -> str:
     parts = [f"这条{section}新闻反映了最近24小时内该板块的一个具体变化。"]
-    if summary:
-        parts.append(f"从公开摘要看，核心线索是：{short_text(summary, 150)}")
+
+    clean_summary = clean_text(summary or "")
+    if clean_summary:
+        # 尽量减少直接塞入长英文
+        short_summary = short_text(clean_summary, 80)
+        parts.append(f"从公开摘要看，核心线索集中在：{short_summary}")
     else:
         parts.append(f"从标题看，当前讨论重点集中在“{title}”这一主题。")
+
     parts.append("更重要的是观察这一主题是否会在接下来几天持续发酵，并进一步影响预期、估值或市场情绪。")
     parts.append("如果同类信息连续出现，它更可能代表趋势，而不是一次性噪音。")
     return "\n".join(parts[:4])
 
 
-def fallback_analysis_en(section: str) -> str:
-    return (
-        f"This {section} news item reflects a concrete development within the last 24 hours. "
-        f"The key question is whether the theme will continue to shape expectations, valuations, or sentiment over the next few days. "
-        f"If similar reports keep appearing, it is more likely to represent a trend rather than one-off noise."
-    )
+SECTION_EN_MAP = {
+    "投资": "Investment",
+    "健康": "Health",
+    "心理/哲学": "Psychology / Philosophy",
+    "AI 科技": "AI / Technology",
+    "美学": "Aesthetics",
+}
 
 
 def gpt_bilingual_analysis(title: str, summary: str, body_text: str, section: str, source: str) -> dict:
@@ -424,48 +430,80 @@ def gpt_bilingual_analysis(title: str, summary: str, body_text: str, section: st
             "en": fallback_analysis_en(section),
         }
 
+    section_en = SECTION_EN_MAP.get(section, section)
+
     prompt = f"""
 You are a rigorous bilingual editor.
 
-Based on the following information, produce:
-1. Chinese analysis: 3-5 full sentences
-2. English analysis: 3-5 full sentences
+Write two matching analyses for the news item below:
 
-Requirements:
-- Chinese and English should convey the same core meaning
-- Be specific, concise, and professional
+[ZH]
+- Write in natural Chinese
+- 3 to 5 full sentences
 - Explain what happened, why it matters, and what it may affect
-- Do not fabricate facts
-- Output valid JSON only with keys "zh" and "en"
+- Do NOT copy long English phrases directly into Chinese
+- Rewrite naturally for a Chinese reader
 
-Section: {section}
+[EN]
+- Write in natural English
+- 3 to 5 full sentences
+- Match the Chinese meaning closely
+- Explain what happened, why it matters, and what it may affect
+
+Output format exactly:
+
+[ZH]
+...
+[EN]
+...
+
+Section (Chinese): {section}
+Section (English): {section_en}
 Source: {source}
 Title: {title}
 Summary: {summary or "None"}
 Body snippet: {body_text or "None"}
 """
+
     try:
         resp = client.chat.completions.create(
             model=OPENAI_MODEL,
             temperature=0.3,
             messages=[
-                {"role": "system", "content": "You are a rigorous bilingual editor who writes in both Chinese and English."},
-                {"role": "user", "content": prompt},
+                {
+                    "role": "system",
+                    "content": "You are a precise bilingual editor writing fluent Chinese and English."
+                },
+                {
+                    "role": "user",
+                    "content": prompt
+                },
             ],
         )
         text = resp.choices[0].message.content.strip()
-        data = json.loads(text)
+
+        zh = ""
+        en = ""
+
+        if "[ZH]" in text and "[EN]" in text:
+            zh_part = text.split("[ZH]", 1)[1]
+            zh = zh_part.split("[EN]", 1)[0].strip()
+            en = text.split("[EN]", 1)[1].strip()
+
+        if not zh or not en:
+            raise ValueError("Bilingual markers not found")
+
         return {
-            "zh": short_text(data.get("zh", ""), MAX_SUMMARY_CHARS),
-            "en": short_text(data.get("en", ""), MAX_SUMMARY_CHARS),
+            "zh": short_text(zh, MAX_SUMMARY_CHARS),
+            "en": short_text(en, MAX_SUMMARY_CHARS),
         }
+
     except Exception as e:
         log(f"双语摘要失败，回退: {e}")
         return {
             "zh": fallback_analysis(title, summary, section),
             "en": fallback_analysis_en(section),
         }
-
 
 def collect_section_items(section_name: str, section_cfg: dict, target_count: int = TARGET_ITEMS_PER_SECTION):
     all_items = []
