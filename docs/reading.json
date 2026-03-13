@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-13 14:51:02 UTC",
-  "generated_at_unix": 1773413462,
+  "generated_at": "2026-03-13 21:03:01 UTC",
+  "generated_at_unix": 1773435781,
   "window": {
-    "from_utc": "2026-03-12 14:51:02 UTC",
-    "to_utc": "2026-03-13 14:51:02 UTC",
+    "from_utc": "2026-03-12 21:03:01 UTC",
+    "to_utc": "2026-03-13 21:03:01 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,162 +14,189 @@
       "items": [
         {
           "rank": 1,
-          "title": "Pete Hegseth on Strait of Hormuz: 'Don't need to worry about it'",
-          "link": "https://www.cnbc.com/2026/03/13/iran-war-strait-of-hormuz-hegseth.html",
+          "title": "Elon Musk says xAI must be 'rebuilt' as co-founder exodus continues, SpaceX IPO awaits",
+          "link": "https://www.cnbc.com/2026/03/13/elon-musk-xai-co-founders-spacex-ipo.html",
           "source": "US Top News and Analysis",
-          "published_utc": "2026-03-13 14:50 UTC",
-          "analysis_zh": "霍尔木兹海峡是全球最重要的石油运输通道，自美国和以色列对伊朗展开战争以来，该海峡实际上已经关闭。这一事件对全球能源市场产生了深远影响，因为霍尔木兹海峡是全球约20%的石油运输通道。海峡的关闭可能导致油价飙升，影响各国的经济稳定和能源安全。",
-          "analysis_en": "The Strait of Hormuz, the world's most critical oil shipping route, has effectively been closed since the U.S. and Israel began their war against Iran. This situation has significant implications for the global energy market, as approximately 20% of the world's oil passes through this strait. The closure could lead to soaring oil prices, affecting economic stability and energy security in various countries."
+          "published_utc": "2026-03-13 20:48 UTC",
+          "analysis_zh": "埃隆·马斯克表示，随着高层管理人员的离职，xAI需要“重建”。目前，该公司已被SpaceX接管，这一变化引发了对其未来发展的广泛关注。xAI的重建不仅关乎公司的运营模式，也可能影响到人工智能领域的竞争格局。马斯克的决策将直接影响投资者的信心以及市场对该公司的期待。",
+          "analysis_en": "Elon Musk has stated that xAI needs to be \"rebuilt\" following the departure of several high-level executives. The company is now under the control of SpaceX, which raises significant questions about its future direction. The rebuilding of xAI is not only crucial for its operational strategy but may also affect the competitive landscape in the artificial intelligence sector. Musk's decisions will directly impact investor confidence and market expectations for the company."
         },
         {
           "rank": 2,
-          "title": "Oil prices retreat from $100 after U.S. temporarily lifts sanctions on some Russian oil",
-          "link": "https://www.marketwatch.com/story/brent-oil-futures-climb-above-100-on-continued-disruption-to-strait-of-hormuz-traffic-764be61b?mod=mw_rss_topstories",
+          "title": "Kevin Warsh’s Fed confirmation faces new delay, key senator says. Here’s why.",
+          "link": "https://www.marketwatch.com/story/kevin-warshs-fed-confirmation-faces-new-delay-key-senator-says-heres-why-3ffdfa39?mod=mw_rss_topstories",
           "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-03-13 14:40 UTC",
-          "analysis_zh": "近期，油价从关键的100美元水平回落，原因是美国政府暂时解除对一些在海上的俄罗斯油轮的制裁。这一举措可能会影响全球油市的供需关系，尤其是在当前国际局势紧张的背景下。油价的波动不仅关系到能源市场，还可能对全球经济产生广泛影响。",
-          "analysis_en": "Recently, oil prices have retreated from the critical $100 mark due to the U.S. government temporarily lifting sanctions on certain Russian tankers currently at sea. This move could affect the global oil market's supply and demand dynamics, especially given the current tense international situation. The fluctuations in oil prices are significant not only for the energy market but may also have broader implications for the global economy."
+          "published_utc": "2026-03-13 20:42 UTC",
+          "analysis_zh": "美国参议员警告称，凯文·沃什担任下一任美联储主席的确认将面临新的延迟。这一延迟源于司法部对现任美联储主席杰罗姆·鲍威尔的刑事调查遇到法律障碍。这一事件的重要性在于，美联储的领导层变动可能会影响货币政策的稳定性，从而对经济产生广泛影响。若沃什的确认继续推迟，可能会导致市场的不确定性加剧。",
+          "analysis_en": "A U.S. senator has warned that Kevin Warsh's confirmation as the next head of the Federal Reserve is facing a new delay due to a legal setback in the Justice Department's criminal investigation into current Fed Chair Jerome Powell. This situation is significant because changes in the leadership of the Federal Reserve could impact the stability of monetary policy, which in turn affects the broader economy. If Warsh's confirmation continues to be postponed, it may lead to increased uncertainty in the markets."
         },
         {
           "rank": 3,
-          "title": "Worley secures contract from Chevron for Aphrodite gas field FEED",
-          "link": "https://finance.yahoo.com/news/worley-secures-contract-chevron-aphrodite-143817896.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-13 14:38 UTC",
-          "analysis_zh": "沃利公司（Worley）最近获得了来自雪佛龙（Chevron）的合同，负责阿佛罗迪特（Aphrodite）天然气田的前期工程设计（FEED）。这一合同的签署标志着两家公司在能源领域的进一步合作，尤其是在天然气开发方面。此项目不仅将推动当地经济发展，还可能对全球能源供应链产生积极影响，尤其是在当前能源转型的背景下。",
-          "analysis_en": "Worley has recently secured a contract from Chevron to handle the front-end engineering design (FEED) for the Aphrodite gas field. This contract signifies an important collaboration between the two companies in the energy sector, particularly in natural gas development. The project is expected to boost the local economy and may have a positive impact on the global energy supply chain, especially in the context of the ongoing energy transition."
+          "title": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 0.25%",
+          "link": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-025-4560931",
+          "source": "Stock Market News",
+          "published_utc": "2026-03-13 20:31 UTC",
+          "analysis_zh": "美国股市在交易结束时普遍下跌，道琼斯工业平均指数下滑了0.25%。这一下跌反映了投资者对经济前景的不确定性，尤其是在通货膨胀和利率上升的背景下。股市的波动可能会影响消费者信心和企业投资决策，进一步影响经济增长。",
+          "analysis_en": "U.S. stocks closed lower, with the Dow Jones Industrial Average down by 0.25%. This decline reflects investor uncertainty regarding the economic outlook, particularly in the context of rising inflation and interest rates. The fluctuations in the stock market may affect consumer confidence and business investment decisions, potentially impacting economic growth."
         },
         {
           "rank": 4,
-          "title": "Oil’s whiplash is powering ConocoPhillips, but the real catalyst is internal",
-          "link": "https://finance.yahoo.com/news/oil-whiplash-powering-conocophillips-real-143700998.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-13 14:37 UTC",
-          "analysis_zh": "康菲石油公司（ConocoPhillips）近期受到油价波动的影响，然而其内部管理和战略调整才是推动公司发展的真正动力。这一变化不仅提升了公司的盈利能力，也为其在竞争激烈的市场中提供了更强的抗风险能力。随着全球能源市场的不断变化，康菲的成功经验可能会为其他能源公司提供借鉴，促使它们在内部管理上进行相应的改革。",
-          "analysis_en": "ConocoPhillips has recently been affected by fluctuations in oil prices, but it is the company's internal management and strategic adjustments that are driving its growth. This change not only enhances the company's profitability but also provides it with a stronger ability to withstand risks in a competitive market. As the global energy market continues to evolve, ConocoPhillips' success may serve as a model for other energy companies, encouraging them to implement similar internal reforms."
+          "title": "Adobe reaches $150 million settlement of US lawsuit over termination fees, subscription cancellations",
+          "link": "https://www.investing.com/news/stock-market-news/adobe-to-pay-75-million-to-resolve-us-lawsuit-over-fees-subscription-cancellations-4560028",
+          "source": "Stock Market News",
+          "published_utc": "2026-03-13 20:31 UTC",
+          "analysis_zh": "Adobe公司与美国的一项诉讼达成了1.5亿美元的和解，涉及终止费用和订阅取消的问题。这一和解不仅影响了Adobe的财务状况，也引发了对其他科技公司类似做法的关注。此事件可能促使更多企业重新审视其订阅政策，以避免潜在的法律风险和客户流失。",
+          "analysis_en": "Adobe has reached a $150 million settlement in a U.S. lawsuit concerning termination fees and subscription cancellations. This settlement impacts Adobe's financial standing and raises awareness about similar practices among other tech companies. The incident may encourage more businesses to reevaluate their subscription policies to avoid potential legal risks and customer attrition."
         },
         {
           "rank": 5,
-          "title": "Fourth-quarter GDP revised down to just 0.7% growth; January core inflation was 3.1%",
-          "link": "https://www.cnbc.com/2026/03/13/fourth-quarter-gdp-revised-down-to-just-0point7percent-growth-january-core-inflation-was-3point1percent.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-03-13 14:36 UTC",
-          "analysis_zh": "美国第四季度的国内生产总值（GDP）修正为仅增长0.7%，而一月份的核心通胀率为3.1%。这一数据的修正反映出经济增长的放缓，可能会影响投资者对未来经济前景的信心。低于预期的增长率可能促使政策制定者重新考虑货币政策，尤其是在通胀仍然高企的情况下。整体来看，这些经济指标将对市场情绪和投资决策产生深远影响。",
-          "analysis_en": "The U.S. fourth-quarter GDP was revised down to just 0.7% growth, while the core inflation rate for January stood at 3.1%. This revision indicates a slowdown in economic growth, which could affect investor confidence regarding future economic prospects. The lower-than-expected growth rate may prompt policymakers to reconsider monetary policy, especially with inflation remaining high. Overall, these economic indicators are likely to have a significant impact on market sentiment and investment decisions."
+          "title": "Here’s a rare chance to invest before big stock-index funds and Wall Street dive in",
+          "link": "https://www.marketwatch.com/story/heres-a-rare-chance-to-front-run-wall-streets-best-and-biggest-players-1e98c87e?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-03-13 20:31 UTC",
+          "analysis_zh": "越南预计将从“前沿市场”晋升为“新兴市场”，这对投资者来说是一个难得的机会。此举将吸引更多大型股票指数基金和华尔街的关注，可能会导致越南市场的资金流入增加。投资者需要把握时机，尽早布局，以便在市场变化之前获得潜在收益。",
+          "analysis_en": "Vietnam is expected to be upgraded from a \"frontier market\" to an \"emerging market,\" presenting a rare opportunity for investors. This transition is likely to attract significant attention from major stock index funds and Wall Street, potentially increasing capital inflow into the Vietnamese market. Investors should act promptly to position themselves for potential gains before the market dynamics shift."
         },
         {
           "rank": 6,
-          "title": "How many employees does Chevron have? A look inside its global workforce",
-          "link": "https://finance.yahoo.com/news/many-employees-does-chevron-look-143600110.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-13 14:36 UTC",
-          "analysis_zh": "根据最新报道，雪佛龙公司目前在全球拥有约4.7万名员工。这一数据不仅反映了雪佛龙在全球能源市场的规模和影响力，也显示了其在应对能源转型和可持续发展方面的努力。随着全球对清洁能源的需求不断增加，雪佛龙的员工结构和业务模式可能会发生变化，从而影响其未来的投资方向和战略布局。",
-          "analysis_en": "According to recent reports, Chevron currently employs approximately 47,000 people worldwide. This figure not only reflects Chevron's scale and influence in the global energy market but also highlights its efforts in addressing energy transition and sustainability. As the demand for clean energy continues to rise globally, Chevron's workforce structure and business model may evolve, potentially impacting its future investment strategies and direction."
+          "title": "Canada stocks lower at close of trade; S&P/TSX Composite down 0.91%",
+          "link": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-091-4560917",
+          "source": "Stock Market News",
+          "published_utc": "2026-03-13 20:30 UTC",
+          "analysis_zh": "加拿大股市在交易结束时下跌，S&P/TSX综合指数下跌了0.91%。这一趋势反映了市场对经济前景的不确定性，投资者对未来的信心受到影响。股市的下滑可能会导致投资者重新评估他们的投资策略，并可能影响到其他相关市场的表现。",
+          "analysis_en": "Canadian stocks closed lower, with the S&P/TSX Composite down by 0.91%. This trend reflects the market's uncertainty regarding the economic outlook, which has affected investor confidence. The decline in the stock market may prompt investors to reassess their investment strategies and could impact the performance of related markets."
         },
         {
           "rank": 7,
-          "title": "Anthony Scaramucci Says Oil's Massive Spike Won't Last, Predicts Prices Will Fall Back As Panic Fades: '...Play The Volatility Trade'",
-          "link": "https://finance.yahoo.com/news/anthony-scaramucci-says-oils-massive-143009553.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-13 14:30 UTC",
-          "analysis_zh": "安东尼·斯卡拉穆奇（Anthony Scaramucci）表示，近期油价的剧烈上涨不会持久，预计随着市场恐慌情绪的减退，油价将会回落。这一观点引发了投资者的关注，因为油价的波动直接影响到全球经济和能源市场的稳定。若油价回落，可能会减轻消费者的生活成本压力，同时也会影响到能源相关企业的盈利预期。",
-          "analysis_en": "Anthony Scaramucci has stated that the recent massive spike in oil prices is unlikely to last, predicting that prices will fall back as panic subsides. This perspective has caught the attention of investors, as fluctuations in oil prices directly impact global economic stability and energy markets. If oil prices do decline, it could alleviate the cost of living pressures on consumers and also affect the profit expectations of energy-related companies."
+          "title": "Brazil stocks lower at close of trade; Bovespa down 0.91%",
+          "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-091-4560910",
+          "source": "Stock Market News",
+          "published_utc": "2026-03-13 20:30 UTC",
+          "analysis_zh": "巴西股市在交易结束时下跌，Bovespa指数下滑了0.91%。这一下跌反映了市场对经济前景的不安，投资者可能对未来的政策变化感到担忧。股市的波动不仅影响投资者的信心，也可能对巴西的经济增长产生负面影响。",
+          "analysis_en": "Brazil's stock market closed lower, with the Bovespa index down by 0.91%. This decline reflects market unease regarding the economic outlook, as investors may be concerned about potential policy changes. The fluctuations in the stock market not only affect investor confidence but could also have negative implications for Brazil's economic growth."
         },
         {
           "rank": 8,
-          "title": "‘Healthcare is important to me’: I’m worried about relocating to Florida from New Jersey. Are hospitals there under stress?",
-          "link": "https://www.marketwatch.com/story/healthcare-is-important-to-me-im-worried-about-relocating-to-florida-from-new-jersey-are-hospitals-there-under-stress-5c270b07?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-03-13 14:30 UTC",
-          "analysis_zh": "最近，有人对从新泽西州搬到佛罗里达州表示担忧，尤其是关于当地医疗系统的压力。尽管气候、保险费用和维护费用等因素并不是主要问题，但医疗服务的可及性和质量仍然是一个重要考量。这一问题关系到居民的健康和生活质量，可能会影响到佛罗里达州的吸引力，特别是对那些需要频繁医疗服务的人群。",
-          "analysis_en": "Recently, a person expressed concerns about relocating from New Jersey to Florida, particularly regarding the stress on the local healthcare system. While factors like climate, insurance costs, and maintenance fees are not the main issues, the accessibility and quality of medical services remain crucial considerations. This issue affects residents' health and quality of life, potentially impacting Florida's appeal, especially for those who require frequent medical care."
+          "title": "DOJ to appeal judge's decision to block Fed subpoenas in Powell criminal probe",
+          "link": "https://www.cnbc.com/2026/03/13/fed-jerome-powell-investigation-trump-pirro-doj.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-03-13 20:29 UTC",
+          "analysis_zh": "美国司法部决定对法官阻止美联储传票的裁决提出上诉，原因是美联储主席杰罗姆·鲍威尔因其关于美联储总部昂贵装修的言论而受到调查。这一事件引发了公众对美联储透明度和问责制的关注，尤其是在当前经济形势下，公众对金融机构的信任显得尤为重要。此案的进展可能会影响美联储的声誉以及未来的政策制定。",
+          "analysis_en": "The U.S. Department of Justice has decided to appeal a judge's ruling that blocked subpoenas related to an investigation into Federal Reserve Chair Jerome Powell for comments he made about the expensive renovations of the Fed's headquarters. This situation raises public concerns regarding the transparency and accountability of the Federal Reserve, especially as trust in financial institutions is crucial in the current economic climate. The outcome of this case could impact the Fed's reputation and future policy-making."
         },
         {
           "rank": 9,
-          "title": "Inside JPMorgan Chase's push to become the startup world’s new Silicon Valley Bank",
-          "link": "https://www.cnbc.com/2026/03/13/jpmorgan-silicon-valley-bank-startup-bank.html",
+          "title": "Average IRS tax refund is up 10.6%, filing data shows",
+          "link": "https://www.cnbc.com/2026/03/13/average-irs-tax-refund.html",
           "source": "US Top News and Analysis",
-          "published_utc": "2026-03-13 14:29 UTC",
-          "analysis_zh": "摩根大通正在努力争夺初创企业银行业务的市场份额，这不仅仅是为了增加存款，更是为了为美国最大的银行的未来做好准备。这一举措表明，摩根大通希望在竞争激烈的金融科技领域中占据一席之地。随着初创企业对银行服务的需求不断增长，这种战略可能会影响到其他银行的市场定位和服务策略。",
-          "analysis_en": "JPMorgan Chase is striving to capture the startup banking niche, which is not just about increasing deposits but also about future-proofing the largest bank in the U.S. This move indicates JPMorgan's desire to secure a position in the competitive fintech landscape. As the demand for banking services from startups continues to rise, this strategy could influence the market positioning and service strategies of other banks."
+          "published_utc": "2026-03-13 20:23 UTC",
+          "analysis_zh": "根据最新的报税数据，美国国税局的平均退税额上升了10.6%。这一变化对许多家庭来说是个好消息，因为更高的退税意味着他们可以获得更多的资金来应对生活开支或进行投资。这一趋势可能会刺激消费，进而推动经济增长。此外，退税的增加也可能影响未来的税收政策，政府可能会考虑如何平衡财政收入与纳税人的负担。",
+          "analysis_en": "According to the latest filing data, the average IRS tax refund has increased by 10.6%. This change is good news for many households, as a higher refund means they can receive more funds to manage living expenses or invest. This trend could stimulate consumer spending, potentially boosting economic growth. Additionally, the increase in refunds may influence future tax policies, as the government might consider how to balance fiscal revenue with taxpayers' burdens."
         },
         {
           "rank": 10,
-          "title": "Used-car retailer Carvana announces first stock split",
-          "link": "https://www.investing.com/news/stock-market-news/usedcar-retailer-carvana-announces-first-stock-split-4560385",
-          "source": "Stock Market News",
-          "published_utc": "2026-03-13 14:24 UTC",
-          "analysis_zh": "二手车零售商Carvana宣布进行首次股票拆分。这一决定可能会影响投资者的信心，因为股票拆分通常被视为公司增长和价值提升的信号。通过降低每股价格，Carvana希望吸引更多的散户投资者，从而提高其市场流动性。这一举措可能会在短期内推动股价上涨，但长期效果仍需观察。",
-          "analysis_en": "Used-car retailer Carvana has announced its first stock split. This decision could impact investor confidence, as stock splits are often seen as a sign of company growth and increased value. By lowering the price per share, Carvana aims to attract more retail investors, thereby enhancing its market liquidity. This move may lead to a short-term increase in stock prices, but the long-term effects remain to be seen."
+          "title": "Think Russian oil will calm the Iran conflict’s supply panic? Here’s what the math reveals.",
+          "link": "https://www.marketwatch.com/story/think-russian-oil-will-calm-the-iran-conflicts-supply-panic-heres-what-the-math-reveals-e392c4be?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-03-13 20:20 UTC",
+          "analysis_zh": "俄罗斯石油能够迅速进入市场，但伊朗冲突引发的供应恐慌却更加严重。这一局势的变化可能会影响全球油价和市场稳定，尤其是在中东地区的紧张局势加剧的背景下。各国投资者需要密切关注这一动态，以便及时调整他们的投资策略。",
+          "analysis_en": "Russian oil can quickly reach markets, but the supply fears stemming from the Iran conflict are much more significant. This shift in the situation could impact global oil prices and market stability, especially given the escalating tensions in the Middle East. Investors around the world need to closely monitor these developments to adjust their investment strategies accordingly."
         }
       ]
     },
     "健康": {
       "description": "医学、营养、抗衰老、代谢与公共健康",
-      "count": 7,
+      "count": 10,
       "items": [
         {
           "rank": 1,
+          "title": "Two People Die After Paid Plasma Donation at Clinics in Canada",
+          "link": "https://www.nytimes.com/2026/03/11/world/canada/winnipeg-plasma-blood-donation-deaths.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-03-13 20:37 UTC",
+          "analysis_zh": "在加拿大，西班牙医疗公司Grifols运营的诊所中，有两名在接受有偿血浆捐献的捐赠者不幸去世。这一事件引发了公众对有偿血浆捐献安全性的广泛关注。此事不仅可能影响到Grifols的运营，还可能引发对整个行业的监管审查，进而影响血浆捐献的政策和实践。",
+          "analysis_en": "In Canada, two donors tragically died after receiving paid plasma donations at clinics operated by the Spanish healthcare company Grifols. This incident has raised significant public concern regarding the safety of paid plasma donation practices. It could not only impact Grifols' operations but also prompt regulatory scrutiny across the industry, potentially affecting policies and practices surrounding plasma donation."
+        },
+        {
+          "rank": 2,
+          "title": "Earlier Cholesterol Testing Can Reduce Heart Attacks and Strokes, New Guideline Says",
+          "link": "https://www.nytimes.com/2026/03/13/health/cholesterol-guidelines-heart-health.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-03-13 19:11 UTC",
+          "analysis_zh": "最近，十一家医学组织提出了新的预防心脏病护理指南，建议提前进行胆固醇检测。这项建议的目的是显著降低心脏病发作和中风的风险。这一变化可能会影响许多人的健康管理方式，促使更多人关注心血管健康并采取预防措施。",
+          "analysis_en": "Recently, eleven medical organizations released new guidelines for preventive cardiac care, recommending earlier cholesterol testing. The aim of this recommendation is to significantly reduce the risk of heart attacks and strokes. This change could impact how many individuals manage their health, encouraging greater awareness of cardiovascular health and preventive measures."
+        },
+        {
+          "rank": 3,
+          "title": "His Harvard Lab Was Thriving. Then Came the Cuts.",
+          "link": "https://www.nytimes.com/2026/03/13/us/his-harvard-lab-was-thriving-then-came-the-cuts.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-03-13 18:52 UTC",
+          "analysis_zh": "威尔·梅尔是一位研究衰老的科学家，他的哈佛实验室曾经蓬勃发展，但在白宫对哈佛进行资金削减后，他几乎失去了所有的研究经费。这一变化让他完全没有准备，随之而来的动荡影响了他的研究进展。这一事件不仅对梅尔个人的职业生涯造成了冲击，也可能影响到整个衰老研究领域的资金分配和科研进展。",
+          "analysis_en": "Will Mair, a scientist studying aging, saw his thriving Harvard lab face a severe setback when the White House imposed funding cuts on the university, resulting in the loss of nearly all his research funds. This unexpected upheaval left him unprepared and has significantly impacted his research trajectory. This situation not only affects Mair's career but may also have broader implications for funding and progress in the field of aging research."
+        },
+        {
+          "rank": 4,
+          "title": "E.P.A. Moves to Weaken Limits on Ethylene Oxide",
+          "link": "https://www.nytimes.com/2026/03/13/climate/epa-ethylene-oxide-cancer.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-03-13 17:32 UTC",
+          "analysis_zh": "美国环保署（E.P.A.）正在采取措施放宽对环氧乙烷的限制。环氧乙烷是一种在医疗设备消毒中至关重要的气体，但长期接触与多种癌症及其他健康问题相关。这一决定引发了公众的担忧，因为它可能会增加人们对这种有害物质的暴露，影响到社区的健康和安全。专家警告说，这可能会导致更多的健康风险，尤其是在那些靠近使用该气体的设施的居民中。",
+          "analysis_en": "The U.S. Environmental Protection Agency (E.P.A.) is moving to weaken restrictions on ethylene oxide. This gas is crucial for sterilizing medical devices, but long-term exposure is linked to various cancers and other health issues. This decision has raised public concern as it may increase people's exposure to this harmful substance, affecting community health and safety. Experts warn that this could lead to greater health risks, particularly for residents living near facilities that use this gas."
+        },
+        {
+          "rank": 5,
+          "title": "How Safe Is Plasma Donation? Deaths in Canada Raise Concerns.",
+          "link": "https://www.nytimes.com/2026/03/13/health/plasma-donation-safety.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-03-13 16:07 UTC",
+          "analysis_zh": "最近，加拿大发生了两起与盈利性诊所相关的死亡事件，引发了人们对频繁献血浆的健康影响的担忧。这些事件使得公众对每周多达两次的血浆捐献安全性产生了质疑。这一问题不仅涉及到捐献者的健康风险，还可能影响到血浆供应链的稳定性和公众对献血浆的信任。",
+          "analysis_en": "Recently, two deaths linked to for-profit clinics in Canada have raised concerns about the health effects of frequent plasma donation. These incidents have led to public skepticism regarding the safety of donating plasma as often as twice a week. This issue not only involves potential health risks for donors but may also impact the stability of the plasma supply chain and public trust in plasma donation practices."
+        },
+        {
+          "rank": 6,
           "title": "A Third of Americans Have Cut Spending or Borrowed Money for Health Care",
           "link": "https://www.nytimes.com/2026/03/12/health/health-costs-cutting-back.html",
           "source": "NYT > Health",
           "published_utc": "2026-03-13 13:41 UTC",
-          "analysis_zh": "一项新的调查显示，三分之一的美国人为了支付不断上涨的医疗费用，不得不削减开支或借钱。许多人甚至选择不吃饭或减少开车，以应对医疗费用的压力。这一现象反映了医疗保健负担对家庭经济的深远影响，可能导致人们在健康和生活质量上做出更多妥协。如果这种趋势持续，可能会加剧社会不平等，并对公共卫生产生负面影响。",
-          "analysis_en": "A new survey reveals that a third of Americans are cutting back on spending or borrowing money to afford rising healthcare costs. Many individuals are skipping meals or driving less to cope with the financial burden of medical expenses. This trend highlights the significant impact of healthcare costs on household finances, potentially forcing people to make more compromises regarding their health and quality of life. If this situation continues, it could exacerbate social inequalities and negatively affect public health."
+          "analysis_zh": "一项新的调查显示，三分之一的美国人为了支付不断上涨的医疗费用，选择减少开支或借钱。这导致许多人不得不跳过餐食或减少驾驶频率。这一现象反映了医疗费用对家庭经济的重大影响，可能会加剧人们的健康问题和经济压力。随着医疗支出的持续增加，这种情况可能会影响到更多家庭的生活质量。",
+          "analysis_en": "A new survey reveals that a third of Americans have cut back on spending or borrowed money to afford rising healthcare costs. Many individuals are skipping meals or driving less as a result. This situation highlights the significant impact of medical expenses on household finances, which could worsen health issues and economic strain. As healthcare costs continue to rise, more families may find their quality of life affected."
         },
         {
-          "rank": 2,
+          "rank": 7,
           "title": "A New Lifeline Helps Inmates Transition to Life Outside the Bars",
           "link": "https://www.nytimes.com/2026/03/13/health/medicaid-jail-prison-healh-care.html",
           "source": "NYT > Health",
           "published_utc": "2026-03-13 12:08 UTC",
-          "analysis_zh": "最近，美国的医疗保险计划开始为监狱和监禁设施中的囚犯提供医疗服务，这一举措旨在帮助他们更顺利地重返社会。此项政策的实施得到了监狱管理和执法部门的支持，反映出对囚犯健康问题的重视。通过提供必要的医疗护理，囚犯在出狱后能够更好地适应社区生活，从而减少再犯率，促进社会安全。",
-          "analysis_en": "Recently, the Medicaid program in the U.S. has started covering healthcare for inmates in jails and prisons, aiming to facilitate their smoother transition back into society. This policy has received support from corrections and law enforcement officials, highlighting the importance of addressing health issues among inmates. By providing essential medical care, inmates will be better equipped to adapt to community life after their release, potentially reducing recidivism rates and promoting public safety."
+          "analysis_zh": "最近，医疗补助计划开始为监狱和拘留所内的健康护理提供资金，这一举措有助于囚犯顺利回归社会。此项政策得到了监狱和执法部门的支持，反映出对改善囚犯生活质量的重视。这不仅有助于降低再犯率，还可能减轻社会医疗系统的负担，促进公共健康。",
+          "analysis_en": "Recently, the Medicaid program has started funding healthcare for inmates in jails and prisons, facilitating their smoother transition back into society. This policy has received support from correctional and law enforcement officials, highlighting the importance of improving the quality of life for inmates. Not only does this initiative aim to reduce recidivism rates, but it may also alleviate the burden on the public healthcare system and promote overall public health."
         },
         {
-          "rank": 3,
+          "rank": 8,
           "title": "Study finds two types of colon polyps can raise bowel cancer risk fivefold",
           "link": "https://www.sciencedaily.com/releases/2026/03/260313002938.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-13 10:14 UTC",
-          "analysis_zh": "一项研究发现，同时存在腺瘤和锯齿状息肉的患者，发展为严重癌前病变的风险可能增加五倍。研究人员分析了超过8400例结肠镜检查记录，发现这两种息肉类型可能代表不同的癌症发展途径。几乎一半的锯齿状息肉患者也有腺瘤，这一高风险组合比预期更为常见。这项研究强调了早期发现和定期结肠镜监测的重要性，可能会影响结肠癌的筛查和预防策略。",
-          "analysis_en": "A study has found that patients with both adenomas and serrated polyps face a fivefold increased risk of developing serious precancerous changes. Researchers analyzed over 8,400 colonoscopy records and discovered that these two types of polyps may represent different cancer pathways. Nearly half of the patients with serrated polyps also had adenomas, making this high-risk combination more common than previously thought. This research highlights the importance of early detection and regular colonoscopy monitoring, which could influence screening and prevention strategies for colorectal cancer."
+          "analysis_zh": "一项研究发现，同时存在腺瘤和锯齿状息肉的患者，患结肠癌的风险可能增加五倍。研究人员分析了超过8400例结肠镜检查记录，发现这两种息肉类型可能代表不同的癌症发展途径，并且同时出现的情况比预期更为普遍。近一半的锯齿状息肉患者也存在腺瘤，这突显了早期检测和定期结肠镜监测的重要性。这项发现对于提高公众对结肠癌风险的认识具有重要意义，可能会影响未来的筛查和监测策略。",
+          "analysis_en": "A recent study found that patients with both adenomas and serrated polyps may face a fivefold increased risk of developing colorectal cancer. Researchers analyzed over 8,400 colonoscopy records and discovered that these two types of polyps could represent different cancer pathways that occur simultaneously, which is more common than previously thought. Nearly half of the patients with serrated polyps also had adenomas, highlighting the importance of early detection and regular colonoscopy monitoring. This finding is significant for raising public awareness about colorectal cancer risks and may influence future screening and monitoring strategies."
         },
         {
-          "rank": 4,
+          "rank": 9,
           "title": "Severe COVID or flu may raise lung cancer risk years later",
           "link": "https://www.sciencedaily.com/releases/2026/03/260313055130.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-13 09:56 UTC",
-          "analysis_zh": "最新研究表明，严重的COVID-19或流感病例可能会在多年后增加肺癌的风险。科学家发现，严重的病毒感染会改变肺部的免疫细胞，导致慢性炎症的产生，这种炎症可能为肿瘤的发展创造条件。尤其是在需要住院治疗的严重感染后，这种风险更为明显。值得注意的是，疫苗接种似乎能够有效预防这些有害的肺部变化，因此，医生应密切关注从严重COVID、流感或肺炎中恢复的患者，以便及早发现肺癌。",
-          "analysis_en": "Recent research indicates that severe cases of COVID-19 or influenza may increase the risk of lung cancer years later. Scientists discovered that serious viral infections can alter immune cells in the lungs, leading to chronic inflammation that may facilitate tumor development. This increased risk is particularly evident after severe infections that required hospitalization. Importantly, vaccination appears to effectively prevent these harmful lung changes, highlighting the need for doctors to closely monitor patients recovering from severe COVID, flu, or pneumonia for early detection of lung cancer."
+          "analysis_zh": "新研究表明，严重的COVID-19或流感病例可能会在几年后增加肺癌风险。科学家发现，严重的病毒感染会改变肺部的免疫细胞，导致慢性炎症，这种状态可能为肿瘤的发展创造条件。尤其是在需要住院的严重感染后，风险增加更为明显。值得注意的是，接种疫苗似乎能够有效预防这些有害的肺部变化，因此，医生应密切关注从严重COVID、流感或肺炎中恢复的患者，以便早期发现肺癌。",
+          "analysis_en": "New research indicates that severe cases of COVID-19 or influenza may increase the risk of lung cancer years later. Scientists found that serious viral infections can alter immune cells in the lungs, leading to chronic inflammation that may create conditions favorable for tumor development. The increased risk is particularly notable after severe infections that required hospitalization. Importantly, vaccination appears to effectively prevent these harmful lung changes, prompting doctors to closely monitor patients recovering from severe COVID, flu, or pneumonia for early lung cancer detection."
         },
         {
-          "rank": 5,
+          "rank": 10,
           "title": "Monty Python Got It Wrong About Medieval Disease",
           "link": "https://www.sciencedaily.com/releases/2026/03/260313002645.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-13 09:38 UTC",
-          "analysis_zh": "在中世纪的丹麦，人们可以支付费用以获得靠近教堂的更高档墓地，这通常被视为财富和地位的象征。然而，研究人员在对数百具骨骼进行分析时发现，即使是患有麻风等被社会污名化疾病的人，也被埋葬在这些高档墓地中。这一发现颠覆了人们对历史上对待病人的偏见，显示出许多社区对待病人并没有排斥，而是将他们视为与他人一样的成员。这项研究不仅改变了我们对中世纪社会的理解，也可能影响我们对现代社会中疾病与社会地位关系的看法。",
-          "analysis_en": "In medieval Denmark, individuals could pay for more prestigious graves closer to the church, which were seen as symbols of wealth and status. However, researchers found that even those with stigmatized diseases like leprosy were buried in these high-status locations. This discovery challenges the common perception of historical attitudes toward the sick, revealing that many communities treated them similarly to others. This research not only alters our understanding of medieval society but may also influence contemporary views on the relationship between disease and social status."
-        },
-        {
-          "rank": 6,
-          "title": "His Harvard Lab Was Thriving. Then Came the Cuts.",
-          "link": "https://www.nytimes.com/2026/03/13/us/his-harvard-lab-was-thriving-then-came-the-cuts.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-03-13 09:00 UTC",
-          "analysis_zh": "哈佛大学的研究人员威尔·梅尔在白宫对哈佛进行削减资金的政策影响下，几乎失去了所有的研究经费。他专注于老龄化研究，但这一突如其来的变化让他完全没有准备。这一事件不仅影响了梅尔的研究进展，也可能对整个学术界的资金分配产生深远的影响，尤其是在基础科学领域。",
-          "analysis_en": "Will Mair, a researcher at Harvard studying aging, lost nearly all of his funding due to the White House's cuts to the university. This unexpected change left him unprepared and disrupted his research efforts. The situation is significant as it not only affects Mair's work but could also have broader implications for funding distribution across the academic community, particularly in foundational scientific research."
-        },
-        {
-          "rank": 7,
-          "title": "A “mirror” molecule can starve cancer cells without harming healthy cells",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260311213453.htm",
-          "source": "Health & Medicine News -- ScienceDaily",
-          "published_utc": "2026-03-12 22:48 UTC",
-          "analysis_zh": "科学家发现了一种稀有的“镜像”氨基酸半胱氨酸的变体D-半胱氨酸，能够显著减缓某些癌症的生长，同时对健康细胞几乎没有伤害。这一发现的重要性在于，它为癌症治疗提供了一种新的思路，能够在不损害正常组织的情况下，精准地攻击癌细胞。研究表明，D-半胱氨酸主要被某些癌细胞通过特定的转运蛋白吸收，进入细胞后会关闭癌细胞所依赖的关键线粒体酶，从而有效地阻止其生长。这项研究可能会为未来的癌症治疗带来新的希望，减少传统治疗方法带来的副作用。",
-          "analysis_en": "Scientists have discovered a rare \"mirror-image\" version of the amino acid cysteine, known as D-cysteine, which can significantly slow the growth of certain cancers while leaving healthy cells largely unharmed. This finding is important because it offers a new approach to cancer treatment that can target cancer cells precisely without damaging normal tissues. The research indicates that D-cysteine is mainly absorbed by specific cancer cells through a particular transporter, and once inside, it shuts down a crucial mitochondrial enzyme that cancer cells rely on for energy production. This study may pave the way for future cancer therapies that minimize the side effects associated with traditional treatments."
+          "analysis_zh": "在中世纪的丹麦，人们可以支付费用以获得更靠近教堂的高档墓地，象征着财富和地位。然而，研究人员在检查了数百具骨骼后发现，甚至那些患有麻风等有污名的疾病的人也被埋葬在这些高地位的墓地中。这一发现表明，许多社区并没有将病人排除在外，而是像对待其他人一样对待他们。这项研究不仅挑战了我们对中世纪社会对待疾病的传统看法，还可能影响我们对历史上人际关系和社会结构的理解。",
+          "analysis_en": "In medieval Denmark, people could pay for prestigious graves closer to the church, which indicated wealth and status. However, researchers found that even individuals with stigmatized diseases like leprosy were buried in these high-status locations. This discovery suggests that many communities did not exclude the sick, treating them similarly to others. This study challenges traditional views on how medieval societies dealt with illness and may influence our understanding of historical relationships and social structures."
         }
       ]
     },
@@ -183,8 +210,8 @@
           "link": "https://aeon.co/essays/what-african-philosophy-says-about-our-duties-to-oneself?utm_source=rss-feed",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-03-13 10:00 UTC",
-          "analysis_zh": "非洲哲学强调和谐与生命力的价值观，这对我们思考自我责任有重要启示。文章探讨了我们对自己的义务，强调个体与社会之间的平衡。理解这些哲学观念，能够帮助我们更好地认识自我价值，并在现代社会中找到内心的和谐。这一讨论不仅有助于个人成长，也可能影响我们对社会责任的看法。",
-          "analysis_en": "African philosophy emphasizes values of harmony and vitality, offering significant insights into our responsibilities to ourselves. The article explores the balance between individual obligations and societal expectations. By understanding these philosophical perspectives, we can better appreciate our self-worth and find inner harmony in the modern world. This discussion not only aids personal growth but may also influence our views on social responsibility."
+          "analysis_zh": "非洲哲学强调和谐与活力，这对我们思考自我责任有重要启示。文章探讨了在现代社会中，个人如何平衡自我需求与社会期望之间的关系。这种哲学观念不仅有助于提升个人的心理健康，也可能影响人们对道德责任的理解。通过重新审视自我与他人之间的关系，我们或许能够找到更具建设性的生活方式。",
+          "analysis_en": "African philosophy emphasizes harmony and vitality, offering significant insights into our responsibilities to ourselves. The article discusses how individuals can balance personal needs with societal expectations in modern life. This philosophical perspective not only aids in enhancing personal mental health but may also influence our understanding of moral responsibilities. By reevaluating the relationship between self and others, we might discover more constructive ways to live."
         }
       ]
     },
@@ -194,93 +221,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Epic says its Fortnite V-bucks price hike is a ‘direct correlation’ to operating costs",
-          "link": "https://www.theverge.com/games/894379/epic-games-fortnite-v-bucks-price-hike-operating-costs",
+          "title": "Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year",
+          "link": "https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles",
           "source": "The Verge",
-          "published_utc": "2026-03-13 14:24 UTC",
-          "analysis_zh": "Epic Games本周宣布，《堡垒之夜》的游戏内货币V-bucks将会涨价，原因是运营成本显著上升。该公司表示，涨价将于3月19日生效，这一天也是新一季《堡垒之夜》的发布日。此举引发了玩家的不满，许多用户在社交媒体上表达了抗议。尽管Epic的高管在游戏开发者大会上表示，涨价主要是由于运营成本的增加，但具体原因并未详细说明。这一决定可能会影响玩家的消费意愿，并对游戏的整体收入产生影响。",
-          "analysis_en": "Epic Games announced this week that the in-game currency V-bucks for Fortnite will be increasing in price due to a significant rise in operating costs. The price hike will take effect on March 19th, coinciding with the launch of the next major season of Fortnite. This decision has sparked dissatisfaction among players, with many voicing their protests on social media. Although Epic executives mentioned at the Game Developers Conference that the increase is primarily linked to operating costs, they did not provide further specifics. This move could affect players' willingness to spend and potentially impact the overall revenue of the game."
+          "published_utc": "2026-03-13 20:51 UTC",
+          "analysis_zh": "微软计划在今年将其游戏助手Copilot AI引入当前一代Xbox主机。Xbox的游戏AI产品经理Sonali Yadav在游戏开发者大会（GDC）上透露了这一消息。这一助手的推出将为玩家提供更智能的游戏体验，帮助他们在遇到困难时获得建议和指导。随着AI技术的不断进步，这一功能可能会吸引更多玩家使用Xbox平台，并提升游戏的互动性和乐趣。",
+          "analysis_en": "Microsoft is set to introduce its Gaming Copilot AI assistant to current-generation Xbox consoles this year. Sonali Yadav, Xbox's product manager for gaming AI, announced this news during the Game Developers Conference (GDC). The introduction of this assistant aims to enhance the gaming experience by providing players with suggestions and guidance when they encounter challenges. As AI technology continues to advance, this feature could attract more players to the Xbox platform and enhance the interactivity and enjoyment of gaming."
         },
         {
           "rank": 2,
-          "title": "Peacock is adding an AI Andy Cohen to narrate an endless stream of Bravo clips",
-          "link": "https://www.theverge.com/streaming/894128/peacock-nbcuniversal-ai-andy-cohen-bravo",
+          "title": "Trump Mobile is just one in the crowd of conservative carriers",
+          "link": "https://www.theverge.com/tech/894762/trump-mobile-conservative-mvno-radiant-patriot-puretalk-charity-liberty",
           "source": "The Verge",
-          "published_utc": "2026-03-13 14:20 UTC",
-          "analysis_zh": "Peacock将在其移动应用中推出一个AI版的安迪·科恩，作为用户浏览Bravo节目剪辑的向导。NBC环球在周五的公告中表示，这个虚拟形象将帮助用户探索“无限滑动”的剪辑流，包括《爱情岛》和《真实主妇》等热门节目。这一举措不仅增强了用户体验，也反映了流媒体平台在吸引观众方面的竞争加剧。随着短视频内容的增加，Peacock可能会吸引更多用户留在其平台上，从而对其他流媒体服务构成压力。",
-          "analysis_en": "Peacock is introducing an AI version of Andy Cohen in its mobile app to guide users through a stream of Bravo show clips. In an announcement on Friday, NBCUniversal stated that this virtual avatar will assist viewers in exploring an \"infinitely swipeable\" feed featuring popular shows like Love Island and The Real Housewives. This move not only enhances user experience but also highlights the increasing competition among streaming platforms to attract viewers. With the rise of short-form content, Peacock may draw more users to its platform, potentially putting pressure on other streaming services."
+          "published_utc": "2026-03-13 20:51 UTC",
+          "analysis_zh": "特朗普移动（Trump Mobile）并不是唯一一家面向保守派的移动运营商。尽管特朗普家族在他任职期间推出手机公司的举动颇具特色，但市场上已经存在多家专注于吸引爱国者、基督徒和共和党选民的虚拟移动网络运营商（MVNO）。这些运营商通过租赁大型运营商的网络基础设施来提供服务，通常会针对特定的用户群体进行市场定位。特朗普移动的出现不仅反映了保守派在科技领域的影响力，也可能会改变消费者对移动服务的选择和品牌忠诚度。",
+          "analysis_en": "Trump Mobile is not the only mobile carrier targeting conservatives. While the launch of a phone company by the president's family during his term is certainly unique, there are already several virtual mobile network operators (MVNOs) that focus on attracting patriots, Christians, and Republican voters. These carriers lease network infrastructure from larger providers to offer their services, often targeting specific user demographics. The emergence of Trump Mobile not only highlights the influence of conservatives in the tech space but may also shift consumer choices and brand loyalty in the mobile service market."
         },
         {
           "rank": 3,
-          "title": "Peacock’s NBA streams are going vertical",
-          "link": "https://www.theverge.com/streaming/894152/peacock-live-sports-nba-streams-vertical-mobile",
+          "title": "Digg’s open beta shuts down after just two months, blaming AI bot spam",
+          "link": "https://www.theverge.com/tech/894803/digg-beta-shutdown-layoffs-ai",
           "source": "The Verge",
-          "published_utc": "2026-03-13 14:00 UTC",
-          "analysis_zh": "Peacock正在推出一种适用于直播体育赛事的垂直视频格式，使用户在观看比赛时无需将手机横置。该功能将在今年春季首先应用于NBA比赛，并将利用算法追踪球员并放大动作。这一新功能的推出，可能会改变用户观看体育赛事的方式，提升观看体验，尤其是在移动设备上。",
-          "analysis_en": "Peacock is introducing a native vertical video format for live sports, allowing users to watch games without turning their phones sideways. This feature will first be rolled out for NBA games this spring and will use an algorithm to track players and zoom in on the action. The launch of this feature could change the way users experience sports viewing, enhancing the experience, especially on mobile devices."
+          "published_utc": "2026-03-13 20:51 UTC",
+          "analysis_zh": "Digg的开放测试版在仅仅两个月后宣布关闭，原因是遭遇了大量的人工智能机器人垃圾信息。这一消息引发了广泛关注，因为Digg曾承诺将重塑社交发现的方式，强调社区的重要性而非算法的主导。此次关闭不仅意味着Digg团队将大幅裁员，也可能对其未来的发展方向产生深远影响。尽管如此，Digg的首席执行官表示这次关闭是暂时的，团队将重新审视并改进平台。",
+          "analysis_en": "Digg's open beta has shut down after just two months, citing a surge of AI bot spam as the primary reason. This is significant because Digg had promised to reshape social discovery by focusing on community input rather than algorithmic control. The shutdown will result in substantial layoffs and could have lasting implications for the platform's future. However, the CEO has indicated that this closure is temporary, and the team plans to reassess and improve the platform moving forward."
         },
         {
           "rank": 4,
-          "title": "The MacBook Neo is a winner",
-          "link": "https://www.theverge.com/podcast/894274/macbook-neo-review-xbox-helix-vergecast",
-          "source": "The Verge",
-          "published_utc": "2026-03-13 13:13 UTC",
-          "analysis_zh": "苹果最近决定全力进军经济型笔记本市场，这一举动让人颇感意外。令人惊讶的是，苹果在首次尝试中便成功推出了MacBook Neo，这款售价599美元的笔记本几乎满足了大多数消费者的需求。这一变化不仅可能改变苹果在笔记本市场的定位，也可能对竞争对手造成压力，促使他们提升产品质量和性价比。",
-          "analysis_en": "Apple's recent decision to fully enter the affordable laptop market came as a surprise. Even more surprising is that the company successfully launched the MacBook Neo on its first attempt, a $599 laptop that meets the needs of most consumers. This shift could not only change Apple's positioning in the laptop market but also put pressure on competitors, prompting them to improve their product quality and value."
+          "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
+          "link": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
+          "source": "Biz & IT - Ars Technica",
+          "published_utc": "2026-03-13 20:18 UTC",
+          "analysis_zh": "最近，GitHub及其他代码库遭遇了一次供应链攻击，攻击者利用了人眼无法识别的Unicode字符。这种隐形代码在过去被广泛忽视，但如今却被黑客利用，可能导致代码库的安全性受到严重威胁。这一事件提醒了开发者和企业，必须更加关注代码的安全性和完整性，以防止潜在的安全漏洞。随着网络攻击手段的不断演变，企业需要加强防护措施，以保护自身和用户的数据安全。",
+          "analysis_en": "Recently, GitHub and other code repositories experienced a supply-chain attack that exploited Unicode characters invisible to the human eye. This invisible code had largely been overlooked in the past, but it has now been weaponized by hackers, posing a significant threat to the security of code repositories. This incident serves as a reminder for developers and companies to pay closer attention to the security and integrity of their code to prevent potential vulnerabilities. As cyberattack methods continue to evolve, businesses need to enhance their protective measures to safeguard their data and that of their users."
         },
         {
           "rank": 5,
-          "title": "PSA: Don’t buy a $4,400 gray market Samsung TriFold on eBay",
-          "link": "https://www.theverge.com/tech/894063/samsung-galaxy-z-trifold-sold-out-ebay",
+          "title": "Instagram is getting rid of end-to-end encrypted DMs that ‘very few’ people used",
+          "link": "https://www.theverge.com/tech/894752/instagram-end-to-end-encryption",
           "source": "The Verge",
-          "published_utc": "2026-03-13 13:00 UTC",
-          "analysis_zh": "近日，有报道称，三星的Galaxy Z TriFold手机在eBay上以高达4,400美元的价格出售，但实际上这款手机在市场上非常难以获得。许多消费者对这款手机充满期待，但由于三星的供应限制，导致了灰色市场的出现。这一现象不仅反映了三星在产品发布和分销上的问题，也可能影响消费者对品牌的信任度和未来的购买决策。",
-          "analysis_en": "Recently, reports have emerged that Samsung's Galaxy Z TriFold is being sold on eBay for as much as $4,400, despite the fact that the phone is extremely hard to obtain. Many consumers are eager for this device, but Samsung's supply constraints have led to the emergence of a gray market. This situation not only highlights issues with Samsung's product launch and distribution strategies but may also affect consumer trust in the brand and their future purchasing decisions."
+          "published_utc": "2026-03-13 19:39 UTC",
+          "analysis_zh": "Instagram宣布将于5月8日起停止支持端到端加密的私信功能。Meta的发言人表示，由于“很少有人”使用这一功能，因此决定取消。此举引发了对用户隐私和安全的担忧，尤其是在全球监管机构对社交平台加强儿童安全措施的压力下。虽然Meta建议用户转向WhatsApp继续使用端到端加密，但这一决定可能会影响用户对Instagram的信任。",
+          "analysis_en": "Instagram has announced that it will discontinue end-to-end encrypted direct messages starting May 8th. A spokesperson from Meta stated that the decision was made because \"very few people\" were utilizing this feature. This move raises concerns about user privacy and security, especially as global regulators are pressuring social platforms to enhance child safety measures. While Meta suggests users switch to WhatsApp for end-to-end encryption, this decision may affect user trust in Instagram."
         },
         {
           "rank": 6,
-          "title": "Google's AI Searches Love to Refer You Back to Google",
-          "link": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
-          "source": "Feed: Artificial Intelligence Latest",
-          "published_utc": "2026-03-13 12:31 UTC",
-          "analysis_zh": "谷歌的生成式人工智能搜索工具越来越倾向于引用自身的服务，如谷歌搜索和YouTube，而非第三方出版商。这一趋势引发了对信息来源多样性的担忧，因为用户可能会更少接触到其他信息源。此举可能会影响内容创作者和媒体公司的流量，进一步加剧市场竞争的不平衡。",
-          "analysis_en": "Google's generative AI search tools are increasingly citing its own services, such as Google Search and YouTube, rather than third-party publishers. This trend raises concerns about the diversity of information sources, as users may be exposed to fewer alternative viewpoints. This could impact traffic for content creators and media companies, further exacerbating the competitive imbalance in the market."
+          "title": "Adobe Settles With U.S. Over Hard-to-Cancel Subscriptions",
+          "link": "https://www.nytimes.com/2026/03/13/technology/adobe-settlement-doj.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-03-13 19:16 UTC",
+          "analysis_zh": "Adobe公司与美国政府达成和解，支付7500万美元，原因是该公司被指控隐瞒高额费用的相关细节。这一事件引发了公众对软件订阅模式透明度的关注，尤其是在消费者权益保护方面。此和解可能促使其他科技公司重新审视其订阅政策，以避免类似的法律问题。",
+          "analysis_en": "Adobe has reached a settlement with the U.S. government, agreeing to pay $75 million due to accusations of concealing details about high fees. This incident has raised public awareness regarding the transparency of software subscription models, particularly in terms of consumer protection. The settlement may encourage other tech companies to reevaluate their subscription policies to avoid facing similar legal issues."
         },
         {
           "rank": 7,
-          "title": "The Download: how AI is used for military targeting, and the Pentagon’s war on Claude",
-          "link": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
-          "source": "MIT Technology Review",
-          "published_utc": "2026-03-13 12:16 UTC",
-          "analysis_zh": "美国国防部官员透露，军方可能会利用生成式人工智能系统来评估目标并推荐优先打击的对象。这一消息引发了广泛关注，因为这标志着人工智能在军事决策中的应用正在不断扩大。这种技术的引入可能会改变战斗策略和战场动态，同时也引发了对伦理和安全问题的讨论。",
-          "analysis_en": "A U.S. Defense Department official has revealed that the military may use generative AI systems to assess targets and recommend which ones to strike first. This news has garnered significant attention as it signifies the expanding role of AI in military decision-making. The introduction of this technology could alter combat strategies and battlefield dynamics, while also raising ethical and security concerns."
+          "title": "Coding After Coders: The End of Computer Programming as We Know It",
+          "link": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-03-13 18:54 UTC",
+          "analysis_zh": "在人工智能时代，许多硅谷程序员的工作方式发生了巨大变化，他们不再像以前那样进行传统的编程。相反，他们的工作变得更加复杂和奇特。这一现象引发了对编程职业未来的广泛讨论，因为人工智能的崛起可能会改变技术行业的就业结构和技能需求。随着AI工具的普及，程序员需要适应新的工作方式，这将影响他们的职业发展和整个行业的创新方向。",
+          "analysis_en": "In the era of artificial intelligence, many programmers in Silicon Valley are experiencing a significant shift in their work, moving away from traditional coding practices. Instead, their tasks have become more complex and unusual. This trend has sparked widespread discussions about the future of programming careers, as the rise of AI may alter the job landscape and skill requirements in the tech industry. As AI tools become more prevalent, programmers will need to adapt to new ways of working, which will impact their career development and the overall direction of innovation in the industry."
         },
         {
           "rank": 8,
-          "title": "PC makers are not ready for the MacBook Neo",
-          "link": "https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth",
+          "title": "Google Pixel 10A review: Just buy the 9A",
+          "link": "https://www.theverge.com/tech/894319/google-pixel-10a-review-screen-specs-battery-camera",
           "source": "The Verge",
-          "published_utc": "2026-03-13 12:00 UTC",
-          "analysis_zh": "苹果推出了新的MacBook Neo，价格仅为600美元，这让许多PC制造商措手不及。在华硕的最新财报电话会议上，首席财务官吴敏表示，Neo的入门定价“确实让整个市场感到震惊”。这表明，苹果已经全面进军预算笔记本电脑市场，可能会对现有的Windows笔记本电脑和Chromebook市场造成重大影响。华硕等公司似乎未能及时应对这一变化，可能会影响它们的市场份额和竞争力。",
-          "analysis_en": "Apple has launched the new MacBook Neo, priced at just $600, catching many PC manufacturers off guard. During Asus' latest earnings call, CFO Nick Wu stated that the Neo's entry-level pricing was \"certainly a shock to the entire market.\" This indicates that Apple has fully entered the budget laptop segment, which could significantly impact the existing Windows laptop and Chromebook markets. Companies like Asus seem unprepared for this shift, which may affect their market share and competitiveness."
+          "published_utc": "2026-03-13 18:36 UTC",
+          "analysis_zh": "谷歌最近发布了Pixel 10A手机，但评论普遍认为这款新机的存在意义不大。因为在硬件方面，Pixel 10A并没有升级芯片、摄像头或电池，所做的改动微乎其微。尽管Pixel 9A已经是一款优秀的设备，价格也相对合理，但消费者不禁要问，为什么不直接选择价格更低的9A呢？这一情况可能会影响谷歌在中端手机市场的竞争力。",
+          "analysis_en": "Google recently launched the Pixel 10A smartphone, but reviews suggest that its existence is questionable. The Pixel 10A does not feature upgrades in chipset, camera, or battery, and the changes made are minimal. While the Pixel 9A is already an excellent device at a reasonable price, consumers might wonder why they shouldn't just opt for the cheaper 9A instead. This situation could impact Google's competitiveness in the mid-range smartphone market."
         },
         {
           "rank": 9,
-          "title": "China’s OpenClaw Boom Is a Gold Rush for AI Companies",
-          "link": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
-          "source": "Feed: Artificial Intelligence Latest",
-          "published_utc": "2026-03-13 12:00 UTC",
-          "analysis_zh": "中国的OpenClaw热潮正在引发一场AI公司的淘金热。由于对这一开源代理的关注，越来越多的人开始租用云服务器和购买AI订阅服务，推动了科技公司的收入增长。这一现象不仅反映了市场对AI技术的强烈需求，也可能促使更多企业投入资源进行相关技术的研发和创新，从而加速整个行业的发展。",
-          "analysis_en": "China's OpenClaw boom is creating a gold rush for AI companies. The excitement surrounding this open-source agent is leading many individuals to rent cloud servers and purchase AI subscriptions, significantly boosting the revenues of tech firms. This trend highlights the strong demand for AI technology in the market and may encourage more companies to invest in research and development, accelerating growth across the industry."
+          "title": "Backbone’s versatile pro controller is nearly matching its best price to date",
+          "link": "https://www.theverge.com/gadgets/893862/backbone-pro-mobile-controller-cmf-watch-3-deal-sale",
+          "source": "The Verge",
+          "published_utc": "2026-03-13 17:52 UTC",
+          "analysis_zh": "Backbone最近推出的专业游戏手柄正在进行促销，价格降至139.99美元，较之前优惠30美元。这款手柄为移动游戏提供了更好的操控体验，尤其是与智能手机相比，能够带来更真实的游戏感受。此次降价不仅使得更多玩家能够体验到高品质的游戏控制器，也可能推动移动游戏市场的进一步发展。",
+          "analysis_en": "Backbone has recently put its professional gaming controller on sale, bringing the price down to $139.99, which is a $30 discount. This controller enhances the mobile gaming experience, offering a more tactile feel compared to smartphones. The price drop not only allows more players to access a high-quality gaming controller but may also drive further growth in the mobile gaming market."
         },
         {
           "rank": 10,
-          "title": "Apple reduces App Store fees in China to ward off regulators",
-          "link": "https://www.theverge.com/tech/894306/apple-app-store-fees-china-reduced-antitrust",
+          "title": "Adobe will pay $75 million to settle US cancellation fee lawsuit",
+          "link": "https://www.theverge.com/tech/894555/adobe-75-million-doj-settlement-subscriptions",
           "source": "The Verge",
-          "published_utc": "2026-03-13 11:16 UTC",
-          "analysis_zh": "苹果公司宣布，从3月15日起将中国地区的App Store开发者费用从30%降低至25%。这一决定是在与中国监管机构的讨论后做出的，旨在避免监管干预，尤其是在中国考虑对苹果的App Store费用和政策进行正式调查的背景下。此举不仅有助于维护苹果在中国市场的地位，还可能影响其他科技公司在该地区的运营策略。",
-          "analysis_en": "Apple announced that it will reduce App Store developer fees in China from 30% to 25% starting March 15. This decision was made following discussions with Chinese regulators, aiming to prevent regulatory intervention, especially as China considered formally investigating Apple's App Store fees and policies. This move not only helps Apple maintain its position in the Chinese market but may also influence the operational strategies of other tech companies in the region."
+          "published_utc": "2026-03-13 17:52 UTC",
+          "analysis_zh": "Adobe 公司将支付7500万美元以解决美国政府提起的诉讼，指控其在订阅服务中故意设置复杂的取消流程，并隐瞒终止费用。这一和解旨在回应2024年6月提出的投诉，涉及违反联邦消费者保护法的问题。此事件的重要性在于，它不仅影响了Adobe的商业信誉，还可能促使其他科技公司重新审视其订阅模式和消费者权益保护措施。",
+          "analysis_en": "Adobe has agreed to pay $75 million to settle a lawsuit filed by the U.S. government, which accused the company of intentionally making subscription cancellations difficult and hiding termination fees. This settlement addresses complaints raised in June 2024 regarding violations of federal consumer protection laws. The significance of this event lies in its potential impact on Adobe's reputation and may lead other tech companies to reconsider their subscription practices and consumer protection policies."
         }
       ]
     },
@@ -290,93 +317,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Kneecap Gets Serious on Its New Album, ‘Fenian’",
-          "link": "https://www.nytimes.com/2026/03/13/arts/music/kneecap-fenian-interview.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-03-13 14:32 UTC",
-          "analysis_zh": "爱尔兰音乐组合Kneecap在新专辑《Fenian》中展现了更为严肃的主题。此前，他们因幽默搞怪的风格而受到关注，但在全球范围内因支持巴勒斯坦而引发热议。这张专辑的转变不仅反映了他们对社会问题的关注，也可能影响他们的粉丝基础和音乐风格的未来发展。",
-          "analysis_en": "The Irish music group Kneecap showcases a more serious theme in their new album, \"Fenian.\" Previously, they gained attention for their playful antics, but they have sparked global discussions due to their pro-Palestinian stance. This shift in their music not only reflects their engagement with social issues but may also influence their fan base and the future direction of their musical style."
+          "title": "ema shin embroiders intricate detailing into monumental heart for biennial of sydney",
+          "link": "https://www.designboom.com/art/ema-shin-embroiders-intricate-detailing-into-monumental-heart-for-biennial-of-sydney/",
+          "source": "designboom | architecture & design magazine",
+          "published_utc": "2026-03-13 21:00 UTC",
+          "analysis_zh": "在悉尼双年展上，艺术家ema shin将她的刺绣作品“缺席女性的心”系列扩展为一座宏伟的纺织雕塑。这一作品通过细致的刺绣细节，突显了女性在社会中的缺席与被忽视的现象。此展览不仅展示了艺术家的创意与技巧，也引发了观众对女性身份和社会角色的深思。这样的艺术表达可能会影响公众对性别议题的关注，促进更广泛的讨论。",
+          "analysis_en": "At the Sydney Biennale, artist ema shin has expanded her embroidered series \"Hearts of Absent Women\" into a monumental textile sculpture. This work highlights the absence and neglect of women in society through intricate embroidery details. The exhibition not only showcases the artist's creativity and skill but also prompts viewers to reflect on women's identities and social roles. Such artistic expressions may influence public attention towards gender issues and encourage broader discussions."
         },
         {
           "rank": 2,
-          "title": "How ‘Virgin River’ Became One of Netflix’s Biggest Hits",
-          "link": "https://www.nytimes.com/2026/03/13/arts/television/virgin-river-netflix-season-7.html",
+          "title": "Kennedy Center’s President, Richard Grenell, Is Leaving After a Tumultuous Year",
+          "link": "https://www.nytimes.com/2026/03/13/arts/kennedy-center-richard-grenell.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-03-13 14:16 UTC",
-          "analysis_zh": "尽管没有大牌明星或广泛的评论热度，浪漫改编剧《处女河》却成为了Netflix最大的成功之一。这部剧集的受欢迎程度表明，观众对情感故事的渴望依然强烈，且其简单而温馨的叙事风格吸引了大量观众。此剧的成功可能会促使Netflix继续投资类似题材的作品，进一步丰富其内容库。",
-          "analysis_en": "Despite the absence of major stars or significant critical acclaim, the romantic adaptation \"Virgin River\" has emerged as one of Netflix's biggest successes. Its popularity highlights the audience's enduring appetite for emotional storytelling, with its simple and heartwarming narrative style appealing to a wide viewership. The success of this series may encourage Netflix to invest further in similar genres, thereby expanding its content offerings."
+          "published_utc": "2026-03-13 20:53 UTC",
+          "analysis_zh": "肯尼迪中心的主席理查德·格伦内尔在经历了一年的动荡后宣布辞职。自从他在特朗普总统任内被任命以来，该艺术中心经历了一系列活动取消和人员离职的事件。这一变化不仅影响了中心的运营，也可能对其未来的艺术项目和公众形象产生深远的影响。",
+          "analysis_en": "Richard Grenell, the president of the Kennedy Center, has announced his resignation after a tumultuous year. Since his appointment by President Trump, the arts center has faced a wave of cancellations and departures. This change not only affects the center's operations but may also have significant implications for its future artistic projects and public image."
         },
         {
           "rank": 3,
-          "title": "Textures+ finish collection by Antolini",
-          "link": "https://www.dezeen.com/2026/03/13/textures-finish-collection-by-antolini-dezeen-showroom/",
-          "source": "Dezeen",
-          "published_utc": "2026-03-13 14:00 UTC",
-          "analysis_zh": "意大利公司Antolini推出了Textures+系列，包含超过50种天然石材的表面处理效果。这些处理效果从类似月球的戏剧性表面到柔和的布料质感，旨在为建筑师和室内设计师提供独特的设计选择。该系列的推出不仅展示了Antolini在石材加工领域的70年经验，也为室内设计带来了更多可能性，可能会影响未来的建筑和室内设计趋势。",
-          "analysis_en": "Italian company Antolini has launched the Textures+ collection, featuring over 50 finishes for natural stones. These finishes range from dramatic moon-like surfaces to softer fabric-like textures, aimed at providing unique design options for architects and interior designers. The collection not only showcases Antolini's 70 years of expertise in stone processing but also introduces new possibilities for interior design, potentially influencing future trends in architecture and interior spaces."
+          "title": "Coalition of States Will Carry on Live Nation Antitrust Case",
+          "link": "https://www.nytimes.com/2026/03/13/arts/music/live-nation-ticketmaster-antitrust-case-states.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-03-13 20:52 UTC",
+          "analysis_zh": "美国联邦政府已与Live Nation达成和解，但周一，数十个州将重新启动对该公司的反垄断诉讼。此案指控Live Nation在市场上占据垄断地位，这一问题引发了广泛关注，因为它可能影响到音乐和娱乐行业的竞争格局。若诉讼成功，可能会导致更严格的监管措施，从而改变消费者的选择和票务价格。",
+          "analysis_en": "The federal government has reached a settlement with Live Nation, but dozens of states will resume an antitrust trial against the company on Monday. The lawsuit accuses Live Nation of monopolistic practices, raising significant concerns about competition in the music and entertainment industry. If the states succeed in their case, it could lead to stricter regulations, potentially altering consumer choices and ticket prices."
         },
         {
           "rank": 4,
-          "title": "Smiljan Radic Wins the Pritzker Prize, ‘Men Retire But Women Get Fired From Museum Leadership’ Says Anne Pasternak: Morning Links for March 13, 2026",
-          "link": "https://www.artnews.com/art-news/news/smiljan-radic-wins-the-pritzker-prize-men-retire-but-women-get-fired-from-museum-leadership-says-anne-pasternak-morning-links-for-march-13-2026-1234777357/",
+          "title": "Lawsuit Alleges DOGE Cancelled $349,000 HVAC Grant to Museum after ChatGPT Flagged It As DEI",
+          "link": "https://www.artnews.com/art-news/news/chatgpt-dei-high-point-museum-hvac-grant-lawsuit-doge-1234777297/",
           "source": "News – ARTnews.com",
-          "published_utc": "2026-03-13 12:21 UTC",
-          "analysis_zh": "斯米利扬·拉迪克（Smiljan Radic）获得了普利兹克建筑奖，这一荣誉突显了他在建筑界的杰出贡献。此奖项不仅是对他个人成就的认可，也反映了当代建筑艺术的多样性和创新性。同时，安妮·帕斯特纳克（Anne Pasternak）提到，男性在博物馆领导职位上往往选择退休，而女性则面临被解雇的困境，这引发了对性别平等和职场环境的深思。这一现象可能会影响未来博物馆的管理结构和性别政策，促使更多人关注女性在艺术界的地位。",
-          "analysis_en": "Smiljan Radic has been awarded the Pritzker Prize, highlighting his significant contributions to the field of architecture. This award not only recognizes his individual achievements but also reflects the diversity and innovation present in contemporary architectural practice. Additionally, Anne Pasternak pointed out that while men often retire from museum leadership roles, women are more likely to be fired, raising concerns about gender equality and workplace dynamics. This situation may influence future museum management structures and gender policies, prompting greater attention to the status of women in the arts."
+          "published_utc": "2026-03-13 20:44 UTC",
+          "analysis_zh": "最近，高点博物馆的HVAC资助被取消，原因是该项目被ChatGPT标记为与多样性、公平性和包容性（DEI）相关。学术团体的律师指出，这一决定显示出管理层在审查过程中用一个依赖人工智能聊天机器人的匆忙系统取代了专家评审。这一事件引发了对人工智能在公共政策决策中作用的广泛讨论，可能会影响未来类似资助的审批流程和标准。",
+          "analysis_en": "Recently, the HVAC grant for High Point Museum was canceled because the project was flagged by ChatGPT as related to diversity, equity, and inclusion (DEI). Attorneys for academic groups argue that this decision demonstrates how the administration replaced expert review with a rushed system reliant on an AI chatbot. This incident has sparked widespread discussion about the role of artificial intelligence in public policy decisions, which may affect the approval processes and standards for similar grants in the future."
         },
         {
           "rank": 5,
-          "title": "Massive, 44-Foot-Long David Hockney Print to Headline Christie’s Spring Prints Season in London",
-          "link": "https://www.artnews.com/art-news/news/massive-44-foot-long-david-hockney-print-to-headline-christies-spring-prints-season-in-london-1234777342/",
+          "title": "South Carolina’s International African American Museum Officially Acquires Earliest Known Daguerreotypes of Enslaved Americans",
+          "link": "https://www.artnews.com/art-news/news/international-african-american-museum-1850-daguerreotypes-1234777444/",
           "source": "News – ARTnews.com",
-          "published_utc": "2026-03-13 11:44 UTC",
-          "analysis_zh": "大卫·霍克尼的一幅巨型印刷作品将在伦敦佳士得春季印刷品拍卖中成为焦点。这幅作品长达44英尺，采用单张纸打印，是霍克尼最大的印刷作品之一。这一展览不仅展示了霍克尼的艺术成就，也可能吸引更多收藏家和艺术爱好者的关注，进一步推动当代艺术市场的发展。",
-          "analysis_en": "A massive print by David Hockney will headline Christie's Spring Prints auction in London. Measuring 44 feet long and printed on a single sheet of paper, it is one of Hockney's largest prints. This exhibition not only highlights Hockney's artistic achievements but may also attract more collectors and art enthusiasts, potentially boosting the contemporary art market."
+          "published_utc": "2026-03-13 20:41 UTC",
+          "analysis_zh": "南卡罗来纳州国际非裔美国人博物馆正式收购了已知最早的奴隶美国人的达盖尔影像。这些影像于1850年拍摄，去年从哈佛大学转移至该博物馆。这一收购不仅丰富了博物馆的收藏，也为公众提供了一个重要的历史视角，帮助人们更好地理解奴隶制的影响和非裔美国人的历史。随着这些影像的展出，博物馆将能够促进更广泛的讨论和教育，提升对这一历史时期的认识。",
+          "analysis_en": "The International African American Museum in South Carolina has officially acquired the earliest known daguerreotypes of enslaved Americans, taken in 1850. These images were transferred to the museum from Harvard University last year. This acquisition not only enhances the museum's collection but also provides the public with a crucial historical perspective, helping to better understand the impact of slavery and the history of African Americans. With the exhibition of these images, the museum will be able to foster broader discussions and education, increasing awareness of this historical period."
         },
         {
           "rank": 6,
-          "title": "Forgeworks revamps Somerset farmhouse with low-lying stone extension",
-          "link": "https://www.dezeen.com/2026/03/13/forgeworks-house-of-blue-lias/",
-          "source": "Dezeen",
-          "published_utc": "2026-03-13 11:30 UTC",
-          "analysis_zh": "伦敦建筑工作室Forgeworks对位于萨默塞特的一座19世纪农舍进行了改造，增建了一座低矮的石质扩展部分。这一扩展部分采用木材、玻璃和石灰石建造，旨在将农舍与相邻的谷仓连接起来。该项目不仅提升了房屋的功能性和美观性，还保留了当地的建筑特色，命名为“蓝色石灰石之家”。这一改造项目的重要性在于它展示了如何在现代建筑中融入传统元素，可能会影响未来的建筑设计趋势。",
-          "analysis_en": "London architecture studio Forgeworks has renovated a 19th-century farmhouse in Somerset by adding a low-lying stone extension. This extension, constructed from timber, glass, and limestone, connects the farmhouse with an adjacent barn. The project, named House of Blue Lias after the local limestone used, enhances both the functionality and aesthetic appeal of the home while preserving local architectural characteristics. This renovation is significant as it demonstrates how traditional elements can be integrated into modern architecture, potentially influencing future design trends."
+          "title": "Margareta Magnusson, Who Popularized Swedish Death Cleaning, Dies at 91",
+          "link": "https://www.nytimes.com/2026/03/13/books/margareta-magnusson-dead.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-03-13 20:14 UTC",
+          "analysis_zh": "玛格丽塔·马格努森（Margareta Magnusson）于91岁去世，她因推广瑞典的“死亡清理”理念而闻名。她的畅销书鼓励人们在生命的尽头整理家务和生活，以此作为对亲人的一种礼物，同时也帮助人们回顾美好的回忆。这一理念不仅影响了许多人对待死亡的态度，也促使人们重新审视生活的意义和物品的价值。她的去世可能会引发更多人关注如何优雅地面对生命的终结。",
+          "analysis_en": "Margareta Magnusson, who passed away at the age of 91, was known for popularizing the concept of Swedish \"death cleaning.\" Her best-selling book encouraged individuals to tidy up their homes and lives as they approached death, viewing it as a gift for loved ones and a way to revisit cherished memories. This idea has not only influenced many people's attitudes toward death but also prompted a reevaluation of the meaning of life and the value of possessions. Her passing may spark increased interest in how to gracefully confront the end of life."
         },
         {
           "rank": 7,
-          "title": "layered courtyard landscape reinvigorates community life in shenzhen housing development",
-          "link": "https://www.designboom.com/architecture/layered-courtyard-landscape-reinvigorates-community-life-in-shenzhen-housing-development/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-03-13 11:30 UTC",
-          "analysis_zh": "深圳的一项住宅开发项目通过层叠的庭院景观重新激活了社区生活。这个设计包含了水景台、遮荫休憩区和连续的步行路线，营造出一个既宁静又充满活力的环境。这种创新的空间布局不仅提升了居民的生活质量，也促进了邻里之间的互动与交流。随着城市化进程的加快，这种社区设计可能会成为未来住宅开发的重要趋势。",
-          "analysis_en": "A housing development project in Shenzhen has revitalized community life through its layered courtyard landscape. The design features water terraces, shaded retreats, and a continuous walking path, creating a calm yet dynamic atmosphere. This innovative layout not only enhances the quality of life for residents but also fosters interaction and connection among neighbors. As urbanization continues to accelerate, such community-focused designs may become a significant trend in future residential developments."
+          "title": "Thomas J Price, Artist Behind Viral Times Square Sculpture, Unveils New Bronze in London",
+          "link": "https://www.artnews.com/art-news/news/thomas-j-price-v-and-a-east-sculpture-1234777431/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-03-13 18:48 UTC",
+          "analysis_zh": "艺术家托马斯·J·普赖斯在伦敦的维多利亚与阿尔伯特博物馆揭幕了他最新的青铜雕塑《超越之地》，这座雕塑高达18英尺，是他迄今为止最高的作品。这一新作不仅展示了普赖斯的艺术风格，也引发了公众对现代雕塑的关注。此作品的推出可能会影响艺术界对公共艺术的理解和接受度，进一步推动城市空间的艺术化。",
+          "analysis_en": "Artist Thomas J. Price unveiled his latest bronze sculpture, titled \"A Place Beyond,\" at the Victoria and Albert Museum in London. Standing at 18 feet tall, this is Price's tallest work to date. The unveiling has sparked public interest in contemporary sculpture and highlights the evolving role of public art. This new piece may influence how art is perceived in urban spaces, potentially encouraging more artistic interventions in city environments."
         },
         {
           "rank": 8,
-          "title": "Jack Harlow Was a Chart-Topping Rapper. He Doesn’t Want to Brag Anymore.",
-          "link": "https://www.nytimes.com/2026/03/13/arts/music/jack-harlow-monica-interview-popcast.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-03-13 11:16 UTC",
-          "analysis_zh": "杰克·哈洛（Jack Harlow）曾是一位畅销的说唱歌手，但他在最新专辑《莫妮卡》中选择了更为亲密的R&B风格，展现出音乐上的转变。这一变化不仅反映了他个人艺术发展的需求，也可能影响他与粉丝之间的关系。哈洛的这种转型可能会吸引新的听众，同时也让老粉丝重新审视他的音乐风格和创作深度。",
-          "analysis_en": "Jack Harlow, once a chart-topping rapper, is making a significant shift in his music with his latest album, \"Monica,\" moving towards a more intimate R&B sound. This change reflects his personal artistic growth and may alter his relationship with fans. Harlow's transformation could attract new listeners while prompting existing fans to reassess the depth and style of his music."
+          "title": "Senators Whitehouse and Schumer Call for ‘Proactive Measures’ to Protect Philip Guston and Ben Shahn Murals",
+          "link": "https://www.artnews.com/art-news/news/senators-gsa-philip-guston-murals-letter-1234777427/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-03-13 18:45 UTC",
+          "analysis_zh": "美国参议员怀特豪斯和舒默呼吁采取积极措施，以保护菲利普·古斯顿和本·香农的壁画。他们强调，这些艺术作品属于美国人民，应该得到妥善的保护。这一呼吁的重要性在于，艺术作品不仅是文化遗产的体现，也是社会历史的一部分，反映了多元的价值观。若未能有效保护这些壁画，可能会导致文化记忆的丧失和公众对艺术的关注度下降。",
+          "analysis_en": "Senators Whitehouse and Schumer have called for proactive measures to protect the murals of Philip Guston and Ben Shahn. They emphasized that these artworks belong to the American people and deserve proper protection. This call is significant because these pieces are not only representations of cultural heritage but also reflect diverse values in society. If these murals are not effectively protected, it could lead to a loss of cultural memory and a decline in public interest in art."
         },
         {
           "rank": 9,
-          "title": "with no steering wheel and control buttons, electric robotaxi lunar relies on itself to drive",
-          "link": "https://www.designboom.com/technology/with-no-steering-wheel-control-buttons-electric-robotaxi-lunar-itself-drive-concept-lucid/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-03-13 11:00 UTC",
-          "analysis_zh": "最近，一款名为“Lunar”的电动机器人出租车引起了广泛关注。这款车的设计非常前卫，完全没有方向盘和控制按钮，依靠自身的自动驾驶技术来行驶。这一创新不仅展示了未来交通工具的可能性，还可能改变人们对出行方式的看法，尤其是在城市交通日益拥挤的背景下。",
-          "analysis_en": "Recently, a new electric robotaxi called \"Lunar\" has garnered significant attention. This vehicle features a groundbreaking design, lacking a steering wheel and control buttons, relying entirely on its autonomous driving technology. This innovation not only showcases the potential of future transportation but may also alter people's perceptions of mobility, especially in the context of increasingly congested urban environments."
+          "title": "Crisis Follows Conductor’s Dismissal at the Boston Symphony",
+          "link": "https://www.nytimes.com/2026/03/13/arts/music/boston-symphony-andris-nelsons-fired-protests.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-03-13 18:10 UTC",
+          "analysis_zh": "波士顿交响乐团的董事会决定解雇音乐总监安德里斯·尼尔森斯，这一举动引发了乐团成员的抗议。乐团的领导层面临着巨大的压力，试图平息内部的动荡。这一事件不仅影响了乐团的稳定性，也可能对其未来的演出和声誉产生深远的影响。",
+          "analysis_en": "The Boston Symphony Orchestra's board has decided to dismiss its music director, Andris Nelsons, prompting protests from the musicians. The orchestra's leadership is now under significant pressure to address the unrest within the group. This situation not only affects the stability of the orchestra but could also have lasting implications for its future performances and reputation."
         },
         {
           "rank": 10,
-          "title": "Listing bid launched to protect David Chipperfield's first major building in UK",
-          "link": "https://www.dezeen.com/2026/03/13/river-and-rowing-museum-david-chipperfield-twentieth-century-society/",
+          "title": "Montgomery Sisam Architects creates \"lantern-like\" Ontario research centre",
+          "link": "https://www.dezeen.com/2026/03/13/montgomery-sisam-architects-university-of-toronto-research-center/",
           "source": "Dezeen",
-          "published_utc": "2026-03-13 10:52 UTC",
-          "analysis_zh": "保守组织二十世纪协会已提交申请，希望将位于牛津郡的河流与划船博物馆列入保护名录。这座博物馆建于1997年，被认为是大卫·奇普菲尔德在英国的首个重要项目。保护这一建筑不仅有助于维护其历史和文化价值，也可能影响未来类似建筑的保护政策。",
-          "analysis_en": "The Twentieth Century Society has submitted a listing application to protect the River and Rowing Museum in Oxfordshire. Built in 1997, this museum is recognized as David Chipperfield's first significant project in the UK. Protecting this building is important for preserving its historical and cultural significance, and it may influence future policies regarding the conservation of similar architectural works."
+          "published_utc": "2026-03-13 18:00 UTC",
+          "analysis_zh": "蒙哥马利·西萨姆建筑事务所设计了一个位于安大略省的大学研究与教学中心，该中心采用了暴露的木结构，旨在实现净零碳排放和能源目标。这个名为多伦多大学科夫勒科学保护区的建筑，占地2680平方米，位于多伦多郊外的350公顷土地上。此项目不仅展示了可持续建筑设计的潜力，还可能对未来的校园建筑风格和环境保护理念产生深远影响。",
+          "analysis_en": "Montgomery Sisam Architects has designed a university research and teaching center in Ontario that features an exposed mass-timber structure aimed at achieving net-zero carbon and energy goals. The building, called the Koffler Scientific Reserve at the University of Toronto, spans 2,680 square meters and is set on 350 hectares just outside Toronto. This project not only showcases the potential of sustainable architectural design but may also have a significant impact on future campus building styles and environmental conservation principles."
         }
       ]
     }
