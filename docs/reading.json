@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-17 15:03:57 UTC",
-  "generated_at_unix": 1773759837,
+  "generated_at": "2026-03-17 21:08:05 UTC",
+  "generated_at_unix": 1773781685,
   "window": {
-    "from_utc": "2026-03-16 15:03:57 UTC",
-    "to_utc": "2026-03-17 15:03:57 UTC",
+    "from_utc": "2026-03-16 21:08:05 UTC",
+    "to_utc": "2026-03-17 21:08:05 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,93 +14,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Diesel prices surge to $5 per gallon, highest since 2022, as Iran war disrupts global oil supplies",
-          "link": "https://www.cnbc.com/2026/03/17/diesel-gas-oil-price-iran-war-hormuz.html",
+          "title": "Nvidia’s big GTC showcase barely budged the stock. Is that a problem?",
+          "link": "https://www.cnbc.com/2026/03/17/nvidias-big-gtc-showcase-barely-budged-the-stock-is-that-a-problem.html",
           "source": "US Top News and Analysis",
-          "published_utc": "2026-03-17 15:03 UTC",
-          "analysis_zh": "近期，柴油价格飙升至每加仑5美元，创下自2022年以来的最高水平。这一涨幅主要是由于伊朗战争对全球石油供应造成的干扰。柴油价格的上涨将直接影响运输和物流成本，进而可能推高商品价格，给消费者带来更大的经济压力。此外，如果原油通过霍尔木兹海峡的供应未能恢复正常，未来的油价可能会继续攀升。",
-          "analysis_en": "Recently, diesel prices have surged to $5 per gallon, the highest level since 2022. This increase is primarily due to disruptions in global oil supplies caused by the war in Iran. The rise in diesel prices will directly impact transportation and logistics costs, potentially leading to higher prices for goods and greater economic pressure on consumers. Furthermore, if crude oil flows through the Strait of Hormuz do not return to normal, prices may continue to rise in the future."
+          "published_utc": "2026-03-17 21:05 UTC",
+          "analysis_zh": "英伟达在其年度GTC大会上展示了多项新技术，但市场对此反应平淡，股价几乎没有波动。这一现象引发了投资者的关注，因为英伟达的市盈率自夏季以来一直在下降。尽管公司在技术创新方面持续领先，但投资者似乎对其未来增长的信心减弱，这可能会影响公司的融资能力和市场竞争力。",
+          "analysis_en": "Nvidia showcased several new technologies at its annual GTC conference, but the market reacted tepidly, with little movement in its stock price. This has raised concerns among investors, as Nvidia's price-to-earnings ratio has been declining since the summer. Despite the company's ongoing leadership in technological innovation, investor confidence in its future growth appears to be waning, which could impact its ability to raise funds and maintain market competitiveness."
         },
         {
           "rank": 2,
-          "title": "Tim Cook squashes retirement rumors, says he 'can't imagine life without Apple'",
-          "link": "https://www.cnbc.com/2026/03/17/apple-ceo-tim-cook-retire-rumors-gma.html",
+          "title": "Tesla to buy $4.3 billion of LG Energy battery cells from disbanded GM plant",
+          "link": "https://www.cnbc.com/2026/03/17/tesla-to-buy-4-point-3-billion-lg-energy-battery-cells-made-in-michigan.html",
           "source": "US Top News and Analysis",
-          "published_utc": "2026-03-17 15:02 UTC",
-          "analysis_zh": "苹果首席执行官蒂姆·库克在《早安美国》的采访中澄清了关于他退休的传闻，表示自己“无法想象没有苹果的生活”。这一声明正值公司高管人事变动之际，外界对苹果在人工智能领域的战略提出了新的质疑。库克的表态不仅稳定了员工和投资者的信心，也可能影响苹果未来的决策方向，尤其是在AI技术的开发和应用上。",
-          "analysis_en": "Apple CEO Tim Cook addressed retirement rumors during an interview on \"Good Morning America,\" stating that he \"can't imagine life without Apple.\" This comment comes amid recent executive shakeups and renewed scrutiny regarding the company's strategy for artificial intelligence. Cook's remarks are likely to reassure both employees and investors, and they may influence Apple's future decision-making, particularly in the development and application of AI technologies."
+          "published_utc": "2026-03-17 20:53 UTC",
+          "analysis_zh": "特斯拉与LG能源解决方案达成了一项价值43亿美元的协议，计划从已解散的通用汽车工厂采购用于能源存储系统的电池单元。这一合作不仅加强了特斯拉在电池生产领域的供应链，还可能推动美国本土电池制造业的发展。随着电动车市场的持续增长，这项投资预计将对特斯拉的生产能力和市场竞争力产生积极影响。",
+          "analysis_en": "Tesla has reached a $4.3 billion agreement with LG Energy Solution to purchase battery cells for energy storage systems from a disbanded General Motors plant. This partnership not only strengthens Tesla's supply chain in battery production but may also boost domestic battery manufacturing in the U.S. As the electric vehicle market continues to grow, this investment is expected to positively impact Tesla's production capacity and market competitiveness."
         },
         {
           "rank": 3,
-          "title": "Boeing shareholders can pursue class action over 737 MAX safety",
-          "link": "https://www.investing.com/news/stock-market-news/boeing-shareholders-can-pursue-class-action-over-737-max-safety-4566115",
-          "source": "Stock Market News",
-          "published_utc": "2026-03-17 15:01 UTC",
-          "analysis_zh": "波音公司的股东可以对737 MAX安全问题提起集体诉讼。这一决定表明，投资者对公司在安全管理方面的责任感到不满，认为波音在737 MAX的设计和监管上存在重大失误。这起诉讼可能会对波音的声誉和财务状况产生深远影响，进一步影响投资者的信心和未来的市场表现。",
-          "analysis_en": "Boeing shareholders can pursue a class action regarding the safety issues of the 737 MAX. This decision indicates that investors are dissatisfied with the company's accountability in safety management, believing there were significant failures in the design and oversight of the 737 MAX. This lawsuit could have far-reaching implications for Boeing's reputation and financial health, potentially affecting investor confidence and future market performance."
+          "title": "Lululemon reports weak guidance as proxy battle, tariffs weigh on bottom line",
+          "link": "https://www.cnbc.com/2026/03/17/lululemon-lulu-earnings-q4-2025.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-03-17 20:48 UTC",
+          "analysis_zh": "Lululemon最近发布了第四季度的财报，尽管业绩超出预期，但对2026年的销售和盈利预测却低于市场预期。这一消息引发了投资者的关注，尤其是在公司面临代理权争夺和关税压力的背景下。Lululemon的未来表现可能会受到这些因素的影响，投资者需要密切关注公司的战略调整和市场反应。",
+          "analysis_en": "Lululemon recently reported its fourth-quarter earnings, exceeding expectations, but provided weaker-than-expected sales and earnings forecasts for 2026. This news has drawn investor attention, particularly as the company faces a proxy battle and tariff pressures. The future performance of Lululemon may be affected by these factors, prompting investors to closely monitor the company's strategic adjustments and market responses."
         },
         {
           "rank": 4,
-          "title": "Wall Street extends solid start to the week even as oil prices remain elevated",
-          "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-subdued-as-irandriven-oil-price-climb-remains-in-focus-4565442",
-          "source": "Stock Market News",
-          "published_utc": "2026-03-17 14:55 UTC",
-          "analysis_zh": "华尔街在本周开局良好，尽管油价依然高企。这一趋势表明，投资者对市场的信心依然强劲，尽管面临能源成本上升的压力。高油价可能会对消费者支出和企业利润产生影响，从而影响整体经济增长。投资者需要密切关注油价的波动，以评估其对市场的潜在影响。",
-          "analysis_en": "Wall Street has had a strong start to the week, even with elevated oil prices. This trend indicates that investor confidence remains robust despite the pressure from rising energy costs. High oil prices could affect consumer spending and corporate profits, potentially impacting overall economic growth. Investors should closely monitor fluctuations in oil prices to assess their potential effects on the market."
+          "title": "Micron’s stock gains officially carry the company into an exclusive club",
+          "link": "https://www.marketwatch.com/story/microns-stock-rises-as-enthusiasm-builds-ahead-of-earnings-cd2db500?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-03-17 20:44 UTC",
+          "analysis_zh": "美光科技的股票上涨，使其市值正式突破5000亿美元，成为标准普尔500指数中仅有的16家公司之一。这一成就不仅标志着美光在半导体行业的强劲表现，也反映出市场对其未来增长潜力的信心。随着公司在技术创新和市场需求上的持续努力，这一地位可能会进一步增强其吸引力，吸引更多投资者关注。",
+          "analysis_en": "Micron's stock has risen, officially pushing its market value past $500 billion and placing it among only 16 companies in the S&P 500. This achievement highlights Micron's strong performance in the semiconductor industry and reflects market confidence in its future growth potential. As the company continues to focus on technological innovation and market demand, this status may further enhance its appeal and attract more investors."
         },
         {
           "rank": 5,
-          "title": "Airlines raise revenue guidance despite rising fuel costs, citing growth in demand",
-          "link": "https://www.cnbc.com/2026/03/17/airline-guidance-iran-war-oil.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-03-17 14:53 UTC",
-          "analysis_zh": "尽管燃料成本上升，航空公司仍提高了收入预期，这表明市场需求强劲。达美航空的首席执行官埃德·巴斯蒂安在接受采访时表示，尽管该公司在本季度遭受了4亿美元的燃料损失，但需求依然“非常好”。这一现象不仅反映了航空业的复苏，也可能影响未来的票价和航班安排，进一步推动行业的增长。",
-          "analysis_en": "Despite rising fuel costs, airlines have raised their revenue guidance, indicating strong market demand. Delta Airlines CEO Ed Bastian stated in an interview that, although the company faced a $400 million fuel hit this quarter, demand has been \"really great.\" This trend not only reflects a recovery in the airline industry but may also influence future ticket prices and flight schedules, further driving growth in the sector."
+          "title": "Medicare premiums could double over next the decade, wrecking retirement budgets",
+          "link": "https://www.marketwatch.com/story/medicare-premiums-could-double-over-next-the-decade-sabotaging-retirement-budgets-f1814032?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-03-17 20:43 UTC",
+          "analysis_zh": "根据国会的一份报告，未来十年内，医疗保险B部分的保费可能会翻倍，这将对老年人的退休预算造成严重影响。这一变化意味着许多退休人员可能会面临更高的医疗费用，进而影响他们的生活质量和财务安全。随着医疗支出的增加，老年人可能需要重新评估他们的财务计划，以应对即将到来的经济压力。",
+          "analysis_en": "According to a report from Congress, Medicare Part B premiums could double over the next decade, significantly impacting seniors' retirement budgets. This change indicates that many retirees may face higher healthcare costs, which could affect their quality of life and financial security. As medical expenses rise, seniors may need to reassess their financial plans to cope with the impending economic pressure."
         },
         {
           "rank": 6,
-          "title": "Xeinadin acquires UK accountancy practice Gregory Priestley & Stewart",
-          "link": "https://finance.yahoo.com/news/xeinadin-acquires-uk-accountancy-practice-145032818.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-17 14:50 UTC",
-          "analysis_zh": "Xeinadin收购了英国会计事务所Gregory Priestley & Stewart，此举标志着其在会计行业的进一步扩张。这一收购不仅增强了Xeinadin的市场地位，还可能为其客户提供更广泛的服务和专业知识。随着会计行业竞争的加剧，Xeinadin的这一战略举措可能会影响其他同行的市场策略，促使更多公司考虑合并或收购以增强竞争力。",
-          "analysis_en": "Xeinadin has acquired the UK accountancy practice Gregory Priestley & Stewart, marking a significant expansion in its presence within the accounting industry. This acquisition not only strengthens Xeinadin's market position but may also provide its clients with a broader range of services and expertise. As competition in the accounting sector intensifies, this strategic move by Xeinadin could influence the market strategies of other firms, prompting more companies to consider mergers or acquisitions to enhance their competitiveness."
+          "title": "OpenAI preps for IPO by end of year, tells employees ChatGPT must be 'productivity tool'",
+          "link": "https://www.cnbc.com/2026/03/17/openai-preps-for-ipo-in-2026-says-chatgpt-must-be-productivity-tool.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-03-17 20:34 UTC",
+          "analysis_zh": "OpenAI正在为年底前的首次公开募股（IPO）做准备，并已聘请前DocuSign首席财务官辛西娅·盖洛（Cynthia Gaylor）负责投资者关系。这一举措表明，OpenAI希望通过上市来进一步扩大其市场影响力，并将ChatGPT定位为一种生产力工具。这不仅可能改变公司内部的运营模式，也可能对整个人工智能行业的投资趋势产生深远影响。",
+          "analysis_en": "OpenAI is preparing for a potential initial public offering (IPO) by the end of the year and has hired former DocuSign CFO Cynthia Gaylor to lead investor relations. This move indicates that OpenAI aims to enhance its market presence and position ChatGPT as a productivity tool. Such a shift could not only change the company's internal operations but also have significant implications for investment trends across the artificial intelligence sector."
         },
         {
           "rank": 7,
-          "title": "VWOB or BND: Which Bond ETF Should You Buy?",
-          "link": "https://finance.yahoo.com/news/vwob-bnd-bond-etf-buy-145000156.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-17 14:50 UTC",
-          "analysis_zh": "近日，投资者在选择债券ETF时面临VWOB和BND两种选择。VWOB主要投资于新兴市场债券，而BND则是广泛的美国债券市场的代表。这一选择的重要性在于，投资者需要考虑市场波动、利率变化以及各自的投资目标。选择合适的债券ETF不仅影响投资回报，还可能对投资组合的风险管理产生深远影响。",
-          "analysis_en": "Recently, investors are faced with a choice between two bond ETFs: VWOB and BND. VWOB primarily invests in emerging market bonds, while BND represents a broad spectrum of the U.S. bond market. This choice is significant because investors must consider market volatility, interest rate changes, and their individual investment goals. Selecting the right bond ETF not only affects investment returns but can also have a profound impact on risk management within an investment portfolio."
+          "title": "U.S. counterterrorism director Joe Kent resigns over war: 'Iran posed no imminent threat'",
+          "link": "https://www.cnbc.com/2026/03/17/joe-kent-resigns-trump-iran-war.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-03-17 20:34 UTC",
+          "analysis_zh": "美国反恐局局长乔·肯特因对伊朗的看法辞职，他在给特朗普总统的信中表示“伊朗对我们的国家没有迫在眉睫的威胁”。这一辞职事件引发了广泛关注，因为它可能影响美国的对外政策和反恐战略。肯特的辞职表明，在当前的国际局势下，政府内部对如何应对伊朗的态度存在分歧，可能会导致政策的重新评估和调整。",
+          "analysis_en": "Joe Kent, the U.S. counterterrorism director, resigned after stating in a letter to President Trump that \"Iran posed no imminent threat\" to the nation. This resignation has garnered significant attention as it may influence U.S. foreign policy and counterterrorism strategies. Kent's departure highlights internal disagreements within the government regarding how to approach Iran, which could lead to a reassessment and adjustment of policies in response to the current international landscape."
         },
         {
           "rank": 8,
-          "title": "This Promising GLP-1 Drug Could Give Novo Nordisk Investors Renewed Hope for the Stock",
-          "link": "https://finance.yahoo.com/news/promising-glp-1-drug-could-145000062.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-17 14:50 UTC",
-          "analysis_zh": "诺和诺德公司的一种新型GLP-1药物引起了投资者的关注，这可能会为该公司的股票带来新的希望。这种药物在临床试验中显示出良好的效果，可能会改变糖尿病和肥胖症患者的治疗方式。投资者对该药物的前景充满期待，这可能会推动诺和诺德的股价上涨，并吸引更多的投资者关注该公司。",
-          "analysis_en": "Novo Nordisk's promising new GLP-1 drug has garnered investor attention, potentially renewing hope for the company's stock. The drug has shown positive results in clinical trials, which could transform treatment options for diabetes and obesity patients. Investor optimism surrounding this drug may lead to an increase in Novo Nordisk's stock price and attract more investors to the company."
+          "title": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.10%",
+          "link": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-010-4566769",
+          "source": "Stock Market News",
+          "published_utc": "2026-03-17 20:31 UTC",
+          "analysis_zh": "美国股市在交易结束时上涨，道琼斯工业平均指数上涨了0.10%。这一小幅上涨反映了市场对经济复苏的乐观情绪，尽管面临通货膨胀和利率上升的挑战。投资者对企业盈利的预期保持积极，这可能会进一步推动股市的增长。整体来看，这种趋势可能会影响投资者的信心，并吸引更多资金流入股市。",
+          "analysis_en": "U.S. stocks closed higher, with the Dow Jones Industrial Average rising by 0.10%. This modest increase reflects market optimism regarding economic recovery, despite challenges posed by inflation and rising interest rates. Investors maintain a positive outlook on corporate earnings, which could further drive stock market growth. Overall, this trend may influence investor confidence and attract more capital into the stock market."
         },
         {
           "rank": 9,
-          "title": "Why Netflix Stock Is Rallying After Walking Away From Warner Bros.",
-          "link": "https://finance.yahoo.com/news/why-netflix-stock-rallying-walking-145000235.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-17 14:50 UTC",
-          "analysis_zh": "最近，Netflix宣布将不再与华纳兄弟合作，这一决定引发了市场的关注。此举可能意味着Netflix正在寻求更大的自主权，以提升其内容创作的灵活性和多样性。随着竞争的加剧，这一战略转变可能会影响到其他流媒体平台的合作模式，并促使它们重新评估自身的内容策略。",
-          "analysis_en": "Recently, Netflix announced that it would no longer collaborate with Warner Bros., a decision that has drawn market attention. This move may indicate that Netflix is seeking greater autonomy to enhance its content creation flexibility and diversity. As competition intensifies, this strategic shift could influence the collaboration models of other streaming platforms and prompt them to reassess their content strategies."
+          "title": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.16%",
+          "link": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-016-4566750",
+          "source": "Stock Market News",
+          "published_utc": "2026-03-17 20:30 UTC",
+          "analysis_zh": "加拿大股市在交易结束时上涨，S&P/TSX综合指数上涨了0.16%。这一涨幅反映了市场对经济复苏的乐观情绪，尤其是在能源和金融板块的推动下。投资者对未来的经济前景持积极态度，这可能会吸引更多的资金流入市场，进一步推动股市上涨。",
+          "analysis_en": "Canadian stocks rose at the close of trading, with the S&P/TSX Composite up 0.16%. This increase reflects market optimism regarding economic recovery, particularly driven by the energy and financial sectors. Investors' positive outlook on future economic prospects may attract more capital into the market, further fueling stock market growth."
         },
         {
           "rank": 10,
-          "title": "5 reasons Amazon’s stock could be a major AI winner",
-          "link": "https://www.marketwatch.com/story/5-reasons-amazons-stock-could-be-a-major-ai-winner-f4b5492d?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-03-17 14:50 UTC",
-          "analysis_zh": "一位Needham分析师认为，人工智能代理将对亚马逊的业务产生积极影响，而不是负面影响。这一观点的重要性在于，随着人工智能技术的快速发展，许多公司正在探索如何利用这些技术来提升效率和盈利能力。亚马逊作为全球最大的在线零售商，若能有效整合人工智能，将可能在竞争中占据更有利的位置。这不仅会影响其股价，还可能改变整个行业的格局。",
-          "analysis_en": "A Needham analyst believes that AI agents will positively impact Amazon's business rather than harm it. This perspective is significant because, as AI technology rapidly evolves, many companies are looking for ways to leverage these advancements to improve efficiency and profitability. If Amazon can effectively integrate AI, it could gain a competitive edge in the market. This development may not only influence its stock price but also reshape the dynamics of the entire industry."
+          "title": "Big drugmakers must face US overcharge claims on medications for low-income patients",
+          "link": "https://www.investing.com/news/stock-market-news/big-drugmakers-must-face-us-overcharge-claims-on-medications-for-lowincome-patients-4566446",
+          "source": "Stock Market News",
+          "published_utc": "2026-03-17 20:30 UTC",
+          "analysis_zh": "美国大型制药公司面临针对低收入患者药品过收费的指控。这一事件引发了广泛关注，因为它可能影响到数百万依赖这些药物的患者的经济负担。若指控成立，制药公司可能需要支付巨额赔偿，并重新审视其定价策略。这不仅关乎患者的健康和福祉，也可能对整个医疗行业的监管政策产生深远影响。",
+          "analysis_en": "Major pharmaceutical companies in the U.S. are facing allegations of overcharging for medications intended for low-income patients. This situation has garnered significant attention as it could impact the financial burden on millions of patients who rely on these drugs. If the claims are upheld, the companies may be required to pay substantial damages and reassess their pricing strategies. This issue not only concerns the health and well-being of patients but could also lead to profound changes in regulatory policies across the healthcare industry."
         }
       ]
     },
@@ -110,93 +110,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "Ruling on RFK Jr.’s Vaccine Policy Changes Leaves Health Groups Scrambling",
+          "link": "https://www.nytimes.com/2026/03/17/health/rfk-jr-vaccine-policy-lawsuit-court-ruling.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-03-17 20:37 UTC",
+          "analysis_zh": "美国联邦法院对罗伯特·F·肯尼迪 Jr. 的疫苗政策裁决引发了医疗组织的广泛关注。六个医疗组织提起的诉讼使得各方律师正在努力理解法官裁决的后果。这一裁决可能会影响疫苗政策的制定和实施，从而对公共健康产生深远影响。健康组织需要迅速调整策略，以应对可能的政策变化。",
+          "analysis_en": "A federal court ruling on Robert F. Kennedy Jr.'s vaccine policy has sparked significant concern among health organizations. Lawyers from both sides of the lawsuit, initiated by six medical organizations, are working to grasp the implications of the judge's decision. This ruling could influence the formulation and implementation of vaccine policies, potentially having a profound impact on public health. Health organizations will need to quickly adapt their strategies in response to possible policy changes."
+        },
+        {
+          "rank": 2,
+          "title": "An ‘Unprecedented’ Outbreak of Meningitis Raises Alarm in Britain",
+          "link": "https://www.nytimes.com/2026/03/17/world/europe/meningitis-b-outbreak-kent-uk.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-03-17 19:22 UTC",
+          "analysis_zh": "在英国，脑膜炎的疫情引发了广泛关注，已有两人因此去世。此次疫情的许多病例与肯特大学附近一家受学生欢迎的夜总会有关。这一事件不仅对当地社区的健康构成威胁，也可能影响到学生的生活和学习环境。政府和卫生部门需要采取紧急措施，以控制疫情的进一步传播。",
+          "analysis_en": "An outbreak of meningococcal disease in Britain has raised significant alarm, with two reported deaths. Many of the cases have been linked to a popular nightclub near the University of Kent, frequented by students. This situation poses a serious health risk to the local community and could disrupt the lives and studies of students. Authorities and health officials must implement urgent measures to contain the spread of the outbreak."
+        },
+        {
+          "rank": 3,
+          "title": "‘How Low Can You Go?’ The Shifting Guidelines for Blood Pressure Control",
+          "link": "https://www.nytimes.com/2026/03/14/health/blood-pressure-guidelines-hypertension-dementia.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-03-17 17:44 UTC",
+          "analysis_zh": "最近，医生们用来界定高血压的标准不断降低，这一趋势得到了许多专家的赞赏。他们指出，研究表明高血压与痴呆症之间存在关联。这一变化的重要性在于，它可能促使更多人关注自己的血压水平，从而提前采取预防措施，减少相关健康风险。随着标准的调整，医疗机构可能会面临更大的压力来提供相应的治疗和管理方案。",
+          "analysis_en": "Recently, the standards used by doctors to define hypertension have been steadily decreasing, a trend that many experts applaud. They highlight studies that link high blood pressure to dementia. This change is significant because it may encourage more individuals to monitor their blood pressure levels and take preventive measures to reduce associated health risks. As the standards shift, healthcare institutions may face increased pressure to provide appropriate treatment and management strategies."
+        },
+        {
+          "rank": 4,
+          "title": "When Teens Are Pressured to Send Sexual Images",
+          "link": "https://www.nytimes.com/2026/03/17/well/family/teen-sextortion-sexting-nude-images.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-03-17 16:35 UTC",
+          "analysis_zh": "最近的研究显示，青少年在面对伴侣的压力时，更倾向于分享性图片，尤其是在反复请求的情况下。这一现象引发了对青少年心理健康和安全的关注，因为这种行为可能导致他们面临网络欺凌和隐私泄露的风险。了解这一问题的重要性在于，它不仅影响青少年的心理发展，还可能对他们的未来人际关系产生深远影响。",
+          "analysis_en": "Recent research indicates that adolescents are more likely to share sexual images when pressured by a partner, particularly after repeated requests. This trend raises concerns about the mental health and safety of teenagers, as such behavior can expose them to risks like cyberbullying and privacy violations. Understanding this issue is crucial, as it not only affects the psychological development of young people but may also have lasting implications for their future relationships."
+        },
+        {
+          "rank": 5,
           "title": "Scientists finally reveal how this Alzheimer’s drug really works",
           "link": "https://www.sciencedaily.com/releases/2026/03/260317064457.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-17 11:44 UTC",
-          "analysis_zh": "科学家们终于揭示了阿尔茨海默病药物利卡那单抗的工作机制。研究发现，这种药物通过激活大脑的免疫细胞微胶质细胞来清除有害的淀粉样斑块，而这一过程依赖于抗体中的Fc片段。这个发现不仅解答了长期以来的疑问，还可能改变未来阿尔茨海默病治疗的设计方式。随着对这一机制的深入了解，研究人员有望开发出更安全、更有效的治疗方案。",
-          "analysis_en": "Scientists have finally revealed how the Alzheimer’s drug lecanemab works. The research shows that this drug activates the brain's immune cells, specifically microglia, to clear harmful amyloid plaques, relying on a specific part of the antibody known as the Fc fragment. This finding not only answers long-standing questions but could also reshape the design of future Alzheimer’s therapies. With a better understanding of this mechanism, researchers may develop safer and more effective treatment options."
+          "analysis_zh": "科学家们终于揭示了阿尔茨海默病药物lecanemab的工作机制。研究发现，这种药物通过激活大脑中的免疫细胞来发挥作用，而这一过程仅通过抗体的Fc片段实现。这个片段像一个开关，促使小胶质细胞清除有害的淀粉样斑块。这一发现可能会改变未来阿尔茨海默病治疗的设计思路，帮助开发出更安全、更有效的疗法。",
+          "analysis_en": "Scientists have finally revealed how the Alzheimer's drug lecanemab works. Research shows that this drug activates the brain's immune cells, but only through a specific part of the antibody known as the Fc fragment. This fragment acts like a switch, prompting microglia to clear harmful amyloid plaques. This finding could reshape the design of future Alzheimer's therapies, aiding in the development of safer and more effective treatments."
         },
         {
-          "rank": 2,
+          "rank": 6,
           "title": "ADHD brains show sleep-like activity even while awake",
           "link": "https://www.sciencedaily.com/releases/2026/03/260317015928.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-17 06:25 UTC",
-          "analysis_zh": "研究人员发现，注意力缺陷多动障碍（ADHD）患者的大脑在清醒时也会出现类似睡眠的活动模式。这种现象可能是导致他们在专注时常常遇到困难的原因之一。在进行需要持续注意力的任务时，ADHD患者的大脑会短暂进入“睡眠状态”，这与注意力缺失、反应时间变慢和错误率增加有关。这一发现不仅有助于我们理解ADHD的机制，还可能为未来的治疗方法提供新的思路。",
-          "analysis_en": "Researchers have discovered that individuals with Attention Deficit Hyperactivity Disorder (ADHD) exhibit brain activity resembling sleep even while awake. This phenomenon may help explain why they often struggle to maintain focus. During tasks that require sustained attention, ADHD patients experience brief episodes of \"sleep-like\" brain activity, which are linked to lapses in attention, slower reaction times, and increased errors. This finding not only enhances our understanding of the mechanisms behind ADHD but could also pave the way for new treatment approaches in the future."
+          "analysis_zh": "研究人员发现，注意力缺陷多动障碍（ADHD）患者的大脑即使在清醒状态下也会出现类似睡眠的活动模式。这种现象可能是导致他们在专注时常常出现困难的原因之一。研究表明，这种“睡眠样”活动与注意力缺失、反应时间延迟和错误增加有关。这一发现不仅有助于我们理解ADHD的机制，还可能为未来的治疗方法提供新的思路。",
+          "analysis_en": "Researchers have discovered that individuals with Attention Deficit Hyperactivity Disorder (ADHD) exhibit sleep-like brain activity even while awake. This phenomenon may help explain why they often struggle to maintain focus. The study indicates that these sleep-like episodes are associated with lapses in attention, slower reaction times, and an increase in mistakes. This finding not only enhances our understanding of the mechanisms behind ADHD but may also pave the way for new treatment approaches in the future."
         },
         {
-          "rank": 3,
+          "rank": 7,
           "title": "DNA origami vaccines could be the next leap beyond mRNA",
           "link": "https://www.sciencedaily.com/releases/2026/03/260317015933.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-17 05:59 UTC",
-          "analysis_zh": "科学家们正在测试一种名为DoriVac的新型疫苗平台，该平台利用折叠的DNA纳米结构来更好地控制免疫系统的反应。与mRNA疫苗相比，DoriVac在早期研究中显示出更强的抗体和T细胞反应，且更易于生产和储存。这一进展至关重要，因为mRNA疫苗在COVID-19大流行期间拯救了数百万生命，但也存在免疫力减弱和生产复杂等局限性。若DoriVac成功应用，可能会为COVID-19、HIV和埃博拉等疾病提供更稳定的疫苗，改善全球公共卫生应对能力。",
-          "analysis_en": "Scientists are testing a new vaccine platform called DoriVac, which uses folded DNA nanostructures to better control immune responses. Early studies show that DoriVac elicits stronger antibody and T cell responses compared to mRNA vaccines, and it is easier to produce and store. This development is significant because mRNA vaccines saved millions of lives during the COVID-19 pandemic but have limitations such as waning immunity and complex production processes. If DoriVac proves successful, it could lead to more stable vaccines for diseases like COVID-19, HIV, and Ebola, enhancing global public health preparedness."
+          "analysis_zh": "科学家们正在测试一种名为DoriVac的新型DNA折叠疫苗平台，旨在克服mRNA疫苗的局限性。虽然mRNA疫苗在COVID-19大流行期间挽救了数百万生命，但它们存在免疫力减弱和生产复杂等问题。早期研究表明，DoriVac能够在小鼠和人类模型中产生强烈的抗体和T细胞反应，这可能为COVID-19、HIV和埃博拉等疾病提供更稳定、易于制造的疫苗。这一进展不仅可能改善疫苗的有效性，还可能改变全球对传染病的应对策略。",
+          "analysis_en": "Scientists are testing a new DNA origami vaccine platform called DoriVac, which aims to overcome the limitations of mRNA vaccines. While mRNA vaccines saved millions of lives during the COVID-19 pandemic, they face issues such as waning immunity and complex production processes. Early studies show that DoriVac can generate strong antibody and T cell responses in both mice and human models, potentially leading to more stable and easier-to-manufacture vaccines for diseases like COVID-19, HIV, and Ebola. This advancement could not only enhance vaccine effectiveness but also transform global strategies for responding to infectious diseases."
         },
         {
-          "rank": 4,
+          "rank": 8,
           "title": "Judge Strikes Down RFK Jr.’s Vaccine Policies in Blow to Trump’s Health Agenda",
           "link": "https://www.nytimes.com/2026/03/16/health/childhood-vaccines-lawsuit-kennedy.html",
           "source": "NYT > Health",
           "published_utc": "2026-03-17 00:46 UTC",
-          "analysis_zh": "一名地区法院法官裁定，罗伯特·F·肯尼迪 Jr. 提出的疫苗政策不合法，这一裁决对特朗普的健康政策构成了重大打击。法院认为，联邦政府在限制新冠疫苗和修订儿童免疫接种计划时，没有依据科学依据。这一判决可能会影响未来的公共卫生政策，特别是在疫苗接种和疫情应对方面，可能会促使政府更加重视科学数据。",
-          "analysis_en": "A district court judge ruled against Robert F. Kennedy Jr.'s vaccine policies, marking a significant setback for Trump's health agenda. The court found that the federal government had not based its decisions on scientific evidence when limiting Covid shots and revising the childhood immunization schedule. This ruling could impact future public health policies, particularly regarding vaccination and pandemic response, potentially leading the government to prioritize scientific data more heavily."
+          "analysis_zh": "一名地区法院裁定，罗伯特·F·肯尼迪 Jr. 提出的疫苗政策不符合科学依据，这一判决对特朗普的健康政策构成了重大打击。此案由几家知名医学组织提起，法院认为联邦政府在限制新冠疫苗接种和修订儿童免疫接种计划时未能依据科学数据。这一裁决可能会影响未来疫苗政策的制定，尤其是在公众健康和安全方面的决策。",
+          "analysis_en": "A district court ruled against Robert F. Kennedy Jr.'s vaccine policies, stating that they lacked a scientific basis, which represents a significant setback for Trump's health agenda. The lawsuit was brought by several prominent medical organizations, and the court found that the federal government had not relied on scientific data when limiting Covid vaccinations and revising the childhood immunization schedule. This ruling may influence the development of future vaccine policies, particularly in decisions related to public health and safety."
         },
         {
-          "rank": 5,
+          "rank": 9,
           "title": "Scientists inject one tumor and watch cancer vanish across the body",
           "link": "https://www.sciencedaily.com/releases/2026/03/260315225121.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-17 00:18 UTC",
-          "analysis_zh": "科学家们在一项小型临床试验中，通过直接将一种改良的CD40激动抗体注射到肿瘤中，取得了显著的早期成果。在12名接受治疗的转移性癌症患者中，有六名患者的肿瘤缩小，另外两名患者则完全缓解。这一研究的重要性在于，它可能为长期以来对癌症免疫疗法的失望带来新的希望，并且这种治疗方式可能激发全身免疫反应，影响到未被注射的肿瘤。未来，这项技术有望为更多癌症患者提供新的治疗选择。",
-          "analysis_en": "Scientists have achieved remarkable early results in a small clinical trial by injecting a redesigned CD40 agonist antibody directly into tumors. Among the 12 patients with metastatic cancers, six experienced tumor shrinkage, and two achieved complete remission. This study is significant as it may bring new hope after decades of disappointment with cancer immunotherapies, and it suggests that the treatment could trigger a systemic immune response, affecting even tumors that were not directly injected. In the future, this approach could offer new treatment options for more cancer patients."
+          "analysis_zh": "科学家们在一项小型临床试验中，采用了一种重新设计的癌症免疫疗法，取得了显著的早期成果。研究人员将一种更强效的CD40激动剂抗体直接注射到肿瘤中，而不是通过血液输送，这一改变可能激发全身的免疫反应。在12名转移性癌症患者中，有六名患者的肿瘤缩小，另外两名患者则完全缓解。这项研究的重要性在于，它可能为长期以来未能有效治疗的癌症提供新的希望，并可能改变未来癌症免疫疗法的应用方式。",
+          "analysis_en": "Scientists have achieved remarkable early results in a small clinical trial using a redesigned cancer immunotherapy. Researchers injected a more potent CD40 agonist antibody directly into tumors instead of delivering it through the bloodstream, which may trigger a systemic immune response. Among the 12 patients with metastatic cancers, six experienced tumor shrinkage, and two achieved complete remission. This research is significant as it may provide new hope for treating cancers that have long been difficult to manage and could change the future application of cancer immunotherapy."
         },
         {
-          "rank": 6,
+          "rank": 10,
           "title": "Paula Doress-Worters, an Author of ‘Our Bodies, Ourselves,’ Dies at 87",
           "link": "https://www.nytimes.com/2026/03/15/books/paula-doress-worters-dead.html",
           "source": "NYT > Health",
           "published_utc": "2026-03-17 00:00 UTC",
-          "analysis_zh": "保拉·多雷斯-沃特斯（Paula Doress-Worters），《我们的身体，我们自己》（Our Bodies, Ourselves）的作者之一，享年87岁。她在产后抑郁症仍然是一个禁忌话题时，勇敢地进行了相关的写作和研究。她的工作不仅提升了人们对这一问题的认识，也帮助了无数女性走出心理困境。这一事件提醒我们，女性健康问题仍需更多关注和讨论，尤其是在社会文化的变迁中。",
-          "analysis_en": "Paula Doress-Worters, one of the authors of \"Our Bodies, Ourselves,\" has passed away at the age of 87. She bravely addressed postpartum depression at a time when it was a taboo subject, contributing significantly to the discourse around women's mental health. Her research and personal experiences have helped countless women navigate their struggles. This event highlights the ongoing need for awareness and discussion surrounding women's health issues, especially as societal attitudes continue to evolve."
-        },
-        {
-          "rank": 7,
-          "title": "Common pesticide may more than double Parkinson’s disease risk",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260315225125.htm",
-          "source": "Health & Medicine News -- ScienceDaily",
-          "published_utc": "2026-03-16 22:49 UTC",
-          "analysis_zh": "加州大学洛杉矶分校的最新研究表明，长期接触农药氯吡脲可能显著增加帕金森病的风险。研究发现，生活在持续接触该农药的地区的人，患病的可能性超过2.5倍。实验室研究进一步证实了这一发现，暴露于该化学物质的动物出现了运动障碍，失去了多巴胺产生神经元，并显示出与帕金森病患者相同的毒性蛋白积累。这一研究结果引发了对环境因素在帕金森病发病机制中作用的关注，可能促使政策制定者重新审视农药的使用。",
-          "analysis_en": "A new study from UCLA Health indicates that long-term exposure to the pesticide chlorpyrifos may significantly increase the risk of developing Parkinson's disease. The research found that individuals living in areas with ongoing exposure had more than 2.5 times the likelihood of developing the condition. Laboratory experiments further supported these findings, showing that animals exposed to the pesticide experienced movement issues, lost dopamine-producing neurons, and exhibited toxic protein buildup similar to that seen in Parkinson's patients. This research highlights the potential role of environmental factors in the onset of Parkinson's disease and may lead policymakers to reconsider pesticide usage regulations."
-        },
-        {
-          "rank": 8,
-          "title": "In Tense Meeting, Mehmet Oz Pressed Medical Societies on Trans Care for Teens",
-          "link": "https://www.nytimes.com/2026/03/16/us/politics/dr-oz-transgender-meeting.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-03-16 20:17 UTC",
-          "analysis_zh": "在一次紧张的会议上，梅赫梅特·奥兹（Mehmet Oz）对医疗协会在青少年跨性别护理方面的立场进行了质询。大多数医疗组织维护了对医疗干预的支持，但整形外科医师协会却与这一共识相悖。这一事件的重要性在于，它反映了围绕青少年跨性别护理的争论日益激烈，可能会影响未来的政策制定和医疗实践。",
-          "analysis_en": "In a tense meeting, Mehmet Oz pressed medical societies on their stance regarding transgender care for teens. Most organizations defended their support for medical interventions, but the Society for Plastic Surgeons diverged from this consensus. This event is significant as it highlights the growing debate surrounding transgender care for adolescents, which may influence future policy decisions and medical practices."
-        },
-        {
-          "rank": 9,
-          "title": "No H.I.V. Aid Without More Access to Minerals: U.S. Ponders ‘Sticks’ Against Zambia",
-          "link": "https://www.nytimes.com/2026/03/16/health/zambia-hiv-aid-minerals-trump.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-03-16 20:07 UTC",
-          "analysis_zh": "美国国务院的一份草案备忘录提出，特朗普政府可能通过大幅削减对赞比亚的健康支持来施加压力，特别是在艾滋病毒援助方面。这一举措的背后是对赞比亚在矿产资源获取方面的担忧。这一政策可能会对赞比亚的公共卫生状况造成严重影响，尤其是在艾滋病防治领域，可能导致更多人无法获得必要的医疗服务。",
-          "analysis_en": "A draft memo from the U.S. State Department suggests that the Trump administration may increase pressure on Zambia by significantly cutting health support, particularly regarding HIV aid. This move is driven by concerns over Zambia's access to mineral resources. Such a policy could severely impact public health in Zambia, especially in the fight against AIDS, potentially leaving more people without essential medical services."
-        },
-        {
-          "rank": 10,
-          "title": "E.P.A. Moves to Weaken Limits on Ethylene Oxide",
-          "link": "https://www.nytimes.com/2026/03/13/climate/epa-ethylene-oxide-cancer.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-03-16 16:54 UTC",
-          "analysis_zh": "美国环境保护署（E.P.A.）近日决定放宽对环氧乙烷的限制。环氧乙烷是一种在医疗器械消毒中至关重要的气体，但长期接触与多种癌症及其他健康问题相关。这一政策的改变可能会对公共健康产生负面影响，尤其是那些长期暴露于这种化学物质的工人和居民。专家们担心，这一举措可能会导致癌症发病率上升，进一步加剧医疗系统的负担。",
-          "analysis_en": "The U.S. Environmental Protection Agency (E.P.A.) has recently moved to weaken restrictions on ethylene oxide. This gas is essential for sterilizing medical devices, but long-term exposure is linked to various cancers and other health issues. The change in policy could negatively impact public health, particularly for workers and residents who are exposed to this chemical over extended periods. Experts are concerned that this move may lead to an increase in cancer rates, further straining the healthcare system."
+          "analysis_zh": "保拉·多雷斯-沃特斯（Paula Doress-Worters）于87岁去世，她是《我们的身体，我们自己》（‘Our Bodies, Ourselves’）一书的作者之一。她在书中探讨了产后抑郁症，这在当时是一个鲜为人知的话题，甚至与堕胎和避孕一样难以启齿。她的研究不仅源于自身的经历，也为无数女性提供了帮助。她的去世意味着我们失去了一位为女性健康发声的重要人物，她的贡献将继续影响未来的讨论和研究。",
+          "analysis_en": "Paula Doress-Worters, co-author of 'Our Bodies, Ourselves,' passed away at the age of 87. She addressed postpartum depression at a time when it was rarely discussed, similar to topics like abortion and birth control. Her research, stemming from her own experiences, has helped countless women. Her passing signifies the loss of a vital advocate for women's health, and her contributions will continue to influence future discussions and research in this area."
         }
       ]
     },
@@ -210,8 +210,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/03/260317064457.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-03-17 11:44 UTC",
-          "analysis_zh": "科学家们终于揭示了一种关键阿尔茨海默病药物的工作原理。研究发现，药物lecanemab通过激活大脑的免疫细胞来发挥作用，而这一过程依赖于抗体的Fc片段。这个片段像一个开关，促使小胶质细胞清除有害的淀粉样斑块。这一发现可能会改变未来阿尔茨海默病疗法的设计思路，对改善患者的治疗效果具有重要意义。",
-          "analysis_en": "Scientists have finally revealed how a key Alzheimer's drug works. Research shows that lecanemab activates the brain's immune cells through a specific part of the antibody known as the Fc fragment. This fragment acts like a switch, prompting microglia to clear harmful amyloid plaques. This finding could reshape the design of future Alzheimer's therapies, significantly impacting the effectiveness of treatments for patients."
+          "analysis_zh": "科学家们终于揭示了一种关键阿尔茨海默病药物的工作原理。研究发现，乐卡巴胺通过激活大脑的免疫细胞来发挥作用，而这一过程依赖于抗体中的Fc片段。这一发现不仅为我们理解该药物的机制提供了清晰的解释，也可能会改变未来阿尔茨海默病治疗的设计方向。随着对微胶质细胞功能的深入了解，未来的治疗方法可能会更加安全和有效。",
+          "analysis_en": "Scientists have finally revealed how a key Alzheimer's drug works. Research shows that lecanemab activates the brain's immune cells through a specific part of the antibody known as the Fc fragment. This finding not only clarifies the mechanism of this drug but may also reshape the design of future Alzheimer's therapies. With a better understanding of microglial function, future treatments could become safer and more effective."
         },
         {
           "rank": 2,
@@ -219,8 +219,8 @@
           "link": "https://aeon.co/essays/why-do-some-regrets-fade-while-others-persist-and-grow?utm_source=rss-feed",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-03-17 10:00 UTC",
-          "analysis_zh": "这篇文章探讨了选择与后悔之间的关系，指出生活中我们总会面临选择，因此也会对未选择的道路感到遗憾。然而，作者强调，重要的是我们如何塑造未来。这样的思考不仅影响个人的决策，也可能改变我们对生活的态度，促使人们更加关注当下和未来的可能性。",
-          "analysis_en": "This article explores the relationship between choice and regret, highlighting that in life we are always faced with decisions, leading to feelings of regret about paths not taken. However, the author emphasizes that what truly matters is how we shape our future. This perspective not only influences individual decision-making but may also change our attitudes towards life, encouraging people to focus more on the present and the possibilities ahead."
+          "analysis_zh": "在一篇名为《放弃自我》的文章中，作者探讨了选择对生活的重要性。生活中每一个选择都可能导致对未选择路径的遗憾，这种情感是人类普遍的体验。文章强调，尽管我们无法回头，但我们可以通过未来的选择来塑造自己的生活。这一观点提醒我们珍惜当下的决定，并关注未来可能带来的变化。",
+          "analysis_en": "In an article titled \"Abandoning Ourselves,\" the author discusses the significance of choices in life. Every decision we make can lead to regrets about the paths not taken, a common human experience. The article emphasizes that while we cannot go back, we have the power to shape our lives through future choices. This perspective encourages us to value our current decisions and consider the potential changes that lie ahead."
         },
         {
           "rank": 3,
@@ -228,8 +228,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/03/260317015928.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-03-17 06:25 UTC",
-          "analysis_zh": "研究人员发现，注意力缺陷多动障碍（ADHD）患者的大脑在清醒状态下也会出现类似睡眠的活动模式。这种现象可能是导致他们在专注任务时频繁走神的原因之一。研究表明，这种“睡眠样”脑活动与错误增多、反应时间变慢以及注意力缺失密切相关。这项发现不仅有助于我们理解ADHD的注意力挑战，还可能为未来的治疗方法提供新的思路。",
-          "analysis_en": "Researchers have discovered that individuals with Attention Deficit Hyperactivity Disorder (ADHD) exhibit brain activity resembling sleep even while awake. This phenomenon may help explain why they often struggle to maintain focus during demanding tasks. The study indicates that these \"sleep-like\" brain episodes are linked to increased mistakes, slower reaction times, and lapses in attention. This finding not only enhances our understanding of the attention challenges faced by those with ADHD but may also pave the way for new treatment approaches in the future."
+          "analysis_zh": "研究人员发现，注意力缺陷多动障碍（ADHD）患者的大脑在清醒时也会出现类似睡眠的活动模式。这种现象可能是导致他们在专注时常常遇到困难的原因之一。研究表明，这种“睡眠样”活动与注意力缺失、反应时间变慢以及错误率增加密切相关。这项发现不仅有助于理解ADHD的机制，也可能为未来的治疗方案提供新的思路。",
+          "analysis_en": "Researchers have discovered that individuals with Attention Deficit Hyperactivity Disorder (ADHD) exhibit sleep-like brain activity even while awake. This phenomenon may help explain their frequent difficulties in maintaining focus. The study indicates that these sleep-like episodes are associated with lapses in attention, slower reaction times, and increased errors. This finding not only enhances our understanding of the mechanisms behind ADHD but may also pave the way for new treatment approaches in the future."
         },
         {
           "rank": 4,
@@ -237,8 +237,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/03/260315225125.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-03-16 22:49 UTC",
-          "analysis_zh": "加州大学洛杉矶分校的研究表明，长期接触农药氯吡脲可能显著提高帕金森病的风险。研究发现，生活在持续接触该农药的地区的人，患病的可能性超过2.5倍。实验室研究进一步证实了这一发现，暴露于该化学物质的动物出现运动问题，失去了产生多巴胺的神经元，并显示出与帕金森病患者相同的有毒蛋白质积累。这一研究结果不仅揭示了环境因素对帕金森病的影响，也引发了对农药使用的更广泛关注。",
-          "analysis_en": "A study from UCLA Health indicates that long-term exposure to the pesticide chlorpyrifos may significantly increase the risk of Parkinson's disease. Researchers found that individuals living in areas with ongoing exposure had more than 2.5 times the likelihood of developing the condition. Laboratory experiments supported these findings, showing that animals exposed to the pesticide experienced movement issues, loss of dopamine-producing neurons, and toxic protein buildup similar to that seen in Parkinson's patients. This research highlights the impact of environmental factors on Parkinson's disease and raises broader concerns about pesticide use."
+          "analysis_zh": "加州大学洛杉矶分校的最新研究表明，长期接触农药氯吡脲可能显著增加帕金森病的风险。研究发现，居住在持续暴露于这种农药的地区的人，发展该疾病的可能性超过2.5倍。实验室实验进一步证实了这一发现：接触该化学物质的动物出现运动问题，失去了多巴胺产生神经元，并显示出与帕金森病患者相同的毒性蛋白积累。这项研究的重要性在于，它揭示了环境因素在帕金森病发病机制中的潜在作用，可能促使政策制定者重新审视农药的使用。",
+          "analysis_en": "A new study from UCLA Health indicates that long-term exposure to the pesticide chlorpyrifos may significantly increase the risk of developing Parkinson's disease. Researchers found that individuals living in areas with ongoing exposure had more than a 2.5 times higher likelihood of developing the disorder. Laboratory experiments supported these findings, showing that animals exposed to the chemical experienced movement issues, lost dopamine-producing neurons, and exhibited toxic protein buildup similar to that seen in Parkinson's patients. This research is crucial as it highlights the potential role of environmental factors in the onset of Parkinson's disease, which may lead policymakers to reconsider the use of certain pesticides."
         }
       ]
     },
@@ -248,93 +248,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Capcom’s next big game explores the horrors of AI",
-          "link": "https://www.theverge.com/games/894610/capcom-pragmata-ai-preview-interview",
-          "source": "The Verge",
-          "published_utc": "2026-03-17 15:00 UTC",
-          "analysis_zh": "卡普空最近发布了新游戏《Pragmata》，该游戏以人工智能为灵感，探索其带来的恐怖。这款科幻动作游戏让玩家在月球研究站中扮演两名角色，体验与攻击性机器人战斗的过程。此游戏的推出标志着卡普空在成功推出《怪物猎人：世界》和《生化危机》系列后，继续创新和扩展其游戏领域。随着人工智能技术的快速发展，这款游戏可能会引发玩家对AI伦理和未来科技的思考。",
-          "analysis_en": "Capcom has recently unveiled its new game, Pragmata, which explores the horrors inspired by artificial intelligence. This sci-fi action game allows players to take on two characters while battling aggressive robots in a mysterious lunar research station. The release of this game signifies Capcom's continued innovation and expansion in the gaming industry following the success of titles like Monster Hunter: World and the Resident Evil series. As AI technology rapidly evolves, this game may provoke players to reflect on the ethics of AI and the implications of future technologies."
+          "title": "Arizona Files Criminal Charges Against Kalshi, the Prediction Site",
+          "link": "https://www.nytimes.com/2026/03/17/technology/arizona-criminal-charges-kalshi.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-03-17 20:49 UTC",
+          "analysis_zh": "亚利桑那州于周二对预测网站Kalshi提出刑事指控，指控其经营非法赌博业务。这一举动加剧了各州与预测市场之间的法律斗争。此案的结果可能会影响其他州对类似平台的监管态度，并引发更广泛的讨论关于预测市场的合法性和监管框架。",
+          "analysis_en": "Arizona filed criminal charges against the prediction site Kalshi on Tuesday, accusing it of operating an illegal gambling business. This move escalates the legal battle between states and prediction markets. The outcome of this case could influence how other states regulate similar platforms and spark broader discussions about the legality and regulatory framework of prediction markets."
         },
         {
           "rank": 2,
-          "title": "Amazon’s new ‘getitfast’ delivery page lists items you can have in 1 hour",
-          "link": "https://www.theverge.com/tech/895940/amazon-1-hour-3-hour-delivery",
+          "title": "I went to the Pentagon to watch Pete Hegseth scold war reporters",
+          "link": "https://www.theverge.com/policy/896312/pentagon-briefing-iran-war-pete-hegseth",
           "source": "The Verge",
-          "published_utc": "2026-03-17 14:17 UTC",
-          "analysis_zh": "亚马逊近日宣布推出新的“getitfast”页面，方便用户查找可享受1小时和3小时送达服务的商品。这一举措旨在提升同日送达产品的可见性，并引入新的搜索过滤器和标签，帮助消费者更快找到所需商品。这一变化不仅提升了购物的便利性，也可能对当地商家造成压力，尤其是在亚马逊的服务日益普及的情况下。",
-          "analysis_en": "Amazon recently announced the launch of a new \"getitfast\" page to help users find products eligible for 1-hour and 3-hour delivery. This initiative aims to enhance the visibility of same-day delivery products and introduces new search filters and tags to help consumers quickly locate what they need. This change not only increases shopping convenience but may also put pressure on local businesses, especially as Amazon's services become more widespread."
+          "published_utc": "2026-03-17 20:47 UTC",
+          "analysis_zh": "美国与伊朗的突袭战争已经进入第13天，恰好是星期五13号，记者在五角大楼的简报会上见证了国防部长皮特·赫格塞斯对战地记者的训斥。这一事件不仅反映了当前局势的紧张，也揭示了政府与媒体之间的紧张关系。赫格塞斯的言辞表明，政府希望在战争报道中保持控制，可能会影响媒体的报道自由和公众对战争的理解。",
+          "analysis_en": "The surprise war between the U.S. and Iran has reached its 13th day, coincidentally on Friday the 13th, and reporters witnessed Defense Secretary Pete Hegseth scolding war correspondents at a Pentagon briefing. This incident highlights the escalating tensions of the current situation and reveals the strained relationship between the government and the media. Hegseth's remarks indicate a desire for the government to maintain control over war reporting, which may impact media freedom and the public's understanding of the conflict."
         },
         {
           "rank": 3,
-          "title": "Nintendo Switch 2 update adds ‘Handheld Boost Mode’ for original Switch games",
-          "link": "https://www.theverge.com/games/895919/nintendo-switch-2-handheld-boost-mode-update",
-          "source": "The Verge",
-          "published_utc": "2026-03-17 14:04 UTC",
-          "analysis_zh": "任天堂最近为Switch 2推出了一项新功能“手持增强模式”，该模式可以提升在手持模式下运行的原版Switch游戏的性能。当开启此模式时，Switch 2会强制原版游戏以连接电视的方式运行，从而提高画质。这一更新对于原版Switch游戏来说至关重要，因为它们之前在手持模式下的分辨率仅为720p，而现在可以利用Switch 2的1080p显示屏。这项改进不仅提升了游戏体验，也可能吸引更多玩家重新体验这些经典游戏。",
-          "analysis_en": "Nintendo has recently introduced a new feature called \"Handheld Boost Mode\" for the Switch 2, which enhances the performance of original Switch games played in handheld mode. When this mode is activated, the Switch 2 forces original games to run as if they were connected to a TV, improving the visual quality. This update is significant for original Switch titles, as they were previously limited to a resolution of 720p in handheld mode, but can now take advantage of the Switch 2's 1080p display. This improvement not only enhances the gaming experience but may also attract more players to revisit these classic titles."
+          "title": "China Ramps Up Scrutiny of Meta’s Acquisition of Manus",
+          "link": "https://www.nytimes.com/2026/03/17/technology/china-scrutiny-meta-manus.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-03-17 20:45 UTC",
+          "analysis_zh": "中国正在加强对Meta收购新加坡公司Manus的审查，特别是与此次收购相关的人士。这一举措在特朗普总统即将访问北京之际显得尤为重要，可能影响中美之间的科技合作与投资关系。随着中国对外资企业的监管力度加大，这一事件可能会引发其他外国公司对在华投资的顾虑。",
+          "analysis_en": "China is intensifying its scrutiny of Meta's acquisition of Manus, a Singapore-based company with Chinese roots, particularly targeting individuals linked to the deal. This move is significant as President Trump prepares to visit Beijing, potentially affecting tech cooperation and investment relations between China and the U.S. As China increases its regulatory oversight of foreign enterprises, this situation may raise concerns among other foreign companies considering investments in the country."
         },
         {
           "rank": 4,
-          "title": "Why Project Hail Mary’s creators were ‘scared’ about making the sci-fi adaptation",
-          "link": "https://www.theverge.com/entertainment/895508/project-hail-mary-interview-andy-weir-drew-goddard",
+          "title": "The Beats Studio Pro are nearly $200 off ahead of Amazon’s big spring sale",
+          "link": "https://www.theverge.com/gadgets/896279/beats-studio-pro-anc-headphones-amazon-big-spring-sale-deal-2026",
           "source": "The Verge",
-          "published_utc": "2026-03-17 14:00 UTC",
-          "analysis_zh": "《项目救星》是对《火星救援》的自然延续，二者均改编自安迪·威尔的科幻小说，且都有知名演员担任主角（《火星救援》的马特·达蒙和《项目救星》的瑞安·高斯林），导演也都颇具实力（前者为雷德利·斯科特，后者为菲尔·洛德和克里斯托弗·米勒）。尽管如此，编剧德鲁·戈达德在制作《项目救星》时感到相当紧张。他表示，改编这部作品的挑战性远超《火星救援》，因为故事的情感深度和复杂性都更为突出。此项目的成功与否不仅关系到观众的期待，也可能影响未来科幻电影的改编方向。",
-          "analysis_en": "\"Project Hail Mary\" serves as a natural follow-up to \"The Martian,\" with both films adapted from sci-fi novels by Andy Weir and featuring star actors (Matt Damon in \"The Martian\" and Ryan Gosling in \"Project Hail Mary\") and accomplished directors (Ridley Scott for the former and Phil Lord and Christopher Miller for the latter). However, screenwriter Drew Goddard expressed significant apprehension about adapting \"Project Hail Mary,\" noting that it presents a far greater challenge than \"The Martian\" due to its deeper emotional complexity and ambitious narrative. The success of this project not only impacts audience expectations but may also influence the future direction of sci-fi adaptations in cinema."
+          "published_utc": "2026-03-17 20:38 UTC",
+          "analysis_zh": "本周早些时候，苹果公司发布了AirPods Max 2耳机。这款新耳机在前一代的基础上进行了改进，配备了H2芯片，增加了一系列新功能。然而，与现代的Beats耳机相比，它在跨操作系统兼容性方面仍然存在不足。与此同时，Beats Studio Pro耳机在亚马逊、沃尔玛和百思买的售价降至169.95美元，创下历史新低，吸引了众多消费者的关注。这一降价不仅提升了Beats耳机的市场竞争力，也可能促使更多用户选择这款产品。",
+          "analysis_en": "Earlier this week, Apple announced the AirPods Max 2 headphones, which feature an H2 chip that enhances various functionalities compared to their predecessor. However, they still lack the cross-OS compatibility found in modern Beats headphones. In the meantime, the Beats Studio Pro headphones are now available at a record low price of $169.95 on Amazon, Walmart, and Best Buy, drawing significant consumer interest. This price drop not only boosts the competitiveness of Beats headphones in the market but may also encourage more users to opt for this product."
         },
         {
           "rank": 5,
-          "title": "Poco’s first Pro Max phone earns the name with an 8,500mAh battery",
-          "link": "https://www.theverge.com/tech/895884/poco-x8-pro-max-8500mah-battery-dynamic-rgb-lights-iron-man",
+          "title": "Remedy’s live-service shooter Firebreak is getting its final major update",
+          "link": "https://www.theverge.com/entertainment/896278/fbc-firebreak-last-update-remedy",
           "source": "The Verge",
-          "published_utc": "2026-03-17 13:00 UTC",
-          "analysis_zh": "小米子公司Poco推出了X8 Pro和X8 Pro Max手机，这两款手机都配备了大容量的硅碳电池和强大的芯片组，标准存储为256GB，性价比高于最近发布的Pixel 10A。尤其是X8 Pro Max，搭载8500mAh的电池，续航能力可达两到三天，且机身厚度仅为8.2mm，兼具轻薄与强劲性能。此举不仅提升了Poco在市场上的竞争力，也可能吸引更多对电池续航有高需求的消费者。",
-          "analysis_en": "Xiaomi's subsidiary Poco has launched the X8 Pro and X8 Pro Max smartphones, both featuring large silicon-carbon batteries and powerful chipsets, with a standard storage of 256GB, offering better value than the recently released Pixel 10A. The X8 Pro Max, in particular, boasts an impressive 8,500mAh battery, providing a battery life of two to three days while maintaining a slim profile of just 8.2mm. This move enhances Poco's competitiveness in the market and may attract more consumers who prioritize battery life."
+          "published_utc": "2026-03-17 19:36 UTC",
+          "analysis_zh": "Remedy公司宣布其团队射击游戏《FBC: Firebreak》将推出最后一次重大更新，并计划在未来保持游戏的可玩性。尽管该游戏将不再增加新内容，但此举显示了在动荡市场中，许多在线服务游戏面临的挑战。新的更新名为“开放日”，将引入一些新区域以及游戏平衡和玩法的改进。这一决定可能会影响游戏的玩家基础，尽管开发者表示会继续支持游戏。",
+          "analysis_en": "Remedy has announced that its team shooter, FBC: Firebreak, will receive its final major update while the studio plans to keep the game playable in the future. Although no new content will be added, this move highlights the challenges many live-service games face in a volatile market. The new update, titled \"Open House,\" will introduce new areas and improvements to gameplay balance. This decision may affect the game's player base, but the developers have stated they will continue to support the game."
         },
         {
           "rank": 6,
-          "title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
-          "link": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/",
-          "source": "MIT Technology Review",
-          "published_utc": "2026-03-17 12:26 UTC",
-          "analysis_zh": "OpenAI最近与美国国防部达成了一项有争议的协议，允许其军方访问OpenAI的人工智能技术。这一决定引发了广泛的讨论，因为它可能会影响AI技术在军事领域的应用，尤其是在情报收集和决策支持方面。此举不仅可能改变军事作战的方式，还可能引发对AI伦理和安全性的担忧，尤其是在技术被用于潜在的武器系统时。",
-          "analysis_en": "OpenAI has recently entered into a controversial agreement with the U.S. Department of Defense, granting the military access to its AI technology. This decision has sparked widespread debate, as it could impact the application of AI in military contexts, particularly in areas like intelligence gathering and decision-making support. This move may not only change the nature of military operations but also raise concerns about the ethics and safety of AI, especially if the technology is used in potential weapon systems."
+          "title": "Spotify adds ‘Exclusive Mode’ audiophile feature for Windows PCs",
+          "link": "https://www.theverge.com/entertainment/896290/spotify-exclusive-mode-windows",
+          "source": "The Verge",
+          "published_utc": "2026-03-17 19:33 UTC",
+          "analysis_zh": "Spotify最近在其Windows应用程序中推出了“独占模式”功能，旨在提升音频质量。该功能允许Spotify应用程序完全控制计算机的音频处理，避免其他系统声音和音量调整对音质的影响。这一更新对音响爱好者尤为重要，因为它提供了“比特完美”的播放体验。虽然目前仅限于Spotify Premium用户使用，但未来也计划推出Mac版本。这一举措可能会吸引更多音质要求高的用户，进一步增强Spotify在音乐流媒体市场的竞争力。",
+          "analysis_en": "Spotify recently introduced the \"Exclusive Mode\" feature in its Windows app, designed to enhance audio quality. This feature allows the Spotify app to take full control of the computer's audio processing, preventing interference from other system sounds and volume adjustments. This update is particularly significant for audiophiles, as it offers a \"bit-perfect\" playback experience. Currently available only to Spotify Premium users, there are plans to release it for Mac in the future. This move could attract more users who prioritize sound quality, strengthening Spotify's competitive position in the music streaming market."
         },
         {
           "rank": 7,
-          "title": "Oppo’s nearly creaseless foldable isn’t launching in Europe after all",
-          "link": "https://www.theverge.com/tech/895859/oppo-find-n6-launch-release-markets-specs-battery",
+          "title": "Ikea tried to build a smart home for everyone — here’s why it’s not working yet",
+          "link": "https://www.theverge.com/tech/896006/ikea-matter-thread-smart-home-problems",
           "source": "The Verge",
-          "published_utc": "2026-03-17 12:00 UTC",
-          "analysis_zh": "Oppo最近推出了其“零感折痕”折叠手机Find N6，但令人失望的是，这款手机并不会在欧洲上市。尽管之前已经知道它不太可能进入美国市场，但现在确认全球发布也不包括欧洲，实在让人遗憾。Find N6将于3月20日在亚洲、澳大利亚和新西兰等主要市场发售。这一决定可能会影响Oppo在欧洲市场的竞争力，尤其是在折叠手机日益受到关注的情况下。",
-          "analysis_en": "Oppo recently launched its \"zero-feel crease\" foldable phone, the Find N6, but it will not be available in Europe, which is disappointing. While it was already known that the phone was unlikely to launch in the US, the confirmation that Europe is also excluded from the global release is unfortunate. The Find N6 will go on sale on March 20 in key markets across Asia, Australia, and New Zealand. This decision may affect Oppo's competitiveness in the European market, especially as foldable phones gain more attention."
+          "published_utc": "2026-03-17 18:45 UTC",
+          "analysis_zh": "宜家推出的新款Matter-over-Thread智能家居产品本应展示智能家居的经济性、可及性和可靠性。然而，这一备受期待的产品线在实际使用中却暴露出许多互操作性的问题，用户在连接设备时遇到了困难。许多消费者在尝试将这些设备与不同的智能家居平台（如Apple Home和Google Home）连接时，纷纷在论坛上分享了自己的挫折经历。这一情况不仅影响了宜家的品牌形象，也可能对智能家居市场的整体发展产生负面影响。",
+          "analysis_en": "Ikea's new Matter-over-Thread smart home products were intended to demonstrate that smart homes could be affordable, accessible, and reliable. However, this highly anticipated product line has revealed significant interoperability issues, with users struggling to connect devices. Many consumers have shared their frustrations on forums while attempting to integrate these devices with various smart home platforms like Apple Home and Google Home. This situation not only affects Ikea's brand image but could also have a negative impact on the overall development of the smart home market."
         },
         {
           "rank": 8,
-          "title": "Samsung discontinues its Galaxy Z TriFold after just three months",
-          "link": "https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out",
+          "title": "Nvidia’s DLSS 5 is like motion smoothing for video games, but worse",
+          "link": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing",
           "source": "The Verge",
-          "published_utc": "2026-03-17 11:49 UTC",
-          "analysis_zh": "三星公司宣布将在美国推出不到三个月后，停止销售其首款三面折叠手机Galaxy Z TriFold。根据一位不愿透露姓名的三星发言人的说法，Galaxy Z TriFold的销售将首先在韩国减少，然后在美国清理完剩余库存后彻底停产。这一决定反映了市场对该设备的反应不佳，可能会对三星在折叠手机市场的竞争力产生负面影响。",
-          "analysis_en": "Samsung has announced that it will discontinue its first three-panel foldable phone, the Galaxy Z TriFold, less than three months after its launch in the US. According to an unnamed Samsung spokesperson, sales will first be wound down in Korea and then completely halted in the US once remaining inventory is cleared. This decision highlights the poor market response to the device and may negatively impact Samsung's competitiveness in the foldable phone market."
+          "published_utc": "2026-03-17 18:00 UTC",
+          "analysis_zh": "英伟达最近发布了其最新的图像升级技术DLSS 5，声称这是自2018年实时光线追踪技术问世以来在计算机图形领域的重大突破。然而，实际效果却让人失望，许多玩家发现该技术将真实的人物面孔处理得面目全非，甚至变得像是AI生成的模糊图像。这一技术的推出引发了广泛的讨论，可能会影响玩家对游戏画质的期待和对AI技术在游戏中的应用的看法。",
+          "analysis_en": "Nvidia recently unveiled its latest upscaling technology, DLSS 5, claiming it to be a significant breakthrough in computer graphics since the introduction of real-time ray tracing in 2018. However, the actual results have disappointed many players, who found that the technology distorted recognizable faces into something resembling AI-generated blur. This launch has sparked widespread discussion and may affect players' expectations regarding game graphics and their perceptions of AI technology in gaming."
         },
         {
           "rank": 9,
-          "title": "How Invisalign Became the World’s Biggest User of 3D Printers",
-          "link": "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/",
-          "source": "Feed: Artificial Intelligence Latest",
-          "published_utc": "2026-03-17 11:00 UTC",
-          "analysis_zh": "Invisalign成为全球最大的3D打印机用户，这一成就主要得益于Align Technology的首席执行官Joe Hogan的创新理念。他强调，使用隐形矫正器时不应进食，并且并不需要每晚都佩戴保持器。这一消息不仅展示了Invisalign在牙齿矫正技术中的领先地位，也可能推动3D打印技术在医疗领域的进一步应用，改变传统牙科治疗的方式。",
-          "analysis_en": "Invisalign has become the world's largest user of 3D printers, a milestone driven by the innovative vision of Align Technology's CEO, Joe Hogan. He emphasizes that users should not eat while wearing aligners and do not need to wear retainers every night. This announcement highlights Invisalign's leadership in orthodontic technology and may encourage further applications of 3D printing in the medical field, potentially transforming traditional dental treatments."
+          "title": "Netanyahu Posts ‘Proof of Life’ Video as A.I. Sows Doubts About What’s Real",
+          "link": "https://www.nytimes.com/2026/03/17/technology/netanyahu-ai-video-iran-israel.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-03-17 17:52 UTC",
+          "analysis_zh": "以色列总理内塔尼亚胡发布了一段“生存证明”视频，旨在回应对其健康状况的担忧。然而，这段视频的发布恰逢人工智能技术的迅速发展，使得人们对视频内容的真实性产生了疑虑。这一事件凸显了在信息传播中，人工智能可能削弱公众对真实内容的信任。随着技术的进步，未来可能会有更多类似的情况出现，影响人们对信息的判断和决策。",
+          "analysis_en": "Israeli Prime Minister Netanyahu released a \"proof of life\" video to address concerns about his health. However, this release coincides with the rapid advancement of artificial intelligence, which has led to doubts about the authenticity of video content. This incident highlights how AI can undermine public trust in genuine information. As technology continues to evolve, we may see more situations like this, affecting how people assess and make decisions based on information."
         },
         {
           "rank": 10,
-          "title": "Leaving civilization is now easier with this ‘off-grid utility core’",
-          "link": "https://www.theverge.com/tech/895836/klumpen-off-grid-utilities-for-cabins",
+          "title": "Antigravity’s 360-degree drone is 20 percent off ahead of its next feature drop",
+          "link": "https://www.theverge.com/gadgets/895980/antigravity-a1-360-degree-drone-deal-amazon-big-spring-sale-2026",
           "source": "The Verge",
-          "published_utc": "2026-03-17 10:16 UTC",
-          "analysis_zh": "Klumpen是一种七平方米的“离网公用设施核心”，虽然它不是传统的离网小屋，但提供了舒适生活所需的所有设施，包括太阳能发电、卫星宽带、淋浴、厕所和小厨房。预计其售价约为35,000欧元，运送费用在3,000欧元左右。这个创新的设计使得在偏远地区生活变得更加便利，用户只需将其放置在小屋旁边并开启即可，无需额外的许可证或专业人员。这一产品可能会吸引那些希望逃离城市生活的人们，推动离网生活方式的普及。",
-          "analysis_en": "Klumpen is a seven-square-meter \"off-grid utility core\" that, while not a traditional off-grid cabin, provides all the necessary amenities for comfortable living, including solar power, satellite broadband, a shower, toilet, and small kitchen. It is expected to cost around €35,000, with an additional shipping fee of approximately €3,000. This innovative design makes it easier to live in remote areas, as users can simply place it next to a small cabin and turn it on without needing extra permits or professionals. This product may attract those looking to escape urban life, potentially promoting the popularity of off-grid living."
+          "published_utc": "2026-03-17 17:29 UTC",
+          "analysis_zh": "Insta360的Antigravity A1无人机在亚马逊的春季大促中降价20%。这款无人机配备了视觉眼镜，能够提供360度的第一人称视角，用户可以通过镜头外的屏幕看到飞行过程。此次降价活动不仅让消费者能够以更实惠的价格体验高端技术，还可能吸引更多人关注无人机市场，推动相关产品的销售和技术创新。",
+          "analysis_en": "Insta360's Antigravity A1 drone is currently 20% off during Amazon's Big Spring Sale. This drone features Vision Goggles that provide a 360-degree first-person view, allowing users to see the flight experience through a screen on the outside of its lenses. This discount not only makes high-end technology more accessible to consumers but may also draw increased attention to the drone market, potentially boosting sales and driving innovation in related products."
         }
       ]
     },
@@ -344,93 +344,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Len Deighton, Author of Espionage Best-Sellers, Dies at 97",
-          "link": "https://www.nytimes.com/2026/03/17/books/len-deighton-dead.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-03-17 15:06 UTC",
-          "analysis_zh": "著名间谍小说作家伦·迪顿（Len Deighton）于97岁时去世。他的作品《伊普克斯档案》和《柏林葬礼》为冷战时期的间谍小说注入了纪录片式的现实主义风格。这一风格不仅改变了间谍小说的叙事方式，也影响了后来的许多作家和电影制作人。迪顿的去世标志着一个时代的结束，他的作品将继续在文学和影视领域产生深远的影响。",
-          "analysis_en": "Renowned spy novelist Len Deighton passed away at the age of 97. His works, including \"The Ipcress File\" and \"Funeral in Berlin,\" introduced a documentary-style realism to Cold War espionage fiction. This approach not only transformed the narrative style of spy novels but also influenced many later writers and filmmakers. Deighton's death marks the end of an era, but his works will continue to have a significant impact on both literature and film."
-        },
-        {
-          "rank": 2,
-          "title": "How Readers Voted on Miscast Roles in the Movies",
-          "link": "https://www.nytimes.com/2026/03/17/movies/miscast-roles-readers-poll.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-03-17 14:51 UTC",
-          "analysis_zh": "最近，有关电影中不合适角色的讨论引起了读者的关注。读者们在14个角色中迅速选择了本·普拉特在《亲爱的埃文·汉森》中的表现为最不合适的。然而，他们对我们的一些选择表示了强烈的不满。这一现象反映了观众对演员与角色匹配度的敏感性，也可能影响未来电影选角的标准和观众的期待。",
-          "analysis_en": "Recently, discussions about miscast roles in movies have captured readers' attention. Among a list of 14 mismatches, they quickly identified Ben Platt's performance in \"Dear Evan Hansen\" as the most unsuitable. However, they expressed strong dissatisfaction with some of our other choices. This phenomenon highlights the audience's sensitivity to the alignment between actors and their roles, which may influence future casting standards and audience expectations."
-        },
-        {
-          "rank": 3,
-          "title": "House Adopts Bill to Ease Recovery by Heirs of Nazi Looted Art",
-          "link": "https://www.nytimes.com/2026/03/16/arts/design/nazi-art-looted-heirs-recovery.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-03-17 14:48 UTC",
-          "analysis_zh": "美国国会通过了一项法案，旨在简化纳粹掠夺艺术品继承人的恢复程序。这项法案的通过对那些寻求归还被盗艺术品的家庭来说具有重要意义，因为它延长了之前的法律条款，确保他们能更容易地追索这些文化遗产。这不仅关乎历史正义，也可能影响到艺术市场的透明度和道德标准。",
-          "analysis_en": "The U.S. Congress has passed a bill aimed at simplifying the recovery process for heirs of Nazi-looted art. This legislation is significant for families seeking the return of stolen artworks, as it extends previous legal provisions and ensures they can more easily reclaim their cultural heritage. This move not only addresses historical justice but may also impact the transparency and ethical standards of the art market."
-        },
-        {
-          "rank": 4,
-          "title": "Meg Webster’s Life in Five Artworks",
-          "link": "https://www.nytimes.com/2026/03/17/t-magazine/meg-webster-art-dia-beacon.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-03-17 14:46 UTC",
-          "analysis_zh": "梅格·韦伯斯特的艺术作品展示了她对无常的热爱。通过五件作品，她讲述了自己的艺术生涯和创作理念。这一主题的重要性在于，它引发了人们对生命、时间和变化的深刻思考。韦伯斯特的作品不仅仅是艺术品，更是对人类存在的反思，可能会影响观众对艺术和生活的看法。",
-          "analysis_en": "Meg Webster's artworks celebrate the concept of impermanence. Through five pieces, she narrates her artistic journey and creative philosophy. This theme is significant as it prompts deep reflections on life, time, and change. Webster's works are not just art pieces; they serve as a contemplation of human existence, potentially influencing how viewers perceive both art and life."
-        },
-        {
-          "rank": 5,
           "title": "John Lithgow’s Career Spans 200 Roles — From ‘3rd Rock’ to Roald Dahl",
           "link": "https://www.nytimes.com/2026/03/17/theater/john-lithgow-giant-roald-dahl.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-03-17 14:13 UTC",
-          "analysis_zh": "约翰·利索戈的职业生涯跨越了200个角色，从《第三石球》到罗尔德·达尔的作品，他的演艺才能令人惊叹。这位多才多艺的演员不仅在喜剧中表现出色，也在戏剧和电影中展现了深厚的演技。利索戈的广泛角色选择反映了他对表演艺术的热爱和对不同角色的挑战。这不仅让他赢得了观众的喜爱，也为后来的演员树立了榜样，展示了多样化演绎的重要性。",
-          "analysis_en": "John Lithgow's career spans 200 roles, showcasing his remarkable talent from \"3rd Rock from the Sun\" to adaptations of Roald Dahl's works. This versatile actor excels not only in comedy but also demonstrates profound acting skills in drama and film. Lithgow's diverse choice of roles reflects his passion for the performing arts and his willingness to embrace different challenges. This not only endears him to audiences but also sets a standard for future actors, highlighting the importance of versatility in performance."
+          "published_utc": "2026-03-17 20:59 UTC",
+          "analysis_zh": "约翰·利索戈的职业生涯涵盖了200个角色，从《第三摇滚星球》到罗尔德·达尔的作品。他以其广泛的演技而闻名，几乎没有角色是他无法或不愿意尝试的。这一成就不仅展示了他的才华，也反映了他在演艺界的影响力。利索戈的多样性可能会激励新一代演员追求更广泛的角色选择。",
+          "analysis_en": "John Lithgow's career spans 200 roles, ranging from \"3rd Rock from the Sun\" to works by Roald Dahl. He is renowned for his versatility, with few roles he cannot or will not take on. This achievement not only showcases his talent but also highlights his influence in the entertainment industry. Lithgow's diversity may inspire a new generation of actors to pursue a broader range of roles."
+        },
+        {
+          "rank": 2,
+          "title": "Remnants of 3,400-Year-Old Loom in Spain Sheds Light on Bronze Age Textile Production",
+          "link": "https://www.artnews.com/art-news/news/remnants-3400-year-old-loom-spain-bronze-age-textile-production-1234777676/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-03-17 20:56 UTC",
+          "analysis_zh": "在西班牙东海岸的Cabezo Redondo考古遗址，考古学家发现了一台3400年前的木织机和一些粘土织机配重。这一发现为青铜时代的纺织生产提供了重要的线索，揭示了当时人们的技术水平和生活方式。这项研究不仅有助于我们理解古代文明的经济活动，还可能影响对该地区历史的重新评估。",
+          "analysis_en": "Archaeologists have uncovered a 3,400-year-old wooden loom and clay loom weights at the Cabezo Redondo archaeological site along the east coast of Spain. This discovery sheds light on textile production during the Bronze Age, revealing the technological capabilities and lifestyles of people at that time. The findings could enhance our understanding of ancient economic activities and may lead to a reevaluation of the region's historical significance."
+        },
+        {
+          "rank": 3,
+          "title": "Painting in the Vatican’s Collection Is Newly Identified as an El Greco",
+          "link": "https://www.artnews.com/art-news/news/el-greco-painting-newly-identified-vatican-1234777674/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-03-17 20:51 UTC",
+          "analysis_zh": "梵蒂冈的保护团队最近发现了一幅新的画作，确认其为西班牙画家埃尔·格列柯的作品。这一发现不仅丰富了梵蒂冈的艺术收藏，也为研究埃尔·格列柯的艺术风格提供了新的实证资料。此画作的确认可能会吸引更多的游客和艺术爱好者前来参观，进一步提升梵蒂冈作为艺术中心的地位。",
+          "analysis_en": "The Vatican's conservation team has recently identified a newly discovered painting as a work by the Spanish artist El Greco. This finding not only enhances the Vatican's art collection but also provides new evidence for the study of El Greco's artistic style. The confirmation of this painting may attract more visitors and art enthusiasts, further elevating the Vatican's status as a center of art."
+        },
+        {
+          "rank": 4,
+          "title": "Court Decision Ends Dispute Over Who Actually Bought Beeple’s Everydays: The First 5000 Days for $69.3 M.",
+          "link": "https://www.artnews.com/art-news/news/beeple-everydays-nft-lawsuit-decision-1234777672/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-03-17 20:47 UTC",
+          "analysis_zh": "最近，一名联邦法官批准了一项最终判决，结束了关于谁实际购买了Beeple的《Everydays: The First 5000 Days》这幅作品的争议。这幅数字艺术作品以6930万美元的价格成交，引发了广泛关注。此判决的重要性在于，它不仅解决了艺术品交易中的法律纠纷，还可能影响未来数字艺术品的买卖和版权问题。随着数字艺术市场的不断发展，这一案例或将成为类似争议的参考。",
+          "analysis_en": "Recently, a federal judge approved a final judgment that resolved the dispute over who actually purchased Beeple's artwork, \"Everydays: The First 5000 Days,\" for $69.3 million. This piece of digital art has garnered significant attention, and the importance of this ruling lies in its resolution of legal disputes in art transactions, which may influence future sales and copyright issues in the digital art market. As the digital art market continues to grow, this case could serve as a precedent for similar disputes."
+        },
+        {
+          "rank": 5,
+          "title": "In the Oscars Audience, Stars Caught Their Breath",
+          "link": "https://www.nytimes.com/2026/03/17/movies/oscars-audience-michael-b-jordan-paul-thomas-anderson.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-03-17 20:46 UTC",
+          "analysis_zh": "在最近的奥斯卡颁奖典礼上，摄影师捕捉到了迈克尔·B·乔丹、保罗·托马斯·安德森、格温妮斯·帕特洛等明星在观众席上的真实瞬间。这些未经过滤的画面展示了明星们在颁奖典礼上的紧张与期待，反映了他们对电影艺术的热爱。这些瞬间不仅让观众感受到明星们的真实情感，也为颁奖典礼增添了更多人性化的元素，可能会影响未来颁奖典礼的呈现方式。",
+          "analysis_en": "At the recent Oscars ceremony, a photographer captured unguarded moments of stars like Michael B. Jordan, Paul Thomas Anderson, and Gwyneth Paltrow in the audience. These candid images reveal the tension and anticipation that celebrities experience during the awards, showcasing their passion for the art of film. Such moments not only allow the audience to connect with the genuine emotions of the stars but also add a more human touch to the ceremony, potentially influencing how future award shows are presented."
         },
         {
           "rank": 6,
-          "title": "two intersecting volumes of black concrete carve mavra house into the mexican landscape",
-          "link": "https://www.designboom.com/architecture/two-intersecting-volumes-black-concrete-mavra-house-mexican-landscape-tac-taller-alberto-calleja/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-03-17 14:00 UTC",
-          "analysis_zh": "在墨西哥的风景中，Mavra House通过两个相交的黑色混凝土体量而形成。这种设计与地面保持直接的关系，突显了建筑与自然环境的和谐共存。这一建筑项目的重要性在于，它不仅展示了现代建筑的美学，还强调了与周围环境的互动，可能会影响未来建筑设计的趋势，鼓励更多建筑师关注可持续性和自然融合。",
-          "analysis_en": "Mavra House is shaped by two intersecting volumes of black concrete, seamlessly integrated into the Mexican landscape. This design maintains a direct relationship with the ground, highlighting the harmony between architecture and nature. The significance of this project lies in its demonstration of modern architectural aesthetics while emphasizing interaction with the surrounding environment. It may influence future architectural trends by encouraging more architects to focus on sustainability and integration with nature."
+          "title": "8 Great Songs That Make It Easy to Be Green",
+          "link": "https://www.nytimes.com/2026/03/17/arts/music/amplifier-newsletter-green-songs.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-03-17 20:23 UTC",
+          "analysis_zh": "在圣帕特里克节来临之际，纽约时报推荐了八首与环保主题相关的经典歌曲，包括雷·查尔斯对青蛙凯尔米特经典曲目的演绎，以及来自洛德、布克·T与M.G.乐队、乔尼·米切尔等艺术家的作品。这些歌曲不仅庆祝了节日的氛围，同时也传达了对环保的关注。通过音乐，人们可以更好地理解和传播绿色生活的理念，激励更多人参与到环保行动中。",
+          "analysis_en": "As St. Patrick's Day approaches, The New York Times has highlighted eight classic songs related to environmental themes, including Ray Charles's rendition of Kermit the Frog's classic and tracks from Lorde, Booker T. & the M.G.'s, Joni Mitchell, and more. These songs not only celebrate the festive spirit but also convey a message of environmental awareness. Through music, people can better understand and promote the concept of green living, inspiring more individuals to engage in environmental actions."
         },
         {
           "rank": 7,
-          "title": "Upglas lamp by Luca Nichetto for Astep",
-          "link": "https://www.dezeen.com/2026/03/17/upglas-lamp-luca-nichetoo-astep-dezeen-showroom/",
-          "source": "Dezeen",
-          "published_utc": "2026-03-17 14:00 UTC",
-          "analysis_zh": "设计师卢卡·尼切托为丹麦照明品牌Astep创造了Upglas台灯，采用了回收的穆拉诺玻璃残料。这款台灯的表面独特，融合了玻璃、陶土和大理石的特性，展现了意大利传统玻璃工艺的魅力。此设计不仅体现了可持续发展的理念，还可能影响未来灯具设计的方向，鼓励更多品牌关注环保材料的使用。",
-          "analysis_en": "Designer Luca Nichetto created the Upglas table lamp for the Danish lighting brand Astep using recycled remnants of Murano glass. The lamp features a unique surface that combines the qualities of glass, clay, and marble, showcasing the charm of traditional Italian glass-making. This design not only reflects a commitment to sustainability but may also influence the future direction of lighting design, encouraging more brands to focus on the use of eco-friendly materials."
+          "title": "Playwrights Horizons Settles Case Over Discounts for People of Color",
+          "link": "https://www.nytimes.com/2026/03/17/theater/playwrights-horizons-lawsuit-race-discounts.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-03-17 19:52 UTC",
+          "analysis_zh": "剧作家地平线公司与一项关于为有色人种提供折扣的诉讼达成和解。该诉讼质疑了该公司推出的“有色人种之夜”项目，认为这一做法可能存在歧视。此事件引发了对艺术界如何平衡多样性与公平性的广泛讨论，可能会影响未来类似项目的实施方式。",
+          "analysis_en": "Playwrights Horizons has settled a lawsuit concerning discounts offered to people of color through its \"BIPOC night\" program. The lawsuit raised concerns about potential discrimination associated with this initiative. This incident has sparked a broader conversation about how the arts community can balance diversity and fairness, which may influence the implementation of similar programs in the future."
         },
         {
           "rank": 8,
-          "title": "Jocelyn Bioh’s ‘School Girls; Or, The African Mean Girls Play’ Heads to Broadway",
-          "link": "https://www.nytimes.com/2026/03/17/theater/school-girls-bioh-broadway.html",
+          "title": "What to Know About Banksy and the Street Artist’s Identity",
+          "link": "https://www.nytimes.com/2026/03/17/arts/design/banksy-identity-robin-gunningham-david-jones.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-03-17 12:55 UTC",
-          "analysis_zh": "乔斯林·比奥的剧作《学校女孩；或非洲小女孩的戏剧》即将登上百老汇，首演定于九月份。这部剧探讨了青春期女孩之间的竞争和身份认同问题，尤其是在非洲文化背景下。这一演出不仅为观众提供了新的视角，也为多元文化的表现开辟了新的舞台，可能会吸引更多关注非洲和非洲裔艺术家的作品。",
-          "analysis_en": "Jocelyn Bioh's play \"School Girls; Or, The African Mean Girls Play\" is set to debut on Broadway, with performances starting in September. The play delves into themes of competition and identity among teenage girls, particularly within an African cultural context. This production not only offers audiences a fresh perspective but also paves the way for greater representation of diverse cultures, potentially drawing more attention to works by African and African diasporic artists."
+          "published_utc": "2026-03-17 19:50 UTC",
+          "analysis_zh": "最近，路透社的一项调查声称已识别出著名街头艺术家班克西的真实身份，这一发现基于他在二十年前纽约被捕时的警方报告。这一消息引发了广泛关注，因为班克西的身份一直是艺术界的一个谜。了解他的真实身份可能会影响他作品的市场价值和公众对其艺术的解读。",
+          "analysis_en": "Recently, an investigation by Reuters claims to have identified the true identity of the famous street artist Banksy, based on a police report from his arrest in New York two decades ago. This revelation has sparked significant interest, as Banksy's identity has long been a mystery in the art world. Knowing his true identity could impact the market value of his works and the public's interpretation of his art."
         },
         {
           "rank": 9,
-          "title": "Trevor Paglen Wins $100,000 LG Guggenheim Award for Art and Technology",
-          "link": "https://www.artnews.com/art-news/news/trevor-paglen-wins-lg-guggenheim-award-1234777569/",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-03-17 12:00 UTC",
-          "analysis_zh": "特雷弗·帕格伦（Trevor Paglen）因其在艺术与技术领域的杰出贡献，获得了价值10万美元的LG古根海姆奖。评审团称他为“我们时代最具影响力的艺术家之一”。这一奖项不仅表彰了他的创新作品，也反映了当代艺术与科技交融的重要性。帕格伦的获奖可能会激励更多艺术家探索科技在艺术创作中的应用，推动这一领域的发展。",
-          "analysis_en": "Trevor Paglen has been awarded the $100,000 LG Guggenheim Award for his outstanding contributions to art and technology. The jury described him as \"one of the most influential artists of our time.\" This award not only recognizes his innovative work but also highlights the significance of the intersection between contemporary art and technology. Paglen's recognition may inspire more artists to explore the use of technology in their creative processes, potentially advancing this field further."
+          "title": "DLR Group faces backlash over work on ICE detention centre",
+          "link": "https://www.dezeen.com/2026/03/17/dlr-group-backlash-ice-detention-centre/",
+          "source": "Dezeen",
+          "published_utc": "2026-03-17 19:33 UTC",
+          "analysis_zh": "美国建筑公司DLR Group因参与将俄克拉荷马州的一座监狱改建为移民和海关执法局（ICE）拘留中心而遭到员工的强烈反对。这一事件引发了广泛关注，员工们对公司的道德立场表示失望，并要求停止与ICE相关的项目。这一反对声浪不仅可能影响DLR Group的声誉，还可能对其他建筑公司在处理类似项目时产生警示作用，促使它们重新审视与政府机构的合作关系。",
+          "analysis_en": "The American architecture firm DLR Group has faced significant backlash from employees after being linked to the conversion of an Oklahoma prison into an ICE detention center. This incident has raised concerns among staff about the company's ethical stance, leading to calls for a halt on projects associated with ICE. The backlash could not only impact DLR Group's reputation but also serve as a warning to other architectural firms to reconsider their partnerships with government agencies involved in controversial activities."
         },
         {
           "rank": 10,
-          "title": "critical futures: how superflux draws upon speculative designs to transform our present",
-          "link": "https://www.designboom.com/design/critical-futures-how-superflux-draws-upon-speculative-designs-transform-present/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-03-17 11:50 UTC",
-          "analysis_zh": "Superflux工作室在伦敦成立，由Anab Jain和Jon Ardern创办，致力于通过假设性设计来构建一个基于可操作方法的集体未来。该工作室的项目旨在通过探索不同的可能性，激发人们对未来的思考。这一方法不仅具有创新性，还可能影响设计领域的实践，促使更多设计师关注社会问题和可持续发展。",
-          "analysis_en": "Superflux, founded in London by Anab Jain and Jon Ardern, focuses on creating a collective future through speculative design. The studio's projects aim to inspire people to think about the future by exploring various possibilities. This innovative approach could influence practices in the design field, encouraging more designers to address social issues and sustainability."
+          "title": "Egidio Marzona, Collector Who Built a Monument to the Avant-Garde, Dies at 81",
+          "link": "https://www.artnews.com/art-news/news/egidio-marzona-dead-avant-garde-collector-archive-1234777644/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-03-17 19:12 UTC",
+          "analysis_zh": "意大利著名收藏家埃吉迪奥·马尔佐纳（Egidio Marzona）于81岁去世，他以建立先锋艺术的档案而闻名。马尔佐纳将档案视为艺术作品的核心，而非附属材料，这一理念在艺术界产生了深远的影响。其去世不仅是艺术收藏界的损失，也使得对先锋艺术的研究和理解面临新的挑战。他的贡献将激励未来的收藏家和艺术家继续探索和保存重要的艺术遗产。",
+          "analysis_en": "Egidio Marzona, a renowned Italian collector, passed away at the age of 81, known for establishing a landmark archive dedicated to avant-garde art. Marzona viewed archives as the core of the artwork rather than secondary material, a perspective that has had a profound impact on the art world. His death represents a significant loss for the art collecting community and poses new challenges for the study and understanding of avant-garde art. His contributions will inspire future collectors and artists to continue exploring and preserving important artistic legacies."
         }
       ]
     }
