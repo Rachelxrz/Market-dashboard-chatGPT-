@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-18 15:12:01 UTC",
-  "generated_at_unix": 1773846721,
+  "generated_at": "2026-03-18 21:06:21 UTC",
+  "generated_at_unix": 1773867981,
   "window": {
-    "from_utc": "2026-03-17 15:12:01 UTC",
-    "to_utc": "2026-03-18 15:12:01 UTC",
+    "from_utc": "2026-03-17 21:06:21 UTC",
+    "to_utc": "2026-03-18 21:06:21 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,93 +14,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Oil prices top $109 after Iran threatens oil facilities in Saudi Arabia, UAE and Qatar",
-          "link": "https://www.cnbc.com/2026/03/18/oil-prices-brent-wti-uae-energy-attacks-us-crude-inventories-hormuz.html",
+          "title": "Micron revenue almost triples, tops estimates as demand for memory soars",
+          "link": "https://www.cnbc.com/2026/03/18/micron-mu-q2-earnings-report-2026.html",
           "source": "US Top News and Analysis",
-          "published_utc": "2026-03-18 15:11 UTC",
-          "analysis_zh": "近期，由于伊朗威胁攻击沙特阿拉伯、阿联酋和卡塔尔的石油设施，油价再次上涨，突破109美元。这一局势引发市场对以色列和伊朗在中东能源基础设施上加大攻击力度的担忧。油价的上涨不仅会影响全球能源市场，还可能导致相关国家的经济受到压力，进一步加剧地区紧张局势。",
-          "analysis_en": "Recently, oil prices have surged past $109 due to Iran's threats to attack oil facilities in Saudi Arabia, the UAE, and Qatar. This situation has raised concerns in the market about the potential escalation of attacks on Middle Eastern energy infrastructure by Israel and Iran. The increase in oil prices could not only impact the global energy market but also put economic pressure on the affected countries, further exacerbating regional tensions."
+          "published_utc": "2026-03-18 20:57 UTC",
+          "analysis_zh": "美光科技（Micron）的收入几乎增长了三倍，超出了市场预期，这主要得益于内存需求的激增。随着内存价格的上涨，整个科技行业都受到影响，而美光在这一波浪潮中表现突出，股价大幅上涨。这一现象不仅反映了内存市场的强劲需求，也可能对其他科技公司的财务表现产生连锁反应，进一步加剧行业竞争。",
+          "analysis_en": "Micron's revenue has nearly tripled, surpassing market expectations, largely due to soaring demand for memory. As memory prices rise, the entire tech industry is feeling the impact, but Micron has excelled during this trend, resulting in a significant increase in its stock price. This situation not only highlights the strong demand in the memory market but may also create ripple effects on the financial performance of other tech companies, intensifying competition within the industry."
         },
         {
           "rank": 2,
-          "title": "European stocks turn lower amid upcoming Fed decision, ongoing Iran conflict",
-          "link": "https://www.investing.com/news/stock-market-news/european-stocks-open-higher-amid-upcoming-fed-decision-ongoing-iran-conflict-4567694",
+          "title": "After-hours movers: Micron, Five Below, DLocal Limited",
+          "link": "https://www.investing.com/news/stock-market-news/afterhours-movers-micron-five-below-dlocal-limited-432SI-4569323",
           "source": "Stock Market News",
-          "published_utc": "2026-03-18 14:56 UTC",
-          "analysis_zh": "欧洲股市因即将到来的美联储决策和持续的伊朗冲突而下跌。这一变化引发了投资者的担忧，因为美联储的政策调整可能会影响全球经济的走向。同时，伊朗局势的不确定性也让市场情绪变得更加谨慎。这些因素可能导致投资者重新评估风险，进而影响股市的整体表现。",
-          "analysis_en": "European stocks have turned lower due to the upcoming Federal Reserve decision and the ongoing conflict in Iran. This shift has raised concerns among investors, as changes in Fed policy could influence the direction of the global economy. Additionally, the uncertainty surrounding the situation in Iran has made market sentiment more cautious. These factors may lead investors to reassess risks, potentially affecting the overall performance of the stock market."
+          "published_utc": "2026-03-18 20:41 UTC",
+          "analysis_zh": "在美股盘后交易中，几只股票表现出显著波动，其中包括美光科技、Five Below和DLocal Limited。这些公司的股价变动引起了投资者的关注，反映出市场对科技和零售行业的不同预期。美光科技的表现尤其重要，因为它在半导体行业的地位可能影响整个市场的走势。这些波动可能会影响投资者的信心，并引导他们在未来的投资决策中更加谨慎。",
+          "analysis_en": "In after-hours trading, several stocks showed significant fluctuations, including Micron Technology, Five Below, and DLocal Limited. The price movements of these companies have drawn investors' attention, reflecting varying market expectations for the tech and retail sectors. Micron's performance is particularly noteworthy, as its position in the semiconductor industry could influence the overall market trend. These fluctuations may affect investor confidence and lead to more cautious investment decisions in the future."
         },
         {
           "rank": 3,
-          "title": "Top Republican calls out Trump’s Homeland nominee over inflammatory rhetoric",
-          "link": "https://www.investing.com/news/stock-market-news/trumps-homeland-nominee-testifies-before-senate-panel-with-immigration-under-spotlight-4567826",
-          "source": "Stock Market News",
-          "published_utc": "2026-03-18 14:54 UTC",
-          "analysis_zh": "一位主要的共和党人士对特朗普提名的国土安全部长候选人提出了批评，指责其言辞激烈。这一事件引发了广泛关注，因为国土安全部长在美国的安全政策中扮演着关键角色。候选人的言论可能会影响公众对其能力的看法，并对未来的政策制定产生重要影响。",
-          "analysis_en": "A prominent Republican has criticized Trump's nominee for Homeland Security Secretary over inflammatory rhetoric. This incident has garnered significant attention, as the Homeland Security Secretary plays a crucial role in shaping U.S. security policy. The nominee's statements could affect public perception of their capabilities and have important implications for future policy-making."
+          "title": "Amazon says U.S. Postal Service 'walked away at the eleventh hour' in negotiations",
+          "link": "https://www.cnbc.com/2026/03/18/amazon-usps-shipping-negotiations.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-03-18 20:40 UTC",
+          "analysis_zh": "亚马逊表示，与美国邮政服务的谈判在最后时刻破裂，导致双方未能达成新的协议。亚马逊原本希望通过这一协议来增加包裹的运输量，这对其业务发展至关重要。谈判的失败可能会影响亚马逊的物流效率，进而对其客户服务和市场竞争力产生负面影响。",
+          "analysis_en": "Amazon announced that negotiations with the U.S. Postal Service fell apart at the last minute, preventing them from reaching a new agreement. The company was aiming to increase package volumes through this deal, which is crucial for its business growth. The failure of these talks could impact Amazon's logistics efficiency, potentially harming its customer service and market competitiveness."
         },
         {
           "rank": 4,
-          "title": "PwC Australia sets out next steps in company-wide AI upskilling drive",
-          "link": "https://finance.yahoo.com/news/pwc-australia-sets-next-steps-145136837.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-18 14:51 UTC",
-          "analysis_zh": "普华永道澳大利亚公司宣布将实施一项全公司的人工智能技能提升计划。这一举措旨在帮助员工适应快速变化的技术环境，提升他们在AI领域的专业能力。此计划的重要性在于，它不仅能增强公司的竞争力，还能提高员工的职业发展潜力，对整个行业的技能需求产生深远影响。",
-          "analysis_en": "PwC Australia has announced the implementation of a company-wide AI upskilling initiative. This move aims to help employees adapt to the rapidly changing technological landscape and enhance their expertise in the field of AI. The significance of this initiative lies in its potential to boost the company's competitiveness while also improving employees' career development prospects, which could have a profound impact on the skill demands across the entire industry."
+          "title": "TSX ends lower after after Fed expresses uncertainty over impact of oil shock",
+          "link": "https://www.investing.com/news/stock-market-news/tsx-futures-dip-amid-investor-caution-ahead-of-bank-of-canada-fed-decisions-4568516",
+          "source": "Stock Market News",
+          "published_utc": "2026-03-18 20:38 UTC",
+          "analysis_zh": "加拿大多伦多证券交易所（TSX）在美联储对油价冲击影响表示不确定后，收盘下跌。这一消息引发了市场对经济前景的担忧，投资者对未来的决策变得更加谨慎。油价波动可能会影响通货膨胀和消费者支出，从而对整体经济产生深远影响。",
+          "analysis_en": "The Toronto Stock Exchange (TSX) closed lower after the Federal Reserve expressed uncertainty regarding the impact of the oil shock. This news has raised concerns about the economic outlook, leading investors to become more cautious in their future decisions. Fluctuations in oil prices could affect inflation and consumer spending, potentially having a profound impact on the overall economy."
         },
         {
           "rank": 5,
-          "title": "Oil prices climb after Iran reports attacks on key oil and gas field and Trump issues waiver on Jones Act shipping law",
-          "link": "https://www.marketwatch.com/story/oil-prices-dip-after-iraq-resumes-oil-exports-via-pipeline-to-turkey-7e706930?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-03-18 14:50 UTC",
-          "analysis_zh": "近期，伊朗报告其关键的石油和天然气田遭到攻击，导致油价大幅上涨。尽管特朗普政府宣布将暂时豁免《琼斯法》，这一消息并未能抑制油价的上涨。此次事件表明中东地区的地缘政治紧张局势可能对全球能源市场产生深远影响，投资者需密切关注局势发展。",
-          "analysis_en": "Recently, oil prices surged following reports of attacks on key oil and gas fields in Iran. The announcement of a temporary waiver on the Jones Act by the Trump administration did not prevent this price increase. This incident highlights that geopolitical tensions in the Middle East could have significant repercussions on the global energy market, prompting investors to closely monitor the situation."
+          "title": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 1.64%",
+          "link": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-164-4569300",
+          "source": "Stock Market News",
+          "published_utc": "2026-03-18 20:35 UTC",
+          "analysis_zh": "美国股市在交易结束时普遍下跌，道琼斯工业平均指数下跌了1.64%。这一下跌反映了投资者对经济前景的担忧，尤其是在通货膨胀和利率上升的背景下。股市的波动可能会影响消费者信心和企业投资决策，从而对整体经济产生进一步的影响。",
+          "analysis_en": "U.S. stocks closed lower, with the Dow Jones Industrial Average down by 1.64%. This decline reflects investors' concerns about the economic outlook, particularly amid rising inflation and interest rates. The fluctuations in the stock market may affect consumer confidence and business investment decisions, potentially leading to further impacts on the overall economy."
         },
         {
           "rank": 6,
-          "title": "Have Amazon and Nvidia become value stocks? This metric says yes.",
-          "link": "https://www.marketwatch.com/story/have-amazon-and-nvidia-become-value-stocks-this-metric-says-yes-15fca6d9?mod=mw_rss_topstories",
+          "title": "Treasury market flashes sign of growing stagflation risks",
+          "link": "https://www.marketwatch.com/story/treasury-market-flashes-sign-of-growing-stagflation-risks-52bc33e0?mod=mw_rss_topstories",
           "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-03-18 14:48 UTC",
-          "analysis_zh": "亚马逊和英伟达是否已经成为价值股？这一问题引发了投资者的广泛关注。2026年，越来越多的投资者开始青睐价值股，这表明市场对这些公司的潜力有了新的认识。这一趋势可能会影响股市的整体走向，促使更多资金流入被低估的企业，从而改变投资策略。",
-          "analysis_en": "The question of whether Amazon and Nvidia have become value stocks has garnered significant attention from investors. In 2026, an increasing number of investors are showing a preference for value stocks, indicating a renewed recognition of the potential of these companies. This trend may influence the overall direction of the stock market, leading to more capital flowing into undervalued firms and potentially altering investment strategies."
+          "published_utc": "2026-03-18 20:33 UTC",
+          "analysis_zh": "美国国债市场出现了令人担忧的交易模式，这引发了对经济和通货膨胀的担忧。随着市场对滞涨风险的关注加剧，投资者可能会重新评估他们的投资策略。这种情况可能导致资金流向更安全的资产，从而影响整体市场的流动性和投资信心。",
+          "analysis_en": "A concerning trading pattern has emerged in the U.S. Treasury market, raising alarms about the economy and inflation. As worries about stagflation risks grow, investors may reconsider their investment strategies. This situation could lead to a shift of funds towards safer assets, potentially impacting overall market liquidity and investor confidence."
         },
         {
           "rank": 7,
-          "title": "EIG-backed LNG company MidOcean Energy raises $1.2bn in new funding",
-          "link": "https://finance.yahoo.com/news/eig-backed-lng-company-midocean-144748047.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-18 14:47 UTC",
-          "analysis_zh": "EIG支持的液化天然气公司MidOcean Energy成功融资12亿美元。这笔资金的获得将帮助公司扩大其在液化天然气市场的业务，尤其是在全球能源需求不断增长的背景下。此举不仅对MidOcean Energy的未来发展至关重要，也可能影响到液化天然气行业的竞争格局，吸引更多投资者关注这一领域。",
-          "analysis_en": "MidOcean Energy, backed by EIG, has successfully raised $1.2 billion in funding. This capital will enable the company to expand its operations in the liquefied natural gas market, particularly as global energy demand continues to rise. This development is crucial for MidOcean Energy's future and may also impact the competitive landscape of the LNG industry, drawing more investors' attention to this sector."
+          "title": "How China is getting everyone on OpenClaw, from gear heads to grandmas",
+          "link": "https://www.cnbc.com/2026/03/18/china-openclaw-baidu-tencent-ai.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-03-18 20:32 UTC",
+          "analysis_zh": "中国的ClawdBot使用量正在迅速增长，科技巨头们正在举办会议，帮助各类用户将这一人工智能数字助手添加到他们的设备上。这一趋势表明，人工智能技术正在逐渐融入日常生活，影响着从汽车爱好者到普通家庭的各个群体。随着越来越多的人开始使用这一技术，可能会推动相关产业的发展，并促使更多企业投入资源进行创新和研发。",
+          "analysis_en": "The usage of ClawdBot in China is rapidly increasing, with tech giants organizing meet-ups to assist various users in integrating this artificial intelligence digital assistant into their devices. This trend indicates that AI technology is becoming more embedded in daily life, affecting a wide range of groups from car enthusiasts to everyday families. As more people start using this technology, it could drive the growth of related industries and encourage more companies to invest resources in innovation and development."
         },
         {
           "rank": 8,
-          "title": "Trade Desk downgraded as Publicis dispute raises client, growth concerns",
-          "link": "https://www.investing.com/news/stock-market-news/trade-desk-downgraded-as-publicis-dispute-raises-client-growth-concerns-4568758",
+          "title": "Canada stocks lower at close of trade; S&P/TSX Composite down 1.87%",
+          "link": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-187-4569278",
           "source": "Stock Market News",
-          "published_utc": "2026-03-18 14:47 UTC",
-          "analysis_zh": "广告技术公司Trade Desk因与公共事务公司Publicis之间的争议而被下调评级。这一事件引发了市场对Trade Desk客户流失和未来增长的担忧。由于Publicis是Trade Desk的重要客户，这场争端可能会对公司的财务表现产生负面影响，进而影响其股价和投资者信心。",
-          "analysis_en": "The advertising technology company Trade Desk has been downgraded due to a dispute with the public relations firm Publicis. This situation has raised concerns in the market about potential client losses and future growth for Trade Desk. Given that Publicis is a significant client for Trade Desk, this dispute could negatively impact the company's financial performance, subsequently affecting its stock price and investor confidence."
+          "published_utc": "2026-03-18 20:30 UTC",
+          "analysis_zh": "加拿大股市在交易结束时出现下跌，S&P/TSX综合指数下跌了1.87%。这一趋势反映了市场对经济前景的担忧，尤其是在全球经济不确定性加剧的背景下。股市的下滑可能会影响投资者的信心，并导致资金流出股市，转向更安全的投资选择。",
+          "analysis_en": "Canadian stocks closed lower, with the S&P/TSX Composite down by 1.87%. This trend reflects growing concerns about the economic outlook, especially amid increasing global economic uncertainties. The decline in the stock market may affect investor confidence and lead to a shift of funds away from equities towards safer investment options."
         },
         {
           "rank": 9,
-          "title": "GQRE vs. VNQ: For These Real Estate ETFs, Is a Higher Yield Worth the Extra Cost?",
-          "link": "https://finance.yahoo.com/news/gqre-vs-vnq-real-estate-144631610.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-18 14:46 UTC",
-          "analysis_zh": "近期，GQRE和VNQ这两只房地产ETF的收益率引发了投资者的关注。尽管GQRE的收益率较高，但其费用也相对较高，这使得投资者在选择时需要权衡收益与成本之间的关系。这一比较不仅影响投资者的决策，还可能对房地产市场的资金流动产生影响。投资者在选择ETF时，需考虑自身的投资目标和风险承受能力，以做出更明智的投资决策。",
-          "analysis_en": "Recently, the yields of two real estate ETFs, GQRE and VNQ, have caught the attention of investors. While GQRE offers a higher yield, it also comes with relatively higher fees, prompting investors to weigh the trade-off between returns and costs. This comparison not only affects individual investment decisions but may also influence the flow of capital within the real estate market. Investors need to consider their own investment goals and risk tolerance when selecting an ETF to make more informed choices."
+          "title": "Memory chipmaker Micron’s revenue beats estimates on demand surge from AI boom",
+          "link": "https://www.investing.com/news/stock-market-news/micron-beats-quarterly-revenue-estimates-4569136",
+          "source": "Stock Market News",
+          "published_utc": "2026-03-18 20:30 UTC",
+          "analysis_zh": "内存芯片制造商美光（Micron）近日公布的财报显示，其收入超出市场预期，主要得益于人工智能热潮带来的需求激增。这一消息不仅反映了AI技术对半导体行业的强大推动力，也表明市场对高性能计算产品的需求持续上升。美光的表现可能会影响投资者对整个科技行业的信心，并促使其他芯片制造商加大在AI相关技术上的投入。",
+          "analysis_en": "Memory chipmaker Micron recently reported earnings that exceeded market expectations, driven by a surge in demand from the AI boom. This news highlights the significant impact of AI technology on the semiconductor industry and indicates a sustained increase in demand for high-performance computing products. Micron's strong performance may influence investor confidence in the broader tech sector and encourage other chip manufacturers to increase their investments in AI-related technologies."
         },
         {
           "rank": 10,
-          "title": "Applied Optoelectronics Rises 7% — NVIDIA’s AI Data Centers Can’t Get Enough of Its Lasers",
-          "link": "https://finance.yahoo.com/news/applied-optoelectronics-rises-7-nvidia-144610140.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-18 14:46 UTC",
-          "analysis_zh": "应用光电公司（Applied Optoelectronics）的股价上涨了7%，主要是因为NVIDIA的人工智能数据中心对其激光产品的需求激增。这一现象表明，随着人工智能技术的快速发展，相关硬件的需求也在不断增加。投资者对此反应积极，认为公司在未来有望获得更多订单，从而推动业绩增长。这不仅影响了应用光电公司的市场表现，也可能对整个激光行业产生积极的连锁反应。",
-          "analysis_en": "Applied Optoelectronics saw a 7% rise in its stock price, primarily due to the surging demand for its lasers from NVIDIA's AI data centers. This trend highlights the increasing need for related hardware as artificial intelligence technology advances rapidly. Investors are responding positively, believing that the company is likely to secure more orders in the future, which could drive its performance growth. This not only impacts Applied Optoelectronics' market performance but may also have a positive ripple effect on the entire laser industry."
+          "title": "Brazil stocks lower at close of trade; Bovespa down 0.43%",
+          "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-043-4569270",
+          "source": "Stock Market News",
+          "published_utc": "2026-03-18 20:30 UTC",
+          "analysis_zh": "巴西股市在交易结束时下跌，Bovespa指数下滑了0.43%。这一走势反映了市场对经济前景的不确定性，投资者可能对未来的政策变化感到担忧。股市的下跌可能会影响投资者的信心，进而影响到企业的融资和经济增长。",
+          "analysis_en": "Brazilian stocks closed lower, with the Bovespa index dropping by 0.43%. This decline reflects market uncertainty regarding the economic outlook, as investors may be concerned about potential policy changes. The downturn in the stock market could affect investor confidence, which in turn may impact corporate financing and economic growth."
         }
       ]
     },
@@ -110,75 +110,75 @@
       "items": [
         {
           "rank": 1,
+          "title": "F.D.A. Investigates 7 E. Coli Illnesses as Raw Dairy Farm Denies Any Link",
+          "link": "https://www.nytimes.com/2026/03/18/us/fda-e-coli-raw-milk-cheese-california.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-03-18 18:57 UTC",
+          "analysis_zh": "美国食品药品监督管理局（F.D.A.）正在调查与生奶相关的七起大肠杆菌感染病例，这些病例发生在加利福尼亚州、德克萨斯州和佛罗里达州。尽管F.D.A.表示，来自Raw Farm的切达奶酪产品可能是感染源，但该公司否认这一说法，并未召回相关产品。这一事件引发了公众对生奶制品安全性的关注，可能会影响消费者对生奶产品的信任和购买决策。",
+          "analysis_en": "The U.S. Food and Drug Administration (F.D.A.) is investigating seven cases of E. coli infections linked to raw dairy products in California, Texas, and Florida. The agency indicated that Cheddar cheese products from Raw Farm are likely the source of the outbreak, but the company denies this claim and has not issued a recall. This situation raises public concern about the safety of raw dairy products and may affect consumer trust and purchasing decisions regarding these items."
+        },
+        {
+          "rank": 2,
+          "title": "Confidential Report Calls for Sweeping Changes to Track Covid Vaccine Harms",
+          "link": "https://www.nytimes.com/2026/03/15/health/covid-vaccine-side-effects-cdc-acip.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-03-18 18:17 UTC",
+          "analysis_zh": "一份联邦工作组的机密报告指出，COVID疫苗造成的伤害需要引起紧急关注。这一发现尤其重要，因为卫生部长罗伯特·F·肯尼迪（Robert F. Kennedy Jr.）正在逐渐减少对疫苗政策的讨论。这可能会影响公众对疫苗安全性的信任，并促使政府采取更多措施来监测和应对疫苗相关的健康问题。",
+          "analysis_en": "A confidential report from a federal work group highlights the urgent need to address injuries caused by COVID vaccines. This is significant as Health Secretary Robert F. Kennedy Jr. is moving away from discussions on vaccine policy. The findings may impact public trust in vaccine safety and could lead the government to implement more measures to monitor and address health issues related to vaccines."
+        },
+        {
+          "rank": 3,
           "title": "Women Who Undergo Menopause Before 40 Face Higher Heart Attack Risk",
           "link": "https://www.nytimes.com/2026/03/18/health/menopause-heart-disease-risk-jama.html",
           "source": "NYT > Health",
           "published_utc": "2026-03-18 15:00 UTC",
-          "analysis_zh": "一项新的研究发现，经历早发性更年期的女性在一生中面临着40%的心脏病发作风险增加，包括致命和非致命的心脏病发作。这一发现引起了广泛关注，因为早发性更年期通常发生在40岁之前，可能会影响女性的长期健康。了解这一风险有助于医生和患者采取预防措施，改善心脏健康。",
-          "analysis_en": "A new study has found that women who experience premature menopause face a 40% increased risk of both fatal and non-fatal heart attacks over their lifetime. This finding is significant as premature menopause typically occurs before the age of 40, potentially impacting women's long-term health. Understanding this risk can help both doctors and patients take preventive measures to improve heart health."
+          "analysis_zh": "一项新研究发现，经历早发性更年期的女性在一生中面临40%的心脏病发作风险增加，包括致命和非致命的心脏病发作。这一发现引起关注，因为早发性更年期通常在40岁之前发生，可能与多种健康因素相关。了解这一风险有助于医生和患者采取预防措施，从而改善女性的心脏健康。",
+          "analysis_en": "A new study has found that women who experience premature menopause face a 40% increased risk of both fatal and non-fatal heart attacks throughout their lives. This finding is significant as premature menopause typically occurs before the age of 40 and may be linked to various health factors. Understanding this risk can help doctors and patients take preventive measures, ultimately improving women's heart health."
         },
         {
-          "rank": 2,
+          "rank": 4,
           "title": "Your daily coffee may be protecting your brain, 43-year study finds",
           "link": "https://www.sciencedaily.com/releases/2026/03/260318033138.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-18 10:47 UTC",
-          "analysis_zh": "一项长达43年的研究发现，适量饮用咖啡或茶可能有助于保护大脑健康。研究显示，适度摄入含咖啡因的咖啡（每天2-3杯）或茶（每天1-2杯）与降低18%的痴呆风险以及认知能力的改善相关。这一发现尤其重要，因为它为痴呆症的预防提供了新的饮食干预思路，尤其是对于那些有遗传倾向的人群。随着人口老龄化，了解如何通过日常饮食来维护认知功能将变得愈加重要。",
-          "analysis_en": "A 43-year study has found that moderate consumption of coffee or tea may help protect brain health. The research indicates that drinking 2-3 cups of caffeinated coffee or 1-2 cups of tea daily is associated with an 18% lower risk of dementia and improved cognitive performance. This finding is significant as it offers a new dietary intervention for dementia prevention, particularly for individuals genetically predisposed to the condition. As the population ages, understanding how daily dietary choices can support cognitive function will become increasingly important."
+          "analysis_zh": "一项为期43年的研究发现，适量饮用咖啡或茶可能有助于保护大脑健康。研究显示，适度摄入含咖啡因的咖啡（每天2-3杯）或茶（每天1-2杯）与降低18%的痴呆风险以及更好的认知表现相关。这一发现对于那些有遗传倾向的人群同样适用，表明咖啡和茶的益处可能具有广泛的适用性。随着全球老龄化加剧，寻找有效的痴呆预防措施显得尤为重要。",
+          "analysis_en": "A 43-year study has found that moderate consumption of coffee or tea may help protect brain health. The research indicates that drinking 2-3 cups of caffeinated coffee or 1-2 cups of tea daily is linked to an 18% lower risk of dementia and improved cognitive performance. This benefit also applies to individuals genetically predisposed to dementia, suggesting that the positive effects of coffee and tea consumption could be widely applicable. As the global population ages, finding effective strategies for dementia prevention is increasingly crucial."
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "He survived 48 hours without lungs and lived",
           "link": "https://www.sciencedaily.com/releases/2026/03/260317064507.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-18 08:15 UTC",
-          "analysis_zh": "一名33岁的重症患者在没有肺的情况下存活了48小时，这一几乎不可思议的事件得益于一种突破性的外科手术方法。在严重流感引发的感染摧毁了他的肺部并导致多脏器衰竭后，医生们不得不完全切除他的肺，以阻止感染的扩散。随后，他们使用了一种特别设计的“人工肺”系统为他的血液提供氧气，维持身体功能，直到他能够接受双肺移植。这一案例不仅展示了新技术的潜力，也为重症患者在等待器官捐献时提供了新的生存希望。",
-          "analysis_en": "A critically ill 33-year-old man survived an almost unimaginable situation—living for 48 hours without lungs—thanks to a groundbreaking surgical technique. After a severe flu-induced infection destroyed his lungs and led to multiple organ failure, doctors had to remove both lungs entirely to stop the spread of the infection. They then utilized a specially engineered \"artificial lung\" system to oxygenate his blood and maintain his bodily functions until he could undergo a double lung transplant. This case not only highlights the potential of new medical technologies but also offers hope for critically ill patients awaiting organ donations."
+          "analysis_zh": "一名33岁重症患者在经历了几乎无法想象的情况后，成功在没有肺部的情况下生存了48小时。这一奇迹归功于一种突破性的外科手术方法。在严重流感引发的感染摧毁了他的肺部并导致多脏器衰竭后，医生们决定完全切除他的双肺，以阻止感染的扩散。随后，他们使用了一种特别设计的“人工肺”系统为他的血液提供氧气，确保他的身体在稳定过程中能够正常运作。这一案例不仅展示了医疗技术的进步，也为等待器官移植的重症患者提供了新的生存希望。",
+          "analysis_en": "A 33-year-old critically ill patient managed to survive an almost unimaginable situation—living for 48 hours without lungs—thanks to a groundbreaking surgical technique. After a severe flu-induced infection destroyed his lungs and led to multiple organ failure, doctors opted to completely remove both lungs to halt the spread of infection. They then employed a specially engineered \"artificial lung\" system to oxygenate his blood, allowing his body to function while he stabilized. This case not only highlights advancements in medical technology but also offers new hope for critically ill patients awaiting organ transplants."
         },
         {
-          "rank": 4,
+          "rank": 6,
+          "title": "How TrumpRx Drug Prices Compare With Those in Other Countries",
+          "link": "https://www.nytimes.com/2026/03/18/world/europe/trumprx-drug-prices-really-cheapest-world-comparison.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-03-18 04:01 UTC",
+          "analysis_zh": "特朗普药品价格网站声称提供药物的最佳价格。然而，数据显示美国人在某些药物上的花费仍然高于其他国家，甚至差距显著。这一现象引发了对美国医疗体系的广泛关注，特别是在药品定价透明度和可负担性方面。若不采取措施，可能会加剧民众对医疗费用的担忧，并影响未来的政策制定。",
+          "analysis_en": "The TrumpRx website claims to offer the best prices for medications. However, data shows that Americans still pay more for certain drugs compared to other countries, with some differences being quite significant. This situation has sparked widespread concern about the U.S. healthcare system, particularly regarding drug pricing transparency and affordability. If no action is taken, it could exacerbate public anxiety over healthcare costs and influence future policy decisions."
+        },
+        {
+          "rank": 7,
           "title": "Scientists link childhood stress to lifelong digestive issues",
           "link": "https://www.sciencedaily.com/releases/2026/03/260317064444.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-18 02:08 UTC",
-          "analysis_zh": "一项新的研究表明，儿童时期的压力可能会导致长期的消化问题，这主要是通过干扰肠脑连接来实现的。研究发现，早期生活中的压力与疼痛、便秘和肠易激综合症等症状有关。这项研究的重要性在于，它揭示了儿童早期环境对身体的持久影响，超越了情感层面的影响。此外，科学家们发现不同的生物途径控制着不同的肠道问题，这为未来个性化治疗提供了新的可能性。",
-          "analysis_en": "A new study suggests that stress experienced during childhood may lead to long-term digestive issues by disrupting the gut-brain connection. Researchers found that early life stress is linked to symptoms such as pain, constipation, and irritable bowel syndrome. This research is significant as it highlights the lasting physical effects of a child's early environment, extending beyond emotional impacts. Furthermore, scientists discovered that different biological pathways control various gut issues, indicating potential for more personalized treatments in the future."
+          "analysis_zh": "科学家发现，儿童时期的压力可能导致终生的消化问题，这一研究揭示了早期生活压力如何影响肠道与大脑之间的联系。研究表明，经历情感忽视等逆境的儿童，可能在未来面临腹痛、便秘和肠易激综合症等症状。这项发现的重要性在于，它强调了儿童早期环境对身体健康的长期影响，可能为个性化治疗提供新的思路。",
+          "analysis_en": "Scientists have found that stress during childhood may lead to lifelong digestive issues, revealing how early life stress affects the gut-brain connection. Research indicates that children who experience emotional neglect and other adversities may later face symptoms such as abdominal pain, constipation, and irritable bowel syndrome. The significance of this finding lies in its emphasis on the lasting physical effects of a child's early environment, potentially paving the way for more personalized treatments in the future."
         },
         {
-          "rank": 5,
+          "rank": 8,
           "title": "Ruling on RFK Jr.’s Vaccine Policy Changes Leaves Health Groups Scrambling",
           "link": "https://www.nytimes.com/2026/03/17/health/rfk-jr-vaccine-policy-lawsuit-court-ruling.html",
           "source": "NYT > Health",
           "published_utc": "2026-03-17 21:44 UTC",
-          "analysis_zh": "美国联邦法院对罗伯特·F·肯尼迪 Jr.的疫苗政策裁决引发了医疗组织的广泛关注。六个医疗机构提起的诉讼使得各方律师正在努力理解这一裁决的影响。这一决定可能会改变疫苗政策的实施方式，进而影响公众对疫苗的信任和接种率。健康组织需要迅速调整策略，以应对可能出现的政策变化。",
-          "analysis_en": "A federal court ruling on Robert F. Kennedy Jr.'s vaccine policy has sparked significant concern among health organizations. Lawyers for the six medical groups involved in the lawsuit are working to understand the implications of the judge's decision. This ruling could alter the way vaccine policies are implemented, potentially affecting public trust in vaccines and vaccination rates. Health organizations will need to quickly adapt their strategies to respond to any changes in policy."
-        },
-        {
-          "rank": 6,
-          "title": "An ‘Unprecedented’ Outbreak of Meningitis Raises Alarm in Britain",
-          "link": "https://www.nytimes.com/2026/03/17/world/europe/meningitis-b-outbreak-kent-uk.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-03-17 19:22 UTC",
-          "analysis_zh": "英国近期爆发了一起前所未有的脑膜炎疫情，导致两人不幸去世。此次疫情的许多病例与肯特大学附近一家受学生欢迎的夜总会有关。这一事件引发了公众的广泛关注，因为脑膜炎是一种严重的传染病，可能对年轻人造成严重威胁。政府和卫生部门正在加强监测和防控措施，以防止疫情进一步扩散。",
-          "analysis_en": "An unprecedented outbreak of meningococcal disease in Britain has resulted in the deaths of two individuals. Many of the cases have been linked to a popular nightclub near the University of Kent, frequented by students. This situation has raised significant public concern, as meningitis is a serious infectious disease that poses a severe risk to young people. Authorities are ramping up monitoring and preventive measures to curb the further spread of the outbreak."
-        },
-        {
-          "rank": 7,
-          "title": "‘How Low Can You Go?’ The Shifting Guidelines for Blood Pressure Control",
-          "link": "https://www.nytimes.com/2026/03/14/health/blood-pressure-guidelines-hypertension-dementia.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-03-17 17:44 UTC",
-          "analysis_zh": "最近，医生们用来界定高血压的标准不断降低，这一趋势得到了许多专家的赞赏。研究表明，高血压与痴呆症之间存在关联，因此更低的血压标准可能有助于减少相关疾病的风险。这一变化可能会影响更多人被诊断为高血压，从而促使他们采取预防措施，改善整体健康。",
-          "analysis_en": "Recently, the standards used by doctors to define hypertension have been lowered, a trend that many experts applaud. Studies have shown a link between high blood pressure and dementia, suggesting that lower blood pressure thresholds could help reduce the risk of related diseases. This change may lead to more individuals being diagnosed with hypertension, encouraging them to take preventive measures and improve their overall health."
-        },
-        {
-          "rank": 8,
-          "title": "When Teens Are Pressured to Send Sexual Images",
-          "link": "https://www.nytimes.com/2026/03/17/well/family/teen-sextortion-sexting-nude-images.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-03-17 16:35 UTC",
-          "analysis_zh": "一项研究显示，青少年在面对伴侣的压力时，更倾向于分享性照片，尤其是在经历了多次请求后。这一现象引发了对青少年心理健康和人际关系的关注，因为这种行为可能导致情感伤害和隐私问题。了解这一趋势的重要性在于，它可能影响青少年的自我认同和未来的社交行为。",
-          "analysis_en": "A study reveals that adolescents are more likely to share sexual images when pressured by a dating partner, particularly after repeated requests. This trend raises concerns about the mental health and interpersonal relationships of teenagers, as such behavior can lead to emotional harm and privacy issues. Understanding this phenomenon is crucial, as it may impact adolescents' self-identity and future social interactions."
+          "analysis_zh": "美国联邦法院对罗伯特·F·肯尼迪 Jr.（RFK Jr.）的疫苗政策裁决引发了医疗组织的广泛关注。六个医疗机构提起的诉讼使得各方律师正在努力理解这一裁决的影响。这一决定可能会改变疫苗政策的实施方式，进而影响公共卫生和疫苗接种率。各健康组织面临着重新评估其疫苗推广策略的压力，以应对可能的政策变化。",
+          "analysis_en": "A federal court ruling on Robert F. Kennedy Jr.'s vaccine policy has sparked significant concern among health organizations. Lawyers from both sides of the lawsuit, brought by six medical groups, are trying to grasp the implications of the judge's decision. This ruling could alter the implementation of vaccine policies, potentially affecting public health and vaccination rates. Health organizations are under pressure to reassess their vaccination promotion strategies in light of possible policy changes."
         }
       ]
     },
@@ -192,8 +192,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/03/260318033138.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-03-18 10:47 UTC",
-          "analysis_zh": "一项长达43年的研究发现，适量饮用咖啡或茶可能有助于保护大脑健康。研究显示，适度摄入含咖啡因的咖啡（每天2-3杯）或茶（每天1-2杯）与降低18%的痴呆风险以及更好的认知表现相关。这一发现尤其重要，因为它为痴呆症的预防提供了新的饮食干预思路，尤其是对于那些有遗传倾向的人群。虽然研究结果令人鼓舞，但研究者也提醒，保护认知功能的方式还有很多，咖啡或茶的消费只是其中之一。",
-          "analysis_en": "A 43-year study has found that moderate consumption of coffee or tea may help protect brain health. The research indicates that drinking 2-3 cups of caffeinated coffee or 1-2 cups of tea daily is associated with an 18% lower risk of dementia and improved cognitive performance. This finding is significant as it offers a new dietary intervention approach for dementia prevention, particularly for individuals genetically predisposed to the condition. While the results are promising, researchers caution that there are many ways to protect cognitive function, and coffee or tea consumption is just one piece of the puzzle."
+          "analysis_zh": "一项长达43年的研究发现，适量饮用咖啡或茶可能有助于保护大脑健康。研究显示，适量的咖啡（每天2-3杯）或茶（每天1-2杯）与降低18%的痴呆风险和改善认知表现相关。这一发现尤其重要，因为它为痴呆症的预防提供了新的饮食干预思路，尤其是对于那些有遗传倾向的人群。随着人口老龄化，寻找有效的预防措施将变得愈发重要。",
+          "analysis_en": "A 43-year-long study has found that moderate consumption of coffee or tea may help protect brain health. The research indicates that drinking 2-3 cups of coffee or 1-2 cups of tea daily is associated with an 18% lower risk of dementia and improved cognitive performance. This finding is particularly significant as it offers a new dietary intervention for dementia prevention, especially for those genetically predisposed to the condition. As the population ages, identifying effective preventive measures will become increasingly crucial."
         },
         {
           "rank": 2,
@@ -201,8 +201,8 @@
           "link": "https://aeon.co/videos/could-one-road-forever-change-this-remote-alaskan-refuge?utm_source=rss-feed",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-03-18 10:01 UTC",
-          "analysis_zh": "一位摄影师在一个受到开发威胁的保护区内捕捉到了真正荒野的珍贵画面。这一作品不仅展现了自然的原始美，也引发了人们对环境保护的关注。随着城市化进程的加快，这样的自然栖息地正面临消失的风险，保护这些区域显得尤为重要。此举可能会激发公众对生态保护的意识，推动更多人参与到保护行动中来。",
-          "analysis_en": "A photographer has captured a rare glimpse of true wilderness in a refuge that is threatened by development. This work not only showcases the raw beauty of nature but also raises awareness about environmental conservation. As urbanization accelerates, such natural habitats are at risk of disappearing, making their protection increasingly vital. This could inspire public awareness of ecological preservation and encourage more people to engage in conservation efforts."
+          "analysis_zh": "一位摄影师在一个受到开发威胁的保护区内捕捉到了真正荒野的稀有景象。这一作品不仅展示了自然的原始美，也引发了人们对环境保护的关注。随着城市化进程的加快，许多自然栖息地面临消失的风险，因此保护这些珍贵的生态系统显得尤为重要。这项摄影作品可能会激励更多人参与到保护自然的行动中来。",
+          "analysis_en": "A photographer has captured a rare glimpse of true wilderness in a refuge that is under threat from development. This work not only showcases the raw beauty of nature but also raises awareness about the importance of environmental conservation. As urbanization accelerates, many natural habitats are at risk of disappearing, making the protection of these precious ecosystems crucial. This photographic piece may inspire more people to engage in conservation efforts."
         },
         {
           "rank": 3,
@@ -210,8 +210,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/03/260317064444.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-03-18 02:08 UTC",
-          "analysis_zh": "研究表明，儿童时期的压力可能会导致终生的消化问题，这一发现引起了广泛关注。科学家们发现，早期生活中的压力会破坏肠脑连接，从而增加患上腹痛、便秘和肠易激综合症等症状的风险。这项研究强调了儿童早期环境对身体健康的长期影响，不仅限于情感层面。了解这些机制将有助于开发更具针对性的治疗方案，改善受影响儿童的生活质量。",
-          "analysis_en": "Research indicates that stress experienced during childhood may lead to lifelong digestive issues, a finding that has garnered significant attention. Scientists discovered that early life stress disrupts the gut-brain connection, increasing the risk of symptoms such as abdominal pain, constipation, and irritable bowel syndrome. This study highlights the long-term physical impacts of a child's early environment, extending beyond emotional effects. Understanding these mechanisms could aid in developing more targeted treatments, ultimately improving the quality of life for affected children."
+          "analysis_zh": "研究表明，儿童时期的压力可能会导致终生的消化问题，这一发现揭示了肠道与大脑之间的联系受到干扰。通过对小鼠和数千名儿童的研究，科学家发现这些压力与腹痛、便秘和肠易激综合症等症状相关。不同的生物途径控制着不同的肠道问题，这为未来个性化治疗提供了希望。这项研究强调了儿童早期环境对身体健康的长期影响，不仅仅是情感方面的影响。",
+          "analysis_en": "Research indicates that stress experienced during childhood may lead to lifelong digestive issues, highlighting the disruption of the gut-brain connection. Studies conducted on both mice and thousands of children found associations with symptoms such as abdominal pain, constipation, and irritable bowel syndrome. Different biological pathways control various gut issues, suggesting potential for more personalized treatments in the future. This research underscores the lasting physical effects of a child's early environment, extending beyond just emotional impacts."
         }
       ]
     },
@@ -221,93 +221,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Philips new audio gear brings back the bright bold colors of the ‘80s",
-          "link": "https://www.theverge.com/tech/896593/philips-moving-sound-bluetooth-speaker-wireless-headphones-earbuds",
+          "title": "Amazon doesn’t want the blame for the Post Office going under",
+          "link": "https://www.theverge.com/tech/897114/amazon-usps-contract-money-running-out",
           "source": "The Verge",
-          "published_utc": "2026-03-18 15:04 UTC",
-          "analysis_zh": "飞利浦最近推出了一系列新的音频设备，灵感来源于1980年代的设计风格，特别是鲜艳的颜色。这一系列名为“移动声音”的产品，旨在庆祝公司成立100周年，并结合了现代技术，如蓝牙和可充电电池。这一复古风格的回归不仅吸引了怀旧的消费者，也可能影响音频设备市场的设计趋势，促使其他品牌重新考虑其产品的外观和功能。",
-          "analysis_en": "Philips has recently launched a new line of audio devices inspired by the vibrant designs of the 1980s, featuring bold colors. This collection, called \"Moving Sound,\" celebrates the company's 100th anniversary and incorporates modern technology such as Bluetooth and rechargeable batteries. The return of this retro style not only appeals to nostalgic consumers but may also influence design trends in the audio market, prompting other brands to rethink the aesthetics and functionality of their products."
+          "published_utc": "2026-03-18 20:55 UTC",
+          "analysis_zh": "亚马逊近日在《华尔街日报》的一则报道后采取了防御态度，报道称该电商巨头计划大幅削减与美国邮政服务局（USPS）的货物运输。USPS本周表示其资金即将耗尽，亚马逊在周三发布的声明中表示并不希望减少与USPS的合作，并指责USPS在谈判中“突然中断”。这一事件引发关注，因为亚马逊计划在秋季之前将通过USPS发送的包裹数量削减至少三分之二，这可能会对邮政服务的财务状况产生重大影响。",
+          "analysis_en": "Amazon has taken a defensive stance following a report from The Wall Street Journal that revealed the e-commerce giant plans to significantly reduce shipments with the United States Postal Service (USPS), which recently announced it is running out of funds. In a lengthy statement released on Wednesday, Amazon expressed that it did not wish to cut back on shipments and accused USPS of \"abruptly walking away\" from negotiations. This situation is concerning as Amazon intends to cut the number of packages sent through USPS by at least two-thirds by this fall, which could have a substantial impact on the financial health of the postal service."
         },
         {
           "rank": 2,
-          "title": "Oh, you think the government will regulate Kalshi and Polymarket? Wanna bet?",
-          "link": "https://www.theverge.com/business/896517/kalshi-cftc-insider-trading-polymarket",
+          "title": "Congress considers blowing up internet law",
+          "link": "https://www.theverge.com/policy/897106/section-230-reform-hearing-jawboning-social-media",
           "source": "The Verge",
-          "published_utc": "2026-03-18 14:30 UTC",
-          "analysis_zh": "美国商品期货交易委员会（CFTC）面临着一个棘手的问题：它在监管内幕交易方面的能力有限。内幕交易已成为预测市场中的一个重要问题，尤其是在Kalshi和Polymarket等平台上。最近，Kalshi对一名政治家和YouTube网红MrBeast的员工处以罚款，这些罚款实际上是其内部自我监管的结果。这一情况引发了对CFTC监管能力的质疑，可能会影响未来对预测市场的监管政策。",
-          "analysis_en": "The Commodity Futures Trading Commission (CFTC) is facing a significant issue: it struggles with effectively policing insider trading. This has become a pressing concern in prediction markets, particularly on platforms like Kalshi and Polymarket. Recently, Kalshi imposed fines on a politician and an employee of YouTube influencer MrBeast, which were essentially a result of its internal self-policing. This situation raises questions about the CFTC's regulatory capabilities and may influence future policies regarding the oversight of prediction markets."
+          "published_utc": "2026-03-18 20:54 UTC",
+          "analysis_zh": "美国国会在参议院商务委员会的听证会上再次讨论了互联网平台的责任保护法——第230条款。此次讨论的背景是法律范围面临前所未有的法律挑战，以及对政府审查的两党关注加剧。许多参议员认为，现行法律不应被视为不可触碰的“神圣法则”，并提出了全面废除或缩小其适用范围的提案。这一讨论的重要性在于，第230条款是社交媒体和在线论坛的基础，任何变动都可能对互联网内容的管理和言论自由产生深远影响。",
+          "analysis_en": "The U.S. Congress discussed the liability protection for internet platforms, known as Section 230, during a Senate Commerce Committee hearing. This discussion was complicated by unprecedented legal challenges to the law's scope and increased bipartisan concerns about government censorship. Many senators argued that the current law should not be viewed as an untouchable \"sacred rule,\" proposing either a complete repeal or a narrowing of its application. The significance of this discussion lies in the fact that Section 230 is foundational to social media and online forums, and any changes could have profound implications for content management and freedom of speech on the internet."
         },
         {
           "rank": 3,
-          "title": "The hits keep coming in Spider-Man: Brand New Day’s first trailer",
-          "link": "https://www.theverge.com/entertainment/896564/spider-man-brand-new-day-trailer",
+          "title": "Hoto’s powerful PixelDrive electric screwdriver is 25 percent off",
+          "link": "https://www.theverge.com/gadgets/897056/hoto-pixeldrive-electric-screwdriver-amazon-big-spring-sale-deal",
           "source": "The Verge",
-          "published_utc": "2026-03-18 13:37 UTC",
-          "analysis_zh": "《蜘蛛侠：全新一天》的首个预告片终于发布，似乎漫威和索尼将让彼得·帕克经历一种不同的存在危机。在预告片中，没有人知道彼得是谁，也不知道他是那个拯救人们的蜘蛛侠。尽管彼得似乎已经接受了作为秘密犯罪斗士的新生活，但他失去的记忆让他的生活变得孤独，并且似乎影响了他的能力。预告片暗示，彼得的DNA可能正在以意想不到的方式突变，这可能预示着电影将与漫威的《X战警》角色有所关联。",
-          "analysis_en": "The first trailer for \"Spider-Man: Brand New Day\" has finally been released, indicating that Marvel and Sony are putting Peter Parker through a different kind of existential crisis. In the trailer, no one knows who Peter is or that he is the one saving people as Spider-Man. Although Peter seems to have come to terms with his new life as a secret crimefighter, the loss of his memories has left him feeling lonely, which appears to be affecting his powers. The trailer suggests that Peter's DNA may be mutating in unexpected ways, hinting at a possible connection to Marvel's X-Men characters when the film hits theaters."
+          "published_utc": "2026-03-18 20:10 UTC",
+          "analysis_zh": "Hoto推出了一款强大的PixelDrive电动螺丝刀，目前正以25%的折扣出售。这款电动螺丝刀具备六个扭矩级别和两种速度选项，适合不同的使用需求。相比于基础款，PixelDrive提供了更多的配件和更大的电池容量，能够满足更高的使用要求。这一优惠不仅吸引了DIY爱好者，也可能影响市场上其他电动工具的定价策略。",
+          "analysis_en": "Hoto has launched its powerful PixelDrive electric screwdriver, now available at a 25% discount. This model features six torque levels and two speed options, catering to various user needs. Compared to the basic version, the PixelDrive offers more accessories and a larger battery capacity, making it suitable for more demanding tasks. This promotion is likely to attract DIY enthusiasts and could influence the pricing strategies of other electric tools in the market."
         },
         {
           "rank": 4,
-          "title": "The great EV pullback: all the obstacles, cancellations, and delays",
-          "link": "https://www.theverge.com/transportation/896559/ev-cancellation-delay-hybrid-china",
+          "title": "The best deals on MacBooks right now",
+          "link": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
           "source": "The Verge",
-          "published_utc": "2026-03-18 13:00 UTC",
-          "analysis_zh": "汽车行业曾对电动车寄予厚望，但如今这些雄心勃勃的目标正面临崩溃。随着需求放缓以及特朗普政府削减支持电动车的政策，行业的前景变得更加黯淡。关税的影响也在加剧，使得美国和欧洲的汽车制造商在电动车投资上遭受重大损失，迫使他们重新调整车型策略。混合动力车成为新的选择，而电动车的未来在美国似乎更加遥远。相比之下，中国在电动车的发展上继续领先，可能会在未来的市场中占据主导地位。",
-          "analysis_en": "The auto industry had high hopes for electric vehicles, but those ambitious goals are now falling apart. Demand has been slowing down, and the Trump administration's cuts to pro-EV policies have darkened the industry's outlook. Tariffs have also taken a toll, leading U.S. and European automakers to suffer significant losses on their EV investments, forcing them to readjust their model strategies. Hybrids are becoming the new focus, making the future of EVs in the U.S. seem more distant than ever. In contrast, China continues to lead in EV development and is poised to dominate the market in the future."
+          "published_utc": "2026-03-18 19:35 UTC",
+          "analysis_zh": "2026年，苹果公司推出了新款MacBook，除了配备强大的M系列处理器外，还首次在MacBook中使用了之前仅限于iPhone的A系列芯片。新款MacBook Neo的起售价为599美元，苹果提供了更多尺寸和价格的选择，满足不同用户的需求。这一变化不仅使得MacBook更加亲民，也可能吸引更多预算有限的消费者，进一步扩大苹果在笔记本市场的份额。",
+          "analysis_en": "In 2026, Apple has released new MacBooks that not only feature its powerful M-series processors but also incorporate A-series chips that were previously exclusive to the iPhone. With the MacBook Neo starting at $599, Apple now offers a wider variety of sizes and price points, catering to different user needs. This shift not only makes MacBooks more accessible but may also attract budget-conscious consumers, potentially expanding Apple's market share in the laptop segment."
         },
         {
           "rank": 5,
-          "title": "How to Follow the Game, Even When You Can’t See It Live",
-          "link": "https://www.nytimes.com/2026/03/18/technology/personaltech/how-to-follow-the-game-even-when-you-cant-see-it-live.html",
+          "title": "Silicon Valley Musters Behind-the-Scenes Support for Anthropic",
+          "link": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-anthropic-pentagon.html",
           "source": "NYT > Technology",
-          "published_utc": "2026-03-18 13:00 UTC",
-          "analysis_zh": "当你因为其他安排无法观看比赛时，可以通过一些免费的应用程序来实时获取比分和相关信息。这些应用程序能够在你忙碌时悄悄地将最新动态推送到你的手机上。这一技术的出现让球迷们即使在无法观看比赛的情况下，也能及时了解比赛进程，增强了他们与球队的联系。这种便利性可能会吸引更多人关注体育赛事，进而影响赛事的收视率和球迷的参与度。",
-          "analysis_en": "When previous commitments prevent you from watching a game, free apps can help you stay updated with scores and other information in real time. These apps quietly deliver the latest updates to your phone, allowing fans to keep track of the game even when they can't watch it live. This technology enhances the connection between fans and their teams, potentially attracting more people to sports events and impacting viewership and fan engagement."
+          "published_utc": "2026-03-18 19:17 UTC",
+          "analysis_zh": "硅谷的科技公司在与特朗普政府官员的合同争端中，表现出对人工智能初创公司Anthropic的支持，但并未直接对抗。这种支持的重要性在于，科技行业在政策制定中扮演着越来越关键的角色，尤其是在人工智能领域。随着对AI技术的关注不断增加，这种幕后支持可能会影响未来的政策走向和行业发展。",
+          "analysis_en": "Silicon Valley tech companies have shown support for the AI startup Anthropic amid a contract dispute with Trump administration officials, but they have been reluctant to confront them directly. This support is significant because the tech industry plays an increasingly crucial role in policy-making, especially in the realm of artificial intelligence. As attention on AI technology continues to grow, this behind-the-scenes backing could influence future policy directions and industry developments."
         },
         {
           "rank": 6,
-          "title": "Nvidia has lost the plot with gamers",
-          "link": "https://www.theverge.com/games/895753/nvidia-dlss-5-slop-face-fake-frames",
+          "title": "David Sacks’ big Iran warning gets big time ignored",
+          "link": "https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket",
           "source": "The Verge",
-          "published_utc": "2026-03-18 13:00 UTC",
-          "analysis_zh": "Nvidia最近推出了DLSS 5技术，试图通过“升级”游戏角色的面孔来吸引玩家，但这一举动却引发了广泛的争议。许多玩家认为，这样的改动不仅没有提升游戏体验，反而让他们钟爱的角色显得不自然。Nvidia本可以将这项技术作为提升未来游戏画质的工具，但却选择了让已有的游戏角色“重塑”，这让公司失去了对玩家需求的理解。此举可能会影响Nvidia在游戏市场的声誉，甚至导致玩家对其未来产品的信任度下降。",
-          "analysis_en": "Nvidia recently launched its DLSS 5 technology, aiming to attract gamers by \"upgrading\" the faces of beloved game characters, but this move has sparked widespread controversy. Many players feel that these changes not only fail to enhance the gaming experience but also make their favorite characters appear unnatural. Nvidia could have marketed this technology as a tool for improving the graphics of future games, but instead, it chose to \"reimagine\" existing characters, indicating a disconnect with player expectations. This approach may affect Nvidia's reputation in the gaming market and could lead to a decline in player trust in its future products."
+          "published_utc": "2026-03-18 18:44 UTC",
+          "analysis_zh": "大卫·萨克斯对伊朗的警告被广泛忽视，这一事件引发了人们对人工智能在战争中的作用的关注。尽管人工智能在技术领域的重要性日益增加，但在当前与伊朗的紧张局势中，它并未成为优先考虑的问题。这种忽视可能会影响美国在中东的战略决策，并加剧与盟友的关系紧张。",
+          "analysis_en": "David Sacks' warning about Iran has been largely ignored, raising concerns about the role of artificial intelligence in warfare. Despite the growing importance of AI in the tech sector, it has not been prioritized in the current tensions with Iran. This neglect could impact U.S. strategic decisions in the Middle East and exacerbate tensions with allies."
         },
         {
           "rank": 7,
-          "title": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
-          "link": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/",
-          "source": "MIT Technology Review",
-          "published_utc": "2026-03-18 12:38 UTC",
-          "analysis_zh": "美国国防部计划为人工智能公司提供安全环境，以便它们能够在机密数据上进行训练。这一举措旨在开发针对军事需求的生成性人工智能版本。这不仅标志着美国在人工智能领域的进一步发展，也可能对国防技术的创新和安全性产生深远影响。通过利用机密数据，国防部希望提升其军事能力，同时也可能引发关于数据安全和隐私的讨论。",
-          "analysis_en": "The Pentagon is planning to provide secure environments for AI companies to train on classified data. This initiative aims to develop military-specific versions of generative AI. It signifies a further advancement in the U.S. artificial intelligence landscape and could have significant implications for innovation and security in defense technology. By leveraging classified data, the Pentagon hopes to enhance its military capabilities, which may also spark discussions about data security and privacy."
+          "title": "Robinhood is making a social network",
+          "link": "https://www.theverge.com/tech/896989/robinhood-social-network-beta",
+          "source": "The Verge",
+          "published_utc": "2026-03-18 18:32 UTC",
+          "analysis_zh": "Robinhood 正在测试一个名为 Robinhood Social 的社交媒体平台，类似于 Twitter。这一交易导向的平台在去年九月的 HOOD 峰会上首次宣布，目前正在向参加活动的 1,000 人推出，并计划在接下来的几周内扩展到另外 10,000 名用户。Robinhood Social 允许用户创建个人资料、分享交易动态，并直接在平台上完成交易，这可能会改变用户获取市场信息的方式，提升交易的社交互动性。",
+          "analysis_en": "Robinhood is currently beta testing a social media platform called Robinhood Social, which resembles Twitter. This trading-focused platform was first announced at the HOOD Summit last September and is now being rolled out to 1,000 attendees, with plans to expand to an additional 10,000 users in the coming weeks. Robinhood Social allows users to create profiles, share trade updates, and execute trades directly on the platform, which could change how users access market information and enhance social interaction in trading."
         },
         {
           "rank": 8,
-          "title": "DLSS 5: Has Nvidia’s AI graphics technology gone too far?",
-          "link": "https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering",
+          "title": "ChatGPT did not cure a dog’s cancer",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
           "source": "The Verge",
-          "published_utc": "2026-03-18 12:30 UTC",
-          "analysis_zh": "英伟达最近推出了名为DLSS 5的新技术，这是一种“3D引导神经渲染模型”，能够实时改变游戏的光照和材质。然而，许多玩家对此表示不满，甚至在社交媒体上出现了关于DLSS 5的恶搞和对《生化危机：救赎》角色“过度美化”的抱怨。这一技术的推出引发了广泛讨论，尽管英伟达声称其追求的照片级真实感仍然尊重原艺术家的意图，但玩家的反应显示出对这种技术的担忧。未来，这可能会影响游戏开发者在使用AI技术时的决策，尤其是在保持艺术风格与追求技术进步之间的平衡。",
-          "analysis_en": "Nvidia recently unveiled a new technology called DLSS 5, a \"3D guided neural rendering model\" that can change a game's lighting and materials in real-time. However, many gamers have expressed dissatisfaction, with memes and complaints about how it has \"yassified\" characters in Resident Evil Requiem circulating on social media. This launch has sparked widespread discussion, and despite Nvidia's claims that its pursuit of photorealism respects the original artists' intentions, the players' reactions reveal concerns about the technology. In the future, this may influence game developers' decisions regarding the use of AI technology, particularly in balancing artistic style with technological advancement."
+          "published_utc": "2026-03-18 18:14 UTC",
+          "analysis_zh": "一位没有生物或医学背景的澳大利亚科技企业家声称，ChatGPT帮助他拯救了患癌症的狗，这一故事迅速传播，似乎为大科技公司提供了一个希望：人工智能将彻底改变医学，挑战致命疾病。然而，事实比表面复杂得多。实际上，这位企业家在与兽医无果后，决定自己寻找治疗方案，并利用ChatGPT和其他工具进行研究，最终得到了个性化的治疗建议。这一事件引发了对人工智能在医疗领域潜力的讨论，但也提醒人们要谨慎对待AI的实际应用。",
+          "analysis_en": "An Australian tech entrepreneur without a background in biology or medicine claimed that ChatGPT helped save his dog from cancer, and this story quickly spread, seemingly validating the hope that AI could revolutionize medicine and tackle deadly diseases. However, the reality is much more complex. After receiving no viable options from veterinarians, the entrepreneur took it upon himself to seek treatment solutions, utilizing ChatGPT and other tools for research, which ultimately led to personalized treatment suggestions. This incident sparked discussions about the potential of AI in healthcare, while also reminding us to approach the actual applications of AI with caution."
         },
         {
           "rank": 9,
-          "title": "Turing Award Goes to Inventors of Quantum Cryptography",
-          "link": "https://www.nytimes.com/2026/03/18/technology/turing-award-winners-quantum-cryptography.html",
-          "source": "NYT > Technology",
-          "published_utc": "2026-03-18 12:19 UTC",
-          "analysis_zh": "图灵奖授予了量子密码学的发明者查尔斯·贝内特和吉尔·布拉萨德。他们在1980年代创造了一种新型的加密技术，这种技术被认为是不可破解的。这项技术的重要性在于它为信息安全提供了前所未有的保障，尤其是在数字时代日益增长的网络威胁下。量子密码学的进步可能会影响未来的通信方式，确保个人和企业的数据安全。",
-          "analysis_en": "The Turing Award has been given to Charles Bennett and Gilles Brassard, the inventors of quantum cryptography. In the 1980s, they developed a new type of encryption that is considered unbreakable. This technology is significant because it offers unprecedented security for information, especially in the face of increasing cyber threats in the digital age. The advancements in quantum cryptography may influence future communication methods, ensuring the safety of data for individuals and businesses."
+          "title": "Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal",
+          "link": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
+          "source": "Feed: Artificial Intelligence Latest",
+          "published_utc": "2026-03-18 18:01 UTC",
+          "analysis_zh": "沃尔玛与OpenAI之间的合作正在发生变化。由于OpenAI的即时结账功能未能达到预期，沃尔玛决定将其Sparky聊天机器人直接嵌入到ChatGPT和Google Gemini中。这一举措不仅反映了沃尔玛对提升购物体验的重视，也可能影响到消费者对在线购物的信任和便利性。通过整合更智能的聊天工具，沃尔玛希望能够更好地满足顾客需求，提升销售额。",
+          "analysis_en": "Walmart and OpenAI are reshaping their partnership. After OpenAI's Instant Checkout feature fell short of expectations, Walmart has opted to embed its Sparky chatbot directly into ChatGPT and Google Gemini. This move highlights Walmart's commitment to enhancing the shopping experience and may influence consumer trust and convenience in online shopping. By integrating smarter chat tools, Walmart aims to better meet customer needs and boost sales."
         },
         {
           "rank": 10,
-          "title": "BMW brings back the i3 as a funky four-door EV",
-          "link": "https://www.theverge.com/transportation/895265/bmw-i3-neue-klasse-ev-price-specs",
+          "title": "Kasa’s Matter-compatible smart plugs are on sale for $11 a pop",
+          "link": "https://www.theverge.com/gadgets/896899/kasa-smart-wi-fi-plug-slim-amazon-early-big-spring-sale-deal-sale",
           "source": "The Verge",
-          "published_utc": "2026-03-18 10:00 UTC",
-          "analysis_zh": "宝马重新推出了i3，作为一款新颖的四门电动车。这款新车基于宝马的Neue Klasse平台，虽然外观与之前的i3有些相似，但在设计上更注重水平线条，展现出不同的风格。这一举措不仅丰富了宝马的电动车系列，也反映了其在电动化转型中的持续努力。随着市场对电动车需求的增加，i3的回归可能会吸引更多年轻消费者，进一步提升宝马在电动车市场的竞争力。",
-          "analysis_en": "BMW has reintroduced the i3 as a funky four-door electric vehicle. This new model is built on the automaker's Neue Klasse platform, and while it shares some visual similarities with the previous i3, it emphasizes horizontal design elements, showcasing a different style. This move not only expands BMW's electric vehicle lineup but also highlights the company's ongoing commitment to electrification. As the demand for electric vehicles continues to grow, the return of the i3 may attract more younger consumers and enhance BMW's competitiveness in the EV market."
+          "published_utc": "2026-03-18 17:43 UTC",
+          "analysis_zh": "Kasa推出的兼容Matter的智能插头目前在亚马逊和B&H Photo以21.99美元的价格出售，优惠幅度为8美元。这是几个月以来该捆绑包的最佳价格，为想要提升家居智能化的消费者提供了一个良好的机会。通过这些智能插头，用户可以轻松地将传统设备如灯具、风扇和咖啡机等转变为智能设备，从而实现更高效的家居管理。这一促销活动不仅让消费者以更低的价格享受智能家居的便利，也可能推动智能家居市场的进一步发展。",
+          "analysis_en": "Kasa's Matter-compatible smart plugs are currently on sale for $21.99 at Amazon and B&H Photo, offering an $8 discount. This represents the best price for the bundle in months and provides a great opportunity for consumers looking to enhance their home automation. With these smart plugs, users can easily convert traditional devices like lamps, fans, and coffee makers into smart devices, allowing for more efficient home management. This promotion not only enables consumers to enjoy the convenience of smart homes at a lower price but may also drive further growth in the smart home market."
         }
       ]
     },
@@ -317,93 +317,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Goo Goo Dolls’ ‘Iris’ Is Back as ’90s Trend Soundtrack",
-          "link": "https://www.nytimes.com/2026/03/18/arts/music/goo-goo-dolls-iris-social-media-trend.html",
+          "title": "Jennie Jieun Lee’s Celebration of Community and Crafts",
+          "link": "https://www.nytimes.com/2026/03/18/t-magazine/jennie-jieun-lee-sculpture-ceramics.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-03-18 14:04 UTC",
-          "analysis_zh": "乐队Goo Goo Dolls的经典歌曲《Iris》最近重新流行，成为90年代趋势的代表曲目。随着库尔特妮·考克斯、篮球迷和漫威电影的支持，这首标志性的颂歌再次引起了人们的关注。这一现象不仅反映了90年代文化的回潮，也表明了怀旧情绪在当今社会中的重要性。这样的趋势可能会影响音乐产业，促使更多老歌重新被发掘和传播。",
-          "analysis_en": "The classic song \"Iris\" by the Goo Goo Dolls has recently made a comeback, becoming a defining track of the 90s trend. With support from Courteney Cox, basketball fans, and Marvel movies, this iconic anthem has captured renewed attention. This phenomenon reflects a resurgence of 90s culture and highlights the significance of nostalgia in today's society. Such trends may influence the music industry, leading to the rediscovery and promotion of more classic songs."
+          "published_utc": "2026-03-18 20:43 UTC",
+          "analysis_zh": "艺术家李珍妮（Jennie Jieun Lee）为庆祝她的首次个人博物馆展览，邀请朋友们共度一个充满社区氛围和手工艺活动的下午。这一展览不仅展示了她的艺术作品，也强调了社区的重要性和手工艺的魅力。这次活动吸引了许多艺术爱好者，促进了人们之间的交流与合作，可能会对未来的艺术展览和社区活动产生积极影响。",
+          "analysis_en": "To celebrate her first solo museum exhibition, artist Jennie Jieun Lee invited friends for an afternoon filled with community and crafts. This event not only showcased her artwork but also highlighted the significance of community and the beauty of craftsmanship. The gathering attracted many art enthusiasts, fostering interaction and collaboration among attendees, which could positively influence future art exhibitions and community events."
         },
         {
           "rank": 2,
-          "title": "Nine lights and lamps spotlighted on Dezeen Showroom",
-          "link": "https://www.dezeen.com/2026/03/18/pendant-light-table-lamp-lighting-dezeen-showroom/",
-          "source": "Dezeen",
-          "published_utc": "2026-03-18 14:00 UTC",
-          "analysis_zh": "最近，Dezeen Showroom上展示了九款新灯具和台灯，包括一款重新发行的建筑师设计吊灯和一款使用废弃穆拉诺玻璃制作的台灯。这些灯具的设计灵感各异，有的采用了珍珠光泽的外观，有的则受到了沙丘的启发。这些新灯具的发布不仅丰富了室内照明的选择，也反映了可持续设计的趋势，可能会影响消费者对环保产品的需求。",
-          "analysis_en": "Recently, nine new lights and lamps were featured on Dezeen Showroom, including a reissued architect-designed pendant light and a table lamp made from waste Murano glass. The designs vary widely, with some showcasing an opalescent finish and others inspired by sand dunes. The introduction of these new lighting options not only enhances choices for interior illumination but also reflects a trend towards sustainable design, which may influence consumer demand for eco-friendly products."
+          "title": "Carol Kitman, 96, Dies; Photographer Documented the Vindman Twins",
+          "link": "https://www.nytimes.com/2026/03/18/arts/carol-kitman-dead.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-03-18 20:27 UTC",
+          "analysis_zh": "卡罗尔·基特曼（Carol Kitman）于96岁时去世，她是一位摄影师，记录了温德曼双胞胎的成长历程。她与这对双胞胎的偶然相遇，开启了长达数十年的项目，见证了他们从童年到成为批评特朗普总统的公众人物的转变。这一项目不仅展示了她的艺术才能，也反映了社会和政治变迁对个人生活的影响。基特曼的去世意味着我们失去了一位重要的记录者，她的作品将继续激励未来的艺术家。",
+          "analysis_en": "Carol Kitman, at the age of 96, has passed away. She was a photographer who documented the lives of the Vindman twins over several decades. Her chance encounter with the twins led to a long-term project that captured their journey from childhood to becoming prominent critics of President Trump. This work not only showcased her artistic talent but also highlighted the impact of social and political changes on individual lives. Kitman's death marks the loss of an important chronicler, and her legacy will continue to inspire future artists."
         },
         {
           "rank": 3,
-          "title": "warm-toned concrete forms and planted roofs blend into the cycladic landscape of kythnos",
-          "link": "https://www.designboom.com/architecture/warm-toned-concrete-forms-and-planted-roofs-blend-into-the-cycladic-landscape-of-kythnos/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-03-18 14:00 UTC",
-          "analysis_zh": "在基克拉泽斯群岛的基思诺斯岛上，一座新建筑以温暖色调的混凝土和植被屋顶设计，旨在与周围的自然环境融为一体。这座建筑被构思为一个洞穴居所，分为三个地下单元。这种设计不仅美观，还体现了可持续建筑的理念，可能会影响未来建筑的设计趋势，鼓励更多项目关注与自然环境的和谐共存。",
-          "analysis_en": "A new building on the island of Kythnos in the Cyclades features warm-toned concrete and planted roofs, designed to blend seamlessly with the surrounding landscape. Conceived as a cave dwelling, the structure is divided into three subterranean units. This design not only enhances aesthetic appeal but also embodies sustainable architecture principles, which could influence future architectural trends by encouraging more projects to focus on harmony with nature."
+          "title": "The Good List: 6 Things to Add Delight to Your Day",
+          "link": "https://www.nytimes.com/2026/03/18/briefing/the-good-list-6-things-to-add-delight-to-your-day.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-03-18 20:23 UTC",
+          "analysis_zh": "《纽约时报》最近发布了一份“好事清单”，推荐了六种能够为日常生活增添乐趣的事物，包括牡丹郁金香、深邃的眼神交流以及来自“Wordle”创作者的新游戏。这份清单的发布提醒人们在繁忙的生活中寻找小确幸，关注那些能够带来愉悦的细节。这样的推荐不仅能提升人们的生活质量，还可能激发更多人参与到美好事物的发现与分享中。",
+          "analysis_en": "The New York Times recently published a \"Good List,\" recommending six things that can add joy to daily life, including peony tulips, meaningful eye contact, and a new game from the creator of Wordle. This list serves as a reminder for people to seek out small pleasures amidst their busy lives and to pay attention to the details that bring happiness. Such recommendations can enhance quality of life and may inspire more individuals to engage in discovering and sharing beautiful experiences."
         },
         {
           "rank": 4,
-          "title": "National Gallery of Art Acquires Hundreds of Works, from Civil War Photographs to a Salman Toor Painting",
-          "link": "https://www.artnews.com/list/art-news/news/national-gallery-of-art-2025-acquisitions-1234777714/",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-03-18 14:00 UTC",
-          "analysis_zh": "美国国家艺术馆最近收购了数百件艺术作品，其中包括内战时期的摄影作品和一幅由萨尔曼·图尔创作的画作。这次收购不仅丰富了馆藏，还首次引入了多位艺术家的作品，如特雷西塔·费尔南德斯、特雷莎·德尔·波和安娜·瓦泽。这一举措对艺术界具有重要意义，因为它展示了对多样性和新兴艺术家的支持，可能会吸引更多观众前来参观并提升公众对当代艺术的关注。",
-          "analysis_en": "The National Gallery of Art has recently acquired hundreds of artworks, including Civil War photographs and a painting by Salman Toor. This acquisition not only enhances the gallery's collection but also introduces works from several artists for the first time, such as Teresita Fernández, Teresa del Pò, and Anna Waser. This move is significant for the art community as it demonstrates support for diversity and emerging artists, which may attract more visitors and increase public interest in contemporary art."
+          "title": "Eight recently completed skyscrapers in Brazil",
+          "link": "https://www.dezeen.com/2026/03/18/eight-completed-skyscrapers-brazil/",
+          "source": "Dezeen",
+          "published_utc": "2026-03-18 20:04 UTC",
+          "analysis_zh": "近年来，巴西的摩天大楼建设迅速发展，尤其是在主要城市中，预计到2025年，巴西最高的摩天大楼将在巴尔内阿里奥·坎博里乌完工。这一趋势反映了城市化进程和人口增长的需求，开发商和建筑师们正在积极响应这一变化。摩天大楼的兴起不仅改变了城市的天际线，也可能影响到当地的经济和社会结构。",
+          "analysis_en": "In recent years, Brazil has experienced a rapid boom in skyscraper construction, particularly in major cities, with the tallest building in the country expected to be completed in Balneário Camboriú by 2025. This trend reflects the demands of urbanization and population growth, prompting developers and architects to respond actively. The rise of skyscrapers not only alters the skyline of cities but may also impact the local economy and social structures."
         },
         {
           "rank": 5,
-          "title": "Got an Idea About Who Robbed the Gardner Museum? Get in Line.",
-          "link": "https://www.nytimes.com/2026/03/18/arts/design/gardner-museum-heist-theories.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-03-18 13:29 UTC",
-          "analysis_zh": "在美国历史上最大的艺术盗窃案中，关于谁是幕后黑手的理论层出不穷。最近，一位曾负责此案的前联邦调查局特工在新书中驳斥了许多流行的猜测。这一事件不仅引发了公众的广泛关注，还对艺术界的安全措施提出了质疑。随着时间的推移，这起案件的影响可能会促使博物馆和艺术机构重新审视其防盗策略。",
-          "analysis_en": "Theories about who orchestrated the largest art heist in U.S. history continue to emerge. In a new book, a former FBI agent who handled the case dismisses many popular speculations. This incident has not only captured public interest but also raised questions about security measures in the art world. As time goes on, the implications of this case may lead museums and art institutions to reevaluate their theft prevention strategies."
+          "title": "Dizzy, Nauseous Columbus Art Museum Workers Issue Complaints About Chemical Fumes",
+          "link": "https://www.artnews.com/art-news/news/columbus-art-museum-workerscomplaints-chemical-fumes-1234777850/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-03-18 20:00 UTC",
+          "analysis_zh": "哥伦布艺术博物馆的工作人员因在装修过程中接触到化学密封剂而出现头晕和恶心等症状，已向管理层提出投诉。这一事件引发了对博物馆工作环境安全的关注，尤其是在艺术和文化机构中，员工的健康与安全至关重要。如果问题得不到解决，可能会影响到博物馆的运营和员工的士气，甚至可能导致公众对该机构的信任度下降。",
+          "analysis_en": "Workers at the Columbus Art Museum have reported symptoms such as dizziness and nausea, which they attribute to chemical fumes from a sealant used during renovation. This incident raises concerns about the safety of the work environment, particularly in art and cultural institutions where employee health is paramount. If the issue is not addressed, it could impact the museum's operations and employee morale, potentially leading to a decline in public trust in the institution."
         },
         {
           "rank": 6,
-          "title": "Berlin Academy of Art Slams Art Prize Cuts, US President Called ‘Steward, Not Owner’ of White House Over Ballroom Plans: Morning Links for March 18, 2026",
-          "link": "https://www.artnews.com/art-news/news/berlin-academy-of-art-slams-art-prize-cuts-us-president-called-steward-not-owner-of-white-house-over-ballroom-plans-morning-links-for-march-18-2026-1234777711/",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-03-18 12:25 UTC",
-          "analysis_zh": "柏林艺术学院对艺术奖项削减表示强烈反对，认为这将对艺术界产生负面影响。艺术奖项不仅是对艺术家的认可，也是推动艺术创作的重要动力。削减奖项可能导致艺术家失去创作的激励，从而影响整个艺术生态的健康发展。此外，美国总统被称为白宫的“管理者，而非所有者”，这也引发了对政府在文化事务中角色的讨论。",
-          "analysis_en": "The Berlin Academy of Art has strongly criticized the cuts to art prizes, arguing that this will negatively impact the art community. Art prizes serve not only as recognition for artists but also as a crucial motivation for creative work. Reducing these awards could lead to a loss of incentive for artists, ultimately affecting the overall health of the art ecosystem. Additionally, the U.S. President being referred to as the \"steward, not the owner\" of the White House has sparked discussions about the government's role in cultural affairs."
+          "title": "Taylor Frankie Paul’s ‘Bachelorette’ Controversy, Explained",
+          "link": "https://www.nytimes.com/2026/03/18/arts/television/bachelorette-taylor-frankie-paul.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-03-18 19:45 UTC",
+          "analysis_zh": "泰勒·弗兰基·保罗因其在《摩门妻子的秘密生活》中成名而受到关注，目前正因家庭暴力事件接受调查，调查对象还包括她孩子的父亲。这一事件引发了公众的广泛讨论，尤其是在现实节目与家庭暴力之间的关系上。此事不仅可能影响她的职业生涯，也可能对观众对类似节目的看法产生深远影响。",
+          "analysis_en": "Taylor Frankie Paul, who gained fame from \"The Secret Lives of Mormon Wives,\" is currently under investigation for domestic violence, involving the father of one of her children. This situation has sparked widespread public discussion, particularly regarding the relationship between reality television and domestic violence. The outcome of this investigation could not only impact her career but also influence viewers' perceptions of similar reality shows."
         },
         {
           "rank": 7,
-          "title": "before memphis, ettore sottsass envisions a planet organized by moments of collective life",
-          "link": "https://www.designboom.com/architecture/memphis-ettore-sottsass-planet-moments-collective-life-pianeta-festival/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-03-18 11:50 UTC",
-          "analysis_zh": "意大利设计师埃托雷·索特萨斯（Ettore Sottsass）提出了一个名为“地球如同节日”的构想，设想地球是一个由人类活动构成的连续场域，组织方式是通过临时聚会。这一理念强调了人类共同生活的重要性，反映了对社会互动和集体体验的重视。这种思考不仅影响了设计领域，也可能激发人们对未来城市生活方式的重新审视，促使我们更加关注人与人之间的联系。",
-          "analysis_en": "Italian designer Ettore Sottsass has proposed a concept called \"the planet as a festival,\" envisioning Earth as a continuous field of human events organized by temporary gatherings. This idea highlights the significance of collective life and reflects a growing emphasis on social interaction and shared experiences. Such a perspective not only influences the design field but may also inspire a reevaluation of future urban lifestyles, encouraging greater attention to the connections between individuals."
+          "title": "Goo Goo Dolls’ ‘Iris’ Is Back as ’90s Trend Soundtrack",
+          "link": "https://www.nytimes.com/2026/03/18/arts/music/goo-goo-dolls-iris-social-media-trend.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-03-18 19:31 UTC",
+          "analysis_zh": "近年来，古古娃娃乐队的经典歌曲《Iris》再次回归，成为90年代趋势的代表曲目。这一现象不仅吸引了库尔特妮·考克斯等明星的关注，也引发了篮球迷和漫威电影爱好者的共鸣。这首歌的复兴表明了90年代文化的回潮，可能会影响当代音乐和影视作品的风格选择，进一步推动怀旧潮流的发展。",
+          "analysis_en": "Recently, the Goo Goo Dolls' classic song \"Iris\" has made a comeback as a hallmark of the '90s trend. This resurgence has garnered attention from celebrities like Courteney Cox and resonated with basketball fans and Marvel movie enthusiasts. The revival of this song highlights a cultural resurgence of the '90s, which may influence contemporary music and film styles, further driving the nostalgia trend."
         },
         {
           "rank": 8,
-          "title": "Pablo Sanchez Lopez updates London house with timber porch",
-          "link": "https://www.dezeen.com/2026/03/18/pablo-sanchez-lopez-house-walthamstow/",
-          "source": "Dezeen",
-          "published_utc": "2026-03-18 11:30 UTC",
-          "analysis_zh": "当地建筑师巴勃罗·桑切斯·洛佩斯对伦敦的一座维多利亚排屋进行了改造，重点关注了入口的“阈限”概念，设计了一个木框架的门廊和一个通往花园的大旋转门。这座名为“沃尔瑟姆斯托的房子”的住宅在改造前经历了一次“缺乏敏感性的重建”。此次改造不仅提升了房屋的美观性，也为居民提供了更好的空间体验，可能会影响周边社区的建筑风格和价值。",
-          "analysis_en": "Local architect Pablo Sanchez Lopez has renovated a Victorian terraced house in London, focusing on the concept of thresholds by creating a timber-framed porch and a large pivot door leading to the garden. The house, named House in Walthamstow, had previously undergone what Sanchez Lopez described as an \"insensitive redevelopment.\" This renovation not only enhances the aesthetic appeal of the home but also improves the spatial experience for residents, which may influence the architectural style and value of the surrounding community."
+          "title": "Major Corporate Sponsor Withdraws from Sydney Biennale, Citing Alleged Hate Speech",
+          "link": "https://www.artnews.com/art-news/news/major-corporate-sponsor-withdraws-from-sydney-biennale-citing-alleged-hate-speech-1234777832/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-03-18 19:26 UTC",
+          "analysis_zh": "悉尼双年展的一家主要赞助商因DJ的言论而决定撤回赞助，此举引发了广泛关注。在展会开幕前的一周内，活动组织者与悉尼部分犹太社区之间的紧张关系不断升级。这一事件不仅影响了双年展的声誉，也可能对未来的艺术活动和赞助商关系产生深远影响，尤其是在涉及敏感话题时。",
+          "analysis_en": "A major corporate sponsor has withdrawn from the Sydney Biennale due to comments made by a DJ, drawing significant attention. In the week leading up to the event's opening, tensions had been escalating between the organizers and segments of Sydney's Jewish community. This incident not only affects the reputation of the Biennale but may also have lasting implications for future art events and the relationships with sponsors, particularly when sensitive topics are involved."
         },
         {
           "rank": 9,
-          "title": "Stefano Boeri creates travertine piazza alongside Colosseum",
-          "link": "https://www.dezeen.com/2026/03/18/colosseum-piazza-rome-stefano-boeri-interiors/",
-          "source": "Dezeen",
-          "published_utc": "2026-03-18 11:15 UTC",
-          "analysis_zh": "意大利设计工作室Stefano Boeri Interiors在罗马斗兽场旁边重新设计了一个半圆形广场，重现了几根原始柱子的基础。这一改造不仅为游客提供了一个新的休闲空间，也为历史遗迹增添了新的文化层次。广场的建设在一定程度上恢复了斗兽场周围的历史景观，可能会吸引更多游客前来参观，从而促进当地经济发展。",
-          "analysis_en": "Italian studio Stefano Boeri Interiors has revamped a semi-circular piazza next to the Colosseum, recreating the bases of several original columns. This renovation not only provides a new leisure space for visitors but also adds a cultural layer to the historical site. The construction of the piazza partially restores the historical landscape around the Colosseum, which may attract more tourists and consequently boost the local economy."
+          "title": "Man Causes ‘Catastrophic Damage’ to Chihuly Glass Museum in Seattle",
+          "link": "https://www.artnews.com/art-news/news/chihuly-glass-museum-vandalism-damage-1234777828/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-03-18 19:03 UTC",
+          "analysis_zh": "在西雅图的奇胡利玻璃博物馆，一名男子被指控故意破坏，造成了“灾难性的损失”。据当地警方称，这名嫌疑人向保安投掷了玻璃碎片，导致博物馆内的艺术品受到严重影响。这一事件不仅对博物馆的声誉造成了打击，也可能影响到未来的游客流量和展览安排。艺术品的安全问题再次引发了公众对文化场所保护的关注。",
+          "analysis_en": "In Seattle's Chihuly Glass Museum, a man has been accused of vandalism, resulting in \"catastrophic damage.\" Local police reported that the suspect threw glass shards at security personnel, severely impacting the artworks within the museum. This incident not only tarnishes the museum's reputation but may also affect future visitor numbers and exhibition plans. The safety of artworks has once again raised public concern about the protection of cultural venues."
         },
         {
           "rank": 10,
-          "title": "The Purple Ink Studio draws on ship sails for seaside pavilion in Kerala",
-          "link": "https://www.dezeen.com/2026/03/18/kerala-pavilion-purple-ink-studio-german/",
-          "source": "Dezeen",
-          "published_utc": "2026-03-18 11:00 UTC",
-          "analysis_zh": "紫色墨水工作室在印度喀拉拉邦的喀拉拉文学节上建造了一个临时展馆，旨在唤起该地区与德国之间的历史联系。这个名为“德国展馆”的结构设计灵感来源于船帆，强调了喀拉拉与德国之间早期的文化和商业交流。这一项目不仅为文学节增添了独特的建筑风格，也为人们重新审视历史提供了契机，可能会促进两国之间的文化交流和合作。",
-          "analysis_en": "The Purple Ink Studio has created a temporary pavilion at the Kerala Literature Festival in India, aimed at recalling the historical links between the region and Germany. Named the German Pavilion, the structure draws inspiration from ship sails, highlighting the early cultural and commercial exchanges between Kerala and Germany. This project not only adds a unique architectural style to the festival but also provides an opportunity for people to revisit history, potentially fostering cultural exchange and collaboration between the two countries."
+          "title": "Congress Moves to Expand Holocaust Art Restitution Claims",
+          "link": "https://www.artnews.com/art-news/news/hear-act-expansion-nazi-looted-art-claims-congress-1234777756/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-03-18 17:35 UTC",
+          "analysis_zh": "美国国会正在推进一项法案，旨在扩大对大屠杀艺术品的赔偿请求。这项措施得到了支持者的广泛欢迎，他们认为这是对历史不公的必要纠正。然而，博物馆方面对此表示反对，认为这可能会影响其艺术品的拥有权和展览安排。这一法案的通过可能会引发更广泛的关于艺术品归属和历史责任的讨论，也可能促使其他国家重新审视类似的赔偿问题。",
+          "analysis_en": "The U.S. Congress is moving forward with a bill aimed at expanding claims for restitution of Holocaust-era art. This measure has garnered significant support from advocates who believe it is a long-overdue correction of historical injustices. However, museums have expressed opposition, arguing that it could impact their ownership and exhibition of artworks. If passed, this legislation may spark broader discussions about art ownership and historical accountability, potentially prompting other countries to reconsider similar restitution issues."
         }
       ]
     }
