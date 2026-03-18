@@ -1,149 +1,149 @@
 {
-  "generated_at": "2026-03-17 22:04:08 UTC",
+  "generated_at": "2026-03-18 14:40:08 UTC",
   "run_mode": "morning",
   "regime": "Risk-off",
   "risk_score": 4,
-  "internal_score": 15,
+  "internal_score": 16,
   "summary_zh": "当前结构偏防守，波动、利率或信用层面至少有多项指标同步施压，不宜激进扩张风险敞口。",
   "summary_en": "The current structure is defensive, with simultaneous pressure from multiple indicators across volatility, rates, or credit, making aggressive risk expansion inadvisable.",
   "market_snapshot": {
     "SPY": {
       "label": "SPY",
-      "price": 670.79,
-      "change": -9.540000000000077,
-      "change_pct": -1.4022606676171971,
-      "change_3d": 4.730002441406214,
-      "change_3d_pct": 0.7101466022195864,
+      "price": 666.075,
+      "change": -19.05499999999995,
+      "change_pct": -2.7812240012844205,
+      "change_3d": 3.7850219726562955,
+      "change_3d_pct": 0.5715052466791253,
       "note": "美股大盘代理",
       "ok": true
     },
     "QQQ": {
       "label": "QQQ",
-      "price": 603.31,
-      "change": 1.7299999999999045,
-      "change_pct": 0.2875760497356801,
-      "change_3d": 6.049990234374945,
-      "change_3d_pct": 1.01295752862293,
+      "price": 599.26,
+      "change": -11.490000000000009,
+      "change_pct": -1.8812934916086794,
+      "change_3d": 5.540029296874991,
+      "change_3d_pct": 0.9331047581765016,
       "note": "科技成长代理",
       "ok": true
     },
     "DIA": {
       "label": "DIA",
-      "price": 470.9,
-      "change": -14.620000000000005,
-      "change_pct": -3.0112044817927184,
-      "change_3d": 3.4199890136718523,
-      "change_3d_pct": 0.7315797324587368,
+      "price": 466.57,
+      "change": -21.170000000000016,
+      "change_pct": -4.340427276827821,
+      "change_3d": 0.15999633789061818,
+      "change_3d_pct": 0.034303796366796514,
       "note": "道指代理",
       "ok": true
     },
     "IWM": {
       "label": "IWM",
-      "price": 250.05,
-      "change": -9.189999999999998,
-      "change_pct": -3.5449776269094264,
-      "change_3d": 2.6399963378906364,
-      "change_3d_pct": 1.0670531905800014,
+      "price": 247.35,
+      "change": -14.409999999999997,
+      "change_pct": -5.5050427872860626,
+      "change_3d": 0.7600036621093693,
+      "change_3d_pct": 0.3082053908902177,
       "note": "小盘股代理",
       "ok": true
     },
     "GLD": {
       "label": "GLD",
-      "price": 459.27,
-      "change": -8.870000000000005,
-      "change_pct": -1.8947323450249938,
-      "change_3d": -7.610004882812518,
-      "change_3d_pct": -1.6299701857488285,
+      "price": 446.328,
+      "change": -25.472000000000037,
+      "change_pct": -5.3988978380669845,
+      "change_3d": -14.51199633789065,
+      "change_3d_pct": -3.149031432430263,
       "note": "黄金代理",
       "ok": true
     },
     "SLV": {
       "label": "SLV",
-      "price": 71.66,
-      "change": -3.0200000000000102,
-      "change_pct": -4.043920728441363,
-      "change_3d": -4.820003356933597,
-      "change_3d_pct": -6.302305367899308,
+      "price": 69.1,
+      "change": -6.240000000000009,
+      "change_pct": -8.282452880276093,
+      "change_3d": -3.5900024414062557,
+      "change_3d_pct": -4.93878431810492,
       "note": "白银代理",
       "ok": true
     },
     "USO": {
       "label": "USO",
-      "price": 118.84,
-      "change": 28.64,
-      "change_pct": 31.751662971175165,
-      "change_3d": 0.4500006103515659,
-      "change_3d_pct": 0.38010018808304197,
+      "price": 122.36,
+      "change": 30.799999999999997,
+      "change_pct": 33.63914373088684,
+      "change_3d": 2.470000610351562,
+      "change_3d_pct": 2.060222389628961,
       "note": "原油代理",
       "ok": true
     },
     "UUP": {
       "label": "UUP",
-      "price": 27.68,
-      "change": 0.21999999999999886,
-      "change_pct": 0.8011653313911102,
-      "change_3d": -3.051757815342171e-07,
-      "change_3d_pct": -1.1025136494566923e-06,
+      "price": 27.745,
+      "change": 0.33500000000000085,
+      "change_pct": 1.222181685516238,
+      "change_3d": -0.1449993896484365,
+      "change_3d_pct": -0.5198974285465707,
       "note": "美元代理",
       "ok": true
     },
     "TNX": {
       "label": "TNX",
-      "price": 4.202,
-      "change": 0.12199999999999989,
-      "change_pct": 2.9901960784313695,
-      "change_3d": -0.07099976348876957,
-      "change_3d_pct": -1.6615906252894455,
+      "price": 4.23,
+      "change": 0.08400000000000052,
+      "change_pct": 2.0260492040521108,
+      "change_3d": -0.05499984741210895,
+      "change_3d_pct": -1.283543742605397,
       "note": "10年美债收益率",
       "ok": true
     },
     "MOVE": {
       "label": "MOVE",
-      "price": null,
-      "change": null,
-      "change_pct": null,
-      "change_3d": null,
-      "change_3d_pct": null,
+      "price": 79.2295,
+      "change": 9.1995,
+      "change_pct": 13.136512923032987,
+      "change_3d": -16.07050305175781,
+      "change_3d_pct": -16.86306667065882,
       "note": "债券波动率",
-      "ok": false
+      "ok": true
     },
     "VIX": {
       "label": "VIX",
-      "price": 22.37,
-      "change": 1.2200000000000024,
-      "change_pct": 5.768321513002376,
-      "change_3d": -4.920000915527343,
-      "change_3d_pct": -18.028584648115505,
+      "price": 23.22,
+      "change": -0.5300000000000011,
+      "change_pct": -2.2315789473684258,
+      "change_3d": -3.9700005340576183,
+      "change_3d_pct": -14.600957911291248,
       "note": "股市波动率",
       "ok": true
     },
     "HYG": {
       "label": "HYG",
-      "price": 79.81,
-      "change": -0.3100000000000023,
-      "change_pct": -0.3869196205691491,
-      "change_3d": 0.4600015258789085,
-      "change_3d_pct": 0.5797120790480313,
+      "price": 79.595,
+      "change": -0.8050000000000068,
+      "change_pct": -1.0012437810945358,
+      "change_3d": 0.39500305175781136,
+      "change_3d_pct": 0.49874124618457866,
       "note": "高收益债信用",
       "ok": true
     },
     "LQD": {
       "label": "LQD",
-      "price": 109.3,
-      "change": -1.5700000000000074,
-      "change_pct": -1.4160728781455825,
-      "change_3d": 0.7300003051757784,
-      "change_3d_pct": 0.6723775510985648,
+      "price": 109.09,
+      "change": -1.8799999999999955,
+      "change_pct": -1.694151572497067,
+      "change_3d": 0.9200018310546909,
+      "change_3d_pct": 0.8505147884146084,
       "note": "投资级信用",
       "ok": true
     },
     "VLCC": {
       "label": "VLCC",
-      "price": 16.89,
-      "change": -2.370000000000001,
-      "change_pct": -12.305295950155767,
-      "change_3d": 0.04999984741210994,
-      "change_3d_pct": 0.2969112052200677,
+      "price": 17.392,
+      "change": -1.2280000000000015,
+      "change_pct": -6.595059076262092,
+      "change_3d": 0.5419996185302729,
+      "change_3d_pct": 3.216614873945762,
       "note": "VLCC 航运代理（当前: DHT）",
       "ok": true
     }
@@ -156,10 +156,10 @@
       "comment_en": "VIX has entered a high-volatility zone, usually signaling a clear contraction in risk appetite."
     },
     "MOVE": {
-      "status_level": "watch",
-      "status": "警惕",
-      "comment_zh": "MOVE 数据缺失，需人工复核。",
-      "comment_en": "MOVE data is missing and requires manual review."
+      "status_level": "normal",
+      "status": "正常",
+      "comment_zh": "债券市场波动率较低，利率环境相对稳定。",
+      "comment_en": "Bond-market volatility is relatively low, suggesting a more stable rate environment."
     },
     "TNX": {
       "status_level": "risk",
@@ -174,10 +174,10 @@
       "comment_en": "SPY is notably weaker today, suggesting insufficient support from this direction."
     },
     "QQQ": {
-      "status_level": "watch",
-      "status": "警惕",
-      "comment_zh": "QQQ 当日变化不大，结构上更像中性或等待确认。",
-      "comment_en": "QQQ is little changed today, leaving the structure more neutral and still awaiting confirmation."
+      "status_level": "risk",
+      "status": "风险",
+      "comment_zh": "QQQ 当日走弱较明显，说明该方向对当前结构的支持不足。",
+      "comment_en": "QQQ is notably weaker today, suggesting insufficient support from this direction."
     },
     "GLD": {
       "status_level": "risk",
@@ -192,10 +192,10 @@
       "comment_en": "UUP is notably weaker today, suggesting insufficient support from this direction."
     },
     "HYG": {
-      "status_level": "watch",
-      "status": "警惕",
-      "comment_zh": "HYG 未给出明显方向，信用层面更偏中性。",
-      "comment_en": "HYG is not giving a clear signal, leaving credit conditions more neutral."
+      "status_level": "risk",
+      "status": "风险",
+      "comment_zh": "HYG 走弱较明显，说明信用偏好正在收缩。",
+      "comment_en": "HYG is weakening meaningfully, suggesting a contraction in credit appetite."
     },
     "LQD": {
       "status_level": "risk",
@@ -220,9 +220,9 @@
         "MOVE",
         "TNX"
       ],
-      "status_level": "risk",
-      "status": "风险",
-      "status_en": "Risk"
+      "status_level": "watch",
+      "status": "警惕",
+      "status_en": "Watch"
     },
     "信用层": {
       "name": "信用层",
@@ -241,14 +241,14 @@
         "GLD",
         "VLCC"
       ],
-      "status_level": "watch",
-      "status": "警惕",
-      "status_en": "Watch"
+      "status_level": "risk",
+      "status": "风险",
+      "status_en": "Risk"
     }
   },
   "actions": {
-    "one_liner_zh": "当前结构为 Risk-off，风险等级 4/4；VIX 22.37，MOVE N/A，QQQ +0.29%，GLD -1.89%，VLCC 3天 +0.30%。 当前为早间版。",
-    "one_liner_en": "The current regime is Risk-off with a risk score of 4/4; VIX 22.37, MOVE N/A, QQQ +0.29%, GLD -1.89%, VLCC 3d +0.30%. Current mode: Morning Edition.",
+    "one_liner_zh": "当前结构为 Risk-off，风险等级 4/4；VIX 23.22，MOVE 79.23，QQQ -1.88%，GLD -5.40%，VLCC 3天 +3.22%。 当前为早间版。",
+    "one_liner_en": "The current regime is Risk-off with a risk score of 4/4; VIX 23.22, MOVE 79.23, QQQ -1.88%, GLD -5.40%, VLCC 3d +3.22%. Current mode: Morning Edition.",
     "core_zh": "核心仓以保守处理为主，不宜在高波动阶段扩大总风险暴露。",
     "core_en": "Core positions should be handled conservatively, with no expansion of overall risk exposure during high-volatility phases.",
     "trend_zh": "趋势仓应明显收缩，只保留最强主线，弱势仓位优先处理。",
