@@ -24,6 +24,9 @@ scripts/generate_daily.py
   利率层：MOVE + TNX
   信用层：HYG + LQD
   资产层：QQQ + GLD + VLCC
+- 新增自选趋势监控
+  输出指定标的是否站上 20MA / 50MA
+  输出是否连续 3 天收盘上涨 / 下跌
 
 环境变量：
 - OPENAI_API_KEY      可选；没有时会使用兜底分析
@@ -178,6 +181,42 @@ MARKET_SYMBOLS = {
 }
 
 
+WATCHLIST_TICKERS = [
+    "ALB", "ANET", "AVGO", "BDRY", "CEG", "CIEN", "COHR", "COPX", "ETHA",
+    "FRO", "GEV", "GS", "HEWJ", "LITE", "MP", "NEE", "NVDA", "PLTR", "PWR",
+    "VRT", "VST", "MPWR", "ADI", "GOOG", "NBIS", "MPC",
+]
+
+WATCHLIST_TICKER_NOTES = {
+    "ALB": "锂与电池材料",
+    "ANET": "高速网络交换",
+    "AVGO": "AI/网络/定制芯片",
+    "BDRY": "干散货运价ETF",
+    "CEG": "核电与零碳电力",
+    "CIEN": "光通信设备",
+    "COHR": "光模块/激光/光子材料",
+    "COPX": "铜矿ETF",
+    "ETHA": "现货以太坊ETF",
+    "FRO": "油轮航运",
+    "GEV": "电力设备与电网",
+    "GS": "投行与资本市场",
+    "HEWJ": "日本对冲汇率ETF",
+    "LITE": "光模块与光器件",
+    "MP": "稀土材料",
+    "NEE": "公用事业与新能源",
+    "NVDA": "AI GPU",
+    "PLTR": "数据分析/国防软件",
+    "PWR": "电力工程与基建",
+    "VRT": "数据中心散热与电力",
+    "VST": "独立发电与售电",
+    "MPWR": "模拟/电源管理芯片",
+    "ADI": "模拟芯片",
+    "GOOG": "互联网与云",
+    "NBIS": "AI云/算力平台",
+    "MPC": "炼油与中游",
+}
+
+
 # =========================
 # 通用工具
 # =========================
@@ -233,6 +272,14 @@ def fmt_pct(x, digits=2):
         return f"{float(x):+.{digits}f}%"
     except Exception:
         return "N/A"
+
+
+def fmt_bool(flag):
+    if flag is True:
+        return "是"
+    if flag is False:
+        return "否"
+    return "N/A"
 
 
 def normalize_url(url: str) -> str:
@@ -1087,6 +1134,121 @@ def risk_level_to_score(level: str) -> int:
     return {"normal": 0, "watch": 1, "risk": 2}.get(level, 1)
 
 
+
+def simple_moving_average(values, window: int):
+    vals = [safe_float(v) for v in values if safe_float(v) is not None]
+    if len(vals) < window:
+        return None
+    return sum(vals[-window:]) / window
+
+
+def get_recent_valid_closes(closes, count=4):
+    vals = [safe_float(x) for x in closes if safe_float(x) is not None]
+    return vals[-count:]
+
+
+def is_three_day_up(closes):
+    recent = get_recent_valid_closes(closes, 4)
+    return len(recent) == 4 and recent[-1] > recent[-2] > recent[-3] > recent[-4]
+
+
+def is_three_day_down(closes):
+    recent = get_recent_valid_closes(closes, 4)
+    return len(recent) == 4 and recent[-1] < recent[-2] < recent[-3] < recent[-4]
+
+
+def fetch_watchlist_symbol(symbol: str):
+    headers = {"User-Agent": USER_AGENT}
+    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}"
+    params = {"range": "6mo", "interval": "1d"}
+    try:
+        resp = requests.get(url, params=params, headers=headers, timeout=REQUEST_TIMEOUT)
+        resp.raise_for_status()
+        data = resp.json()
+        result = data["chart"]["result"][0]
+        meta = result.get("meta", {}) or {}
+        quote = ((result.get("indicators", {}) or {}).get("quote", [{}]) or [{}])[0]
+        closes = quote.get("close", []) or []
+
+        valid_closes = [safe_float(x) for x in closes if safe_float(x) is not None]
+        last_close = valid_closes[-1] if valid_closes else None
+        price = safe_float(meta.get("regularMarketPrice"), last_close)
+
+        ma20 = simple_moving_average(closes, 20)
+        ma50 = simple_moving_average(closes, 50)
+
+        above_20ma = None if (price is None or ma20 is None) else price > ma20
+        above_50ma = None if (price is None or ma50 is None) else price > ma50
+
+        return {
+            "symbol": symbol,
+            "price": price,
+            "ma20": ma20,
+            "ma50": ma50,
+            "above_20ma": above_20ma,
+            "above_50ma": above_50ma,
+            "three_day_up": is_three_day_up(closes),
+            "three_day_down": is_three_day_down(closes),
+            "note": WATCHLIST_TICKER_NOTES.get(symbol, ""),
+            "ok": True,
+        }
+    except Exception as e:
+        log(f"抓取观察标的数据失败 {symbol}: {e}")
+        return {
+            "symbol": symbol,
+            "price": None,
+            "ma20": None,
+            "ma50": None,
+            "above_20ma": None,
+            "above_50ma": None,
+            "three_day_up": None,
+            "three_day_down": None,
+            "note": WATCHLIST_TICKER_NOTES.get(symbol, ""),
+            "ok": False,
+        }
+
+
+def classify_watchlist_signal(item: dict):
+    above_20ma = item.get("above_20ma")
+    above_50ma = item.get("above_50ma")
+    three_day_up = item.get("three_day_up")
+    three_day_down = item.get("three_day_down")
+
+    if above_50ma is False and three_day_down is True:
+        return {
+            "signal": "风险",
+            "signal_en": "Risk",
+            "signal_level": "risk",
+        }
+    if above_20ma is False:
+        return {
+            "signal": "转弱",
+            "signal_en": "Weakening",
+            "signal_level": "weakening",
+        }
+    if above_20ma is True and above_50ma is True and three_day_up is True:
+        return {
+            "signal": "强",
+            "signal_en": "Strong",
+            "signal_level": "strong",
+        }
+    return {
+        "signal": "观察",
+        "signal_en": "Watch",
+        "signal_level": "watch",
+    }
+
+
+
+def build_watchlist_monitor():
+    out = []
+    for symbol in WATCHLIST_TICKERS:
+        item = fetch_watchlist_symbol(symbol)
+        item.update(classify_watchlist_signal(item))
+        out.append(item)
+        time.sleep(0.12)
+    return out
+
 def build_structure_monitor(snapshot: dict):
     vix_price = snapshot.get("VIX", {}).get("price")
     move_price = snapshot.get("MOVE", {}).get("price")
@@ -1347,6 +1509,7 @@ def build_market_snapshot():
 def build_monitor_payload():
     generated_at = NOW_UTC.strftime("%Y-%m-%d %H:%M:%S UTC")
     market_snapshot = build_market_snapshot()
+    watchlist_monitor = build_watchlist_monitor()
     structure_monitor = build_structure_monitor(market_snapshot)
     layer_summary = build_layer_summary(structure_monitor)
     regime, risk_score, summary_zh, summary_en, internal_score = build_regime(structure_monitor)
@@ -1361,6 +1524,7 @@ def build_monitor_payload():
         "summary_zh": summary_zh,
         "summary_en": summary_en,
         "market_snapshot": market_snapshot,
+        "watchlist_monitor": watchlist_monitor,
         "structure_monitor": structure_monitor,
         "layer_summary": layer_summary,
         "actions": actions,
@@ -1441,6 +1605,27 @@ def bilingual_block(zh: str, en: str) -> str:
     )
 
 
+
+def render_watchlist_table(items: list[dict]) -> str:
+    rows = []
+    for item in items:
+        rows.append(
+            f"""
+<tr>
+  <td>{html.escape(item.get("symbol", ""))}</td>
+  <td>{html.escape(fmt_num(item.get("price"), 2))}</td>
+  <td>{html.escape(fmt_num(item.get("ma20"), 2))}</td>
+  <td>{html.escape(fmt_num(item.get("ma50"), 2))}</td>
+  <td>{html.escape(fmt_bool(item.get("above_20ma")))}</td>
+  <td>{html.escape(fmt_bool(item.get("above_50ma")))}</td>
+  <td>{html.escape(fmt_bool(item.get("three_day_up")))}</td>
+  <td>{html.escape(fmt_bool(item.get("three_day_down")))}</td>
+  <td>{html.escape(item.get("note", ""))}</td>
+</tr>
+""".strip()
+        )
+    return "\n".join(rows)
+
 def write_monitor_html(payload: dict):
     generated_at = payload.get("generated_at", "")
     regime = payload.get("regime", "N/A")
@@ -1451,6 +1636,7 @@ def write_monitor_html(payload: dict):
     one_liner_en = payload.get("actions", {}).get("one_liner_en", "")
     snapshot_html = render_snapshot_cards(payload.get("market_snapshot", {}))
     monitor_rows = render_monitor_table(payload.get("structure_monitor", {}))
+    watchlist_rows = render_watchlist_table(payload.get("watchlist_monitor", []))
     layer_cards = render_layer_cards(payload.get("layer_summary", {}))
     actions = payload.get("actions", {})
     history_links = render_history_links("index.html")
@@ -1747,6 +1933,26 @@ def write_monitor_html(payload: dict):
       </thead>
       <tbody>
         {monitor_rows}
+      </tbody>
+    </table>
+
+    <h2>自选趋势监控</h2>
+    <table>
+      <thead>
+        <tr>
+          <th style="width:90px;">Ticker</th>
+          <th style="width:90px;">收盘价</th>
+          <th style="width:90px;">20MA</th>
+          <th style="width:90px;">50MA</th>
+          <th style="width:90px;">高于20MA</th>
+          <th style="width:90px;">高于50MA</th>
+          <th style="width:110px;">连续3天上涨</th>
+          <th style="width:110px;">连续3天下跌</th>
+          <th>备注</th>
+        </tr>
+      </thead>
+      <tbody>
+        {watchlist_rows}
       </tbody>
     </table>
 
