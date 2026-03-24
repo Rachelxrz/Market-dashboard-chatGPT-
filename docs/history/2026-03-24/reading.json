@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-24 19:32:52 UTC",
-  "generated_at_unix": 1774380772,
+  "generated_at": "2026-03-24 21:08:33 UTC",
+  "generated_at_unix": 1774386513,
   "window": {
-    "from_utc": "2026-03-23 19:32:52 UTC",
-    "to_utc": "2026-03-24 19:32:52 UTC",
+    "from_utc": "2026-03-23 21:08:33 UTC",
+    "to_utc": "2026-03-24 21:08:33 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,99 +14,99 @@
       "items": [
         {
           "rank": 1,
-          "title": "‘It feels slimy’: My friend offered to be my adviser, but didn’t tell me he’s paid to push financial products. Can I trust him?",
-          "link": "https://www.marketwatch.com/story/it-feels-slimy-my-friend-offered-to-be-my-adviser-but-didnt-tell-me-hes-paid-to-push-financial-products-can-i-trust-him-4de53a0a?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-03-24 19:30 UTC",
-          "analysis_zh": "一位朋友主动提出担任我的财务顾问，但却没有告诉我他是通过推销金融产品来获得报酬的。这种未披露的收入分享可能导致利益冲突，因为顾问可能会倾向于推荐那些能给他们带来更多收入的基金。这一事件引发了对财务顾问透明度和信任度的关注，可能会影响人们对财务建议的接受程度和未来的投资决策。",
-          "analysis_en": "A friend offered to be my financial adviser but failed to disclose that he earns commissions from promoting financial products. This undisclosed revenue sharing creates conflicts of interest, as advisers may be incentivized to recommend funds that pay them more. This situation raises concerns about transparency and trust in financial advising, which could affect how people perceive and accept financial advice in the future, as well as their investment decisions."
+          "title": "Meta must pay $350 million for violating New Mexico law in child exploitation case, jury rules",
+          "link": "https://www.cnbc.com/2026/03/24/jury-reaches-verdict-in-meta-child-safety-trial-in-new-mexico.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-03-24 21:08 UTC",
+          "analysis_zh": "新墨西哥州的陪审团裁定Meta公司需支付3.5亿美元的赔偿金，原因是其未能有效保护旗下应用程序免受儿童性侵害。这一判决凸显了社交媒体平台在保护未成年人方面的责任，尤其是在网络安全日益受到关注的背景下。此案可能会促使其他州采取类似行动，进一步加强对社交媒体公司的监管，确保他们采取必要措施来保护儿童。",
+          "analysis_en": "A jury in New Mexico has ruled that Meta must pay $350 million for failing to adequately protect its apps from child predators. This verdict highlights the responsibility social media platforms have in safeguarding minors, especially as concerns over online safety grow. The case may encourage other states to pursue similar actions, leading to increased regulation of social media companies to ensure they take necessary steps to protect children."
         },
         {
           "rank": 2,
-          "title": "World has 'never experienced' soaring refining margins like this, TotalEnergies CEO tells CNBC",
-          "link": "https://www.cnbc.com/2026/03/24/totalenergies-ceo-world-has-never-experienced-refining-margins-like-this-.html",
+          "title": "Senate Republicans, White House nearing deal to end DHS shutdown amid TSA delays",
+          "link": "https://www.cnbc.com/2026/03/24/dhs-homeland-shutdown-tsa-delays-senate-white-house-funding-deal.html",
           "source": "US Top News and Analysis",
-          "published_utc": "2026-03-24 19:28 UTC",
-          "analysis_zh": "TotalEnergies首席执行官帕特里克·普亚纳在接受CNBC采访时表示，全球炼油利润正在以空前的速度飙升，这一现象与伊朗战争及与白宫达成的10亿美元交易密切相关。此举不仅反映了全球能源市场的剧烈波动，也可能对未来的投资决策产生深远影响。随着美国对能源投资的重视，企业可能会重新评估其在该领域的战略布局。",
-          "analysis_en": "TotalEnergies CEO Patrick Pouyanné stated in an interview with CNBC that refining margins are soaring at an unprecedented rate, a situation closely linked to the Iran war and a $1 billion deal with the White House. This trend not only highlights the volatility in the global energy market but may also have significant implications for future investment decisions. As the U.S. places greater emphasis on energy investments, companies may reassess their strategic positioning in this sector."
+          "published_utc": "2026-03-24 21:07 UTC",
+          "analysis_zh": "美国国土安全部自二月份以来因民主党对移民执法政策的担忧而停摆。最近，参议院的共和党与白宫正在接近达成协议，以结束这一停摆，并解决因人身安全局（TSA）延误而引发的公众不满。这一协议的达成不仅有助于恢复国土安全部的正常运作，还可能缓解民众对航空安全的担忧，从而影响到旅行和运输行业的稳定。",
+          "analysis_en": "The Department of Homeland Security has been shut down since February due to Democratic concerns over its immigration enforcement policies. Recently, Senate Republicans and the White House are nearing a deal to end this shutdown and address public dissatisfaction caused by delays at the Transportation Security Administration (TSA). The agreement's resolution will not only help restore the normal functioning of the Department of Homeland Security but may also alleviate public concerns about air travel security, thereby impacting the stability of the travel and transportation sectors."
         },
         {
           "rank": 3,
-          "title": "Senate Republicans, White House move toward ending DHS shutdown amid TSA delays",
-          "link": "https://www.cnbc.com/2026/03/24/dhs-homeland-shutdown-tsa-delays-senate-white-house-funding-deal.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-03-24 19:18 UTC",
-          "analysis_zh": "美国国土安全部自二月份以来一直处于停摆状态，原因是民主党对其移民执法政策的担忧。最近，参议院的共和党与白宫开始朝着结束这一停摆的方向迈进，这一进展对于减少机场安检延误至关重要。若停摆持续，可能会对航空旅行和国家安全产生更大影响，尤其是在假期高峰期间。",
-          "analysis_en": "The Department of Homeland Security has been shut down since February due to Democratic concerns over its immigration enforcement policies. Recently, Senate Republicans and the White House have begun moving towards ending this shutdown, which is crucial for reducing delays at airport security. If the shutdown continues, it could have a more significant impact on air travel and national security, especially during peak holiday seasons."
-        },
-        {
-          "rank": 4,
-          "title": "Micron stock sinks for a fourth straight day despite dominant earnings report",
-          "link": "https://www.cnbc.com/2026/03/24/micron-mu-stock-q2-earnings-memory-shortage.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-03-24 19:16 UTC",
-          "analysis_zh": "美光科技的股票在发布强劲财报后，连续第四天下跌，股价累计下跌约15%。尽管该公司在上个季度的收入几乎增长了三倍，但市场对其未来前景的担忧导致投资者抛售股票。这一现象表明，尽管公司业绩良好，市场情绪和预期仍然对股价产生重大影响，可能会影响其他科技类公司的投资信心。",
-          "analysis_en": "Micron's stock has fallen for the fourth consecutive day, dropping about 15% despite the company reporting nearly a threefold increase in revenue last quarter. The decline in stock price reflects investor concerns about the company's future prospects, leading to significant sell-offs. This situation highlights how market sentiment and expectations can heavily influence stock prices, potentially affecting investor confidence in other technology companies as well."
-        },
-        {
-          "rank": 5,
-          "title": "US safety agency says tracking system failed at LaGuardia during jet collision",
-          "link": "https://www.investing.com/news/stock-market-news/us-safety-agency-says-tracking-system-failed-at-laguardia-during-jet-collision-4578325",
-          "source": "Stock Market News",
-          "published_utc": "2026-03-24 19:12 UTC",
-          "analysis_zh": "美国安全机构表示，在拉瓜迪亚机场发生的喷气式飞机碰撞事件中，追踪系统出现了故障。这一事件引发了对航空安全的广泛关注，因为有效的追踪系统对于防止类似事故至关重要。此次故障可能会导致对机场安全措施的重新评估，并促使相关部门加强对航空设备的监管。",
-          "analysis_en": "The U.S. safety agency reported that the tracking system failed during a jet collision at LaGuardia Airport. This incident has raised significant concerns about aviation safety, as an effective tracking system is crucial for preventing similar accidents. The failure may lead to a reassessment of safety measures at the airport and prompt authorities to enhance oversight of aviation equipment."
-        },
-        {
-          "rank": 6,
-          "title": "Baltimore is first U.S. city to sue over Grok deepfake porn as legal pressure mounts on Musk's xAI",
-          "link": "https://www.cnbc.com/2026/03/24/musk-xai-sued-baltimore-grok-deepfake-porn.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-03-24 19:10 UTC",
-          "analysis_zh": "巴尔的摩成为美国首个因Grok深度伪造色情内容而提起诉讼的城市。这一诉讼是在国际监管调查之后发起的，反映出对埃隆·马斯克的xAI及其Grok聊天机器人的法律压力正在加大。这一事件的重要性在于，它可能会引发更多城市和个人对深度伪造技术的法律挑战，进而影响相关技术的开发和使用规范。",
-          "analysis_en": "Baltimore has become the first city in the U.S. to file a lawsuit over Grok deepfake porn. This lawsuit comes in the wake of international regulatory investigations and highlights the increasing legal pressure on Elon Musk's xAI and its Grok chatbot. The significance of this event lies in its potential to inspire more cities and individuals to pursue legal action against deepfake technology, which could ultimately affect the development and regulation of such technologies."
-        },
-        {
-          "rank": 7,
           "title": "Long airport lines may soon disappear as senators sound hopeful on funding deal",
           "link": "https://www.marketwatch.com/story/long-airport-lines-may-soon-disappear-as-senators-sound-hopeful-on-funding-deal-7483c98e?mod=mw_rss_topstories",
           "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-03-24 19:01 UTC",
-          "analysis_zh": "美国国会参议员们对一项资金计划表示乐观，这可能会结束长期的部分政府关门，并恢复交通安全管理局员工的薪水。这项计划的通过有望改善全国许多机场的排队状况，减少旅客在安检时的等待时间。这不仅能提升旅客的出行体验，也可能促进航空业的复苏和经济的整体增长。",
-          "analysis_en": "U.S. senators are expressing optimism about a funding plan that could end a prolonged partial government shutdown and restore paychecks for Transportation Security Administration employees. The passage of this plan is expected to improve the long wait times at many airports across the country, reducing the time travelers spend in security lines. This not only enhances the travel experience but may also contribute to the recovery of the airline industry and overall economic growth."
+          "published_utc": "2026-03-24 21:03 UTC",
+          "analysis_zh": "美国国会参议员对一项资金计划表示乐观，这项计划有望结束长期的部分政府关停，并重新启动交通安全管理局员工的薪水。这意味着，许多机场的长队问题可能会得到缓解，旅客的出行体验将大大改善。这一变化不仅对航空公司和机场运营商有利，也将促进旅游业的复苏，提升整体经济活力。",
+          "analysis_en": "U.S. senators are expressing optimism about a funding plan that could end a prolonged partial government shutdown and restart paychecks for Transportation Security Administration employees. This development suggests that long lines at many airports may soon be alleviated, significantly improving the travel experience for passengers. Such a change would benefit airlines and airport operators, while also boosting the recovery of the tourism industry and enhancing overall economic activity."
+        },
+        {
+          "rank": 4,
+          "title": "Analysis-Estee Lauder’s bet on Puig is bold fragrance play in a volatile world",
+          "link": "https://www.investing.com/news/stock-market-news/analysisestee-lauders-bet-on-puig-is-bold-fragrance-play-in-a-volatile-world-4578149",
+          "source": "Stock Market News",
+          "published_utc": "2026-03-24 21:01 UTC",
+          "analysis_zh": "雅诗兰黛最近收购了西班牙香水品牌Puig，这一举动在当前市场波动的背景下显得尤为大胆。这项投资不仅展示了雅诗兰黛在香水领域的雄心，也反映了其对未来市场潜力的信心。这一收购可能会影响雅诗兰黛的品牌组合和市场竞争力，尤其是在高端香水市场中。",
+          "analysis_en": "Estée Lauder recently acquired the Spanish fragrance brand Puig, a bold move in the context of current market volatility. This investment not only demonstrates Estée Lauder's ambition in the fragrance sector but also reflects its confidence in the potential of future markets. This acquisition could impact Estée Lauder's brand portfolio and competitive positioning, particularly in the high-end fragrance market."
+        },
+        {
+          "rank": 5,
+          "title": "OpenAI shutters short-form video app Sora as company reels in costs",
+          "link": "https://www.cnbc.com/2026/03/24/openai-shutters-short-form-video-app-sora-as-company-reels-in-costs.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-03-24 20:59 UTC",
+          "analysis_zh": "OpenAI宣布关闭其短视频应用Sora，该应用在推出六个月后迅速走红。这一决定反映了公司在成本控制方面的努力，尤其是在经济环境不确定的情况下。Sora的关闭可能会影响用户的内容创作和分享方式，同时也显示出科技公司在市场竞争中面临的压力。",
+          "analysis_en": "OpenAI has announced the closure of its short-form video app Sora, which went viral shortly after its launch six months ago. This decision reflects the company's efforts to rein in costs, particularly in an uncertain economic environment. The shutdown of Sora may affect how users create and share content, while also highlighting the pressures tech companies face in a competitive market."
+        },
+        {
+          "rank": 6,
+          "title": "Air Canada provides new update on LaGuardia accident",
+          "link": "https://www.investing.com/news/stock-market-news/air-canada-provides-new-update-on-laguardia-accident-93CH-4578604",
+          "source": "Stock Market News",
+          "published_utc": "2026-03-24 20:49 UTC",
+          "analysis_zh": "加拿大航空公司近日就拉瓜迪亚机场的事故发布了最新消息。此次事故引发了公众的广泛关注，因为它涉及到航空安全和乘客的生命安全。航空公司对此事件的处理和后续措施将直接影响公众对其安全性的信任，以及未来的航班安排和运营策略。",
+          "analysis_en": "Air Canada recently provided an update on the accident at LaGuardia Airport. This incident has garnered significant public attention due to its implications for aviation safety and passenger well-being. The airline's response and subsequent measures will directly affect public trust in its safety protocols, as well as future flight schedules and operational strategies."
+        },
+        {
+          "rank": 7,
+          "title": "OpenAI to discontinue Sora video platform",
+          "link": "https://www.investing.com/news/stock-market-news/openai-set-to-discontinue-sora-video-platform-app-wsj-reports-4578391",
+          "source": "Stock Market News",
+          "published_utc": "2026-03-24 20:49 UTC",
+          "analysis_zh": "OpenAI宣布将停止其Sora视频平台的运营。这一决定引发了广泛关注，因为Sora曾被视为推动视频内容创作和分享的重要工具。停止该平台可能会影响许多依赖于其服务的创作者和用户，同时也可能对OpenAI在内容创作领域的声誉产生影响。",
+          "analysis_en": "OpenAI has announced that it will discontinue its Sora video platform. This decision has garnered significant attention, as Sora was seen as an important tool for promoting video content creation and sharing. The shutdown of the platform may affect many creators and users who relied on its services, and it could also impact OpenAI's reputation in the content creation space."
         },
         {
           "rank": 8,
-          "title": "Home Depot makes another pro deal — plus, what's behind Corning's big rally",
-          "link": "https://www.cnbc.com/2026/03/24/home-depot-makes-another-pro-deal-plus-whats-behind-cornings-big-rally.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-03-24 18:55 UTC",
-          "analysis_zh": "家得宝（Home Depot）近日宣布了一项新的专业交易，这一举措可能会对其市场竞争力产生积极影响。此举不仅展示了公司在专业市场的扩展策略，还可能吸引更多的专业客户，从而提升销售额。与此同时，康宁（Corning）公司的股价大幅上涨，反映出投资者对其未来增长潜力的乐观预期。这些动态表明，市场对零售和科技行业的信心正在增强，可能会推动相关企业的投资和发展。",
-          "analysis_en": "Home Depot recently announced a new professional deal, which could positively impact its market competitiveness. This move not only highlights the company's strategy to expand in the professional market but may also attract more professional customers, thereby increasing sales. Meanwhile, Corning's stock price has surged, reflecting investor optimism about its future growth potential. These developments indicate a growing confidence in the retail and technology sectors, which could drive further investment and growth for related companies."
+          "title": "GameStop posts 14% fall in quarterly revenue amid digital gaming shift",
+          "link": "https://www.investing.com/news/stock-market-news/gamestop-posts-14-fall-in-quarterly-revenue-amid-digital-gamingshift-4578601",
+          "source": "Stock Market News",
+          "published_utc": "2026-03-24 20:48 UTC",
+          "analysis_zh": "游戏零售商GameStop在最新财报中报告季度收入下降14%，这主要是由于数字游戏的兴起和消费者购买习惯的变化。这一现象反映了传统游戏零售模式面临的挑战，也显示出市场对数字内容的偏好正在加速转变。这一变化可能会影响GameStop的未来战略，迫使其重新评估业务模式，以适应不断变化的市场环境。",
+          "analysis_en": "GameStop reported a 14% decline in quarterly revenue, primarily due to the rise of digital gaming and changing consumer purchasing habits. This trend highlights the challenges faced by traditional game retail models and indicates a rapid shift in market preference towards digital content. Such changes may affect GameStop's future strategies, compelling the company to reassess its business model to adapt to the evolving market landscape."
         },
         {
           "rank": 9,
-          "title": "UPS withdraws latest driver buyout scheme in central region states",
-          "link": "https://www.investing.com/news/stock-market-news/ups-withdraws-latest-driver-buyout-scheme-in-central-region-states-4578295",
+          "title": "MercadoLibre to invest $11 billion in Brazil this year",
+          "link": "https://www.investing.com/news/stock-market-news/mercadolibre-to-invest-11-billion-in-brazil-this-year-4578587",
           "source": "Stock Market News",
-          "published_utc": "2026-03-24 18:54 UTC",
-          "analysis_zh": "联合包裹服务公司（UPS）近日宣布撤回其在中部地区推出的最新司机买断计划。这一决定引发了广泛关注，因为该计划原本旨在减少司机人数并降低运营成本。此举可能会影响UPS在该地区的劳动力结构，进而对公司的服务效率和客户满意度产生潜在影响。",
-          "analysis_en": "United Parcel Service (UPS) recently announced the withdrawal of its latest driver buyout scheme in the central region states. This decision has garnered significant attention, as the program was intended to reduce the number of drivers and lower operational costs. The move may affect UPS's workforce structure in the region, potentially impacting the company's service efficiency and customer satisfaction."
+          "published_utc": "2026-03-24 20:42 UTC",
+          "analysis_zh": "MercadoLibre宣布将在今年向巴西投资110亿美元。这一举措不仅显示了公司对巴西市场的信心，也反映了该地区电子商务和金融科技的快速增长。此项投资可能会促进当地经济发展，并为数以千计的工作岗位创造机会。此外，这也可能吸引其他国际投资者关注巴西市场，进一步推动该国的数字化转型。",
+          "analysis_en": "MercadoLibre has announced an investment of $11 billion in Brazil this year. This move demonstrates the company's confidence in the Brazilian market and highlights the rapid growth of e-commerce and fintech in the region. The investment is likely to boost the local economy and create thousands of job opportunities. Furthermore, it may attract the attention of other international investors to the Brazilian market, further advancing the country's digital transformation."
         },
         {
           "rank": 10,
-          "title": "Kuwait says Strait of Hormuz closure is beyond catastrophic, will trigger domino effect across global economy",
-          "link": "https://www.cnbc.com/2026/03/24/iran-war-oil-strait-hormuz-kuwait-gulf.html",
+          "title": "Trump says U.S. and Iran are 'in negotiations right now,' Tehran is 'talking sense'",
+          "link": "https://www.cnbc.com/2026/03/24/trump-iran-war-negotiations.html",
           "source": "US Top News and Analysis",
-          "published_utc": "2026-03-24 18:54 UTC",
-          "analysis_zh": "科威特石油公司首席执行官纳瓦夫·阿尔萨巴赫表示，伊朗封锁霍尔木兹海峡将对全球经济造成灾难性的影响。他指出，这种封锁不仅会直接影响石油供应，还可能引发一系列连锁反应，导致全球市场的不稳定。霍尔木兹海峡是全球重要的石油运输通道，任何干扰都可能导致油价飙升，从而影响各国经济。",
-          "analysis_en": "The CEO of Kuwait Petroleum Corporation, Shaikh Nawaf Al-Sabah, stated that Iran's blockade of the Strait of Hormuz would have catastrophic consequences for the global economy. He emphasized that this blockade would not only directly impact oil supplies but could also trigger a domino effect, leading to instability in global markets. The Strait of Hormuz is a crucial oil transport route, and any disruption could cause oil prices to surge, thereby affecting economies worldwide."
+          "published_utc": "2026-03-24 20:37 UTC",
+          "analysis_zh": "特朗普表示，美国和伊朗目前正在进行谈判，称德黑兰正在“讲道理”。白宫新闻秘书卡罗琳·莱维特指出，“史诗行动”仍在持续，以实现特朗普总统的军事目标。这一消息引发了对美伊关系未来发展的关注，尤其是在中东地区的安全局势方面。若谈判取得进展，可能会影响美国在该地区的军事部署和外交政策。",
+          "analysis_en": "Trump stated that the U.S. and Iran are currently in negotiations, with Tehran \"talking sense.\" White House press secretary Karoline Leavitt noted that \"Operation Epic Fury\" continues unabated to achieve President Trump's military objectives. This news raises concerns about the future of U.S.-Iran relations, particularly regarding security in the Middle East. If negotiations progress, it could affect U.S. military deployments and foreign policy in the region."
         }
       ]
     },
     "健康": {
       "description": "医学、营养、抗衰老、代谢与公共健康",
-      "count": 10,
+      "count": 8,
       "items": [
         {
           "rank": 1,
@@ -114,8 +114,8 @@
           "link": "https://www.nytimes.com/2026/03/23/health/diabetes-africa-cameroon-type-5.html",
           "source": "NYT > Health",
           "published_utc": "2026-03-24 16:55 UTC",
-          "analysis_zh": "随着糖尿病导致的死亡人数开始与疟疾等传染病相抗衡，非洲地区出现了一种与营养不良相关的新型糖尿病。这一现象的出现表明，糖尿病在非洲的影响正在加剧，尤其是在那些无法获得筛查和治疗的患者中。这不仅对公共卫生构成了新的挑战，也可能对经济发展和社会稳定产生深远影响。",
-          "analysis_en": "As deaths from diabetes begin to rival those from infectious diseases like malaria, a new form of diabetes linked to malnutrition is emerging in Africa. This development indicates that the impact of diabetes is intensifying in the region, particularly among patients who cannot access screening or care. This situation poses new challenges for public health and may have significant implications for economic development and social stability."
+          "analysis_zh": "随着糖尿病导致的死亡人数开始与疟疾等传染病相当，非洲出现了一种与营养不良相关的新型糖尿病。这一现象的出现不仅表明了公共卫生体系的脆弱性，也反映了经济条件差的患者在筛查和治疗方面面临的巨大挑战。这种新型糖尿病可能会加重非洲的健康负担，影响国家的医疗资源分配和经济发展。",
+          "analysis_en": "As deaths from diabetes begin to rival those from infectious diseases like malaria, a new form of the condition linked to malnutrition is emerging in Africa. This situation highlights the fragility of public health systems and the significant challenges faced by economically disadvantaged patients in accessing screening and care. The rise of this new type of diabetes could exacerbate the health burden in Africa, impacting the allocation of medical resources and economic development in the region."
         },
         {
           "rank": 2,
@@ -123,8 +123,8 @@
           "link": "https://www.nytimes.com/2026/03/24/health/mdma-therapy-ptsd-psychedelic-australia.html",
           "source": "NYT > Health",
           "published_utc": "2026-03-24 13:28 UTC",
-          "analysis_zh": "澳大利亚的MDMA治疗在创伤后应激障碍（PTSD）患者中显示出积极效果，尽管高昂的费用限制了人们的接受度。精神科医生表示，这一实验为迷幻药物的应用开辟了新的可能性，但也暴露了这一新兴领域的局限性。这一研究的重要性在于，它可能推动更多对心理健康治疗方法的探索，然而，成本问题可能会使许多患者无法受益。",
-          "analysis_en": "MDMA therapy in Australia has shown positive results for patients with post-traumatic stress disorder (PTSD), but the high costs limit accessibility. Psychiatrists indicate that this experiment opens new possibilities for the use of psychedelic medicine, while also revealing the limitations of this emerging field. The significance of this research lies in its potential to encourage further exploration of mental health treatment methods, although the cost issue may prevent many patients from benefiting."
+          "analysis_zh": "澳大利亚对MDMA治疗创伤后应激障碍（PTSD）的实验显示了积极的结果，精神科医生表示这一疗法的有效性逐渐得到认可。然而，这项治疗的高昂费用限制了患者的可及性。这一现象不仅反映了迷幻药物医学领域的潜力，也揭示了在推广新疗法时面临的经济障碍，可能会影响更多患者的治疗选择。",
+          "analysis_en": "Australia's experiment with MDMA therapy for PTSD patients has shown promising results, with psychiatrists acknowledging its effectiveness. However, the high costs associated with this treatment limit access for many patients. This situation not only highlights the potential of psychedelic medicine but also underscores the economic barriers that can hinder the adoption of new therapies, potentially affecting treatment options for a broader range of patients."
         },
         {
           "rank": 3,
@@ -132,8 +132,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/03/260324024253.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-24 10:39 UTC",
-          "analysis_zh": "科学家们发现，NAD⁺这一小分子可能在减缓衰老和预防阿尔茨海默病及帕金森病方面发挥重要作用。NAD⁺在细胞能量产生、DNA修复和维持整体健康中扮演着关键角色，但其水平随着年龄的增长而逐渐下降，这可能导致记忆问题和其他与年龄相关的疾病。研究人员正在探索通过补充如NR和NMN等化合物来提高NAD⁺的水平，初步研究显示这可能改善记忆、代谢和身体功能。这项研究的重要性在于，它为健康老龄化提供了新的方向，可能改变我们对衰老过程的理解和应对方式。",
-          "analysis_en": "Scientists have discovered that the molecule NAD⁺ may play a crucial role in slowing aging and preventing diseases such as Alzheimer's and Parkinson's. NAD⁺ is essential for energy production, DNA repair, and overall health, but its levels decline with age, potentially leading to memory issues and other age-related diseases. Researchers are exploring ways to boost NAD⁺ levels using compounds like NR and NMN, with early studies suggesting improvements in memory, metabolism, and physical function. This research is significant as it offers new insights into healthy aging and could change our understanding and approach to the aging process."
+          "analysis_zh": "科学家们发现，NAD⁺这一小分子可能在减缓衰老和对抗阿尔茨海默病与帕金森病方面发挥重要作用。NAD⁺在细胞能量产生、DNA修复和整体健康维持中起着关键作用，但随着年龄增长，其水平会逐渐下降，这可能导致记忆问题和其他与年龄相关的疾病。研究人员正在探索通过补充如NR和NMN等化合物来提升NAD⁺水平，初步研究显示这可能改善记忆、代谢和身体功能。这项研究的重要性在于，如果能够有效提升NAD⁺水平，可能会为延缓衰老和预防相关疾病提供新的治疗思路。",
+          "analysis_en": "Scientists have discovered that a small molecule called NAD⁺ could play a crucial role in slowing aging and combating diseases like Alzheimer's and Parkinson's. NAD⁺ is essential for energy production, DNA repair, and overall health, but its levels decline with age, potentially leading to memory issues and other age-related diseases. Researchers are investigating ways to boost NAD⁺ levels using compounds like NR and NMN, with early studies suggesting improvements in memory, metabolism, and physical function. The significance of this research lies in the potential to effectively enhance NAD⁺ levels, which could lead to new treatment strategies for delaying aging and preventing related diseases."
         },
         {
           "rank": 4,
@@ -141,8 +141,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/03/260324024302.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-24 08:08 UTC",
-          "analysis_zh": "科学家们在追求口服胰岛素的梦想上已经努力了一个多世纪，但由于消化系统会破坏胰岛素，导致患者不得不依赖每日注射。熊本大学的研究团队开发了一种新方法，利用一种小肽帮助胰岛素穿过肠壁，从而实现口服给药。这一突破不仅可能改善糖尿病患者的生活质量，还可能改变胰岛素的使用方式，减少注射带来的不便和痛苦。",
-          "analysis_en": "For over a century, scientists have been pursuing the dream of oral insulin, but the digestive system has consistently destroyed the drug, forcing patients to rely on daily injections. Researchers at Kumamoto University have developed a new method using a small peptide that helps insulin pass through the intestinal wall, enabling oral administration. This breakthrough could not only improve the quality of life for diabetes patients but also transform the way insulin is used, reducing the inconvenience and discomfort associated with injections."
+          "analysis_zh": "科学家们在追求口服胰岛素的梦想上已经努力了一个多世纪，但由于消化系统会破坏胰岛素，导致患者不得不依赖每日注射。熊本大学的研究团队最近开发了一种新方法，利用一种小肽帮助胰岛素穿过肠壁，从而实现口服给药。这项研究的突破不仅可能改善糖尿病患者的生活质量，还可能改变胰岛素的使用方式，使其更加便捷和有效。",
+          "analysis_en": "For over a century, scientists have been striving to create oral insulin, but the digestive system has consistently destroyed the drug, forcing patients to rely on daily injections. Researchers at Kumamoto University have recently developed a new approach using a small peptide that helps insulin pass through the intestinal wall, enabling oral administration. This breakthrough could not only enhance the quality of life for diabetes patients but also transform the way insulin is used, making it more convenient and effective."
         },
         {
           "rank": 5,
@@ -150,8 +150,8 @@
           "link": "https://www.nytimes.com/2026/03/24/health/tango-therapy-parkinsons.html",
           "source": "NYT > Health",
           "published_utc": "2026-03-24 07:00 UTC",
-          "analysis_zh": "阿根廷一家医院的帕金森病患者每周一次通过探戈舞的动作来改善平衡、僵硬和协调性的问题。这种舞蹈疗法不仅为患者提供了身体锻炼的机会，还能增强他们的社交互动和心理健康。随着越来越多的研究支持舞蹈对神经系统疾病的积极影响，这种疗法可能会成为帕金森病患者康复的重要组成部分。",
-          "analysis_en": "Patients with Parkinson's disease at a hospital in Argentina participate in tango therapy once a week to help improve their balance, stiffness, and coordination. This dance therapy not only offers physical exercise but also enhances social interaction and mental well-being among the patients. As more studies support the positive effects of dance on neurological disorders, this approach may become a significant part of rehabilitation for those with Parkinson's disease."
+          "analysis_zh": "在阿根廷的一家医院，每周都有帕金森病患者通过探戈舞的动作来改善平衡、僵硬和协调性的问题。这种舞蹈疗法不仅提供了身体锻炼的机会，还能增强患者的社交互动和心理健康。探戈的节奏和情感表达为患者带来了新的希望，可能会改善他们的生活质量。这项研究的重要性在于，它展示了艺术和运动结合的潜力，为帕金森病的治疗提供了新的思路。",
+          "analysis_en": "In an Argentine hospital, Parkinson's disease patients participate in tango therapy once a week to improve their balance, stiffness, and coordination. This dance therapy not only offers physical exercise but also enhances social interaction and mental well-being for the patients. The rhythm and emotional expression of tango provide new hope, potentially improving their quality of life. The significance of this study lies in its demonstration of the potential of combining art and movement, offering new insights into the treatment of Parkinson's disease."
         },
         {
           "rank": 6,
@@ -159,8 +159,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/03/260323005542.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-24 02:28 UTC",
-          "analysis_zh": "一项新的研究发现，常见的骨骼激素可能通过阻止疼痛神经在脊柱中生长，从而缓解慢性背痛。这一发现具有重要意义，因为慢性背痛是全球普遍存在的健康问题，影响着各个年龄段的人群，并给医疗系统带来巨大压力。研究表明，这种激素不仅可以增强骨骼，还可能从生物学根源上解决疼痛问题，为未来的治疗提供了新的方向。",
-          "analysis_en": "A new study has found that a common bone hormone may alleviate chronic back pain by blocking the growth of pain-sensing nerves in the spine. This discovery is significant because chronic back pain is a widespread health issue that affects people of all ages and places a substantial burden on healthcare systems. The research suggests that this hormone could not only strengthen bones but also address the pain at its biological roots, offering new avenues for future treatments."
+          "analysis_zh": "一项新的研究发现，常用的骨骼激素可能通过阻止疼痛神经在受损脊柱区域的生长，来缓解慢性背痛。这一发现具有重要意义，因为慢性背痛是全球范围内普遍存在的健康问题，影响着各个年龄段的人群。传统治疗往往只能缓解症状，而无法解决根本原因。研究结果暗示，未来可能会出现针对背痛生物学根源的新疗法，从而改善患者的生活质量。",
+          "analysis_en": "A new study has found that a commonly used bone hormone may alleviate chronic back pain by preventing the growth of pain-sensing nerves in damaged spinal areas. This finding is significant because chronic back pain is a widespread health issue affecting people of all ages globally. Traditional treatments often only address symptoms rather than the underlying causes. The research suggests that future therapies could target the biological roots of back pain, potentially improving the quality of life for many patients."
         },
         {
           "rank": 7,
@@ -168,8 +168,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/03/260323005543.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-24 01:06 UTC",
-          "analysis_zh": "一项梅奥诊所的研究发现，使用更年期激素治疗的绝经后女性在服用减肥药物tirzepatide时，平均体重减轻了约35%，这一结果显著高于仅使用该药物的女性。这一发现表明，激素与现代减肥药物之间可能存在意想不到的协同作用，为面临更高心脏代谢风险的女性提供了更有效的个性化治疗方案。这项研究的重要性在于，它不仅为绝经后女性的减肥提供了新思路，还可能帮助降低与肥胖相关的健康风险，如心血管疾病和2型糖尿病。",
-          "analysis_en": "A study from the Mayo Clinic found that postmenopausal women using menopausal hormone therapy while taking the weight-loss drug tirzepatide lost about 35% more weight than those using the drug alone. This finding suggests a surprising synergy between hormones and modern weight-loss medications, potentially offering more effective personalized treatment options for women facing increased cardiometabolic risks. The significance of this research lies in its potential to provide new strategies for weight management in postmenopausal women, while also helping to reduce health risks associated with obesity, such as cardiovascular disease and type 2 diabetes."
+          "analysis_zh": "一项梅奥诊所的研究发现，绝经后女性在使用绝经激素疗法的同时服用减肥药物tirzepatide，体重减轻的幅度比单独使用该药物的女性多出约35%。这一发现表明激素与现代减肥药物之间可能存在意想不到的协同作用，这对面临更高心代谢风险的女性来说，可能会开启更有效、个性化的治疗方案。研究结果的发布为改善绝经后女性的健康提供了新的思路，尤其是在减肥和预防相关疾病方面。",
+          "analysis_en": "A study from the Mayo Clinic found that postmenopausal women who used menopausal hormone therapy while taking the weight-loss drug tirzepatide lost about 35% more weight than those who used the drug alone. This finding suggests a surprising synergy between hormones and modern weight-loss medications, potentially paving the way for more effective and personalized treatment options for women facing increased cardiometabolic risks. The results provide new insights into improving health outcomes for postmenopausal women, particularly in terms of weight management and the prevention of related health issues."
         },
         {
           "rank": 8,
@@ -177,26 +177,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/03/260323005538.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-24 00:24 UTC",
-          "analysis_zh": "研究人员开发了一种新型牙齿美白粉，它利用电动牙刷的振动安全地去除牙渍。与传统的美白产品不同，这种牙粉不仅能美白牙齿，还能修复牙釉质并支持健康的口腔细菌。实验室测试显示出显著的美白效果，而动物研究则表明这种产品能够减少有害微生物和炎症。这一创新可能为家庭口腔护理带来新一代的选择，帮助人们在家中安全有效地维护口腔健康。",
-          "analysis_en": "Researchers have developed a new teeth-whitening powder that safely removes stains using the vibrations of an electric toothbrush. Unlike traditional whiteners, this powder not only whitens teeth but also repairs enamel and supports healthy oral bacteria. Lab tests demonstrated significant whitening effects, while animal studies indicated a reduction in harmful microbes and inflammation. This innovation could lead to a new generation of at-home dental care, allowing people to maintain their oral health safely and effectively at home."
-        },
-        {
-          "rank": 9,
-          "title": "J. Michael Bishop, Nobel Prize Winner for Cancer Research, Dies at 90",
-          "link": "https://www.nytimes.com/2026/03/22/obituaries/j-michael-bishop-dead.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-03-23 20:32 UTC",
-          "analysis_zh": "J. Michael Bishop，诺贝尔奖获得者，因癌症研究而闻名，近日去世，享年90岁。他在癌症致病基因的发现中发挥了重要作用，这一发现对癌症治疗和预防具有深远影响。作为加州大学旧金山分校的校长，他还推动了该校的重大扩展，提升了学术研究的水平。他的离世不仅是科学界的损失，也可能影响未来癌症研究的方向和资金支持。",
-          "analysis_en": "J. Michael Bishop, a Nobel Prize winner renowned for his cancer research, has passed away at the age of 90. He played a crucial role in the discovery of cancer-causing genes, which has had a profound impact on cancer treatment and prevention. As chancellor of the University of California, San Francisco, he also led significant expansions at the institution, enhancing its academic research capabilities. His death is not only a loss for the scientific community but may also affect the direction and funding of future cancer research."
-        },
-        {
-          "rank": 10,
-          "title": "David Botstein, Gene-Mapping Pioneer, Dies at 83",
-          "link": "https://www.nytimes.com/2026/03/20/science/david-botstein-dead.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-03-23 19:49 UTC",
-          "analysis_zh": "大卫·博特斯坦，这位基因定位的先驱，享年83岁。他开发的方法使研究人员能够在人体DNA中找到致病基因，并最终绘制出整个复杂的人类基因组。这一成就不仅推动了遗传学的发展，也为疾病的早期诊断和治疗提供了新的可能性。博特斯坦的去世意味着科学界失去了一位重要的领军人物，未来的基因研究可能会受到影响。",
-          "analysis_en": "David Botstein, a pioneer in gene mapping, has passed away at the age of 83. His methods enabled researchers to identify disease-causing genes and ultimately map the entire human genome. This achievement not only advanced the field of genetics but also opened new avenues for early diagnosis and treatment of diseases. Botstein's death represents a significant loss for the scientific community, and it may impact future gene research."
+          "analysis_zh": "研究人员开发了一种新型牙齿美白粉，这种粉末通过电动牙刷的震动来安全地去除牙齿上的污渍。与传统的美白产品不同，这种粉不仅能美白牙齿，还能修复牙釉质并支持口腔内健康细菌的生长。实验室测试显示出显著的美白效果，而动物研究则表明其能减少有害微生物和炎症。这项研究可能为家庭牙齿护理带来新一代的解决方案，促进人们的口腔健康。",
+          "analysis_en": "Researchers have developed a new teeth-whitening powder that safely removes stains using the vibrations of an electric toothbrush. Unlike traditional whiteners, this powder not only whitens teeth but also repairs enamel and supports healthy oral bacteria. Lab tests demonstrated significant whitening effects, while animal studies indicated a reduction in harmful microbes and inflammation. This research could lead to a new generation of at-home dental care solutions, promoting better oral health for individuals."
         }
       ]
     },
@@ -210,8 +192,8 @@
           "link": "https://aeon.co/essays/far-from-junk-the-clock-in-our-dna-and-its-discoverer?utm_source=rss-feed",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-03-24 10:00 UTC",
-          "analysis_zh": "生物学家维多利亚·福伊发现了“垃圾”DNA中存在一种计时装置，这一发现可能揭示复杂生命演化的奥秘。这项研究的重要性在于，它挑战了我们对非编码DNA的传统看法，认为这些部分没有功能。了解这些基因的作用可能会改变我们对生命起源和演化过程的理解，进而影响生物学、医学等多个领域的研究方向。",
-          "analysis_en": "Biologist Victoria Foe has discovered a timing device within \"junk\" DNA, which could unlock the secrets of the evolution of complex life. This finding is significant as it challenges the traditional view that non-coding DNA has no function. Understanding the role of these genes may change our comprehension of the origins and evolutionary processes of life, potentially impacting research directions in biology, medicine, and other fields."
+          "analysis_zh": "生物学家维多利亚·福发现了“垃圾”DNA中存在的一个定时装置，这一发现可能揭示复杂生命演化的秘密。这一研究的重要性在于，它挑战了我们对DNA功能的传统理解，并可能为生物学和进化论带来新的视角。如果这一发现得到进一步验证，可能会推动我们对生命起源及其演变过程的深入研究。",
+          "analysis_en": "Biologist Victoria Foe has discovered a timing device within 'junk' DNA, which could reveal secrets about the evolution of complex life. This research is significant as it challenges our traditional understanding of DNA's functions and may provide new insights into biology and evolution. If this discovery is further validated, it could advance our understanding of the origins of life and its evolutionary processes."
         }
       ]
     },
@@ -221,93 +203,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "OpenAI just gave up on its Sora AI video generator",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
+          "source": "The Verge",
+          "published_utc": "2026-03-24 21:08 UTC",
+          "analysis_zh": "OpenAI于周二宣布将停止其视频生成工具Sora的运营。Sora于2024年底推出，几个月前还与迪士尼达成了一项重要的许可协议。此举意味着OpenAI将不再支持Sora应用程序和开发者的API接入，这对依赖该工具的创作者和用户来说无疑是个失望的消息。此外，与迪士尼的合作也因此告一段落，可能会影响到未来的内容创作和分发。",
+          "analysis_en": "On Tuesday, OpenAI announced that it would be discontinuing its video generation tool, Sora. Launched at the end of 2024, Sora had recently entered into a significant licensing deal with Disney. This decision means that OpenAI will no longer support the Sora app or API access for developers, which is disappointing news for creators and users who relied on the tool. Furthermore, the end of the partnership with Disney could impact future content creation and distribution."
+        },
+        {
+          "rank": 2,
+          "title": "Arm’s first CPU ever will plug into Meta’s AI datacenters later this year",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
+          "source": "The Verge",
+          "published_utc": "2026-03-24 20:43 UTC",
+          "analysis_zh": "英国芯片设计公司Arm宣布将推出其首款自主生产的处理器——Arm AGI CPU，并将由Meta在其人工智能数据中心使用。这一消息标志着Arm从仅仅授权芯片设计转向自主生产的重要转变，显示出其在AI领域的雄心。Meta作为首个客户，将与Arm合作开发多个版本的处理器，这可能会影响整个行业的竞争格局，特别是在AI硬件领域。",
+          "analysis_en": "UK-based chip design company Arm has announced the launch of its first self-produced processor, the Arm AGI CPU, which will be utilized by Meta in its AI datacenters. This marks a significant shift for Arm from merely licensing chip designs to producing them independently, highlighting its ambitions in the AI sector. As the first customer, Meta will collaborate with Arm to develop multiple generations of processors, which could impact the competitive landscape of the entire industry, particularly in AI hardware."
+        },
+        {
+          "rank": 3,
+          "title": "Apple is testing a standalone app for its overhauled Siri",
+          "link": "https://www.theverge.com/tech/899801/apple-wwdc-2026-new-siri-apple-intelligence-standalone-app",
+          "source": "The Verge",
+          "published_utc": "2026-03-24 20:41 UTC",
+          "analysis_zh": "苹果正在测试一款独立的应用程序，以重塑其Siri语音助手。根据彭博社的报道，这款新版本的Siri将于2026年6月8日的全球开发者大会上首次亮相，旨在将Siri转变为一个“系统级AI代理”，与各种应用程序深度集成。这一变化不仅提升了Siri对iOS和macOS其他应用的控制能力，还能利用用户的个人数据更好地完成任务。这项更新可能会使Siri在与其他AI搜索工具的竞争中更具优势。",
+          "analysis_en": "Apple is testing a standalone app to revamp its Siri voice assistant. According to a report from Bloomberg, the new version of Siri will debut at the Worldwide Developers Conference on June 8, 2026, aiming to transform Siri into a \"systemwide AI agent\" with deep integration across various applications. This change will enhance Siri's ability to control other apps on iOS and macOS and utilize personal data to complete user tasks more effectively. This update could give Siri a competitive edge against other AI-powered search tools."
+        },
+        {
+          "rank": 4,
+          "title": "The man who coined Metaverse now says Meta’s glasses are creepy",
+          "link": "https://www.theverge.com/tech/899797/metaverse-neal-stephenson-headsets-goggles-glasses-creepy-no-business-case",
+          "source": "The Verge",
+          "published_utc": "2026-03-24 20:08 UTC",
+          "analysis_zh": "Neal Stephenson，这位在1992年出版的科幻小说《雪崩》中首次提出“元宇宙”概念的作家，最近对Meta的智能眼镜表达了不满，称其为“令人毛骨悚然”。他认为，佩戴在脸上的设备并不是未来的发展方向，因为人们不喜欢在脸上佩戴东西，也不信任佩戴这些设备的人。Stephenson的观点可能会对虚拟现实和增强现实行业产生影响，尤其是在设备设计和用户体验方面。",
+          "analysis_en": "Neal Stephenson, the author who coined the term \"Metaverse\" in his 1992 novel \"Snow Crash,\" recently criticized Meta's smart glasses, calling them \"creepy.\" He believes that face-worn devices are not the future, as people are uncomfortable wearing things on their faces and distrust those who do. Stephenson's perspective could significantly influence the virtual and augmented reality industries, particularly regarding device design and user experience."
+        },
+        {
+          "rank": 5,
           "title": "Apple launches iOS 26.4 with AI playlists, purchase sharing, and more",
           "link": "https://www.theverge.com/tech/899799/apple-ios-26-4-ai-playlist-purchase-sharing-update",
           "source": "The Verge",
           "published_utc": "2026-03-24 19:22 UTC",
-          "analysis_zh": "苹果最近发布了iOS 26.4版本，带来了多项小但重要的更新。其中，Apple Music推出了一个名为“Playlist Playground”的新功能，利用人工智能根据用户的文本提示生成歌曲播放列表。这一更新不仅提升了用户的音乐体验，还可能改变人们发现和享受音乐的方式。此外，Apple Music还增加了新的演唱会发现功能，帮助用户找到附近的演出。整体来看，这些更新将进一步增强Apple Music在音乐流媒体市场的竞争力。",
-          "analysis_en": "Apple has recently launched iOS 26.4, introducing several small but significant updates. One of the highlights is the new \"Playlist Playground\" feature in Apple Music, which uses AI to generate song playlists based on user text prompts. This update not only enhances the music experience for users but may also change how people discover and enjoy music. Additionally, Apple Music has added a concert discovery feature to help users find nearby shows. Overall, these updates will strengthen Apple Music's competitiveness in the music streaming market."
+          "analysis_zh": "苹果公司推出了iOS 26.4版本，带来了多项小而重要的更新。其中最引人注目的是Apple Music的新功能“播放列表游乐场”，该功能利用人工智能根据用户的文本提示生成歌曲播放列表，包括标题、描述和曲目列表。这一更新不仅丰富了用户的音乐体验，还可能改变用户与音乐的互动方式。此外，Apple Music还新增了附近演出发现功能，帮助用户找到自己喜爱的艺术家的现场演出，进一步增强了用户与音乐社区的联系。",
+          "analysis_en": "Apple has launched iOS 26.4, introducing several small but significant updates. One of the most notable features is the new \"Playlist Playground\" in Apple Music, which uses AI to generate song playlists based on user text prompts, complete with titles, descriptions, and tracklists. This update not only enhances the music experience for users but may also change how they interact with music. Additionally, Apple Music has added a concert discovery feature that helps users find nearby shows featuring artists from their library, further strengthening the connection between users and the music community."
         },
         {
-          "rank": 2,
+          "rank": 6,
           "title": "Epic Games Lays Off Over 1,000 Employees, Citing Fortnite Slump",
           "link": "https://www.nytimes.com/2026/03/24/business/epic-games-layoffs-fortnite.html",
           "source": "NYT > Technology",
           "published_utc": "2026-03-24 19:12 UTC",
-          "analysis_zh": "Epic Games 宣布裁员超过1000名员工，主要原因是《堡垒之夜》的销售下滑。这次裁员约占该公司员工总数的20%。这一举措反映了游戏行业面临的挑战，尤其是在热门游戏的生命周期结束后。裁员可能会影响公司的创新能力和未来项目的开发，进而影响到整个游戏市场的竞争格局。",
-          "analysis_en": "Epic Games announced it is laying off over 1,000 employees, primarily due to a slump in sales of Fortnite. This cut represents about 20 percent of the company's workforce. This move highlights the challenges faced by the gaming industry, especially as popular games reach the end of their life cycles. The layoffs may affect the company's ability to innovate and develop future projects, which could, in turn, impact the competitive landscape of the entire gaming market."
+          "analysis_zh": "Epic Games 宣布裁员超过 1000 名员工，主要原因是《堡垒之夜》的业绩下滑。这次裁员约占该公司员工总数的 20%。这一举措不仅反映了游戏行业的竞争加剧，也可能对公司的未来发展和其他相关企业产生连锁反应。随着市场需求的变化，Epic Games 需要重新评估其战略，以适应新的行业环境。",
+          "analysis_en": "Epic Games announced that it is laying off over 1,000 employees due to a slump in the performance of Fortnite. This layoff represents about 20% of the company's workforce. This move reflects the increasing competition in the gaming industry and may have ripple effects on the company's future development and other related businesses. As market demands shift, Epic Games will need to reassess its strategies to adapt to the new industry landscape."
         },
         {
-          "rank": 3,
+          "rank": 7,
           "title": "The Lego Game Boy makes for a great gift, and it’s $10 off today",
           "link": "https://www.theverge.com/gadgets/899688/lego-game-boy-set-nintendo-handheld-kohls-deal-sale",
           "source": "The Verge",
           "published_utc": "2026-03-24 18:38 UTC",
-          "analysis_zh": "乐高游戏机（Lego Game Boy）目前在Kohl's商店有10美元的折扣，这个优惠是自去年发布以来首次出现。这个玩具不仅是对1989年任天堂掌机的致敬，还提供了多种互动方式，能够唤起许多人的美好回忆。此次折扣对消费者来说非常重要，因为乐高产品的折扣机会相对较少，尤其是像这样的热门产品。这个优惠可能会吸引更多的消费者购买，尤其是在节假日临近之际。",
-          "analysis_en": "The Lego Game Boy is currently available at Kohl's with a $10 discount, marking the first deal since its launch last year. This toy is not only a tribute to Nintendo's handheld from 1989 but also offers various interactive features that can evoke fond memories for many. This discount is significant for consumers, as opportunities for Lego products to be on sale are relatively rare, especially for popular items like this. The offer may attract more buyers, particularly with the holiday season approaching."
+          "analysis_zh": "乐高游戏机的折扣再次回归，这次在Kohl's商店，消费者可以享受10美元的优惠，而无需会员资格。这款乐高游戏机是对1989年任天堂掌机的致敬，包含421个零件，能够让人们重温童年记忆。此次优惠对于喜欢游戏和乐高的消费者来说，具有很大的吸引力，可能会刺激销售并吸引更多的玩家和收藏者。",
+          "analysis_en": "The discount on the Lego Game Boy is back, this time at Kohl's, where shoppers can save $10 without needing a membership. This Lego Game Boy, consisting of 421 pieces, pays homage to Nintendo's iconic handheld from 1989, allowing people to relive nostalgic memories. This promotion is likely to attract gamers and Lego enthusiasts, potentially boosting sales and drawing in more collectors and players."
         },
         {
-          "rank": 4,
+          "rank": 8,
           "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
           "link": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/",
           "source": "MIT Technology Review",
           "published_utc": "2026-03-24 18:17 UTC",
-          "analysis_zh": "最近，MIT科技评论发布了一本独家电子书，探讨了人工智能代理的自主性问题。随着我们逐渐赋予AI代理更多的自主权，专家们警告说，这可能会带来不可预见的后果。书中提到，如果我们继续沿着当前的道路前进，可能会对人类造成严重威胁。这一讨论引发了对AI技术未来发展的广泛关注，尤其是在伦理和安全方面的潜在影响。",
-          "analysis_en": "Recently, MIT Technology Review released an exclusive eBook discussing the issue of autonomy in AI agents. As we increasingly grant AI agents more independence, experts warn that this could lead to unforeseen consequences. The book highlights that if we continue on the current path, we may pose serious threats to humanity. This discussion has sparked widespread concern about the future development of AI technology, particularly regarding its ethical implications and potential safety risks."
+          "analysis_zh": "最近，MIT科技评论发布了一本独家电子书，探讨了我们是否准备好将真正的自主权交给人工智能代理。书中指出，如果我们继续沿着当前的路径发展，可能会对人类造成严重的风险。这一问题的重要性在于，随着AI技术的进步，我们必须认真考虑其潜在的后果和伦理问题。这不仅影响科技行业的未来发展，也可能对社会的各个层面产生深远的影响。",
+          "analysis_en": "Recently, MIT Technology Review released an exclusive eBook discussing whether we are ready to grant real autonomy to AI agents. The book warns that if we continue on our current trajectory, we could face serious risks to humanity. This issue is significant because, as AI technology advances, we must carefully consider its potential consequences and ethical implications. This not only affects the future development of the tech industry but may also have profound impacts on various aspects of society."
         },
         {
-          "rank": 5,
+          "rank": 9,
           "title": "The Apple Watch SE 3 is even easier to recommend at $50 off",
           "link": "https://www.theverge.com/gadgets/899671/apple-watch-se-third-generation-deal-sale",
           "source": "The Verge",
           "published_utc": "2026-03-24 17:18 UTC",
-          "analysis_zh": "苹果最新发布的Apple Watch SE 3在基本功能上有所提升，甚至超越了更昂贵的型号。现在，这款手表正在进行促销，价格下降至249美元（优惠50美元），使其更具性价比。此款手表的LTE版本首次回落至历史最低价，可能会吸引更多消费者关注，从而影响市场竞争格局。",
-          "analysis_en": "Apple's latest release, the Apple Watch SE 3, has improved on basic features and even outshines more expensive models. Currently on sale for $249 (a $50 discount), this smartwatch offers great value for consumers. The LTE version has hit its all-time low for the first time, which may attract more buyers and potentially impact the competitive landscape in the smartwatch market."
+          "analysis_zh": "苹果最新发布的Apple Watch SE 3在功能上超越了许多更昂贵的型号，令人惊喜。现在，该款手表正在进行促销，价格下调至249美元（优惠50美元），使其更加值得推荐。此款手表的LTE版本首次降至历史最低价，而40mm的GPS版本也降至219美元（优惠30美元）。这次降价可能会吸引更多消费者，进一步推动苹果在可穿戴设备市场的竞争力。",
+          "analysis_en": "Apple's latest release, the Apple Watch SE 3, has surprised many by outperforming more expensive models. It is now on sale for $249, which is a $50 discount, making it even easier to recommend. The LTE version has dropped to its all-time low, while the 40mm GPS version is now priced at $219, a $30 discount. This price reduction may attract more consumers and enhance Apple's competitiveness in the wearable device market."
         },
         {
-          "rank": 6,
+          "rank": 10,
           "title": "ChatGPT and Gemini are fighting to be the AI bot that sells you stuff",
           "link": "https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features",
           "source": "The Verge",
           "published_utc": "2026-03-24 17:13 UTC",
-          "analysis_zh": "随着谷歌和OpenAI推出新功能，人工智能购物竞争愈演愈烈。谷歌与Gap公司合作，让其Gemini人工智能助手能够代表用户在Gap、Old Navy和Banana Republic等品牌的商店中购买衣物。同时，OpenAI也更新了ChatGPT的购物界面。这一合作不仅提升了购物的便利性，还可能改变消费者与品牌互动的方式，进一步推动AI在零售领域的应用。",
-          "analysis_en": "The competition in AI-powered shopping is intensifying as Google and OpenAI roll out new features. Google has partnered with Gap Inc to enable its Gemini AI assistant to make clothing purchases on behalf of users from brands like Gap, Old Navy, and Banana Republic. Meanwhile, OpenAI has updated the shopping interface in ChatGPT. This collaboration not only enhances the convenience of shopping but may also transform how consumers interact with brands, further advancing the role of AI in the retail sector."
-        },
-        {
-          "rank": 7,
-          "title": "Arm Holdings, in Break From Past, Will Sell Its Own Computer Chips",
-          "link": "https://www.nytimes.com/2026/03/24/technology/arm-holdings-sell-chips.html",
-          "source": "NYT > Technology",
-          "published_utc": "2026-03-24 17:00 UTC",
-          "analysis_zh": "Arm Holdings 最近宣布将开始销售自己的计算机芯片，标志着该公司与以往的商业模式发生了重大转变。过去，Arm 主要通过向其他公司出售芯片设计来盈利，而现在它将直接进入市场，提供用于人工智能数据中心的芯片。这一变化不仅可能提升公司的盈利能力，还可能对整个行业产生深远影响，尤其是在 AI 技术日益普及的背景下，竞争将更加激烈。",
-          "analysis_en": "Arm Holdings recently announced a significant shift in its business model by planning to sell its own computer chips, moving away from its traditional practice of selling chip designs to other companies. This new strategy will allow Arm to directly enter the market with chips designed for AI data centers. This change could enhance the company's profitability and may have far-reaching implications for the industry, particularly as AI technology becomes increasingly prevalent and competition intensifies."
-        },
-        {
-          "rank": 8,
-          "title": "Welp, I bought an iPhone again",
-          "link": "https://www.theverge.com/tech/899602/best-phone-android-ios-app-store",
-          "source": "The Verge",
-          "published_utc": "2026-03-24 17:00 UTC",
-          "analysis_zh": "最近，有一位科技评论员分享了他再次购买iPhone的经历。他在尝试了多款安卓手机后，发现尽管安卓系统在某些方面表现更佳，但苹果的应用商店仍然无可匹敌。这一现象反映了用户在选择手机时，除了硬件和系统性能，应用生态的丰富性也极为重要。这可能会影响消费者的购买决策，促使更多人考虑在不同平台之间切换。",
-          "analysis_en": "Recently, a tech reviewer shared his experience of buying an iPhone again after trying several Android devices. He found that while Android performs better in some aspects, the App Store remains unmatched. This highlights that when choosing a phone, users consider not only hardware and system performance but also the richness of the app ecosystem. This may influence consumer purchasing decisions and encourage more people to consider switching between platforms."
-        },
-        {
-          "rank": 9,
-          "title": "Arm Is Now Making Its Own Chips",
-          "link": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/",
-          "source": "Feed: Artificial Intelligence Latest",
-          "published_utc": "2026-03-24 17:00 UTC",
-          "analysis_zh": "芯片设计公司Arm宣布开始自行生产芯片，首批客户包括Meta、OpenAI、Cerebras和Cloudflare等。这一举措标志着Arm在人工智能硬件领域的进一步发展，可能会对整个行业产生深远影响。随着越来越多的公司寻求定制化的AI解决方案，Arm的自制芯片将有助于提升其市场竞争力，并推动技术创新。",
-          "analysis_en": "Chip design firm Arm has announced that it will start manufacturing its own chips, with initial customers including Meta, OpenAI, Cerebras, and Cloudflare. This move signifies Arm's further expansion into the artificial intelligence hardware sector, which could have a significant impact on the industry as a whole. As more companies seek customized AI solutions, Arm's in-house chip production may enhance its market competitiveness and drive technological innovation."
-        },
-        {
-          "rank": 10,
-          "title": "This scientist rewarmed and studied pieces of his friend’s cryopreserved brain",
-          "link": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/",
-          "source": "MIT Technology Review",
-          "published_utc": "2026-03-24 16:43 UTC",
-          "analysis_zh": "科学家对其朋友的冷冻大脑进行了复温和研究。L. Stephen Coles的脑组织在亚利桑那州的储存设施中以约-146摄氏度的低温保存了十多年。此次研究不仅为冷冻技术的科学探索提供了新视角，也可能对未来的脑科学和人类意识的理解产生深远影响。这项工作引发了关于生命、死亡及其界限的伦理讨论，可能会影响相关领域的研究方向和公众认知。",
-          "analysis_en": "A scientist has re-warmed and studied pieces of his friend's cryopreserved brain. L. Stephen Coles's brain has been stored at around -146 degrees Celsius in a facility in Arizona for over a decade. This research offers new insights into cryopreservation technology and may have significant implications for future brain science and our understanding of human consciousness. The work raises ethical discussions about life, death, and their boundaries, which could influence research directions and public perceptions in related fields."
+          "analysis_zh": "随着谷歌和OpenAI推出新功能，人工智能购物竞争愈演愈烈。谷歌与Gap公司合作，使其Gemini AI助手能够代表用户在Gap及其旗下品牌（如Old Navy和Banana Republic）购买服装。这一合作不仅提升了购物的便利性，也可能改变消费者与品牌互动的方式。随着AI技术的不断进步，未来的购物体验将更加个性化和高效。",
+          "analysis_en": "The competition in AI-powered shopping is intensifying as Google and OpenAI roll out new features. Google has partnered with Gap Inc, allowing its Gemini AI assistant to purchase clothing on behalf of users from Gap and its affiliated brands like Old Navy and Banana Republic. This collaboration enhances shopping convenience and could change how consumers interact with brands. As AI technology continues to evolve, the shopping experience is expected to become more personalized and efficient in the future."
         }
       ]
     },
@@ -317,93 +299,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "Louvre Plans Its ‘Most Ambitious’ Painting Restoration Ever: A Refresh for Rubens’s Medici Cycle",
+          "link": "https://www.artnews.com/art-news/news/louvre-restores-rubens-marie-de-medici-cycle-1234778797/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-03-24 20:55 UTC",
+          "analysis_zh": "卢浮宫宣布将进行有史以来最雄心勃勃的绘画修复项目，计划对鲁本斯的《美第奇周期》进行为期四年的修复。这一系列作品被视为旧大师时代的巅峰之作，修复工作将使这些杰作暂时下架。此项目不仅是对艺术品的保护与修复，也将吸引更多游客关注和欣赏这些经典作品，提升卢浮宫的文化影响力。",
+          "analysis_en": "The Louvre has announced its most ambitious painting restoration project to date, planning to restore Rubens's Medici Cycle over a four-year period. This series of paintings is regarded as a pinnacle of the Old Master era, and the restoration will temporarily remove these masterpieces from public view. This project is not only about preserving and restoring the artworks but also aims to attract more visitors to appreciate these classics, thereby enhancing the cultural significance of the Louvre."
+        },
+        {
+          "rank": 2,
+          "title": "Through Bamboo, the Artist Lap-See Lam Explores Her Family’s History",
+          "link": "https://www.nytimes.com/2026/03/24/arts/design/hong-kong-lap-see-lam-exhibition.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-03-24 20:12 UTC",
+          "analysis_zh": "艺术家林立诗在香港举办了她在亚洲的首次个展，通过多元化的作品探讨了她的家族历史。这次展览不仅是她的回归之旅，也为观众提供了一个了解她文化背景的机会。林立诗的作品通过竹子这一媒介，传达了对传统与现代之间关系的思考。这一展览的重要性在于，它不仅展示了个人的艺术探索，也反映了更广泛的文化认同和历史传承。",
+          "analysis_en": "Artist Lap-See Lam is showcasing her multidisciplinary works in Hong Kong for her first solo exhibition in Asia, exploring her family history. This exhibition serves as a homecoming for her and offers audiences a chance to connect with her cultural background. Through the medium of bamboo, Lam's works reflect on the relationship between tradition and modernity. The significance of this exhibition lies in its demonstration of personal artistic exploration while also highlighting broader themes of cultural identity and historical heritage."
+        },
+        {
+          "rank": 3,
+          "title": "Here are the kits for the three World Cup 2026 host nations",
+          "link": "https://www.dezeen.com/2026/03/24/world-cup-2026-host-country-kits-usa-mexico-canada/",
+          "source": "Dezeen",
+          "published_utc": "2026-03-24 20:00 UTC",
+          "analysis_zh": "2026年世界杯的东道主美国、墨西哥和加拿大的足球队服已全面发布。美国队的主场球衣以大胆的红色条纹为特色，而墨西哥队的绿色球衣则向阿兹特克雕塑致敬。这些球衣的设计分别由美国的耐克公司和墨西哥的设计师完成。这一发布不仅展示了各国的文化元素，也为即将到来的世界杯增添了期待感，可能会影响球迷的购买热情和球队的形象。",
+          "analysis_en": "The football kits for the host nations of the 2026 World Cup, namely the USA, Mexico, and Canada, have been fully unveiled. The US home jersey features bold red stripes, while Mexico's green kit pays homage to Aztec sculpture. The designs are created by the American company Nike for the US and Canada, while Mexico's kit has a unique design. This release not only highlights cultural elements from each country but also builds excitement for the upcoming World Cup, potentially influencing fan purchasing behavior and the teams' public images."
+        },
+        {
+          "rank": 4,
+          "title": "11 Robyn Bangers for the Pop Star’s Long-Awaited Return",
+          "link": "https://www.nytimes.com/2026/03/24/arts/music/amplifier-newsletter-robyn-bangers.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-03-24 19:38 UTC",
+          "analysis_zh": "流行歌手罗宾（Robyn）即将发布自2018年以来的首张专辑《Sexistential》，这张专辑包含49分钟的动感佳作。这一消息引起了广泛关注，因为罗宾在音乐界的影响力和独特风格使她的回归备受期待。新专辑的发布不仅可能会吸引老粉丝的重聚，也可能吸引新听众，从而进一步巩固她在流行音乐中的地位。",
+          "analysis_en": "Pop star Robyn is set to release her first album since 2018, titled \"Sexistential,\" featuring 49 minutes of upbeat tracks. This announcement has generated significant excitement, as Robyn's influence and unique style make her return highly anticipated. The release of the new album could not only reunite her long-time fans but also attract new listeners, further solidifying her position in the pop music scene."
+        },
+        {
+          "rank": 5,
+          "title": "The Man Who Taught Boy Bands How to Move",
+          "link": "https://www.nytimes.com/2026/03/23/arts/dance/new-edition-boy-bands-choreography-brooke-payne.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-03-24 19:37 UTC",
+          "analysis_zh": "新一轮的巡演将新一代的男孩乐队New Edition和Boyz II Men聚集在一起，同时也展示了长期编舞家布鲁克·佩恩的影响力。佩恩在音乐行业中以其独特的舞蹈风格和编排技巧而闻名，他的工作不仅塑造了这些乐队的表演风格，也对整个流行音乐舞蹈的发展产生了深远的影响。这场巡演不仅是对他们音乐成就的庆祝，也让观众重新认识到舞蹈在音乐表演中的重要性。",
+          "analysis_en": "A new tour featuring the boy bands New Edition and Boyz II Men highlights the influential work of longtime choreographer Brooke Payne. Payne is renowned in the music industry for his unique dance styles and choreography, which have shaped the performance styles of these bands and significantly impacted the evolution of dance in pop music. This tour not only celebrates their musical achievements but also reminds audiences of the crucial role that dance plays in music performances."
+        },
+        {
+          "rank": 6,
           "title": "inspired by early slavic living, leshi sofa rethinks furniture as spatial object",
           "link": "https://www.designboom.com/readers/inspired-by-early-slavic-living-leshi-sofa-rethinks-furniture-as-spatial-object/",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-03-24 19:35 UTC",
-          "analysis_zh": "这款名为Leshi沙发的设计灵感来源于早期斯拉夫人的生活方式，重新思考了家具作为空间对象的概念。设计师通过古老的拱形结构和空间的文化记忆，探讨了庇护、体量和身体存在感在现代室内环境中的表现。这一设计不仅具有美学价值，还可能影响未来家具设计的方向，促使设计师更加关注空间与家具之间的关系。",
-          "analysis_en": "The Leshi sofa, inspired by early Slavic living, reconsiders furniture as a spatial object. Drawing from ancient arched structures and the cultural memory of space, the design explores concepts of shelter, mass, and bodily presence within contemporary interiors. This design holds aesthetic significance and may influence the future direction of furniture design, encouraging designers to pay more attention to the relationship between space and furniture."
+          "analysis_zh": "受早期斯拉夫生活启发的Leshi沙发重新思考了家具作为空间物体的概念。这一设计灵感来源于古老的拱形结构和空间的文化记忆，重新诠释了当代室内环境中的庇护、体量和身体存在的理念。这一创新设计不仅丰富了现代家具的表现形式，也可能影响未来家具设计的方向，推动设计师在功能与美学之间找到新的平衡。",
+          "analysis_en": "Inspired by early Slavic living, the Leshi sofa rethinks furniture as a spatial object. This design draws from ancient arched structures and the cultural memory of space, reinterpreting concepts of shelter, mass, and bodily presence within contemporary interiors. This innovative approach not only enriches the expression of modern furniture but may also influence the future direction of furniture design, encouraging designers to find a new balance between functionality and aesthetics."
         },
         {
-          "rank": 2,
+          "rank": 7,
           "title": "Robert White, Tenor Renowned for Irish Ballads, Dies at 89",
           "link": "https://www.nytimes.com/2026/03/24/arts/music/robert-white-dead.html",
           "source": "NYT > Arts",
           "published_utc": "2026-03-24 19:30 UTC",
-          "analysis_zh": "著名的爱尔兰民谣男高音罗伯特·怀特于89岁去世。他从小便开始表演，后来成为一位多才多艺的歌手，类似于爱尔兰超级巨星约翰·麦考马克，既擅长古典曲目，也能演唱传统歌曲。怀特的去世不仅让音乐界失去了一位杰出的艺术家，也让许多热爱爱尔兰民谣的听众感到惋惜。他的音乐遗产将继续影响后来的歌手和音乐爱好者。",
-          "analysis_en": "Renowned Irish ballad tenor Robert White passed away at the age of 89. He began performing as a child and later became a versatile singer, akin to the Irish superstar John McCormack, excelling in both classical repertoire and traditional songs. White's death marks a significant loss for the music community and leaves many fans of Irish ballads mourning. His musical legacy will continue to influence future singers and music lovers."
+          "analysis_zh": "著名的爱尔兰男高音罗伯特·怀特于89岁去世。他从小便开始表演，成为了一位多才多艺的歌手，类似于爱尔兰超级明星约翰·麦克科马克，既擅长古典曲目，也能演唱传统歌曲。怀特的去世不仅让音乐界失去了一位杰出的艺术家，也让许多热爱爱尔兰民谣的听众感到惋惜。他的音乐遗产将继续影响后来的歌手和音乐爱好者。",
+          "analysis_en": "Renowned Irish tenor Robert White has passed away at the age of 89. A performer from a young age, he became a versatile singer akin to the Irish superstar John McCormack, excelling in both classical repertoire and traditional songs. White's death marks a significant loss for the music community and leaves many fans of Irish ballads mourning. His musical legacy will continue to influence future singers and music enthusiasts."
         },
         {
-          "rank": 3,
+          "rank": 8,
           "title": "Rashid Johnson Photographs Jay-Z for New GQ Cover Story",
           "link": "https://www.artnews.com/art-news/news/rashid-johnson-jay-z-gq-cover-1234778749/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-03-24 19:02 UTC",
-          "analysis_zh": "拉希德·约翰逊为《GQ》杂志拍摄了杰伊-Z的封面故事，强调了杰伊-Z与“有趣且历史重要的黑人思想家”的联系。这一合作不仅展示了杰伊-Z在文化和艺术领域的影响力，也突显了黑人艺术家在当代社会中的重要性。此举可能会激励更多艺术家关注社会议题，并通过他们的作品推动文化对话。",
-          "analysis_en": "Rashid Johnson photographed Jay-Z for a cover story in GQ, highlighting Jay-Z's connection to \"interesting and historically important Black thinkers.\" This collaboration not only showcases Jay-Z's influence in cultural and artistic spheres but also underscores the significance of Black artists in contemporary society. Such initiatives may inspire more artists to engage with social issues and promote cultural dialogue through their work."
-        },
-        {
-          "rank": 4,
-          "title": "15th Century Bellini Altarpiece in Venice to Be Restored While the Public Watches",
-          "link": "https://www.artnews.com/art-news/news/bellini-altarpiece-venice-restoration-1234778766/",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-03-24 18:57 UTC",
-          "analysis_zh": "威尼斯的贝利尼祭坛画正在进行修复，公众可以在玻璃后观看这一过程。这项修复工作不仅让人们近距离欣赏艺术品的恢复过程，也提高了公众对艺术保护重要性的认识。通过这种透明的修复方式，观众能够更好地理解艺术品的历史和技术细节。这一事件可能会激励其他博物馆和艺术机构采取类似的开放修复方式，以增强公众参与感。",
-          "analysis_en": "The Bellini altarpiece in Venice is undergoing restoration, with the public able to watch the process through glass. This restoration not only allows people to appreciate the work being done but also raises awareness about the importance of art preservation. By providing a transparent view of the restoration, audiences can gain a deeper understanding of the artwork's history and technical details. This event may inspire other museums and art institutions to adopt similar open restoration practices to enhance public engagement."
-        },
-        {
-          "rank": 5,
-          "title": "Preservation Group Sues Trump Administration Over Planned Renovation of Kennedy Center",
-          "link": "https://www.artnews.com/art-news/news/preservation-societies-lawsuit-kennedy-center-trump-1234778757/",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-03-24 18:30 UTC",
-          "analysis_zh": "一个保护组织对特朗普政府提起诉讼，反对对肯尼迪中心的计划性翻新。他们在诉讼中表示，这项翻新将对该文化地标造成不可逆转的损害。这一事件引起了广泛关注，因为肯尼迪中心不仅是艺术表演的场所，也是美国文化的重要象征。诉讼的结果可能会影响未来类似文化遗产保护的政策和实践。",
-          "analysis_en": "A preservation group has filed a lawsuit against the Trump administration over planned renovations to the Kennedy Center. They claim that the renovations will cause irreversible harm to this cultural landmark. This issue is significant as the Kennedy Center is not only a venue for artistic performances but also an important symbol of American culture. The outcome of this lawsuit could influence future policies and practices regarding the protection of similar cultural heritage sites."
-        },
-        {
-          "rank": 6,
-          "title": "At ‘Baywatch’ Tryouts, Hoping to Be the Next Pam Anderson or Jason Momoa",
-          "link": "https://www.nytimes.com/card/2026/03/23/arts/television/baywatch-reboot-fox-open-casting-auditions",
-          "source": "NYT > Arts",
-          "published_utc": "2026-03-24 18:04 UTC",
-          "analysis_zh": "在最近的“海滩救护队”试镜中，成千上万的参与者希望能成为下一个帕梅拉·安德森或杰森·莫玛。此次开放的选角活动吸引了众多身材健美的选手，他们不仅追求演艺梦想，也可能成为新一代的偶像。这一现象反映了人们对身体形象和明星文化的持续关注，可能会影响未来影视作品的选角标准和观众的审美期待。",
-          "analysis_en": "Recently, thousands of participants attended the “Baywatch” tryouts, hoping to become the next Pam Anderson or Jason Momoa. This open casting call attracted many fit individuals who are not only pursuing acting dreams but may also become the next generation of icons. This phenomenon reflects the ongoing public interest in body image and celebrity culture, which could influence future casting standards and audience aesthetic expectations in the entertainment industry."
-        },
-        {
-          "rank": 7,
-          "title": "Heliotrope tucks False Bay house into rocky site on a Washington island",
-          "link": "https://www.dezeen.com/2026/03/24/false-bay-heliotrope-house-washington/",
-          "source": "Dezeen",
-          "published_utc": "2026-03-24 18:00 UTC",
-          "analysis_zh": "建筑工作室Heliotrope在华盛顿州的圣胡安岛设计了一座度假屋，采用了“与环境相适应的设计理念”。这座房屋呈蝴蝶结形状，外部使用了结疤雪松木材，巧妙地融入了周围的岩石环境。这一设计不仅展示了建筑与自然的和谐共生，也可能为未来的度假屋设计提供新的思路，鼓励更多建筑师关注环境保护与可持续发展。",
-          "analysis_en": "The architectural studio Heliotrope designed a vacation house on San Juan Island in Washington State, employing a \"site-sensitive approach.\" The house features a bow tie shape and is clad in knotty cedar, seamlessly integrating with the rocky surroundings. This design not only exemplifies the harmony between architecture and nature but may also inspire future vacation home designs, encouraging more architects to focus on environmental conservation and sustainability."
-        },
-        {
-          "rank": 8,
-          "title": "11 Robyn Bangers for the Pop Star’s Long-Awaited Return",
-          "link": "https://www.nytimes.com/2026/03/24/arts/music/amplifier-newsletter-robyn-bangers.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-03-24 18:00 UTC",
-          "analysis_zh": "流行歌手罗宾（Robyn）即将推出自2018年以来的首张专辑《Sexistential》，专辑时长为49分钟，充满了动感的音乐作品。这张专辑的发布备受期待，因为罗宾在音乐界的影响力和独特风格使她成为流行音乐的重要人物。新专辑可能会吸引更多的听众，并进一步巩固她在流行音乐中的地位。",
-          "analysis_en": "Pop star Robyn is set to release her first album since 2018, titled \"Sexistential,\" featuring 49 minutes of upbeat tracks. This album is highly anticipated, as Robyn's influence and unique style have made her a significant figure in the music industry. The release of this new album may attract a wider audience and further solidify her position in pop music."
+          "analysis_zh": "拉希德·约翰逊为《GQ》拍摄了杰伊-Z的封面故事，强调了杰伊-Z与“有趣且历史重要的黑人思想家”的联系。这次合作不仅展示了杰伊-Z在音乐界的影响力，也突显了他在文化和社会议题上的重要性。约翰逊的摄影作品可能会引发对黑人艺术家和思想家的更广泛讨论，促进公众对他们贡献的认可。",
+          "analysis_en": "Rashid Johnson photographed Jay-Z for a cover story in GQ, highlighting Jay-Z's connection to \"interesting and historically important Black thinkers.\" This collaboration not only showcases Jay-Z's influence in the music industry but also emphasizes his significance in cultural and social issues. Johnson's photography may spark broader discussions about Black artists and thinkers, fostering public recognition of their contributions."
         },
         {
           "rank": 9,
-          "title": "Zurich Transfers Ownership of Looted Benin Bronzes to Nigeria",
-          "link": "https://www.artnews.com/art-news/news/zurich-transfers-ownership-looted-benin-bronzes-to-nigeria-1234778646/",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-03-24 17:50 UTC",
-          "analysis_zh": "苏黎世将被掠夺的贝宁青铜器的所有权移交给尼日利亚，这一举措标志着对历史遗产归还的重要一步。此次归还的两件作品将被送回尼日利亚，而其他作品则会继续在苏黎世的里特贝格博物馆展出。这一事件不仅反映了国际社会对文化遗产保护的重视，也可能影响其他国家对被掠夺文物的归还要求，推动更多类似的归还行动。",
-          "analysis_en": "Zurich has transferred ownership of looted Benin bronzes to Nigeria, marking a significant step towards the restitution of cultural heritage. Two of the artworks will be sent back to Nigeria, while the remaining pieces will continue to be loaned at Zurich's Museum Rietberg. This event highlights the growing importance of cultural heritage protection in the international community and may influence other countries to pursue similar restitution claims, potentially leading to more actions for the return of looted artifacts."
+          "title": "Dezeen Debate features \"the best looking BMW for many, many years\"",
+          "link": "https://www.dezeen.com/2026/03/24/bmw-electric-i3-sedan-design-dezeen-debate/",
+          "source": "Dezeen",
+          "published_utc": "2026-03-24 19:00 UTC",
+          "analysis_zh": "宝马最近发布了其首款电动车型i3，这款车是3系系列的一部分，并且在欧洲市场上具有最长的续航里程。许多评论者对这款车的外观表示惊喜，认为它是多年来最美丽的宝马车型之一。这一发布不仅标志着宝马在电动车领域的重要进展，也可能影响消费者对电动车的接受度，推动更多品牌加速转型。",
+          "analysis_en": "BMW recently unveiled its first electric model, the i3, which is part of the 3 Series and boasts the longest range of any electric vehicle available in the European market. Many commenters expressed their surprise at the car's design, calling it one of the best-looking BMWs in years. This launch signifies a significant step for BMW in the electric vehicle sector and may influence consumer acceptance of electric cars, potentially prompting other brands to accelerate their own transitions."
         },
         {
           "rank": 10,
-          "title": "Mike Vernon, Who Helped Spark the British Blues Boom, Dies at 81",
-          "link": "https://www.nytimes.com/2026/03/24/arts/music/mike-vernon-dead.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-03-24 17:16 UTC",
-          "analysis_zh": "迈克·弗农（Mike Vernon）于81岁去世，他是推动英国蓝调热潮的重要人物。作为音乐制作人，他制作了约翰·梅尔（John Mayall）与蓝调破坏者乐队、埃里克·克莱普顿以及早期的弗利特伍德·麦克（Fleetwood Mac）等专辑，这些作品在1960年代的蓝调摇滚中具有里程碑式的意义。此外，他还参与了大卫·鲍伊（David Bowie）首张专辑的制作。弗农的去世不仅是音乐界的损失，也让人们重新审视他对蓝调和摇滚音乐发展的深远影响。",
-          "analysis_en": "Mike Vernon passed away at the age of 81, and he was a key figure in sparking the British blues boom. As a music producer, he worked on albums for John Mayall & the Bluesbreakers, Eric Clapton, and early Fleetwood Mac, which were pivotal in defining blues rock in the 1960s. He also played a role in producing David Bowie's debut album. Vernon's death is a significant loss for the music industry and prompts a reevaluation of his profound impact on the development of blues and rock music."
+          "title": "15th-Century Bellini Altarpiece in Venice to Be Restored While the Public Watches",
+          "link": "https://www.artnews.com/art-news/news/bellini-altarpiece-venice-restoration-1234778766/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-03-24 18:57 UTC",
+          "analysis_zh": "威尼斯的贝利尼祭坛画正在进行修复，修复过程对公众开放，观众可以通过玻璃观察这一过程。这项修复工作不仅是对艺术作品的保护，也为公众提供了了解艺术修复技术的机会。通过这种透明的修复方式，观众能够更深入地理解艺术品的历史和价值。这一举措可能会激发更多人对艺术保护的关注，并促进文化遗产的保护意识。",
+          "analysis_en": "The Bellini altarpiece in Venice is undergoing restoration, with the process visible to the public through glass. This restoration not only protects the artwork but also offers the audience a chance to learn about art conservation techniques. By allowing public access to the restoration process, viewers can gain a deeper understanding of the artwork's history and significance. This initiative may inspire greater public interest in art preservation and enhance awareness of cultural heritage conservation."
         }
       ]
     }
