@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-25 15:07:38 UTC",
-  "generated_at_unix": 1774451258,
+  "generated_at": "2026-03-25 21:05:43 UTC",
+  "generated_at_unix": 1774472743,
   "window": {
-    "from_utc": "2026-03-24 15:07:38 UTC",
-    "to_utc": "2026-03-25 15:07:38 UTC",
+    "from_utc": "2026-03-24 21:05:43 UTC",
+    "to_utc": "2026-03-25 21:05:43 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,93 +14,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "We like the message of Meta's new executive stock plan — plus, a war beneficiary stock",
-          "link": "https://www.cnbc.com/2026/03/25/we-like-the-message-of-metas-new-executive-stock-plan-plus-a-war-beneficiary-stock.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-03-25 15:03 UTC",
-          "analysis_zh": "Meta公司最近推出了一项新的高管股票计划，旨在激励管理层与公司长期利益保持一致。这一计划的重要性在于，它可能会增强投资者对Meta的信心，尤其是在当前市场环境下，企业治理和透明度愈发受到重视。随着这一新政策的实施，Meta可能会吸引更多的投资者，从而推动其股价上涨。",
-          "analysis_en": "Meta recently introduced a new executive stock plan designed to align the interests of management with the long-term goals of the company. This plan is significant as it may boost investor confidence in Meta, particularly in a market environment where corporate governance and transparency are increasingly valued. With the implementation of this new policy, Meta could attract more investors, potentially driving up its stock price."
+          "title": "Super Micro, Dell and HPE have been red-hot stocks this week. What’s behind the big moves.",
+          "link": "https://www.marketwatch.com/story/super-micro-dell-and-hpe-have-been-red-hot-stocks-this-week-whats-behind-the-big-moves-9fc8acc7?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-03-25 21:02 UTC",
+          "analysis_zh": "本周，超级微型计算机、戴尔和惠普企业的股票表现异常火热。这一现象的背后，可能是内存压力的缓解以及对中央处理器的重新关注。投资者对这些公司的前景感到乐观，可能会推动更多资金流入该行业。这种趋势不仅有助于提升相关公司的股价，还可能影响整个科技行业的投资格局。",
+          "analysis_en": "This week, Super Micro, Dell, and HPE have seen a surge in their stock prices. This trend may be attributed to a potential easing of memory supply pressures and a renewed interest in central processing units. Investors are optimistic about the prospects of these companies, which could lead to increased capital flowing into the sector. This trend may not only boost the stock prices of these firms but also influence the overall investment landscape in the technology industry."
         },
         {
           "rank": 2,
-          "title": "Higher inflation is coming — import prices show biggest increase in four years",
-          "link": "https://www.marketwatch.com/story/higher-inflation-is-coming-import-prices-show-biggest-increase-in-four-years-f8ac70a7?mod=mw_rss_topstories",
+          "title": "Microsoft’s stock is having its worst quarter in 17 years — and there may be no quick fix",
+          "link": "https://www.marketwatch.com/story/microsofts-stock-is-having-its-worst-quarter-in-17-years-and-there-may-be-no-quick-fix-e5b6f05e?mod=mw_rss_topstories",
           "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-03-25 15:00 UTC",
-          "analysis_zh": "近期，进口商品价格出现了四年来最大的涨幅，这让华尔街对通货膨胀再次上升的担忧加剧。由于伊朗战争的影响，市场对物价上涨的预期已经在增加，而这一新数据进一步加深了这种焦虑。进口成本的上升可能会影响消费者支出和企业利润，进而对整体经济产生负面影响。",
-          "analysis_en": "Recently, import prices have seen their largest increase in four years, heightening Wall Street's concerns about a resurgence of inflation. The ongoing conflict in Iran has already fueled expectations of rising prices, and this new data exacerbates that anxiety. The rise in import costs could affect consumer spending and corporate profits, potentially leading to negative impacts on the overall economy."
+          "published_utc": "2026-03-25 21:00 UTC",
+          "analysis_zh": "微软的股票在过去17年中经历了最糟糕的一个季度，这引发了市场的广泛关注。尽管分析师认为微软在云计算和软件业务上有潜力改善当前趋势，但这些改善可能需要时间才能显现。此事件不仅影响了投资者的信心，也可能对微软的长期发展战略产生深远影响。",
+          "analysis_en": "Microsoft's stock is experiencing its worst quarter in 17 years, which has drawn significant market attention. While analysts believe there are ways for Microsoft to improve trends in its cloud and software businesses, these improvements may take time to materialize. This situation not only affects investor confidence but could also have lasting implications for Microsoft's long-term strategic direction."
         },
         {
           "rank": 3,
-          "title": "Cipher Digital Stock Pops as Firm Bolsters Shift From Bitcoin Mining With 15-Year Data Center Deal",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/cipher-digital-stock-pops-firm-145903517.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-25 14:59 UTC",
-          "analysis_zh": "Cipher Digital 最近与一家数据中心签署了一项为期15年的协议，以支持其从比特币挖矿转型的战略。这一举措表明公司正在寻求多元化其业务，减少对加密货币市场波动的依赖。此协议的达成可能会增强投资者对公司的信心，并为其未来的增长提供更稳定的基础。",
-          "analysis_en": "Cipher Digital has recently signed a 15-year deal with a data center to support its strategic shift away from Bitcoin mining. This move indicates that the company is looking to diversify its operations and reduce reliance on the volatile cryptocurrency market. The completion of this agreement may boost investor confidence in the company and provide a more stable foundation for its future growth."
+          "title": "U.S. Postal Service seeks 8% fuel surcharge for package deliveries as Iran war raises oil prices",
+          "link": "https://www.cnbc.com/2026/03/25/us-postal-fuel-surcharge-package-deliveries-iran-oil.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-03-25 20:55 UTC",
+          "analysis_zh": "美国邮政服务局因伊朗战争导致油价上涨，计划对包裹投递收取8%的燃油附加费。自2月28日美国和以色列对伊朗发动攻击以来，油价已上涨超过40%。这一举措不仅反映了全球能源市场的动荡，也可能导致消费者和企业的运输成本增加，从而影响整体经济。邮政服务局的决定可能会促使其他物流公司也采取类似措施，进一步加剧市场压力。",
+          "analysis_en": "The U.S. Postal Service is planning to implement an 8% fuel surcharge on package deliveries due to rising oil prices caused by the war in Iran. Since the U.S. and Israel launched attacks on Iran on February 28, oil prices have surged by over 40%. This move highlights the volatility in the global energy market and could lead to increased shipping costs for consumers and businesses, potentially impacting the overall economy. The Postal Service's decision may prompt other logistics companies to adopt similar measures, further intensifying market pressures."
         },
         {
           "rank": 4,
-          "title": "How many employees does Nvidia have? From R&D to sales",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/many-employees-does-nvidia-r-145900596.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-25 14:59 UTC",
-          "analysis_zh": "英伟达最近公布了其员工人数，显示出公司在研发和销售等多个领域的强劲增长。这一数据不仅反映了英伟达在人工智能和图形处理领域的领导地位，也突显了其在全球科技行业中的重要性。随着公司持续扩张，未来可能会对技术创新和市场竞争产生深远影响。",
-          "analysis_en": "Nvidia recently revealed its employee count, showcasing strong growth across various sectors, including research and development as well as sales. This figure not only reflects Nvidia's leadership in artificial intelligence and graphics processing but also underscores its significance in the global tech industry. As the company continues to expand, it may have far-reaching effects on technological innovation and market competition in the future."
+          "title": "Meta, Google lose US case over social media harm to kids",
+          "link": "https://www.investing.com/news/stock-market-news/jury-reaches-verdict-in-meta-google-trial-on-social-media-addiction-4580528",
+          "source": "Stock Market News",
+          "published_utc": "2026-03-25 20:55 UTC",
+          "analysis_zh": "近日，Meta和谷歌在美国的一起案件中败诉，法院裁定这两家公司在社交媒体对儿童造成的伤害方面负有责任。这一判决引发了广泛关注，因为它可能会促使更多的法律行动针对社交媒体平台，特别是在保护未成年人方面。此案的结果不仅影响了这两家公司的运营模式，也可能对整个社交媒体行业的监管政策产生深远影响。",
+          "analysis_en": "Recently, Meta and Google lost a case in the U.S. where the court ruled that both companies are responsible for the harm caused by social media to children. This ruling has garnered significant attention as it may lead to more legal actions against social media platforms, particularly concerning the protection of minors. The outcome of this case not only affects the operational strategies of these two companies but could also have far-reaching implications for regulatory policies across the entire social media industry."
         },
         {
           "rank": 5,
-          "title": "Cramer: Five Below has ‘more room to run’ despite tripling in 12 months",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/cramer-five-below-more-room-145851265.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-25 14:58 UTC",
-          "analysis_zh": "投资分析师吉姆·克雷默表示，尽管Five Below的股价在过去12个月内已经上涨了三倍，但该公司仍然有进一步增长的空间。这一观点引发了市场的关注，因为Five Below专注于提供低价商品，吸引了大量消费者。随着经济复苏和消费者支出增加，该公司的业绩可能会继续改善，进一步推动其股价上涨。",
-          "analysis_en": "Investment analyst Jim Cramer stated that despite Five Below's stock price tripling in the past year, the company still has room for further growth. This perspective has garnered market attention, as Five Below focuses on offering low-priced goods that attract a large consumer base. With the economic recovery and increased consumer spending, the company's performance may continue to improve, potentially driving its stock price even higher."
+          "title": "Iran has no intention to hold talks with U.S; foreign minister says Trump proposal to end war being reviewed",
+          "link": "https://www.cnbc.com/2026/03/25/iran-war-us-trump.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-03-25 20:49 UTC",
+          "analysis_zh": "伊朗外交部长表示，伊朗并不打算与美国进行谈判，尽管特朗普声称两国正在进行“谈判”。这一声明表明，伊朗对美国的提议持否定态度，可能会加剧两国之间的紧张关系。此事的重要性在于，它不仅影响到伊朗与美国的关系，也可能对中东地区的稳定产生深远影响，尤其是在当前局势复杂的背景下。",
+          "analysis_en": "Iran's foreign minister stated that the country has no intention of holding talks with the U.S., despite President Trump's claims that negotiations are underway. This declaration indicates Iran's rejection of the U.S. proposal, which could escalate tensions between the two nations. The significance of this situation lies in its potential impact not only on U.S.-Iran relations but also on the stability of the Middle East, particularly given the current complex geopolitical landscape."
         },
         {
           "rank": 6,
-          "title": "Insmed CEO reveals Japan patient population exceeds US market for lung disease",
-          "link": "https://finance.yahoo.com/sectors/healthcare/articles/insmed-ceo-reveals-japan-patient-145824376.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-25 14:58 UTC",
-          "analysis_zh": "Insmed的首席执行官最近透露，日本的肺病患者数量超过了美国市场。这一消息引起了广泛关注，因为它表明日本在这一领域的潜在市场规模可能更大。随着公司可能将更多资源投入日本市场，这将影响其战略布局和投资方向。此外，这也可能促使其他制药公司重新评估他们在亚洲市场的投资机会。",
-          "analysis_en": "The CEO of Insmed recently revealed that the patient population for lung disease in Japan exceeds that of the U.S. market. This news has garnered significant attention as it suggests that Japan may represent a larger potential market in this field. As the company may allocate more resources to the Japanese market, this could impact its strategic planning and investment direction. Additionally, it may prompt other pharmaceutical companies to reassess their investment opportunities in the Asian market."
+          "title": "JetBlue’s stock turns positive for the year on merger talk",
+          "link": "https://www.marketwatch.com/story/jetblues-stock-turns-positive-for-the-year-on-merger-talk-fcd8e4fd?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-03-25 20:48 UTC",
+          "analysis_zh": "捷蓝航空的股票因合并谈判的消息而转为年度上涨，股价上涨了15%。这一消息表明捷蓝航空正在考虑与其他公司进行合并，这可能会对其市场竞争力产生积极影响。投资者对这一潜在交易的反应热烈，显示出市场对捷蓝未来发展的信心。",
+          "analysis_en": "JetBlue's stock has turned positive for the year following news of merger talks, with shares rising by 15%. This indicates that JetBlue is exploring potential deals with other companies, which could enhance its competitive position in the market. The strong reaction from investors reflects growing confidence in JetBlue's future prospects."
         },
         {
           "rank": 7,
-          "title": "Prediction markets' new insider trading restrictions aren't enough, bipartisan senators say",
-          "link": "https://www.cnbc.com/2026/03/25/prediction-markets-bill-insider-trading-kalshi-polymarket-adam-schiff-john-curtis.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-03-25 14:58 UTC",
-          "analysis_zh": "美国参议员亚当·希夫和约翰·柯蒂斯提出了一项新法案，旨在加强对预测市场的内部交易限制。尽管他们对该法案在国会获得两党支持的前景表示乐观，但仍有声音认为现有的限制措施不足以有效遏制内部交易行为。这一法案的重要性在于，它可能会影响投资者对预测市场的信心，并进一步推动相关法律的完善，以保护市场的公正性和透明度。",
-          "analysis_en": "Senators Adam Schiff and John Curtis have introduced a new bill aimed at strengthening insider trading restrictions in prediction markets. While they are optimistic about the bipartisan support for the bill in Congress, some critics argue that the current measures are insufficient to effectively curb insider trading. The significance of this bill lies in its potential impact on investor confidence in prediction markets and the broader push for improved regulations to ensure fairness and transparency in these markets."
+          "title": "Explainer-What comes next after the social media trial verdicts?",
+          "link": "https://www.investing.com/news/stock-market-news/explainerwhat-comes-next-after-the-social-media-trial-verdicts-4580954",
+          "source": "Stock Market News",
+          "published_utc": "2026-03-25 20:42 UTC",
+          "analysis_zh": "最近，社交媒体平台的审判结果引发了广泛关注。这些判决可能会对社交媒体公司的运营模式和监管政策产生深远影响。随着公众对社交媒体内容管理的关注加剧，未来可能会出现更严格的法律法规。这不仅会影响社交媒体公司的盈利能力，也可能改变用户的使用习惯和信息传播方式。",
+          "analysis_en": "Recently, the verdicts from the social media trial have garnered significant attention. These rulings could have profound implications for the operational models of social media companies and regulatory policies. As public scrutiny over content management on these platforms increases, we may see stricter laws and regulations emerging in the future. This could not only affect the profitability of social media companies but also alter user behavior and the way information is disseminated."
         },
         {
           "rank": 8,
-          "title": "BTG Pactual Initiates Coverage of Pilgrim’s Pride Corporation (PPC) With a Neutral Rating – Here’s Why",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/btg-pactual-initiates-coverage-pilgrim-145303014.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-25 14:53 UTC",
-          "analysis_zh": "BTG Pactual最近开始对Pilgrim’s Pride Corporation（PPC）进行覆盖，并给予中性评级。这一评级意味着分析师对该公司的未来表现持谨慎态度，可能反映出市场对其增长潜力的担忧。此举对投资者而言具有重要意义，因为它可能影响他们的投资决策，并导致PPC股票的波动。了解分析师的看法有助于投资者更好地评估风险和机会。",
-          "analysis_en": "BTG Pactual has recently initiated coverage of Pilgrim’s Pride Corporation (PPC) with a neutral rating. This rating suggests that analysts are cautious about the company's future performance, which may reflect concerns about its growth potential. This move is significant for investors, as it could influence their investment decisions and lead to fluctuations in PPC's stock price. Understanding analysts' perspectives helps investors better assess risks and opportunities."
+          "title": "Elon Musk calls for Delaware judge to recuse herself in lawsuits, alleging bias",
+          "link": "https://www.cnbc.com/2026/03/25/elon-musk-calls-for-delaware-judge-to-recuse-in-cases-alleging-bias.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-03-25 20:38 UTC",
+          "analysis_zh": "特斯拉和SpaceX的首席执行官埃隆·马斯克要求德拉瓦州的一名法官在两起股东诉讼中回避审理，理由是他认为该法官存在偏见。这一请求引发了广泛关注，因为这些诉讼涉及公司的治理和股东权益，可能对特斯拉的未来发展产生重大影响。如果法官同意回避，可能会导致案件的审理延迟，同时也可能影响股东对公司管理层的信任。",
+          "analysis_en": "Elon Musk, the CEO of Tesla and SpaceX, is calling for a judge in Delaware to recuse herself from two shareholder lawsuits, citing alleged bias. This request has garnered significant attention as the lawsuits pertain to corporate governance and shareholder rights, which could have major implications for Tesla's future. If the judge agrees to recuse herself, it may delay the proceedings and potentially affect shareholder trust in the company's management."
         },
         {
           "rank": 9,
-          "title": "Ingredion Incorporated (INGR) Gets Initiated With a Buy Rating by Benchmark",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/ingredion-incorporated-ingr-gets-initiated-145301921.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-25 14:53 UTC",
-          "analysis_zh": "Ingredion公司（INGR）最近被Benchmark公司评为“买入”评级。这一评级的发布意味着市场对Ingredion的未来表现持乐观态度，可能会吸引更多投资者关注该公司。随着食品和饮料行业对成分的需求不断增加，Ingredion作为一家主要的成分供应商，其市场地位可能进一步巩固。这一评级也可能推动其股价上涨，影响投资者的决策。",
-          "analysis_en": "Ingredion Incorporated (INGR) has recently been initiated with a \"Buy\" rating by Benchmark. This rating suggests a positive outlook for Ingredion's future performance, potentially attracting more investors to the company. As the demand for ingredients in the food and beverage industry continues to rise, Ingredion's position as a key supplier may strengthen further. This rating could also lead to an increase in its stock price, influencing investors' decisions."
+          "title": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.66%",
+          "link": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-066-4580938",
+          "source": "Stock Market News",
+          "published_utc": "2026-03-25 20:35 UTC",
+          "analysis_zh": "美国股市在交易结束时上涨，道琼斯工业平均指数上涨了0.66%。这一上涨反映了投资者对经济复苏的乐观情绪，尤其是在企业盈利和就业数据改善的背景下。这一趋势可能会吸引更多投资者参与市场，进一步推动股市上涨，同时也可能影响到其他经济领域，如消费和企业投资。",
+          "analysis_en": "U.S. stocks closed higher, with the Dow Jones Industrial Average rising by 0.66%. This increase reflects investor optimism about economic recovery, particularly in light of improving corporate earnings and employment data. This trend may attract more investors to the market, potentially driving further stock market gains and impacting other economic sectors, such as consumer spending and business investments."
         },
         {
           "rank": 10,
-          "title": "Why is Archer-Daniels-Midland Company (ADM) One of the Best Undervalued Defensive Stocks for 2026?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/why-archer-daniels-midland-company-145300778.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-25 14:53 UTC",
-          "analysis_zh": "阿彻丹尼尔斯米德兰公司（ADM）被认为是2026年最佳被低估的防御性股票之一。这家农业和食品公司在市场波动中表现出色，吸引了投资者的关注。其稳定的收益和强大的市场地位使其在经济不确定性中显得尤为重要。投资者可能会考虑将其纳入投资组合，以应对未来可能的市场挑战。",
-          "analysis_en": "Archer-Daniels-Midland Company (ADM) is regarded as one of the best undervalued defensive stocks for 2026. This agricultural and food company has shown strong performance amid market volatility, attracting the attention of investors. Its stable earnings and robust market position make it particularly significant during economic uncertainty. Investors may consider adding it to their portfolios to navigate potential market challenges in the future."
+          "title": "After-hours movers: Jefferies Financial Group, Driven Brands, Noodles, Navan",
+          "link": "https://www.investing.com/news/stock-market-news/afterhours-movers-jefferies-financial-group-driven-brands-noodles-navan-432SI-4580934",
+          "source": "Stock Market News",
+          "published_utc": "2026-03-25 20:35 UTC",
+          "analysis_zh": "在最新的股市动态中，杰弗里金融集团、驱动品牌、面条公司和Navan等公司在盘后交易中表现突出。这些公司的股价波动引起了投资者的关注，反映出市场对其未来增长潜力的信心。这一现象不仅影响了相关公司的市值，也可能对整个行业的投资趋势产生深远影响。",
+          "analysis_en": "In the latest stock market updates, Jefferies Financial Group, Driven Brands, Noodles, and Navan have shown notable performance in after-hours trading. The fluctuations in their stock prices have drawn investors' attention, indicating confidence in their future growth potential. This trend not only affects the market value of these companies but may also have significant implications for investment trends across the entire industry."
         }
       ]
     },
@@ -110,93 +110,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "Florida Restores Access to Low-Cost H.I.V. Medications After Uproar",
+          "link": "https://www.nytimes.com/2026/03/25/health/florida-hiv-meds-assistance-program.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-03-25 19:04 UTC",
+          "analysis_zh": "佛罗里达州本周通过了一项短期资金法案，确保超过12,000名居民能够继续获得资助以支付H.I.V.药物的项目。这一决定是在公众强烈反对后作出的，反映出人们对健康保障的重视。恢复这一项目不仅关乎个人的健康，也可能对整个社区的公共卫生产生积极影响。",
+          "analysis_en": "This week, Florida passed a short-term funding bill to ensure that over 12,000 residents can continue to access a program that helps pay for H.I.V. medications. This decision came after significant public outcry, highlighting the importance of health care access. Restoring this program is crucial not only for individual health but may also have a positive impact on public health within the community."
+        },
+        {
+          "rank": 2,
           "title": "Two States Sue Cord Blood Bank Over False Advertisements",
           "link": "https://www.nytimes.com/2026/03/25/health/cord-blood-registry-false-advertisements.html",
           "source": "NYT > Health",
           "published_utc": "2026-03-25 14:47 UTC",
-          "analysis_zh": "德克萨斯州和亚利桑那州的检察长对脐带血库提起诉讼，指控其通过虚假广告从新父母身上获利。此案的核心在于脐带血库声称其服务能够提供超出实际效果的健康益处，这可能误导了许多家庭。此诉讼不仅可能影响脐带血库的商业运作，还可能引发对整个行业广告宣传的审查，促使更严格的监管措施出台。",
-          "analysis_en": "The attorneys general of Texas and Arizona have filed a lawsuit against a cord blood bank, accusing it of profiting from misleading advertisements aimed at new parents. The lawsuit centers on claims made by the bank that its services offer health benefits beyond what is actually supported by evidence, potentially misleading many families. This case could not only impact the operations of the cord blood bank but may also lead to a broader examination of advertising practices in the industry, prompting stricter regulatory measures."
+          "analysis_zh": "德克萨斯州和亚利桑那州的总检察长对脐带血库提起诉讼，指控其通过误导性广告从新父母那里获利。此案引发了公众对脐带血存储行业的关注，尤其是在新父母面临选择时。若诉讼成功，可能会促使相关法规的加强，保护消费者免受虚假宣传的影响。",
+          "analysis_en": "The attorneys general of Texas and Arizona have filed a lawsuit against Cord Blood Registry, accusing the company of profiting from misleading advertisements aimed at new parents. This case has raised public awareness about the cord blood storage industry, particularly as new parents navigate their options. If the lawsuit is successful, it could lead to stricter regulations that protect consumers from false advertising."
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Scientists discover why this deadly lung cancer keeps coming back",
           "link": "https://www.sciencedaily.com/releases/2026/03/260325005917.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-25 11:52 UTC",
-          "analysis_zh": "科学家发现小细胞肺癌复发的原因，主要是由于缺失一种关键蛋白质，导致炎症反应的产生，而这种炎症反应反而促进了肿瘤的生长和扩散。更令人惊讶的是，这种缺失使癌细胞转变为一种更具攻击性的神经元样状态，与复发密切相关。这一发现对于理解小细胞肺癌的生物学特性至关重要，有助于延长治疗效果，预防复发，并改善患者的长期预后。",
-          "analysis_en": "Scientists have discovered the reason behind the recurrence of small cell lung cancer, which is linked to the loss of a key protein that triggers inflammation, ultimately aiding tumor growth and spread. Even more surprisingly, this loss pushes cancer cells into a more aggressive, neuron-like state associated with relapse. This finding is crucial for understanding the biological characteristics of small cell lung cancer, as it may help extend treatment benefits, prevent relapses, and improve long-term outcomes for patients."
+          "analysis_zh": "科学家发现，小细胞肺癌中一种关键蛋白的缺失会引发炎症，反而促进肿瘤的生长和扩散。这一发现的重要性在于，了解这种癌症的生物学机制有助于延长治疗效果，预防复发，并改善长期预后。研究表明，缺乏这种蛋白会使癌细胞转变为更具侵袭性的神经元样状态，这与复发密切相关。因此，这项研究可能为小细胞肺癌的治疗提供新的思路。",
+          "analysis_en": "Scientists have discovered that the loss of a key protein in small cell lung cancer triggers inflammation that actually aids tumor growth and spread. This finding is significant because understanding the biological mechanisms behind this cancer can help extend treatment benefits, prevent relapse, and improve long-term outcomes. The research indicates that the absence of this protein pushes cancer cells into a more aggressive, neuron-like state, which is closely linked to relapse. Therefore, this study may offer new insights for the treatment of small cell lung cancer."
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Scientists just discovered bees and hummingbirds are drinking alcohol",
           "link": "https://www.sciencedaily.com/releases/2026/03/260325005908.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-25 11:05 UTC",
-          "analysis_zh": "科学家发现蜜蜂和蜂鸟在饮用酒精，这一发现揭示了花蜜中常含有微量酒精。尽管这些授粉者每天摄入相当于人类饮酒量的酒精，但它们并未表现出醉酒的迹象，这表明它们可能具备惊人的进化耐受性。这一研究不仅有助于我们理解蜜蜂和蜂鸟的饮食习惯，还可能影响我们对其他动物行为的认识，尤其是它们如何适应环境中的化学物质。",
-          "analysis_en": "Scientists have discovered that bees and hummingbirds are consuming alcohol, as flower nectar often contains small amounts of it. Despite ingesting amounts comparable to human drinking, these pollinators show no signs of intoxication, suggesting a remarkable evolutionary tolerance. This research not only enhances our understanding of the dietary habits of bees and hummingbirds but may also influence how we perceive the behavior of other animals, particularly in relation to their adaptation to chemical substances in their environment."
+          "analysis_zh": "科学家发现蜜蜂和蜂鸟在饮用酒精。研究表明，许多花朵的花蜜中自然含有微量酒精，这意味着这些授粉者在一天中不断饮用。尽管它们的酒精摄入量相当于人类的饮酒量，但并未表现出醉酒的迹象，这表明它们可能具备惊人的进化耐受性。这一发现不仅揭示了蜜蜂和蜂鸟的饮食习惯，还可能影响我们对授粉者行为和植物繁殖的理解。",
+          "analysis_en": "Scientists have discovered that bees and hummingbirds are consuming alcohol. Research indicates that many flowers naturally produce small amounts of alcohol in their nectar, meaning these pollinators are drinking it throughout the day. Despite their alcohol intake being comparable to human consumption, they show no signs of intoxication, suggesting a remarkable evolutionary tolerance. This finding not only sheds light on the dietary habits of bees and hummingbirds but may also influence our understanding of pollinator behavior and plant reproduction."
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Metformin’s hidden brain pathway revealed after 60 years",
           "link": "https://www.sciencedaily.com/releases/2026/03/260325055441.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-25 10:47 UTC",
-          "analysis_zh": "研究人员发现，二甲双胍不仅在身体中发挥作用，还能影响大脑。这项发现揭示了二甲双胍通过关闭一种关键蛋白质并激活特定神经元，利用一个之前未被认识的途径降低血糖。这一发现可能会改变糖尿病的治疗方式，为更有针对性和有效的疗法开辟新方向。",
-          "analysis_en": "Researchers have discovered that metformin works not only in the body but also affects the brain. This finding reveals that metformin lowers blood sugar by switching off a key protein and activating specific neurons through a previously unrecognized pathway. This discovery could change the way diabetes is treated, opening new avenues for more targeted and effective therapies."
+          "analysis_zh": "一项重大发现揭示了二甲双胍不仅在身体中发挥作用，还能影响大脑。研究人员发现，通过关闭一种关键蛋白质并激活特定神经元，这种药物能够通过一个之前未知的途径降低血糖。这一发现重要性在于，它为糖尿病的治疗开辟了新的方向，可能会导致更具针对性和有效性的治疗方法。随着对二甲双胍作用机制的深入理解，未来的糖尿病治疗可能会更加个性化。",
+          "analysis_en": "A major discovery reveals that metformin not only works in the body but also affects the brain. Researchers found that by switching off a key protein and activating specific neurons, the drug lowers blood sugar through a previously hidden pathway. This finding is significant as it opens new avenues for diabetes treatment, potentially leading to more targeted and effective therapies. With a deeper understanding of how metformin operates, future diabetes treatments may become more personalized."
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Most Americans don’t know this food raises colon cancer risk",
           "link": "https://www.sciencedaily.com/releases/2026/03/260324024259.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-25 04:38 UTC",
-          "analysis_zh": "根据一项新的民调，近一半的美国人并不知道加工肉类会增加结直肠癌的风险。这一发现引起了专家的关注，因为结直肠癌已成为50岁以下成年人癌症死亡的主要原因。调查显示，在了解这一联系后，大约三分之二的受访者支持在加工肉类产品上加贴警示标签，这表明公众渴望获得更清晰的信息。专家指出，尽管人们的意识正在提高，但医疗工作者中对此问题的了解仍然不足。值得庆幸的是，富含植物性食物和纤维的饮食以及健康的生活习惯可以显著降低风险。",
-          "analysis_en": "A recent poll revealed that nearly half of Americans are unaware that processed meat increases the risk of colorectal cancer. This finding is concerning, especially since colorectal cancer has become the leading cause of cancer deaths among adults under 50. The survey indicated that after learning about the link, about two-thirds of respondents would support warning labels on processed meat products, suggesting a public desire for clearer information. Experts warn that awareness is still lacking among healthcare providers. Fortunately, diets rich in plant foods and fiber, along with healthy habits, can significantly reduce this risk."
+          "analysis_zh": "根据一项新的民调，近一半的美国人并不知道加工肉类会增加结直肠癌的风险。这一发现凸显了公众对这一重要健康信息的缺乏认识，尤其是在年轻成人中，结直肠癌的发病率正在上升。调查显示，了解这一联系后，大约三分之二的受访者支持在加工肉类产品上贴上警示标签，这表明人们渴望获得更清晰的信息。专家指出，医疗工作者对这一风险的认知也存在不足，因此需要加强相关教育。好消息是，富含植物性食物和纤维的饮食以及健康的生活习惯可以显著降低结直肠癌的风险。",
+          "analysis_en": "A new poll reveals that nearly half of Americans are unaware that processed meat increases the risk of colorectal cancer. This finding highlights a significant knowledge gap, particularly as rates of colorectal cancer are rising among younger adults. The survey indicates that once informed about the connection, about two-thirds of respondents support warning labels on processed meat products, suggesting a desire for clearer information. Experts emphasize that even healthcare providers lack awareness of this risk, indicating a need for better education. The encouraging news is that diets rich in plant foods and fiber, along with healthy habits, can significantly reduce the risk of colorectal cancer."
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Why your brain may be sabotaging your balance as you age",
           "link": "https://www.sciencedaily.com/releases/2026/03/260324230102.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-25 04:29 UTC",
-          "analysis_zh": "随着年龄的增长，许多老年人和帕金森患者在平衡方面面临挑战。研究发现，尽管身体在平衡挑战中表现得过于活跃，但这种反应实际上会削弱他们的平衡恢复能力。这一发现对于理解老年人和帕金森患者的跌倒风险至关重要，可能帮助医疗专业人员更好地评估哪些人群更容易失去平衡。通过优化相关评估方法，未来有望提高对跌倒风险的预测能力。",
-          "analysis_en": "As people age, many older adults and those with Parkinson's disease face challenges with balance. Research has found that while the body reacts too actively during balance challenges, this response actually weakens their ability to recover balance. This finding is crucial for understanding the fall risk in older adults and Parkinson's patients, potentially aiding healthcare professionals in better assessing who is more likely to lose balance. By optimizing related assessment methods, there is hope for improved prediction of fall risks in the future."
+          "analysis_zh": "研究发现，随着年龄增长和帕金森病患者的平衡问题，实际上是由于身体过度反应而非反应不足。科学家们发现，即使在轻微的失衡情况下，大脑和肌肉也会过度活跃，这反而削弱了恢复平衡的能力。同时，肌肉之间的僵硬使得动作变得不稳定。这一意外发现可能有助于预测哪些人更容易摔倒，从而为老年人和帕金森病患者的平衡问题提供新的理解和干预方向。",
+          "analysis_en": "Research has found that balance issues in aging individuals and those with Parkinson's disease may stem from overactivity rather than underactivity of the body. Scientists discovered that even minor disturbances trigger excessive responses from the brain and muscles, which actually weaken balance recovery. Additionally, muscle stiffness can make movements less stable. This unexpected finding could help predict who is at greater risk of falling, offering new insights and potential interventions for balance issues in older adults and Parkinson's patients."
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "First ever atomic movie reveals hidden driver of radiation damage",
           "link": "https://www.sciencedaily.com/releases/2026/03/260324024251.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-25 03:53 UTC",
-          "analysis_zh": "研究人员首次成功拍摄了原子在辐射驱动衰变过程发生前的运动，揭示了一个意想不到的动态场景。原子并非静止不动，而是不断游走和重组，这直接影响了衰变的方式和时机。这部“原子电影”表明，结构和运动在辐射损伤机制中起着核心作用。这一发现可能会加深我们对有害辐射如何影响生物物质的理解，从而为未来的保护策略提供指导。",
-          "analysis_en": "Researchers have successfully captured the motion of atoms just before a radiation-driven decay process occurs, revealing an unexpectedly dynamic scene. Instead of remaining static, the atoms roam and rearrange, directly influencing how and when the decay takes place. This \"atomic movie\" indicates that structure and motion play a central role in the mechanisms of radiation damage. These findings could enhance our understanding of how harmful radiation affects biological matter, potentially guiding future protective strategies."
+          "analysis_zh": "研究人员首次成功拍摄了原子在辐射引发衰变过程前的运动，揭示了一个动态的场景。与静止状态不同，这些原子在运动和重组，直接影响衰变的发生方式和时机。这项“原子电影”展示了结构和运动在辐射损伤机制中的核心作用。这一发现有助于我们更好地理解有害辐射如何影响生物物质，可能为未来的防护策略提供指导。",
+          "analysis_en": "Researchers have successfully captured the motion of atoms just before a radiation-driven decay process, revealing a dynamic scene. Unlike remaining static, these atoms roam and rearrange, directly influencing how and when the decay occurs. This \"atomic movie\" highlights the central role of structure and motion in radiation damage mechanisms. These findings enhance our understanding of how harmful radiation affects biological matter and may guide future protective strategies."
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Fathers face rising depression risk a year after baby arrives",
           "link": "https://www.sciencedaily.com/releases/2026/03/260324230057.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-25 03:10 UTC",
-          "analysis_zh": "一项新的研究发现，新父亲在孩子出生后的前几个月心理健康状况相对稳定，但这种稳定性并未持续到一年后。研究显示，约在孩子出生一年后，抑郁症和压力相关疾病的诊断显著增加，这一发现令研究人员感到意外。这表明，父亲身份带来的情感负担是逐渐累积的，而非立刻显现。了解这一趋势对于改善父亲的心理健康支持至关重要，可能会促使相关机构制定更有效的干预措施。",
-          "analysis_en": "A new study reveals that new fathers experience relatively stable mental health during the first few months after their child is born, but this stability does not last beyond the first year. Researchers found that about a year after childbirth, diagnoses of depression and stress-related disorders significantly increased, which surprised them. This suggests that the emotional toll of fatherhood accumulates over time rather than appearing immediately. Understanding this trend is crucial for improving mental health support for fathers and may lead to more effective interventions by relevant organizations."
+          "analysis_zh": "一项新研究发现，父亲在孩子出生后的第一年内，抑郁症和压力相关疾病的风险显著上升。尽管在怀孕和出生后的早期几个月，父亲们的心理健康状况相对稳定，但这种稳定性并未持续到一年后。这一发现表明，父亲身份所带来的情感压力是逐渐累积的，而不是立刻显现的。这项研究的重要性在于，它提醒社会关注新父亲的心理健康，尤其是在孩子出生后的较长时间内，可能需要提供更多的支持和干预。",
+          "analysis_en": "A new study reveals that fathers face a significant increase in the risk of depression and stress-related disorders one year after their child is born. While new fathers experience relative mental stability during pregnancy and the early months postpartum, this stability does not last, as issues tend to emerge after a year. This finding highlights that the emotional toll of fatherhood accumulates over time rather than appearing immediately. The importance of this research lies in raising awareness about the mental health of new fathers, suggesting that support and interventions may be necessary well beyond the initial stages of parenthood."
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "This tiny implant, smaller than a grain of salt, can read your brain",
           "link": "https://www.sciencedaily.com/releases/2026/03/260324024249.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-03-25 02:23 UTC",
-          "analysis_zh": "康奈尔大学的研究人员开发了一种极小的神经植入物，其尺寸甚至小于一粒盐。尽管体积微小，这种植入物能够在一年内无线传输活体动物的脑电活动数据。该技术的突破展示了微电子系统在极小规模下的运行能力，可能为脑部监测、生物集成传感器及其他医疗技术应用开辟新的途径。这一创新不仅有助于科学家更好地研究大脑，同时也可能推动无创医疗设备的发展。",
-          "analysis_en": "Researchers at Cornell University have developed an extremely small neural implant that is even smaller than a grain of salt. Despite its tiny size, this implant can wirelessly transmit brain activity data from a living animal for over a year. This breakthrough demonstrates the capability of microelectronic systems to operate at a remarkably small scale, potentially opening new avenues for brain monitoring, bio-integrated sensors, and other medical applications. This innovation not only aids scientists in studying the brain more effectively but may also advance the development of non-invasive medical devices."
-        },
-        {
-          "rank": 10,
-          "title": "Scientists just solved a major mystery about how your brain stores memories",
-          "link": "https://www.sciencedaily.com/releases/2026/03/260324024247.htm",
-          "source": "Mind & Brain News -- ScienceDaily",
-          "published_utc": "2026-03-25 01:13 UTC",
-          "analysis_zh": "科学家们发现，人脑在存储记忆时将其分为“什么”和“何时/何地”两类，分别由不同的神经元群体负责。一个群体专注于特定的物体或人物，而另一个则跟踪情境或背景。当我们正确回忆某件事时，这两个群体会短暂连接，从而重建完整的记忆。这项研究揭示了人类如何在不同的经历中识别相同事物的秘密，可能对理解记忆的灵活性和大脑的运作机制有重要影响。",
-          "analysis_en": "Scientists have discovered that the human brain categorizes memories into \"what\" and \"when/where,\" utilizing two distinct groups of neurons. One group responds to specific objects or people, while the other tracks the context or situation. When we accurately recall something, these groups briefly connect to reconstruct the complete memory. This research sheds light on how humans can recognize the same entities across different experiences, which may have significant implications for understanding the flexibility of memory and the workings of the brain."
+          "analysis_zh": "康奈尔大学的研究人员开发出一种极小的神经植入物，尺寸仅比盐粒稍大，能够在一年内无线传输大脑活动数据。该设备利用激光光束安全穿透脑组织，并通过微小的红外信号进行通信。这项技术的突破可能会改变科学家研究大脑的方式，使其不再依赖侵入性电线，从而推动脑部监测和生物集成传感器等领域的发展。",
+          "analysis_en": "Researchers at Cornell University have developed an extremely small neural implant, only slightly larger than a grain of salt, capable of wirelessly transmitting brain activity data for over a year. The device uses laser beams that safely pass through brain tissue and communicates via tiny infrared signals. This technological breakthrough could transform how scientists study the brain by eliminating the need for invasive wiring, potentially advancing fields such as brain monitoring and bio-integrated sensors."
         }
       ]
     },
@@ -210,8 +210,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/03/260325055441.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-03-25 10:47 UTC",
-          "analysis_zh": "研究人员发现，二甲双胍不仅在身体内发挥作用，还能影响大脑。这项发现揭示了二甲双胍通过关闭一种关键蛋白并激活特定神经元，利用一个之前未被认识的通路降低血糖。这一研究成果可能会改变糖尿病的治疗方式，开辟出更具针对性和有效性的疗法。了解二甲双胍在大脑中的作用，有助于科学家们开发出新型的糖尿病治疗方案。",
-          "analysis_en": "Researchers have discovered that metformin works not only in the body but also in the brain. This finding reveals that metformin lowers blood sugar by switching off a key protein and activating specific neurons through a previously unrecognized pathway. This research could change the way diabetes is treated, opening up new avenues for more targeted and effective therapies. Understanding the role of metformin in the brain may help scientists develop novel treatments for diabetes."
+          "analysis_zh": "最近的研究揭示了二甲双胍不仅在身体中发挥作用，还能影响大脑。研究人员发现，通过关闭一种关键蛋白质并激活特定神经元，二甲双胍能够通过一个此前未知的途径降低血糖。这一发现可能会改变糖尿病的治疗方法，为更具针对性的疗法开辟新的可能性。了解二甲双胍在大脑中的作用，能够帮助科学家们开发出更有效的糖尿病治疗方案。",
+          "analysis_en": "Recent research has revealed that metformin not only works in the body but also affects the brain. Scientists discovered that by switching off a key protein and activating specific neurons, metformin can lower blood sugar through a previously hidden pathway. This finding could transform diabetes treatment, opening up new possibilities for more targeted therapies. Understanding how metformin operates in the brain may help researchers develop more effective treatments for diabetes."
         },
         {
           "rank": 2,
@@ -219,8 +219,8 @@
           "link": "https://aeon.co/videos/as-technologies-mine-our-attention-we-must-look-to-artists?utm_source=rss-feed",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-03-25 10:01 UTC",
-          "analysis_zh": "这篇文章探讨了技术对人性的影响，指出技术可能使人类的情感和创造力变得单一。文章中提到，艺术家们通过他们的作品能够深化人类的体验，帮助我们重新连接内心的情感。特别是通过弗拉门戈音乐和杂技表演，艺术家们展示了如何在技术主导的世界中保持人性的丰富性。这一讨论对我们理解技术与人类之间的关系具有重要意义，可能会影响我们在未来如何利用技术与艺术的结合。",
-          "analysis_en": "This article explores the impact of technology on humanity, suggesting that it may flatten our emotional and creative experiences. It highlights how artists can deepen our human experience, helping us reconnect with our inner emotions. Through flamenco music and juggling performances, the artists demonstrate ways to maintain the richness of humanity in a technology-dominated world. This discussion is significant for understanding the relationship between technology and humanity and may influence how we integrate technology with art in the future."
+          "analysis_zh": "在这段视频中，艺术家们探讨了技术对人性的影响，尤其是它可能导致的平面化现象。随着科技的迅速发展，人们的情感和创造力可能受到压制，而艺术则能够帮助我们更深入地理解和体验人性。通过弗拉门戈音乐家和杂技演员的视角，我们可以看到艺术如何在科技的背景下重新定义人类的存在。这一讨论不仅引发了对技术与人性的关系的思考，也可能影响我们对未来艺术和科技融合的看法。",
+          "analysis_en": "In this video, artists discuss the impact of technology on humanity, particularly the risk of flattening our human experience. As technology advances rapidly, our emotions and creativity may be stifled, while art can help us delve deeper into understanding and experiencing our humanity. Through the perspectives of a flamenco musician and a juggler, we see how art can redefine human existence in the context of technology. This discussion not only prompts reflection on the relationship between technology and humanity but may also influence our views on the future integration of art and technology."
         },
         {
           "rank": 3,
@@ -228,8 +228,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/03/260324230102.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-03-25 04:29 UTC",
-          "analysis_zh": "随着年龄的增长，平衡能力的下降可能与大脑和肌肉的过度反应有关。研究发现，老年人和帕金森病患者在面临平衡挑战时，尽管身体努力维持稳定，但反而会削弱恢复平衡的能力。这一发现对老年人跌倒风险的预测具有重要意义，可能帮助医生识别哪些人更容易摔倒。通过更好地理解这一机制，未来可能会开发出新的评估方法，以降低跌倒的风险。",
-          "analysis_en": "As people age, their declining balance may be linked to overreactions from the brain and muscles. Research shows that older adults and those with Parkinson's disease tend to overexert themselves during balance challenges, which ironically weakens their ability to recover balance. This finding is significant as it could help predict which individuals are at higher risk of falling. By better understanding this mechanism, new assessment methods may be developed in the future to reduce fall risks."
+          "analysis_zh": "随着年龄的增长，许多人会面临平衡问题，尤其是帕金森病患者。研究发现，老年人和帕金森患者在平衡挑战中，脑部和肌肉的反应过于强烈，反而削弱了他们恢复平衡的能力。这一发现非常重要，因为它揭示了过度努力可能导致更高的跌倒风险。研究人员希望这一模式能够帮助预测哪些人更容易跌倒，从而为老年人提供更好的保护措施。",
+          "analysis_en": "As people age, many face balance issues, particularly those with Parkinson's disease. Research has shown that older adults and Parkinson's patients overreact with their brain and muscle responses during balance challenges, which actually weakens their ability to recover balance. This finding is significant because it reveals that trying harder may lead to a higher risk of falling. Researchers hope that this pattern could help predict who is more likely to fall, ultimately leading to better protective measures for the elderly."
         },
         {
           "rank": 4,
@@ -237,8 +237,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/03/260324230057.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-03-25 03:10 UTC",
-          "analysis_zh": "一项新的研究发现，新父亲在孩子出生后的第一年内，心理健康状况可能会出现显著恶化。尽管在怀孕期间和出生后的早期几个月，他们的心理健康诊断较少，但一年后，抑郁和压力相关疾病的发病率却显著上升。这一发现提醒我们，父亲身份所带来的情感负担并不是瞬间显现，而是随着时间的推移逐渐加重。这可能会影响到父亲的家庭关系和个人生活质量，强调了对新父亲心理健康的关注和支持的重要性。",
-          "analysis_en": "A new study reveals that new fathers may experience a significant decline in mental health during the first year after their child is born. While they have fewer mental health diagnoses during pregnancy and the early months postpartum, there is a notable increase in depression and stress-related disorders one year later. This finding highlights that the emotional burden of fatherhood does not manifest immediately but builds over time. Such changes could impact fathers' family relationships and overall quality of life, underscoring the importance of attention and support for new fathers' mental health."
+          "analysis_zh": "一项新的研究发现，新父亲在孩子出生后的头几个月心理健康状况相对稳定，但这种稳定性并未持续到一年后。研究显示，随着时间的推移，抑郁和压力相关的疾病显著增加，令人感到意外。这一发现表明，父亲身份所带来的情感负担是逐渐累积的，而不是立即显现的。这项研究的结果可能会影响对父亲心理健康的关注，促使社会和医疗系统更加重视新父亲的心理支持。",
+          "analysis_en": "A new study reveals that new fathers experience relatively stable mental health during the first few months after their child's birth, but this stability does not last beyond the first year. The research indicates a significant increase in depression and stress-related disorders over time, which surprised researchers. This finding suggests that the emotional toll of fatherhood accumulates gradually rather than appearing immediately. The results may influence how society and healthcare systems address the mental health needs of new fathers, highlighting the importance of providing psychological support during this transition."
         },
         {
           "rank": 5,
@@ -246,8 +246,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/03/260324024249.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-03-25 02:23 UTC",
-          "analysis_zh": "康奈尔大学的研究人员开发出一种极小的神经植入物，尺寸仅相当于一粒盐，但它能够在一年内无线传输大脑活动数据。这项技术的突破在于，它利用激光安全地穿透组织，并通过微小的红外信号进行通信。这种超小型设备可能会改变科学家研究大脑的方式，使其不再依赖侵入性的电线连接，从而推动脑部监测和生物集成传感器等领域的发展。",
-          "analysis_en": "Researchers at Cornell University have developed an extremely small neural implant, about the size of a grain of salt, that can wirelessly transmit brain activity data for over a year. This breakthrough technology uses laser light that safely penetrates tissue and communicates via tiny infrared signals. This ultra-miniature device could transform how scientists study the brain, eliminating the need for invasive wiring and potentially advancing fields like brain monitoring and bio-integrated sensors."
+          "analysis_zh": "康奈尔大学的研究人员开发出一种极小的神经植入物，大小仅相当于一粒盐，但它能够无线传输超过一年的脑部活动数据。这项技术的突破在于，它使用激光安全地穿透脑组织，并通过微小的红外信号进行通信。这种超小型设备可能会彻底改变科学家研究大脑的方式，避免了传统侵入式电线的使用，未来在脑部监测和生物集成传感器等领域具有广泛的应用前景。",
+          "analysis_en": "Researchers at Cornell University have developed an extremely small neural implant, smaller than a grain of salt, that can wirelessly transmit brain activity data for over a year. This breakthrough technology uses laser light to safely penetrate brain tissue and communicates via tiny infrared signals. This ultra-miniature device could revolutionize how scientists study the brain by eliminating the need for invasive wiring, opening up new possibilities in brain monitoring and bio-integrated sensors."
         },
         {
           "rank": 6,
@@ -255,8 +255,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/03/260324024247.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-03-25 01:13 UTC",
-          "analysis_zh": "科学家们发现，人脑在存储记忆时，将信息分为“什么”和“何时/何地”两个部分，利用两组不同的神经元进行处理。一组神经元专门响应特定的物体或人物，而另一组则追踪上下文或情境。当我们正确回忆某个信息时，这两组神经元会短暂连接，从而重建完整的记忆。这项研究揭示了我们如何在完全不同的经历中识别相同事物的秘密，可能对理解记忆的灵活性和应用具有重要意义。",
-          "analysis_en": "Scientists have discovered that the human brain stores memories by separating them into \"what\" and \"when/where\" components, using two distinct groups of neurons. One group responds to specific objects or people, while the other tracks the context or situation. When we recall a memory accurately, these two groups briefly connect to reconstruct the complete memory. This research sheds light on how we can recognize the same things across vastly different experiences, which could have significant implications for understanding the flexibility and application of memory."
+          "analysis_zh": "科学家们发现，人脑在存储记忆时将信息分为“什么”和“何时/何地”两个部分，分别由不同的神经元群体处理。这一发现揭示了人脑如何在不同情境中识别相同事物的能力，具有重要的心理学意义。通过将内容和背景分开存储，人脑能够在需要时灵活地连接这些信息，从而形成完整的记忆。这项研究不仅加深了我们对记忆形成机制的理解，还有助于改善记忆障碍患者的治疗方法。",
+          "analysis_en": "Scientists have discovered that the human brain stores memories by separating them into \"what\" and \"when/where,\" using distinct groups of neurons for each. This finding sheds light on how we can recognize the same person or object in different contexts, which is significant for understanding memory processes. By keeping content and context separate, the brain can flexibly connect these pieces of information when needed to form complete memories. This research not only enhances our understanding of memory formation but may also aid in developing treatments for memory-related disorders."
         }
       ]
     },
@@ -266,93 +266,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Senate Democrats are trying to ‘codify’ Anthropic’s red lines on autonomous weapons and mass surveillance",
-          "link": "https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance",
+          "title": "Spotify is letting artists manually approve releases to combat AI fakes",
+          "link": "https://www.theverge.com/streaming/900910/spotify-artist-profile-protection-ai-clones",
           "source": "The Verge",
-          "published_utc": "2026-03-25 15:05 UTC",
-          "analysis_zh": "最近，安索普公司与五角大楼的争斗扩展到了国会。加州参议员亚当·希夫正在起草一项新法案，旨在“法制化”安索普设定的红线，确保在生死问题上由人类做出最终决定。同时，密歇根州参议员埃莉莎·斯洛特金也提出了一项法案，限制国防部使用人工智能进行对美国民众的大规模监控。这一系列举措表明，国会对人工智能在军事和监控领域的使用越来越关注，可能会影响未来相关技术的监管和发展。",
-          "analysis_en": "Recently, Anthropic's conflict with the Pentagon has expanded to Congress. Senator Adam Schiff from California is drafting a new bill to \"codify\" the red lines set by Anthropic, ensuring that humans make the ultimate decisions in life-and-death situations. Additionally, Senator Elissa Slotkin from Michigan has introduced a bill to limit the Defense Department's ability to use AI for mass surveillance of Americans. These developments indicate growing congressional concern over the use of AI in military and surveillance contexts, which could significantly impact the regulation and future development of related technologies."
+          "published_utc": "2026-03-25 21:01 UTC",
+          "analysis_zh": "Spotify正在测试一项名为“艺术家资料保护”的新功能，允许艺术家在音乐发布前进行审核。这项功能的推出是为了应对越来越多的假冒者和AI生成的假曲目，这些假曲目常常出现在错误的艺术家页面上。此举不仅保护了艺术家的名声，也有助于维护音乐平台的整体质量。随着这一功能的推广，艺术家们将能够更好地控制自己的作品，减少假冒行为对他们职业生涯的影响。",
+          "analysis_en": "Spotify is beta-testing a new feature called \"Artist Profile Protection,\" which allows artists to review their music before it goes live. This initiative addresses the growing issue of impostors and AI-generated fake tracks that often appear on incorrect artist pages. By implementing this feature, Spotify aims to protect artists' reputations and maintain the overall quality of the music platform. As this feature rolls out, artists will have greater control over their work, potentially reducing the negative impact of impersonation on their careers."
         },
         {
           "rank": 2,
-          "title": "You can install these wireless security cameras over half a mile away",
-          "link": "https://www.theverge.com/tech/898980/xthings-ulticam-security-camera-wi-fi-halow-wireless",
+          "title": "Razer’s new Blade 16 gaming laptop has an Intel Panther Lake chip and very fast RAM",
+          "link": "https://www.theverge.com/gadgets/900518/razers-new-blade-16-gaming-laptop-has-an-intel-panther-lake-chip-and-very-fast-ram",
           "source": "The Verge",
-          "published_utc": "2026-03-25 15:00 UTC",
-          "analysis_zh": "Xthings公司在2026年国际消费电子展（CES）上首次宣布，将于今年第二季度推出两款新的长距离无线监控摄像头套件，价格在489.99美元到989.99美元之间，具体取决于摄像头的数量和类型。这些摄像头将采用Wi-Fi HaLow（802.11ah）协议，能够在超过0.6英里（约1000米）的距离内无线传输视频，即使在建筑物等障碍物存在的情况下也能正常工作。这一创新将大大简化大型设施和物业的安装过程，可能会对安防行业产生深远影响。",
-          "analysis_en": "Xthings announced earlier this year at CES 2026 that it plans to release two new long-range wireless security camera kits in the second quarter of this year, with prices ranging from $489.99 to $989.99 depending on the number and types of cameras included. These cameras will utilize the Wi-Fi HaLow (802.11ah) protocol, allowing them to wirelessly transmit video over distances of more than 0.6 miles (about 1,000 meters), even in the presence of obstacles like buildings. This innovation will significantly simplify the installation process for large facilities and properties, potentially having a profound impact on the security industry."
+          "published_utc": "2026-03-25 20:36 UTC",
+          "analysis_zh": "Razer最近推出了2026款Blade 16游戏笔记本电脑，搭载了Intel的“Panther Lake”处理器和更快的内存。这款高端游戏笔记本保持了与去年相同的纤薄机身和RTX 50系列显卡选项，但在性能上有了显著提升。此举不仅提升了设备的速度和电池效率，还可能对游戏性能和用户体验产生积极影响。随着市场对高性能游戏设备的需求不断增加，Razer的这一更新可能会吸引更多玩家的关注。",
+          "analysis_en": "Razer has recently launched its Blade 16 gaming laptop for 2026, featuring Intel's \"Panther Lake\" chip and faster RAM. This high-end gaming laptop retains the same thin chassis and RTX 50-series GPU options as last year's model, but it boasts significant performance improvements. This upgrade not only enhances the device's speed and battery efficiency but may also positively impact gaming performance and user experience. As the demand for high-performance gaming devices continues to grow, Razer's update is likely to attract more attention from gamers."
         },
         {
           "rank": 3,
-          "title": "OpenAI Enters Its Focus Era by Killing Sora",
-          "link": "https://www.wired.com/story/openai-shuts-down-sora-ipo-ai-superapp/",
-          "source": "Feed: Artificial Intelligence Latest",
-          "published_utc": "2026-03-25 14:57 UTC",
-          "analysis_zh": "OpenAI 最近宣布将停止 Sora 项目的开发，转而专注于统一的人工智能助手和企业编码工具。这一决定标志着 OpenAI 进入了一个新的专注时代，可能与其即将进行的首次公开募股（IPO）有关。停止 Sora 的开发不仅反映了公司对资源的重新配置，也可能影响其在人工智能市场的竞争力和创新能力。通过集中精力于更具潜力的产品，OpenAI 有望提升其在行业中的地位。",
-          "analysis_en": "OpenAI recently announced the discontinuation of the Sora project, shifting its focus towards a unified AI assistant and enterprise coding tools. This decision marks the beginning of a new focused era for OpenAI, likely in preparation for its upcoming initial public offering (IPO). The termination of Sora reflects a reallocation of resources and may impact the company's competitiveness and innovation in the AI market. By concentrating on more promising products, OpenAI aims to enhance its position within the industry."
+          "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Trial",
+          "link": "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-03-25 20:35 UTC",
+          "analysis_zh": "在一起具有里程碑意义的社交媒体成瘾审判中，陪审团裁定Meta和YouTube对一名年轻用户的心理健康造成了伤害，原因是它们的设计特性具有成瘾性。这一裁决凸显了社交媒体平台在用户心理健康方面的责任，可能会促使更多的法律行动和监管措施。此案的结果可能会影响社交媒体公司的设计策略，并引发公众对数字健康的关注。",
+          "analysis_en": "In a landmark social media addiction trial, a jury found that Meta and YouTube harmed a young user due to their addictive design features, which contributed to her mental health distress. This ruling highlights the responsibility social media platforms have regarding user mental health and may lead to increased legal actions and regulatory measures. The outcome of this case could influence the design strategies of social media companies and spark greater public awareness about digital health."
         },
         {
           "rank": 4,
-          "title": "Mark Zuckerberg and Jensen Huang are part of Trump’s new ‘tech panel’",
-          "link": "https://www.theverge.com/policy/900340/trump-tech-panel-mark-zuckerberg-jensen-huang",
+          "title": "The surprise hit Nex Playground is the latest console to get a price hike",
+          "link": "https://www.theverge.com/entertainment/900856/nex-playground-price-hike",
           "source": "The Verge",
-          "published_utc": "2026-03-25 14:41 UTC",
-          "analysis_zh": "根据《华尔街日报》的报道，Meta首席执行官马克·扎克伯格、甲骨文首席执行官拉里·埃里森、英伟达首席执行官黄仁勋和谷歌联合创始人谢尔盖·布林将成为特朗普新成立的科学与技术顾问委员会（PCAST）的首批四名成员。该委员会将专注于人工智能政策，并计划从13名成员开始，未来可能扩展至24名。此举标志着科技界在政策制定中的重要性，可能会影响美国在科技和创新领域的未来方向。",
-          "analysis_en": "According to the Wall Street Journal, Meta CEO Mark Zuckerberg, Oracle CEO Larry Ellison, Nvidia CEO Jensen Huang, and Google co-founder Sergey Brin will be the first four members of President Trump's newly established President's Council of Advisors on Science and Technology (PCAST). The panel will focus on AI policy and is set to start with 13 members, potentially expanding to 24. This move highlights the significance of the tech industry in policy-making and could influence the future direction of the United States in technology and innovation."
+          "published_utc": "2026-03-25 20:25 UTC",
+          "analysis_zh": "Nex Playground，这款以家庭为目标的Kinect类设备，最近宣布将于4月1日起价格上涨50美元，售价达到299美元。这一涨价的原因主要是由于关键组件的成本大幅上升，尤其是内存和存储器，这与AI基础设施的快速扩展密切相关。此次涨价不仅影响了消费者的购买决策，也可能在一定程度上改变游戏主机市场的竞争格局。",
+          "analysis_en": "The Nex Playground, a Kinect-like device aimed at families, has announced a price increase of $50, bringing its cost to $299 starting April 1. This price hike is primarily due to significant rises in the cost of key components, particularly memory and storage, which are influenced by the rapid expansion of AI infrastructure. This increase not only affects consumer purchasing decisions but may also alter the competitive landscape of the gaming console market."
         },
         {
           "rank": 5,
-          "title": "Amazon’s Big Spring Sale 2026: all of the latest deals",
-          "link": "https://www.theverge.com/gadgets/897580/amazon-big-spring-sale-2026-deals-news",
+          "title": "Disney’s big bets on the metaverse and AI slop aren’t going so well",
+          "link": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse",
           "source": "The Verge",
-          "published_utc": "2026-03-25 14:35 UTC",
-          "analysis_zh": "亚马逊的春季大促销活动正在进行中，持续到4月1日的东部时间凌晨2:59。这次促销活动提供了大量的折扣，涵盖了从个人音频设备到家庭影院升级的各种消费电子产品。此次活动不仅吸引了消费者的注意，也促使其他零售商如百思买、沃尔玛和塔吉特等纷纷跟进，推出相应的折扣。这场促销的意义在于，它为消费者提供了更多的购物选择，同时也反映了春季购物季的竞争加剧。",
-          "analysis_en": "Amazon's Big Spring Sale is currently underway, running until 2:59 AM ET on April 1st. This sale features significant discounts on a wide range of consumer electronics, from personal audio devices to home theater upgrades. The event has drawn attention from consumers and prompted other retailers like Best Buy, Walmart, and Target to offer matching discounts. The importance of this sale lies in the increased shopping options it provides for consumers, as well as the intensified competition among retailers during the spring shopping season."
+          "published_utc": "2026-03-25 20:02 UTC",
+          "analysis_zh": "迪士尼新任首席执行官乔什·达马罗上任不到一周，就面临两大危机，给公司的未来计划蒙上阴影。OpenAI宣布关闭其图像生成程序Sora，而这项技术几个月前刚与迪士尼达成了10亿美元的合作协议，计划将其整合进Disney Plus。此外，Epic公司也裁员1000人，这让迪士尼在构建元宇宙的15亿美元投资协议上面临更多不确定性。这些事件表明，迪士尼在元宇宙和人工智能领域的重大投资可能会受到影响，未来的发展前景变得更加复杂。",
+          "analysis_en": "Less than a week into his tenure as Disney's newly-appointed CEO, Josh D'Amaro is already facing two major crises that threaten the company's future plans. OpenAI has announced the shutdown of its image-generation program Sora, which was part of a $1 billion collaboration with Disney just months ago to integrate the technology into Disney Plus. Additionally, Epic is laying off 1,000 employees, raising concerns about Disney's $1.5 billion investment deal to build a metaverse. These developments indicate that Disney's significant investments in the metaverse and AI may be at risk, complicating the outlook for their future endeavors."
         },
         {
           "rank": 6,
-          "title": "Ring finally brings 4K video to its battery-powered doorbell camera",
-          "link": "https://www.theverge.com/tech/900270/ring-4k-battery-powered-video-doorbell-ai-price-release-date-specs",
-          "source": "The Verge",
-          "published_utc": "2026-03-25 14:11 UTC",
-          "analysis_zh": "Ring公司近日推出了其首款电池供电的2K和4K门铃摄像头。这些新产品包括售价249.99美元的Ring Battery Video Doorbell Pro 2nd Gen，具备4K视频分辨率和10倍数字变焦，以及售价179.99美元的Battery Video Doorbell Plus 2nd Gen，提供2K视频和6倍变焦。这些升级不仅提升了视频质量，还为用户提供了更多选择，可能会影响智能家居市场的竞争格局。",
-          "analysis_en": "Ring has recently announced its first battery-powered 2K and 4K doorbell cameras. These new products include the Ring Battery Video Doorbell Pro 2nd Gen priced at $249.99, which offers 4K video resolution and 10x digital zoom, and the Battery Video Doorbell Plus 2nd Gen at $179.99, which provides 2K video and 6x zoom. These upgrades not only enhance video quality but also offer users more options, potentially impacting the competitive landscape of the smart home market."
+          "title": "Meta Lays Off 700 Employees, While Rewarding Top Executives",
+          "link": "https://www.nytimes.com/2026/03/25/technology/meta-layoffs-ai-executives.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-03-25 19:22 UTC",
+          "analysis_zh": "Meta公司近期裁员700名员工，同时为高管推出新的股票奖励计划。这一举措反映了Meta在持续转型，越来越重视人工智能技术的发展。裁员不仅影响了大量员工的生计，也引发了外界对公司未来方向的关注。高管的奖励计划可能会在一定程度上激励管理层推动公司向AI领域的进一步投资，但同时也可能引发员工的不满和士气低落。",
+          "analysis_en": "Meta recently laid off 700 employees while introducing a new stock reward program for its top executives. This move highlights the company's ongoing shift towards a greater focus on artificial intelligence technology. The layoffs not only impact the livelihoods of many employees but also raise concerns about the company's future direction. The executive reward program may incentivize management to push for further investments in AI, but it could also lead to dissatisfaction and low morale among the remaining staff."
         },
         {
           "rank": 7,
-          "title": "Keychron’s mechanical keyboards are up to 60 percent off",
-          "link": "https://www.theverge.com/gadgets/899433/keychron-mechanical-keyboards-amazon-big-spring-sale-2026-deal",
+          "title": "Woot is offering over 20 percent off Switch 2 controllers and games today",
+          "link": "https://www.theverge.com/gadgets/900490/nintendo-switch-2-controllers-games-amazon-big-spring-sale-2026-deals",
           "source": "The Verge",
-          "published_utc": "2026-03-25 14:07 UTC",
-          "analysis_zh": "Keychron的机械键盘在亚马逊的春季大促销中最高可享受60%的折扣。这一促销活动不仅涵盖了入门级的有线键盘，还包括功能丰富的全尺寸键盘，吸引了众多键盘爱好者和普通消费者。此次折扣对于那些希望以较低价格购买高质量键盘的人来说，意义重大，可能会推动更多人选择机械键盘，从而影响整个市场的销售趋势。",
-          "analysis_en": "Keychron's mechanical keyboards are now available at discounts of up to 60% during Amazon's Big Spring Sale. This promotion includes entry-level wired keyboards as well as feature-rich full-size models, appealing to both keyboard enthusiasts and casual users. The significance of this sale lies in its potential to attract more consumers looking for quality keyboards at lower prices, which could influence overall sales trends in the mechanical keyboard market."
+          "published_utc": "2026-03-25 19:04 UTC",
+          "analysis_zh": "Woot今天推出了一项为期一天的特卖活动，恰逢亚马逊春季大促的开始。此次促销涵盖多个科技类别的产品，特别是任天堂Switch 2的游戏和控制器，折扣超过20%。使用优惠码SAVETWENTY，消费者可以在3月26日凌晨12:59之前享受额外的20%折扣。这一活动不仅吸引了游戏爱好者，也可能推动Switch 2的销售，进一步巩固其在市场上的地位。",
+          "analysis_en": "Woot is running a one-day sale that coincides with the start of Amazon's Big Spring Sale. This promotion includes discounts of over 20% on various tech products, particularly Nintendo Switch 2 games and controllers. By using the code SAVETWENTY, customers can receive an additional 20% off until 12:59 AM ET on March 26th. This event is likely to attract gamers and could boost sales of the Switch 2, further solidifying its position in the market."
         },
         {
           "rank": 8,
-          "title": "This startup wants to change how mathematicians do math",
-          "link": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
-          "source": "MIT Technology Review",
-          "published_utc": "2026-03-25 13:59 UTC",
-          "analysis_zh": "位于加利福尼亚帕洛阿尔托的初创公司Axiom Math推出了一款名为Axplorer的免费AI工具，旨在帮助数学家发现潜在的数学模式，从而解决长期存在的数学难题。这一工具是对2024年共同开发的PatternBoost工具的重新设计。此项技术的推出可能会改变数学研究的方式，使得复杂问题的解决变得更加高效，进而推动数学领域的进步。",
-          "analysis_en": "Axiom Math, a startup based in Palo Alto, California, has launched a free AI tool called Axplorer, designed to help mathematicians discover potential mathematical patterns that could solve long-standing problems. This tool is a redesign of an existing one called PatternBoost, co-developed in 2024. The introduction of this technology may change the way mathematical research is conducted, making it more efficient in solving complex problems and potentially advancing the field of mathematics."
+          "title": "There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos",
+          "link": "https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/",
+          "source": "Feed: Artificial Intelligence Latest",
+          "published_utc": "2026-03-25 18:49 UTC",
+          "analysis_zh": "近期，一些关于人工智能水果的视频在网络上迅速走红，但这些视频背后却隐藏着令人不安的性别歧视现象。这些视频中的女性水果角色不仅被嘲笑，还遭受了性骚扰，这反映了社会对女性形象的扭曲和不尊重。这一现象引发了公众对性别刻板印象的讨论，可能会影响人们对AI技术在娱乐领域应用的看法，并促使更广泛的反思和改进。",
+          "analysis_en": "Recently, some viral AI fruit videos have gained popularity online, but they reveal disturbing misogynistic undertones. The female fruit characters in these videos are not only mocked but also subjected to sexual harassment, highlighting a troubling distortion and disrespect towards female imagery in society. This phenomenon has sparked public discussions about gender stereotypes and may influence perceptions of AI technology's role in entertainment, prompting broader reflection and potential improvements."
         },
         {
           "rank": 9,
-          "title": "Apple’s iOS 26.4 update adds age verification in the UK",
-          "link": "https://www.theverge.com/tech/900284/apple-ios-26-4-uk-age-verification",
+          "title": "Can you monitor a situation without monitors? The Polymarket sports bar tried",
+          "link": "https://www.theverge.com/column/900536/alliance-for-a-better-future-polymarket",
           "source": "The Verge",
-          "published_utc": "2026-03-25 13:54 UTC",
-          "analysis_zh": "苹果在英国推出的iOS 26.4更新中增加了年龄验证功能。用户必须确认自己年满18岁才能使用某些服务或功能。这一措施旨在保护未成年人，防止他们接触不适合的内容。用户可以通过扫描身份证或使用信用卡来验证年龄。如果用户已有Apple账户，苹果可能会利用关联的支付方式进行验证。这一变化可能会影响用户体验，尤其是在内容访问和隐私保护方面。",
-          "analysis_en": "Apple has introduced an age verification feature in the UK with the launch of iOS 26.4. Users are required to confirm they are over 18 to access certain services or features. This measure aims to protect minors from inappropriate content. Users can verify their age by scanning their ID or using a credit card. If a user already has an Apple account, Apple may use a linked payment method for verification. This change could impact user experience, particularly regarding content access and privacy protection."
+          "published_utc": "2026-03-25 18:19 UTC",
+          "analysis_zh": "最近，Polymarket在华盛顿开设了一家名为“Situation Room”的临时酒吧，旨在通过一面电视屏幕墙来“监控局势”。然而，酒吧的开业并不顺利，首日由于屏幕故障而不得不在晚上9点关闭。这一事件引发了对技术可靠性的讨论，也让人们关注到在社交场合中依赖技术的潜在风险。此事件可能影响未来类似场所的设计和运营方式，促使业主在技术选择上更加谨慎。",
+          "analysis_en": "Recently, Polymarket opened a pop-up bar called the \"Situation Room\" in Washington, intended to monitor situations through a wall of television screens. However, the launch did not go well, as the bar had to close at 9 PM on its opening day due to screen malfunctions. This incident sparked discussions about the reliability of technology and raised concerns about the potential risks of relying on technology in social settings. It may influence the design and operation of similar venues in the future, prompting owners to be more cautious in their technology choices."
         },
         {
           "rank": 10,
-          "title": "New Bernie Sanders AI Safety Bill Would Halt Data Center Construction",
-          "link": "https://www.wired.com/story/new-bernie-sanders-ai-safety-bill-would-halt-data-center-construction/",
-          "source": "Feed: Artificial Intelligence Latest",
-          "published_utc": "2026-03-25 13:28 UTC",
-          "analysis_zh": "美国参议员伯尼·桑德斯近日提出了一项新的人工智能安全法案，建议暂停数据中心的建设，以便立法者有时间确保人工智能的安全性。这项提案的重要性在于，随着人工智能技术的快速发展，相关的安全和伦理问题日益突出，立法的滞后可能导致潜在的风险。桑德斯的法案不仅引起了广泛关注，还可能促使其他立法者采取类似措施，从而在更大范围内推动对人工智能的监管。",
-          "analysis_en": "U.S. Senator Bernie Sanders recently introduced a new AI safety bill that proposes a moratorium on data center construction, allowing lawmakers time to ensure the safety of artificial intelligence. This proposal is significant as the rapid advancement of AI technology raises pressing safety and ethical concerns, and legislative delays could lead to potential risks. Sanders' bill has garnered widespread attention and may encourage other lawmakers to pursue similar measures, thereby promoting regulation of AI on a larger scale."
+          "title": "The United States router ban, explained",
+          "link": "https://www.theverge.com/tech/899906/fcc-router-ban-march-2026-explainer",
+          "source": "The Verge",
+          "published_utc": "2026-03-25 18:15 UTC",
+          "analysis_zh": "美国政府因国家安全担忧，禁止进口外国制造的消费级Wi-Fi路由器。这一禁令引发了广泛关注，因为它可能会影响消费者的选择和市场竞争。尽管现有用户不需要更换他们的路由器，但这一政策可能会导致未来技术供应链的变化，影响到许多依赖这些设备的家庭和企业。此举也反映了美国在科技领域对外部威胁的高度警惕。",
+          "analysis_en": "The U.S. government has banned the import of foreign-made consumer Wi-Fi routers due to national security concerns. This ban has garnered significant attention as it could impact consumer choices and market competition. While current users are not required to replace their routers, this policy may lead to changes in the technology supply chain, affecting many households and businesses that rely on these devices. This move also reflects the heightened vigilance in the U.S. regarding external threats in the tech sector."
         }
       ]
     },
@@ -362,93 +362,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Banned South Africa Pavilion Show Moves to Another Venice Venue, Enslaved Girl Identified in 18th-Century Portrait at Art Gallery of Ontario: Morning Links for March 25, 2026",
-          "link": "https://www.artnews.com/art-news/news/banned-south-africa-pavilion-show-moves-to-another-venice-venue-enslaved-girl-identified-in-18th-century-portrait-at-art-gallery-of-ontario-morning-links-for-march-25-2026-1234778852/",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-03-25 14:47 UTC",
-          "analysis_zh": "南非展馆的展览因被禁止而转移至威尼斯的其他场地，这一举动引发了广泛关注。这不仅反映了艺术界对言论自由和文化表达的重视，也突显了南非在国际艺术舞台上的重要性。此事件可能会影响未来展览的策划和管理，尤其是在涉及敏感主题时，艺术家和策展人需要更加谨慎。",
-          "analysis_en": "The South Africa Pavilion's exhibition has been moved to another venue in Venice after being banned, drawing significant attention. This move highlights the art world's commitment to freedom of expression and cultural representation, while also emphasizing South Africa's importance on the international art stage. The incident may influence future exhibition planning and management, particularly regarding sensitive themes, as artists and curators may need to exercise greater caution."
+          "title": "How ‘One Piece’ Fixed a Common Problem for Anime Adaptations",
+          "link": "https://www.nytimes.com/2026/03/25/arts/television/one-piece-wigs-anime.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-03-25 20:56 UTC",
+          "analysis_zh": "Netflix的热门剧集《海贼王》成功解决了真人版动漫改编中一个常见的问题——假发的使用。该剧通过精湛的工艺和团队合作，确保角色的外观更贴近原作，提升了观众的沉浸感。这一成功不仅展示了制作团队的创新能力，也为未来的动漫改编提供了宝贵的经验，可能会影响更多类似项目的制作标准。",
+          "analysis_en": "The Netflix hit series \"One Piece\" has successfully addressed a common issue in live-action anime adaptations: the use of wigs. By combining craftsmanship and collaboration, the show ensures that the characters' appearances closely resemble the original material, enhancing the audience's immersion. This achievement not only showcases the creative capabilities of the production team but also offers valuable insights for future anime adaptations, potentially influencing the production standards of similar projects."
         },
         {
           "rank": 2,
-          "title": "South Africa’s Venice Biennale Pavilion Sits Empty as Gabrielle Goliath’s Banned Work on Gaza Appears Nearby",
-          "link": "https://www.artnews.com/art-news/news/south-africa-venice-biennale-gabrielle-goliath-banned-work-exhibition-1234778846/",
+          "title": "Pat Steir, Famed for Her Abstract ‘Waterfall’ Paintings, Dies at 87",
+          "link": "https://www.artnews.com/art-news/news/pat-steir-dead-1234778946/",
           "source": "News – ARTnews.com",
-          "published_utc": "2026-03-25 13:43 UTC",
-          "analysis_zh": "南非在威尼斯双年展的展馆空置，原因是艺术家加布里埃尔·戈利亚斯的作品因涉及加沙地区遇难的巴勒斯坦人而被禁止。该作品是她长期系列《挽歌》的一部分，因其内容被认为“高度分裂”，遭到南非文化部的抵制。这一事件引发了对艺术自由和政治敏感性的广泛讨论，可能会影响未来艺术展览中对政治主题的处理方式。",
-          "analysis_en": "South Africa's pavilion at the Venice Biennale remains empty due to the banning of artist Gabrielle Goliath's work, which references Palestinians killed in Gaza. This piece, part of her ongoing series \"Elegy,\" was deemed \"highly divisive\" by the South African Ministry of Culture. The incident has sparked widespread discussions about artistic freedom and political sensitivity, potentially influencing how political themes are addressed in future art exhibitions."
+          "published_utc": "2026-03-25 20:50 UTC",
+          "analysis_zh": "著名抽象画家帕特·斯蒂尔（Pat Steir）于87岁去世，她以“瀑布”系列画作而闻名。斯蒂尔的创作风格独特，常常从梯子上倾倒颜料，形成流动的艺术效果。她的去世不仅是艺术界的损失，也让人们重新思考她对抽象艺术的贡献和影响。斯蒂尔的作品在当代艺术中占有重要地位，未来可能会激励新一代艺术家探索类似的表现手法。",
+          "analysis_en": "Renowned abstract painter Pat Steir has passed away at the age of 87, known for her iconic \"Waterfall\" series. Steir's distinctive style involved pouring paint from a ladder, creating dynamic and flowing artistic effects. Her death is a significant loss to the art world and prompts a reevaluation of her contributions and impact on abstract art. Steir's work holds an important place in contemporary art, and her legacy may inspire a new generation of artists to explore similar techniques."
         },
         {
           "rank": 3,
-          "title": "Hirshhorn Unveils First Sculptures for Revamped Garden Ahead of October Reopening",
-          "link": "https://www.artnews.com/list/art-news/news/hirshhorn-sculpture-garden-new-acquisitions-1234778780/",
+          "title": "Yto Barrada Says France Had ‘Full Awareness’ of Her Views on Israel When It Chose Her for Venice Biennale",
+          "link": "https://www.artnews.com/art-news/news/yto-barrada-venice-biennale-france-israel-jewish-group-1234778864/",
           "source": "News – ARTnews.com",
-          "published_utc": "2026-03-25 13:00 UTC",
-          "analysis_zh": "美国国家艺术馆的赫希霍恩雕塑花园即将重新开放，首次展示了劳伦·哈尔西、马克·格罗贾恩等艺术家的新雕塑。这些新作品将与现代主义艺术作品并列展出，标志着花园的全新面貌。这次改造不仅丰富了艺术品的多样性，也为公众提供了更广泛的艺术体验，可能会吸引更多游客前来参观，提升该地区的文化氛围。",
-          "analysis_en": "The Hirshhorn Sculpture Garden in the United States is set to reopen, showcasing new sculptures by artists such as Lauren Halsey and Mark Grotjahn for the first time. These new works will be displayed alongside modernist art, marking a significant transformation of the garden. This renovation not only enhances the diversity of the art collection but also offers a broader artistic experience for the public, potentially attracting more visitors and enriching the cultural atmosphere of the area."
+          "published_utc": "2026-03-25 20:46 UTC",
+          "analysis_zh": "著名艺术家Yto Barrada表示，法国在选择她参加威尼斯双年展时，完全了解她对以色列的看法。她因签署反对以色列展馆的信件而受到一个重要犹太组织的谴责。这一事件引发了广泛关注，因为它不仅涉及艺术界的言论自由，还反映了当今社会对以色列和巴勒斯坦问题的敏感性。此事可能会影响未来艺术家的选择和展览的政治背景。",
+          "analysis_en": "Prominent artist Yto Barrada stated that France was fully aware of her views on Israel when selecting her for the Venice Biennale. She faced condemnation from a significant Jewish organization for signing a letter against the Israeli Pavilion. This incident has garnered widespread attention as it touches on issues of free speech in the art world and reflects the sensitivity surrounding the Israeli-Palestinian conflict today. It may influence the selection of artists and the political context of future exhibitions."
         },
         {
           "rank": 4,
-          "title": "‘Dog Day Afternoon’ Playwright Briefly Kept Out of Broadway Rehearsals",
-          "link": "https://www.nytimes.com/2026/03/25/theater/dog-day-afternoon-broadway-stephen-adly-guirgis.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-03-25 11:54 UTC",
-          "analysis_zh": "在开幕前一周，话剧《狗日的下午》的编剧斯蒂芬·阿德利·吉尔吉斯被暂时禁止进入百老汇的排练场。这一事件引发了剧组内部的紧张局势，显示出制作团队与创作者之间的冲突。这一事件不仅影响了剧本的创作过程，也可能对观众的期待和演出质量产生影响。",
-          "analysis_en": "A week before the opening night, playwright Stephen Adly Guirgis was temporarily barred from entering the rehearsal space for the Broadway play \"Dog Day Afternoon.\" This incident highlights tensions within the production team and reflects conflicts between the creators and the production staff. It not only affects the creative process of the play but may also impact audience expectations and the overall quality of the performance."
+          "title": "K-Pop Band BTS Performed Two Songs from New Album ‘ARIRANG’ at the Guggenheim on Wednesday Morning",
+          "link": "https://www.artnews.com/art-news/news/k-pop-band-bts-performed-two-songs-new-album-arirang-guggenheim-1234778934/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-03-25 20:19 UTC",
+          "analysis_zh": "韩国流行乐队BTS于周三早晨在古根海姆博物馆进行了两首新专辑《ARIRANG》的秘密表演。这场表演与他们当晚在《吉米·法伦今夜秀》上的亮相有关，吸引了众多粉丝和媒体的关注。这一事件不仅展示了BTS的音乐才华，也进一步巩固了他们在全球音乐界的影响力。这样的表演可能会激发更多艺术与音乐的跨界合作，推动文化交流。",
+          "analysis_en": "The K-Pop band BTS performed two songs from their new album \"ARIRANG\" in a secret show at the Guggenheim on Wednesday morning. This performance was linked to their appearance on \"The Tonight Show with Jimmy Fallon\" that same night, garnering significant attention from fans and media alike. This event not only showcased BTS's musical talent but also reinforced their influence in the global music scene. Such performances may inspire more cross-disciplinary collaborations in the arts and promote cultural exchange."
         },
         {
           "rank": 5,
-          "title": "‘we have to respect history’: freddy mamani on constructing utopia through radical repair",
-          "link": "https://www.designboom.com/architecture/respect-history-face-modernity-freddy-mamani-imbuing-culture-interview-09-29-2023/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-03-25 11:50 UTC",
-          "analysis_zh": "玻利维亚建筑师弗雷迪·马马尼在一次访谈中分享了他对通过激进修复构建乌托邦的愿景。他强调，尊重历史和土著知识是推动社会进步的重要基础。这一观点不仅关乎建筑设计，还可能影响到文化遗产的保护和社区的可持续发展。通过结合传统与现代，马马尼的理念为未来的建筑实践提供了新的视角。",
-          "analysis_en": "Bolivian architect Freddy Mamani shared his vision of constructing utopia through radical repair in a recent interview. He emphasized that respecting history and indigenous knowledge is essential for societal progress. This perspective not only pertains to architectural design but may also influence the preservation of cultural heritage and the sustainable development of communities. By integrating tradition with modernity, Mamani's ideas offer a fresh perspective for future architectural practices."
+          "title": "Jury Awards Chance the Rapper $35 in Legal Fight With Former Manager",
+          "link": "https://www.nytimes.com/2026/03/25/arts/music/chance-the-rapper-manager-lawsuit.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-03-25 20:13 UTC",
+          "analysis_zh": "Chance the Rapper与前经理Pat Corcoran之间的法律纠纷近日以双方各自获赔35美元的结果结束。Corcoran在2020年提起诉讼，要求支付380万美元的未付版税，而Chance则反诉要求赔偿100万美元。这场法律斗争虽然以平局告终，但却引发了对音乐行业合约和艺术家权益的广泛关注。此事件可能会影响其他艺术家在与管理者或唱片公司谈判时的策略和信心。",
+          "analysis_en": "The legal dispute between Chance the Rapper and his former manager Pat Corcoran recently concluded with both parties awarded $35 each. Corcoran sued in 2020 for $3.8 million in unpaid royalties, while Chance countered with a $1 million claim. Although the case ended in a draw, it has sparked significant discussion regarding contracts in the music industry and the rights of artists. This outcome may influence how other artists approach negotiations with managers or record labels in the future."
         },
         {
           "rank": 6,
-          "title": "Snøhetta transforms Théâtre Nanterre-Amandiers in France into \"urban lantern\"",
-          "link": "https://www.dezeen.com/2026/03/25/snohetta-theatre-nanterre-amandiers/",
-          "source": "Dezeen",
-          "published_utc": "2026-03-25 11:30 UTC",
-          "analysis_zh": "挪威建筑事务所Snøhetta完成了法国南特尔阿曼迪尔剧院的翻新，新的设计将表演空间围绕一个倾斜的玻璃大厅进行统一，俯瞰着一个景观广场。这座剧院最初建于1965年，经历了从马戏团帐篷到临时仓库的转变。此次翻新不仅提升了剧院的功能性和美观性，还为当地社区提供了一个新的文化聚集地，可能会吸引更多观众和艺术活动，促进地区文化的发展。",
-          "analysis_en": "The Norwegian architecture firm Snøhetta has completed the renovation of the Théâtre Nanterre-Amandiers in France, unifying its performance spaces around a tilted glass hall that overlooks a landscaped plaza. Originally built in 1965, the theatre has transformed from a circus tent to a temporary warehouse. This renovation enhances both the functionality and aesthetics of the theatre, providing a new cultural hub for the local community, which may attract more audiences and artistic events, thereby promoting cultural development in the area."
+          "title": "Pat Steir, Painter of Luminous ‘Waterfalls,’ Dies at 87",
+          "link": "https://www.nytimes.com/2026/03/25/arts/design/pat-steir-dead.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-03-25 20:10 UTC",
+          "analysis_zh": "著名画家帕特·斯蒂尔（Pat Steir）于87岁时去世，她以其独特的“瀑布”系列作品而闻名。斯蒂尔的创作方式非常自由，她常常让颜料自然流淌，形成独特的艺术效果。这位艺术家的离世不仅是艺术界的损失，也让人们重新思考抽象艺术的表现形式及其对观众的影响。她的作品在当代艺术中占据了重要地位，未来的艺术家可能会受到她风格的启发。",
+          "analysis_en": "Renowned painter Pat Steir passed away at the age of 87, famous for her distinctive \"Waterfalls\" series. Steir's creative process was notably free, allowing paint to flow naturally down the canvas, resulting in unique artistic effects. Her death is a significant loss for the art world and prompts a reevaluation of abstract art's forms and its impact on viewers. Her work holds an important place in contemporary art, and future artists may draw inspiration from her style."
         },
         {
           "rank": 7,
-          "title": "\"There is no message in what I do\" says Pritzker Architecture Prize-winner Smiljan Radić",
-          "link": "https://www.dezeen.com/2026/03/25/smiljan-radic-pritzker-architecture-prize-winner-interview/",
-          "source": "Dezeen",
-          "published_utc": "2026-03-25 11:15 UTC",
-          "analysis_zh": "普利兹克建筑奖得主斯米尔扬·拉迪奇在接受采访时表示，他的作品不应被视为“好或坏”建筑的蓝图。他于本月初获得该奖项，成为第55位得主。拉迪奇强调，尽管他希望自己的作品具有全球意义，但他并不认为其背后有明确的信息或讯息。这一观点引发了对建筑艺术本质的思考，可能会影响人们对建筑设计的理解和评价标准。",
-          "analysis_en": "Pritzker Architecture Prize winner Smiljan Radić stated in an interview that his work should not be viewed as a blueprint for \"good or bad\" architecture. He became the 55th laureate of the award earlier this month. Radić emphasized that while he hopes his work has global significance, he does not believe there is a clear message behind it. This perspective prompts reflection on the essence of architectural art and may influence how people understand and evaluate architectural design."
+          "title": "Hauser & Wirth Partner Cristopher Canizares Departs to Start Artist Agency",
+          "link": "https://www.artnews.com/art-news/news/cristopher-canizares-hauser-wirth-artist-legacy-bureau-1234778882/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-03-25 20:07 UTC",
+          "analysis_zh": "克里斯托弗·卡尼萨雷斯（Cristopher Canizares）宣布离开哈乌瑟与维尔斯（Hauser & Wirth），计划创办一家艺术家代理机构。他表示，这一新模式更像是一个家族办公室，注重隐私和长期规划，而非追求可见度或规模。这一举动可能会对艺术界产生深远影响，尤其是在艺术家与代理人之间的关系和合作方式上，可能会促使更多艺术家寻求个性化和定制化的支持。",
+          "analysis_en": "Cristopher Canizares has announced his departure from Hauser & Wirth to start his own artist agency. He described this new model as more akin to a family office, focusing on discretion and long-term planning rather than visibility or scale. This move could have significant implications for the art world, particularly in how artists engage with agents, potentially leading to a trend where more artists seek personalized and tailored support."
         },
         {
           "rank": 8,
-          "title": "Is Africa's skyscraper mini-boom a cause for alarm?",
-          "link": "https://www.dezeen.com/2026/03/25/africa-skyscrapers/",
-          "source": "Dezeen",
-          "published_utc": "2026-03-25 11:00 UTC",
-          "analysis_zh": "非洲正在经历一场摩天大楼建设的“小繁荣”，埃及、埃塞俄比亚和象牙海岸等地的新塔楼纷纷崛起。其中，象牙海岸的F塔预计将成为非洲最高的建筑，达到421米的高度。这一现象引发了人们的关注，究竟这些摩天大楼是进步的象征，还是仅仅是虚荣的项目？这种建设热潮可能会影响到城市的经济发展和社会结构，同时也引发了对资源分配和环境影响的讨论。",
-          "analysis_en": "Africa is experiencing a mini-boom in skyscraper construction, with new towers emerging in countries like Egypt, Ethiopia, and Ivory Coast. Notably, the Tour F in Ivory Coast is set to become the tallest building on the continent, reaching a height of 421 meters. This trend raises questions about whether these skyscrapers symbolize progress or are merely vanity projects. The construction surge could impact urban economic development and social structures, while also sparking discussions about resource allocation and environmental effects."
+          "title": "The Good List: 8 Things to Add Delight to Your Day",
+          "link": "https://www.nytimes.com/2026/03/25/briefing/the-good-list-march-madness-desert-flowers.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-03-25 20:00 UTC",
+          "analysis_zh": "《纽约时报》最近发布了一份“好物清单”，推荐了八件能够为日常生活增添乐趣的事物。这些推荐包括与“疯狂三月”相关的活动、改善小谈话技巧的方法，以及对三明治道德的思考。这份清单的重要性在于，它不仅提供了实用的建议，还鼓励人们在忙碌的生活中寻找乐趣和美好体验。这可能会影响人们的社交方式和生活态度，让他们更加关注日常生活中的小确幸。",
+          "analysis_en": "The New York Times recently published a \"Good List,\" featuring eight items that can add delight to daily life. These recommendations include activities related to March Madness, tips for better small talk, and reflections on the morality of sandwiches. The significance of this list lies in its practical advice and encouragement for people to seek joy and positive experiences amidst their busy lives. This may influence how individuals engage socially and shift their attitudes towards appreciating the little pleasures in everyday life."
         },
         {
           "rank": 9,
-          "title": "Rift bench by Inglis Hall",
-          "link": "https://www.dezeen.com/2026/03/25/rift-bench-inglis-hall-dezeen-showroom/",
-          "source": "Dezeen",
-          "published_utc": "2026-03-25 10:30 UTC",
-          "analysis_zh": "英国厨房品牌Inglis Hall推出了一款名为Rift的手工制作厨房长凳，旨在创造一个典雅的社交聚集点。Rift长凳采用实木橡木构造，展现出温暖而诱人的外观，适合家庭环境。这款长凳不仅提升了厨房的美观性，还为家庭聚会提供了一个舒适的空间，可能会影响消费者对厨房家具的选择和设计趋势。",
-          "analysis_en": "British kitchen brand Inglis Hall has launched a handcrafted kitchen bench called Rift, designed to create an elegant social gathering point. Made from solid oak, the Rift bench features a warm and inviting appearance, making it suitable for home environments. This bench not only enhances the aesthetic appeal of kitchens but also provides a comfortable space for family gatherings, which may influence consumer choices and design trends in kitchen furniture."
+          "title": "Mozart Wouldn’t Be Mozart Without These Three Objects",
+          "link": "https://www.nytimes.com/2026/03/25/arts/music/mozart-salzburg-morgan-library.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-03-25 19:51 UTC",
+          "analysis_zh": "在摩根图书馆和博物馆的新展览中，展出了三件对莫扎特音乐生涯至关重要的乐器和乐谱。这些展品不仅展示了莫扎特的创作过程，还揭示了他如何受到这些物品的影响。了解这些历史文物的重要性，有助于我们更深入地理解莫扎特的音乐遗产及其对后世的影响。此次展览吸引了音乐爱好者和历史学者，可能会激发更多人对古典音乐的兴趣。",
+          "analysis_en": "A new exhibition at the Morgan Library and Museum showcases three objects that were crucial to Mozart's musical career, including instruments and scores. These exhibits not only highlight Mozart's creative process but also reveal how these items influenced his work. Understanding the significance of these historical artifacts helps us appreciate Mozart's musical legacy and its impact on future generations. The exhibition is likely to attract music enthusiasts and historians, potentially sparking greater interest in classical music."
         },
         {
           "rank": 10,
-          "title": "Construction material costs set to rise if Strait of Hormuz blockade continues",
-          "link": "https://www.dezeen.com/2026/03/25/construction-materials-hormuz-blockade/",
-          "source": "Dezeen",
-          "published_utc": "2026-03-25 10:30 UTC",
-          "analysis_zh": "霍尔木兹海峡的持续封锁可能导致建筑材料价格上涨，包括钢铁和水泥。全球建筑咨询公司Linesight的研究警告称，如果这一水道的干扰持续，建筑行业需为更高的材料成本做好准备。这一情况不仅会影响建筑项目的预算，还可能导致整体建筑市场的波动，进而影响经济发展。",
-          "analysis_en": "The ongoing blockade of the Strait of Hormuz could lead to rising prices for construction materials, such as steel and cement. A study by global construction consultant Linesight warns that if disruptions continue in this critical waterway, the construction industry should brace for increased costs. This situation could not only affect project budgets but also lead to fluctuations in the overall construction market, potentially impacting economic growth."
+          "title": "Female Pharaoh’s Erasure From Memory Was Not Revenge, Researcher Says",
+          "link": "https://www.artnews.com/art-news/news/female-pharaoh-hatshepsut-ancient-egypt-new-theory-1234778815/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-03-25 18:34 UTC",
+          "analysis_zh": "一项新的研究表明，女法老哈特谢普苏特的雕塑损坏并非出于报复，而是由于其他原因。这一发现挑战了长期以来对她被遗忘的传统看法，可能会改变我们对古埃及女性统治者的理解。研究者认为，历史的遗忘并不总是出于敌意，而可能是由于自然因素或文化变迁。这一观点的提出，可能会促使学术界重新审视古埃及的历史记录和女性在其中的角色。",
+          "analysis_en": "A new study suggests that the damage to the sculptures of the female Pharaoh Hatshepsut was not a result of revenge, but rather due to other causes. This finding challenges the long-held belief about her erasure from memory and may alter our understanding of female rulers in ancient Egypt. The researcher argues that historical erasure is not always driven by hostility, but can also stem from natural factors or cultural changes. This perspective may encourage scholars to re-evaluate historical records of ancient Egypt and the roles of women within that context."
         }
       ]
     }
