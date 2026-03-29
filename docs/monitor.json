@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29 14:39:39 UTC",
+  "generated_at": "2026-03-29 21:00:22 UTC",
   "run_mode": "morning",
   "regime": "Risk-off",
   "risk_score": 4,
@@ -99,11 +99,11 @@
     },
     "MOVE": {
       "label": "MOVE",
-      "price": 111.9456,
-      "change": 20.775599999999997,
-      "change_pct": 22.787759131293186,
-      "change_3d": 8.93559786376953,
-      "change_3d_pct": 8.674495367888863,
+      "price": 111.946,
+      "change": 20.775999999999996,
+      "change_pct": 22.788197872107048,
+      "change_3d": 8.93599786376953,
+      "change_3d_pct": 8.674883679695196,
       "note": "债券波动率",
       "ok": true
     },
