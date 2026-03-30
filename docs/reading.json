@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-30 15:11:31 UTC",
-  "generated_at_unix": 1774883491,
+  "generated_at": "2026-03-30 21:22:59 UTC",
+  "generated_at_unix": 1774905779,
   "window": {
-    "from_utc": "2026-03-29 15:11:31 UTC",
-    "to_utc": "2026-03-30 15:11:31 UTC",
+    "from_utc": "2026-03-29 21:22:59 UTC",
+    "to_utc": "2026-03-30 21:22:59 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,99 +14,99 @@
       "items": [
         {
           "rank": 1,
-          "title": "Bill Ackman says it’s one of the best times in a long time to buy quality stocks",
-          "link": "https://www.cnbc.com/2026/03/30/bill-ackman-says-its-one-of-the-best-times-in-a-long-time-to-buy-quality-stocks.html",
+          "title": "Micron stock sinks 10%, further cratering in post-earnings sell-off",
+          "link": "https://www.cnbc.com/2026/03/30/micron-stock-earnings-sell-off-memory-shortage.html",
           "source": "US Top News and Analysis",
-          "published_utc": "2026-03-30 15:00 UTC",
-          "analysis_zh": "比尔·阿克曼表示，现在是购买优质股票的最佳时机之一。他的乐观态度出现在市场因能源价格上涨和持续的通胀担忧而受到冲击的背景下。这一观点可能会影响投资者的决策，促使他们在不确定的市场环境中寻找机会。阿克曼的分析可能会引导更多资金流入股市，从而对整体经济产生积极影响。",
-          "analysis_en": "Bill Ackman claims that now is one of the best times to buy quality stocks. His bullish perspective comes at a time when markets have been shaken by rising energy prices and ongoing inflation concerns. This viewpoint could influence investors' decisions, encouraging them to seek opportunities in an uncertain market environment. Ackman's analysis may lead to increased capital flowing into the stock market, potentially having a positive impact on the overall economy."
+          "published_utc": "2026-03-30 21:06 UTC",
+          "analysis_zh": "美光科技（Micron）在3月18日公布了超预期的财报后，其股价却在随后的交易中下跌了约30%。这一下跌幅度的加剧，尤其是在发布财报后的10%跌幅，令人担忧。投资者对未来市场需求的预期可能出现了变化，导致市场信心受挫。这一现象不仅影响了美光的市值，也可能对整个半导体行业产生连锁反应，进一步影响相关企业的投资决策。",
+          "analysis_en": "Micron Technology's stock dropped about 30% following its blowout earnings report on March 18, with a significant 10% decline occurring immediately after the announcement. This sharp downturn raises concerns among investors about potential shifts in future market demand, which may have shaken market confidence. The impact of this decline not only affects Micron's market value but could also trigger a ripple effect throughout the semiconductor industry, influencing investment decisions across related companies."
         },
         {
           "rank": 2,
-          "title": "A major change may be in the works for your 401(k) plan’s oversight",
-          "link": "https://www.marketwatch.com/story/a-major-change-may-be-in-the-works-for-your-401-k-plans-oversight-de1d97c8?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-03-30 15:00 UTC",
-          "analysis_zh": "美国即将对401(k)计划的监督方式进行重大调整，可能会结束“通过诉讼进行监管”的做法。这一变化可能会削弱对工人的一些保护措施，尤其是在退休储蓄方面。此举引发了广泛关注，因为它可能影响到数百万工人的财务安全和退休生活。",
-          "analysis_en": "A significant change is on the horizon for the oversight of 401(k) plans in the U.S., potentially ending the practice of \"regulation by litigation.\" This shift could weaken certain protections for workers, particularly regarding their retirement savings. The implications of this change are concerning, as it may affect the financial security and retirement quality for millions of workers."
+          "title": "Factbox-How many people have been killed in the Iran war?",
+          "link": "https://www.investing.com/news/stock-market-news/factboxhow-many-people-have-been-killed-in-the-usisraeli-war-on-iran-4586333",
+          "source": "Stock Market News",
+          "published_utc": "2026-03-30 21:00 UTC",
+          "analysis_zh": "伊朗战争导致的死亡人数不断上升，引发了国际社会的广泛关注。这场冲突不仅对当地民众造成了严重影响，也可能对全球油价和地缘政治局势产生深远的影响。随着局势的升级，各国可能会重新评估与伊朗的外交关系，从而影响到国际市场的稳定性。",
+          "analysis_en": "The death toll from the Iran war continues to rise, drawing significant attention from the international community. This conflict not only severely impacts the local population but may also have far-reaching effects on global oil prices and geopolitical dynamics. As the situation escalates, countries may reassess their diplomatic relations with Iran, which could affect the stability of international markets."
         },
         {
           "rank": 3,
-          "title": "Powell says risks to economy suggest rates could go lower or higher",
-          "link": "https://www.marketwatch.com/story/powell-says-risks-to-economy-suggest-rates-could-go-lower-or-higher-b0a4134f?mod=mw_rss_topstories",
+          "title": "U.S. stocks are faring worse than during past geopolitical shocks — and there’s plenty of room for them to fall further",
+          "link": "https://www.marketwatch.com/story/u-s-stocks-are-faring-worse-than-during-past-geopolitical-shocks-and-theres-plenty-of-room-for-them-to-fall-further-30a17285?mod=mw_rss_topstories",
           "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-03-30 14:56 UTC",
-          "analysis_zh": "美联储主席鲍威尔表示，当前经济面临的风险使得利率可能会下降或上升。他指出，由于尚不清楚伊朗战争对经济的具体影响，联邦储备委员会并不急于做出利率决策。这一声明表明，全球地缘政治局势可能对美国经济产生重大影响，投资者需密切关注未来的经济数据和政策变化。",
-          "analysis_en": "Federal Reserve Chairman Jerome Powell stated that the risks to the economy suggest that interest rates could either go lower or higher. He emphasized that the Fed is not facing an imminent decision regarding rates because the economic effects of the Iran war remain uncertain. This statement indicates that global geopolitical events could significantly impact the U.S. economy, prompting investors to closely monitor upcoming economic data and policy shifts."
+          "published_utc": "2026-03-30 20:59 UTC",
+          "analysis_zh": "自伊朗冲突爆发以来，标准普尔500指数下跌了7.4%，这一跌幅超过了以往地缘政治冲击期间的中位数6.1%。这一现象表明，目前市场对地缘政治风险的敏感度更高，投资者情绪趋于谨慎。这种下跌可能会影响到投资者的信心，导致更多资金流出股市，从而加剧市场的不稳定性。",
+          "analysis_en": "Since the onset of the Iran conflict, the S&P 500 has dropped by 7.4%, which is worse than the median decline of 6.1% observed during previous geopolitical shocks. This indicates that the market is currently more sensitive to geopolitical risks, leading to a more cautious investor sentiment. Such a decline could undermine investor confidence, prompting further capital outflows from the stock market and potentially exacerbating market instability."
         },
         {
           "rank": 4,
-          "title": "Norway stocks higher at close of trade; Oslo OBX up 3.10%",
-          "link": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-310-4588346",
-          "source": "Stock Market News",
-          "published_utc": "2026-03-30 14:55 UTC",
-          "analysis_zh": "挪威股市在交易结束时上涨，奥斯陆OBX指数上涨了3.10%。这一增长反映了投资者对市场前景的乐观情绪，可能受到全球经济复苏的推动。股市的上涨不仅有助于提升投资者信心，还可能吸引更多外资流入挪威市场，进一步促进经济增长。",
-          "analysis_en": "Norway's stock market closed higher, with the Oslo OBX index rising by 3.10%. This increase reflects investor optimism about the market outlook, likely driven by a global economic recovery. The rise in the stock market not only boosts investor confidence but may also attract more foreign investment into Norway, further stimulating economic growth."
+          "title": "Army investigates helicopter flyby at Kid Rock's Nashville home",
+          "link": "https://www.cnbc.com/2026/03/30/kid-rock-army-helicopter-investigation-newsom.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-03-30 20:56 UTC",
+          "analysis_zh": "美国军方正在调查一架直升机在音乐人Kid Rock位于纳什维尔的家上空飞过的事件。Kid Rock是特朗普总统的坚定支持者，而在直升机出现的当天，美国各地正举行反对“无王”示威活动。这一事件引发了公众的广泛关注，尤其是在政治分歧加剧的背景下，可能会进一步激化对特朗普及其支持者的争议。调查结果可能会影响公众对军事行动和政治活动之间界限的看法。",
+          "analysis_en": "The U.S. military is investigating an incident involving a helicopter flying over the home of musician Kid Rock in Nashville. Kid Rock is a staunch supporter of President Trump, and on the day the helicopter appeared, protests against \"No Kings\" were taking place across the country. This incident has drawn significant public attention, particularly against the backdrop of increasing political divisions, and it may further intensify the controversy surrounding Trump and his supporters. The outcome of the investigation could influence public perceptions of the boundaries between military actions and political activities."
         },
         {
           "rank": 5,
-          "title": "Starcloud reaches $1.1 billion valuation as AI space race heats up",
-          "link": "https://www.investing.com/news/stock-market-news/starcloud-reaches-11-billion-valuation-as-ai-space-race-heats-up-4587433",
+          "title": "Oil heads toward record monthly gain, equities mixed",
+          "link": "https://www.investing.com/news/stock-market-news/stocks-slide-in-asia-brent-crude-heads-for-record-monthly-rise-4586637",
           "source": "Stock Market News",
-          "published_utc": "2026-03-30 14:55 UTC",
-          "analysis_zh": "Starcloud在人工智能领域的竞争加剧中，估值达到了11亿美元。这一里程碑不仅反映了公司在技术创新方面的进展，也表明投资者对AI行业的信心正在增强。随着越来越多的企业进入这一市场，Starcloud的成功可能会激励其他初创公司加大投资力度，从而推动整个行业的发展。",
-          "analysis_en": "Starcloud has reached a valuation of $1.1 billion amid the intensifying competition in the AI sector. This milestone not only highlights the company's advancements in technological innovation but also indicates growing investor confidence in the AI industry. As more companies enter this market, Starcloud's success may encourage other startups to increase their investments, potentially driving growth across the entire sector."
+          "published_utc": "2026-03-30 20:54 UTC",
+          "analysis_zh": "近期，油价正朝着创纪录的月度涨幅迈进，而股市表现则显得不一。油价的上涨主要受到全球需求回升和供应紧张的推动，这对能源行业的投资者来说是一个积极信号。这一趋势可能会影响到其他市场的表现，尤其是与能源相关的股票，投资者需密切关注未来的市场动态。",
+          "analysis_en": "Recently, oil prices are heading towards a record monthly gain, while the stock market shows mixed performance. The rise in oil prices is primarily driven by a rebound in global demand and supply constraints, which is a positive signal for investors in the energy sector. This trend may impact the performance of other markets, particularly energy-related stocks, and investors should closely monitor future market developments."
         },
         {
           "rank": 6,
-          "title": "Air Canada CEO Michael Rousseau to retire after French flub",
-          "link": "https://www.investing.com/news/stock-market-news/air-canada-ceo-michael-rousseau-to-retire-4587745",
+          "title": "Match Group settles US FTC claims it illegally shared OkCupid user data",
+          "link": "https://www.investing.com/news/stock-market-news/match-group-settles-us-ftc-claims-it-illegally-shared-okcupid-user-data-4588291",
           "source": "Stock Market News",
-          "published_utc": "2026-03-30 14:55 UTC",
-          "analysis_zh": "加拿大航空首席执行官迈克尔·鲁索因在法语交流中的失误宣布退休。这一决定引发了广泛关注，因为鲁索的语言能力问题在公众场合引发了争议。这不仅影响了公司的形象，也可能对其在法语区的市场表现产生负面影响。随着新领导层的上任，加拿大航空可能会重新审视其市场策略，以更好地适应多元文化的需求。",
-          "analysis_en": "Michael Rousseau, the CEO of Air Canada, has announced his retirement following a controversy over his French language skills. This decision has garnered significant attention, as his language issues sparked public debate about the company's representation in French-speaking regions. The situation not only affects the company's image but may also have negative implications for its market performance in those areas. With new leadership on the horizon, Air Canada may reassess its market strategies to better cater to the diverse cultural landscape."
+          "published_utc": "2026-03-30 20:42 UTC",
+          "analysis_zh": "Match Group最近与美国联邦贸易委员会达成和解，因其被指控非法共享OkCupid用户数据。这一事件引发了广泛关注，因为用户隐私保护问题日益重要，尤其是在社交应用领域。此次和解不仅可能影响Match Group的声誉，还可能促使其他公司更加重视用户数据的安全性和隐私保护。",
+          "analysis_en": "Match Group recently settled claims with the U.S. Federal Trade Commission regarding the illegal sharing of OkCupid user data. This incident has garnered significant attention as user privacy protection becomes increasingly important, especially in the realm of social applications. The settlement may not only impact Match Group's reputation but also encourage other companies to prioritize the security and privacy of user data more seriously."
         },
         {
           "rank": 7,
-          "title": "Israel stocks lower at close of trade; TA 35 down 1.89%",
-          "link": "https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-189-4588345",
-          "source": "Stock Market News",
-          "published_utc": "2026-03-30 14:55 UTC",
-          "analysis_zh": "以色列股市在交易结束时出现下跌，TA 35指数下跌了1.89%。这一变化反映了市场对当前经济形势的担忧，尤其是在地缘政治紧张局势加剧的背景下。投资者可能会因此重新评估他们的投资策略，导致市场波动加剧。此时，关注市场动态和相关政策将变得尤为重要。",
-          "analysis_en": "Israeli stocks closed lower, with the TA 35 index down by 1.89%. This decline reflects market concerns about the current economic situation, particularly amid escalating geopolitical tensions. Investors may reassess their investment strategies as a result, leading to increased market volatility. During this time, it will be crucial to monitor market developments and related policies closely."
+          "title": "This AI power company’s Trump-named power project still has no customers in sight",
+          "link": "https://www.marketwatch.com/story/this-ai-power-companys-trump-named-power-project-still-has-no-customers-in-sight-8ad766b3?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-03-30 20:41 UTC",
+          "analysis_zh": "Fermi公司的股票跌至历史最低点，因为其名为“马塔多尔”的电力项目至今尚未找到首个客户。该项目的进展缓慢引发了市场的担忧，投资者对公司的未来感到不安。若无法尽快吸引客户，Fermi可能面临更大的财务压力，这将对其长期发展产生负面影响。",
+          "analysis_en": "Fermi's stock has fallen to a record low as its power project, named Project Matador, has yet to secure its first client. The slow progress of this project has raised concerns in the market, leaving investors uneasy about the company's future. If Fermi cannot attract customers soon, it may face greater financial pressure, which could negatively impact its long-term growth."
         },
         {
           "rank": 8,
-          "title": "These stocks are surging as the next hot play on the Iran war",
-          "link": "https://www.marketwatch.com/story/these-stocks-are-surging-as-the-next-hot-play-on-the-iran-war-3531bcbb?mod=mw_rss_topstories",
+          "title": "Sysco goes all in on the ‘cash and carry’ food-service business with a $29 billion buyout",
+          "link": "https://www.marketwatch.com/story/sysco-goes-all-in-on-the-cash-and-carry-food-service-business-with-a-29-billion-buyout-5e06c72c?mod=mw_rss_topstories",
           "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-03-30 14:55 UTC",
-          "analysis_zh": "阿尔科公司（Alcoa）的股票在周一大幅上涨，原因是伊朗对中东两个大型铝冶炼厂的导弹袭击，导致工业金属价格飙升。这一事件不仅影响了铝的市场价格，也可能引发投资者对相关行业的关注。随着地缘政治紧张局势的加剧，投资者可能会重新评估他们的投资组合，以应对潜在的市场波动。",
-          "analysis_en": "Alcoa's stock surged on Monday following Iranian missile strikes on two major aluminum sites in the Middle East, which drove up prices for the industrial metal. This incident not only affects the market price of aluminum but may also draw investors' attention to related industries. As geopolitical tensions escalate, investors might reassess their portfolios to prepare for potential market fluctuations."
+          "published_utc": "2026-03-30 20:38 UTC",
+          "analysis_zh": "Sysco公司宣布以291亿美元的现金和股票收购Jetro Restaurant Depot，标志着其在“现金和自取”食品服务业务上的重大投资。这一交易引起市场关注，Sysco的股价随之下跌。这笔收购不仅将扩大Sysco的市场份额，还可能改变其在食品服务行业的竞争格局。投资者需要关注这一变化对Sysco未来业绩的潜在影响。",
+          "analysis_en": "Sysco has announced a significant investment by agreeing to a $29.1 billion cash-and-stock deal to acquire Jetro Restaurant Depot, marking a major move into the 'cash and carry' food-service sector. This announcement has led to a decline in Sysco's stock price, raising concerns among investors. The acquisition is expected to enhance Sysco's market share and could alter the competitive landscape within the food service industry. Investors should monitor how this change may affect Sysco's future performance."
         },
         {
           "rank": 9,
-          "title": "Starbucks investors reelect full board, rejecting labor-backed challenge",
-          "link": "https://www.investing.com/news/stock-market-news/starbucks-investors-reelect-full-board-rejecting-laborbacked-challenge-4588165",
-          "source": "Stock Market News",
-          "published_utc": "2026-03-30 14:54 UTC",
-          "analysis_zh": "星巴克的投资者近日重新选举了全体董事会，拒绝了由工会支持的挑战。这一决定表明，投资者对现有管理层的信任，认为其能够有效应对公司面临的挑战。此举可能会影响星巴克未来的决策和战略方向，尤其是在劳工关系和企业治理方面。",
-          "analysis_en": "Starbucks investors recently reelected the entire board, rejecting a challenge backed by labor unions. This decision indicates that investors have confidence in the current management, believing they can effectively tackle the challenges the company faces. This move may influence Starbucks' future decisions and strategic direction, particularly regarding labor relations and corporate governance."
+          "title": "JetBlue Airways raises checked bag fees at least $4 as fuel prices soar",
+          "link": "https://www.cnbc.com/2026/03/30/jetblue-airways-raises-checked-baggage-fees-as-fuel-prices-soar.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-03-30 20:35 UTC",
+          "analysis_zh": "捷蓝航空宣布将托运行李费用提高至少4美元，此举是由于燃油价格的飙升。近年来，全球航班票价因燃油成本上升而不断上涨，尤其是在美国和以色列对伊朗采取军事行动后。这一变化不仅影响了航空公司的盈利能力，也可能导致消费者出行成本增加，进而影响旅游业的复苏。",
+          "analysis_en": "JetBlue Airways has announced an increase of at least $4 in checked bag fees, driven by soaring fuel prices. In recent years, airfare has been rising globally due to increased fuel costs, particularly following military actions by the U.S. and Israel against Iran. This change not only affects the profitability of airlines but may also lead to higher travel costs for consumers, potentially impacting the recovery of the tourism industry."
         },
         {
           "rank": 10,
-          "title": "Fed Governor Miran still backs cuts, says interest rates could be 'about a point' lower this year",
-          "link": "https://www.cnbc.com/2026/03/30/fed-governor-miran-still-backs-cuts-says-interest-rates-could-be-about-a-point-lower-this-year.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-03-30 14:54 UTC",
-          "analysis_zh": "美联储理事史蒂芬·米兰在周一的采访中表示，他仍然支持降息，并预测今年利率可能会降低“约一个百分点”。这一表态引发了市场的广泛关注，因为降息通常意味着借贷成本降低，有助于刺激经济增长。若美联储真的采取降息措施，可能会对股市、房地产市场以及消费者信心产生积极影响，进而影响整体经济复苏的步伐。",
-          "analysis_en": "Federal Reserve Governor Stephen Miran stated in an interview on Monday that he still supports interest rate cuts and predicts that rates could be lowered by \"about a point\" this year. This statement has garnered significant attention from the market, as rate cuts typically reduce borrowing costs and can help stimulate economic growth. If the Fed does implement these cuts, it could positively impact the stock market, real estate sector, and consumer confidence, thereby influencing the overall pace of economic recovery."
+          "title": "U.S. stocks mixed at close of trade; Dow Jones Industrial Average up 0.11%",
+          "link": "https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-011-4588743",
+          "source": "Stock Market News",
+          "published_utc": "2026-03-30 20:31 UTC",
+          "analysis_zh": "美国股市在交易结束时表现不一，道琼斯工业平均指数上涨了0.11%。这一变化反映了市场对经济前景的不同看法。尽管部分投资者对经济复苏持乐观态度，但也有一些人对未来的通货膨胀和利率上升表示担忧。这种市场波动可能会影响投资者的信心，并导致资金流向不同的行业和资产类别。",
+          "analysis_en": "U.S. stocks closed mixed, with the Dow Jones Industrial Average rising by 0.11%. This shift reflects varying opinions among investors regarding the economic outlook. While some investors remain optimistic about the economic recovery, others express concerns about future inflation and rising interest rates. Such market fluctuations may impact investor confidence and lead to shifts in capital towards different sectors and asset classes."
         }
       ]
     },
     "健康": {
       "description": "医学、营养、抗衰老、代谢与公共健康",
-      "count": 6,
+      "count": 5,
       "items": [
         {
           "rank": 1,
@@ -114,8 +114,8 @@
           "link": "https://www.nytimes.com/2026/03/28/science/judith-rapoport-dead.html",
           "source": "NYT > Health",
           "published_utc": "2026-03-30 14:08 UTC",
-          "analysis_zh": "朱迪思·L·拉波波特（Judith L. Rapoport）于92岁去世，她是强迫症研究领域的先驱。她在1989年出版的畅销书《无法停止洗手的男孩》基于她的开创性研究，极大地提高了公众对强迫症的认识。这一事件不仅标志着一位杰出科学家的离世，也提醒人们对心理健康问题的关注。拉波波特的研究可能会继续影响未来的治疗方法和对强迫症患者的理解。",
-          "analysis_en": "Judith L. Rapoport, a pioneer in the field of obsessive-compulsive disorder (O.C.D.), has passed away at the age of 92. Her best-selling book, \"The Boy Who Couldn't Stop Washing,\" published in 1989, significantly raised public awareness about O.C.D. This event marks the loss of a remarkable scientist and serves as a reminder of the importance of mental health issues. Rapoport's research may continue to influence future treatment approaches and the understanding of O.C.D. patients."
+          "analysis_zh": "朱迪思·L·拉波波特（Judith L. Rapoport）于92岁去世，她是强迫症研究领域的先驱。她在1989年出版的畅销书《无法停止洗手的男孩》基于她的开创性研究，极大地提高了公众对强迫症的认识。这一事件不仅标志着一位杰出科学家的离世，也提醒我们继续关注心理健康问题及其对患者生活的影响。拉波波特的贡献将激励未来的研究，推动对强迫症及其他心理疾病的理解和治疗。",
+          "analysis_en": "Judith L. Rapoport, a pioneer in the field of obsessive-compulsive disorder (O.C.D.), passed away at the age of 92. Her best-selling book, \"The Boy Who Couldn't Stop Washing,\" published in 1989, significantly raised public awareness about O.C.D. This event marks the loss of a remarkable scientist and serves as a reminder to continue focusing on mental health issues and their impact on patients' lives. Rapoport's contributions will inspire future research and enhance the understanding and treatment of O.C.D. and other mental disorders."
         },
         {
           "rank": 2,
@@ -123,8 +123,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/03/260330084511.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-30 12:52 UTC",
-          "analysis_zh": "一项针对近10,000名患者的大规模分析显示，简单的非药物治疗方法，如膝盖支架、水疗和锻炼，可以显著缓解膝关节骨关节炎的症状。这些方法不仅能减轻疼痛和改善活动能力，还能避免常见药物带来的风险。这一发现表明，低成本且易于获取的治疗方案可能在未来的关节炎治疗中发挥更重要的作用，改变医生的治疗方式。",
-          "analysis_en": "A large-scale analysis involving nearly 10,000 patients has revealed that simple, non-drug treatments such as knee braces, hydrotherapy, and exercise can significantly alleviate symptoms of knee osteoarthritis. These approaches not only reduce pain and enhance mobility but also avoid the risks associated with common medications. This finding suggests that low-cost and accessible therapies could play a more significant role in the future treatment of arthritis, potentially changing how doctors approach patient care."
+          "analysis_zh": "一项针对近10,000名患者的大规模分析显示，简单的非药物治疗方法，如膝盖支架、水疗和锻炼，能够显著缓解膝关节骨关节炎的症状。这些方法不仅能减轻疼痛和改善活动能力，还能避免常见药物带来的风险。这一发现表明，低成本且易于获取的治疗方式在未来可能会在医生治疗关节炎时发挥更大的作用。",
+          "analysis_en": "A major analysis involving nearly 10,000 patients has revealed that simple, non-drug treatments such as knee braces, hydrotherapy, and exercise can significantly alleviate symptoms of knee osteoarthritis. These approaches not only reduce pain and enhance mobility but also help avoid the risks associated with common medications. The findings suggest that low-cost and accessible therapies could play a more prominent role in how doctors manage arthritis in the future."
         },
         {
           "rank": 3,
@@ -132,8 +132,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/03/260330001131.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-30 07:50 UTC",
-          "analysis_zh": "一项大型美国研究发现，超过四分之一的难治性高血压患者可能存在被忽视的激素问题，尤其是皮质醇水平升高。研究显示，27%的患者体内皮质醇水平异常高，这一比例远超预期。这一发现至关重要，因为它可能解释了为何常规药物治疗效果不佳。识别出这一隐藏的激素失衡，可能为开发新的检测和治疗方法提供了方向，帮助更多患者控制血压。",
-          "analysis_en": "A large U.S. study has found that more than a quarter of patients with resistant hypertension may have an overlooked hormone issue, specifically elevated cortisol levels. The study revealed that 27% of these patients had abnormally high cortisol, a figure much higher than previously expected. This finding is significant as it may explain why standard medications often fail to control blood pressure. Identifying this hidden hormone imbalance could lead to new testing and treatment options, ultimately helping more patients manage their hypertension effectively."
+          "analysis_zh": "一项大型美国研究发现，超过四分之一的难治性高血压患者可能存在被忽视的激素问题，尤其是皮质醇水平升高。研究显示，这种情况在27%的患者中出现，远高于预期。这一发现的重要性在于，它可能解释了为何常规药物治疗效果不佳，并为未来的新检测和治疗方法提供了可能性，从而帮助控制血压。这项研究的结果可能会改变我们对高血压治疗的理解，并为数百万患者带来新的希望。",
+          "analysis_en": "A large U.S. study has found that more than a quarter of patients with resistant hypertension may have an overlooked hormone issue, specifically elevated cortisol levels. This condition was found in 27% of these patients, which is much higher than expected. The significance of this discovery lies in its potential to explain why standard medications often fail and to pave the way for new testing and treatment options that could help control blood pressure. The results of this study may change our understanding of hypertension treatment and offer new hope to millions of patients."
         },
         {
           "rank": 4,
@@ -141,8 +141,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/03/260330001129.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-30 07:29 UTC",
-          "analysis_zh": "一种强效降胆固醇药物可能会改变心脏病预防的规则。研究人员发现，通常用于已有心血管疾病患者的依洛尤单抗（evolocumab），能够显著降低高风险糖尿病患者首次心脏病发作和中风的风险，甚至在尚未检测到动脉堵塞斑块的情况下。这一发现的重要性在于，它可能会改变我们对心脏病预防的认识，尤其是在没有明显动脉硬化的高风险患者中。",
-          "analysis_en": "A powerful cholesterol-lowering drug may be changing the rules of heart disease prevention. Researchers found that evolocumab, typically used for patients with existing cardiovascular disease, can significantly reduce the risk of first-time heart attacks and strokes in high-risk diabetes patients, even before any artery-clogging plaque is detected. This finding is significant as it may alter our understanding of heart disease prevention, particularly for high-risk patients without known atherosclerosis."
+          "analysis_zh": "一项研究发现，强效降胆固醇药物依洛尤单抗能够显著降低高风险糖尿病患者首次心脏病发作和中风的风险，降低幅度达到31%。这一发现对心脏病预防具有重要意义，因为它表明即使在动脉尚未出现明显堵塞的情况下，早期干预也能有效降低心血管事件的发生率。这可能会改变我们对心脏病预防的传统看法，尤其是对于尚未确诊动脉粥样硬化的高风险患者。",
+          "analysis_en": "A study has found that the powerful cholesterol-lowering drug evolocumab can significantly reduce the risk of first-time heart attacks and strokes by 31% in high-risk diabetes patients. This finding is crucial for heart disease prevention, as it suggests that early intervention can effectively lower the incidence of cardiovascular events even before significant artery blockage occurs. This may change the traditional perspective on heart disease prevention, particularly for high-risk patients who have not yet been diagnosed with atherosclerosis."
         },
         {
           "rank": 5,
@@ -150,17 +150,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/03/260330001126.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-30 05:07 UTC",
-          "analysis_zh": "一项大型研究发现，每天只需几分钟的剧烈运动就能显著降低患心脏病、痴呆症和糖尿病等八种重大疾病的风险。研究分析了近十万人的数据，结果表明，运动的强度比运动的总量更为重要。短时间的高强度活动，如快速赶公交或爬楼梯，能有效减少疾病风险，尤其是对于炎症性疾病和脑部健康。这项研究强调了在日常生活中融入短暂剧烈运动的重要性，可能会改变人们对健康锻炼的认识。",
-          "analysis_en": "A large study has found that just a few minutes of vigorous activity each day can significantly reduce the risk of eight major diseases, including heart disease, dementia, and diabetes. The research analyzed data from nearly 100,000 individuals and revealed that the intensity of exercise is more important than the total amount of physical activity. Short bursts of high-intensity activities, such as rushing for a bus or climbing stairs, were linked to a notable decrease in disease risk, particularly for inflammatory conditions and brain health. This study highlights the importance of incorporating brief, intense exercise into daily routines, which may change people's perceptions of effective health practices."
-        },
-        {
-          "rank": 6,
-          "title": "A Secret History of Psychosis",
-          "link": "https://www.nytimes.com/2026/03/29/health/a-secret-history-of-psychosis.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-03-29 16:12 UTC",
-          "analysis_zh": "这篇文章讲述了Cohen Miles-Rath的故事，他曾听到声音指使他杀死父亲。经历过这种精神错乱后，他花费多年时间回顾自己妄想的历程。这一事件不仅揭示了精神疾病的复杂性，也引发了人们对心理健康问题的关注。了解这些经历对社会的影响，可能有助于改善对精神疾病患者的支持和治疗方式。",
-          "analysis_en": "This article tells the story of Cohen Miles-Rath, who heard voices urging him to kill his father. After experiencing this psychosis, he spent years retracing the path of his delusions. This incident highlights the complexity of mental illness and raises awareness about mental health issues. Understanding these experiences could help improve support and treatment for individuals suffering from mental health disorders."
+          "analysis_zh": "一项大规模研究发现，每天只需几分钟的剧烈运动即可显著降低心脏病、痴呆症和糖尿病等八种主要疾病的风险。研究涉及近十万人，结果表明，运动的强度比运动的总量更为重要。短暂的高强度活动，如快速奔跑或爬楼梯，与疾病风险的显著降低密切相关，这尤其对炎症性疾病和大脑健康有积极影响。",
+          "analysis_en": "A large-scale study has found that just a few minutes of vigorous exercise each day can significantly reduce the risk of eight major diseases, including heart disease, dementia, and diabetes. Involving nearly 100,000 participants, the research indicates that the intensity of physical activity is more important than the total amount of activity. Short bursts of high-intensity activities, such as running for a bus or climbing stairs quickly, are closely linked to a striking reduction in disease risk, particularly for inflammatory conditions and brain health."
         }
       ]
     },
@@ -174,8 +165,8 @@
           "link": "https://aeon.co/videos/in-search-of-truth-and-fun-at-princeton-university-1973?utm_source=rss-feed",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-03-30 10:01 UTC",
-          "analysis_zh": "普林斯顿大学邀请两位导演制作一段营销视频，结果这段视频不仅成为了一件艺术作品，还成为了一个时代的缩影。这一事件的重要性在于，它展示了艺术与商业之间的交融，如何通过创意表达传达更深层次的思想。这种创新的方式可能会影响未来的营销策略，鼓励更多的教育机构和企业探索艺术的表现形式，以吸引更广泛的受众。",
-          "analysis_en": "Princeton University commissioned two directors to create a marketing video, which unexpectedly turned into a work of art and a time capsule. This event is significant as it illustrates the intersection of art and commerce, showing how creative expression can convey deeper ideas. Such an innovative approach may influence future marketing strategies, encouraging more educational institutions and businesses to explore artistic forms of expression to engage broader audiences."
+          "analysis_zh": "普林斯顿大学邀请两位导演制作一段营销视频，结果这段视频不仅成为了一件艺术作品，还成为了一个时代的缩影。这一事件的重要性在于，它展示了艺术与商业之间的界限是多么模糊，同时也反映了当代社会的价值观和文化。这样的作品可能会影响未来的创意项目，鼓励更多的艺术家在商业环境中探索创新的表达方式。",
+          "analysis_en": "Princeton University commissioned two directors to create a marketing video, which unexpectedly turned into a work of art and a time capsule. This event is significant because it illustrates how blurred the lines can be between art and commerce, while also reflecting contemporary societal values and culture. Such a piece may influence future creative projects, encouraging more artists to explore innovative forms of expression within commercial contexts."
         },
         {
           "rank": 2,
@@ -183,8 +174,8 @@
           "link": "https://aeon.co/essays/how-the-hypercuriosity-of-adhd-may-have-helped-humans-thrive?utm_source=rss-feed",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-03-30 10:00 UTC",
-          "analysis_zh": "这篇文章探讨了注意力缺陷多动障碍（ADHD）并指出，它不仅仅是一种功能障碍，而是一种对新信息的冲动性动机驱动。理解ADHD的这种特性非常重要，因为它可能改变我们对这种状况的看法，并促使我们在教育和治疗方面采取不同的方法。通过重新审视ADHD，我们或许能够更好地支持那些受其影响的人，帮助他们在生活中找到适合自己的方式。",
-          "analysis_en": "This article discusses Attention Deficit Hyperactivity Disorder (ADHD) and suggests that it is not merely a dysfunction, but rather an impulsive motivational drive for novel information. Understanding this characteristic of ADHD is significant as it may change our perspective on the condition and encourage different approaches in education and treatment. By re-evaluating ADHD, we might better support those affected, helping them find suitable ways to navigate their lives."
+          "analysis_zh": "注意力缺陷多动症（ADHD）并不仅仅是一种功能障碍，而是可以被理解为一种对新信息的冲动性动机驱动。这一观点由安-洛尔·勒孔夫提出，强调了ADHD患者在追求新奇事物方面的独特心理特征。这一理解不仅改变了我们对ADHD的看法，还可能影响教育和治疗方法，促使人们更加关注如何利用这种特质来激发创造力和学习动机。",
+          "analysis_en": "Attention Deficit Hyperactivity Disorder (ADHD) is not just a dysfunction; it can be understood as an impulsive motivational drive for novel information, as proposed by Anne-Laure Le Cunff. This perspective highlights the unique psychological traits of individuals with ADHD in their pursuit of novelty. Such an understanding not only shifts our perception of ADHD but may also influence educational and therapeutic approaches, encouraging a focus on how to harness this trait to foster creativity and motivation for learning."
         },
         {
           "rank": 3,
@@ -192,8 +183,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/03/260330001126.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-03-30 05:07 UTC",
-          "analysis_zh": "一项大规模研究显示，每天只需几分钟的剧烈运动，就能显著降低心脏病、痴呆症和糖尿病等八种重大疾病的风险。研究涉及近十万人，结果表明，运动的强度比运动的总量更为重要。短时间内的高强度活动，如快速赶公交或爬楼梯，与降低疾病风险有着显著关联，尤其是在炎症性疾病和脑健康方面。这一发现强调了在日常生活中增加短暂剧烈运动的重要性，可能会对公共健康政策和个人健身习惯产生深远影响。",
-          "analysis_en": "A large-scale study has found that just a few minutes of vigorous exercise each day can significantly reduce the risk of eight major diseases, including heart disease, dementia, and diabetes. Involving nearly 100,000 participants, the research indicates that the intensity of physical activity is more crucial than the total amount of exercise. Short bursts of high-intensity activities, such as rushing for a bus or climbing stairs quickly, were linked to notable reductions in disease risk, particularly for inflammatory conditions and brain health. This finding underscores the importance of incorporating brief, intense physical activities into daily routines, which could have profound implications for public health policies and individual fitness habits."
+          "analysis_zh": "一项大规模研究发现，每天只需几分钟的剧烈运动就能显著降低患心脏病、痴呆症和糖尿病等八种重大疾病的风险。研究分析了近十万人数据，结果表明，运动的强度比运动的总量更为重要。短时间的高强度活动，比如快速奔跑或爬楼梯，与降低疾病风险有显著关联，尤其是在炎症性疾病和大脑健康方面。这项研究的发现强调了在日常生活中增加短暂剧烈运动的重要性，可能会改变人们对健康运动的理解和实践。",
+          "analysis_en": "A large-scale study has found that just a few minutes of vigorous exercise each day can significantly reduce the risk of eight major diseases, including heart disease, dementia, and diabetes. The research analyzed data from nearly 100,000 people, revealing that the intensity of physical activity is more important than the total amount of exercise. Short bursts of high-intensity activities, such as running quickly or climbing stairs, were linked to notable reductions in disease risk, particularly for inflammatory conditions and brain health. These findings highlight the importance of incorporating brief, intense exercise into daily routines, potentially changing how people approach health and fitness."
         }
       ]
     },
@@ -203,93 +194,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Xbox’s next big games showcase happens on June 7th",
-          "link": "https://www.theverge.com/games/903282/xbox-games-showcase-2026-sgf-date",
-          "source": "The Verge",
-          "published_utc": "2026-03-30 13:18 UTC",
-          "analysis_zh": "虽然现在是三月底，但游戏公司已经开始为夏季做准备。Xbox刚刚宣布将于6月7日举行下一次重大游戏展示活动。这一时间安排与去年的展示相似，正好符合夏季游戏节的时间框架。此次展示对微软的游戏部门尤为重要，因为刚刚经历了高层变动，前任Xbox负责人菲尔·斯宾塞退休，新任首席执行官阿莎·夏尔玛接任。此次活动将为微软展示Xbox平台的现状提供机会，并将通过直播和现场活动的形式与玩家互动。",
-          "analysis_en": "Although it's the end of March, gaming companies are already preparing for summer. Xbox has just announced that its next major games showcase will take place on June 7th. This timing aligns closely with last year's event and fits well within the Summer Game Fest schedule. This showcase is particularly significant for Microsoft's gaming division, which recently underwent a leadership change with former Xbox head Phil Spencer retiring and Asha Sharma taking over as CEO. The event will provide an opportunity for Microsoft to showcase the current state of the Xbox platform and will include both livestreaming and in-person elements for fans."
+          "title": "States Plow Ahead With A.I. Regulation, Defying Trump",
+          "link": "https://www.nytimes.com/2026/03/30/technology/trump-states-ai-gavin-newsom-california.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-03-30 21:00 UTC",
+          "analysis_zh": "美国各州正在加速推进人工智能的监管，尽管特朗普总统对此持反对态度。这一冲突不仅涉及到各州与联邦政府之间的权力斗争，也反映了对人工智能技术快速发展的担忧。各州的监管措施可能会影响到科技公司的运营方式，并在一定程度上塑造未来的行业标准。",
+          "analysis_en": "U.S. states are moving forward with artificial intelligence regulations despite opposition from President Trump. This conflict highlights the power struggle between state and federal authorities and reflects concerns about the rapid development of AI technology. The regulatory measures implemented by states could impact how tech companies operate and may help shape industry standards in the future."
         },
         {
           "rank": 2,
-          "title": "For $200 more, you can get a MacBook Air",
-          "link": "https://www.theverge.com/tech/901698/macbook-air-history",
-          "source": "The Verge",
-          "published_utc": "2026-03-30 13:05 UTC",
-          "analysis_zh": "2008年1月，史蒂夫·乔布斯在Macworld大会上展示了MacBook Air，这一举动迅速引发了Windows PC高管们的恐慌。MacBook Air的推出不仅重新定义了笔记本电脑的设计，还推动了整个行业的模仿潮流。尽管苹果的历史上有许多标志性产品，但MacBook Air的影响力不可小觑，它为现代笔记本电脑的演变奠定了基础。这一事件的重要性在于，它不仅改变了消费者对便携设备的期待，也促使竞争对手不断创新。",
-          "analysis_en": "In January 2008, Steve Jobs unveiled the MacBook Air at Macworld, a move that sent Windows PC executives into a frenzy. The launch of the MacBook Air not only redefined laptop design but also sparked a wave of imitation across the industry. While Apple's history features many iconic products, the significance of the MacBook Air should not be underestimated, as it laid the groundwork for the evolution of modern laptops. This event is important because it not only changed consumer expectations for portable devices but also pushed competitors to innovate continuously."
+          "title": "Democrats Examine Elon Musk’s Role in Suspension of Business Disclosure Law",
+          "link": "https://www.nytimes.com/2026/03/30/business/lawmakers-probe-elon-musk-treasury.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-03-30 19:55 UTC",
+          "analysis_zh": "美国民主党议员正在调查埃隆·马斯克在停止执行《企业透明法》中的角色。他们已向财政部请求相关信息，以了解马斯克是否对这一决定产生了影响。这一事件引发了广泛关注，因为《企业透明法》旨在提高企业的透明度，防止洗钱和其他金融犯罪。如果执法力度减弱，可能会导致更多不法行为的发生，影响金融市场的稳定性。",
+          "analysis_en": "Democratic lawmakers are investigating Elon Musk's role in the decision to stop enforcing the Corporate Transparency Act. They have requested information from the Treasury Department to determine whether Musk influenced this decision. This matter is significant because the Corporate Transparency Act aims to enhance corporate transparency and prevent money laundering and other financial crimes. A reduction in enforcement could lead to an increase in illicit activities, potentially destabilizing financial markets."
         },
         {
           "rank": 3,
-          "title": "The mad dash to build the future of multimedia",
-          "link": "https://www.theverge.com/tech/902721/quicktime-history-apple",
+          "title": "The first Apple Home Key-ready smart lock with UWB is cheaper during Amazon’s Big Spring Sale",
+          "link": "https://www.theverge.com/gadgets/903555/aqara-u400-apple-home-key-uwb-smart-lock-amazon-big-spring-sale-2026-deal",
           "source": "The Verge",
-          "published_utc": "2026-03-30 13:05 UTC",
-          "analysis_zh": "在1989年，苹果公司面临着多媒体技术的巨大挑战。当时，播放视频、听音乐或展示照片需要昂贵的硬件和不同公司的软件，缺乏统一标准和共享能力。为了改变这一现状，苹果内部的一个小组开始研发QuickTime，这项技术最终使得各种计算机能够成为创作工具。这一创新不仅推动了个人计算机的发展，也为后来的多媒体应用奠定了基础，影响深远。",
-          "analysis_en": "In 1989, Apple faced significant challenges in multimedia technology. At that time, playing videos, listening to music, or displaying photos required expensive hardware and software from different companies, with no standardization or sharing capabilities. To address this issue, a small team within Apple began developing QuickTime, a technology that ultimately enabled various computers to become creative tools. This innovation not only advanced personal computing but also laid the groundwork for future multimedia applications, with lasting impacts."
+          "published_utc": "2026-03-30 19:47 UTC",
+          "analysis_zh": "在亚马逊的大春季促销期间，Aqara推出的首款支持Apple Home Key的智能锁U400降价至229.49美元，原价为269.99美元。这款智能锁内置Apple的U1超宽带芯片，能够在用户靠近时实现免提解锁，提升了用户的便利性。此次降价使得这款高科技产品更具吸引力，尤其是对iPhone用户而言，可能会推动更多消费者选择智能家居产品。",
+          "analysis_en": "During Amazon's Big Spring Sale, Aqara's U400, the first smart lock compatible with Apple Home Key, is discounted to $229.49 from its original price of $269.99. This smart lock features Apple's U1 ultra-wideband chip, allowing for hands-free unlocking as users approach, enhancing convenience for users. The price drop makes this high-tech product more appealing, particularly for iPhone users, and may encourage more consumers to adopt smart home technology."
         },
         {
           "rank": 4,
-          "title": "Apple @ 50",
-          "link": "https://www.theverge.com/tech/899623/apple-50-anniversary",
+          "title": "Beats’ gym-friendly Powerbeats Fit are $30 off for Amazon’s Big Spring Sale",
+          "link": "https://www.theverge.com/gadgets/903373/beats-powerbeats-fit-pro-2-earbuds-amazon-big-spring-sale-2026-deal",
           "source": "The Verge",
-          "published_utc": "2026-03-30 13:05 UTC",
-          "analysis_zh": "苹果公司于1976年4月1日成立，至今已走过50年。作为全球最有价值的公司之一，苹果以其广受欢迎的产品如iPad和iPhone而闻名，同时也因怀旧产品如iPod Mini和PowerBook而受到关注。在过去的五十年里，苹果经历了许多起伏，但无疑在科技和文化的各个方面都留下了深刻的印记。这一里程碑不仅展示了苹果的创新历程，也反映了其在科技行业中的重要地位，可能会影响未来科技公司的发展方向。",
-          "analysis_en": "Apple was founded on April 1, 1976, and has now reached its 50th anniversary. As one of the most valuable companies in the world, Apple is renowned for its popular products like the iPad and iPhone, as well as nostalgic items like the iPod Mini and PowerBook. Over the past five decades, Apple has experienced numerous ups and downs, leaving a significant mark on various aspects of technology and culture. This milestone not only highlights Apple's journey of innovation but also reflects its crucial role in the tech industry, which may influence the future direction of other technology companies."
+          "published_utc": "2026-03-30 17:38 UTC",
+          "analysis_zh": "在亚马逊的大春季促销中，Beats推出了适合健身的Powerbeats Fit耳机，现价优惠30美元，降至169.99美元。这款耳机配备了内置的硅胶鳍，确保佩戴时更加贴合，特别适合在运动时使用。与AirPods Pro 3相比，虽然后者在日常使用中表现出色，但对于某些用户或特定运动类型，Powerbeats Fit可能是更好的选择。这一促销活动不仅为消费者提供了更具性价比的选择，也可能影响耳机市场的竞争格局。",
+          "analysis_en": "During Amazon's Big Spring Sale, Beats has discounted its gym-friendly Powerbeats Fit headphones by $30, bringing the price down to $169.99. These headphones feature a built-in silicone fin that ensures a snug fit, making them particularly suitable for workouts. While the AirPods Pro 3 excel in everyday use, the Powerbeats Fit may be a better option for certain users or types of exercise. This promotion not only offers consumers a more cost-effective choice but may also impact the competitive landscape of the headphone market."
         },
         {
           "rank": 5,
-          "title": "The origin story of Apple’s long-running relationship with Foxconn",
-          "link": "https://www.theverge.com/tech/898077/apple-in-china-patrick-mcgee-foxconn",
+          "title": "A new RCS update could connect iPhone and Android video calls, someday",
+          "link": "https://www.theverge.com/tech/903509/apple-iphone-google-android-video-calls-rcs-universal-profile-4-0",
           "source": "The Verge",
-          "published_utc": "2026-03-30 13:00 UTC",
-          "analysis_zh": "在2025年，帕特里克·麦基发布了《苹果在中国：世界最大公司的捕获》，深入探讨了苹果公司对中国的投资及其日益依赖的关系。书中摘录的第九章分析了苹果与富士康的关系，富士康如今是著名的iPhone制造商。麦基指出，富士康的迅速崛起与创始人郭台铭与苹果的密切合作密不可分。这一关系不仅改变了富士康的命运，也对全球电子制造业产生了深远的影响。",
-          "analysis_en": "In 2025, Patrick McGee published \"Apple in China: The Capture of the World's Greatest Company,\" which provides an in-depth look at Apple's investment in and growing reliance on China. An excerpt from Chapter 9 examines Apple's relationship with Foxconn, now known as the infamous iPhone manufacturer. McGee highlights that Foxconn's rapid growth was largely due to founder Terry Gou's close partnership with Apple. This relationship not only transformed Foxconn's fortunes but also had a significant impact on the global electronics manufacturing industry."
+          "published_utc": "2026-03-30 17:19 UTC",
+          "analysis_zh": "最近，GSM协会宣布了RCS通用配置文件4.0的最终标准，这将使iPhone和Android用户能够通过各自的消息应用进行视频通话。这个新功能称为“消息发起视频通话”（MIVC），可以将一对一或群组RCS聊天转换为视频通话。这一进展非常重要，因为它有可能打破不同平台之间的沟通壁垒，提升用户体验。不过，目前尚不清楚苹果和谷歌何时会支持这一功能，这可能会影响用户的期待和市场竞争。",
+          "analysis_en": "Recently, the GSM Association announced the finalized RCS Universal Profile 4.0 standard, which will enable iPhone and Android users to make video calls through their messaging apps. This new feature, called Messaging-Initiated Video Calls (MIVC), allows users to turn one-on-one or group RCS chats into video calls. This development is significant as it could eliminate communication barriers between different platforms and enhance user experience. However, it remains unclear when Apple and Google will support this feature, which may affect user expectations and market competition."
         },
         {
           "rank": 6,
-          "title": "Vivo launches X300 Ultra flagship ‘designed for professional photography’",
-          "link": "https://www.theverge.com/tech/903250/vivo-x300-ultra-flagship-china-launch-specs",
+          "title": "Dyson’s ultra-thin PencilVac Fluffycones is tougher to resist at $150 off",
+          "link": "https://www.theverge.com/gadgets/903416/dyson-pencilvac-fluffycones-amazon-big-spring-sale-deal-sale",
           "source": "The Verge",
-          "published_utc": "2026-03-30 12:30 UTC",
-          "analysis_zh": "今天，Vivo在中国推出了其最新旗舰手机X300 Ultra，这款手机特别强调了摄影功能。根据Vivo的新闻稿，这款手机“专为专业摄影设计”，配备了一套经过优化的蔡司镜头，能够满足不同拍摄风格的需求，包括长焦特写、广角和视频拍摄。这一发布不仅展示了Vivo在手机摄影领域的技术进步，也可能影响市场上其他手机制造商在摄影功能上的竞争策略。",
-          "analysis_en": "Today, Vivo launched its latest flagship phone, the X300 Ultra, in China, which emphasizes its photography capabilities. According to Vivo's press release, this phone is \"designed for professional photography\" and features a set of optimized Zeiss lenses that cater to various shooting styles, including telephoto close-ups, wide-angle, and videography. This release not only showcases Vivo's advancements in mobile photography technology but may also influence the competitive strategies of other smartphone manufacturers in the photography domain."
+          "published_utc": "2026-03-30 16:27 UTC",
+          "analysis_zh": "戴森的超薄PencilVac Fluffycones吸尘器在亚马逊春季大促中降价150美元，售价为449.99美元。这款轻便且多功能的吸尘器能够清理机器人吸尘器可能遗漏的细节区域，如房间角落、边缘、陡峭楼梯和入口等。此次降价不仅使得更多消费者能够体验到戴森的高品质产品，也可能推动吸尘器市场的竞争，促使其他品牌推出更具吸引力的产品和促销活动。",
+          "analysis_en": "Dyson's ultra-thin PencilVac Fluffycones is now available for $449.99, with a $150 discount during Amazon's Big Spring Sale. This lightweight and versatile vacuum is designed to tackle the finer details that robot vacuums might miss, such as corners, edges, steep stairs, and entryways. This price drop not only allows more consumers to experience Dyson's high-quality products but may also increase competition in the vacuum market, prompting other brands to offer more attractive products and promotions."
         },
         {
           "rank": 7,
-          "title": "The Download: brainless human clones and the first uterus kept alive outside a body",
-          "link": "https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/",
-          "source": "MIT Technology Review",
-          "published_utc": "2026-03-30 12:10 UTC",
-          "analysis_zh": "加利福尼亚的一家初创公司R3 Bio最近突然披露，他们已筹集资金以创造无意识的猴子“器官袋”。这一消息引发了广泛关注，因为它涉及到人类克隆技术的伦理和科学界限。无意识的克隆体可能在医学研究中提供新的机会，但也引发了对生命定义和道德责任的深刻讨论。这项技术的进展可能会影响未来的生物医学研究和相关法律法规。",
-          "analysis_en": "A California-based startup, R3 Bio, recently revealed that it has raised funds to create nonsentient monkey \"organ sacks.\" This announcement has sparked significant interest as it touches on the ethical and scientific boundaries of human cloning technology. The use of nonsentient clones could offer new opportunities in medical research, but it also raises profound questions about the definition of life and moral responsibility. The advancements in this technology may impact future biomedical research and related legal regulations."
+          "title": "A new manufacturing process uses lasers to seal paper packaging instead of glue",
+          "link": "https://www.theverge.com/tech/903280/papure-project-fraunhofer-institute-laser-paper-packaging-recycling",
+          "source": "The Verge",
+          "published_utc": "2026-03-30 16:01 UTC",
+          "analysis_zh": "德国的研究人员在四个弗劳恩霍夫研究所开发了一种新工艺，利用激光代替胶水密封纸质包装。这一创新的重要性在于，纸质包装比塑料更环保，但传统的胶水会污染纸张，影响其回收质量。通过这种新方法，纸包装的回收过程将变得更加高效，可能会推动可持续包装材料的广泛应用。",
+          "analysis_en": "German researchers at four Fraunhofer institutes have developed a new process that uses lasers to seal paper packaging instead of glue. This innovation is significant because paper packaging is more environmentally friendly than plastic, but traditional adhesives can contaminate the paper, affecting its recycling quality. By implementing this new method, the recycling process for paper packaging could become more efficient, potentially leading to a wider adoption of sustainable packaging materials."
         },
         {
           "rank": 8,
-          "title": "Apple II Forever!",
-          "link": "https://www.theverge.com/tech/900677/apple-ii-personal-computer",
-          "source": "The Verge",
-          "published_utc": "2026-03-30 12:00 UTC",
-          "analysis_zh": "苹果公司在庆祝成立50周年之际，回顾了其首款成功产品——Apple II的重要性。这款个人电脑不仅奠定了苹果的基础，还培养了忠实的用户群体，使得苹果在科技行业中脱颖而出。Apple II的成功标志着个人计算机的新时代，它的影响至今仍在持续，推动了后续技术的发展。了解Apple II的历史，有助于我们更好地理解苹果今天的成就及其在科技领域的地位。",
-          "analysis_en": "As Apple celebrates its 50th anniversary, it reflects on the significance of its first successful product, the Apple II. This personal computer not only laid the groundwork for Apple's future but also fostered a loyal user base, helping the company stand out in the tech industry. The success of the Apple II marked the dawn of a new era in personal computing, and its influence continues to resonate today, driving the evolution of subsequent technologies. Understanding the history of the Apple II helps us appreciate Apple's current achievements and its position in the tech landscape."
+          "title": "There are more AI health tools than ever—but how well do they work?",
+          "link": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
+          "source": "MIT Technology Review",
+          "published_utc": "2026-03-30 16:00 UTC",
+          "analysis_zh": "本月初，微软推出了Copilot Health，这是其Copilot应用中的一个新功能，用户可以在这里连接自己的医疗记录并询问健康相关的问题。几天前，亚马逊也宣布了Health AI，这是一款基于大型语言模型的工具，之前仅限于其One Medical服务的会员使用。随着这些新工具的推出，AI在医疗领域的应用正在迅速增加，这不仅为用户提供了更便捷的健康管理方式，也引发了对这些工具有效性和安全性的讨论。未来，这些技术可能会改变人们获取医疗信息的方式，并影响医疗服务的提供。",
+          "analysis_en": "Earlier this month, Microsoft launched Copilot Health, a new feature within its Copilot app that allows users to connect their medical records and ask health-related questions. Just days prior, Amazon announced Health AI, a tool based on a large language model that was previously available only to members of its One Medical service. The rapid increase in AI tools in the healthcare sector offers users more convenient ways to manage their health, but it also raises discussions about the effectiveness and safety of these tools. In the future, these technologies could transform how people access medical information and impact the delivery of healthcare services."
         },
         {
           "rank": 9,
-          "title": "KitchenAid redesigned its iconic mixer so you can set an exact speed",
-          "link": "https://www.theverge.com/tech/901470/kitchenaid-artisan-plus-tilting-stand-mixer-speed-control-light",
+          "title": "The latest Pixel 11 leak shows slimmer bezels and an all-black camera bar",
+          "link": "https://www.theverge.com/tech/903381/google-pixel-11-leak-bezels-camera-bar",
           "source": "The Verge",
-          "published_utc": "2026-03-30 12:00 UTC",
-          "analysis_zh": "KitchenAid 最近推出了其全新的 Artisan Plus 立式搅拌机，称这是自 1955 年以来对该设备的最大升级。新款搅拌机增加了一个半速设置，允许用户更精确地折叠和混合食材，如蛋白和浆果。此外，重新设计的控制杆可以让用户在 11 个预设速度之间精确选择。这一改进不仅提升了使用体验，也可能吸引更多追求高品质烘焙的消费者。",
-          "analysis_en": "KitchenAid has recently launched its new Artisan Plus Stand Mixer, claiming it to be the biggest upgrade since 1955. The new mixer introduces an additional half-speed setting, allowing users to more precisely fold and incorporate ingredients like egg whites and berries. Additionally, the redesigned control lever enables users to select an exact speed between its 11 presets. This improvement not only enhances the user experience but may also attract more consumers who seek high-quality baking tools."
+          "published_utc": "2026-03-30 15:52 UTC",
+          "analysis_zh": "谷歌Pixel 11的发布还有几个月，但最近泄露的渲染图显示该手机可能会有更窄的边框和全黑的后置相机条。这一变化可能会吸引消费者的注意，因为手机设计的美观性在市场竞争中越来越重要。此外，Pixel 11预计将配备更强大的处理器和显示屏，这可能会提升其整体性能和用户体验。随着技术的不断进步，Pixel 11的这些改进可能会影响用户的购买决策，进一步推动谷歌在智能手机市场的竞争力。",
+          "analysis_en": "The launch of the Google Pixel 11 is still months away, but recent leaked renders suggest that the phone may feature slimmer bezels and an all-black rear camera bar. This change could attract consumer interest, as the aesthetics of smartphone design are becoming increasingly important in the competitive market. Additionally, the Pixel 11 is expected to come with a more powerful processor and display, which may enhance its overall performance and user experience. As technology continues to advance, these improvements in the Pixel 11 could influence users' purchasing decisions and further strengthen Google's competitiveness in the smartphone market."
         },
         {
           "rank": 10,
-          "title": "These retractable studded tires might save our roads, ears, and lungs",
-          "link": "https://www.theverge.com/transportation/902561/nokian-hakkapeliitta-tire-retract-stud-winter",
-          "source": "The Verge",
-          "published_utc": "2026-03-30 11:30 UTC",
-          "analysis_zh": "芬兰公司诺基亚（Nokian）推出了一款新型的可收回钉子雪地轮胎Hakkapeliitta 01。这种轮胎在不需要时可以将钉子收回，从而减少对道路的损害和噪音污染，同时也有助于保护人们的呼吸健康。传统的钉子轮胎在冬季驾驶时提供了极好的抓地力，但它们的噪音和对环境的影响一直是一个问题。这种新轮胎的推出不仅可能改善冬季驾驶体验，还可能对城市环境和居民的生活质量产生积极影响。",
-          "analysis_en": "Finnish company Nokian has introduced a new type of retractable studded snow tire, the Hakkapeliitta 01. This innovative tire can retract its studs when not needed, reducing road damage and noise pollution, while also helping to protect respiratory health. Traditional studded tires provide excellent traction for winter driving, but their noise and environmental impact have been ongoing concerns. The introduction of this new tire could not only enhance the winter driving experience but also positively affect urban environments and the quality of life for residents."
+          "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
+          "link": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
+          "source": "MIT Technology Review",
+          "published_utc": "2026-03-30 15:42 UTC",
+          "analysis_zh": "上周四，加州一名法官暂时阻止了五角大楼将Anthropic标记为供应链风险，并下令政府机构停止使用其人工智能。这一裁决是五角大楼与Anthropic之间文化战争的最新进展，显示出政府在对待新兴科技公司时面临的挑战。这一事件不仅影响了Anthropic的业务运营，还可能对其他科技公司与政府的合作关系产生深远影响。",
+          "analysis_en": "Last Thursday, a California judge temporarily blocked the Pentagon from labeling Anthropic as a supply chain risk and ordered government agencies to stop using its AI. This ruling represents the latest development in the ongoing cultural conflict between the Pentagon and Anthropic, highlighting the challenges the government faces in dealing with emerging tech companies. This event not only affects Anthropic's business operations but could also have significant implications for the relationships between other tech companies and the government."
         }
       ]
     },
@@ -299,93 +290,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "With Mario and Minecraft, Hollywood Courts Gamers",
-          "link": "https://www.nytimes.com/2026/03/30/movies/mario-minecraft-video-games.html",
+          "title": "Mary Beth Hurt, Actress Acclaimed in ‘Interiors’ and ‘Garp,’ Dies at 79",
+          "link": "https://www.nytimes.com/2026/03/30/movies/mary-beth-hurt-actress-dead.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-03-30 14:28 UTC",
-          "analysis_zh": "《超级马里奥兄弟》和《我的世界》电影取得了巨大的成功，吸引了大量观众。好莱坞正在积极开发《使命召唤》和《塞尔达传说》等游戏改编电影，以迎合这一庞大的游戏迷市场。这一趋势不仅表明了游戏文化在主流娱乐中的重要性，也可能改变未来电影的制作和营销策略。随着游戏改编电影的兴起，粉丝们的期待和参与度也将显著增加。",
-          "analysis_en": "The movies based on \"Super Mario Bros.\" and \"Minecraft\" have achieved significant success, drawing large audiences. Hollywood is actively developing adaptations of games like \"Call of Duty\" and \"The Legend of Zelda\" to cater to this massive gamer market. This trend highlights the growing importance of gaming culture in mainstream entertainment and may alter future film production and marketing strategies. As game adaptations rise, fan expectations and engagement are likely to increase significantly."
+          "published_utc": "2026-03-30 21:22 UTC",
+          "analysis_zh": "玛丽·贝丝·赫特，这位因在《室内》和《加普的故事》中备受赞誉的女演员，近日去世，享年79岁。她以敏锐的洞察力和即兴表演的技巧提升了电影中的配角角色，同时也在百老汇获得了托尼奖提名。赫特的离世不仅是电影和戏剧界的损失，也让人们重新审视她对表演艺术的贡献和影响。",
+          "analysis_en": "Mary Beth Hurt, the acclaimed actress known for her roles in \"Interiors\" and \"The World According to Garp,\" has passed away at the age of 79. She brought depth and improvisational skill to supporting roles in films and earned Tony nominations for her work on Broadway. Her passing is a significant loss for both the film and theater communities, prompting a reevaluation of her contributions and influence on the performing arts."
         },
         {
           "rank": 2,
-          "title": "For a High Priestess of Extreme Theater, Death Is Gentler Than Life",
-          "link": "https://www.nytimes.com/2026/03/30/theater/angelica-liddell-trilogy-of-funerals.html",
+          "title": "Renoir, Cézanne and Matisse Paintings Are Stolen in 3-Minute Museum Heist, Police Say",
+          "link": "https://www.nytimes.com/2026/03/30/world/europe/parma-art-heist-renoir-matisse-cezanne-italy.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-03-30 14:28 UTC",
-          "analysis_zh": "西班牙艺术家安赫莉卡·利德尔在她的《葬礼三部曲》中展现了与以往不同的脆弱感，这让长期关注她作品的观众感到意外。这一系列作品探讨了死亡与生活之间的关系，挑战了观众对极端戏剧的传统理解。这不仅引发了对死亡主题的深刻思考，也可能影响未来戏剧创作的方向，鼓励更多艺术家在作品中表达脆弱与真实的情感。",
-          "analysis_en": "Spanish artist Angélica Liddell reveals a surprising sense of vulnerability in her \"Trilogy of Funerals,\" which contrasts with her previous works. This series explores the relationship between death and life, challenging traditional perceptions of extreme theater. It not only provokes deep reflections on the theme of death but may also influence the direction of future theatrical creations, encouraging more artists to express vulnerability and authenticity in their work."
+          "published_utc": "2026-03-30 20:43 UTC",
+          "analysis_zh": "意大利帕尔马附近的马尼亚尼-罗卡基金会发生了一起博物馆盗窃案，窃贼在短短三分钟内盗走了价值数百万的画作。此次事件引发了人们对艺术品安全的广泛关注，尤其是在博物馆和艺术机构的保护措施方面。此类盗窃不仅损害了文化遗产，也可能影响到艺术市场的稳定性和公众对艺术品的信任。",
+          "analysis_en": "A museum heist occurred at the Magnani-Rocca Foundation near Parma, Italy, where thieves stole paintings worth millions in just three minutes. This incident has raised significant concerns about the security of artworks, particularly regarding the protective measures in place at museums and art institutions. Such thefts not only damage cultural heritage but may also impact the stability of the art market and public trust in art collections."
         },
         {
           "rank": 3,
-          "title": "gaetano pesce’s radical vision for colorful offices on view at pulp galerie in paris",
-          "link": "https://www.designboom.com/design/pulp-galerie-revives-radical-1990s-chiat-day-office-furniture-gaetano-pesce-paris/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-03-30 14:00 UTC",
-          "analysis_zh": "意大利设计师盖塔诺·佩舍（Gaetano Pesce）在巴黎的Pulp Galerie展出了他对色彩丰富的办公室的激进构想。这一展览重现了他在1990年代为纽约的Chiat/Day项目所设计的办公室空间，展示了佩舍对工作环境的独特视角。此展览不仅是对佩舍经典作品的致敬，也引发了对现代办公空间设计的思考，可能会影响未来办公环境的色彩和布局选择。",
-          "analysis_en": "Italian designer Gaetano Pesce is showcasing his radical vision for colorful offices at Pulp Galerie in Paris. The exhibition reconstructs his iconic office space designed for the Chiat/Day project in New York during the 1990s, highlighting Pesce's unique perspective on work environments. This exhibition serves as a tribute to Pesce's classic works and prompts a reevaluation of modern office design, potentially influencing future choices in color and layout for workspaces."
+          "title": "White House ballroom to act as \"shed\" over planned military bunker says Trump",
+          "link": "https://www.dezeen.com/2026/03/30/white-house-ballroom-shed-military-bunker-trump-dc/",
+          "source": "Dezeen",
+          "published_utc": "2026-03-30 20:20 UTC",
+          "analysis_zh": "美国总统特朗普在空军一号上展示了白宫舞厅扩建项目的新设计图，称该舞厅将部分用作掩盖地下军事掩体。此次扩建的听证会定于周四举行，这一计划引发了公众的关注。特朗普的提议不仅涉及建筑设计，还可能影响到国家安全和公众对政府透明度的看法。",
+          "analysis_en": "President Trump presented updated renderings of the White House ballroom expansion project during a press briefing on Air Force One, stating that the ballroom will partially serve to cover a military bunker underneath. The approval hearing for this expansion is scheduled for Thursday, drawing public attention to the proposal. Trump's plan not only involves architectural design but may also impact national security and public perceptions of government transparency."
         },
         {
           "rank": 4,
-          "title": "‘Death of a Salesman’ on Broadway Has Help From Something Old",
-          "link": "https://www.nytimes.com/2026/03/30/theater/death-salesman-broadway-lane-metcalf.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-03-30 14:00 UTC",
-          "analysis_zh": "百老汇经典剧作《推销员之死》的复兴由乔·曼泰洛执导，主演是内森·雷恩和劳里·梅塔卡夫。这次复兴受到了亚瑟·米勒的一份草稿及其笔记的启发。这一举措不仅为经典作品注入了新的活力，也引发了观众对剧作深层主题的重新思考。这样的复兴可能会影响未来的剧作创作，鼓励更多艺术家探索经典作品的现代解读。",
-          "analysis_en": "The Broadway revival of the classic play \"Death of a Salesman,\" directed by Joe Mantello and starring Nathan Lane and Laurie Metcalf, draws inspiration from a draft with notes by Arthur Miller. This revival not only breathes new life into the classic but also prompts audiences to reconsider the deeper themes of the play. Such a revival could influence future theatrical productions, encouraging more artists to explore modern interpretations of classic works."
+          "title": "Artist and Filmmaker Steve McQueen Wins $172,000 Erasmus Prize",
+          "link": "https://www.artnews.com/art-news/news/steve-mcqueen-wins-172-thousand-dollar-erasmus-prize-1234779416/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-03-30 20:07 UTC",
+          "analysis_zh": "艺术家兼电影制作人史蒂夫·麦昆（Steve McQueen）获得了172,000美元的埃拉斯谟奖（Erasmus Prize）。今年的奖项主题是“看啊，人类”（Ecce Homo, Behold the Human Being），强调了人性的重要性。麦昆的作品在探讨身份、历史和社会问题方面具有深远的影响，这一奖项不仅是对他艺术成就的认可，也引发了人们对人类存在和社会责任的思考。此奖项的颁发可能会激励更多艺术家关注人性主题，并推动相关艺术创作的发展。",
+          "analysis_en": "Artist and filmmaker Steve McQueen has been awarded the $172,000 Erasmus Prize. This year's theme, \"Ecce Homo, Behold the Human Being,\" emphasizes the importance of humanity. McQueen's work profoundly explores issues of identity, history, and social concerns, and this award not only recognizes his artistic achievements but also prompts reflection on human existence and social responsibility. The awarding of this prize may inspire more artists to focus on themes of humanity and encourage the development of related artistic creations."
         },
         {
           "rank": 5,
-          "title": "Secret Trial of Artist Gao Zhen Begins in China, Trump’s Design for White House Ballroom Critiqued, and More: Morning Links for March 30, 2026",
-          "link": "https://www.artnews.com/art-news/news/gao-zhen-trial-china-trump-ballroom-morning-links-1234779269/",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-03-30 13:26 UTC",
-          "analysis_zh": "中国艺术家高震的秘密审判近日开始，这一事件引发了广泛关注。此案不仅涉及艺术创作的自由，也反映了当今中国社会对言论和表达的压制。高震的审判可能会对其他艺术家和创作者产生深远影响，进一步限制他们的创作空间和表达权利。",
-          "analysis_en": "The secret trial of Chinese artist Gao Zhen has recently begun, drawing significant attention. This case not only touches on the freedom of artistic expression but also highlights the current societal repression of speech and expression in China. Gao Zhen's trial may have profound implications for other artists and creators, potentially further restricting their creative space and rights to express themselves."
+          "title": "Lexus to present Discover brand vision at Milan design week",
+          "link": "https://www.dezeen.com/2026/03/30/lexus-discover-flagship-milan-design-week/",
+          "source": "Dezeen",
+          "published_utc": "2026-03-30 20:00 UTC",
+          "analysis_zh": "雷克萨斯将在米兰设计周上展示其“Discover”品牌愿景，强调其在奢华出行领域的未来创新。自品牌创立以来，雷克萨斯一直在挑战传统，重新定义奢华出行的标准。这次展览不仅展示了雷克萨斯对未来的展望，也可能影响消费者对奢华汽车的认知，进一步推动行业的创新和发展。",
+          "analysis_en": "Lexus will present its \"Discover\" brand vision at Milan Design Week, highlighting its future innovations in luxury mobility. Since its inception, Lexus has challenged conventions and redefined the standards of luxury transportation. This exhibition not only showcases Lexus's vision for the future but may also influence consumer perceptions of luxury vehicles, potentially driving further innovation and development in the industry."
         },
         {
           "rank": 6,
-          "title": "Giant Golden Toilet Sculpture Appears Near Lincoln Memorial in D.C.: ‘A Throne Fit for a King’",
-          "link": "https://www.artnews.com/art-news/news/golden-toilet-sculpture-dc-trump-lincoln-bedroom-bathroom-1234779264/",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-03-30 13:24 UTC",
-          "analysis_zh": "在华盛顿特区林肯纪念堂附近，一座巨大的金色马桶雕塑引起了公众的关注。这座雕塑被称为“适合国王的宝座”，其设计灵感来源于特朗普对林肯卧室浴室的争议性翻新。这一事件不仅引发了对艺术与政治之间关系的讨论，也可能影响人们对特朗普及其政策的看法，尤其是在即将到来的选举中。",
-          "analysis_en": "A giant golden toilet sculpture has appeared near the Lincoln Memorial in Washington, D.C., drawing significant public attention. Dubbed \"A Throne Fit for a King,\" the sculpture references Donald Trump's controversial renovation of the Lincoln Bedroom's bathroom. This incident sparks discussions about the relationship between art and politics and may influence public perceptions of Trump and his policies, especially with upcoming elections on the horizon."
+          "title": "Celine Dion Announces Comeback Concerts in Paris",
+          "link": "https://www.nytimes.com/2026/03/30/arts/music/celine-dion-paris-concerts.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-03-30 19:42 UTC",
+          "analysis_zh": "席琳·迪翁在2022年被诊断出患有僵人综合症后，鲜少进行演出，但她近日宣布将在巴黎举行复出演唱会，计划从九月份开始进行十场演出。这一消息对她的粉丝来说无疑是个好消息，标志着她在健康恢复方面取得了积极进展。复出演唱会不仅可能提升她的职业生涯，也可能为她的音乐事业注入新的活力。",
+          "analysis_en": "Celine Dion, who has rarely performed since her diagnosis of stiff person syndrome in 2022, recently announced her comeback concerts in Paris, set to begin in September with ten shows. This news is undoubtedly exciting for her fans, indicating that she has made positive strides in her health recovery. The comeback concerts could not only enhance her career but also reinvigorate her musical journey."
         },
         {
           "rank": 7,
-          "title": "raúl sánchez inserts stainless steel layer into a 19th century pirate house in spain",
-          "link": "https://www.designboom.com/architecture/raul-sanchez-stainless-steel-layer-19th-century-pirate-house-spain/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-03-30 13:00 UTC",
-          "analysis_zh": "西班牙建筑师劳尔·桑切斯在一座19世纪的海盗房屋中加入了不锈钢层，重新组织了历史内部空间。这一设计不仅保留了原有的天花板、壁纸和时间的痕迹，还通过不锈钢基座的引入，赋予了空间现代感。这项改造的重要性在于它展示了如何在保护历史遗产的同时，融入现代设计元素，可能会影响未来的建筑改造项目。",
-          "analysis_en": "Spanish architect Raúl Sánchez has inserted a stainless steel layer into a 19th-century pirate house, reorganizing the historic interiors. This design preserves the original ceilings, wallpapers, and traces of time while introducing a modern touch through the steel plinth. The significance of this renovation lies in its demonstration of how to integrate contemporary design elements while preserving historical heritage, which may influence future renovation projects."
+          "title": "Scholar Attributes Long-Suspected ‘Workshop Copy’ Painting to Rembrandt",
+          "link": "https://www.artnews.com/art-news/news/rembrandt-attribution-art-institute-chicago-1234779406/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-03-30 19:37 UTC",
+          "analysis_zh": "一位学者最近将一幅被认为是“工作室复制品”的画作归于伦勃朗。这幅画作原本被认为是芝加哥艺术学院的一件复制品，但经过研究后，学者加里·施瓦茨认为它实际上是伦勃朗的原创作品。这一发现不仅改变了我们对这幅画的理解，也可能影响到伦勃朗作品的市场价值和艺术界对其创作风格的认知。",
+          "analysis_en": "A scholar has recently attributed a painting long thought to be a \"workshop copy\" to Rembrandt. Originally considered a replica at the Art Institute of Chicago, Gary Schwartz's research suggests that it is actually an original work by Rembrandt. This finding not only alters our understanding of the painting but may also impact the market value of Rembrandt's works and the art community's perception of his creative style."
         },
         {
           "rank": 8,
-          "title": "Symphony Space to Undergo a $45 Million Makeover",
-          "link": "https://www.nytimes.com/2026/03/30/arts/music/symphony-space-renovation-bloomsday.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-03-30 13:00 UTC",
-          "analysis_zh": "位于上西区的表演艺术场所Symphony Space将进行4500万美元的改造，预计持续15个月。在此期间，该场所将暂停运营，但计划在全市范围内开展节目活动。这一改造不仅将提升场馆设施，还将吸引更多观众，增强社区文化生活。此举可能会对当地艺术生态产生积极影响，推动更多艺术活动的开展。",
-          "analysis_en": "Symphony Space, a performing arts venue in the Upper West Side, is set to undergo a $45 million renovation that will last for 15 months. During this time, the venue will close its doors but plans to take its programming throughout the city. This renovation aims to enhance the facilities and attract a larger audience, thereby enriching the cultural life of the community. Such changes could positively impact the local arts scene, encouraging more artistic activities in the area."
+          "title": "Picasso’s ‘Guernica’ Could Leave Madrid for the First Time in Over 30 Years",
+          "link": "https://www.artnews.com/art-news/news/picasso-guernica-madrid-loan-guggenheim-bilbao-1234779405/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-03-30 19:35 UTC",
+          "analysis_zh": "毕加索的《格尔尼卡》可能会在超过30年的时间里首次离开马德里，如果这一提议获得批准。这幅画自1992年在索非亚王后博物馆展出以来，就一直留在该馆。这一事件的重要性在于，《格尔尼卡》不仅是毕加索最著名的作品之一，也是反战艺术的象征。它的离开可能会影响到马德里及其博物馆的文化地位，同时也可能引发关于艺术品流动性和保护的广泛讨论。",
+          "analysis_en": "Picasso's \"Guernica\" could leave Madrid for the first time in over 30 years if the proposal is approved. The painting has been housed at the Museo Reina Sofía since 1992. This event is significant because \"Guernica\" is not only one of Picasso's most famous works but also a symbol of anti-war art. Its departure could impact Madrid's cultural standing and may spark broader discussions about the mobility and preservation of artworks."
         },
         {
           "rank": 9,
-          "title": "In Her Broadway Debut, Mariska Hargitay Will Replace Daniel Radcliffe in ‘Every Brilliant Thing’",
-          "link": "https://www.nytimes.com/2026/03/30/theater/mariska-hargitay-daniel-radcliffe-every-brilliant-thing.html",
+          "title": "Symphony Space to Undergo a $45 Million Makeover",
+          "link": "https://www.nytimes.com/2026/03/30/arts/music/symphony-space-renovation-bloomsday.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-03-30 13:00 UTC",
-          "analysis_zh": "玛丽斯卡·哈吉塔将在5月首次登上百老汇舞台，接替丹尼尔·雷德克里夫出演《每一个精彩的东西》。这一变化不仅标志着她的百老汇首秀，也显示了该剧的灵活性，能够适应不同演员的风格。这部戏的主题围绕生活中的美好事物，哈吉塔的加入可能会为观众带来新的视角和体验。此举也可能吸引更多的观众，提升该剧的知名度和票房。",
-          "analysis_en": "Mariska Hargitay will make her Broadway debut in May, stepping in for Daniel Radcliffe in \"Every Brilliant Thing.\" This change not only marks her first appearance on Broadway but also highlights the play's adaptability to different stars. The play focuses on the beautiful aspects of life, and Hargitay's involvement may offer audiences a fresh perspective and experience. This move could also attract a larger audience, enhancing the play's visibility and box office success."
+          "published_utc": "2026-03-30 19:27 UTC",
+          "analysis_zh": "位于上西区的表演艺术场所Symphony Space将进行4500万美元的改造，预计将持续15个月。在此期间，该场所将暂停运营，但其节目将扩展到全市其他地方。这次改造不仅将提升场地设施，还可能吸引更多观众，增强社区的文化活力。这一变化对于当地艺术生态系统至关重要，可能会影响到未来的艺术活动和表演安排。",
+          "analysis_en": "The Upper West Side performing arts venue, Symphony Space, is set to undergo a $45 million renovation that will last for 15 months. During this time, the venue will close its doors but will take its programming to various locations across the city. This renovation aims to enhance the facilities and could potentially attract a larger audience, thereby enriching the cultural vitality of the community. This change is significant for the local arts ecosystem and may impact future artistic events and performance schedules."
         },
         {
           "rank": 10,
-          "title": "Soleva outdoor furniture by Vincent Van Duysen for Molteni&C",
-          "link": "https://www.dezeen.com/2026/03/30/soleva-outdoor-furniture-vincent-van-duysen-molteni-dezeen-showroom/",
-          "source": "Dezeen",
-          "published_utc": "2026-03-30 13:00 UTC",
-          "analysis_zh": "意大利品牌Molteni&C推出了一款新的户外家具系列，名为Soleva，由创意总监Vincent Van Duysen设计。该系列包括扶手椅、沙发、凳子、桌子和躺椅，所有家具都采用了粉末涂层的铝管结构，展现出自信的线条和建筑感。这一系列的推出不仅丰富了户外家具的选择，也反映了现代设计对材料和形式的创新探索，可能会影响未来户外家具的设计趋势。",
-          "analysis_en": "Italian brand Molteni&C has launched a new outdoor furniture collection called Soleva, designed by creative director Vincent Van Duysen. The collection features an armchair, sofa, stool, table, and sun lounger, all made from powder-coated tubular aluminum, showcasing confident lines and an architectural feel. This launch not only expands the options available in outdoor furniture but also reflects innovative explorations in materials and forms in modern design, which may influence future trends in outdoor furniture design."
+          "title": "Agosto Machado Is Dead; Artist Memorialized New York’s Avant-Garde",
+          "link": "https://www.nytimes.com/2026/03/30/arts/design/agosto-machado-dead.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-03-30 19:02 UTC",
+          "analysis_zh": "艺术家阿戈斯托·马查多去世，他以纪念纽约前卫艺术界的朋友和同事而闻名。作为一位实验剧场的资深人士，他收集了许多朋友的遗物，并在他们去世后为他们建立了纪念 shrine。这一事件不仅让人们重新审视马查多的艺术贡献，也引发了对如何纪念艺术家及其作品的讨论。马查多的离世可能会影响纽约艺术界对实验艺术的关注和支持。",
+          "analysis_en": "Artist Agosto Machado has passed away, known for memorializing his friends and colleagues in New York's avant-garde scene. As a veteran of experimental theater, he collected mementos of his friends and created shrines in their honor after they died. This event prompts a reevaluation of Machado's artistic contributions and sparks discussions on how to commemorate artists and their work. His death may impact the attention and support for experimental art within the New York art community."
         }
       ]
     }
