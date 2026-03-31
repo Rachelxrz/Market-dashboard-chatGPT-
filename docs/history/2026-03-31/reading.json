@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-31 15:09:16 UTC",
-  "generated_at_unix": 1774969756,
+  "generated_at": "2026-03-31 21:10:23 UTC",
+  "generated_at_unix": 1774991423,
   "window": {
-    "from_utc": "2026-03-30 15:09:16 UTC",
-    "to_utc": "2026-03-31 15:09:16 UTC",
+    "from_utc": "2026-03-30 21:10:23 UTC",
+    "to_utc": "2026-03-31 21:10:23 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,93 +14,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "‘I was shoveling sidewalks at 8 years old’: I’m a 73-year-old boomer dad with two kids. Here’s what I teach them about finance",
-          "link": "https://www.marketwatch.com/story/i-was-shoveling-sidewalks-at-8-years-old-im-a-73-year-old-boomer-dad-with-two-kids-heres-what-i-teach-them-about-finance-339e1295?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-03-31 15:01 UTC",
-          "analysis_zh": "这篇文章讲述了一位73岁的父亲如何教育他的两个孩子关于财务和投资的知识。他回忆起自己在8岁时就开始铲雪赚钱的经历，强调了自己在缺乏父母指导的情况下，如何与朋友们一起摸索出财务管理的技巧。这一话题的重要性在于，许多年轻人依然面临着缺乏金融教育的问题，而父母的经验可以为他们提供宝贵的指导。通过分享自己的经历，这位父亲希望能够帮助孩子们更好地理解投资的重要性，从而为他们的未来打下坚实的基础。",
-          "analysis_en": "This article discusses how a 73-year-old father teaches his two children about finance and investing. He recalls shoveling sidewalks at the age of eight to earn money, highlighting how he and his friends had to figure out financial management on their own due to their parents' lack of knowledge. This topic is significant because many young people still face a lack of financial education, and parental experiences can offer valuable guidance. By sharing his own journey, the father aims to help his children better understand the importance of investing, laying a strong foundation for their future."
+          "title": "OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO",
+          "link": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-03-31 21:08 UTC",
+          "analysis_zh": "OpenAI最近完成了一轮创纪录的融资，总额达到1220亿美元，超出了之前宣布的1100亿美元。这一巨额资金的到来不仅显示了市场对人工智能技术的强烈信心，也为OpenAI即将进行的首次公开募股（IPO）奠定了坚实的基础。这一融资可能会加速OpenAI在技术研发和市场扩展方面的步伐，同时也可能引发更多投资者对人工智能领域的关注和投入。",
+          "analysis_en": "OpenAI recently closed a record-breaking funding round totaling $122 billion, surpassing the previously announced figure of $110 billion. This substantial influx of capital not only reflects strong market confidence in artificial intelligence technology but also lays a solid foundation for OpenAI's upcoming initial public offering (IPO). This funding may accelerate OpenAI's efforts in technology development and market expansion, while also attracting more investors' attention and investment in the artificial intelligence sector."
         },
         {
           "rank": 2,
-          "title": "Has Salesforce split its stock? CRM's stock split history explained",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-split-stock-crms-stock-145900606.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-31 14:59 UTC",
-          "analysis_zh": "Salesforce最近进行了股票拆分，这一举措旨在提高股票的流动性并吸引更多投资者。股票拆分通常会使每股价格降低，从而使更多小投资者能够参与。此举可能会提升Salesforce的市场表现，并增强其在竞争激烈的科技行业中的吸引力。随着公司继续扩展其产品和服务，投资者对其未来增长的信心也可能会增强。",
-          "analysis_en": "Salesforce recently executed a stock split, aiming to increase liquidity and attract more investors. A stock split typically lowers the price per share, making it more accessible for smaller investors to participate. This move could enhance Salesforce's market performance and strengthen its appeal in the competitive tech industry. As the company continues to expand its products and services, investor confidence in its future growth may also increase."
+          "title": "$4 gas could drive more employers to let people work from home",
+          "link": "https://www.marketwatch.com/story/4-gas-could-drive-more-employers-to-let-people-work-from-home-b8362229?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-03-31 21:08 UTC",
+          "analysis_zh": "随着汽油价格飙升至每加仑4美元，越来越多的雇主可能会考虑让员工在家工作。这一变化不仅反映了高油价对家庭经济的压力，也可能改变未来的工作模式。经济学家指出，面对如此高昂的油价，企业在灵活工作安排上将更加宽容。这种趋势可能会导致远程工作的普及，从而影响城市的交通和住房市场。",
+          "analysis_en": "As gas prices soar to $4 per gallon, more employers may consider allowing employees to work from home. This shift not only reflects the financial strain high fuel costs place on households but could also alter future work patterns. An economist notes that, in light of such high gas prices, companies will be more lenient with flexible work arrangements. This trend may lead to an increase in remote work, which could impact urban traffic and the housing market."
         },
         {
           "rank": 3,
-          "title": "TC Group completes merger with Thames Valley firm Stiles & Co",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/tc-group-completes-merger-thames-145646085.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-31 14:56 UTC",
-          "analysis_zh": "TC集团与泰晤士河谷的Stiles & Co完成了合并。这一举措将增强TC集团在投资领域的市场地位，并可能为其客户提供更广泛的服务。合并后，TC集团预计将实现更高的运营效率和资源整合，从而提升整体竞争力。这一变化不仅对两家公司至关重要，也可能对整个投资行业产生深远影响。",
-          "analysis_en": "TC Group has completed its merger with Thames Valley firm Stiles & Co. This move is set to strengthen TC Group's market position in the investment sector and may provide its clients with a broader range of services. Following the merger, TC Group anticipates achieving greater operational efficiency and resource integration, enhancing its overall competitiveness. This change is significant not only for the two companies involved but may also have far-reaching implications for the entire investment industry."
+          "title": "White House says Trump to sign executive order limiting mail-in voting",
+          "link": "https://www.cnbc.com/2026/03/31/trump-mail-in-voting-executive-order.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-03-31 21:07 UTC",
+          "analysis_zh": "白宫宣布特朗普将签署一项行政命令，限制邮寄投票的方式。这一决定引发了广泛关注，因为邮寄投票在疫情期间成为许多选民的重要投票方式。限制邮寄投票可能会影响到选民的投票便利性，尤其是在偏远地区或行动不便的选民中。此举可能会在即将到来的选举中引发争议，并对选民的投票率产生影响。",
+          "analysis_en": "The White House announced that Trump will sign an executive order to limit mail-in voting. This decision has drawn significant attention, as mail-in voting became a crucial method for many voters during the pandemic. Restrictions on mail-in voting may affect voter accessibility, particularly for those in remote areas or individuals with mobility issues. This move could spark controversy in the upcoming elections and impact voter turnout."
         },
         {
           "rank": 4,
-          "title": "Pension funds could ride to the stock market’s rescue as retail investors step back",
-          "link": "https://www.marketwatch.com/story/pension-funds-could-ride-to-the-stock-markets-rescue-as-retail-investors-step-back-545b02d6?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-03-31 14:52 UTC",
-          "analysis_zh": "周二是全球金融市场经历动荡季度的最后一天。随着零售投资者的退却，养老金基金可能会成为股市的救星。这一变化的重要性在于，养老金基金的资金流入可能会稳定市场，缓解投资者的恐慌情绪。如果养老金基金积极参与，可能会促进股市的复苏，影响未来的投资趋势。",
-          "analysis_en": "Tuesday marks the final day of a tumultuous quarter for global financial markets. As retail investors step back, pension funds could emerge as a potential savior for the stock market. This shift is significant because the influx of capital from pension funds may stabilize the market and alleviate investor panic. If pension funds actively participate, it could foster a recovery in the stock market and influence future investment trends."
+          "title": "Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle'",
+          "link": "https://www.cnbc.com/2026/03/31/microsofts-stock-closes-worst-quarter-since-2008-financial-crisis.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-03-31 21:03 UTC",
+          "analysis_zh": "微软在华尔街经历了自2008年以来最糟糕的一个季度，股价几乎下跌了四分之一。由于对人工智能的担忧，投资者将公司的盈利倍数重置到2022年底以来的最低水平。这一现象不仅反映了市场对微软未来增长的信心不足，还可能影响到其他科技公司的股价走势，尤其是在AI领域的竞争日益激烈的背景下。",
+          "analysis_en": "Microsoft has faced its worst quarter on Wall Street since 2008, with its stock price dropping nearly a quarter. Concerns over artificial intelligence have led investors to reset the company's earnings multiple to the lowest level since late 2022. This situation not only indicates a lack of confidence in Microsoft's future growth but may also impact the stock prices of other tech companies, especially as competition in the AI sector intensifies."
         },
         {
           "rank": 5,
-          "title": "Snowflake’s stock falls as investors weigh a surprise leadership shift",
-          "link": "https://www.marketwatch.com/story/snowflakes-stock-falls-as-investors-weigh-a-surprise-leadership-shift-adb5a2cc?mod=mw_rss_topstories",
+          "title": "Nike’s results were better than expected, but investors still aren’t sold on its turnaround",
+          "link": "https://www.marketwatch.com/story/nikes-results-were-better-than-expected-but-investors-still-arent-sold-on-its-turnaround-ef2d3b70?mod=mw_rss_topstories",
           "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-03-31 14:51 UTC",
-          "analysis_zh": "软件公司Snowflake的首席收入官迈克·甘农因个人原因离职，这一突发的领导层变动引发了投资者的关注。甘农在这一职位上仅任职一年，公司的股价因此下跌。这一变化可能会影响公司的战略方向和市场信心，投资者对未来的业绩表现感到不安。",
-          "analysis_en": "Mike Gannon, the Chief Revenue Officer of the software company Snowflake, has unexpectedly left his position for personal reasons after just one year in the role. This sudden leadership change has caught the attention of investors, leading to a decline in the company's stock price. Such a shift may impact the company's strategic direction and market confidence, leaving investors apprehensive about future performance."
+          "published_utc": "2026-03-31 21:03 UTC",
+          "analysis_zh": "耐克公布的季度业绩略超出华尔街的预期，但投资者似乎对该公司的复苏努力仍持怀疑态度。这一结果表明，尽管公司在财务上有所改善，但市场对其未来增长的信心仍然不足。这可能会影响耐克的股价表现以及其在竞争激烈的运动鞋市场中的地位。",
+          "analysis_en": "Nike reported quarterly results that slightly exceeded Wall Street's expectations, but investors still seem skeptical about the company's turnaround efforts. This outcome indicates that, despite financial improvements, market confidence in future growth remains low. This could affect Nike's stock performance and its position in the highly competitive sneaker market."
         },
         {
           "rank": 6,
-          "title": "Greece stocks higher at close of trade; Athens General Composite up 2.90%",
-          "link": "https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-290-4590916",
-          "source": "Stock Market News",
-          "published_utc": "2026-03-31 14:50 UTC",
-          "analysis_zh": "希腊股市在交易结束时上涨，雅典综合指数上涨了2.90%。这一增长反映了市场对希腊经济复苏的信心，尤其是在旅游和服务业的强劲表现下。股市的上涨不仅有助于提升投资者的信心，也可能吸引更多外资流入，进一步推动经济发展。",
-          "analysis_en": "Greek stocks rose at the close of trading, with the Athens General Composite Index up by 2.90%. This increase reflects market confidence in Greece's economic recovery, particularly due to strong performances in the tourism and service sectors. The rise in the stock market not only boosts investor confidence but may also attract more foreign investment, further driving economic growth."
+          "title": "Nike turnaround timeline still unclear amid uneven recovery in China, North America",
+          "link": "https://www.cnbc.com/2026/03/31/nike-nke-earnings-q3-2026.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-03-31 20:59 UTC",
+          "analysis_zh": "耐克在北美市场的复苏中取得了一些进展，但在中国市场却面临挑战，这使得其整体的转型进程仍不明朗。北美是耐克最大的市场，尽管有增长，但中国市场的疲软抵消了这些积极因素。这一情况不仅影响了耐克的财务表现，也可能对其全球战略产生深远影响，尤其是在如何平衡不同市场的需求和风险方面。",
+          "analysis_en": "Nike has made some progress in North America, its largest market, during its turnaround, but this strength has been offset by weaknesses in China, leaving the overall timeline for recovery unclear. While growth in North America is encouraging, the struggles in China could undermine these gains. This situation not only affects Nike's financial performance but may also have significant implications for its global strategy, particularly in balancing the demands and risks of different markets."
         },
         {
           "rank": 7,
-          "title": "Micron Technology Is Having Its Nvidia Moment. Is It Still a Buy?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-having-nvidia-moment-145000553.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-31 14:50 UTC",
-          "analysis_zh": "美光科技最近的表现引发了市场的广泛关注，许多人将其与英伟达的成功相提并论。美光在存储芯片市场的强劲增长，尤其是在人工智能和数据中心需求激增的背景下，显得尤为重要。这一趋势不仅可能推动美光的股价上涨，还可能影响整个半导体行业的投资信心。投资者需要密切关注美光的财务表现及市场动态，以便做出明智的投资决策。",
-          "analysis_en": "Micron Technology has recently garnered significant attention in the market, with many comparing its performance to that of Nvidia. The company's strong growth in the memory chip sector, particularly driven by the surge in demand for artificial intelligence and data centers, is especially noteworthy. This trend could not only boost Micron's stock price but also impact investor confidence across the semiconductor industry. Investors should closely monitor Micron's financial performance and market developments to make informed investment decisions."
+          "title": "U.S. Army suspends Kid Rock helicopter flyby crews from flight duties",
+          "link": "https://www.cnbc.com/2026/03/31/kid-rock-army-helicopter-suspended.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-03-31 20:57 UTC",
+          "analysis_zh": "美国陆军暂停了Kid Rock的直升机飞行团队的飞行职责。Kid Rock是一位知名的特朗普支持者，并在2024年共和党全国大会上表演。这一决定引发了广泛关注，因为它可能影响到军方与公众人物之间的关系，尤其是在政治敏感时期。此举可能会引发对军方中立性的讨论，尤其是在涉及政治活动时。",
+          "analysis_en": "The U.S. Army has suspended flight duties for Kid Rock's helicopter flyby crews. Kid Rock is a prominent supporter of Donald Trump and performed at the 2024 Republican National Convention. This decision has garnered significant attention as it may affect the relationship between the military and public figures, particularly during politically sensitive times. It could spark discussions about the military's neutrality, especially in relation to political events."
         },
         {
           "rank": 8,
-          "title": "Small-Cap Stock Blockmate Ventures Is A Bet On A Clean Crypto Future",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/small-cap-stock-blockmate-ventures-144900363.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-31 14:49 UTC",
-          "analysis_zh": "小型股Blockmate Ventures最近引起了市场的关注，因为它致力于推动清洁加密货币的未来。该公司专注于开发可持续的区块链技术，旨在减少加密货币挖矿对环境的影响。这一举措不仅符合全球对可持续发展的需求，也可能吸引更多投资者关注绿色科技领域。随着对环保投资的重视增加，Blockmate Ventures的成功可能会影响整个加密货币行业的投资趋势。",
-          "analysis_en": "Small-cap stock Blockmate Ventures has recently garnered attention in the market for its commitment to promoting a clean crypto future. The company focuses on developing sustainable blockchain technologies aimed at reducing the environmental impact of cryptocurrency mining. This initiative aligns with the global demand for sustainability and may attract more investors to the green technology sector. As the emphasis on eco-friendly investments grows, the success of Blockmate Ventures could influence investment trends across the entire cryptocurrency industry."
+          "title": "Anthropic leaks part of Claude Code's internal source code",
+          "link": "https://www.cnbc.com/2026/03/31/anthropic-leak-claude-code-internal-source.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-03-31 20:56 UTC",
+          "analysis_zh": "最近，人工智能公司Anthropic泄露了其Claude Code的部分内部源代码。这一事件引发了广泛关注，因为Claude Code在过去一年中获得了巨大的市场接受度，预计到今年二月，其年化收入已超过25亿美元。这次泄露可能会影响公司的竞争力，并引发对其安全性和隐私保护的担忧，进而影响投资者的信心。",
+          "analysis_en": "Recently, the AI company Anthropic leaked part of its internal source code for Claude Code. This incident has garnered significant attention, as Claude Code has seen massive adoption over the past year, with projected annual revenue exceeding $2.5 billion as of February. The leak could impact the company's competitiveness and raise concerns about its security and privacy protections, potentially affecting investor confidence."
         },
         {
           "rank": 9,
-          "title": "The Trade Desk (TTD) Slid on Sluggish Revenue Guidance",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/trade-desk-ttd-slid-sluggish-144824378.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-31 14:48 UTC",
-          "analysis_zh": "最近，广告技术公司Trade Desk（TTD）发布了疲软的收入指引，导致其股价大幅下滑。这一消息引发了市场的广泛关注，因为公司未来的收入预期低于分析师的预期，可能会影响投资者的信心。随着数字广告市场竞争的加剧，Trade Desk的表现将对其在行业中的地位产生重要影响，投资者需密切关注其后续发展。",
-          "analysis_en": "Recently, The Trade Desk (TTD) issued a weak revenue guidance, causing its stock price to drop significantly. This news has garnered widespread attention in the market, as the company's future revenue expectations fell short of analysts' predictions, potentially undermining investor confidence. Given the increasing competition in the digital advertising market, The Trade Desk's performance will have a significant impact on its position within the industry, and investors should closely monitor its developments."
+          "title": "Amazon settles Teamsters case alleging it retaliated against striking workers",
+          "link": "https://www.cnbc.com/2026/03/31/amazon-settles-teamsters-warehouse-strike.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-03-31 20:55 UTC",
+          "analysis_zh": "亚马逊与工会团队达成和解，解决了关于公司在工人罢工后非法扣减员工未支付休假时间的指控。工会称这一做法具有“非法胁迫”性质。此次和解不仅影响了亚马逊的劳动关系，还可能对其他企业的雇佣政策产生示范效应，促使它们更加重视员工权益和工会的合法性。",
+          "analysis_en": "Amazon has reached a settlement with the Teamsters regarding allegations that the company illegally docked employees' unpaid time off after they walked off the job. The union described this practice as \"unlawfully coercive.\" This settlement not only impacts Amazon's labor relations but may also set a precedent for other companies, encouraging them to pay closer attention to employee rights and the legitimacy of unions."
         },
         {
           "rank": 10,
-          "title": "CoreWeave Surges 8%, Nebius Gains 7%: AI Infrastructure Stocks Rally on Landmark Financing and Platform News",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-surges-8-nebius-gains-144823238.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-03-31 14:48 UTC",
-          "analysis_zh": "CoreWeave和Nebius的股票分别上涨了8%和7%，这表明人工智能基础设施行业正在经历一波强劲的反弹。这一上涨主要得益于重要的融资消息和平台更新，这些因素增强了投资者对该领域的信心。随着人工智能技术的不断发展，相关公司的表现可能会对整个市场产生积极影响，吸引更多的投资者关注这一领域。",
-          "analysis_en": "CoreWeave and Nebius saw their stocks rise by 8% and 7%, respectively, indicating a strong rally in the AI infrastructure sector. This surge is primarily driven by significant financing news and platform updates, which have bolstered investor confidence in the industry. As AI technology continues to evolve, the performance of these companies may positively impact the broader market, attracting more investors to this sector."
+          "title": "Factbox-How many people have been killed in the Iran war?",
+          "link": "https://www.investing.com/news/stock-market-news/factboxhow-many-people-have-been-killed-in-the-usisraeli-war-on-iran-4586333",
+          "source": "Stock Market News",
+          "published_utc": "2026-03-31 20:54 UTC",
+          "analysis_zh": "伊朗战争导致了大量人员伤亡，这一事件引起了国际社会的广泛关注。随着冲突的升级，平民的生命安全受到严重威胁，这不仅影响了当地的稳定局势，也可能对全球能源市场产生深远影响。各国政府和国际组织可能会因此加大对和平解决方案的努力，以防止局势进一步恶化。",
+          "analysis_en": "The war in Iran has resulted in significant casualties, drawing widespread attention from the international community. As the conflict escalates, the safety of civilians is severely threatened, which not only affects local stability but may also have far-reaching implications for the global energy market. Governments and international organizations might increase their efforts toward finding peaceful solutions to prevent further deterioration of the situation."
         }
       ]
     },
@@ -110,39 +110,39 @@
       "items": [
         {
           "rank": 1,
-          "title": "Supreme Court Rejects Colorado Law Banning ‘Conversion Therapy’ for L.G.B.T.Q. Minors",
-          "link": "https://www.nytimes.com/2026/03/31/us/politics/supreme-court-colorado-conversion-therapy.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-03-31 15:04 UTC",
-          "analysis_zh": "美国最高法院拒绝了科罗拉多州禁止对L.G.B.T.Q.未成年人进行“转化治疗”的法律。这一决定意味着在该州以及其他20多个州，治疗师可以继续尝试改变未成年人的性别认同或性取向。这一裁决引发了广泛关注，因为它涉及到未成年人权益和心理健康的重大问题，可能会影响未来对类似法律的挑战和立法方向。",
-          "analysis_en": "The U.S. Supreme Court has rejected a Colorado law that banned \"conversion therapy\" for L.G.B.T.Q. minors. This decision allows therapists in Colorado and over 20 other states to continue attempting to change the gender identity or sexual orientation of clients under 18. The ruling has garnered significant attention as it raises important issues regarding the rights and mental health of minors, potentially influencing future challenges and legislative efforts related to similar laws."
-        },
-        {
-          "rank": 2,
           "title": "Eli Lilly Will Buy a Narcolepsy Drug Developer for $6.3 Billion",
           "link": "https://www.nytimes.com/2026/03/31/business/eli-lilly-narcolepsy-centessa.html",
           "source": "NYT > Health",
-          "published_utc": "2026-03-31 14:49 UTC",
-          "analysis_zh": "制药公司伊利莉（Eli Lilly）计划以63亿美元收购Centessa Pharmaceuticals，这是一家正在进行其主要药物中期临床试验的公司。这一交易标志着伊利莉在神经系统疾病领域的进一步扩展，尤其是对嗜睡症的治疗。收购将使伊利莉能够增强其产品线，并可能加速新药的上市进程，对患者和市场产生积极影响。",
-          "analysis_en": "Eli Lilly plans to acquire Centessa Pharmaceuticals for $6.3 billion, a company that is conducting midstage clinical trials for its lead drug. This acquisition signifies Eli Lilly's further expansion into the field of neurological disorders, particularly in the treatment of narcolepsy. The deal will enhance Eli Lilly's product portfolio and may accelerate the introduction of new medications, positively impacting patients and the market."
+          "published_utc": "2026-03-31 19:18 UTC",
+          "analysis_zh": "制药公司礼来（Eli Lilly）宣布将以63亿美元收购Centessa Pharmaceuticals，这是一家正在进行其主要药物中期临床试验的公司。这笔交易不仅将增强礼来在治疗嗜睡症领域的研发能力，还可能为其产品线带来新的增长点。随着嗜睡症患者对有效治疗的需求不断增加，此次收购可能会对市场产生重要影响，推动相关药物的开发和上市。",
+          "analysis_en": "Eli Lilly has announced its plan to acquire Centessa Pharmaceuticals for $6.3 billion, a company currently conducting midstage clinical trials for its lead drug. This acquisition will not only strengthen Eli Lilly's research and development capabilities in the field of narcolepsy treatment but could also provide a new growth avenue for its product line. As the demand for effective treatments among narcolepsy patients continues to rise, this deal may significantly impact the market by accelerating the development and availability of related medications."
+        },
+        {
+          "rank": 2,
+          "title": "Supreme Court Rejects Colorado Law Banning ‘Conversion Therapy’ for L.G.B.T.Q. Minors",
+          "link": "https://www.nytimes.com/2026/03/31/us/politics/supreme-court-colorado-conversion-therapy.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-03-31 17:43 UTC",
+          "analysis_zh": "美国最高法院拒绝了科罗拉多州禁止对L.G.B.T.Q.未成年人进行“转化疗法”的法律。这一决定意味着在科州及其他超过20个州，治疗师仍然可以尝试改变未成年人的性别认同或性取向。这一法律的被拒绝引发了广泛关注，因为它涉及到未成年人权利和心理健康的问题，可能会影响到未来对类似法律的挑战和立法方向。",
+          "analysis_en": "The U.S. Supreme Court has rejected a Colorado law that bans \"conversion therapy\" for L.G.B.T.Q. minors. This decision allows therapists in Colorado and over 20 other states to continue attempting to change the gender identity or sexual orientation of clients under 18. The rejection of this law has sparked significant attention as it touches on issues of minors' rights and mental health, potentially influencing future challenges and legislative directions regarding similar laws."
         },
         {
           "rank": 3,
+          "title": "How the Internet Became the ‘Cookbook’ of the Drug Trade",
+          "link": "https://www.nytimes.com/2026/03/31/science/drugs-psychoactive-nitazenes.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-03-31 17:04 UTC",
+          "analysis_zh": "最近，一起令人困惑的过量死亡事件引发了调查，揭示了超强合成药物的黑暗交易。随着互联网的普及，这些药物的获取变得更加容易，许多用户在不知情的情况下被卷入其中。这一现象不仅影响了个人的健康，也对公共卫生构成了严峻挑战。随着合成药物的种类不断增加，相关的监管和教育措施显得尤为重要。",
+          "analysis_en": "Recently, a baffling overdose death led investigators to uncover the dark trade of ultra-potent synthetic drugs. With the rise of the internet, access to these drugs has become easier, drawing many users in unknowingly. This trend not only impacts individual health but also poses a significant challenge to public health. As the variety of synthetic drugs continues to grow, effective regulation and educational measures become increasingly crucial."
+        },
+        {
+          "rank": 4,
           "title": "FDA Is Expected to Lift Restriction on Peptides, Heeding RFK Jr.’s Wishes",
           "link": "https://www.nytimes.com/2026/03/31/health/peptide-ban-fda-rfk-jr.html",
           "source": "NYT > Health",
           "published_utc": "2026-03-31 14:09 UTC",
-          "analysis_zh": "美国食品药品监督管理局（FDA）预计将解除对肽类产品的限制，此举响应了罗伯特·F·肯尼迪 Jr. 的呼吁。这些肽类产品越来越多地被宣传为具有延长寿命和健康益处。解除限制可能会导致这些产品在市场上的普及，进而影响消费者的健康选择和医疗行业的监管。此举也引发了对肽类产品安全性和有效性的进一步讨论。",
-          "analysis_en": "The U.S. Food and Drug Administration (FDA) is expected to lift restrictions on peptide products, responding to the requests of Robert F. Kennedy Jr. These peptides are increasingly marketed for their purported longevity and health benefits. Lifting the restrictions may lead to greater availability of these products in the market, potentially influencing consumer health choices and regulatory practices in the healthcare industry. This decision also raises further discussions about the safety and efficacy of peptide products."
-        },
-        {
-          "rank": 4,
-          "title": "How the Internet Became the ‘Cookbook’ of the Drug Trade",
-          "link": "https://www.nytimes.com/2026/03/31/science/drugs-psychoactive-nitazenes.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-03-31 12:37 UTC",
-          "analysis_zh": "最近，一起令人困惑的过量死亡事件引发了调查，揭示了超强合成药物的黑暗交易。这一事件的重要性在于，它突显了互联网在毒品交易中的作用，尤其是如何成为获取危险药物的“食谱”。这种情况可能会导致更多的过量死亡，并促使监管机构加强对网络药物交易的监控。",
-          "analysis_en": "Recently, a perplexing overdose death prompted an investigation that uncovered the dark trade of ultra-potent synthetic drugs. This incident is significant as it highlights the role of the internet in drug trafficking, particularly how it has become a \"cookbook\" for accessing dangerous substances. This situation may lead to an increase in overdose deaths and prompt regulatory agencies to enhance their monitoring of online drug transactions."
+          "analysis_zh": "美国食品药品监督管理局（FDA）预计将解除对肽类产品的限制，这一决定响应了罗伯特·F·肯尼迪（RFK Jr.）的呼吁。这些肽类产品越来越多地被宣传为具有延长寿命和健康益处。解除限制可能会导致这些产品在市场上的流通增加，从而影响消费者的选择和健康管理方式。然而，这也引发了对产品安全性和有效性的担忧，可能会对公共健康产生深远影响。",
+          "analysis_en": "The FDA is expected to lift restrictions on peptide products, responding to the requests of Robert F. Kennedy Jr. These peptides are increasingly marketed for their potential longevity and health benefits. Lifting the restrictions may lead to greater availability of these products in the market, affecting consumer choices and health management. However, this decision raises concerns about the safety and efficacy of these products, which could have significant implications for public health."
         },
         {
           "rank": 5,
@@ -150,8 +150,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/03/260330210905.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-31 01:39 UTC",
-          "analysis_zh": "科学家发现深度睡眠不仅仅是让身体休息，它还激活了一种由大脑驱动的系统，控制生长激素的释放，从而增强肌肉和骨骼的力量、促进新陈代谢，并提升心理表现。这项研究揭示了深度睡眠与生长激素之间的复杂反馈机制，说明了睡眠如何影响身体的各个方面。此发现可能为与代谢疾病（如糖尿病）和神经系统疾病（如帕金森病和阿尔茨海默病）相关的睡眠障碍提供新的治疗思路。",
-          "analysis_en": "Scientists have discovered that deep sleep does much more than just rest the body; it activates a brain-driven system that controls the release of growth hormone, which enhances muscle and bone strength, metabolism, and mental performance. This research reveals a complex feedback mechanism between deep sleep and growth hormone, illustrating how sleep impacts various aspects of bodily function. This finding may lead to new treatment options for sleep disorders associated with metabolic diseases like diabetes, as well as neurological conditions such as Parkinson's and Alzheimer's."
+          "analysis_zh": "科学家发现深度睡眠不仅仅是让身体休息，它还激活了一个强大的大脑驱动系统，控制生长激素的释放，从而促进肌肉和骨骼的强度、代谢以及心理表现。这项研究揭示了睡眠与生长激素之间的微妙反馈循环，深度睡眠可以提高生长激素的水平，而生长激素又有助于调节清醒状态。这一发现对理解睡眠和激素之间的关系至关重要，并可能为与代谢疾病（如糖尿病）和神经疾病（如帕金森病和阿尔茨海默病）相关的睡眠障碍提供新的治疗思路。",
+          "analysis_en": "Scientists have discovered that deep sleep does more than just rest the body; it activates a powerful brain-driven system that controls the release of growth hormone, which in turn supports muscle and bone strength, metabolism, and mental performance. This research highlights a delicate feedback loop where sleep boosts growth hormone levels, and that hormone helps regulate wakefulness. Understanding this relationship is crucial, as it may lead to new treatments for sleep disorders associated with metabolic diseases like diabetes and neurological conditions such as Parkinson's and Alzheimer's."
         }
       ]
     },
@@ -165,8 +165,8 @@
           "link": "https://aeon.co/essays/the-underground-bankers-who-reshape-the-flow-of-global-money?utm_source=rss-feed",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-03-31 10:00 UTC",
-          "analysis_zh": "一项关于银行业的研究揭示了一个存在了数百年的秘密网络，这些秘密代码和隐秘的中介机构仍然能够超越国家控制的金融系统。这一现象表明，尽管现代金融体系不断发展，仍有一些传统的、隐秘的交易方式在继续运作。这不仅影响了国家对金融市场的监管能力，也可能导致金融犯罪的增加，进一步挑战法律和道德的界限。",
-          "analysis_en": "A recent study on banking has uncovered a centuries-old network of secret codes and shadowy brokers that continues to outpace state-controlled financial systems. This phenomenon highlights that despite the advancements in modern finance, traditional and clandestine methods of transaction are still in operation. This not only affects the ability of governments to regulate financial markets but may also lead to an increase in financial crimes, further challenging legal and ethical boundaries."
+          "analysis_zh": "一项关于银行业的最新研究揭示了一个历史悠久的秘密网络，这个网络通过隐秘的代码和中介，持续超越国家控制的金融系统。这一现象的重要性在于，它揭示了传统金融体系的局限性，以及如何在法律和监管的边缘进行交易。这可能会对未来的金融监管政策产生深远影响，促使各国政府重新审视和调整现有的金融法规，以应对这一隐秘网络的挑战。",
+          "analysis_en": "A recent study on banking has uncovered a centuries-old secret network that continues to outpace state-controlled financial systems through hidden codes and intermediaries. This phenomenon is significant as it highlights the limitations of traditional financial systems and how transactions can occur at the edges of legality and regulation. This may have profound implications for future financial regulatory policies, prompting governments to reassess and adjust existing financial regulations to address the challenges posed by this clandestine network."
         },
         {
           "rank": 2,
@@ -174,8 +174,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/03/260330210905.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-03-31 01:39 UTC",
-          "analysis_zh": "科学家发现深度睡眠不仅仅是让身体休息，它还激活了一个强大的大脑驱动系统，控制生长激素的释放，从而促进肌肉和骨骼的强度、代谢以及心理表现。这项研究揭示了睡眠与生长激素之间的微妙反馈循环，表明睡眠可以提高生长激素水平，而生长激素又有助于调节清醒状态。这一发现对于理解睡眠与激素的相互作用至关重要，并可能为与代谢疾病（如糖尿病）和神经系统疾病（如帕金森病和阿尔茨海默病）相关的睡眠障碍提供新的治疗思路。",
-          "analysis_en": "Scientists have discovered that deep sleep does more than just rest the body; it activates a powerful brain-driven system that regulates the release of growth hormone, which in turn enhances muscle and bone strength, metabolism, and mental performance. This research reveals a delicate feedback loop between sleep and growth hormone, indicating that sleep boosts growth hormone levels, which helps regulate wakefulness. This finding is crucial for understanding the interplay between sleep and hormones and may lead to new treatments for sleep disorders associated with metabolic diseases like diabetes and neurological conditions such as Parkinson's and Alzheimer's."
+          "analysis_zh": "科学家发现深度睡眠不仅仅是让身体休息，它还激活了一种强大的大脑驱动系统，控制生长激素的释放，从而促进肌肉和骨骼的强度、代谢以及心理表现。这项研究揭示了深度睡眠与生长激素之间的复杂反馈机制，表明良好的睡眠对身体和大脑的健康至关重要。这一发现可能会为与代谢疾病（如糖尿病）和神经系统疾病（如帕金森病和阿尔茨海默病）相关的睡眠障碍提供新的治疗思路。",
+          "analysis_en": "Scientists have discovered that deep sleep does much more than just rest the body; it activates a powerful brain-driven system that regulates the release of growth hormone, which in turn enhances muscle and bone strength, metabolism, and mental performance. This research has mapped the intricate feedback loop between deep sleep and growth hormone, highlighting the critical importance of quality sleep for both physical and mental health. This finding may lead to new treatment options for sleep disorders associated with metabolic diseases like diabetes and neurological conditions such as Parkinson's and Alzheimer's."
         }
       ]
     },
@@ -185,93 +185,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Razer’s first split ergonomic keyboard puts extra keys in reach of your thumbs",
-          "link": "https://www.theverge.com/tech/903558/razer-pro-type-ergo-split-wireless-bluetooth-keyboard-productivity-availability-price",
+          "title": "You can now use ChatGPT with Apple’s CarPlay",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
           "source": "The Verge",
-          "published_utc": "2026-03-31 15:00 UTC",
-          "analysis_zh": "雷蛇最近发布了其首款分体式人体工学键盘Pro Type Ergo，该键盘采用了弯曲的设计，旨在提高舒适度和生产力。新款键盘的售价为189.99美元，略高于2021年推出的传统款Pro Type Ultra的159.99美元。与前者类似，Pro Type Ergo也被定位为生产力工具，而非仅仅是游戏配件。其独特的设计不仅符合手臂和手的自然姿势，还配备了可定制的宏键，方便用户快速访问常用应用程序。这款键盘的推出可能会吸引更多关注工作效率的用户，推动市场对人体工学设备的需求。",
-          "analysis_en": "Razer has recently launched its first split ergonomic keyboard, the Pro Type Ergo, which features a curved design aimed at enhancing comfort and productivity. Priced at $189.99, it is slightly more expensive than the traditional Pro Type Ultra, which was released in 2021 for $159.99. Similar to its predecessor, the Pro Type Ergo is marketed as a productivity tool rather than just a gaming accessory. Its unique design fits the natural resting position of the arms and hands, and it includes customizable macro keys for quick access to frequently used applications. The introduction of this keyboard may attract more users focused on work efficiency and drive demand for ergonomic devices in the market."
+          "published_utc": "2026-03-31 21:03 UTC",
+          "analysis_zh": "现在，用户可以在苹果的CarPlay仪表盘上使用ChatGPT，只需更新到iOS 26.4或更高版本，并安装最新的ChatGPT应用。苹果最近推出的iOS 26.4更新为CarPlay增加了对“基于语音的对话应用”的支持，这意味着用户可以通过车载平台与AI聊天机器人进行语音交互。这一功能的推出不仅提升了驾驶时的便利性，也可能改变人们在车内获取信息和娱乐的方式。",
+          "analysis_en": "Users can now access ChatGPT from their CarPlay dashboard if they update to iOS 26.4 or newer and install the latest version of the ChatGPT app. The recent iOS 26.4 update from Apple added support for \"voice-based conversational apps\" in CarPlay, allowing users to interact with AI chatbots via voice through the in-car platform. This feature enhances convenience while driving and may change how people access information and entertainment in their vehicles."
         },
         {
           "rank": 2,
-          "title": "Like it or not, AI is part of art school curriculums",
-          "link": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs",
+          "title": "Samsung’s new app claims to alleviate motion sickness using sound",
+          "link": "https://www.theverge.com/tech/904579/samsung-hearapy-mobile-app-galaxy-buds-motion-sickness-symptoms",
           "source": "The Verge",
-          "published_utc": "2026-03-31 15:00 UTC",
-          "analysis_zh": "随着人工智能技术的发展，艺术院校的课程中开始纳入AI工具的教学，尽管许多学生和教职员工对此表示反对。这样的变化引发了对未来创意职业的担忧，因为学生们面临着前所未有的竞争压力。尤其是对于那些在艺术领域追求研究生学位的学生来说，AI的崛起可能会改变他们的职业前景。这一趋势不仅影响了学生的学习方式，也可能重塑整个艺术创作的生态。",
-          "analysis_en": "With the rise of artificial intelligence, art schools are integrating AI tools into their curriculums, despite opposition from many students and faculty members. This shift raises concerns about the future of creative professions, as students face unprecedented competition. For those pursuing postgraduate degrees in the arts, the emergence of AI could significantly alter their career prospects. This trend not only affects how students learn but may also reshape the entire ecosystem of artistic creation."
+          "published_utc": "2026-03-31 19:56 UTC",
+          "analysis_zh": "三星今天发布了一款名为Hearapy的新应用程序，旨在通过声音减轻晕动症的症状。该应用程序在Google Play商店中提供免费下载，用户只需通过耳机收听低频100Hz的正弦波音调60秒，即可缓解晕动症带来的不适。此应用的推出具有重要意义，因为它为那些在旅行中容易感到恶心的人提供了一种新的解决方案，可能会改善他们的出行体验。然而，效果因人而异，且并非所有耳机都能保证最佳效果。",
+          "analysis_en": "Samsung has launched a new app called Hearapy, designed to alleviate motion sickness symptoms through sound. Available for free on the Google Play store, the app allows users to listen to a low-frequency 100Hz sine wave tone for 60 seconds via headphones to relieve discomfort associated with motion sickness. This launch is significant as it offers a new solution for those who often feel nauseous while traveling, potentially enhancing their travel experience. However, the effectiveness may vary from person to person, and not all headphones may provide optimal results."
         },
         {
           "rank": 3,
-          "title": "Meta agrees to ‘reduce’ Instagram’s PG-13 rating references",
-          "link": "https://www.theverge.com/tech/904081/meta-mpa-agreement-pg-13-rating",
+          "title": "Anker’s power bank with built-in cables is one of my favorite gadgets, and it’s cheaper than usual",
+          "link": "https://www.theverge.com/gadgets/904523/anker-laptop-power-bank-amazon-big-spring-sale-2026-deal-sale",
           "source": "The Verge",
-          "published_utc": "2026-03-31 14:35 UTC",
-          "analysis_zh": "Meta与电影协会达成协议，将大幅减少在描述Instagram青少年账户时提及PG-13评级的次数。虽然Meta表示其13岁以上的内容指南不会改变，但这一决定反映了对电影协会反馈的重视。此举的重要性在于，它可能会影响青少年用户对平台内容的理解和接受度，同时也可能改变Meta在内容监管方面的策略。",
-          "analysis_en": "Meta has reached an agreement with the Motion Picture Association (MPA) to substantially reduce references to the PG-13 rating when describing Instagram's teen accounts. While Meta states that its 13+ content guidelines will remain unchanged, this decision highlights the company's responsiveness to feedback from the MPA. This is significant as it may affect how teen users perceive and engage with content on the platform, and could also lead to changes in Meta's approach to content regulation."
+          "published_utc": "2026-03-31 19:36 UTC",
+          "analysis_zh": "安克（Anker）推出了一款内置充电线的笔记本电源银行，现正以95.99美元的优惠价格出售，较平时便宜24美元。这款电源银行容量为25000mAh，配备多个USB-C和USB-A接口，能够同时为多台设备充电，最高输出功率可达165W。这一产品的推出不仅方便了用户在外出时的充电需求，也反映了市场对高效便携设备的需求不断增加。",
+          "analysis_en": "Anker has released a laptop power bank with built-in cables, currently available for $95.99, which is $24 off its usual price. This power bank has a capacity of 25,000mAh and features multiple USB-C and USB-A ports, allowing for simultaneous charging of multiple devices with a maximum output of 165W. The introduction of this product not only meets users' charging needs while on the go but also highlights the growing demand for efficient and portable devices in the market."
         },
         {
           "rank": 4,
-          "title": "Shifting to AI model customization is an architectural imperative",
-          "link": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
-          "source": "MIT Technology Review",
-          "published_utc": "2026-03-31 14:12 UTC",
-          "analysis_zh": "随着大型语言模型（LLMs）的发展，早期我们见证了每次模型迭代带来的巨大飞跃，但如今这种进步已趋于平缓。当前，领域专用智能仍然能够实现显著的进步，这表明定制化的AI模型变得越来越重要。这一转变不仅影响了技术的开发方向，还可能改变各个行业的应用方式，使得企业能够更有效地利用AI技术来满足特定需求。",
-          "analysis_en": "As large language models (LLMs) have evolved, we initially saw significant leaps in capabilities with each new iteration, but these advancements have now plateaued. Currently, domain-specific intelligence continues to achieve substantial improvements, highlighting the growing importance of customized AI models. This shift not only impacts the direction of technological development but may also alter how various industries apply AI, enabling businesses to leverage AI more effectively to meet specific needs."
+          "title": "The Super Mario Galaxy Movie is beautiful but a little too busy",
+          "link": "https://www.theverge.com/entertainment/904033/the-super-mario-galaxy-movie-review",
+          "source": "The Verge",
+          "published_utc": "2026-03-31 19:00 UTC",
+          "analysis_zh": "任天堂的新电影《超级马里奥银河》于4月1日上映，尽管在视觉效果上令人惊叹，但故事情节显得有些繁杂。这部电影标志着任天堂在娱乐领域的新阶段，展示了他们与合作伙伴Illumination的成功合作。通过这部影片，任天堂不仅希望提升其游戏销量，还希望吸引观众对其主题公园的兴趣。这样的策略可能会改变游戏和电影之间的界限，进一步推动跨媒体的娱乐发展。",
+          "analysis_en": "Nintendo's new movie, \"The Super Mario Galaxy,\" is set to release on April 1st. While visually stunning, the film's storyline feels somewhat cluttered. This movie represents a new phase for Nintendo in the entertainment industry, showcasing their successful collaboration with partners like Illumination. Through this film, Nintendo aims to boost game sales and draw interest in its theme park experiences. Such a strategy could blur the lines between gaming and film, further advancing cross-media entertainment."
         },
         {
           "rank": 5,
-          "title": "OkCupid settles claims it shared user photos with a facial recognition company",
-          "link": "https://www.theverge.com/policy/903999/okcupid-settles-claims-it-shared-user-photos-with-a-facial-recognition-company",
+          "title": "Evercade’s new handheld has a larger screen and dual thumbsticks for 3D games",
+          "link": "https://www.theverge.com/tech/904543/evercade-nexus-handheld-console-retro-gaming-preorder-pricing-availability",
           "source": "The Verge",
-          "published_utc": "2026-03-31 14:07 UTC",
-          "analysis_zh": "约会应用程序OkCupid同意与联邦贸易委员会达成和解，因其在未征得用户同意的情况下，将用户照片分享给一家第三方面部识别公司，误导了数百万用户。虽然OkCupid及其母公司Match Group在和解中并未承认错误，但承诺未来不会再做类似的误导性陈述。这一事件引发了对用户隐私保护的广泛关注，可能会促使更多用户对个人数据的使用保持警惕，同时也可能影响其他科技公司在数据处理上的透明度和合规性。",
-          "analysis_en": "The dating app OkCupid has agreed to settle claims from the Federal Trade Commission for deceiving millions of users by sharing their photos with a third-party facial recognition company without their consent. While OkCupid and its parent company Match Group did not admit wrongdoing in the settlement, they promised not to make similar misleading statements in the future. This incident has raised significant concerns about user privacy protection, which may lead users to be more vigilant about how their personal data is used, and could also influence other tech companies regarding transparency and compliance in data handling."
+          "published_utc": "2026-03-31 18:34 UTC",
+          "analysis_zh": "Evercade 最近发布了一款新手持游戏机 Nexus，配备了5.89英寸的大屏幕，明显大于之前的4.3英寸屏幕。这款新设备的分辨率也有所提升，从800×480像素增加到840×512像素，并且屏幕比例从4:3改为16:9。Nexus 将于4月1日开始预售，售价199.99美元，预计在2026年10月发货。这款手持游戏机将继续使用Evercade的专有卡带，尽管不支持应用商店或原版游戏卡带，但其提供的700多款复古游戏仍然吸引了不少玩家。",
+          "analysis_en": "Evercade has recently announced its new handheld console, the Nexus, which features a larger 5.89-inch screen, significantly bigger than the previous 4.3-inch display. The new device also sees a resolution upgrade from 800×480 pixels to 840×512 pixels and shifts the aspect ratio from 4:3 to 16:9. The Nexus will be available for preorder starting April 1st at a price of $199.99, with shipping expected in October 2026. While it will continue to use Evercade's proprietary cartridges and won't support an app store or original game cartridges, the availability of over 700 retro games is likely to attract many gamers."
         },
         {
           "rank": 6,
-          "title": "Instagram tests letting you pay to view stories anonymously",
-          "link": "https://www.theverge.com/tech/904032/instagram-premium-subscription-story-viewing-anonymously",
+          "title": "No Kings is taking back Americana",
+          "link": "https://www.theverge.com/policy/904405/no-kings-protests-portland-americana",
           "source": "The Verge",
-          "published_utc": "2026-03-31 14:03 UTC",
-          "analysis_zh": "Meta正在测试一项Instagram订阅服务，该服务允许用户在不被发布者知晓的情况下查看故事。这一新功能的推出可能会改变用户的隐私体验，因为它让人们能够匿名浏览他人的内容。此外，订阅者还可以查看自己故事的重播次数和特定观众的信息。这种变化可能会影响Instagram的用户互动方式，并引发关于隐私和透明度的讨论。",
-          "analysis_en": "Meta is testing a new subscription service for Instagram that allows users to view stories anonymously, without the poster being aware. This feature could significantly alter the privacy dynamics for users, enabling them to browse others' content without revealing their identity. Additionally, subscribers will have access to insights such as how many times their stories have been replayed and specific viewer information. This change may impact how users interact on Instagram and spark discussions around privacy and transparency."
+          "published_utc": "2026-03-31 18:31 UTC",
+          "analysis_zh": "在波特兰的“无王”抗议活动中，参与者的数量明显少于去年十月的抗议，尽管天气良好。抗议者迈克尔·玛利亚对此表示失望，认为这次的参与人数与上次相比少了十倍。此次抗议活动的意义在于，左翼人士正在重新定义传统美国象征的意义，尤其是国旗和宪法等符号。随着抗议活动的持续，可能会对美国的政治文化产生深远影响，促使更多人关注和参与相关议题。",
+          "analysis_en": "At the \"No Kings\" protest in Portland, the turnout was noticeably lower than during the previous march in October, despite the nice weather. Protester Michael Maria expressed disappointment, noting that the crowd was about ten times smaller this time. The significance of this protest lies in the left's effort to redefine the meaning of traditional American symbols, such as the flag and the Constitution. As these protests continue, they may have a profound impact on the political culture in the U.S., encouraging more people to engage with these issues."
         },
         {
           "rank": 7,
-          "title": "Apple at 50: the good and the bad",
-          "link": "https://www.theverge.com/podcast/903976/apple-50-good-bad-podcasts-vergecast",
-          "source": "The Verge",
-          "published_utc": "2026-03-31 13:59 UTC",
-          "analysis_zh": "苹果公司迎来了成立50周年的里程碑，媒体对其过去半个世纪的发展进行了回顾与分析。从被忽视的QuickTime创建到标志性的MacBook Air，再到苹果在反垄断领域的争议，这些都凸显了苹果在科技行业的重要地位。这一分析不仅让人们重新审视苹果的成就与挑战，也引发了对未来发展的思考，尤其是在视频播客逐渐兴起的背景下，苹果的战略调整可能会影响整个播客行业的生态。",
-          "analysis_en": "Apple has reached a significant milestone with its 50th anniversary, prompting media outlets to reflect on its development over the past half-century. From the often-overlooked creation of QuickTime to the iconic MacBook Air and controversies surrounding antitrust issues, these elements highlight Apple's crucial role in the tech industry. This analysis not only encourages a reevaluation of Apple's achievements and challenges but also sparks discussions about its future, especially as the rise of video podcasts could impact the entire podcasting ecosystem."
+          "title": "Quantum computers need vastly fewer resources than thought to break vital encryption",
+          "link": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/",
+          "source": "Biz & IT - Ars Technica",
+          "published_utc": "2026-03-31 18:25 UTC",
+          "analysis_zh": "量子计算机在破解重要加密技术方面所需的资源远低于先前的预期。这一发现意味着，尽管人们普遍认为量子计算的成本会很高，但实际上可能会更容易实现。这一进展对信息安全领域具有重大影响，尤其是涉及椭圆曲线加密系统的安全性。随着量子计算技术的发展，相关行业需要重新评估其加密措施，以应对潜在的安全威胁。",
+          "analysis_en": "Quantum computers require significantly fewer resources than previously thought to break crucial encryption methods. This finding suggests that, contrary to common belief, the cost of quantum computing may be more manageable than expected. This development has major implications for the field of information security, particularly concerning the safety of elliptic curve cryptography. As quantum computing technology advances, industries will need to reassess their encryption strategies to address potential security threats."
         },
         {
           "rank": 8,
-          "title": "You can finally replace your embarrassing Gmail username",
-          "link": "https://www.theverge.com/tech/904005/google-change-gmail-email-address",
+          "title": "The Galaxy S26’s photo app can sloppify your memories",
+          "link": "https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop",
           "source": "The Verge",
-          "published_utc": "2026-03-31 13:29 UTC",
-          "analysis_zh": "从本周二开始，美国的Gmail用户可以更改他们的邮箱用户名，这一功能终于上线。许多人可能因为多年前选择的用户名而感到尴尬，现在他们有机会进行更改。这项更新不仅能帮助用户摆脱不喜欢的邮箱地址，还能在用户更改姓名时提供便利。然而，用户需要注意的是，每12个月只能更改一次用户名，因此在选择新用户名时要谨慎。",
-          "analysis_en": "Starting Tuesday, Gmail users in the US can finally change their email usernames, a feature that has been highly anticipated. Many users have felt embarrassed by usernames they chose years ago, and this update allows them to make a change. This change not only helps users shed unwanted email addresses but also provides convenience for those who have changed their names. However, users should be aware that they can only change their usernames once every 12 months, so careful consideration is necessary when selecting a new one."
+          "published_utc": "2026-03-31 18:15 UTC",
+          "analysis_zh": "三星最新发布的Galaxy S26手机引入了新的AI照片编辑功能，允许用户通过自然语言请求来修改照片。这一功能的推出引发了关于照片编辑的界限和道德问题的讨论，因为用户可以轻松地对照片进行不真实的修改，比如改变衣服颜色或添加不存在的元素。这种技术的进步不仅改变了我们记录和分享记忆的方式，也可能导致对真实事件的误解和虚假信息的传播。",
+          "analysis_en": "Samsung's newly launched Galaxy S26 introduces new AI photo editing features that allow users to modify images using natural language prompts. This development has sparked discussions about the boundaries and ethics of photo editing, as users can easily make unrealistic alterations, such as changing the color of clothing or adding non-existent elements. This technological advancement not only changes the way we capture and share memories but also raises concerns about potential misunderstandings of real events and the spread of misinformation."
         },
         {
           "rank": 9,
-          "title": "How Instagram’s ‘PG-13’ Branding for Teens Unraveled",
-          "link": "https://www.nytimes.com/2026/03/31/arts/instagram-pg-13-rating-mpa-meta-teen-safety.html",
-          "source": "NYT > Technology",
-          "published_utc": "2026-03-31 13:00 UTC",
-          "analysis_zh": "社交媒体巨头Instagram在电影协会的法律压力下，决定放弃在其营销中使用“PG-13”这一电影评级。这一变化反映了对青少年用户的保护意识日益增强，尤其是在社交媒体对年轻人影响日益显著的背景下。此举可能会影响Instagram的品牌形象和用户信任，同时也可能促使其他社交平台重新审视其对青少年内容的管理策略。",
-          "analysis_en": "The social media giant Instagram has retreated from using the \"PG-13\" movie rating in its marketing due to legal pressure from the Motion Picture Association. This change highlights the growing awareness of the need to protect teenage users, especially as social media's influence on young people becomes more pronounced. This move may affect Instagram's brand image and user trust, and it could also prompt other social platforms to reevaluate their strategies for managing content aimed at teens."
+          "title": "Hisense’s 75-inch U6 mini-LED TV is cheaper than its 65-inch model",
+          "link": "https://www.theverge.com/gadgets/904372/hisense-u6-mini-led-tv-4k-amazon-big-spring-sale-2026-deal",
+          "source": "The Verge",
+          "published_utc": "2026-03-31 18:00 UTC",
+          "analysis_zh": "海信推出的75英寸U6迷你LED电视在价格上竟然低于其65英寸型号，这一消息引起了消费者的关注。由于亚马逊的春季大促销，75英寸电视的价格降至549.96美元，比65英寸型号便宜30美元。这不仅让消费者以更低的价格获得更大的屏幕，还提供了更好的观看体验，尤其适合游戏玩家。这样的价格优惠可能会影响市场竞争，促使其他品牌调整定价策略。",
+          "analysis_en": "Hisense's announcement that its 75-inch U6 mini-LED TV is cheaper than the 65-inch model has caught consumer attention. Thanks to Amazon's Big Spring Sale, the price of the 75-inch TV has dropped to $549.96, which is $30 less than the 65-inch version. This allows consumers to enjoy a larger screen at a lower price, enhancing the viewing experience, especially for gamers. Such a price drop could influence market competition and prompt other brands to adjust their pricing strategies."
         },
         {
           "rank": 10,
-          "title": "The AirPods Max 2 are a great sequel, but not an ambitious one",
-          "link": "https://www.theverge.com/tech/903754/apple-airpods-max-2-review",
-          "source": "The Verge",
-          "published_utc": "2026-03-31 13:00 UTC",
-          "analysis_zh": "苹果发布了第二代AirPods Max耳机，尽管在音质和降噪性能上有所提升，但整体设计和功能并没有显著变化。这款耳机的售价为549美元，配备了新款H2芯片和内置放大器，提供更好的音效体验。然而，耳机的重量依然较重，且缺乏电源按钮，保护壳设计也不尽如人意。这一更新虽然满足了市场对新产品的期待，但未能在创新方面带来突破，可能会影响消费者的购买决策。",
-          "analysis_en": "Apple has released the second generation of AirPods Max headphones, which, while offering improvements in sound quality and noise cancellation, do not feature significant changes in design or functionality. Priced at $549, these headphones come with a new H2 chip and a built-in amplifier for enhanced audio experience. However, they remain heavy, lack a power button, and the case design is still inadequate. While this update meets market expectations for a new product, it may not inspire consumers to make a purchase due to the lack of innovation."
+          "title": "Democrats Examine Elon Musk’s Role in Suspension of Business Disclosure Law",
+          "link": "https://www.nytimes.com/2026/03/30/business/lawmakers-probe-elon-musk-treasury.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-03-31 17:49 UTC",
+          "analysis_zh": "民主党议员正在调查埃隆·马斯克在暂停企业透明法执行中的角色。他们已向财政部请求信息，以了解马斯克可能如何影响这一决定。这一事件的重要性在于，企业透明法旨在提高公司财务透明度，防止洗钱和逃税。如果这一法律的执行受到影响，可能会导致企业行为的不透明，进而影响投资者和公众的信任。",
+          "analysis_en": "Democratic lawmakers are investigating Elon Musk's role in the suspension of the enforcement of the Corporate Transparency Act. They have requested information from the Treasury Department to understand how Musk may have influenced this decision. This matter is significant because the Corporate Transparency Act aims to enhance financial transparency among companies, preventing money laundering and tax evasion. If the enforcement of this law is compromised, it could lead to less transparency in corporate behavior, ultimately affecting investor and public trust."
         }
       ]
     },
@@ -281,93 +281,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Melvin Edwards, Sculptor Whose Steel Assemblages Influenced Generations of Artists, Dies at 88",
-          "link": "https://www.artnews.com/art-news/news/melvin-edwards-sculptor-dead-1234779467/",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-03-31 15:00 UTC",
-          "analysis_zh": "梅尔文·爱德华兹，这位影响了几代艺术家的钢铁雕塑家，近日去世，享年88岁。他的艺术作品融合了暴力与美感，展现出一种“人类身体的强度”。爱德华兹的去世不仅是艺术界的损失，也使得他独特的艺术风格和对后辈艺术家的影响面临被遗忘的风险。他的作品将继续激励未来的艺术家，促使他们探索材料与情感之间的关系。",
-          "analysis_en": "Melvin Edwards, the influential steel sculptor, has passed away at the age of 88. His artwork, which combined elements of violence and beauty, embodied a \"human physical intensity.\" Edwards's death represents a significant loss for the art world, and there is a concern that his unique style and impact on future artists may fade over time. Nevertheless, his works will continue to inspire upcoming generations of artists to explore the relationship between materials and emotions."
+          "title": "a bowl-shaped rooftop mimicking rainfall tops this winning entry for NOT A HOTEL",
+          "link": "https://www.designboom.com/architecture/bowl-shaped-rooftop-water-winning-entry-not-hotel-sound-rain/",
+          "source": "designboom | architecture & design magazine",
+          "published_utc": "2026-03-31 20:53 UTC",
+          "analysis_zh": "澳大利亚建筑师史蒂文·朱（Steven Chu）在“NOT A HOTEL”竞赛中获胜，他的设计灵感来自于屋久岛的降雨现象。这个名为“雨声”的提案采用了碗状屋顶，旨在模仿雨水的流动。这一设计不仅展示了自然元素与建筑的结合，也强调了可持续发展的重要性。随着气候变化的加剧，类似的创新设计可能会在未来的建筑中得到更广泛的应用。",
+          "analysis_en": "Australian architect Steven Chu has won the \"NOT A HOTEL\" competition with his design inspired by the rainfall of Yakushima. The proposal, named \"Sound of Rain,\" features a bowl-shaped rooftop that mimics the flow of rainwater. This design not only showcases the integration of natural elements with architecture but also emphasizes the importance of sustainability. As climate change becomes a more pressing issue, such innovative designs may see broader application in future architecture."
         },
         {
           "rank": 2,
-          "title": "UNS plans new metro line as ‘urban river’ to flow throughout turin, italy",
-          "link": "https://www.designboom.com/architecture/uns-metro-line-urban-river-flow-turin-italy-settanta7/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-03-31 15:00 UTC",
-          "analysis_zh": "意大利都灵的UNS设计团队提出了一条新的地铁线路，旨在将城市的流动性与交通系统相结合。这条被称为“城市河流”的地铁线路，体现了都灵作为一个以流动性为特征的城市的理念。这项提案不仅有助于改善城市交通，还可能改变居民的出行方式，提升城市的整体可持续性和生活质量。",
-          "analysis_en": "The UNS design team has proposed a new metro line in Turin, Italy, aiming to integrate the city's flow with its transportation system. Dubbed the \"urban river,\" this metro line embodies the concept of Turin as a city characterized by movement. This proposal not only aims to improve urban transportation but could also transform how residents commute, enhancing the city's overall sustainability and quality of life."
+          "title": "Getty Museum Acquires Two Significant Dutch Still Lifes",
+          "link": "https://www.artnews.com/art-news/news/getty-museum-acquires-dutch-still-lifes-1234779559/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-03-31 20:41 UTC",
+          "analysis_zh": "盖蒂博物馆最近收购了两幅重要的荷兰静物画，其中一幅由雅各布·大卫斯·德·赫姆创作，已经展出，另一幅由彼得·克拉斯创作的作品将在稍后展出。这一收购不仅丰富了博物馆的收藏，也为公众提供了欣赏经典荷兰艺术的机会。荷兰静物画以其细腻的细节和深刻的象征意义著称，这次展览将吸引更多的艺术爱好者和研究者前来参观，进一步推动对这一艺术流派的关注和研究。",
+          "analysis_en": "The Getty Museum has recently acquired two significant Dutch still lifes, one by Jan Davidsz. de Heem, which is already on display, and another by Pieter Claesz, which will be exhibited later. This acquisition not only enhances the museum's collection but also provides the public with an opportunity to appreciate classic Dutch art. Known for their intricate details and profound symbolism, Dutch still lifes are expected to attract more art enthusiasts and researchers, thereby promoting further interest and study in this artistic genre."
         },
         {
           "rank": 3,
-          "title": "Three Great Documentaries to Stream",
-          "link": "https://www.nytimes.com/2026/03/31/movies/documentaries-streaming.html",
+          "title": "‘The Super Mario Galaxy Movie’ Review: It’s-a Meh",
+          "link": "https://www.nytimes.com/2026/03/31/movies/the-super-mario-galaxy-movie-review.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-03-31 15:00 UTC",
-          "analysis_zh": "本月推荐的三部纪录片分别聚焦于一对喜剧夫妇、一个引发争议的真人秀系列以及北爱尔兰的社会运动。这些作品不仅展示了各自独特的视角，还反映了当代社会中重要的文化和政治议题。观看这些纪录片能够帮助观众更深入地理解不同背景下的生活与挑战，激发对社会问题的关注与思考。",
-          "analysis_en": "This month's selection of three documentaries highlights a comedian couple, a controversial reality TV series, and activism in Northern Ireland. These works not only present unique perspectives but also reflect significant cultural and political issues in contemporary society. Watching these documentaries can help viewers gain a deeper understanding of the lives and challenges faced in different contexts, sparking awareness and reflection on social issues."
+          "published_utc": "2026-03-31 19:57 UTC",
+          "analysis_zh": "《超级马里奥银河电影》的续集未能让观众充分欣赏到精彩的部分，整体表现令人失望。这部电影虽然承载了前作的巨大成功，但在节奏和情节上显得过于匆忙，缺乏深度。这一现象不仅影响了观众的观影体验，也可能对未来的续集制作产生负面影响，导致制片方在创作时更加谨慎。",
+          "analysis_en": "The sequel to \"The Super Mario Galaxy Movie\" fails to allow audiences to fully appreciate its highlights, resulting in a disappointing overall experience. While it carries the weight of its predecessor's massive success, the film suffers from a rushed pace and shallow plot. This trend not only affects the viewing experience but may also lead to more cautious approaches in future sequels from the producers."
         },
         {
           "rank": 4,
-          "title": "The Next British Invasion Is Here, and It’s Led by Women",
-          "link": "https://www.nytimes.com/2026/03/31/arts/music/british-invasion-raye-olivia-dean-pinkpantheress.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-03-31 15:00 UTC",
-          "analysis_zh": "最近，英国女歌手Raye、Olivia Dean、Lola Young和PinkPantheress在音乐排行榜和流行文化中崭露头角。她们以独特的英伦风格为特色，展现了自我而非迎合主流市场。这一现象不仅反映了女性艺术家的崛起，也可能改变全球音乐产业对女性创作的认知和接受度。",
-          "analysis_en": "Recently, British female artists Raye, Olivia Dean, Lola Young, and PinkPantheress have made significant strides on music charts and in pop culture. They emphasize their distinct Englishness, showcasing their individuality rather than conforming to mainstream expectations. This trend not only highlights the rise of female artists but may also shift the global music industry's perception and acceptance of women's creativity."
+          "title": "White House ballroom project temporarily halted by judge",
+          "link": "https://www.dezeen.com/2026/03/31/white-house-ballroom-project-temporarily-halted-by-judge/",
+          "source": "Dezeen",
+          "published_utc": "2026-03-31 19:55 UTC",
+          "analysis_zh": "美国一名法官裁定，白宫舞厅项目因未遵循适当程序而暂时停止。联邦法官理查德·J·里昂在周二发布的35页意见书中指出，项目必须在国会批准之前停止建设。这一裁决的重要性在于，它强调了政府项目在启动前必须遵循的法律程序，可能会影响未来类似项目的审批流程。",
+          "analysis_en": "A U.S. judge has ruled that the White House ballroom project must be temporarily halted due to the failure to follow proper procedures before its initiation. Federal Judge Richard J. Leon stated in a 35-page opinion that construction must stop until Congress approves the project. This ruling is significant as it underscores the legal protocols that government projects must adhere to before starting, which may impact the approval processes for similar projects in the future."
         },
         {
           "rank": 5,
-          "title": "‘The Book of Mormon’ Is Sorry if You Were Offended for 15 Years",
-          "link": "https://www.nytimes.com/2026/03/31/theater/book-of-mormon-stone-parker.html",
+          "title": "10 Synth-Pop Songs That Bring the Drama",
+          "link": "https://www.nytimes.com/2026/03/31/arts/music/amplifier-newsletter-synth-pop-songs.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-03-31 14:53 UTC",
-          "analysis_zh": "《摩门经》这部打破禁忌、引发惊叹的百老汇音乐喜剧在观众和评论家中都取得了成功。然而，随着社会对敏感话题的关注加剧，这部作品是否还能在今天继续上演引发了讨论。它的成功不仅反映了观众对幽默和讽刺的接受度，也可能影响未来音乐剧的创作方向和内容审查标准。",
-          "analysis_en": "\"The Book of Mormon,\" a taboo-breaking and gasp-inducing Broadway musical comedy, has been a hit with both audiences and critics. However, discussions have arisen about whether it could still be produced in today's more sensitive cultural climate. Its success not only reflects the audience's acceptance of humor and satire but may also influence the creative direction and content review standards for future musicals."
+          "published_utc": "2026-03-31 19:45 UTC",
+          "analysis_zh": "最近，电视配乐越来越多地使用怀旧的80年代音乐，尤其是合成流行音乐。这一趋势不仅唤起了观众的情感共鸣，也让年轻一代重新发现了这一音乐风格的重要性。合成流行音乐的戏剧性和情感深度使其在现代影视作品中显得尤为突出，可能会影响未来音乐的选择和创作方向。",
+          "analysis_en": "Recently, TV soundtracks have increasingly turned to nostalgic '80s music, particularly synth-pop. This trend not only resonates emotionally with audiences but also allows younger generations to rediscover the significance of this musical style. The dramatic and emotional depth of synth-pop makes it particularly prominent in contemporary visual media, potentially influencing future music choices and creative directions."
         },
         {
           "rank": 6,
-          "title": "Mary Beth Hurt, Actress Acclaimed in ‘Interiors’ and ‘Garp,’ Dies at 79",
-          "link": "https://www.nytimes.com/2026/03/30/movies/mary-beth-hurt-actress-dead.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-03-31 14:33 UTC",
-          "analysis_zh": "玛丽·贝丝·赫特（Mary Beth Hurt），因在《室内》（Interiors）和《加普的故事》（The World According to Garp）中的出色表演而备受赞誉，于79岁去世。她以敏锐的洞察力和即兴表演的技巧提升了配角的表现，这种才华也使她在百老汇获得了托尼奖提名。赫特的离世不仅是电影界的损失，也让许多观众怀念她在舞台和银幕上的精彩瞬间。她的影响力将继续激励后来的演员和艺术家。",
-          "analysis_en": "Mary Beth Hurt, acclaimed for her performances in \"Interiors\" and \"The World According to Garp,\" has passed away at the age of 79. She enhanced supporting roles with her insight and improvisational skills, which also earned her Tony nominations on Broadway. Her death is a significant loss to the film industry and leaves many fans reminiscing about her remarkable moments on stage and screen. Her influence will continue to inspire future actors and artists."
+          "title": "The Louvre Remains the World’s Most-Visited Museum, with Competition Coming from the Middle East and Asia in 2025",
+          "link": "https://www.artnews.com/art-news/news/most-visited-museums-2025-survey-1234779528/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-03-31 19:34 UTC",
+          "analysis_zh": "根据最新报道，卢浮宫仍然是全球最受欢迎的博物馆，尽管在2025年将面临来自中东和亚洲的竞争。卢浮宫的地位不仅仅是文化象征，还对旅游业和当地经济产生了重要影响。随着其他博物馆的崛起，尤其是在中东和亚洲，全球博物馆的竞争将愈发激烈，这可能会促使卢浮宫和其他博物馆提升展览质量和游客体验，以维持其吸引力。",
+          "analysis_en": "According to recent reports, the Louvre remains the most visited museum in the world, although it will face competition from institutions in the Middle East and Asia in 2025. The Louvre's status is not only a cultural symbol but also significantly impacts tourism and the local economy. As other museums rise in prominence, particularly in the Middle East and Asia, global competition among museums will intensify, potentially prompting the Louvre and others to enhance exhibition quality and visitor experience to maintain their appeal."
         },
         {
           "rank": 7,
-          "title": "Trump releases design of presidential library skyscraper in Miami",
-          "link": "https://www.dezeen.com/2026/03/31/trump-video-skyscraper-presidential-library/",
-          "source": "Dezeen",
-          "published_utc": "2026-03-31 13:40 UTC",
-          "analysis_zh": "美国前总统唐纳德·特朗普近日发布了一段视频，展示了他在迈阿密设计的摩天大楼，该建筑将作为唐纳德·J·特朗普总统图书馆的所在地。特朗普在他的社交媒体平台Truth Social上分享了这段视频，未作任何评论，仅附上了一个链接。这一设计的发布引发了广泛关注，因为它不仅展示了特朗普的建筑愿景，还可能影响迈阿密的城市景观和旅游业。",
-          "analysis_en": "Former US President Donald Trump recently released a video showcasing a skyscraper design in Miami, which he claims will house the Donald J. Trump Presidential Library. He shared the video on his social media platform, Truth Social, without any commentary, only including a link. The release of this design has garnered significant attention, as it not only reflects Trump's architectural vision but could also impact Miami's urban landscape and tourism industry."
+          "title": "Three Great Documentaries to Stream",
+          "link": "https://www.nytimes.com/2026/03/31/movies/documentaries-streaming.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-03-31 19:26 UTC",
+          "analysis_zh": "本月推荐的三部纪录片包括一对喜剧夫妇的反思、一部引发争议的真人秀系列，以及关于北爱尔兰的社会运动。这些影片不仅展示了不同的生活视角，还探讨了重要的社会议题。观看这些纪录片可以帮助观众更深入地理解当代社会的复杂性和多样性。",
+          "analysis_en": "This month's selection of three documentaries includes reflections on a comedian couple, a controversial reality-TV series, and activism in Northern Ireland. These films not only present diverse perspectives on life but also delve into significant social issues. Watching these documentaries can help viewers gain a deeper understanding of the complexities and diversity of contemporary society."
         },
         {
           "rank": 8,
-          "title": "International Booker Prize Shortlist: 6 Novels With ‘Burning Humanity’",
-          "link": "https://www.nytimes.com/2026/03/31/books/international-booker-prize-shortlist.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-03-31 13:32 UTC",
-          "analysis_zh": "国际布克奖公布了六部入围小说，作品包括玛丽·恩迪亚耶、丹尼尔·凯尔曼和雷内·卡拉巴什的作品。这些小说以其深刻的人性探讨而闻名，反映了当今社会的复杂性。该奖项旨在表彰翻译成英语的优秀小说，提升全球文学的可见度。这一提名不仅为作者带来了更广泛的读者群，也促进了跨文化交流和理解。",
-          "analysis_en": "The International Booker Prize has announced its shortlist of six novels, featuring works by Marie NDiaye, Daniel Kehlmann, and Rene Karabash. These novels are recognized for their profound exploration of humanity, reflecting the complexities of contemporary society. The award aims to honor outstanding fiction translated into English, enhancing the visibility of global literature. This nomination not only provides authors with a broader audience but also fosters cross-cultural exchange and understanding."
+          "title": "Pinakothek in Munich Returns Nazi-Looted Painting by Lesser Ury to Jewish Heirs",
+          "link": "https://www.artnews.com/art-news/news/pinakothek-munich-nazi-looted-painting-restitution-1234779536/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-03-31 19:17 UTC",
+          "analysis_zh": "慕尼黑的皮纳科特克博物馆最近将一幅被纳粹掠夺的画作归还给犹太继承人，这幅画是德国艺术家莱瑟·乌里的作品。这一举措标志着巴伐利亚博物馆界在赔偿问题上的新一轮努力，反映了对历史不公正的重视和对受害者家庭的尊重。此事件可能会激励其他博物馆和机构重新审视其藏品，推动更多被掠夺艺术品的归还。",
+          "analysis_en": "The Pinakothek in Munich has recently returned a painting looted by the Nazis to the Jewish heirs, which is a work by the German artist Lesser Ury. This action signifies a renewed effort within Bavaria's museum sector to address restitution, highlighting the importance of acknowledging historical injustices and respecting the families of victims. This event may encourage other museums and institutions to reevaluate their collections and promote the return of more looted artworks."
         },
         {
           "rank": 9,
-          "title": "With Mario and Minecraft, Hollywood Courts Gamers",
-          "link": "https://www.nytimes.com/2026/03/30/movies/mario-minecraft-video-games.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-03-31 13:31 UTC",
-          "analysis_zh": "近期，《超级马里奥兄弟》和《我的世界》成功转型为电影大片，而《使命召唤》和《塞尔达传说》的改编作品也在筹备中。这一现象表明，游戏产业与好莱坞的结合愈发紧密，吸引了大量游戏迷的关注。这不仅可能改变电影市场的内容方向，也可能推动更多游戏改编作品的出现，满足玩家的期待。",
-          "analysis_en": "Recently, \"Super Mario Bros.\" and \"Minecraft\" have successfully transitioned into blockbuster films, with adaptations of \"Call of Duty\" and \"The Legend of Zelda\" in the works. This trend highlights the growing connection between the gaming industry and Hollywood, capturing the attention of many gamers. It could not only shift the content direction of the film market but also lead to an increase in game adaptations, catering to the expectations of fans."
+          "title": "Jeff Koons Designs Two Bottles for Evain’s 200th Anniversary",
+          "link": "https://www.artnews.com/art-news/news/jeff-koons-designs-two-bottles-evain-200th-anniversary-1234779550/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-03-31 19:03 UTC",
+          "analysis_zh": "杰夫·昆斯为埃维昂的200周年纪念设计了两款瓶子，每款瓶子都展示了他著名的气球狗雕塑。这一合作不仅为品牌增添了艺术气息，也使昆斯的作品得以在日常生活中得到更广泛的传播。这一举措可能会吸引更多消费者关注品牌，同时提升品牌的艺术形象，进一步推动奢侈品市场的发展。",
+          "analysis_en": "Jeff Koons has designed two bottles for Evian's 200th anniversary, each featuring his iconic balloon dog sculpture. This collaboration adds an artistic flair to the brand and allows Koons' work to reach a broader audience in everyday life. This initiative may attract more consumers to the brand while enhancing its artistic image, potentially driving further growth in the luxury goods market."
         },
         {
           "rank": 10,
-          "title": "The Met Touted Her as Its First Native American Curator. Amid Criticism, She Quietly Left.",
-          "link": "https://www.artnews.com/art-news/news/patricia-marroquin-norby-met-museum-curator-departure-1234779468/",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-03-31 13:15 UTC",
-          "analysis_zh": "大都会艺术博物馆的首位美洲原住民策展人帕特里夏·马罗奎因·诺比（Patricia Marroquin Norby）因健康原因悄然离职。她的离开引发了争议，批评者质疑她是否真的具备美洲原住民血统。这一事件不仅影响了博物馆的多元化努力，也引发了对身份认同和文化代表性的更广泛讨论。",
-          "analysis_en": "Patricia Marroquin Norby, the first Native American curator at the Metropolitan Museum of Art, has quietly left her position due to health reasons. Her departure has sparked controversy, with critics questioning her claims of Native American ancestry. This situation not only affects the museum's efforts toward diversity but also raises broader discussions about identity and cultural representation."
+          "title": "Dezeen Debate features \"genius\" unconventional table tennis equipment",
+          "link": "https://www.dezeen.com/2026/03/31/quirky-table-tennis-equipment-french-school-dezeen-debate/",
+          "source": "Dezeen",
+          "published_utc": "2026-03-31 18:00 UTC",
+          "analysis_zh": "法国建筑工作室Exercice在法国Ingré的一所学校设计了四张非常规的乒乓球桌，旨在鼓励孩子们自行制定规则和策略。这一项目受到了读者的热烈欢迎，展现了设计在教育中的创新应用。通过这种方式，孩子们不仅能够锻炼身体，还能培养创造力和团队合作精神。这种设计理念可能会影响未来学校的运动设施规划，推动更多类似的教育创新。",
+          "analysis_en": "The French architecture studio Exercice has designed four unconventional table tennis tables at a school in Ingré, France, aimed at encouraging children to create their own rules and strategies. This project has received enthusiastic responses from readers, showcasing the innovative application of design in education. By engaging with these tables, children can not only improve their physical fitness but also develop creativity and teamwork skills. This design approach may influence future planning of sports facilities in schools, promoting more educational innovations."
         }
       ]
     }
