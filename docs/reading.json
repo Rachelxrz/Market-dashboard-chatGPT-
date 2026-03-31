@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-03-31 21:10:23 UTC",
-  "generated_at_unix": 1774991423,
+  "generated_at": "2026-03-31 22:06:00 UTC",
+  "generated_at_unix": 1774994760,
   "window": {
-    "from_utc": "2026-03-30 21:10:23 UTC",
-    "to_utc": "2026-03-31 21:10:23 UTC",
+    "from_utc": "2026-03-30 22:06:00 UTC",
+    "to_utc": "2026-03-31 22:06:00 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,93 +14,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO",
-          "link": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+          "title": "I asked ChatGPT for tax help—experts say I fell into a classic trap",
+          "link": "https://www.cnbc.com/2026/03/31/ai-tax-help-pitfalls.html",
           "source": "US Top News and Analysis",
-          "published_utc": "2026-03-31 21:08 UTC",
-          "analysis_zh": "OpenAI最近完成了一轮创纪录的融资，总额达到1220亿美元，超出了之前宣布的1100亿美元。这一巨额资金的到来不仅显示了市场对人工智能技术的强烈信心，也为OpenAI即将进行的首次公开募股（IPO）奠定了坚实的基础。这一融资可能会加速OpenAI在技术研发和市场扩展方面的步伐，同时也可能引发更多投资者对人工智能领域的关注和投入。",
-          "analysis_en": "OpenAI recently closed a record-breaking funding round totaling $122 billion, surpassing the previously announced figure of $110 billion. This substantial influx of capital not only reflects strong market confidence in artificial intelligence technology but also lays a solid foundation for OpenAI's upcoming initial public offering (IPO). This funding may accelerate OpenAI's efforts in technology development and market expansion, while also attracting more investors' attention and investment in the artificial intelligence sector."
+          "published_utc": "2026-03-31 21:55 UTC",
+          "analysis_zh": "最近，一位用户在寻求税务帮助时向ChatGPT提问，结果发现AI生成的回答虽然令人信服，但却缺乏重要的背景信息。这一事件引发了专家的关注，他们指出，依赖人工智能提供的建议可能导致误解和错误决策。这一现象提醒公众在使用AI工具时，必须保持批判性思维，确保获取全面的信息，以避免潜在的财务风险。",
+          "analysis_en": "Recently, a user sought tax help from ChatGPT and found the AI-generated answers convincing, yet they lacked important context. This incident has drawn the attention of experts who warn that relying on AI for advice can lead to misunderstandings and poor decisions. This situation serves as a reminder for the public to maintain critical thinking when using AI tools, ensuring they obtain comprehensive information to avoid potential financial risks."
         },
         {
           "rank": 2,
-          "title": "$4 gas could drive more employers to let people work from home",
-          "link": "https://www.marketwatch.com/story/4-gas-could-drive-more-employers-to-let-people-work-from-home-b8362229?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-03-31 21:08 UTC",
-          "analysis_zh": "随着汽油价格飙升至每加仑4美元，越来越多的雇主可能会考虑让员工在家工作。这一变化不仅反映了高油价对家庭经济的压力，也可能改变未来的工作模式。经济学家指出，面对如此高昂的油价，企业在灵活工作安排上将更加宽容。这种趋势可能会导致远程工作的普及，从而影响城市的交通和住房市场。",
-          "analysis_en": "As gas prices soar to $4 per gallon, more employers may consider allowing employees to work from home. This shift not only reflects the financial strain high fuel costs place on households but could also alter future work patterns. An economist notes that, in light of such high gas prices, companies will be more lenient with flexible work arrangements. This trend may lead to an increase in remote work, which could impact urban traffic and the housing market."
+          "title": "Judge blocks Trump White House ballroom project for now; administration appeals",
+          "link": "https://www.cnbc.com/2026/03/31/trump-white-house-ballroom-judge.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-03-31 21:54 UTC",
+          "analysis_zh": "美国国家历史保护信托对特朗普总统及国家公园管理局提起诉讼，阻止白宫舞厅项目的进行。法院暂时裁定暂停该项目，这一决定引发了广泛关注。此案不仅涉及历史遗产保护，还可能影响未来政府在公共建筑改造方面的决策和政策方向。特朗普政府已表示将对此裁决提出上诉，未来的发展将对其行政政策产生重要影响。",
+          "analysis_en": "The National Trust for Historic Preservation has sued President Trump and the National Park Service to block the White House ballroom project. A court has temporarily halted the project, drawing significant attention to the case. This lawsuit not only concerns the preservation of historical heritage but may also influence future government decisions and policies regarding renovations of public buildings. The Trump administration has indicated it will appeal this ruling, and the outcome could have important implications for its administrative policies moving forward."
         },
         {
           "rank": 3,
-          "title": "White House says Trump to sign executive order limiting mail-in voting",
-          "link": "https://www.cnbc.com/2026/03/31/trump-mail-in-voting-executive-order.html",
+          "title": "Nike shares tumble on weak sales outlook, slower-than-expected China recovery",
+          "link": "https://www.cnbc.com/2026/03/31/nike-nke-earnings-q3-2026.html",
           "source": "US Top News and Analysis",
-          "published_utc": "2026-03-31 21:07 UTC",
-          "analysis_zh": "白宫宣布特朗普将签署一项行政命令，限制邮寄投票的方式。这一决定引发了广泛关注，因为邮寄投票在疫情期间成为许多选民的重要投票方式。限制邮寄投票可能会影响到选民的投票便利性，尤其是在偏远地区或行动不便的选民中。此举可能会在即将到来的选举中引发争议，并对选民的投票率产生影响。",
-          "analysis_en": "The White House announced that Trump will sign an executive order to limit mail-in voting. This decision has drawn significant attention, as mail-in voting became a crucial method for many voters during the pandemic. Restrictions on mail-in voting may affect voter accessibility, particularly for those in remote areas or individuals with mobility issues. This move could spark controversy in the upcoming elections and impact voter turnout."
+          "published_utc": "2026-03-31 21:53 UTC",
+          "analysis_zh": "耐克的股价因销售前景疲软和中国市场复苏缓慢而大幅下跌。尽管在北美市场，耐克的业绩有所改善，但中国市场的疲软表现抵消了这一增长。这一情况不仅影响了耐克的整体财务表现，也可能对其在全球市场的竞争力产生负面影响。投资者对耐克未来的增长潜力表示担忧，可能会导致股价进一步波动。",
+          "analysis_en": "Nike's shares have plummeted due to a weak sales outlook and a slower-than-expected recovery in China. While the company has seen some improvement in North America, its largest market, this growth has been offset by weakness in China. This situation not only impacts Nike's overall financial performance but could also negatively affect its competitiveness in global markets. Investors are concerned about Nike's future growth potential, which may lead to further fluctuations in its stock price."
         },
         {
           "rank": 4,
-          "title": "Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle'",
-          "link": "https://www.cnbc.com/2026/03/31/microsofts-stock-closes-worst-quarter-since-2008-financial-crisis.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-03-31 21:03 UTC",
-          "analysis_zh": "微软在华尔街经历了自2008年以来最糟糕的一个季度，股价几乎下跌了四分之一。由于对人工智能的担忧，投资者将公司的盈利倍数重置到2022年底以来的最低水平。这一现象不仅反映了市场对微软未来增长的信心不足，还可能影响到其他科技公司的股价走势，尤其是在AI领域的竞争日益激烈的背景下。",
-          "analysis_en": "Microsoft has faced its worst quarter on Wall Street since 2008, with its stock price dropping nearly a quarter. Concerns over artificial intelligence have led investors to reset the company's earnings multiple to the lowest level since late 2022. This situation not only indicates a lack of confidence in Microsoft's future growth but may also impact the stock prices of other tech companies, especially as competition in the AI sector intensifies."
+          "title": "20 stocks that bucked the stock market’s decline in March with gains of up to 40%",
+          "link": "https://www.marketwatch.com/story/20-stocks-that-bucked-the-stock-markets-decline-in-march-with-double-digit-gains-ad396fc6?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-03-31 21:49 UTC",
+          "analysis_zh": "在三月份的股市下跌中，有20只股票逆势上涨，涨幅高达40%。能源股因原油价格飙升而表现良好，但自2月28日美国和以色列对伊朗发动攻击以来，另一个行业也取得了显著的收益。这一现象表明，地缘政治事件对市场的影响不容小觑，投资者可能会重新评估相关行业的风险和机会。未来，这可能导致资金流向这些表现良好的股票，从而进一步推动其价格上涨。",
+          "analysis_en": "In March, 20 stocks defied the market's decline, with gains of up to 40%. Energy stocks have performed well due to rising crude oil prices, but another industry group has also seen significant gains since the U.S. and Israel attacked Iran on February 28. This situation highlights the substantial impact of geopolitical events on the market, prompting investors to reassess the risks and opportunities in related sectors. Moving forward, this could lead to increased capital flowing into these strong-performing stocks, potentially driving their prices even higher."
         },
         {
           "rank": 5,
-          "title": "Nike’s results were better than expected, but investors still aren’t sold on its turnaround",
-          "link": "https://www.marketwatch.com/story/nikes-results-were-better-than-expected-but-investors-still-arent-sold-on-its-turnaround-ef2d3b70?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-03-31 21:03 UTC",
-          "analysis_zh": "耐克公布的季度业绩略超出华尔街的预期，但投资者似乎对该公司的复苏努力仍持怀疑态度。这一结果表明，尽管公司在财务上有所改善，但市场对其未来增长的信心仍然不足。这可能会影响耐克的股价表现以及其在竞争激烈的运动鞋市场中的地位。",
-          "analysis_en": "Nike reported quarterly results that slightly exceeded Wall Street's expectations, but investors still seem skeptical about the company's turnaround efforts. This outcome indicates that, despite financial improvements, market confidence in future growth remains low. This could affect Nike's stock performance and its position in the highly competitive sneaker market."
+          "title": "Trump signs executive order limiting mail-in voting ahead of 2026 U.S. elections",
+          "link": "https://www.cnbc.com/2026/03/31/trump-mail-in-voting-executive-order.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-03-31 21:46 UTC",
+          "analysis_zh": "特朗普签署了一项行政命令，限制邮寄投票，这一举措将在2026年美国大选前引发广泛关注。他施压国会通过“拯救美国法案”，该法案要求选民提供照片身份证明和美国公民身份的证明。这一政策的实施可能会影响选民的投票方式，尤其是在邮寄投票日益普及的背景下，可能导致一些选民面临更高的投票门槛。",
+          "analysis_en": "Trump has signed an executive order that limits mail-in voting, a move that is likely to attract significant attention ahead of the 2026 U.S. elections. He is pressuring Congress to pass the SAVE America Act, which would require voters to provide photo identification and proof of U.S. citizenship. The implementation of this policy could affect how voters cast their ballots, particularly as mail-in voting becomes more common, potentially creating higher barriers for some voters."
         },
         {
           "rank": 6,
-          "title": "Nike turnaround timeline still unclear amid uneven recovery in China, North America",
-          "link": "https://www.cnbc.com/2026/03/31/nike-nke-earnings-q3-2026.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-03-31 20:59 UTC",
-          "analysis_zh": "耐克在北美市场的复苏中取得了一些进展，但在中国市场却面临挑战，这使得其整体的转型进程仍不明朗。北美是耐克最大的市场，尽管有增长，但中国市场的疲软抵消了这些积极因素。这一情况不仅影响了耐克的财务表现，也可能对其全球战略产生深远影响，尤其是在如何平衡不同市场的需求和风险方面。",
-          "analysis_en": "Nike has made some progress in North America, its largest market, during its turnaround, but this strength has been offset by weaknesses in China, leaving the overall timeline for recovery unclear. While growth in North America is encouraging, the struggles in China could undermine these gains. This situation not only affects Nike's financial performance but may also have significant implications for its global strategy, particularly in balancing the demands and risks of different markets."
+          "title": "My wife and I buy promotional CDs with our tax-refund check. Is now a bad time to switch to Treasurys?",
+          "link": "https://www.marketwatch.com/story/my-wife-and-i-buy-promotional-cds-with-our-tax-refund-check-is-now-a-bad-time-to-switch-to-treasurys-e19841aa?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-03-31 21:38 UTC",
+          "analysis_zh": "这对夫妻用退税支票购买了促销CD，但他们对国债并没有经验。他们在考虑是否现在是转向国债的好时机。这个问题很重要，因为国债被视为安全的投资选择，尤其是在经济不确定时期。若他们决定投资国债，可能会影响他们的财务安全和未来的投资策略。",
+          "analysis_en": "This couple used their tax refund check to buy promotional CDs, but they lack experience with Treasuries. They are contemplating whether now is a good time to switch to Treasuries. This question is significant because Treasuries are considered a safe investment, especially during uncertain economic times. If they choose to invest in Treasuries, it could impact their financial security and future investment strategies."
         },
         {
           "rank": 7,
-          "title": "U.S. Army suspends Kid Rock helicopter flyby crews from flight duties",
-          "link": "https://www.cnbc.com/2026/03/31/kid-rock-army-helicopter-suspended.html",
+          "title": "Column: Apple's crackdown on AI apps puts it on the wrong side of history",
+          "link": "https://www.cnbc.com/2026/03/31/column-apples-crackdown-on-ai-apps-puts-it-wrong-side-of-history.html",
           "source": "US Top News and Analysis",
-          "published_utc": "2026-03-31 20:57 UTC",
-          "analysis_zh": "美国陆军暂停了Kid Rock的直升机飞行团队的飞行职责。Kid Rock是一位知名的特朗普支持者，并在2024年共和党全国大会上表演。这一决定引发了广泛关注，因为它可能影响到军方与公众人物之间的关系，尤其是在政治敏感时期。此举可能会引发对军方中立性的讨论，尤其是在涉及政治活动时。",
-          "analysis_en": "The U.S. Army has suspended flight duties for Kid Rock's helicopter flyby crews. Kid Rock is a prominent supporter of Donald Trump and performed at the 2024 Republican National Convention. This decision has garnered significant attention as it may affect the relationship between the military and public figures, particularly during politically sensitive times. It could spark discussions about the military's neutrality, especially in relation to political events."
+          "published_utc": "2026-03-31 21:34 UTC",
+          "analysis_zh": "苹果公司近期对人工智能应用的限制引发了广泛关注。这一举措与公司创立50年前的初衷背道而驰，阻碍了AI编程的发展。这不仅可能影响开发者的创新能力，还可能使苹果在激烈的科技竞争中失去优势。随着AI技术的迅速发展，苹果的这一政策可能会对其市场地位和未来的技术方向产生深远影响。",
+          "analysis_en": "Apple's recent crackdown on AI applications has drawn significant attention. This move contradicts the company's founding mission from 50 years ago and hinders the progress of AI coding. It could not only stifle developers' innovation but also put Apple at a disadvantage in the fierce tech competition. As AI technology rapidly evolves, this policy may have profound implications for Apple's market position and future technological direction."
         },
         {
           "rank": 8,
-          "title": "Anthropic leaks part of Claude Code's internal source code",
-          "link": "https://www.cnbc.com/2026/03/31/anthropic-leak-claude-code-internal-source.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-03-31 20:56 UTC",
-          "analysis_zh": "最近，人工智能公司Anthropic泄露了其Claude Code的部分内部源代码。这一事件引发了广泛关注，因为Claude Code在过去一年中获得了巨大的市场接受度，预计到今年二月，其年化收入已超过25亿美元。这次泄露可能会影响公司的竞争力，并引发对其安全性和隐私保护的担忧，进而影响投资者的信心。",
-          "analysis_en": "Recently, the AI company Anthropic leaked part of its internal source code for Claude Code. This incident has garnered significant attention, as Claude Code has seen massive adoption over the past year, with projected annual revenue exceeding $2.5 billion as of February. The leak could impact the company's competitiveness and raise concerns about its security and privacy protections, potentially affecting investor confidence."
+          "title": "These 20 stocks in the S&P 500 fell hardest during March",
+          "link": "https://www.marketwatch.com/story/these-20-stocks-in-the-s-p-500-fell-hardest-during-march-cdd8d670?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-03-31 21:34 UTC",
+          "analysis_zh": "在三月份，标准普尔500指数中有20只股票表现不佳，尤其是化妆品公司、邮轮运营商和航空公司等行业的股票。这些公司的股价大幅下跌，其中Paramount Skydance的跌幅达到33%。这一下跌反映了市场对这些行业的信心减弱，可能会影响投资者的决策和未来的市场趋势。随着经济形势的变化，这些行业的复苏可能会面临挑战。",
+          "analysis_en": "In March, 20 stocks in the S&P 500 performed poorly, particularly in sectors like cosmetics, cruise operators, and airlines. Among them, Paramount Skydance saw a significant decline of 33%. This drop indicates a weakening market confidence in these industries, which may affect investors' decisions and future market trends. As economic conditions evolve, the recovery of these sectors could face challenges."
         },
         {
           "rank": 9,
-          "title": "Amazon settles Teamsters case alleging it retaliated against striking workers",
-          "link": "https://www.cnbc.com/2026/03/31/amazon-settles-teamsters-warehouse-strike.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-03-31 20:55 UTC",
-          "analysis_zh": "亚马逊与工会团队达成和解，解决了关于公司在工人罢工后非法扣减员工未支付休假时间的指控。工会称这一做法具有“非法胁迫”性质。此次和解不仅影响了亚马逊的劳动关系，还可能对其他企业的雇佣政策产生示范效应，促使它们更加重视员工权益和工会的合法性。",
-          "analysis_en": "Amazon has reached a settlement with the Teamsters regarding allegations that the company illegally docked employees' unpaid time off after they walked off the job. The union described this practice as \"unlawfully coercive.\" This settlement not only impacts Amazon's labor relations but may also set a precedent for other companies, encouraging them to pay closer attention to employee rights and the legitimacy of unions."
+          "title": "With Zepbound approved for sleep apnea, Lilly spends up to $7.8 billion for a company with a narcolepsy drug",
+          "link": "https://www.marketwatch.com/story/lilly-to-pay-up-to-7-8-billion-to-buy-a-company-developing-a-narcolepsy-drug-8e22468f?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-03-31 21:32 UTC",
+          "analysis_zh": "制药公司礼来（Lilly）最近获得了Zepbound用于治疗睡眠呼吸暂停的批准，并因此决定以高达78亿美元的价格收购一家拥有治疗嗜睡症药物的公司。这一交易不仅显示了礼来在市场上的强劲表现，也反映了其在睡眠障碍治疗领域的扩展意图。随着人们对睡眠健康的关注日益增加，这笔投资可能会推动相关药物的研发和市场推广，从而影响整个行业的格局。",
+          "analysis_en": "Pharmaceutical company Lilly has recently received approval for Zepbound to treat sleep apnea and has decided to acquire a company with a narcolepsy drug for up to $7.8 billion. This deal not only highlights Lilly's strong market performance but also indicates its intention to expand into the sleep disorder treatment sector. As public awareness of sleep health continues to grow, this investment could drive the development and marketing of related medications, potentially reshaping the industry landscape."
         },
         {
           "rank": 10,
-          "title": "Factbox-How many people have been killed in the Iran war?",
-          "link": "https://www.investing.com/news/stock-market-news/factboxhow-many-people-have-been-killed-in-the-usisraeli-war-on-iran-4586333",
-          "source": "Stock Market News",
-          "published_utc": "2026-03-31 20:54 UTC",
-          "analysis_zh": "伊朗战争导致了大量人员伤亡，这一事件引起了国际社会的广泛关注。随着冲突的升级，平民的生命安全受到严重威胁，这不仅影响了当地的稳定局势，也可能对全球能源市场产生深远影响。各国政府和国际组织可能会因此加大对和平解决方案的努力，以防止局势进一步恶化。",
-          "analysis_en": "The war in Iran has resulted in significant casualties, drawing widespread attention from the international community. As the conflict escalates, the safety of civilians is severely threatened, which not only affects local stability but may also have far-reaching implications for the global energy market. Governments and international organizations might increase their efforts toward finding peaceful solutions to prevent further deterioration of the situation."
+          "title": "Here are 12 top tech-themed stock picks from UBS analysts",
+          "link": "https://www.marketwatch.com/story/here-are-12-top-tech-themed-stock-picks-from-ubs-analysts-61e80582?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-03-31 21:32 UTC",
+          "analysis_zh": "瑞士银行的分析师们推荐了12只以科技为主题的股票，其中包括对亚马逊的强烈看好。他们认为，亚马逊的增长潜力巨大，尤其是其云计算服务（AWS）的预期远超市场普遍预期。这一分析对投资者而言意义重大，因为它可能影响亚马逊的股价走势，并引导更多资金流入科技股。随着科技行业的持续发展，投资者可能会重新评估他们的投资组合。",
+          "analysis_en": "UBS analysts have highlighted 12 top tech-themed stock picks, showing strong confidence in Amazon's growth potential. They believe that Amazon's cloud computing service (AWS) estimates are significantly higher than what the market expects. This analysis is important for investors as it could influence Amazon's stock price and attract more capital into tech stocks. As the tech sector continues to evolve, investors may reassess their portfolios accordingly."
         }
       ]
     },
@@ -114,8 +114,8 @@
           "link": "https://www.nytimes.com/2026/03/31/business/eli-lilly-narcolepsy-centessa.html",
           "source": "NYT > Health",
           "published_utc": "2026-03-31 19:18 UTC",
-          "analysis_zh": "制药公司礼来（Eli Lilly）宣布将以63亿美元收购Centessa Pharmaceuticals，这是一家正在进行其主要药物中期临床试验的公司。这笔交易不仅将增强礼来在治疗嗜睡症领域的研发能力，还可能为其产品线带来新的增长点。随着嗜睡症患者对有效治疗的需求不断增加，此次收购可能会对市场产生重要影响，推动相关药物的开发和上市。",
-          "analysis_en": "Eli Lilly has announced its plan to acquire Centessa Pharmaceuticals for $6.3 billion, a company currently conducting midstage clinical trials for its lead drug. This acquisition will not only strengthen Eli Lilly's research and development capabilities in the field of narcolepsy treatment but could also provide a new growth avenue for its product line. As the demand for effective treatments among narcolepsy patients continues to rise, this deal may significantly impact the market by accelerating the development and availability of related medications."
+          "analysis_zh": "制药公司礼来（Eli Lilly）计划以63亿美元收购Centessa Pharmaceuticals，这是一家正在进行其主要药物中期临床试验的公司。这一收购将使礼来增强其在睡眠障碍领域的产品线，特别是嗜睡症治疗药物的开发。此举不仅反映了制药行业对创新药物的持续投资，也可能推动相关市场的竞争格局变化，影响患者的治疗选择。",
+          "analysis_en": "Eli Lilly plans to acquire Centessa Pharmaceuticals for $6.3 billion, a company currently conducting a midstage clinical trial for its lead drug. This acquisition will strengthen Eli Lilly's product line in the field of sleep disorders, particularly in the development of treatments for narcolepsy. This move not only highlights the ongoing investment in innovative drugs within the pharmaceutical industry but may also alter the competitive landscape of the market, affecting treatment options for patients."
         },
         {
           "rank": 2,
@@ -123,8 +123,8 @@
           "link": "https://www.nytimes.com/2026/03/31/us/politics/supreme-court-colorado-conversion-therapy.html",
           "source": "NYT > Health",
           "published_utc": "2026-03-31 17:43 UTC",
-          "analysis_zh": "美国最高法院拒绝了科罗拉多州禁止对L.G.B.T.Q.未成年人进行“转化疗法”的法律。这一决定意味着在科州及其他超过20个州，治疗师仍然可以尝试改变未成年人的性别认同或性取向。这一法律的被拒绝引发了广泛关注，因为它涉及到未成年人权利和心理健康的问题，可能会影响到未来对类似法律的挑战和立法方向。",
-          "analysis_en": "The U.S. Supreme Court has rejected a Colorado law that bans \"conversion therapy\" for L.G.B.T.Q. minors. This decision allows therapists in Colorado and over 20 other states to continue attempting to change the gender identity or sexual orientation of clients under 18. The rejection of this law has sparked significant attention as it touches on issues of minors' rights and mental health, potentially influencing future challenges and legislative directions regarding similar laws."
+          "analysis_zh": "美国最高法院拒绝了科罗拉多州禁止对L.G.B.T.Q.未成年人的“转化治疗”法律。这一决定对全国范围内的类似法律产生了重要影响，因为超过20个州已经实施了类似的限制。这项法律的废除可能会导致更多未成年人面临不当的心理治疗，影响他们的心理健康和社会接受度。此案的结果引发了对未成年人权利和心理健康保护的广泛讨论。",
+          "analysis_en": "The U.S. Supreme Court has rejected Colorado's law banning \"conversion therapy\" for L.G.B.T.Q. minors. This decision is significant as it may influence similar laws across more than 20 states that have enacted such restrictions. The overturning of this law could expose more minors to harmful psychological practices, affecting their mental health and social acceptance. The outcome of this case has sparked widespread discussions about the rights of minors and the protection of their mental well-being."
         },
         {
           "rank": 3,
@@ -132,8 +132,8 @@
           "link": "https://www.nytimes.com/2026/03/31/science/drugs-psychoactive-nitazenes.html",
           "source": "NYT > Health",
           "published_utc": "2026-03-31 17:04 UTC",
-          "analysis_zh": "最近，一起令人困惑的过量死亡事件引发了调查，揭示了超强合成药物的黑暗交易。随着互联网的普及，这些药物的获取变得更加容易，许多用户在不知情的情况下被卷入其中。这一现象不仅影响了个人的健康，也对公共卫生构成了严峻挑战。随着合成药物的种类不断增加，相关的监管和教育措施显得尤为重要。",
-          "analysis_en": "Recently, a baffling overdose death led investigators to uncover the dark trade of ultra-potent synthetic drugs. With the rise of the internet, access to these drugs has become easier, drawing many users in unknowingly. This trend not only impacts individual health but also poses a significant challenge to public health. As the variety of synthetic drugs continues to grow, effective regulation and educational measures become increasingly crucial."
+          "analysis_zh": "最近，一起令人困惑的过量死亡事件引发了调查，揭示了超强合成药物的黑暗交易。这一事件的重要性在于，它不仅反映了网络在毒品交易中的作用，还揭示了合成药物的危险性和普遍性。随着越来越多的人通过互联网获取这些药物，社会面临的健康风险也在不断增加。",
+          "analysis_en": "Recently, a puzzling overdose death prompted an investigation that uncovered the dark trade of ultra-potent synthetic drugs. This incident is significant because it highlights the role of the internet in drug trafficking and reveals the dangers and prevalence of synthetic substances. As more individuals access these drugs online, the health risks to society continue to grow."
         },
         {
           "rank": 4,
@@ -141,8 +141,8 @@
           "link": "https://www.nytimes.com/2026/03/31/health/peptide-ban-fda-rfk-jr.html",
           "source": "NYT > Health",
           "published_utc": "2026-03-31 14:09 UTC",
-          "analysis_zh": "美国食品药品监督管理局（FDA）预计将解除对肽类产品的限制，这一决定响应了罗伯特·F·肯尼迪（RFK Jr.）的呼吁。这些肽类产品越来越多地被宣传为具有延长寿命和健康益处。解除限制可能会导致这些产品在市场上的流通增加，从而影响消费者的选择和健康管理方式。然而，这也引发了对产品安全性和有效性的担忧，可能会对公共健康产生深远影响。",
-          "analysis_en": "The FDA is expected to lift restrictions on peptide products, responding to the requests of Robert F. Kennedy Jr. These peptides are increasingly marketed for their potential longevity and health benefits. Lifting the restrictions may lead to greater availability of these products in the market, affecting consumer choices and health management. However, this decision raises concerns about the safety and efficacy of these products, which could have significant implications for public health."
+          "analysis_zh": "美国食品药品监督管理局（FDA）预计将解除对肽类产品的限制，这一决定响应了罗伯特·F·肯尼迪 Jr. 的呼吁。这些肽类产品越来越多地被宣传为具有延长寿命和健康益处。解除限制可能会使这些产品在市场上更加普遍，进而影响消费者的健康选择和相关行业的发展。",
+          "analysis_en": "The U.S. Food and Drug Administration (FDA) is expected to lift restrictions on peptide products, a decision that aligns with the wishes of Robert F. Kennedy Jr. These peptides are increasingly marketed for their potential longevity and health benefits. Lifting the restrictions may lead to greater availability of these products in the market, potentially influencing consumer health choices and the development of related industries."
         },
         {
           "rank": 5,
@@ -150,8 +150,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/03/260330210905.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-03-31 01:39 UTC",
-          "analysis_zh": "科学家发现深度睡眠不仅仅是让身体休息，它还激活了一个强大的大脑驱动系统，控制生长激素的释放，从而促进肌肉和骨骼的强度、代谢以及心理表现。这项研究揭示了睡眠与生长激素之间的微妙反馈循环，深度睡眠可以提高生长激素的水平，而生长激素又有助于调节清醒状态。这一发现对理解睡眠和激素之间的关系至关重要，并可能为与代谢疾病（如糖尿病）和神经疾病（如帕金森病和阿尔茨海默病）相关的睡眠障碍提供新的治疗思路。",
-          "analysis_en": "Scientists have discovered that deep sleep does more than just rest the body; it activates a powerful brain-driven system that controls the release of growth hormone, which in turn supports muscle and bone strength, metabolism, and mental performance. This research highlights a delicate feedback loop where sleep boosts growth hormone levels, and that hormone helps regulate wakefulness. Understanding this relationship is crucial, as it may lead to new treatments for sleep disorders associated with metabolic diseases like diabetes and neurological conditions such as Parkinson's and Alzheimer's."
+          "analysis_zh": "科学家发现深度睡眠不仅仅是让身体休息，它还激活了一种强大的大脑驱动系统，控制生长激素的释放，从而促进肌肉和骨骼的强度、代谢以及心理表现。加州大学伯克利分校的研究人员揭示了这一过程背后的神经回路，发现了一个微妙的反馈循环，其中睡眠促进生长激素的分泌，而这种激素又帮助调节清醒状态。这项发现不仅加深了我们对睡眠与激素之间关系的理解，还可能为治疗与代谢疾病（如糖尿病）和神经疾病（如帕金森病和阿尔茨海默病）相关的睡眠障碍提供新的思路。",
+          "analysis_en": "Scientists have discovered that deep sleep does more than just rest the body; it activates a powerful brain-driven system that regulates the release of growth hormone, which is essential for muscle and bone strength, metabolism, and mental performance. Researchers at the University of California, Berkeley, mapped the neural circuits involved in this process and identified a delicate feedback loop where sleep boosts growth hormone levels, which in turn helps regulate wakefulness. This finding enhances our understanding of the relationship between sleep and hormones and could lead to new treatments for sleep disorders linked to metabolic diseases like diabetes and neurological conditions such as Parkinson's and Alzheimer's."
         }
       ]
     },
@@ -165,8 +165,8 @@
           "link": "https://aeon.co/essays/the-underground-bankers-who-reshape-the-flow-of-global-money?utm_source=rss-feed",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-03-31 10:00 UTC",
-          "analysis_zh": "一项关于银行业的最新研究揭示了一个历史悠久的秘密网络，这个网络通过隐秘的代码和中介，持续超越国家控制的金融系统。这一现象的重要性在于，它揭示了传统金融体系的局限性，以及如何在法律和监管的边缘进行交易。这可能会对未来的金融监管政策产生深远影响，促使各国政府重新审视和调整现有的金融法规，以应对这一隐秘网络的挑战。",
-          "analysis_en": "A recent study on banking has uncovered a centuries-old secret network that continues to outpace state-controlled financial systems through hidden codes and intermediaries. This phenomenon is significant as it highlights the limitations of traditional financial systems and how transactions can occur at the edges of legality and regulation. This may have profound implications for future financial regulatory policies, prompting governments to reassess and adjust existing financial regulations to address the challenges posed by this clandestine network."
+          "analysis_zh": "一项关于银行业的研究揭示了一个存在了数百年的秘密网络，该网络通过隐秘的代码和中介，依然能够超越由国家控制的金融体系。这一现象的重要性在于，它揭示了传统金融系统的脆弱性以及监管的不足。这种情况可能会影响到全球金融稳定，促使各国政府重新审视并加强对金融交易的监管。",
+          "analysis_en": "A study on the banking industry has uncovered a centuries-old network that continues to outpace state-controlled financial systems through secret codes and shadowy brokers. This phenomenon is significant as it highlights the vulnerabilities and regulatory shortcomings of traditional financial systems. Such a situation could impact global financial stability and prompt governments to reassess and strengthen their oversight of financial transactions."
         },
         {
           "rank": 2,
@@ -174,8 +174,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/03/260330210905.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-03-31 01:39 UTC",
-          "analysis_zh": "科学家发现深度睡眠不仅仅是让身体休息，它还激活了一种强大的大脑驱动系统，控制生长激素的释放，从而促进肌肉和骨骼的强度、代谢以及心理表现。这项研究揭示了深度睡眠与生长激素之间的复杂反馈机制，表明良好的睡眠对身体和大脑的健康至关重要。这一发现可能会为与代谢疾病（如糖尿病）和神经系统疾病（如帕金森病和阿尔茨海默病）相关的睡眠障碍提供新的治疗思路。",
-          "analysis_en": "Scientists have discovered that deep sleep does much more than just rest the body; it activates a powerful brain-driven system that regulates the release of growth hormone, which in turn enhances muscle and bone strength, metabolism, and mental performance. This research has mapped the intricate feedback loop between deep sleep and growth hormone, highlighting the critical importance of quality sleep for both physical and mental health. This finding may lead to new treatment options for sleep disorders associated with metabolic diseases like diabetes and neurological conditions such as Parkinson's and Alzheimer's."
+          "analysis_zh": "科学家发现深度睡眠不仅仅是让身体休息，它还激活了一个强大的大脑驱动系统，控制生长激素的释放，从而促进肌肉和骨骼的强度、代谢，甚至提升心理表现。这项研究揭示了深度睡眠与生长激素之间的微妙反馈循环，表明睡眠可以增强生长激素，而生长激素又有助于调节清醒状态。这一发现对于理解睡眠与激素之间的关系具有重要意义，可能为治疗与代谢疾病（如糖尿病）和神经系统疾病（如帕金森病和阿尔茨海默病）相关的睡眠障碍提供新的思路。",
+          "analysis_en": "Scientists have discovered that deep sleep does much more than just rest the body; it activates a powerful brain-driven system that regulates the release of growth hormone, which in turn enhances muscle and bone strength, metabolism, and even mental performance. This research reveals a delicate feedback loop between deep sleep and growth hormone, indicating that sleep boosts growth hormone levels, which helps regulate wakefulness. This finding is significant for understanding the relationship between sleep and hormones and may lead to new treatments for sleep disorders associated with metabolic diseases like diabetes and neurological conditions such as Parkinson's and Alzheimer's."
         }
       ]
     },
@@ -185,93 +185,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "You can grab a four-pack of Govee’s color-changing smart bulbs for just $27",
+          "link": "https://www.theverge.com/gadgets/904698/govee-smart-a19-led-color-bulbs-amazon-big-spring-sale-2026-deal",
+          "source": "The Verge",
+          "published_utc": "2026-03-31 21:59 UTC",
+          "analysis_zh": "最近，Govee推出了一款智能A19 LED灯泡的四件套，售价仅为27美元，正值亚马逊春季大促期间。这款灯泡能够改变颜色，瞬间提升家庭氛围，非常适合春季清洁和居家环境的更新。此优惠不仅让消费者以更低的价格体验智能家居科技，还可能推动更多人关注智能照明产品，促进相关市场的发展。",
+          "analysis_en": "Recently, Govee launched a four-pack of its Smart A19 LED light bulbs for just $27 as part of Amazon's Spring Sale. These color-changing bulbs can instantly enhance the ambiance of a home, making them perfect for spring cleaning and refreshing living spaces. This deal not only allows consumers to experience smart home technology at a lower price but may also encourage more people to explore smart lighting products, potentially boosting the growth of the related market."
+        },
+        {
+          "rank": 2,
+          "title": "OpenAI Adds Another $12 Billion to Latest Funding Round",
+          "link": "https://www.nytimes.com/2026/03/31/technology/openai-12-billion-latest-funding-round.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-03-31 21:38 UTC",
+          "analysis_zh": "OpenAI 最近在最新一轮融资中又增加了120亿美元，使得该公司的融资总额达到了1220亿美元，估值达到7300亿美元。这一巨额融资不仅显示了投资者对人工智能技术的强烈信心，也反映了市场对OpenAI未来发展的期待。这笔资金将可能用于进一步研发和扩展其产品线，从而推动整个行业的创新与竞争。",
+          "analysis_en": "OpenAI has recently added another $12 billion to its latest funding round, bringing the total raised to $122 billion and valuing the company at $730 billion. This significant investment highlights the strong confidence investors have in artificial intelligence technology and reflects market expectations for OpenAI's future growth. The funds are likely to be used for further research and development, potentially driving innovation and competition across the entire industry."
+        },
+        {
+          "rank": 3,
           "title": "You can now use ChatGPT with Apple’s CarPlay",
           "link": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
           "source": "The Verge",
           "published_utc": "2026-03-31 21:03 UTC",
-          "analysis_zh": "现在，用户可以在苹果的CarPlay仪表盘上使用ChatGPT，只需更新到iOS 26.4或更高版本，并安装最新的ChatGPT应用。苹果最近推出的iOS 26.4更新为CarPlay增加了对“基于语音的对话应用”的支持，这意味着用户可以通过车载平台与AI聊天机器人进行语音交互。这一功能的推出不仅提升了驾驶时的便利性，也可能改变人们在车内获取信息和娱乐的方式。",
-          "analysis_en": "Users can now access ChatGPT from their CarPlay dashboard if they update to iOS 26.4 or newer and install the latest version of the ChatGPT app. The recent iOS 26.4 update from Apple added support for \"voice-based conversational apps\" in CarPlay, allowing users to interact with AI chatbots via voice through the in-car platform. This feature enhances convenience while driving and may change how people access information and entertainment in their vehicles."
+          "analysis_zh": "苹果最近推出的iOS 26.4更新使得用户可以在CarPlay仪表板上使用ChatGPT，只要他们安装了最新版本的ChatGPT应用。这一更新支持“基于语音的对话应用”，意味着用户可以通过语音与AI聊天机器人进行互动，而无需查看文本内容。这一功能的推出不仅提升了驾驶时的便利性，还可能改变人们在车内使用技术的方式，推动更多语音交互应用的发展。",
+          "analysis_en": "Apple's recent iOS 26.4 update allows users to access ChatGPT from their CarPlay dashboard, provided they have the latest version of the ChatGPT app. This update supports \"voice-based conversational apps,\" enabling users to interact with AI chatbots through voice commands without needing to read text. The introduction of this feature enhances convenience while driving and may change how people utilize technology in their vehicles, potentially driving the growth of more voice-interactive applications."
         },
         {
-          "rank": 2,
+          "rank": 4,
           "title": "Samsung’s new app claims to alleviate motion sickness using sound",
           "link": "https://www.theverge.com/tech/904579/samsung-hearapy-mobile-app-galaxy-buds-motion-sickness-symptoms",
           "source": "The Verge",
           "published_utc": "2026-03-31 19:56 UTC",
-          "analysis_zh": "三星今天发布了一款名为Hearapy的新应用程序，旨在通过声音减轻晕动症的症状。该应用程序在Google Play商店中提供免费下载，用户只需通过耳机收听低频100Hz的正弦波音调60秒，即可缓解晕动症带来的不适。此应用的推出具有重要意义，因为它为那些在旅行中容易感到恶心的人提供了一种新的解决方案，可能会改善他们的出行体验。然而，效果因人而异，且并非所有耳机都能保证最佳效果。",
-          "analysis_en": "Samsung has launched a new app called Hearapy, designed to alleviate motion sickness symptoms through sound. Available for free on the Google Play store, the app allows users to listen to a low-frequency 100Hz sine wave tone for 60 seconds via headphones to relieve discomfort associated with motion sickness. This launch is significant as it offers a new solution for those who often feel nauseous while traveling, potentially enhancing their travel experience. However, the effectiveness may vary from person to person, and not all headphones may provide optimal results."
+          "analysis_zh": "三星今天发布了一款名为Hearapy的免费应用程序，旨在通过声音减轻晕动症的症状。该应用程序的功能非常简单，用户只需佩戴耳机，收听低频的100Hz正弦波音调60秒。研究表明，这种声音可以刺激内耳的前庭系统，从而帮助缓解晕动症引起的恶心感。此应用的推出可能会为经常旅行或在车上阅读的人提供一种新的解决方案，尽管其效果因耳机的不同而有所差异。",
+          "analysis_en": "Samsung has launched a new free app called Hearapy, designed to alleviate motion sickness symptoms through sound. The app's functionality is straightforward, requiring users to wear headphones and listen to a low 100Hz sine wave tone for 60 seconds. Research indicates that this sound can stimulate the vestibular system in the inner ear, helping to reduce nausea associated with motion sickness. The app's release could offer a new solution for frequent travelers or those who read while in motion, although its effectiveness may vary depending on the headphones used."
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "Anker’s power bank with built-in cables is one of my favorite gadgets, and it’s cheaper than usual",
           "link": "https://www.theverge.com/gadgets/904523/anker-laptop-power-bank-amazon-big-spring-sale-2026-deal-sale",
           "source": "The Verge",
           "published_utc": "2026-03-31 19:36 UTC",
-          "analysis_zh": "安克（Anker）推出了一款内置充电线的笔记本电源银行，现正以95.99美元的优惠价格出售，较平时便宜24美元。这款电源银行容量为25000mAh，配备多个USB-C和USB-A接口，能够同时为多台设备充电，最高输出功率可达165W。这一产品的推出不仅方便了用户在外出时的充电需求，也反映了市场对高效便携设备的需求不断增加。",
-          "analysis_en": "Anker has released a laptop power bank with built-in cables, currently available for $95.99, which is $24 off its usual price. This power bank has a capacity of 25,000mAh and features multiple USB-C and USB-A ports, allowing for simultaneous charging of multiple devices with a maximum output of 165W. The introduction of this product not only meets users' charging needs while on the go but also highlights the growing demand for efficient and portable devices in the market."
+          "analysis_zh": "安克（Anker）推出的笔记本电源银行是一款非常实用的便携式充电设备，最近在亚马逊的春季大促中以95.99美元的价格出售，优惠幅度达到24美元。这款电源银行不仅具备强大的充电能力，还配备了多种实用功能，能够同时为多个设备充电。此类产品的降价对于需要频繁外出或工作的人来说，显得尤为重要，因为它们能够提供便捷的电源解决方案。",
+          "analysis_en": "Anker's Laptop Power Bank has become one of the most useful gadgets available, recently priced at $95.99 during Amazon's Big Spring Sale, which is a $24 discount. This power bank offers impressive charging capabilities and comes with several thoughtful features, allowing users to charge multiple devices simultaneously. The price drop is significant for those who frequently travel or work on the go, as it provides a convenient power solution."
         },
         {
-          "rank": 4,
+          "rank": 6,
           "title": "The Super Mario Galaxy Movie is beautiful but a little too busy",
           "link": "https://www.theverge.com/entertainment/904033/the-super-mario-galaxy-movie-review",
           "source": "The Verge",
           "published_utc": "2026-03-31 19:00 UTC",
-          "analysis_zh": "任天堂的新电影《超级马里奥银河》于4月1日上映，尽管在视觉效果上令人惊叹，但故事情节显得有些繁杂。这部电影标志着任天堂在娱乐领域的新阶段，展示了他们与合作伙伴Illumination的成功合作。通过这部影片，任天堂不仅希望提升其游戏销量，还希望吸引观众对其主题公园的兴趣。这样的策略可能会改变游戏和电影之间的界限，进一步推动跨媒体的娱乐发展。",
-          "analysis_en": "Nintendo's new movie, \"The Super Mario Galaxy,\" is set to release on April 1st. While visually stunning, the film's storyline feels somewhat cluttered. This movie represents a new phase for Nintendo in the entertainment industry, showcasing their successful collaboration with partners like Illumination. Through this film, Nintendo aims to boost game sales and draw interest in its theme park experiences. Such a strategy could blur the lines between gaming and film, further advancing cross-media entertainment."
+          "analysis_zh": "任天堂的新电影《超级马里奥银河》于4月1日上映，虽然在视觉效果上令人惊叹，但故事情节却显得有些繁杂。这部电影标志着任天堂在娱乐行业的新阶段，展示了其与合作伙伴Illumination的成功合作。该影片不仅旨在吸引观众，还可能进一步推动任天堂的游戏销售和主题公园体验的兴趣。随着任天堂不断拓展其品牌影响力，这部电影的表现将对其未来的项目和市场策略产生重要影响。",
+          "analysis_en": "Nintendo's new film, \"The Super Mario Galaxy,\" is set to release on April 1st. While it impresses with stunning visuals, the storyline feels somewhat convoluted. This movie marks a new phase for Nintendo in the entertainment industry, showcasing its successful collaboration with partners like Illumination. The film aims not only to attract audiences but also to boost game sales and interest in Nintendo's theme park experiences. As Nintendo continues to expand its brand influence, the film's performance will significantly impact its future projects and market strategies."
         },
         {
-          "rank": 5,
+          "rank": 7,
           "title": "Evercade’s new handheld has a larger screen and dual thumbsticks for 3D games",
           "link": "https://www.theverge.com/tech/904543/evercade-nexus-handheld-console-retro-gaming-preorder-pricing-availability",
           "source": "The Verge",
           "published_utc": "2026-03-31 18:34 UTC",
-          "analysis_zh": "Evercade 最近发布了一款新手持游戏机 Nexus，配备了5.89英寸的大屏幕，明显大于之前的4.3英寸屏幕。这款新设备的分辨率也有所提升，从800×480像素增加到840×512像素，并且屏幕比例从4:3改为16:9。Nexus 将于4月1日开始预售，售价199.99美元，预计在2026年10月发货。这款手持游戏机将继续使用Evercade的专有卡带，尽管不支持应用商店或原版游戏卡带，但其提供的700多款复古游戏仍然吸引了不少玩家。",
-          "analysis_en": "Evercade has recently announced its new handheld console, the Nexus, which features a larger 5.89-inch screen, significantly bigger than the previous 4.3-inch display. The new device also sees a resolution upgrade from 800×480 pixels to 840×512 pixels and shifts the aspect ratio from 4:3 to 16:9. The Nexus will be available for preorder starting April 1st at a price of $199.99, with shipping expected in October 2026. While it will continue to use Evercade's proprietary cartridges and won't support an app store or original game cartridges, the availability of over 700 retro games is likely to attract many gamers."
+          "analysis_zh": "Evercade最近发布了一款新手持游戏机Nexus，配备了5.89英寸的大屏幕，较之前的EXP-R手持设备的4.3英寸屏幕有所提升。Nexus的分辨率也从800×480像素提升至840×512，并且更改了屏幕比例，从4:3变为16:9。这款手持游戏机将于4月1日开始预购，售价199.99美元，预计在2026年10月发货。Nexus将继续使用Evercade专有的游戏卡带，而不支持应用商店或原版游戏卡带，这意味着它将专注于提供超过700款官方授权的复古游戏。",
+          "analysis_en": "Evercade has recently announced its new handheld console, the Nexus, which features a larger 5.89-inch screen, an upgrade from the 4.3-inch display of its previous model, the EXP-R. The resolution has also improved from 800×480 pixels to 840×512, and the aspect ratio has shifted from 4:3 to 16:9. The Nexus will be available for preorder starting April 1st at a price of $199.99, with shipping expected in October 2026. This handheld will continue to utilize proprietary game cartridges from Evercade, rather than supporting an app store or original game cartridges, focusing on offering over 700 officially licensed retro games."
         },
         {
-          "rank": 6,
+          "rank": 8,
           "title": "No Kings is taking back Americana",
           "link": "https://www.theverge.com/policy/904405/no-kings-protests-portland-americana",
           "source": "The Verge",
           "published_utc": "2026-03-31 18:31 UTC",
-          "analysis_zh": "在波特兰的“无王”抗议活动中，参与者的数量明显少于去年十月的抗议，尽管天气良好。抗议者迈克尔·玛利亚对此表示失望，认为这次的参与人数与上次相比少了十倍。此次抗议活动的意义在于，左翼人士正在重新定义传统美国象征的意义，尤其是国旗和宪法等符号。随着抗议活动的持续，可能会对美国的政治文化产生深远影响，促使更多人关注和参与相关议题。",
-          "analysis_en": "At the \"No Kings\" protest in Portland, the turnout was noticeably lower than during the previous march in October, despite the nice weather. Protester Michael Maria expressed disappointment, noting that the crowd was about ten times smaller this time. The significance of this protest lies in the left's effort to redefine the meaning of traditional American symbols, such as the flag and the Constitution. As these protests continue, they may have a profound impact on the political culture in the U.S., encouraging more people to engage with these issues."
+          "analysis_zh": "在波特兰的“无国王”抗议活动中，参与者的数量明显减少，让组织者感到失望。尽管天气良好，但与去年秋季的抗议相比，现场人群显得稀少。这一变化反映了公众对波特兰抗议活动的关注度下降，尤其是在全国范围内的抗议活动转移到其他城市的背景下。此事件可能影响未来抗议活动的规模和公众参与度，显示出政治运动的动态变化。",
+          "analysis_en": "The \"No Kings\" protest in Portland saw a noticeable decline in attendance, leaving organizers disappointed. Despite the nice weather, the crowd was significantly smaller compared to last fall's protests. This shift indicates a waning public interest in Portland's protests, especially as national attention has moved to other cities. This event may affect the scale and public engagement in future protests, highlighting the dynamic nature of political movements."
         },
         {
-          "rank": 7,
+          "rank": 9,
           "title": "Quantum computers need vastly fewer resources than thought to break vital encryption",
           "link": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/",
           "source": "Biz & IT - Ars Technica",
           "published_utc": "2026-03-31 18:25 UTC",
-          "analysis_zh": "量子计算机在破解重要加密技术方面所需的资源远低于先前的预期。这一发现意味着，尽管人们普遍认为量子计算的成本会很高，但实际上可能会更容易实现。这一进展对信息安全领域具有重大影响，尤其是涉及椭圆曲线加密系统的安全性。随着量子计算技术的发展，相关行业需要重新评估其加密措施，以应对潜在的安全威胁。",
-          "analysis_en": "Quantum computers require significantly fewer resources than previously thought to break crucial encryption methods. This finding suggests that, contrary to common belief, the cost of quantum computing may be more manageable than expected. This development has major implications for the field of information security, particularly concerning the safety of elliptic curve cryptography. As quantum computing technology advances, industries will need to reassess their encryption strategies to address potential security threats."
+          "analysis_zh": "量子计算机在破解重要加密技术方面所需的资源远低于预期，这一发现引发了广泛关注。虽然目前并不意味着加密系统立刻面临崩溃，但这一进展表明，量子计算的威胁正在加剧。随着量子计算技术的不断发展，许多依赖于椭圆曲线加密的系统可能需要重新评估其安全性，以防止潜在的攻击。这一变化可能会对金融、通信等多个行业产生深远影响。",
+          "analysis_en": "Quantum computers require significantly fewer resources than previously thought to break essential encryption, which has raised considerable concern. While this does not mean that encryption systems are about to collapse, it indicates that the threat posed by quantum computing is intensifying. As quantum technology continues to advance, many systems relying on elliptic curve cryptography may need to reassess their security to guard against potential attacks. This shift could have profound implications for various industries, including finance and communications."
         },
         {
-          "rank": 8,
+          "rank": 10,
           "title": "The Galaxy S26’s photo app can sloppify your memories",
           "link": "https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop",
           "source": "The Verge",
           "published_utc": "2026-03-31 18:15 UTC",
-          "analysis_zh": "三星最新发布的Galaxy S26手机引入了新的AI照片编辑功能，允许用户通过自然语言请求来修改照片。这一功能的推出引发了关于照片编辑的界限和道德问题的讨论，因为用户可以轻松地对照片进行不真实的修改，比如改变衣服颜色或添加不存在的元素。这种技术的进步不仅改变了我们记录和分享记忆的方式，也可能导致对真实事件的误解和虚假信息的传播。",
-          "analysis_en": "Samsung's newly launched Galaxy S26 introduces new AI photo editing features that allow users to modify images using natural language prompts. This development has sparked discussions about the boundaries and ethics of photo editing, as users can easily make unrealistic alterations, such as changing the color of clothing or adding non-existent elements. This technological advancement not only changes the way we capture and share memories but also raises concerns about potential misunderstandings of real events and the spread of misinformation."
-        },
-        {
-          "rank": 9,
-          "title": "Hisense’s 75-inch U6 mini-LED TV is cheaper than its 65-inch model",
-          "link": "https://www.theverge.com/gadgets/904372/hisense-u6-mini-led-tv-4k-amazon-big-spring-sale-2026-deal",
-          "source": "The Verge",
-          "published_utc": "2026-03-31 18:00 UTC",
-          "analysis_zh": "海信推出的75英寸U6迷你LED电视在价格上竟然低于其65英寸型号，这一消息引起了消费者的关注。由于亚马逊的春季大促销，75英寸电视的价格降至549.96美元，比65英寸型号便宜30美元。这不仅让消费者以更低的价格获得更大的屏幕，还提供了更好的观看体验，尤其适合游戏玩家。这样的价格优惠可能会影响市场竞争，促使其他品牌调整定价策略。",
-          "analysis_en": "Hisense's announcement that its 75-inch U6 mini-LED TV is cheaper than the 65-inch model has caught consumer attention. Thanks to Amazon's Big Spring Sale, the price of the 75-inch TV has dropped to $549.96, which is $30 less than the 65-inch version. This allows consumers to enjoy a larger screen at a lower price, enhancing the viewing experience, especially for gamers. Such a price drop could influence market competition and prompt other brands to adjust their pricing strategies."
-        },
-        {
-          "rank": 10,
-          "title": "Democrats Examine Elon Musk’s Role in Suspension of Business Disclosure Law",
-          "link": "https://www.nytimes.com/2026/03/30/business/lawmakers-probe-elon-musk-treasury.html",
-          "source": "NYT > Technology",
-          "published_utc": "2026-03-31 17:49 UTC",
-          "analysis_zh": "民主党议员正在调查埃隆·马斯克在暂停企业透明法执行中的角色。他们已向财政部请求信息，以了解马斯克可能如何影响这一决定。这一事件的重要性在于，企业透明法旨在提高公司财务透明度，防止洗钱和逃税。如果这一法律的执行受到影响，可能会导致企业行为的不透明，进而影响投资者和公众的信任。",
-          "analysis_en": "Democratic lawmakers are investigating Elon Musk's role in the suspension of the enforcement of the Corporate Transparency Act. They have requested information from the Treasury Department to understand how Musk may have influenced this decision. This matter is significant because the Corporate Transparency Act aims to enhance financial transparency among companies, preventing money laundering and tax evasion. If the enforcement of this law is compromised, it could lead to less transparency in corporate behavior, ultimately affecting investor and public trust."
+          "analysis_zh": "三星在其最新发布的Galaxy S26中引入了AI照片编辑工具，允许用户通过自然语言指令对照片进行修改。这一功能的推出引发了关于照片编辑界限的讨论，因为用户可以轻松地添加或删除图像中的元素，甚至创造出虚假的场景。这一技术的影响不仅在于提升了用户的创作自由，也可能导致对真实记忆的扭曲，尤其是在社交媒体上分享时。随着这种技术的普及，如何平衡创意与真实性将成为一个重要话题。",
+          "analysis_en": "Samsung has introduced AI photo editing tools in its latest Galaxy S26, allowing users to modify images using natural language commands. This feature has sparked discussions about the boundaries of photo editing, as users can easily add or remove elements from images, potentially creating false scenarios. The impact of this technology lies not only in enhancing user creativity but also in the risk of distorting real memories, especially when shared on social media. As this technology becomes more widespread, finding a balance between creativity and authenticity will be an important issue."
         }
       ]
     },
@@ -281,93 +281,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "At the National Archives, the Declaration Gets More Company",
+          "link": "https://www.nytimes.com/2026/03/31/arts/national-archives-emancipation-19th-amendment.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-03-31 22:02 UTC",
+          "analysis_zh": "美国国家档案馆最近在其圆形大厅中新增了《解放宣言》和第十九修正案，这是近75年来首次进行的永久性更改。这一举措不仅丰富了档案馆的历史展览，也强调了这些重要文件在美国历史和公民权利发展中的关键作用。这些新增文件的展示可能会激发公众对历史的重新审视，并促进对相关议题的讨论。",
+          "analysis_en": "The National Archives in the U.S. has recently added the Emancipation Proclamation and the 19th Amendment to its rotunda, marking the first permanent changes in nearly 75 years. This move not only enhances the historical exhibition of the Archives but also underscores the significance of these important documents in the development of American history and civil rights. The display of these new additions may inspire the public to re-examine history and foster discussions on related issues."
+        },
+        {
+          "rank": 2,
+          "title": "Melvin Edwards, Sculptor Who Wove Black History Into Art, Dies at 88",
+          "link": "https://www.nytimes.com/2026/03/31/arts/melvin-edwards-dead.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-03-31 21:55 UTC",
+          "analysis_zh": "梅尔文·爱德华兹，这位将黑人历史融入艺术的雕塑家，近日去世，享年88岁。他以1963年开始创作的《私刑碎片》系列抽象钢铁雕塑而闻名，这些作品深刻反映了对黑人美国人长期以来的暴力历史。这一事件不仅让人们缅怀他的艺术成就，也引发了对黑人历史和文化的重新审视。爱德华兹的去世可能会促使更多人关注和讨论种族问题及其在当代艺术中的表现。",
+          "analysis_en": "Melvin Edwards, the sculptor known for integrating Black history into his art, has passed away at the age of 88. He gained recognition for his series of abstract steel sculptures titled \"Lynch Fragments,\" created starting in 1963, which poignantly addressed the long history of violence against Black Americans. This event not only commemorates his artistic contributions but also prompts a reevaluation of Black history and culture. Edwards' passing may lead to increased awareness and discussions surrounding racial issues and their representation in contemporary art."
+        },
+        {
+          "rank": 3,
+          "title": "Germany Creates New Council to Oversee Returns of Looted Art",
+          "link": "https://www.artnews.com/art-news/news/germany-s-new-coordination-council-looted-art-returns-1234779566/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-03-31 21:21 UTC",
+          "analysis_zh": "德国最近成立了一个新的委员会，负责协调归还在殖民时期获得的艺术品。这一举措标志着德国在处理历史遗留问题上的重要进展，反映了对文化遗产和历史正义的重视。通过这个委员会，预计将会有更多被掠夺的艺术品得以归还，促进国际间的文化交流与理解。",
+          "analysis_en": "Germany has recently established a new council to oversee the restitution of art acquired during the colonial era. This initiative represents a significant step for Germany in addressing historical injustices and reflects a commitment to cultural heritage and historical justice. With this council in place, it is expected that more looted artifacts will be returned, fostering cultural exchange and understanding on an international level."
+        },
+        {
+          "rank": 4,
           "title": "a bowl-shaped rooftop mimicking rainfall tops this winning entry for NOT A HOTEL",
           "link": "https://www.designboom.com/architecture/bowl-shaped-rooftop-water-winning-entry-not-hotel-sound-rain/",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-03-31 20:53 UTC",
-          "analysis_zh": "澳大利亚建筑师史蒂文·朱（Steven Chu）在“NOT A HOTEL”竞赛中获胜，他的设计灵感来自于屋久岛的降雨现象。这个名为“雨声”的提案采用了碗状屋顶，旨在模仿雨水的流动。这一设计不仅展示了自然元素与建筑的结合，也强调了可持续发展的重要性。随着气候变化的加剧，类似的创新设计可能会在未来的建筑中得到更广泛的应用。",
-          "analysis_en": "Australian architect Steven Chu has won the \"NOT A HOTEL\" competition with his design inspired by the rainfall of Yakushima. The proposal, named \"Sound of Rain,\" features a bowl-shaped rooftop that mimics the flow of rainwater. This design not only showcases the integration of natural elements with architecture but also emphasizes the importance of sustainability. As climate change becomes a more pressing issue, such innovative designs may see broader application in future architecture."
+          "analysis_zh": "澳大利亚建筑师史蒂文·朱（Steven Chu）设计的“雨声”提案在“NOT A HOTEL”竞赛中获胜，该设计的屋顶形状模仿了雨水的流动。这一设计不仅展示了对自然元素的深刻理解，还强调了建筑与环境之间的和谐关系。这样的创新设计可能会影响未来建筑的可持续性和生态友好性，鼓励更多建筑师在设计中融入自然元素。",
+          "analysis_en": "Australian architect Steven Chu's proposal, titled \"Sound of Rain,\" has won the \"NOT A HOTEL\" competition with a rooftop design that mimics the flow of rainfall. This design not only showcases a deep understanding of natural elements but also emphasizes the harmonious relationship between architecture and the environment. Such innovative designs could influence the sustainability and eco-friendliness of future buildings, encouraging more architects to incorporate natural elements into their work."
         },
         {
-          "rank": 2,
+          "rank": 5,
           "title": "Getty Museum Acquires Two Significant Dutch Still Lifes",
           "link": "https://www.artnews.com/art-news/news/getty-museum-acquires-dutch-still-lifes-1234779559/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-03-31 20:41 UTC",
-          "analysis_zh": "盖蒂博物馆最近收购了两幅重要的荷兰静物画，其中一幅由雅各布·大卫斯·德·赫姆创作，已经展出，另一幅由彼得·克拉斯创作的作品将在稍后展出。这一收购不仅丰富了博物馆的收藏，也为公众提供了欣赏经典荷兰艺术的机会。荷兰静物画以其细腻的细节和深刻的象征意义著称，这次展览将吸引更多的艺术爱好者和研究者前来参观，进一步推动对这一艺术流派的关注和研究。",
-          "analysis_en": "The Getty Museum has recently acquired two significant Dutch still lifes, one by Jan Davidsz. de Heem, which is already on display, and another by Pieter Claesz, which will be exhibited later. This acquisition not only enhances the museum's collection but also provides the public with an opportunity to appreciate classic Dutch art. Known for their intricate details and profound symbolism, Dutch still lifes are expected to attract more art enthusiasts and researchers, thereby promoting further interest and study in this artistic genre."
+          "analysis_zh": "盖蒂博物馆最近收购了两幅重要的荷兰静物画，其中一幅由雅各布·达维兹·德·赫姆创作，已对外展出，而另一幅由彼得·克莱斯创作的作品将于稍后展出。这一收购不仅丰富了博物馆的收藏，也为公众提供了欣赏荷兰黄金时代艺术的机会。荷兰静物画以其细腻的细节和丰富的象征意义而闻名，这些作品的展出可能会吸引更多艺术爱好者和游客，进一步提升博物馆的影响力。",
+          "analysis_en": "The Getty Museum has recently acquired two significant Dutch still lifes, one by Jan Davidsz. de Heem, which is already on display, and another by Pieter Claesz, which will be exhibited later. This acquisition not only enhances the museum's collection but also offers the public a chance to appreciate the art of the Dutch Golden Age. Known for their intricate details and rich symbolism, these still lifes are likely to attract more art enthusiasts and visitors, further increasing the museum's prominence."
         },
         {
-          "rank": 3,
+          "rank": 6,
           "title": "‘The Super Mario Galaxy Movie’ Review: It’s-a Meh",
           "link": "https://www.nytimes.com/2026/03/31/movies/the-super-mario-galaxy-movie-review.html",
           "source": "NYT > Arts",
           "published_utc": "2026-03-31 19:57 UTC",
-          "analysis_zh": "《超级马里奥银河电影》的续集未能让观众充分欣赏到精彩的部分，整体表现令人失望。这部电影虽然承载了前作的巨大成功，但在节奏和情节上显得过于匆忙，缺乏深度。这一现象不仅影响了观众的观影体验，也可能对未来的续集制作产生负面影响，导致制片方在创作时更加谨慎。",
-          "analysis_en": "The sequel to \"The Super Mario Galaxy Movie\" fails to allow audiences to fully appreciate its highlights, resulting in a disappointing overall experience. While it carries the weight of its predecessor's massive success, the film suffers from a rushed pace and shallow plot. This trend not only affects the viewing experience but may also lead to more cautious approaches in future sequels from the producers."
+          "analysis_zh": "《超级马里奥银河电影》的续集未能停下来让观众享受精彩内容，整体表现令人失望。这部电影在视觉效果上虽然出色，但剧情节奏过快，缺乏深度，使得观众难以投入其中。这一现象反映了当今电影行业对商业成功的追求，可能会影响未来类似作品的制作方向。",
+          "analysis_en": "The sequel to \"The Super Mario Galaxy Movie\" fails to pause long enough for audiences to appreciate the good parts, resulting in a disappointing overall experience. While the film excels in visual effects, its rapid pacing and lack of depth make it hard for viewers to engage. This trend highlights the film industry's current focus on commercial success, which may influence the production direction of similar projects in the future."
         },
         {
-          "rank": 4,
+          "rank": 7,
           "title": "White House ballroom project temporarily halted by judge",
           "link": "https://www.dezeen.com/2026/03/31/white-house-ballroom-project-temporarily-halted-by-judge/",
           "source": "Dezeen",
           "published_utc": "2026-03-31 19:55 UTC",
-          "analysis_zh": "美国一名法官裁定，白宫舞厅项目因未遵循适当程序而暂时停止。联邦法官理查德·J·里昂在周二发布的35页意见书中指出，项目必须在国会批准之前停止建设。这一裁决的重要性在于，它强调了政府项目在启动前必须遵循的法律程序，可能会影响未来类似项目的审批流程。",
-          "analysis_en": "A U.S. judge has ruled that the White House ballroom project must be temporarily halted due to the failure to follow proper procedures before its initiation. Federal Judge Richard J. Leon stated in a 35-page opinion that construction must stop until Congress approves the project. This ruling is significant as it underscores the legal protocols that government projects must adhere to before starting, which may impact the approval processes for similar projects in the future."
+          "analysis_zh": "美国法官裁定，白宫舞厅项目因未遵循适当程序而暂时停止。这一决定由联邦法官理查德·J·里昂在周二发布，裁定新东翼现代化项目的建设必须停止，包括这个大型舞厅。此事的重要性在于，白宫的建设项目通常会受到严格的审查，任何程序上的失误都可能导致重大延误，影响到政府的形象和公众信任。",
+          "analysis_en": "A US judge has ruled that the White House ballroom project must be temporarily halted due to the failure to follow proper procedures before its commencement. Federal Judge Richard J. Leon issued the ruling on Tuesday, stating that construction on the new East Wing Modernization Project, which includes the large ballroom, must stop. This decision is significant because White House construction projects are typically subject to strict scrutiny, and any procedural missteps could lead to substantial delays, affecting the government's image and public trust."
         },
         {
-          "rank": 5,
+          "rank": 8,
           "title": "10 Synth-Pop Songs That Bring the Drama",
           "link": "https://www.nytimes.com/2026/03/31/arts/music/amplifier-newsletter-synth-pop-songs.html",
           "source": "NYT > Arts",
           "published_utc": "2026-03-31 19:45 UTC",
-          "analysis_zh": "最近，电视配乐越来越多地使用怀旧的80年代音乐，尤其是合成流行音乐。这一趋势不仅唤起了观众的情感共鸣，也让年轻一代重新发现了这一音乐风格的重要性。合成流行音乐的戏剧性和情感深度使其在现代影视作品中显得尤为突出，可能会影响未来音乐的选择和创作方向。",
-          "analysis_en": "Recently, TV soundtracks have increasingly turned to nostalgic '80s music, particularly synth-pop. This trend not only resonates emotionally with audiences but also allows younger generations to rediscover the significance of this musical style. The dramatic and emotional depth of synth-pop makes it particularly prominent in contemporary visual media, potentially influencing future music choices and creative directions."
+          "analysis_zh": "最近，随着电视原声带越来越多地使用怀旧的80年代音乐，一些合成流行歌曲重新回到了公众视野。这些歌曲不仅在当时引领潮流，还在现代文化中产生了深远的影响。它们的回归不仅唤起了人们对过去的怀念，也为新一代听众提供了新的音乐体验。这种现象可能会影响未来的音乐创作和流行文化的发展方向。",
+          "analysis_en": "Recently, there has been a resurgence of synth-pop songs from the 1980s as TV soundtracks increasingly incorporate nostalgic tracks. These songs not only defined their era but also have a lasting impact on modern culture. Their revival not only evokes memories of the past but also offers a fresh musical experience for a new generation of listeners. This trend may influence future music creation and the direction of popular culture."
         },
         {
-          "rank": 6,
+          "rank": 9,
           "title": "The Louvre Remains the World’s Most-Visited Museum, with Competition Coming from the Middle East and Asia in 2025",
           "link": "https://www.artnews.com/art-news/news/most-visited-museums-2025-survey-1234779528/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-03-31 19:34 UTC",
-          "analysis_zh": "根据最新报道，卢浮宫仍然是全球最受欢迎的博物馆，尽管在2025年将面临来自中东和亚洲的竞争。卢浮宫的地位不仅仅是文化象征，还对旅游业和当地经济产生了重要影响。随着其他博物馆的崛起，尤其是在中东和亚洲，全球博物馆的竞争将愈发激烈，这可能会促使卢浮宫和其他博物馆提升展览质量和游客体验，以维持其吸引力。",
-          "analysis_en": "According to recent reports, the Louvre remains the most visited museum in the world, although it will face competition from institutions in the Middle East and Asia in 2025. The Louvre's status is not only a cultural symbol but also significantly impacts tourism and the local economy. As other museums rise in prominence, particularly in the Middle East and Asia, global competition among museums will intensify, potentially prompting the Louvre and others to enhance exhibition quality and visitor experience to maintain their appeal."
+          "analysis_zh": "根据最新的报道，卢浮宫继续保持全球最受欢迎博物馆的地位，尽管来自中东和亚洲的竞争在2025年将逐渐显现。卢浮宫的参观人数仍然领先，紧随其后的是梵蒂冈博物馆和韩国国立博物馆等知名机构。这一现象表明，尽管竞争加剧，卢浮宫依然是文化和艺术爱好者的首选。未来，随着新博物馆的崛起，全球艺术旅游的格局可能会发生变化。",
+          "analysis_en": "According to recent reports, the Louvre continues to hold the title of the world's most-visited museum, although competition from the Middle East and Asia is expected to emerge in 2025. The Louvre remains at the forefront in visitor numbers, followed closely by renowned institutions like the Vatican Museums and the National Museum of Korea. This trend indicates that, despite increasing competition, the Louvre remains the top choice for art and culture enthusiasts. In the future, the rise of new museums may alter the landscape of global art tourism."
         },
         {
-          "rank": 7,
+          "rank": 10,
           "title": "Three Great Documentaries to Stream",
           "link": "https://www.nytimes.com/2026/03/31/movies/documentaries-streaming.html",
           "source": "NYT > Arts",
           "published_utc": "2026-03-31 19:26 UTC",
-          "analysis_zh": "本月推荐的三部纪录片包括一对喜剧夫妇的反思、一部引发争议的真人秀系列，以及关于北爱尔兰的社会运动。这些影片不仅展示了不同的生活视角，还探讨了重要的社会议题。观看这些纪录片可以帮助观众更深入地理解当代社会的复杂性和多样性。",
-          "analysis_en": "This month's selection of three documentaries includes reflections on a comedian couple, a controversial reality-TV series, and activism in Northern Ireland. These films not only present diverse perspectives on life but also delve into significant social issues. Watching these documentaries can help viewers gain a deeper understanding of the complexities and diversity of contemporary society."
-        },
-        {
-          "rank": 8,
-          "title": "Pinakothek in Munich Returns Nazi-Looted Painting by Lesser Ury to Jewish Heirs",
-          "link": "https://www.artnews.com/art-news/news/pinakothek-munich-nazi-looted-painting-restitution-1234779536/",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-03-31 19:17 UTC",
-          "analysis_zh": "慕尼黑的皮纳科特克博物馆最近将一幅被纳粹掠夺的画作归还给犹太继承人，这幅画是德国艺术家莱瑟·乌里的作品。这一举措标志着巴伐利亚博物馆界在赔偿问题上的新一轮努力，反映了对历史不公正的重视和对受害者家庭的尊重。此事件可能会激励其他博物馆和机构重新审视其藏品，推动更多被掠夺艺术品的归还。",
-          "analysis_en": "The Pinakothek in Munich has recently returned a painting looted by the Nazis to the Jewish heirs, which is a work by the German artist Lesser Ury. This action signifies a renewed effort within Bavaria's museum sector to address restitution, highlighting the importance of acknowledging historical injustices and respecting the families of victims. This event may encourage other museums and institutions to reevaluate their collections and promote the return of more looted artworks."
-        },
-        {
-          "rank": 9,
-          "title": "Jeff Koons Designs Two Bottles for Evain’s 200th Anniversary",
-          "link": "https://www.artnews.com/art-news/news/jeff-koons-designs-two-bottles-evain-200th-anniversary-1234779550/",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-03-31 19:03 UTC",
-          "analysis_zh": "杰夫·昆斯为埃维昂的200周年纪念设计了两款瓶子，每款瓶子都展示了他著名的气球狗雕塑。这一合作不仅为品牌增添了艺术气息，也使昆斯的作品得以在日常生活中得到更广泛的传播。这一举措可能会吸引更多消费者关注品牌，同时提升品牌的艺术形象，进一步推动奢侈品市场的发展。",
-          "analysis_en": "Jeff Koons has designed two bottles for Evian's 200th anniversary, each featuring his iconic balloon dog sculpture. This collaboration adds an artistic flair to the brand and allows Koons' work to reach a broader audience in everyday life. This initiative may attract more consumers to the brand while enhancing its artistic image, potentially driving further growth in the luxury goods market."
-        },
-        {
-          "rank": 10,
-          "title": "Dezeen Debate features \"genius\" unconventional table tennis equipment",
-          "link": "https://www.dezeen.com/2026/03/31/quirky-table-tennis-equipment-french-school-dezeen-debate/",
-          "source": "Dezeen",
-          "published_utc": "2026-03-31 18:00 UTC",
-          "analysis_zh": "法国建筑工作室Exercice在法国Ingré的一所学校设计了四张非常规的乒乓球桌，旨在鼓励孩子们自行制定规则和策略。这一项目受到了读者的热烈欢迎，展现了设计在教育中的创新应用。通过这种方式，孩子们不仅能够锻炼身体，还能培养创造力和团队合作精神。这种设计理念可能会影响未来学校的运动设施规划，推动更多类似的教育创新。",
-          "analysis_en": "The French architecture studio Exercice has designed four unconventional table tennis tables at a school in Ingré, France, aimed at encouraging children to create their own rules and strategies. This project has received enthusiastic responses from readers, showcasing the innovative application of design in education. By engaging with these tables, children can not only improve their physical fitness but also develop creativity and teamwork skills. This design approach may influence future planning of sports facilities in schools, promoting more educational innovations."
+          "analysis_zh": "本月推荐的三部纪录片包括一对喜剧夫妻的反思、一部引发争议的真人秀系列以及北爱尔兰的社会运动。这些作品不仅展示了不同的生活经历和社会问题，还引发了观众对当代文化和政治的思考。纪录片的影响力在于它们能够激发公众对重要议题的关注，促进社会对话。",
+          "analysis_en": "This month's selection of three documentaries features reflections on a comedian couple, a controversial reality-TV series, and activism in Northern Ireland. These works not only showcase diverse life experiences and social issues but also provoke viewers to think about contemporary culture and politics. The impact of documentaries lies in their ability to raise public awareness on important topics and foster social dialogue."
         }
       ]
     }
