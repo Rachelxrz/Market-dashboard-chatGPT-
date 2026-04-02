@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-02 21:05:36 UTC",
-  "generated_at_unix": 1775163936,
+  "generated_at": "2026-04-02 22:04:34 UTC",
+  "generated_at_unix": 1775167474,
   "window": {
-    "from_utc": "2026-04-01 21:05:36 UTC",
-    "to_utc": "2026-04-02 21:05:36 UTC",
+    "from_utc": "2026-04-01 22:04:34 UTC",
+    "to_utc": "2026-04-02 22:04:34 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,162 +14,171 @@
       "items": [
         {
           "rank": 1,
-          "title": "Coinbase clears key regulatory hurdle in bid to bolster its stablecoin business",
-          "link": "https://www.cnbc.com/2026/04/02/coinbase-clears-key-regulatory-hurdle-in-bid-to-bolster-its-stablecoin-business.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-04-02 20:56 UTC",
-          "analysis_zh": "Coinbase最近获得了美国货币监理署的有条件批准，可以作为信托银行运营。这一批准对Coinbase的稳定币业务至关重要，因为它将使公司能够在更严格的监管框架下开展业务。这一进展不仅提升了Coinbase在加密货币市场的竞争力，也可能对整个行业的监管环境产生深远影响，促使其他公司跟进申请类似的许可。",
-          "analysis_en": "Coinbase recently received conditional approval from the U.S. Office of the Comptroller of the Currency to operate as a trust bank. This approval is crucial for Coinbase's stablecoin business, as it allows the company to operate under a stricter regulatory framework. This development not only enhances Coinbase's competitiveness in the cryptocurrency market but may also have significant implications for the regulatory landscape of the entire industry, encouraging other companies to seek similar licenses."
+          "title": "These charts show the cracks in the stock market are widening",
+          "link": "https://www.marketwatch.com/story/these-charts-show-the-cracks-in-the-stock-market-are-widening-9ee6a281?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-04-02 21:43 UTC",
+          "analysis_zh": "近期，标准普尔500指数的技术指标显示出股市正在进一步走弱。这一趋势引起了投资者的关注，因为它可能预示着市场的不稳定性加剧。随着股市的裂痕不断扩大，投资者可能会重新评估他们的投资策略，以应对潜在的风险和波动。这种变化不仅影响个别投资者，也可能对整体经济产生深远的影响。",
+          "analysis_en": "Recently, technical indicators for the S&P 500 have shown further weakening in the stock market. This trend has caught the attention of investors, as it may signal increasing instability in the market. As the cracks in the stock market widen, investors might reassess their strategies to cope with potential risks and volatility. This shift could not only affect individual investors but also have far-reaching implications for the overall economy."
         },
         {
           "rank": 2,
-          "title": "Trump administration sets up to 100% tariffs on some imported drugs, with many companies exempt",
-          "link": "https://www.cnbc.com/2026/04/02/trump-pharmaceutical-tariffs-100percent.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-04-02 20:55 UTC",
-          "analysis_zh": "特朗普政府计划对未与其达成降低美国药品价格协议的药品制造商征收高达100%的关税。这一政策的实施可能会对药品价格产生重大影响，尤其是在美国市场上，药品的可负担性将受到挑战。此举不仅可能导致药品成本上升，还可能影响到患者的用药选择和健康状况，进一步引发公众对医疗政策的关注与讨论。",
-          "analysis_en": "The Trump administration is preparing to impose tariffs of up to 100% on drug manufacturers that have not reached agreements to lower their drug prices in the U.S. This policy could significantly impact drug pricing, particularly affecting the affordability of medications in the American market. The move may lead to increased costs for drugs, potentially limiting patients' access to necessary medications and raising concerns about public health and healthcare policies."
-        },
-        {
-          "rank": 3,
-          "title": "One year on from Trump's 'liberation day,' global investors are rethinking American exceptionalism",
-          "link": "https://www.cnbc.com/2026/04/02/liberation-day-1-year-on-investors-are-rethinking-us-assets.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-04-02 20:46 UTC",
-          "analysis_zh": "在特朗普宣布“解放日”一周年之际，全球投资者开始重新审视美国的特殊性。市场观察人士指出，美国的特殊性不再是理所当然的，这可能会影响投资者对美国市场的信心和投资决策。随着全球经济环境的变化，投资者可能会更加谨慎，考虑其他市场的机会，从而对美国的资本流入造成影响。",
-          "analysis_en": "On the one-year anniversary of Trump's \"liberation day,\" global investors are beginning to rethink American exceptionalism. Market watchers indicate that this notion is no longer taken for granted, which could affect investor confidence and decision-making regarding the U.S. market. As the global economic landscape shifts, investors may become more cautious and consider opportunities in other markets, potentially impacting capital inflows into the U.S."
-        },
-        {
-          "rank": 4,
-          "title": "Verizon is coming off its best quarter in 15 years. Can it sustain that momentum?",
-          "link": "https://www.marketwatch.com/story/verizon-is-coming-off-its-best-quarter-in-15-years-can-it-sustain-that-momentum-ae44df8d?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-04-02 20:46 UTC",
-          "analysis_zh": "美国电信巨头威瑞森（Verizon）在过去15年中迎来了最佳季度业绩，这一成就主要得益于投资者对安全资产的青睐以及公司新战略的良好初步反响。然而，分析人士指出，这种进展需要在多个季度中得到验证，才能确认其可持续性。这一消息对市场的影响深远，可能会影响投资者对电信行业的信心，并引发对其他公司业绩的关注。",
-          "analysis_en": "Verizon, the American telecommunications giant, has reported its best quarterly performance in 15 years, driven by a flight to safety among investors and a strong initial reception to its new corporate strategy. However, analysts caution that this progress must be demonstrated over multiple quarters to confirm its sustainability. This news has significant implications for the market, potentially affecting investor confidence in the telecommunications sector and prompting scrutiny of the performance of other companies in the industry."
-        },
-        {
-          "rank": 5,
           "title": "Broadcom taps Alphabet executive Amie Thuener as next CFO",
           "link": "https://www.investing.com/news/stock-market-news/broadcom-taps-alphabet-executive-amie-thuener-as-next-cfo-4596485",
           "source": "Stock Market News",
-          "published_utc": "2026-04-02 20:43 UTC",
-          "analysis_zh": "博通公司任命谷歌高管阿米·图纳尔（Amie Thuener）为新任首席财务官（CFO）。这一人事变动标志着博通在财务管理方面的战略调整，旨在进一步推动公司的增长与创新。阿米的丰富经验将有助于博通在竞争激烈的半导体市场中保持领先地位。这一任命可能会对投资者信心产生积极影响，推动公司股价上涨。",
-          "analysis_en": "Broadcom has appointed Amie Thuener, an executive from Alphabet, as its new Chief Financial Officer (CFO). This personnel change signifies a strategic shift in financial management at Broadcom, aimed at further driving the company's growth and innovation. Amie's extensive experience will help Broadcom maintain its competitive edge in the semiconductor market. This appointment may positively influence investor confidence and potentially boost the company's stock price."
+          "published_utc": "2026-04-02 21:42 UTC",
+          "analysis_zh": "博通公司任命谷歌高管阿米·图纳尔（Amie Thuener）为新任首席财务官。这一决定对博通的未来发展至关重要，因为新任CFO将负责管理公司的财务战略和投资方向。阿米在科技行业的丰富经验可能会帮助博通在竞争激烈的市场中保持领先地位。此外，这一任命也可能影响投资者对博通的信心，进而影响公司的股价表现。",
+          "analysis_en": "Broadcom has appointed Alphabet executive Amie Thuener as its new Chief Financial Officer. This decision is crucial for Broadcom's future development, as the new CFO will oversee the company's financial strategy and investment direction. Amie's extensive experience in the tech industry may help Broadcom maintain its competitive edge in a challenging market. Additionally, this appointment could influence investor confidence in Broadcom, potentially affecting the company's stock performance."
+        },
+        {
+          "rank": 3,
+          "title": "Atmus Filtration stock surges on S&P SmallCap 600 inclusion",
+          "link": "https://www.investing.com/news/stock-market-news/atmus-filtration-stock-surges-on-sp-smallcap-600-inclusion-93CH-4596608",
+          "source": "Stock Market News",
+          "published_utc": "2026-04-02 21:27 UTC",
+          "analysis_zh": "Atmus Filtration的股票因被纳入标准普尔小型股600指数而大幅上涨。这一消息对公司来说意义重大，因为被纳入该指数通常会吸引更多投资者的关注和资金流入。这种上涨可能会提升公司的市场认可度，并为其未来的增长提供支持。此外，更多的投资者可能会因此增加对Atmus Filtration的投资，从而进一步推动其股价上涨。",
+          "analysis_en": "Atmus Filtration's stock surged after its inclusion in the S&P SmallCap 600 index. This is significant for the company, as being added to the index typically attracts more investor attention and capital inflow. Such an increase in stock price may enhance the company's market recognition and support its future growth. Additionally, more investors might increase their investments in Atmus Filtration, further driving up its stock price."
+        },
+        {
+          "rank": 4,
+          "title": "Russia stocks lower at close of trade; MOEX Russia Index down 0.05%",
+          "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-005-4596587",
+          "source": "Stock Market News",
+          "published_utc": "2026-04-02 21:20 UTC",
+          "analysis_zh": "俄罗斯股市在交易结束时下跌，MOEX俄罗斯指数下滑了0.05%。这一走势反映了市场对经济前景的不确定性，投资者可能对未来的政策变化感到担忧。股市的波动可能会影响投资者的信心，从而影响到资本流入和整体经济增长。",
+          "analysis_en": "Russian stocks closed lower, with the MOEX Russia Index down by 0.05%. This decline reflects uncertainty in the market regarding the economic outlook, as investors may be concerned about potential policy changes. The fluctuations in the stock market could impact investor confidence, which in turn may affect capital inflows and overall economic growth."
+        },
+        {
+          "rank": 5,
+          "title": "Coinbase clears key regulatory hurdle in bid to bolster its stablecoin business",
+          "link": "https://www.cnbc.com/2026/04/02/coinbase-clears-key-regulatory-hurdle-in-bid-to-bolster-its-stablecoin-business.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-04-02 21:17 UTC",
+          "analysis_zh": "Coinbase最近获得了美国货币监理署的有条件批准，允许其作为信托银行运营。这一批准对Coinbase的稳定币业务至关重要，因为它将增强该公司在金融市场中的合法性和竞争力。随着稳定币市场的不断发展，这一举措可能会吸引更多投资者和用户，进一步推动数字货币的普及和应用。",
+          "analysis_en": "Coinbase recently received conditional approval from the U.S. Office of the Comptroller of the Currency to operate as a trust bank. This approval is crucial for Coinbase's stablecoin business, as it enhances the company's legitimacy and competitiveness in the financial market. As the stablecoin market continues to grow, this move could attract more investors and users, further promoting the adoption and use of digital currencies."
         },
         {
           "rank": 6,
-          "title": "Amazon must negotiate with Staten Island warehouse workers, NLRB says",
-          "link": "https://www.investing.com/news/stock-market-news/amazon-must-negotiate-with-statenisland-warehouse-workers-nlrb-says-4596326",
-          "source": "Stock Market News",
-          "published_utc": "2026-04-02 20:42 UTC",
-          "analysis_zh": "亚马逊必须与斯塔滕岛的仓库工人进行谈判，这是美国国家劳动关系委员会（NLRB）最新的裁定。这一决定标志着工人权益保护的重要一步，可能会影响亚马逊在其他地区的运营模式。通过与工人进行谈判，亚马逊可能需要调整其劳动政策，以满足工人的要求和期望。这不仅关系到斯塔滕岛的工人，也可能为其他企业树立榜样，推动更广泛的劳动权益运动。",
-          "analysis_en": "Amazon is required to negotiate with warehouse workers in Staten Island, according to a recent ruling by the National Labor Relations Board (NLRB). This decision represents a significant step in the protection of workers' rights and may influence Amazon's operational practices in other regions. By engaging in negotiations with workers, Amazon may need to revise its labor policies to meet their demands and expectations. This situation not only affects the workers in Staten Island but could also set a precedent for other companies, potentially advancing a broader labor rights movement."
+          "title": "‘This is an overlooked catastrophe’: Why do so many hospitals not accept Medicare Advantage for cancer patients?",
+          "link": "https://www.marketwatch.com/story/this-is-an-overlooked-catastrophe-why-do-so-many-hospitals-not-accept-medicare-advantage-for-cancer-patients-130c1a13?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-04-02 21:15 UTC",
+          "analysis_zh": "最近，有报道称许多医院不接受医疗保险优势计划（Medicare Advantage）为癌症患者提供服务，这引发了广泛关注。保险公司在年度结束前将某些癌症护理中心排除在网络之外，导致患者面临更大的医疗选择困难。这一现象不仅影响了癌症患者的治疗选择，也可能加重他们的经济负担。随着医疗保险政策的变化，患者的权益和医疗服务的可及性将面临更大的挑战。",
+          "analysis_en": "Recently, it has been reported that many hospitals do not accept Medicare Advantage plans for cancer patients, raising significant concerns. Insurers have excluded certain cancer care centers from their networks before the end of the calendar or policy year, leaving patients with fewer treatment options. This situation not only affects the treatment choices available to cancer patients but may also increase their financial burden. As changes in Medicare policies continue, patients' rights and access to medical services are likely to face greater challenges."
         },
         {
           "rank": 7,
-          "title": "April typically showers stock investors with gains — but this year is no sure bet",
-          "link": "https://www.marketwatch.com/story/the-s-p-500-typically-gains-in-april-but-this-year-its-no-sure-bet-for-the-bulls-d784dbaf?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-04-02 20:39 UTC",
-          "analysis_zh": "四月通常是股票投资者获得收益的月份，但今年的情况却不那么确定。由于税季的影响以及五月初的抛售活动，投资者不应指望四月会有明显的反弹。这一变化可能会影响市场情绪，并导致投资者在做出决策时更加谨慎。",
-          "analysis_en": "April is usually a month when stock investors see gains, but this year is uncertain. Due to the impact of tax season and early sell-in-May activities, investors should not expect a significant rally in April. This shift may affect market sentiment and lead investors to be more cautious in their decision-making."
+          "title": "Trump administration sets up to 100% tariffs on some imported drugs, with many companies exempt",
+          "link": "https://www.cnbc.com/2026/04/02/trump-pharmaceutical-tariffs-100percent.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-04-02 21:11 UTC",
+          "analysis_zh": "特朗普政府正在准备对未与总统达成降低美国药品价格协议的药品制造商实施最高达100%的关税。这一政策的实施可能会导致药品价格上涨，影响广大消费者的医疗负担。同时，这也可能促使药品公司与政府达成协议，以避免高额关税带来的经济压力。这一举措在药品行业引发了广泛关注，可能会改变未来药品定价的格局。",
+          "analysis_en": "The Trump administration is preparing to impose tariffs of up to 100% on drug manufacturers that have not reached agreements with the president to lower U.S. drug prices. This policy could lead to increased drug prices, impacting the healthcare costs for many consumers. Additionally, it may push pharmaceutical companies to negotiate with the government to avoid the financial burden of high tariffs. This move has garnered significant attention in the pharmaceutical industry and could alter the future landscape of drug pricing."
         },
         {
           "rank": 8,
-          "title": "Dem senators query gov’t watchdogs over well-timed Wall Street bets",
-          "link": "https://www.investing.com/news/stock-market-news/dem-senators-query-govt-watchdogs-over-welltimed-wall-street-bets-4596456",
+          "title": "Starbucks closes China deal with Boyu, plans to expand stores",
+          "link": "https://www.investing.com/news/stock-market-news/starbucks-closes-china-deal-with-boyu-plans-to-expand-stores-4596552",
           "source": "Stock Market News",
-          "published_utc": "2026-04-02 20:37 UTC",
-          "analysis_zh": "美国民主党参议员对政府监管机构提出质疑，关注一些人在华尔街的投资行为是否存在内幕交易。这一事件引发了对金融市场透明度和公平性的广泛讨论，尤其是在市场波动时，某些投资者能够在关键时刻做出盈利决策。此事可能会导致更严格的监管措施，旨在保护普通投资者的利益，维护市场的公正性。",
-          "analysis_en": "Democratic senators have raised concerns with government watchdogs regarding the possibility of insider trading related to well-timed investments on Wall Street. This issue has sparked a broader discussion about transparency and fairness in the financial markets, particularly when certain investors seem to profit from critical market movements. The situation may lead to stricter regulatory measures aimed at protecting the interests of ordinary investors and ensuring market integrity."
+          "published_utc": "2026-04-02 21:07 UTC",
+          "analysis_zh": "星巴克与博裕资本达成协议，计划在中国扩大门店。这一合作不仅标志着星巴克在中国市场的进一步布局，也显示出其对中国消费市场的信心。随着门店数量的增加，星巴克可能会进一步提升品牌影响力，并吸引更多的消费者。此举对中国咖啡市场的竞争格局也将产生深远影响，可能促使其他品牌加速扩张。",
+          "analysis_en": "Starbucks has reached a deal with Boyu Capital to expand its stores in China. This partnership signifies Starbucks' deeper commitment to the Chinese market and reflects its confidence in the country's consumer landscape. With the increase in store numbers, Starbucks may enhance its brand influence and attract more customers. This move is likely to have a significant impact on the competitive landscape of the Chinese coffee market, potentially prompting other brands to accelerate their expansion efforts."
         },
         {
           "rank": 9,
-          "title": "US judge dismisses most of Blake Lively’s claims against Justin Baldoni",
-          "link": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-most-of-blake-livelys-claims-against-justin-baldoni-4596447",
-          "source": "Stock Market News",
-          "published_utc": "2026-04-02 20:36 UTC",
-          "analysis_zh": "美国法官驳回了布莱克·莱弗利对贾斯汀·巴尔多尼的大部分指控。这一裁决意味着莱弗利在法律上面临的挑战大幅减少，可能会影响她未来的职业生涯和公众形象。此案的结果不仅关乎当事人，还可能对娱乐行业内类似案件的处理产生影响。",
-          "analysis_en": "A U.S. judge has dismissed most of Blake Lively's claims against Justin Baldoni. This ruling significantly reduces the legal challenges Lively faces, which may affect her future career and public image. The outcome of this case is not only important for the individuals involved but could also influence how similar cases are handled in the entertainment industry."
+          "title": "Intel’s stock has been climbing — and this could be its next big catalyst",
+          "link": "https://www.marketwatch.com/story/intels-stock-has-been-climbing-and-this-could-be-its-next-big-catalyst-adc95a17?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-04-02 21:07 UTC",
+          "analysis_zh": "英特尔的股票近期持续上涨，这一趋势可能与其退出一项合资伙伴关系的决定有关。此举不仅能使公司更灵活地调整战略，还可能为其带来新的增长机会。瑞银指出，英特尔还有其他合作关系值得考虑退出，这可能进一步推动其股价上涨。整体来看，这些变化可能会影响投资者对英特尔未来发展的信心。",
+          "analysis_en": "Intel's stock has been on the rise, likely due to its decision to exit a joint partnership. This move could provide the company with greater flexibility in adjusting its strategy and may open up new growth opportunities. UBS has also pointed out other arrangements that Intel might benefit from exiting, which could further boost its stock price. Overall, these changes may influence investor confidence in Intel's future prospects."
         },
         {
           "rank": 10,
-          "title": "Brent oil spot price for actual cargo soars to $141, highest level since 2008 financial crisis",
-          "link": "https://www.cnbc.com/2026/04/02/dated-brent-oil-price-actual-cargo-highest-level-2008.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-04-02 20:36 UTC",
-          "analysis_zh": "布伦特原油现货价格飙升至141美元，创下自2008年金融危机以来的最高水平。这一价格上涨引发了市场的广泛关注，因为它可能会导致全球能源成本的增加，从而影响各国经济的复苏进程。分析师指出，尽管期货价格可能给市场带来一种虚假的安全感，但实际的现货价格反映了供需关系的紧张。未来，这一趋势可能会加剧通货膨胀压力，并影响消费者支出。",
-          "analysis_en": "The spot price of Brent crude oil has surged to $141, the highest level since the 2008 financial crisis. This price increase has garnered significant attention as it could lead to rising energy costs globally, impacting the economic recovery of various countries. Analysts have noted that while futures prices may provide a false sense of security to the market, the actual spot prices reflect a tightening supply-demand balance. Going forward, this trend may exacerbate inflationary pressures and affect consumer spending."
+          "title": "Wall Street ends mixed as worries linger before Good Friday break",
+          "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-slide-as-trump-signals-tougher-iran-strikes-oil-jumps-6-4594732",
+          "source": "Stock Market News",
+          "published_utc": "2026-04-02 21:00 UTC",
+          "analysis_zh": "华尔街股市在复活节前的交易中表现不一，投资者对市场前景感到担忧。这种不确定性可能会影响投资者的信心，导致资金流动性降低。市场的波动性可能在假期后继续存在，影响到各类资产的表现。",
+          "analysis_en": "Wall Street ended mixed as investors expressed concerns about the market outlook ahead of the Good Friday break. This uncertainty could affect investor confidence, leading to decreased liquidity in the market. The volatility may persist after the holiday, impacting the performance of various asset classes."
         }
       ]
     },
     "健康": {
       "description": "医学、营养、抗衰老、代谢与公共健康",
-      "count": 7,
+      "count": 8,
       "items": [
         {
           "rank": 1,
+          "title": "Drinking Raw Milk Is Risky. Should People Be Able to Buy It Anyway?",
+          "link": "https://www.nytimes.com/2026/03/28/us/politics/raw-milk-legal-sale-maha.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-04-02 21:13 UTC",
+          "analysis_zh": "一些州正在考虑通过法案，以扩大对未经过巴氏消毒的生牛奶的获取。支持者认为，消费者应该有权选择自己想要的食品。此举引发了关于食品安全和消费者权利的广泛讨论。生牛奶可能含有有害细菌，增加了健康风险，因此这一政策的实施可能会对公共健康产生重要影响。",
+          "analysis_en": "Several states are contemplating legislation to increase access to unpasteurized milk. Supporters argue that consumers should have the right to choose their food products. This move has sparked a broader discussion about food safety and consumer rights. Since raw milk can contain harmful bacteria, the implementation of such policies could significantly impact public health."
+        },
+        {
+          "rank": 2,
           "title": "E.P.A. Targets Microplastics and Drugs in Drinking Water",
           "link": "https://www.nytimes.com/2026/04/02/climate/microplastics-maha-epa.html",
           "source": "NYT > Health",
           "published_utc": "2026-04-02 19:09 UTC",
-          "analysis_zh": "美国环境保护局（E.P.A.）开始针对饮用水中的微塑料和药物进行监管，这一举措得到了“让美国再次健康”运动领导者的赞扬，他们近期对该机构处理有毒化学物质的方式表示批评。这项新政策的重要性在于，它将有助于改善公众的饮水安全，减少潜在的健康风险。此外，这可能促使其他国家也采取类似措施，进一步推动全球水资源保护的努力。",
-          "analysis_en": "The U.S. Environmental Protection Agency (E.P.A.) has begun to regulate microplastics and pharmaceuticals in drinking water, a move that has been praised by leaders of the Make America Healthy Again movement, who recently criticized the agency's handling of toxic chemicals. This new policy is significant as it aims to improve public drinking water safety and reduce potential health risks. Furthermore, it may encourage other countries to adopt similar measures, thereby advancing global efforts in water resource protection."
+          "analysis_zh": "美国环境保护局（E.P.A.）最近宣布将重点打击饮用水中的微塑料和药物残留。这一举措得到了“让美国再次健康”运动领导者的赞赏，他们此前曾批评该机构在处理有毒化学物质方面的表现。这项新政策的重要性在于，它可能会改善公众的饮水安全，减少潜在的健康风险。此外，这也可能促使其他国家采取类似措施，推动全球范围内的环境保护。",
+          "analysis_en": "The U.S. Environmental Protection Agency (E.P.A.) has recently announced a focus on addressing microplastics and pharmaceutical residues in drinking water. This initiative has been praised by leaders of the Make America Healthy Again movement, who had previously criticized the agency's handling of toxic chemicals. The significance of this new policy lies in its potential to improve public drinking water safety and reduce health risks. Furthermore, it may encourage other countries to adopt similar measures, promoting environmental protection on a global scale."
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Eating more meat may lower Alzheimer’s risk for some people",
           "link": "https://www.sciencedaily.com/releases/2026/04/260401071931.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-04-02 13:49 UTC",
-          "analysis_zh": "一项新的研究发现，携带高风险APOE基因变异的老年人如果摄入较多肉类，可能不会出现预期中的认知衰退。这项研究由卡罗林斯卡学院的研究人员进行，结果挑战了传统的饮食建议，表明饮食对大脑健康的影响可能与个体的遗传背景有关。研究结果可能促使未来的饮食建议更加个性化，以适应不同人群的基因特征。",
-          "analysis_en": "A new study has found that older adults carrying high-risk APOE gene variants may not experience the expected cognitive decline if they consume relatively high amounts of meat. Conducted by researchers at Karolinska Institutet, this study challenges conventional dietary advice, suggesting that the impact of diet on brain health may be influenced by an individual's genetic background. The findings could lead to more personalized dietary recommendations tailored to the genetic profiles of different populations."
+          "analysis_zh": "一项新的研究表明，基因可能会影响饮食对大脑健康的影响，尤其是在阿尔茨海默病风险方面。研究发现，携带高风险APOE基因变异的老年人，如果摄入较多肉类，认知能力下降的速度并没有预期的那么快。这一发现挑战了传统的饮食建议，可能意味着未来的饮食指导可以根据个人的基因特征进行更精确的调整。",
+          "analysis_en": "A new study suggests that genetics may influence how diet impacts brain health, particularly regarding Alzheimer's risk. Researchers found that older adults with high-risk APOE gene variants did not experience the expected cognitive decline if they consumed relatively high amounts of meat. This finding challenges conventional dietary advice and could mean that future dietary guidelines may be tailored more precisely based on an individual's genetic profile."
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Breakthrough could protect the vision cells that let you see faces and colors",
           "link": "https://www.sciencedaily.com/releases/2026/04/260402000225.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-04-02 13:13 UTC",
-          "analysis_zh": "科学家们在保护视网膜中负责清晰和丰富色彩视觉的锥体感光细胞方面取得了重大进展。通过对2700多种化合物进行测试，研究人员发现了一些能够防止这些细胞退化的分子，并揭示了与酪蛋白激酶1相关的关键保护机制。这项研究不仅为治疗相关眼病提供了新的靶点，也可能改变我们对视力丧失的治疗方法，尤其是在年龄相关性黄斑变性等疾病中。",
-          "analysis_en": "Scientists have made a significant breakthrough in protecting cone photoreceptors, the cells responsible for sharp and colorful vision. By testing over 2,700 compounds, researchers identified several molecules that can prevent the degeneration of these cells and revealed a key protective mechanism involving casein kinase 1. This study not only offers a new target for treating related eye diseases but could also transform our approach to treating vision loss, particularly in conditions like age-related macular degeneration."
+          "analysis_zh": "科学家们在保护视网膜中负责清晰和丰富色彩视觉的锥体光感受器方面取得了重要进展。通过对2700多种化合物进行测试，研究人员发现了一些能够防止这些细胞退化的分子，并揭示了与酪蛋白激酶1相关的关键保护机制。这一发现不仅为治疗视网膜相关疾病提供了新的靶点，也可能改变我们对视力损失的治疗方式，尤其是在年龄相关性黄斑变性等常见病症中。",
+          "analysis_en": "Scientists have made significant progress in protecting cone photoreceptors, the cells responsible for sharp and colorful vision. By testing over 2,700 compounds, researchers identified several molecules that can prevent the degeneration of these cells and revealed a key protective mechanism involving casein kinase 1. This discovery not only provides a new target for treating retinal diseases but may also change the way we approach vision loss, particularly in common conditions like age-related macular degeneration."
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "This simple Japanese eating habit could help you live longer without dieting",
           "link": "https://www.sciencedaily.com/releases/2026/04/260401071940.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-04-02 11:03 UTC",
-          "analysis_zh": "“腹八分目”是日本的一种传统饮食习惯，提倡在感觉到约80%饱时停止进食。这一做法受到越来越多的关注，因为它不仅有助于改善健康，还能改变我们与食物的关系。与严格节食不同，这种方法鼓励人们放慢进食速度，关注饥饿信号，并以感恩的心态享用食物。研究表明，这种饮食方式可能有助于减少卡路里摄入，支持更健康的饮食选择，并预防长期的体重增加。",
-          "analysis_en": "The Japanese practice known as \"hara hachi bu\" encourages individuals to stop eating when they feel about 80% full. This approach is gaining attention for its potential to improve health and transform our relationship with food. Unlike strict dieting, it promotes slowing down, being mindful of hunger cues, and appreciating food. Research indicates that this method may help reduce calorie intake, support healthier food choices, and prevent long-term weight gain."
+          "analysis_zh": "“腹八分目”是日本的一种传统饮食习惯，提倡在感到约80%饱时停止进食。这种做法近年来受到关注，因为它不仅有助于改善健康，还能改变我们与食物的关系。与严格的节食不同，这种方法鼓励人们放慢进食速度，关注身体的饥饿信号，并以感恩的心态享用食物。研究表明，这种饮食方式可能有助于减少卡路里摄入，支持更健康的饮食选择，并预防长期的体重增加。",
+          "analysis_en": "\"Hara hachi bu\" is a traditional Japanese eating habit that encourages people to stop eating when they feel about 80% full. This practice has gained attention recently as it not only helps improve health but also reshapes our relationship with food. Unlike strict dieting, it promotes slowing down, tuning into hunger cues, and eating with gratitude. Research suggests that this approach may help reduce calorie intake, support healthier food choices, and prevent long-term weight gain."
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "How A.I. Helped One Man (and His Brother) Build a $1.8 Billion Company",
           "link": "https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html",
           "source": "NYT > Health",
           "published_utc": "2026-04-02 09:02 UTC",
-          "analysis_zh": "一位男子和他的兄弟利用人工智能创建了一家价值18亿美元的公司，展示了AI在企业运营中的巨大潜力。这一发展不仅提高了工作效率，还改变了传统的雇佣模式，减少了对人力资源的依赖。这种趋势可能会影响许多行业，促使企业重新思考如何利用技术来优化运营和降低成本。",
-          "analysis_en": "A man and his brother harnessed artificial intelligence to build a company valued at $1.8 billion, showcasing the immense potential of AI in business operations. This development not only boosts efficiency but also transforms traditional employment models by reducing reliance on human resources. Such a trend may impact various industries, prompting businesses to rethink how they leverage technology to optimize operations and cut costs."
+          "analysis_zh": "一位男子和他的兄弟利用人工智能建立了一家价值18亿美元的公司，这一事件引发了对AI在企业运作中潜力的广泛关注。随着AI技术的不断进步，许多传统工作岗位可能会被取代，这不仅改变了企业的运营模式，也影响了就业市场的结构。此案例展示了AI如何提高效率，但也引发了对人际关系和工作环境孤独感的担忧。",
+          "analysis_en": "A man and his brother built a $1.8 billion company using artificial intelligence, which has sparked widespread interest in the potential of AI in corporate operations. As AI technology continues to advance, many traditional jobs may be displaced, altering not only business models but also the structure of the job market. This case illustrates how AI can enhance efficiency, but it also raises concerns about loneliness and interpersonal relationships in the workplace."
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Scientists discover “molecular shredder” that helps deadly parasite evade the immune system",
           "link": "https://www.sciencedaily.com/releases/2026/04/260402000221.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-04-02 04:31 UTC",
-          "analysis_zh": "科学家发现了一种名为ESB2的蛋白质，它像“分子碎纸机”一样，帮助一种致命的寄生虫在人体血液中隐形。这种寄生虫是导致非洲睡眠病的罪魁祸首，它通过切割自身的遗传指令，能够在表面覆盖保护性蛋白，同时抑制可能暴露其存在的信号。这一发现不仅揭示了寄生虫生存的精妙机制，也可能为改善睡眠病的治疗提供新的思路。",
-          "analysis_en": "Scientists have discovered a protein called ESB2 that acts like a \"molecular shredder,\" helping a deadly parasite evade detection in the human bloodstream. This parasite, responsible for sleeping sickness, can cut its own genetic instructions, allowing it to cloak itself with protective proteins while suppressing signals that might reveal its presence. This finding not only uncovers a sophisticated survival mechanism of the parasite but may also lead to new treatment approaches for sleeping sickness."
+          "analysis_zh": "科学家发现了一种名为ESB2的蛋白质，它像“分子碎纸机”一样，帮助一种致命寄生虫在人体血液中隐藏自己。这种寄生虫是导致非洲睡眠病的罪魁祸首，它通过切割自身的遗传指令来避免被免疫系统识别。这一发现不仅揭示了寄生虫生存的精妙机制，还可能为开发新的治疗方法提供线索，尤其是在撒哈拉以南非洲地区，睡眠病仍然对公共健康构成严重威胁。",
+          "analysis_en": "Scientists have discovered a protein called ESB2 that acts like a \"molecular shredder,\" helping a deadly parasite evade detection in the human bloodstream. This parasite, responsible for sleeping sickness, uses this mechanism to cut up its own genetic instructions, allowing it to remain hidden from the immune system. This finding not only reveals a sophisticated survival strategy of the parasite but also suggests potential avenues for new treatments, particularly in sub-Saharan Africa, where sleeping sickness continues to pose a significant public health challenge."
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "What’s hiding inside colon cancer could change treatment",
           "link": "https://www.sciencedaily.com/releases/2026/04/260401071951.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-04-02 03:54 UTC",
-          "analysis_zh": "研究人员发现结直肠癌可能具有独特的微生物“指纹”，这使其与其他癌症显著不同。这一发现基于对超过9000名患者的DNA分析，挑战了长期以来认为所有癌症都有各自微生物特征的观点。此项研究的重要性在于，它可能改变医生对结直肠癌的理解，帮助他们更好地诊断和治疗该疾病。通过更深入的微生物分析，医生能够制定更个性化的治疗方案，提高患者的治疗效果。",
-          "analysis_en": "Researchers have discovered that colorectal cancer may carry a unique microbial \"fingerprint,\" distinguishing it from other cancers. This finding, based on DNA analysis of over 9,000 patients, challenges the long-held belief that every type of cancer has its own microbial signature. The significance of this research lies in its potential to change how doctors understand and treat colorectal cancer, allowing for more personalized treatment strategies. By gaining deeper insights into the microbial communities associated with this cancer, clinicians may improve patient outcomes through tailored therapies."
+          "analysis_zh": "研究表明，结直肠癌可能具有独特的微生物“指纹”，这项发现可能会改变对该疾病的诊断和治疗方式。通过对超过9000名患者的DNA进行分析，研究人员发现，只有结直肠肿瘤始终携带特定的微生物群落，这挑战了长期以来认为所有癌症都有各自微生物特征的观点。这一发现不仅有助于医生更好地理解结直肠癌的发展和治疗反应，还可能推动个性化医疗的进步。",
+          "analysis_en": "Research indicates that colorectal cancer may possess a unique microbial \"fingerprint,\" a discovery that could transform the diagnosis and treatment of this disease. By analyzing DNA from over 9,000 patients, researchers found that only colorectal tumors consistently host specific microbial communities, challenging the long-held belief that all cancers have their own microbial signatures. This finding not only aids doctors in better understanding the development and treatment responses of colorectal cancer but may also advance the field of personalized medicine."
         }
       ]
     },
@@ -183,8 +192,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/04/260401071931.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-04-02 13:49 UTC",
-          "analysis_zh": "一项新的研究表明，基因可能会影响饮食对大脑健康的影响，尤其是在阿尔茨海默病风险方面。研究发现，携带高风险APOE基因变异的老年人如果摄入相对较多的肉类，认知能力下降的情况并没有如预期那样明显。实际上，这些基因携带者中，肉类摄入量最高的人认知能力下降的速度更慢，患痴呆症的风险也更低。这一发现挑战了传统的饮食建议，可能促使未来的饮食指导更加个性化。",
-          "analysis_en": "A new study suggests that genetics may influence how diet impacts brain health, particularly regarding the risk of Alzheimer's disease. Researchers found that older adults with high-risk APOE gene variants did not experience the expected cognitive decline when they consumed relatively high amounts of meat. In fact, those with these genetic variants who ate the most meat showed slower cognitive decline and lower dementia risk. This finding challenges conventional dietary advice and may lead to more personalized dietary recommendations in the future."
+          "analysis_zh": "一项新的研究表明，基因可能会影响饮食对大脑健康的影响，尤其是在阿尔茨海默病风险方面。研究发现，携带高风险APOE基因变异的老年人，如果摄入较多的肉类，认知能力下降的速度并没有预期的那么快。实际上，这些基因携带者中，肉类摄入量最多的人认知能力下降较慢，患痴呆症的风险也较低。这一发现挑战了传统的饮食建议，可能促使未来的饮食指导更加个性化。",
+          "analysis_en": "A new study suggests that genetics may influence how diet impacts brain health, particularly concerning Alzheimer's risk. Researchers found that older adults with high-risk APOE gene variants did not experience the expected cognitive decline if they consumed relatively high amounts of meat. In fact, those with these gene variants who ate the most meat showed slower cognitive decline and lower dementia risk. This finding challenges conventional dietary advice and may lead to more personalized dietary recommendations in the future."
         },
         {
           "rank": 2,
@@ -192,8 +201,8 @@
           "link": "https://aeon.co/videos/what-a-plants-decision-making-reveals-about-intelligence?utm_source=rss-feed",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-04-02 10:01 UTC",
-          "analysis_zh": "植物的根系虽然没有神经系统，但却能够产生复杂的反应。这一发现引发了对植物智能的重新思考，挑战了我们对意识和反应能力的传统理解。这不仅对植物学研究具有重要意义，也可能影响我们对生态系统中生物相互作用的认识。",
-          "analysis_en": "Plant roots, despite lacking a nervous system, can exhibit complex responses. This discovery prompts a reevaluation of our understanding of intelligence, challenging traditional notions of consciousness and responsiveness. It holds significant implications for botanical research and may also influence our understanding of interactions within ecosystems."
+          "analysis_zh": "植物的根系虽然没有神经系统，但却能产生复杂的反应。这一发现引发了人们对植物智能的重新思考，挑战了我们对智慧的传统定义。了解植物根系的反应机制不仅有助于我们更好地理解植物的生存策略，也可能影响农业和生态系统管理的方法。",
+          "analysis_en": "Plant roots, despite lacking a nervous system, can generate complex responses. This finding prompts a reevaluation of our understanding of intelligence, challenging traditional definitions. Gaining insights into the response mechanisms of plant roots could enhance our understanding of their survival strategies and may influence approaches to agriculture and ecosystem management."
         },
         {
           "rank": 3,
@@ -201,8 +210,8 @@
           "link": "https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition?utm_source=rss-feed",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-04-02 10:00 UTC",
-          "analysis_zh": "弗兰克·劳埃德·赖特（Frank Lloyd Wright）是一位杰出的建筑师，他将个人主义提升到新的高度，使普通生活变得美丽。然而，他的生活却充满了丑闻和悲伤。这一切不仅影响了他的职业生涯，也反映了他对艺术与生活的深刻理解。这些经历使他的建筑作品更具深度和情感，值得我们深入思考。",
-          "analysis_en": "Frank Lloyd Wright was a remarkable architect who elevated individualism and made ordinary life beautiful. However, his life was marked by scandals and grief. These experiences not only affected his career but also reflected his profound understanding of art and life. They added depth and emotion to his architectural works, making them worthy of deeper contemplation."
+          "analysis_zh": "弗兰克·劳埃德·赖特是一位杰出的建筑师，他将个体的价值提升到新的高度，使普通生活变得美丽。然而，他的生活却充满了丑闻和悲痛。这一对比不仅反映了赖特的艺术成就，也揭示了他个人生活中的复杂性。这种矛盾的存在使得赖特的作品更具深度，影响了后世对建筑与生活关系的理解。",
+          "analysis_en": "Frank Lloyd Wright was a remarkable architect who elevated the value of the individual and made ordinary life beautiful. However, his life was also marked by scandal and grief. This contrast not only highlights Wright's artistic achievements but also reveals the complexities of his personal life. The existence of such contradictions adds depth to his work and influences how future generations understand the relationship between architecture and life."
         }
       ]
     },
@@ -212,93 +221,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "PSA: Anyone with a link can view your Granola notes by default",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa",
+          "source": "The Verge",
+          "published_utc": "2026-04-02 21:56 UTC",
+          "analysis_zh": "最近，AI驱动的笔记应用Granola引发了隐私问题。尽管Granola声称用户的笔记默认是“私密的”，但实际上任何拥有链接的人都可以查看这些笔记。此外，除非用户选择退出，Granola还会将这些笔记用于内部AI训练。这一问题引发了对用户数据安全的关注，尤其是在记录敏感会议时，可能会导致信息泄露。",
+          "analysis_en": "Recently, the AI-powered note-taking app Granola has raised privacy concerns. Although Granola claims that users' notes are \"private by default,\" anyone with a link can actually view these notes. Moreover, unless users opt out, Granola uses these notes for internal AI training. This issue has sparked concerns about data security, particularly when recording sensitive meetings, as it could lead to information leaks."
+        },
+        {
+          "rank": 2,
+          "title": "Reddit is moving on from r/all",
+          "link": "https://www.theverge.com/tech/906314/reddit-r-all-deprecating",
+          "source": "The Verge",
+          "published_utc": "2026-04-02 21:50 UTC",
+          "analysis_zh": "Reddit 宣布将逐步淘汰 r/all 这个显示热门帖子的平台功能，目的是为了简化 Reddit 的使用体验并改善首页推荐的个性化。r/all 曾经是一个相对不受过滤的帖子流，尽管包含了一些不适合工作场合的内容，但现在 Reddit 决定将其移除，以便更好地管理用户的内容体验。这一变化可能会影响用户获取信息的方式，尤其是那些依赖 r/all 来发现新内容的用户。不过，老版 Reddit 用户仍然可以继续访问 r/all，这意味着这一功能并不会完全消失。",
+          "analysis_en": "Reddit has announced that it will be phasing out the r/all feature, which displays popular posts on the platform, as part of its efforts to simplify the user experience and enhance personalization of the Home feed. Previously, r/all served as a less filtered feed that included some Not Safe for Work (NSFW) content, but Reddit has decided to remove it to better manage user content experiences. This change may affect how users discover information, particularly those who relied on r/all to find new content. However, users of the old Reddit will still have access to r/all, meaning the feature won't disappear entirely."
+        },
+        {
+          "rank": 3,
+          "title": "The best AirPods deals you can get right now",
+          "link": "https://www.theverge.com/21302051/best-apple-airpods-deals",
+          "source": "The Verge",
+          "published_utc": "2026-04-02 21:19 UTC",
+          "analysis_zh": "最近，苹果的AirPods系列耳机迎来了多项优惠，尤其是AirPods Pro 3和AirPods 4（包括带和不带主动噪声取消功能的版本）。这些耳机在多个购物平台上都能找到折扣，尽管像黑色星期五和亚马逊Prime日这样的重大购物活动提供了更大的价格优惠，但现在仍然可以找到不错的交易。这一现象表明，消费者在购买高科技产品时有更多的选择和机会，可能会影响到苹果的销售策略和市场竞争力。",
+          "analysis_en": "Recently, Apple's AirPods lineup has seen several discounts, particularly on the AirPods Pro 3 and AirPods 4 (both with and without Active Noise Cancellation). These headphones are available at reduced prices across various shopping platforms, and while major events like Black Friday and Amazon Prime Day have offered significant discounts, good deals can still be found now. This trend indicates that consumers have more options and opportunities when purchasing high-tech products, which may influence Apple's sales strategies and market competitiveness."
+        },
+        {
+          "rank": 4,
+          "title": "‘Uncanny Valley’: Iran’s Threats on US Tech, Trump’s Plans for Midterms, and Polymarket’s Pop-up Flop",
+          "link": "https://www.wired.com/story/uncanny-valley-podcast-iran-targets-us-tech-polymarket-pop-up-trump-midterms/",
+          "source": "Feed: Artificial Intelligence Latest",
+          "published_utc": "2026-04-02 21:04 UTC",
+          "analysis_zh": "在最新一集中，讨论了伊朗对美国科技公司的威胁以及特朗普为中期选举所做的准备。此外，还报道了位于华盛顿特区的Polymarket快闪酒吧的情况。这些事件表明，国际关系和国内政治的紧张局势可能会影响科技行业的稳定性。伊朗的威胁可能导致美国科技公司的安全措施加强，同时也可能影响投资者的信心和市场动荡。",
+          "analysis_en": "In the latest episode, discussions centered around Iran's threats to U.S. tech companies and Trump's preparations for the midterm elections. Additionally, a report was provided on the Polymarket pop-up bar in Washington, D.C. These events highlight how tensions in international relations and domestic politics could impact the stability of the tech industry. Iran's threats may lead to increased security measures for U.S. tech firms and could also affect investor confidence and market volatility."
+        },
+        {
+          "rank": 5,
           "title": "OpenAI Buys Streaming Show ‘TBPN,’ Aiming to Change Narrative on A.I.",
           "link": "https://www.nytimes.com/2026/04/02/technology/openai-buys-tbpn.html",
           "source": "NYT > Technology",
           "published_utc": "2026-04-02 20:16 UTC",
-          "analysis_zh": "OpenAI 最近收购了流媒体节目《TBPN》，旨在改变公众对人工智能的看法。此举的重要性在于，它为人们提供了一个平台，以进行关于人工智能带来的变化的真实和建设性的对话。这不仅有助于提升公众对人工智能的理解，还可能影响未来政策的制定和社会对技术的接受度。",
-          "analysis_en": "OpenAI has recently acquired the streaming show \"TBPN\" with the goal of changing the public narrative around artificial intelligence. This move is significant as it provides a platform for real and constructive conversations about the changes brought by AI. This could not only enhance public understanding of AI but may also influence future policy-making and society's acceptance of technology."
+          "analysis_zh": "OpenAI 最近收购了流媒体节目《TBPN》，旨在改变公众对人工智能的看法。该公司表示，这笔交易将帮助他们创造一个关于人工智能带来的变化的真实且建设性的对话空间。这一举措不仅有助于提升公众对人工智能的理解，还可能影响未来相关政策的制定和社会对技术的接受度。",
+          "analysis_en": "OpenAI has recently acquired the streaming show \"TBPN\" with the goal of changing the public narrative around artificial intelligence. The company stated that this deal will help them create a space for real and constructive conversations about the changes brought by A.I. This initiative not only aims to enhance public understanding of A.I. but may also influence future policy-making and societal acceptance of technology."
         },
         {
-          "rank": 2,
+          "rank": 6,
           "title": "This bike rack pioneer is selling Bluetooth suction cups to stick bikes to your car",
           "link": "https://www.theverge.com/gadgets/906076/allen-smart-suction-go-bike-rack",
           "source": "The Verge",
           "published_utc": "2026-04-02 20:05 UTC",
-          "analysis_zh": "自行车架的先驱理查德·艾伦并没有发明汽车自行车架，但他在1967年的专利申请中明确指出，早在他之前就有其他人做过类似的事情。经过近六十年的发展，他的公司Allen Bikes现在推出了一款名为“Smart Suction Go”的新产品，这是一种使用蓝牙监控的吸盘，可以将自行车固定在汽车上。这款售价299美元的产品通过智能压力传感器来减少用户的焦虑，确保吸力在自行车掉落之前就能被检测到。这项创新不仅提升了自行车运输的安全性，也可能改变消费者对吸盘式自行车架的看法。",
-          "analysis_en": "Richard Allen, a pioneer in bike racks, did not invent the automobile bike rack, as his 1967 patent application indicates that others came before him. After nearly sixty years in the business, his company, Allen Bikes, has now introduced a new product called the \"Smart Suction Go,\" which uses Bluetooth-monitored suction cups to secure bikes to cars. Priced at $299, this product features smart pressure sensors designed to reduce user anxiety by detecting suction failure before the bike can fall. This innovation not only enhances the safety of transporting bikes but may also change consumer perceptions of suction cup bike mounts."
+          "analysis_zh": "自行车架的先驱理查德·艾伦并没有发明汽车自行车架，但他在1967年的专利申请中明确指出，早在他之前就已有其他人提出过类似的设计。经过近六十年的发展，他的公司艾伦自行车现在推出了一款新的产品——蓝牙监控的吸盘，可以将自行车固定在汽车上。这一创新不仅提升了自行车运输的安全性，还可能改变人们对传统自行车架的看法，吸引更多消费者关注和使用这种新技术。",
+          "analysis_en": "Richard Allen, a pioneer in bike racks, did not invent the automobile bike rack, as his 1967 patent application indicates that others had come before him. After nearly sixty years in the business, his company, Allen Bikes, has now introduced a new product: Bluetooth-monitored suction cups that can secure bikes to cars. This innovation not only enhances the safety of transporting bikes but may also shift consumer perceptions of traditional bike racks, potentially attracting more attention and users to this new technology."
         },
         {
-          "rank": 3,
+          "rank": 7,
           "title": "The ABS Challenge System is exposing the worst umpire in baseball",
           "link": "https://www.theverge.com/entertainment/906151/mlb-abs-challenge-system-cb-bucknor-worst-umpire-baseball",
           "source": "The Verge",
           "published_utc": "2026-04-02 19:50 UTC",
-          "analysis_zh": "在周三坦帕湾光芒队与密尔沃基酿酒人队的比赛中，裁判CB Bucknor遭遇了一次严重的失误，他被一记飞球击中头盔，不得不被帮助离场。这一事件标志着他在本周经历的糟糕表现的顶点，尤其是在新引入的自动球击挑战系统下，他的判罚引发了更多争议。这个系统允许球员对球和好球的判罚提出挑战，这使得裁判的表现更加受到 scrutiny。Bucknor的表现可能会影响他在裁判界的声誉，并引发对裁判员培训和技术支持的讨论。",
-          "analysis_en": "During Wednesday's game between the Tampa Bay Rays and the Milwaukee Brewers, umpire CB Bucknor suffered a significant mishap when he was hit in the mask by a foul ball and had to be assisted off the field. This incident capped off a particularly poor week for him, especially under the scrutiny of the newly implemented Automated Ball-Strike (ABS) Challenge System, which has heightened the focus on umpire performance. This system allows players to challenge calls on balls and strikes, making umpires' decisions more contentious. Bucknor's struggles may impact his reputation in the umpiring community and spark discussions about referee training and technological support."
+          "analysis_zh": "在周三坦帕湾光芒队与密尔沃基酿酒人队的比赛中，裁判CB Bucknor遭遇了一次严重的失误，因接到一记犯规球而被迫离场。这一事件标志着他在本周的表现尤为糟糕，尤其是在新引入的自动球击挑战系统（ABS Challenge System）下，他的判罚受到更多 scrutiny。此系统允许球队对球的判罚进行挑战，增加了比赛的戏剧性和公平性，Bucknor的表现可能会影响他在未来比赛中的裁判地位。",
+          "analysis_en": "During Wednesday's game between the Tampa Bay Rays and the Milwaukee Brewers, umpire CB Bucknor suffered a significant mishap when he was hit by a foul ball and had to leave the field. This incident capped off a particularly poor week for him, especially under the scrutiny of the newly introduced Automated Ball-Strike (ABS) Challenge System, which allows teams to challenge calls. This system adds drama and fairness to the game, and Bucknor's performance may affect his standing as an umpire in future matches."
         },
         {
-          "rank": 4,
+          "rank": 8,
           "title": "OpenAI Acquires Tech Talk Show ‘TBPN’—and Buys Itself Some Positive News",
           "link": "https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/",
           "source": "Feed: Artificial Intelligence Latest",
           "published_utc": "2026-04-02 19:29 UTC",
-          "analysis_zh": "OpenAI 最近收购了一个名为 TBPN 的商业谈话节目，该节目在硅谷精英中颇受欢迎。这一举措旨在改善 OpenAI 面临的负面公众形象。通过收购这样一个受欢迎的平台，OpenAI 希望能够更好地传达其技术优势和企业愿景，从而吸引更多的支持者和投资者。此举可能会影响公众对 OpenAI 的看法，并为其未来的发展铺平道路。",
-          "analysis_en": "OpenAI has recently acquired a business talk show called TBPN, which is popular among Silicon Valley elites. This move aims to improve OpenAI's negative public image. By acquiring such a well-regarded platform, OpenAI hopes to better communicate its technological strengths and corporate vision, thereby attracting more supporters and investors. This initiative could influence public perception of OpenAI and pave the way for its future development."
+          "analysis_zh": "OpenAI 最近收购了一个名为 TBPN 的商业谈话节目，该节目在硅谷精英中颇受欢迎。这一举措旨在改善 OpenAI 的公众形象，尤其是在公司面临负面舆论的情况下。通过收购 TBPN，OpenAI 希望能够借助该节目传递更积极的信息，增强与公众的联系。这一收购可能会影响 OpenAI 的品牌形象，并为其未来的业务发展创造更有利的环境。",
+          "analysis_en": "OpenAI has recently acquired a business talk show called TBPN, which is popular among Silicon Valley elites. This move aims to improve OpenAI's public image, especially as the company faces negative press. By acquiring TBPN, OpenAI hopes to leverage the show to convey more positive messages and strengthen its connection with the public. This acquisition could influence OpenAI's brand perception and create a more favorable environment for its future business endeavors."
         },
         {
-          "rank": 5,
+          "rank": 9,
           "title": "Pinterest said he violated laid-off colleagues’ privacy. Now he’s going public",
           "link": "https://www.theverge.com/policy/906122/pinterest-employee-fired-obstructionist-speaks-out",
           "source": "The Verge",
           "published_utc": "2026-04-02 19:27 UTC",
-          "analysis_zh": "在一月份末，Pinterest的工程师泰迪·马丁因公司裁员而感到紧张。尽管他在裁员中幸存下来，但他和其他员工对被裁员工的名单及原因感到困惑。马丁分享了一个工具，试图揭示裁员的范围，却因此被公司解雇。此事件引发了对公司透明度和员工隐私的广泛讨论，可能会影响其他科技公司的裁员政策和员工信任。",
-          "analysis_en": "At the end of January, Pinterest engineer Teddy Martin felt anxious about recent layoffs at the company. Although he survived the cuts, he and other employees were confused about who was being laid off and why. Martin shared a tool that aimed to clarify the scope of the layoffs, but he was subsequently fired for doing so. This incident has sparked widespread discussions about company transparency and employee privacy, which may influence layoff policies and employee trust at other tech companies."
+          "analysis_zh": "在一月末，Pinterest的工程师泰迪·马丁对公司最近的裁员感到不安。尽管他在裁员中幸存下来，但他和其他员工对被裁员的原因感到困惑。为了了解裁员的具体情况，马丁在Slack上分享了一个工具，该工具可以显示被停用员工的名单。然而，他的帖子很快被管理员删除，随后他也因此被解雇。此事件引发了对公司内部透明度和员工隐私的广泛讨论，可能会影响其他科技公司的裁员政策和员工权益保护。",
+          "analysis_en": "In late January, Pinterest engineer Teddy Martin felt uneasy about recent layoffs at the company. Although he had survived the cuts, he and other employees were confused about the reasons behind the layoffs. To gain clarity, Martin shared a tool on Slack that revealed a list of deactivated employee accounts. However, his post was quickly removed by an administrator, and he was subsequently fired. This incident has sparked a broader discussion about internal transparency and employee privacy, which could influence layoff policies and employee rights protections in other tech companies."
         },
         {
-          "rank": 6,
+          "rank": 10,
           "title": "Trump fires US attorney general Pam Bondi",
           "link": "https://www.theverge.com/policy/905961/pam-bondi-fired",
           "source": "The Verge",
           "published_utc": "2026-04-02 19:08 UTC",
-          "analysis_zh": "唐纳德·特朗普在社交媒体上宣布，忠诚的朋友、美国总检察长帕姆·邦迪将转任尚未公布的私营部门职位。邦迪的离职与前国土安全部长克里斯蒂·诺姆的被解职相近，显示出特朗普政府内部的动荡。邦迪在处理与TikTok相关的事务以及施压科技公司阻止ICE追踪应用方面扮演了重要角色。此举可能会影响特朗普政府在法律和政策方面的稳定性，尤其是在即将到来的选举中。",
-          "analysis_en": "Donald Trump announced on social media that his \"loyal friend,\" Attorney General Pam Bondi, will transition to an undisclosed position in the private sector. Bondi's departure closely follows the ousting of former Homeland Security Secretary Kristi Noem, indicating turmoil within the Trump administration. She played a significant role in matters related to TikTok and pressured tech companies to block ICE-tracking apps. This move could impact the stability of Trump's administration in legal and policy areas, especially with the upcoming elections."
-        },
-        {
-          "rank": 7,
-          "title": "Apple’s Fitness Chief, Who Was Accused of Harassment, Is Retiring",
-          "link": "https://www.nytimes.com/2026/04/01/technology/apples-fitness-chief-who-was-accused-of-harassment-is-retiring.html",
-          "source": "NYT > Technology",
-          "published_utc": "2026-04-02 19:07 UTC",
-          "analysis_zh": "苹果公司的健身主管因被指控骚扰而宣布退休。这位高管在公司向健身科技和服务领域扩展的过程中扮演了重要角色。此次事件引发了对公司文化和领导层责任的广泛关注，可能会影响苹果在健身市场的声誉和未来发展。随着公众对职场行为的重视，企业需要更加重视员工的安全和道德标准。",
-          "analysis_en": "Apple's fitness chief has announced his retirement following allegations of harassment. This executive played a significant role in the company's expansion into fitness technology and services. The incident has raised widespread concerns about corporate culture and leadership accountability, potentially impacting Apple's reputation and future in the fitness market. As public awareness of workplace behavior increases, companies need to prioritize employee safety and ethical standards."
-        },
-        {
-          "rank": 8,
-          "title": "A New Google-Funded Data Center Will Be Powered by a Massive Gas Plant",
-          "link": "https://www.wired.com/story/a-new-google-funded-data-center-will-be-powered-by-a-massive-gas-plant/",
-          "source": "Feed: Artificial Intelligence Latest",
-          "published_utc": "2026-04-02 18:27 UTC",
-          "analysis_zh": "谷歌的一座新数据中心将由一座天然气发电厂供电，该发电厂每年排放数百万吨的温室气体。这一趋势在科技行业中日益普遍，引发了对可持续发展的担忧。随着数据中心对能源需求的不断增加，依赖化石燃料的做法可能会对环境造成更大的压力，并影响公众对科技公司的信任。此举可能促使更多企业重新考虑其能源来源，以寻求更环保的替代方案。",
-          "analysis_en": "A new data center funded by Google will be powered by a natural gas plant that emits millions of tons of greenhouse gases annually. This trend is becoming increasingly common in the tech industry, raising concerns about sustainability. As the demand for energy from data centers continues to grow, reliance on fossil fuels may put more pressure on the environment and affect public trust in tech companies. This move could prompt more businesses to reconsider their energy sources in search of greener alternatives."
-        },
-        {
-          "rank": 9,
-          "title": "Five questions for the guys who made a compass that points to the Times Square Olive Garden",
-          "link": "https://www.theverge.com/gadgets/905977/five-questions-for-the-guys-who-made-a-compass-that-points-to-the-times-square-olive-garden",
-          "source": "The Verge",
-          "published_utc": "2026-04-02 18:24 UTC",
-          "analysis_zh": "近日，一群创意团队推出了一款指向时代广场橄榄园的指南针。这款指南针的独特之处在于，它只会指向这个特定的餐厅，而不是其他地方。这一创意不仅引发了人们的好奇，也反映了现代人对简单、直观体验的渴望。在数字设备普及的今天，这种回归传统的产品可能会吸引那些希望暂时摆脱手机依赖的消费者。",
-          "analysis_en": "Recently, a creative team launched a compass that points exclusively to the Olive Garden in Times Square. What makes this compass unique is that it directs users only to this specific restaurant, rather than other locations. This idea not only piques curiosity but also highlights a modern desire for simple and intuitive experiences. In an age dominated by digital devices, such a return to traditional products may appeal to consumers looking to temporarily disconnect from their reliance on smartphones."
-        },
-        {
-          "rank": 10,
-          "title": "Elon Musk is about to be a very busy boy!",
-          "link": "https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla",
-          "source": "The Verge",
-          "published_utc": "2026-04-02 18:15 UTC",
-          "analysis_zh": "埃隆·马斯克即将迎来一段繁忙的时光。他不仅要处理特斯拉的多项公告，还要面对与OpenAI的法律纠纷，以及SpaceX的首次公开募股（IPO）。这一系列事件的重要性在于，它们可能会影响投资者对马斯克及其公司的信心，尤其是在经历了去年狗狗币事件后。随着SpaceX IPO的临近，市场对其表现的关注度将会加大，这可能会对整个航天行业产生深远影响。",
-          "analysis_en": "Elon Musk is about to enter a very busy period. He has several Tesla announcements to manage, a contentious legal battle with OpenAI, and the upcoming IPO for SpaceX. The significance of these events lies in their potential impact on investor confidence in Musk and his companies, especially following the controversies surrounding Dogecoin last year. As the SpaceX IPO approaches, market attention will intensify, which could have far-reaching effects on the entire aerospace industry."
+          "analysis_zh": "唐纳德·特朗普在社交媒体上宣布，忠诚的朋友帕姆·邦迪将离开她的美国检察总长职位，转向尚未公布的私营部门工作。邦迪在处理TikTok收购、施压科技公司阻止ICE追踪应用程序以及释放爱泼斯坦文件等问题上扮演了重要角色。她的离职紧随前国土安全部长克里斯蒂·诺姆的被解职，这可能会影响特朗普政府的法律政策和对科技公司的监管。",
+          "analysis_en": "Donald Trump announced on social media that his \"loyal friend\" Pam Bondi will leave her position as U.S. Attorney General to take on an undisclosed role in the private sector. Bondi played a significant role in issues such as the TikTok takeover, pressuring tech companies to block ICE-tracking apps, and the release of Epstein files. Her departure closely follows the ousting of former Homeland Security Secretary Kristi Noem, which may impact the Trump administration's legal policies and regulation of tech companies."
         }
       ]
     },
@@ -308,93 +317,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "Kanye West Plays First American Concert Since 2021",
+          "link": "https://www.nytimes.com/2026/04/02/arts/music/kanye-west-concert-los-angeles.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-04-02 21:54 UTC",
+          "analysis_zh": "曾以坎耶·韦斯特（Kanye West）为名的说唱歌手在经历了多年的反犹太主义行为后，于2021年后首次在美国举行完整的现场演出。这场演出引发了广泛关注，因为它标志着他在公众视野中的回归，同时也引发了对他过去言论的讨论。这一事件可能会影响他的音乐事业和公众形象，尤其是在他曾经引发争议的背景下。",
+          "analysis_en": "The rapper formerly known as Kanye West performed his first full live concert in the United States since 2021, following years of antisemitic behavior. This performance garnered significant attention as it marks his return to the public eye, while also reigniting discussions about his past remarks. The event may impact his music career and public image, particularly given the controversies he has previously stirred."
+        },
+        {
+          "rank": 2,
+          "title": "Blake Lively’s Retaliation Case Against Justin Baldoni Heads to Trial Without Harassment Claims",
+          "link": "https://www.nytimes.com/2026/04/02/movies/blake-lively-justin-baldoni-harassment-claims-dismissed.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-04-02 21:38 UTC",
+          "analysis_zh": "布莱克·莱弗利针对贾斯廷·巴尔多尼的报复案即将进入审判阶段，但她的性骚扰指控已被联邦法官驳回。这一裁决为即将到来的审判奠定了基础，可能会引发激烈的法律争论。此案的结果不仅会影响莱弗利的职业生涯，也可能对其他面临类似情况的女性产生重要影响。",
+          "analysis_en": "Blake Lively's retaliation case against Justin Baldoni is heading to trial, but her sexual harassment claims have been dismissed by a federal judge. This ruling sets the stage for a contentious legal battle ahead. The outcome of this case could significantly impact Lively's career and may also have broader implications for other women facing similar situations."
+        },
+        {
+          "rank": 3,
           "title": "Ex-Turnstile Guitarist Charged With Attempted Murder of Bandmate’s Father",
           "link": "https://www.nytimes.com/2026/04/02/arts/music/turnstile-brady-ebert-attempted-murder.html",
           "source": "NYT > Arts",
           "published_utc": "2026-04-02 21:03 UTC",
-          "analysis_zh": "巴尔的摩硬核朋克乐队Turnstile的创始成员布雷迪·埃伯特被控以谋杀未遂，因他用车撞击了乐队主唱布伦丹·耶茨的父亲。这一事件引发了公众的广泛关注，因为它不仅涉及乐队成员之间的关系，还可能对乐队的未来产生重大影响。乐队的形象和音乐事业可能会受到损害，同时也引发了对音乐圈中暴力行为的讨论。",
-          "analysis_en": "Brady Ebert, a founding member of the Baltimore hardcore punk band Turnstile, has been charged with attempted murder after allegedly hitting the father of the band's lead vocalist, Brendan Yates, with his car. This incident has garnered significant public attention as it not only affects the relationships within the band but could also have serious implications for their future. The band's image and musical career may suffer as a result, while also sparking discussions about violence in the music scene."
+          "analysis_zh": "巴尔的摩硬核朋克乐队的创始成员布雷迪·埃伯特被控以谋杀未遂，因他用车撞击了乐队主唱布伦丹·耶茨的父亲。这一事件引起了广泛关注，因为它不仅涉及音乐界的知名人物，还反映了暴力行为对个人和家庭的深远影响。此案的进展可能会对乐队的未来和成员之间的关系产生重大影响，也可能影响公众对音乐圈内暴力事件的看法。",
+          "analysis_en": "Brady Ebert, a founding member of the Baltimore hardcore punk band, has been charged with attempted murder for hitting the father of the band's lead vocalist, Brendan Yates, with his car. This incident has garnered significant attention as it involves well-known figures in the music scene and highlights the profound impact of violent behavior on individuals and families. The outcome of this case could have major implications for the band's future and the relationships among its members, as well as influence public perceptions of violence in the music industry."
         },
         {
-          "rank": 2,
+          "rank": 4,
           "title": "ten architect-designed birdwatching stations that shape how we observe nature",
           "link": "https://www.designboom.com/architecture/ten-architect-design-birdwatching-stations-observe-nature/",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-04-02 21:00 UTC",
-          "analysis_zh": "最近，有十个由建筑师设计的鸟类观察站被介绍，这些观察站的设计充分考虑了周围的生态系统。这些专门为鸟类观察而建的空间，不仅提供了观察自然的机会，还促进了人们对生态保护的关注。这一举措的重要性在于，它不仅提升了人们的自然体验，还可能激发更多人参与到环境保护中来，从而促进可持续发展的理念。",
-          "analysis_en": "Recently, ten architect-designed birdwatching stations have been introduced, with designs that take the surrounding ecosystems into account. These spaces, specifically built for birdwatching, not only provide opportunities to observe nature but also raise awareness about ecological conservation. The significance of this initiative lies in its potential to enhance people's experiences with nature and inspire greater involvement in environmental protection, thus promoting the concept of sustainability."
+          "analysis_zh": "最近，设计界推出了十个由建筑师设计的鸟类观察站，这些空间不仅为观鸟提供了便利，还充分考虑了周围的生态系统。这些观察站的设计旨在增强人们与自然的联系，促进生态保护意识。这样的建筑不仅美观，还能提升人们对鸟类及其栖息环境的关注，从而可能影响未来的城市规划和生态设计理念。",
+          "analysis_en": "Recently, the design community unveiled ten architect-designed birdwatching stations that not only facilitate birdwatching but also take the surrounding ecosystems into account. These stations are intended to enhance people's connection with nature and promote awareness of ecological conservation. Such structures are not only aesthetically pleasing but may also increase public interest in birds and their habitats, potentially influencing future urban planning and ecological design concepts."
         },
         {
-          "rank": 3,
-          "title": "Blake Lively’s Retaliation Case Against Justin Baldoni Heads to Trial Without Harassment Claims",
-          "link": "https://www.nytimes.com/2026/04/02/movies/blake-lively-justin-baldoni-harassment-claims-dismissed.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-04-02 20:54 UTC",
-          "analysis_zh": "布莱克·莱弗利对贾斯廷·巴尔多尼的报复案件即将进入审判阶段，但她的性骚扰指控被联邦法官驳回。这一裁决为即将到来的审判奠定了基础，可能会引发激烈的法律争论。这一案件引起了公众的关注，因为它涉及到性别歧视和职场安全等重要议题，可能会对类似案件的处理产生影响。",
-          "analysis_en": "Blake Lively's retaliation case against Justin Baldoni is heading to trial, but her sexual harassment claims have been dismissed by a federal judge. This ruling sets the stage for a potentially contentious trial, drawing public attention to issues of gender discrimination and workplace safety. The outcome may influence how similar cases are handled in the future."
-        },
-        {
-          "rank": 4,
+          "rank": 5,
           "title": "Experimental pavilion in Oregon \"challenges the rectilinear logic\" of mass timber",
           "link": "https://www.dezeen.com/2026/04/02/lake-flato-structurecraft-dlt-pavilion-oregon/",
           "source": "Dezeen",
           "published_utc": "2026-04-02 20:29 UTC",
-          "analysis_zh": "美国建筑事务所Lake Flato与工程公司Structurecraft在俄勒冈州的木材大会上展示了一座实验性展馆，采用了木榫层压木材（DLT）。这一材料最早在20世纪70年代和80年代的德国开发，近年来在美国市场逐渐受到欢迎。该展馆通过挑战传统的直线逻辑，展示了木材建筑设计的新可能性。这一创新不仅推动了木材建筑的设计理念，也可能影响未来建筑材料的选择和使用方式。",
-          "analysis_en": "The US architecture firm Lake Flato and engineering company Structurecraft showcased an experimental pavilion at the Mass Timber Conference in Oregon, utilizing dowel-laminated timber (DLT). This material was originally developed in Germany in the 1970s and 1980s and has gained popularity in the US market in recent years. The pavilion challenges traditional rectilinear logic, presenting new possibilities in timber architecture design. This innovation not only advances design concepts in timber construction but may also influence future choices and applications of building materials."
+          "analysis_zh": "美国建筑事务所Lake Flato与工程公司Structurecraft在俄勒冈州的木材大会上合作建造了一个实验性展馆，采用了榫接层压木材（DLT）。这一材料在1970和1980年代首次在德国研发，近年来在美国市场逐渐受到欢迎。这个展馆的设计挑战了传统的矩形逻辑，展示了木材建筑的新可能性。这一创新不仅推动了建筑设计的边界，也可能影响未来木材建筑的使用和发展方向。",
+          "analysis_en": "The US architecture firm Lake Flato and engineering company Structurecraft collaborated to create an experimental pavilion using dowel-laminated timber (DLT) at the Mass Timber Conference in Oregon. Originally developed in Germany during the 1970s and 1980s, DLT has gained popularity in the US market in recent years. The pavilion's design challenges traditional rectilinear logic, showcasing new possibilities in timber architecture. This innovation not only pushes the boundaries of architectural design but may also influence the future use and development of timber construction."
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Art Gallery Shows to See in April",
           "link": "https://www.nytimes.com/2026/04/02/arts/art-gallery-shows-to-see-in-april.html",
           "source": "NYT > Arts",
           "published_utc": "2026-04-02 20:27 UTC",
-          "analysis_zh": "本周的艺术评论中，特拉维斯·迪尔介绍了几场值得关注的艺术展览，包括帕特·奥莱斯科的滑稽街头剧、保罗·陈的充气装置、大卫·阿姆斯特朗的宁静好奇心，以及托尔比约恩·罗德兰的微妙尴尬。这些展览展示了当代艺术的多样性和创新性，吸引了观众的注意。它们不仅丰富了艺术界的表现形式，也可能影响未来艺术创作的方向和风格。",
-          "analysis_en": "This week in Newly Reviewed, Travis Diehl highlights several noteworthy art exhibitions, including Pat Oleszko's burlesque street theater, Paul Chan's inflatables, David Armstrong's calm curiosity, and Torbjorn Rodland's subtle awkwardness. These exhibitions showcase the diversity and innovation in contemporary art, capturing the attention of audiences. They not only enrich the artistic landscape but may also influence the direction and style of future artistic creations."
+          "analysis_zh": "本周的艺术评论中，特拉维斯·迪尔介绍了几场值得关注的艺术展览，包括帕特·奥莱斯科的滑稽街头剧、保罗·陈的充气装置、大卫·阿姆斯特朗的宁静好奇心以及托尔比约恩·罗德兰的微妙尴尬。这些展览展示了当代艺术的多样性和创新性，吸引了观众的注意。艺术展览不仅丰富了文化生活，还可能影响人们对艺术的理解和欣赏方式。",
+          "analysis_en": "This week in Newly Reviewed, Travis Diehl highlights several art exhibitions worth seeing, including Pat Oleszko’s burlesque street theater, Paul Chan’s inflatables, David Armstrong’s calm curiosity, and Torbjorn Rodland’s subtle awkwardness. These exhibitions showcase the diversity and innovation of contemporary art, drawing the attention of audiences. Art exhibitions not only enrich cultural life but may also influence how people understand and appreciate art."
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Trump’s White House Ballroom Plan Stalls as Congress Balks",
           "link": "https://www.artnews.com/art-news/news/trump-white-house-ballroom-halted-congress-1234779783/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-04-02 20:20 UTC",
-          "analysis_zh": "特朗普的白宫舞厅建设计划因国会缺乏支持而被联邦法官下令暂停。法官强调，除非立法者授权，否则该项目的施工必须停止。这一决定不仅影响了特朗普政府的形象，也可能对未来的基础设施项目审批流程产生深远影响，反映出国会对特朗普政策的抵制态度。",
-          "analysis_en": "A federal judge has ordered the halt of Trump's White House ballroom construction project due to a lack of support from Congress. The judge emphasized that construction must stop unless lawmakers authorize it. This decision not only impacts the image of the Trump administration but may also have significant implications for the approval process of future infrastructure projects, reflecting Congress's resistance to Trump's policies."
+          "analysis_zh": "近期，一名联邦法官下令停止特朗普政府的白宫舞厅建设项目，除非国会授权。这一决定引发了广泛关注，因为该项目的推进不仅涉及政府预算，还可能影响特朗普的政治形象和未来的政策方向。如果国会无法达成一致，项目可能会面临长期搁置，进而影响白宫的公共活动和国家形象。",
+          "analysis_en": "Recently, a federal judge ordered the halt of the Trump administration's White House ballroom construction project unless Congress authorizes it. This decision has garnered significant attention as the project's advancement involves government funding and could impact Trump's political image and future policy directions. If Congress fails to reach an agreement, the project may face prolonged delays, affecting public events at the White House and the nation's image."
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Lebanese Artist Ali Cherri Files War Crimes Complaint Against Israel After 2024 Beirut Bombing",
           "link": "https://www.artnews.com/art-news/news/lebanese-artist-ali-cherri-files-war-crimes-complaint-against-israel-after-2024-beirut-bombing-1234779773/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-04-02 20:15 UTC",
-          "analysis_zh": "黎巴嫩艺术家阿里·切里（Ali Cherri）与国际人权联合会一起，针对以色列在2024年贝鲁特轰炸中造成其父母遇难的事件，向国际法庭提出了战争罪投诉。这一事件引发了广泛关注，因为它不仅涉及个人的悲剧，也反映了更广泛的地区冲突和人权问题。切里的投诉可能会促使国际社会对以色列的军事行动进行更深入的调查，并可能影响未来的外交关系和人道主义援助。",
-          "analysis_en": "Lebanese artist Ali Cherri, along with the International Federation for Human Rights, has filed a war crimes complaint against Israel following the bombing in Beirut in 2024 that killed his parents. This incident has garnered significant attention as it highlights not only a personal tragedy but also broader issues of regional conflict and human rights. Cherri's complaint could lead to increased scrutiny of Israel's military actions by the international community and may influence future diplomatic relations and humanitarian aid efforts."
+          "analysis_zh": "黎巴嫩艺术家阿里·切里（Ali Cherri）与国际人权联合会共同提出了对以色列的战争罪指控，原因是2024年贝鲁特的一次空袭导致他的父母遇难。这一事件引发了对以色列在冲突中使用武力的广泛关注，尤其是在平民伤亡方面。切里的投诉不仅是对个人悲剧的反应，也可能促使国际社会对以色列的军事行动进行更深入的调查和审视。",
+          "analysis_en": "Lebanese artist Ali Cherri, along with the International Federation for Human Rights, has filed a war crimes complaint against Israel following an airstrike in Beirut in 2024 that killed his parents. This incident has drawn significant attention to the issue of civilian casualties in the conflict and the use of military force by Israel. Cherri's complaint is not only a personal response to his tragedy but may also encourage the international community to conduct a more thorough investigation and scrutiny of Israel's military actions."
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Andy Warhol’s Former Studio Building Now Home to New Uniqlo Union Square Store",
           "link": "https://www.artnews.com/art-news/news/andy-warhol-former-studio-buildingnew-uniqlo-union-square-store-1234779770/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-04-02 20:09 UTC",
-          "analysis_zh": "安迪·沃霍尔曾经的工作室大楼现在变成了新的优衣库店。这座位于联合广场的六层商业建筑的三楼曾是沃霍尔的“工厂”，他在这里创作了许多著名的艺术作品。这一变化不仅标志着沃霍尔艺术遗产的延续，也反映了现代商业与艺术文化的交融。新店的开设可能会吸引更多游客和艺术爱好者，进一步推动该地区的经济发展。",
-          "analysis_en": "Andy Warhol's former studio building has now been transformed into a new Uniqlo store. The third floor of this six-story commercial building in Union Square was once home to Warhol's \"Factory,\" where he created many of his iconic artworks. This change not only signifies the continuation of Warhol's artistic legacy but also reflects the blending of modern commerce with art culture. The opening of the new store may attract more tourists and art enthusiasts, further boosting the economic development of the area."
+          "analysis_zh": "安迪·沃霍尔曾经的工作室大楼现在被改造成了优衣库的新店。这座位于联合广场的六层商业建筑的三楼曾是沃霍尔的“工厂”，他在这里工作了十年。这个转变不仅标志着艺术与商业的交汇，也让人们重新关注沃霍尔的艺术遗产。优衣库的入驻可能会吸引更多的顾客，进一步推动该地区的经济发展。",
+          "analysis_en": "Andy Warhol's former studio building has been transformed into a new Uniqlo store. This six-story commercial building, located in Union Square, housed Warhol's \"Factory\" on the third floor for a decade. This change signifies a convergence of art and commerce, renewing interest in Warhol's artistic legacy. The arrival of Uniqlo may attract more customers, potentially boosting the local economy further."
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "\"The lime struggle is over\" thanks to Corona's latest campaign",
           "link": "https://www.dezeen.com/2026/04/02/corona-limes-guides/",
           "source": "Dezeen",
           "published_utc": "2026-04-02 20:00 UTC",
-          "analysis_zh": "全球知名啤酒品牌Corona推出了一项名为“Lime Guides”的新活动，旨在解决许多消费者在饮用时遇到的青柠切割问题。此次活动在国际青柠日（3月10日）推出，品牌重新设计了青柠，使其更适合插入Corona啤酒中。这一创新不仅提升了饮用体验，也可能吸引更多消费者关注和购买该品牌的产品。",
-          "analysis_en": "Global beer brand Corona has launched a new campaign called \"Lime Guides\" to address the common issue of poorly fitting lime wedges that many consumers face. This campaign was launched on International Lime Day, March 10, and features a redesigned lime that fits perfectly into Corona beers. This innovation not only enhances the drinking experience but may also attract more consumers to the brand's products."
-        },
-        {
-          "rank": 10,
-          "title": "‘The Blue Trail’ Review: A Drifting Journey Into Freedom",
-          "link": "https://www.nytimes.com/2026/04/02/movies/the-blue-trail-review.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-04-02 19:17 UTC",
-          "analysis_zh": "在一部设定在虚构巴西的作品中，故事讲述了一位77岁的坚强女性，她在社会强制剔除老年人的背景下，努力寻求在亚马逊的独立。这部作品不仅探讨了老年人在现代社会中的地位，还反映了对自由和自我认同的深刻追求。这一主题的重要性在于，它引发了人们对老年人权利和社会包容性的思考，可能会影响观众对年龄歧视的认识和态度。",
-          "analysis_en": "In a fictional setting in Brazil, the story follows a determined 77-year-old woman who seeks her independence in the Amazon amid a society that forcibly removes older people. This work not only examines the status of the elderly in modern society but also reflects a profound quest for freedom and self-identity. The significance of this theme lies in its ability to provoke thoughts on the rights of older individuals and social inclusivity, potentially influencing viewers' perceptions and attitudes towards age discrimination."
+          "analysis_zh": "全球知名啤酒品牌Corona推出了一项新活动，旨在解决许多饮用者在使用青柠时遇到的切割问题。该活动在国际青柠日（3月10日）发布，名为“青柠指南”，展示了数千个经过重新设计的青柠，确保它们能够完美地切割成楔形，方便放入Corona啤酒中。这项创新不仅提升了饮用体验，也反映了品牌对消费者需求的关注，可能会吸引更多青睐于这种饮品的消费者。",
+          "analysis_en": "Global beer brand Corona has launched a new campaign aimed at addressing the common issue many drinkers face with lime wedges. Released on International Lime Day, March 10, the campaign, titled \"Lime Guides,\" showcases thousands of redesigned limes that are perfectly sliced for wedging into a Corona. This innovation not only enhances the drinking experience but also demonstrates the brand's responsiveness to consumer needs, potentially attracting more fans of the beverage."
         }
       ]
     }
