@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-05 21:01:08 UTC",
-  "generated_at_unix": 1775422868,
+  "generated_at": "2026-04-05 21:58:05 UTC",
+  "generated_at_unix": 1775426285,
   "window": {
-    "from_utc": "2026-04-04 21:01:08 UTC",
-    "to_utc": "2026-04-05 21:01:08 UTC",
+    "from_utc": "2026-04-04 21:58:05 UTC",
+    "to_utc": "2026-04-05 21:58:05 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,93 +14,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "Dow Jones Futures Loom As Trump Says Iran Faces 'Hell' If No Deal; Sandisk Leads 7 Stocks To Watch",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-threatens-iran-hell-hormuz-oil-prices-sandisk/?src=A00220&yptr=yahoo",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-04-05 21:34 UTC",
+          "analysis_zh": "特朗普表示，如果伊朗没有达成协议，将面临“地狱”，这一言论引发了市场的关注。此时，道琼斯期货的走势也备受瞩目，投资者正在密切关注国际局势对市场的潜在影响。此事件可能会影响能源价格和全球股市，尤其是在中东地区的紧张局势加剧的背景下。",
+          "analysis_en": "Trump stated that Iran would face \"hell\" if no deal is reached, drawing significant attention from the markets. Meanwhile, the movement of Dow Jones futures is also under scrutiny as investors closely monitor the potential impact of international developments on the market. This situation could affect energy prices and global stock markets, especially given the escalating tensions in the Middle East."
+        },
+        {
+          "rank": 2,
+          "title": "Will Washington's Millionaires' Tax Drive The Rich Out Of The State?",
+          "link": "https://finance.yahoo.com/economy/policy/articles/washingtons-millionaires-tax-drive-rich-213204367.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-04-05 21:32 UTC",
+          "analysis_zh": "华盛顿州正在考虑对百万富翁征税，这一政策可能会导致富人选择离开该州。此举的目的在于增加州政府的税收，以支持公共服务和基础设施建设。然而，这种高税率可能会使一些高收入者转向税负较轻的州，从而影响华盛顿州的经济活力和就业机会。此政策的实施可能会引发更广泛的讨论，涉及税制公平性和经济发展的平衡。",
+          "analysis_en": "Washington State is considering implementing a millionaire's tax, which could drive wealthy individuals to leave the state. The aim of this policy is to increase state revenue to support public services and infrastructure. However, high tax rates may push some high earners to relocate to states with lighter tax burdens, potentially affecting Washington's economic vitality and job opportunities. The implementation of this policy could spark broader discussions about tax fairness and the balance between economic growth and taxation."
+        },
+        {
+          "rank": 3,
+          "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+          "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4597664",
+          "source": "Stock Market News",
+          "published_utc": "2026-04-05 21:20 UTC",
+          "analysis_zh": "俄罗斯股市在交易结束时出现下跌，尽管MOEX俄罗斯指数保持不变。这一现象反映了市场对经济前景的不确定性，投资者可能对未来的政策变化感到担忧。股市的波动可能会影响投资者的信心，从而影响到资本流入和整体经济增长。",
+          "analysis_en": "Russian stocks closed lower, while the MOEX Russia Index remained unchanged. This situation reflects uncertainty in the market regarding the economic outlook, with investors possibly concerned about future policy changes. The fluctuations in the stock market may affect investor confidence, which in turn could influence capital inflows and overall economic growth."
+        },
+        {
+          "rank": 4,
+          "title": "Nebius Stock Jumped 15% on Its Meta Deal. Is This the Next CoreWeave -- or Something Better?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-jumped-15-meta-212000784.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-04-05 21:20 UTC",
+          "analysis_zh": "Nebius的股票因与Meta达成合作协议而上涨了15%。这一交易引起了市场的广泛关注，因为它可能标志着Nebius在云计算领域的崛起。投资者对这项合作的前景表示乐观，认为这可能会推动公司的进一步发展并吸引更多的投资。随着技术行业的竞争加剧，Nebius的成功与否将对其未来的市场地位产生重要影响。",
+          "analysis_en": "Nebius's stock jumped 15% following its deal with Meta. This transaction has garnered significant attention in the market as it may signify Nebius's rise in the cloud computing sector. Investors are optimistic about the prospects of this partnership, believing it could drive further growth for the company and attract more investments. As competition intensifies in the tech industry, Nebius's success will have a crucial impact on its future market position."
+        },
+        {
+          "rank": 5,
+          "title": "I’m a Crypto Expert: Here’s Why I’d Stop Buying Bitcoin With Trump in Office",
+          "link": "https://finance.yahoo.com/markets/crypto/articles/m-crypto-expert-why-d-210006603.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-04-05 21:00 UTC",
+          "analysis_zh": "随着特朗普再次担任总统，许多加密货币专家开始重新评估比特币的投资前景。一位专家表示，在特朗普执政期间，他将停止购买比特币，认为这可能会导致市场的不确定性加剧。这一观点引发了广泛关注，因为特朗普的政策和言论往往会对金融市场产生重大影响。投资者可能会因此重新考虑他们在加密货币领域的策略，尤其是在政策变化可能影响市场情绪的情况下。",
+          "analysis_en": "As Trump returns to office, many cryptocurrency experts are reassessing the investment outlook for Bitcoin. One expert has stated that he would stop buying Bitcoin during Trump's presidency, believing it could lead to increased market uncertainty. This perspective has garnered significant attention, as Trump's policies and rhetoric often have a substantial impact on financial markets. Investors may reconsider their strategies in the cryptocurrency space, particularly as policy changes could influence market sentiment."
+        },
+        {
+          "rank": 6,
+          "title": "A new MIT-backed tool shows exactly why your electricity bill is going up in your neighborhood — you should be concerned",
+          "link": "https://finance.yahoo.com/sectors/energy/articles/mit-backed-tool-shows-exactly-205500689.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-04-05 20:55 UTC",
+          "analysis_zh": "麻省理工学院支持的一项新工具揭示了为什么你所在社区的电费在上涨。这一发现引起了人们的关注，因为电费的增加可能会影响家庭的经济负担，尤其是在通货膨胀和生活成本上升的背景下。了解电费上涨的原因，有助于消费者做出更明智的决策，并可能促使政策制定者采取措施来缓解这一问题。",
+          "analysis_en": "A new tool backed by MIT reveals why electricity bills are rising in certain neighborhoods. This finding is significant as the increase in electricity costs can strain household budgets, especially amid rising inflation and living expenses. Understanding the reasons behind these hikes can help consumers make more informed decisions and may encourage policymakers to take action to address the issue."
+        },
+        {
+          "rank": 7,
+          "title": "Top Wall Street analysts see strong growth potential in these 3 stocks",
+          "link": "https://www.cnbc.com/2026/04/05/top-wall-street-analysts-see-strong-growth-potential-in-these-3-stocks.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-04-05 20:51 UTC",
+          "analysis_zh": "根据TipRanks的分析，华尔街顶级分析师认为，尽管短期市场波动加剧，投资者仍应关注三只具有强劲增长潜力的股票。这些股票被认为在未来有较大的上涨空间，可能为投资者带来可观的回报。此消息对于希望在不确定的市场环境中寻找长期投资机会的投资者尤为重要。",
+          "analysis_en": "According to analysis from TipRanks, top Wall Street analysts believe that despite increased short-term market volatility, investors should focus on three stocks with strong growth potential. These stocks are seen as having significant upside in the future, potentially providing substantial returns for investors. This news is particularly important for those looking for long-term investment opportunities in an uncertain market environment."
+        },
+        {
+          "rank": 8,
           "title": "Peloton Is Moving in the Right Direction, But It Still Has to Solve This 1 Problem",
           "link": "https://finance.yahoo.com/markets/stocks/articles/peloton-moving-direction-still-solve-203500057.html",
           "source": "Yahoo Finance",
           "published_utc": "2026-04-05 20:35 UTC",
-          "analysis_zh": "Peloton最近在业务上取得了一些积极进展，但仍面临一个关键问题需要解决。尽管公司在用户增长和收入方面有所改善，但其高昂的运营成本和库存管理问题依然困扰着它。这一问题的解决对Peloton的未来至关重要，因为它将直接影响公司的盈利能力和市场竞争力。如果Peloton能够有效应对这些挑战，可能会吸引更多投资者并提升品牌形象。",
-          "analysis_en": "Peloton has recently made some positive strides in its business, but it still faces a critical issue that needs to be addressed. While the company has seen improvements in user growth and revenue, it continues to struggle with high operational costs and inventory management challenges. Resolving this issue is crucial for Peloton's future, as it will directly impact the company's profitability and market competitiveness. If Peloton can effectively tackle these challenges, it may attract more investors and enhance its brand image."
+          "analysis_zh": "Peloton最近在业务上取得了一些积极进展，但仍面临一个关键问题需要解决。该公司在提升用户体验和增加订阅者方面做出了努力，这对于其未来的增长至关重要。解决这一问题将直接影响Peloton的市场竞争力和财务表现，可能会吸引更多的投资者关注。",
+          "analysis_en": "Peloton has recently made some positive strides in its business, but it still faces a critical issue that needs to be addressed. The company has been working on enhancing user experience and increasing its subscriber base, which is vital for its future growth. Resolving this issue will directly impact Peloton's market competitiveness and financial performance, potentially attracting more investor interest."
         },
         {
-          "rank": 2,
-          "title": "Rich Dad Poor Dad author gives more bad news to Americans",
-          "link": "https://finance.yahoo.com/economy/policy/articles/rich-dad-poor-dad-author-203200836.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-04-05 20:32 UTC",
-          "analysis_zh": "《富爸爸穷爸爸》的作者罗伯特·清崎近日再次发出警告，称美国经济面临严峻挑战。他指出，通货膨胀和高利率将对普通家庭的财务状况产生重大影响，可能导致更多人陷入经济困境。这一消息引发了公众的广泛关注，尤其是在许多家庭已经感受到生活成本上升的情况下。清崎的观点可能会促使人们重新审视自己的投资策略和财务规划，以应对未来的不确定性。",
-          "analysis_en": "Robert Kiyosaki, the author of \"Rich Dad Poor Dad,\" has recently issued another warning about the severe challenges facing the U.S. economy. He highlights that inflation and high interest rates will significantly impact the financial situation of average families, potentially leading more people into economic hardship. This news has garnered widespread attention, especially as many households are already feeling the strain of rising living costs. Kiyosaki's insights may prompt individuals to reevaluate their investment strategies and financial planning in light of future uncertainties."
-        },
-        {
-          "rank": 3,
+          "rank": 9,
           "title": "‘I was shoveling sidewalks at 8 years old’: I’m a 73-year-old boomer dad with two kids. Here’s what I teach them about finance",
           "link": "https://www.marketwatch.com/story/i-was-shoveling-sidewalks-at-8-years-old-im-a-73-year-old-boomer-dad-with-two-kids-heres-what-i-teach-them-about-finance-339e1295?mod=mw_rss_topstories",
           "source": "MarketWatch.com - Top Stories",
           "published_utc": "2026-04-05 20:17 UTC",
-          "analysis_zh": "这篇文章讲述了一位73岁的父亲，他在8岁时就开始铲雪，经历了艰辛的成长过程。他的父母对金融和投资几乎没有知识，因此他和朋友们不得不自己摸索。文章强调了教育下一代金融知识的重要性，这不仅能帮助他们更好地管理个人财务，还能为未来的投资决策打下基础。这种传承可能会影响到家庭的经济状况和孩子们的生活方式。",
-          "analysis_en": "The article discusses a 73-year-old father who started shoveling sidewalks at the age of eight and has faced a challenging upbringing. With parents who had little knowledge of finance and investing, he and his friends had to learn on their own. The piece highlights the importance of educating the next generation about financial literacy, which can help them manage personal finances better and make informed investment decisions in the future. This knowledge transfer could significantly impact the family's economic situation and the lifestyle of the children."
+          "analysis_zh": "这位73岁的父亲分享了他对孩子们的财务教育经验。他提到自己在8岁时就开始铲雪赚钱，因为他的父母对金融和投资一无所知。他希望通过自己的经历，教导孩子们理财的重要性。这一故事反映了许多家庭在财务教育方面的缺失，强调了早期理财知识对未来的影响。",
+          "analysis_en": "This 73-year-old father shares his experiences in teaching his children about finance. He recalls shoveling sidewalks at the age of eight to earn money, as his parents knew nothing about finance and investing. He aims to impart the importance of financial literacy to his kids through his own experiences. This story highlights the lack of financial education in many families and emphasizes the impact that early financial knowledge can have on the future."
         },
         {
-          "rank": 4,
+          "rank": 10,
           "title": "‘I plan to take out a mortgage’: My father died. Should I buy the family home from my mom at a 40% discount?",
           "link": "https://www.marketwatch.com/story/i-plan-to-take-out-a-mortgage-my-father-died-should-i-buy-the-family-home-from-my-mom-at-a-40-discount-b6a3ac7b?mod=mw_rss_topstories",
           "source": "MarketWatch.com - Top Stories",
           "published_utc": "2026-04-05 20:16 UTC",
-          "analysis_zh": "一位年轻人在父亲去世后，考虑以40%的折扣从母亲那里购买家庭住宅。他一直在照顾母亲，并且他们目前各自住在房子的不同单元。这一决定不仅关乎家庭财产的继承，还涉及到情感和经济的双重考量。购买家庭住宅可能会影响他未来的财务状况，同时也可能改变他与母亲的关系。",
-          "analysis_en": "A young man is contemplating buying the family home from his mother at a 40% discount after the death of his father. He has been caring for his mother, and they currently occupy separate units in the house. This decision involves not only the inheritance of family property but also emotional and financial considerations. Purchasing the family home could impact his future financial situation and may also alter his relationship with his mother."
-        },
-        {
-          "rank": 5,
-          "title": "XRP Price Prediction April 2026: Why Analysts Are Split Between $1.15 and $1.60",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-price-prediction-april-2026-201418337.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-04-05 20:14 UTC",
-          "analysis_zh": "分析显示，分析师对2026年4月XRP价格的预测存在分歧，预期价格在1.15美元至1.60美元之间。这一差异反映了市场对XRP未来表现的不同看法，可能受到监管政策、市场需求和技术发展等多重因素的影响。XRP作为一种主要的加密货币，其价格波动不仅影响投资者的信心，也可能对整个加密市场的稳定性产生影响。",
-          "analysis_en": "Analysts are divided on the price prediction for XRP in April 2026, with estimates ranging from $1.15 to $1.60. This discrepancy highlights differing opinions in the market regarding XRP's future performance, influenced by factors such as regulatory policies, market demand, and technological advancements. As a significant cryptocurrency, fluctuations in XRP's price can impact investor confidence and may also affect the overall stability of the crypto market."
-        },
-        {
-          "rank": 6,
-          "title": "5 Things to Know About OpenAI Before Its IPO",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/5-things-know-openai-ipo-200400215.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-04-05 20:04 UTC",
-          "analysis_zh": "OpenAI即将进行首次公开募股（IPO），这一消息引起了广泛关注。作为人工智能领域的领军企业，OpenAI的上市不仅将为其带来更多的资金支持，还可能推动整个行业的发展。投资者对OpenAI的未来表现充满期待，这可能会影响其他科技公司的股市表现和投资趋势。",
-          "analysis_en": "OpenAI is preparing for its initial public offering (IPO), which has garnered significant attention. As a leader in the artificial intelligence sector, OpenAI's listing will not only provide it with additional funding but may also stimulate growth across the industry. Investors are eager to see how OpenAI performs in the market, which could influence stock performance and investment trends for other tech companies."
-        },
-        {
-          "rank": 7,
-          "title": "‘I feel overwhelmed’: I’m 56 and only have $60,000 in my IRA. Is it too late for me?",
-          "link": "https://www.marketwatch.com/story/i-feel-overwhelmed-im-56-and-have-a-60-000-sep-ira-is-it-too-late-for-me-3671eba9?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-04-05 20:01 UTC",
-          "analysis_zh": "一位56岁的女性在投资方面感到不安，她的个人退休账户（IRA）中只有6万美元。尽管她的丈夫有养老金，但她担心如果丈夫在她之前去世，她将面临经济困境。这一情况引发了对中年人退休规划的关注，尤其是如何在晚些时候开始储蓄的挑战。随着人口老龄化，许多人可能会面临类似的财务压力，这可能会影响他们的生活质量和退休选择。",
-          "analysis_en": "A 56-year-old woman is feeling overwhelmed about her financial situation, as she only has $60,000 in her Individual Retirement Account (IRA). Although her husband has a pension, she worries that if he passes away before her, she could be left with nothing. This situation highlights the challenges of retirement planning for middle-aged individuals, especially those who start saving later in life. As the population ages, many may face similar financial pressures, which could impact their quality of life and retirement options."
-        },
-        {
-          "rank": 8,
-          "title": "Factbox-How many people have been killed in the Iran war?",
-          "link": "https://www.investing.com/news/stock-market-news/factboxhow-many-people-have-been-killed-in-the-iran-war-4597662",
-          "source": "Stock Market News",
-          "published_utc": "2026-04-05 19:54 UTC",
-          "analysis_zh": "伊朗战争导致的人员伤亡情况引起了国际社会的广泛关注。随着冲突的升级，伤亡人数不断增加，这不仅影响了当地民众的生活，也对地区的稳定构成了威胁。国际社会对此事的反应可能会影响未来的外交政策和军事干预策略。",
-          "analysis_en": "The casualties from the Iran war have drawn significant attention from the international community. As the conflict escalates, the rising death toll is affecting the lives of local civilians and poses a threat to regional stability. The international response to this situation may influence future diplomatic policies and military intervention strategies."
-        },
-        {
-          "rank": 9,
-          "title": "Dow Jones Futures Loom As Trump Says Iran Faces 'Hell' If No Deal; Sandisk Leads 7 Stocks To Watch",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-threatens-iran-hell-hormuz-oil-prices-sandisk/?src=A00220&yptr=yahoo",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-04-05 19:30 UTC",
-          "analysis_zh": "特朗普表示，如果与伊朗没有达成协议，伊朗将面临“地狱”。这一言论引发了市场的关注，尤其是在道琼斯期货即将开盘之际。此事件可能会影响投资者对中东局势的看法，并导致相关股票的波动，尤其是那些与能源和军事相关的公司。",
-          "analysis_en": "Trump stated that Iran will face \"hell\" if no deal is reached, which has drawn attention from the markets, particularly as Dow Jones futures are set to open. This statement could influence investors' perceptions of the situation in the Middle East and lead to fluctuations in stocks, especially those related to energy and defense sectors."
-        },
-        {
-          "rank": 10,
-          "title": "Trump vows Iran will be 'living in Hell' by Tuesday if Strait of Hormuz deadline missed",
-          "link": "https://www.cnbc.com/2026/04/05/us-trump-confirms-missing-us-pilot-rescued.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-04-05 18:51 UTC",
-          "analysis_zh": "特朗普在社交媒体上发文表示，如果伊朗未能在周二之前遵守霍尔木兹海的最后期限，伊朗将会“生活在地狱中”。这一言论引发了对美国与伊朗关系的广泛关注，尤其是在当前中东局势紧张的背景下。特朗普的威胁可能会加剧地区的不稳定，影响国际油价和全球市场的信心。",
-          "analysis_en": "Trump posted on social media that Iran will be \"living in Hell\" if it fails to meet the deadline regarding the Strait of Hormuz by Tuesday. This statement has drawn significant attention to U.S.-Iran relations, especially given the current tensions in the Middle East. Trump's threats could escalate regional instability and impact international oil prices and global market confidence."
+          "analysis_zh": "一位年轻人在父亲去世后，考虑以40%的折扣从母亲那里购买家庭住宅。他一直在照顾母亲，并且他们各自住在房子的不同单元。这一决定不仅关系到家庭的经济状况，也可能影响到他与母亲的关系。购买家庭住宅可以为他提供稳定的居住环境，但同时也意味着承担更多的财务责任。",
+          "analysis_en": "A young man is contemplating buying the family home from his mother at a 40% discount after his father's passing. He has been caring for his mother, and they currently occupy separate units in the house. This decision is significant as it impacts the family's financial situation and may also affect his relationship with his mother. Acquiring the family home could provide him with a stable living environment, but it also entails taking on greater financial responsibilities."
         }
       ]
     },
@@ -114,8 +114,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/04/260405065236.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-04-05 11:08 UTC",
-          "analysis_zh": "科学家们发现了一种名为FTL1的蛋白质，它在大脑衰老过程中起着重要作用。在老化的小鼠中，FTL1水平升高导致神经元之间的连接减弱，从而引发记忆下降。然而，当研究人员降低FTL1的水平时，意想不到的事情发生了：大脑开始恢复，重新建立了失去的连接，并改善了记忆表现。这一发现对理解大脑衰老机制具有重要意义，可能为开发新的治疗方法提供线索。",
-          "analysis_en": "Scientists have identified a protein called FTL1 that plays a crucial role in brain aging. In aging mice, elevated levels of FTL1 weakened the connections between neurons, leading to memory decline. However, when researchers reduced FTL1 levels, they observed a remarkable recovery in the brain, with lost connections being rebuilt and memory performance improving. This discovery is significant for understanding the mechanisms of brain aging and may offer new avenues for treatment development."
+          "analysis_zh": "科学家们发现了一种名为FTL1的蛋白质，它在大脑衰老过程中发挥着重要作用。在衰老的小鼠中，FTL1水平的升高削弱了神经元之间的连接，导致记忆力下降。然而，当研究人员降低FTL1的水平时，令人惊讶的现象出现了——大脑开始恢复，重建了失去的连接，并改善了记忆表现。这一发现不仅为理解大脑衰老提供了新线索，也可能为开发新的治疗方法带来希望。",
+          "analysis_en": "Scientists have identified a protein called FTL1 that plays a crucial role in brain aging. In aging mice, elevated levels of FTL1 weakened the connections between neurons, leading to memory decline. Remarkably, when researchers reduced FTL1 levels, the brain began to recover, rebuilding lost connections and improving memory performance. This discovery not only sheds light on the mechanisms of brain aging but also holds potential for developing new treatments for age-related cognitive decline."
         },
         {
           "rank": 2,
@@ -123,8 +123,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/04/260403224458.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-04-05 04:38 UTC",
-          "analysis_zh": "科学家们研发出一种由甘蔗蛋白制成的人造唾液，能够有效保护牙齿并抵抗细菌。这种名为CANECPI-5的关键成分能够直接与牙釉质结合，形成抵御导致龋齿的酸性物质的保护层。早期测试表明，当与氟化物和木糖醇搭配使用时，其效果更佳，显著减少牙齿损伤。这项创新对癌症患者尤其重要，因为他们在治疗后常常会失去唾液的分泌，导致口腔健康问题。",
-          "analysis_en": "Scientists have developed an artificial saliva made from sugarcane protein that can effectively protect teeth and combat bacteria. The key ingredient, CANECPI-5, binds directly to enamel, forming a protective layer against acids that cause tooth decay. Early tests indicate that it works even better when combined with fluoride and xylitol, significantly reducing damage to teeth. This innovation is particularly important for cancer patients, who often lose saliva production after treatment, leading to serious oral health issues."
+          "analysis_zh": "科学家们研发出一种由甘蔗蛋白制成的人造唾液，能够有效保护牙齿并抵抗细菌。关键成分CANECPI-5能够直接附着在牙釉质上，形成一层抵御酸性物质的保护膜，防止蛀牙的产生。早期测试显示，当与氟化物和木糖醇结合使用时，其效果更佳，显著减少了牙齿的损伤。这项创新对于因癌症治疗而失去唾液分泌的患者来说，可能具有重要的改变生活的意义。",
+          "analysis_en": "Scientists have developed an artificial saliva made from sugarcane protein that effectively protects teeth and fights bacteria. The key ingredient, CANECPI-5, binds directly to enamel, forming a protective layer against acids that cause decay. Early tests indicate that its effectiveness is enhanced when combined with fluoride and xylitol, significantly reducing damage to teeth. This innovation could be particularly life-changing for cancer patients who lose saliva production due to treatment."
         },
         {
           "rank": 3,
@@ -132,8 +132,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/04/260403224500.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-04-05 03:06 UTC",
-          "analysis_zh": "一项新研究发现，肠道细菌和代谢物可能是早期检测严重消化疾病的关键。科学家们利用人工智能发现，某种疾病相关的生物标志物往往可以预测其他疾病，这表明这些疾病之间的联系比之前认为的更为紧密。这一跨疾病的洞察力可能会导致更快的诊断，且无需侵入性程序，从而改善患者的治疗体验。",
-          "analysis_en": "A new study has revealed that gut bacteria and metabolites may be crucial for the early detection of serious digestive diseases. Researchers used artificial intelligence to find that biomarkers associated with one condition can often predict others, indicating a closer connection between these diseases than previously understood. This cross-disease insight could lead to faster diagnoses without invasive procedures, ultimately improving patient care and treatment outcomes."
+          "analysis_zh": "一项新的研究揭示，肠道细菌和代谢物可能是早期检测严重消化疾病的关键。科学家们利用人工智能发现，某种疾病相关的生物标志物通常可以预测其他疾病，表明这些疾病之间的联系比之前认为的更为紧密。这一跨疾病的洞察可能会促使更快的诊断，而无需进行侵入性检查。这项研究的成果有望改善胃癌、结直肠癌和炎症性肠病等疾病的检测和治疗方式。",
+          "analysis_en": "A new study reveals that gut bacteria and metabolites may be key to detecting serious digestive diseases earlier. Scientists used artificial intelligence to find that biomarkers associated with one condition can often predict others, indicating that these diseases are more interconnected than previously thought. This cross-disease insight could lead to faster diagnoses without invasive procedures. The findings could significantly improve the detection and treatment of conditions such as gastric cancer, colorectal cancer, and inflammatory bowel disease."
         }
       ]
     },
@@ -147,8 +147,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/04/260405065236.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-04-05 11:08 UTC",
-          "analysis_zh": "科学家们发现了一种名为FTL1的蛋白质，它在大脑衰老中扮演着重要角色。在老鼠实验中，FTL1的水平升高导致神经元之间的连接减弱，从而引发记忆衰退。然而，当研究人员降低FTL1的水平时，老鼠的大脑开始恢复，失去的连接得以重建，记忆表现也得到了改善。这一发现不仅为理解大脑衰老提供了新线索，还可能为开发新的治疗方法开辟了道路。",
-          "analysis_en": "Scientists have identified a protein called FTL1 that plays a crucial role in brain aging. In experiments with aging mice, increased levels of FTL1 weakened the connections between neurons, leading to memory decline. However, when researchers reduced FTL1 levels, the mice's brains began to recover, rebuilding lost connections and improving memory performance. This discovery not only sheds light on the mechanisms of brain aging but also opens up potential avenues for developing new treatments."
+          "analysis_zh": "科学家们发现了一种名为FTL1的蛋白质，它在大脑衰老过程中发挥着重要作用。在衰老的小鼠中，FTL1的水平升高导致神经元之间的连接减弱，从而引发记忆衰退。然而，当研究人员降低FTL1的水平时，令人惊讶的是，大脑开始恢复，重新建立失去的连接并改善记忆表现。这项发现不仅为理解大脑衰老提供了新的线索，也可能为开发治疗记忆障碍的新方法奠定基础。",
+          "analysis_en": "Scientists have identified a protein called FTL1 that plays a crucial role in brain aging. In aging mice, elevated levels of FTL1 weakened the connections between neurons, leading to memory decline. Remarkably, when researchers reduced FTL1 levels, the brain began to recover, rebuilding lost connections and enhancing memory performance. This discovery not only sheds light on the mechanisms of brain aging but may also pave the way for new treatments for memory disorders."
         }
       ]
     },
@@ -162,8 +162,8 @@
           "link": "https://www.theverge.com/entertainment/907174/los-thuthanaka-waka-review",
           "source": "The Verge",
           "published_utc": "2026-04-05 18:30 UTC",
-          "analysis_zh": "Los Thuthanaka乐队在去年凭借自名专辑意外获得Pitchfork年度专辑奖，然而由于该专辑未在流媒体平台上发布，导致其在音乐界的关注度相对较低。最近，他们发布了新EP《Wak’a》，这张专辑在节奏上有所放缓，展现了更为柔和的音乐风格，融合了传统玻利维亚乐器和迷幻摇滚的元素。这一变化不仅让乐迷重新审视他们的音乐，也可能影响他们在未来音乐市场中的定位和受众群体。",
-          "analysis_en": "Los Thuthanaka emerged last year to unexpectedly win Pitchfork's Album of the Year with their self-titled debut, but it largely flew under the radar since it wasn't available on streaming platforms. Recently, they released a new EP titled \"Wak’a,\" which slows down the tempo and presents a mellower musical style, blending traditional Bolivian instruments with elements of psychedelic rock. This shift not only invites listeners to reassess their music but may also influence their positioning and audience in the future music market."
+          "analysis_zh": "Los Thuthanaka乐队在去年凭借自名专辑意外获得Pitchfork的年度专辑奖，然而由于该专辑未在流媒体平台上发布，导致其在大众视野中并不显眼。最近，他们发布了新EP《Wak’a》，这张专辑的风格更加柔和，节奏也有所放缓，展现了对传统玻利维亚乐器的采样和迷幻摇滚的结合。这一变化可能会吸引更广泛的听众，并为乐队在音乐界的进一步发展奠定基础。",
+          "analysis_en": "Los Thuthanaka emerged last year to unexpectedly win Pitchfork's Album of the Year with their self-titled debut, but it largely went unnoticed due to its absence on streaming platforms. Recently, they released a new EP titled \"Wak’a,\" which features a softer sound and a slower tempo, blending samples of traditional Bolivian instruments with psychedelic rock. This shift in style may attract a broader audience and lay the groundwork for the band's further development in the music scene."
         },
         {
           "rank": 2,
@@ -171,8 +171,8 @@
           "link": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
           "source": "The Verge",
           "published_utc": "2026-04-05 16:00 UTC",
-          "analysis_zh": "AI音乐平台Suno的政策是不允许使用受版权保护的材料。用户可以上传自己的曲目进行混音或将原创歌词与AI生成的音乐结合。然而，Suno的版权过滤系统显然存在漏洞，容易被用户绕过，导致其生成的AI音乐与流行歌曲如碧昂丝的《Freedom》或黑安息日的《Paranoid》极为相似。这一问题不仅可能侵犯版权，还可能影响音乐创作的合法性和市场，给音乐产业带来新的挑战。",
-          "analysis_en": "The AI music platform Suno has a policy that prohibits the use of copyrighted material. Users can upload their own tracks for remixing or set original lyrics to AI-generated music. However, it turns out that Suno's copyright filtering system is quite easy to bypass, allowing the generation of AI music that closely resembles popular songs like Beyoncé's \"Freedom\" or Black Sabbath's \"Paranoid.\" This issue not only raises concerns about copyright infringement but also poses challenges to the legitimacy of music creation and could impact the music industry significantly."
+          "analysis_zh": "AI音乐平台Suno的政策是不允许使用受版权保护的材料。用户可以上传自己的曲目进行混音或将原创歌词与AI生成的音乐结合。然而，Suno的版权过滤系统却存在漏洞，容易被用户绕过，导致其生成的AI音乐模仿流行歌曲的情况频繁出现。这一现象引发了对音乐版权保护的担忧，可能会影响创作者的收益和音乐产业的整体生态。",
+          "analysis_en": "The AI music platform Suno has a policy against the use of copyrighted material. Users can upload their own tracks for remixing or set original lyrics to AI-generated music. However, the copyright filtering system of Suno has proven to be easily bypassed, resulting in frequent generation of AI imitations of popular songs. This raises concerns about music copyright protection and could impact the earnings of creators and the overall ecosystem of the music industry."
         },
         {
           "rank": 3,
@@ -180,8 +180,8 @@
           "link": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
           "source": "The Verge",
           "published_utc": "2026-04-05 14:00 UTC",
-          "analysis_zh": "谷歌的Gemini在地图上的新功能引起了关注。尽管它在Gmail中已经存在了一段时间，但作为地图的新成员，它的表现令人惊喜。通过让Gemini为我规划一天的行程，我发现它不仅提供了常规的建议，还推荐了一些我之前未曾考虑的地方。这一功能的推出可能会改变用户使用地图的方式，提升探索新地点的乐趣，尤其是对于喜欢发现新事物的用户来说。",
-          "analysis_en": "Google's Gemini has garnered attention for its new feature in Maps. While it has been a part of Gmail for some time, its performance as a new addition to Maps has been surprisingly impressive. By allowing Gemini to plan a day’s itinerary for me, I found that it not only provided standard suggestions but also recommended places I hadn't considered before. This feature's launch could change how users engage with Maps, enhancing the joy of exploring new locations, especially for those who enjoy discovering new things."
+          "analysis_zh": "谷歌的Gemini功能最近在地图应用中被引入，用户可以利用它来规划日常行程。尽管Gemini在Gmail中已经存在了一段时间，很多用户对此并不感冒，但在地图中的表现却让人感到惊喜。通过Gemini的推荐，用户不仅能找到常规的景点，还能发现一些不为人知的地方，这种探索新领域的方式显得尤为重要。这一功能的成功可能会改变人们使用地图应用的习惯，提升用户体验。",
+          "analysis_en": "Google's Gemini feature has recently been introduced in its Maps application, allowing users to plan their daily itineraries. While Gemini has been present in Gmail for some time and has not always been well-received, its performance in Maps has been surprisingly impressive. Users can discover not only typical attractions but also hidden gems, making the exploration of new areas particularly valuable. The success of this feature could change how people use mapping applications and enhance the overall user experience."
         },
         {
           "rank": 4,
@@ -189,8 +189,8 @@
           "link": "https://www.theverge.com/transportation/905947/slate-truck-ev-minimal-range-size-interior-design",
           "source": "The Verge",
           "published_utc": "2026-04-05 13:00 UTC",
-          "analysis_zh": "Slate Truck是一款尺寸小巧的电动皮卡，长约174.6英寸，宽70.6英寸，高69.3英寸，重量约为3602磅。在美国，皮卡通常体型庞大，Slate Truck的迷你设计令人耳目一新。尽管外观小巧，但内部空间却相当宽敞，设计师Tisha Johnson表示，这种设计旨在提供更舒适的乘坐体验。这款车的推出可能会影响消费者对电动皮卡的期待，尤其是在追求空间与舒适性之间找到平衡的方面。",
-          "analysis_en": "The Slate Truck is a compact electric pickup measuring approximately 174.6 inches long, 70.6 inches wide, and 69.3 inches tall, weighing around 3,602 pounds. In a market where trucks are often oversized, the Slate Truck's minimalist design is refreshing. Despite its small exterior, the interior offers ample head and legroom, which is a deliberate choice by designer Tisha Johnson to enhance comfort. The introduction of this vehicle may shift consumer expectations for electric pickups, particularly in finding a balance between size and comfort."
+          "analysis_zh": "Slate Truck是一款小型电动皮卡，尺寸出乎意料地小，长约174.6英寸，宽70.6英寸，高69.3英寸，重量约为3602磅。在美国，许多卡车的体积都很庞大，因此Slate Truck的设计显得格外清新。尽管外观小巧，但内部空间却相当宽敞，这种设计理念旨在提供更舒适的驾驶体验。这款车的推出可能会影响消费者对电动卡车的期待，尤其是在空间利用和舒适性方面。",
+          "analysis_en": "The Slate Truck is a surprisingly small electric pickup, measuring 174.6 inches long, 70.6 inches wide, and 69.3 inches tall, with a weight of about 3,602 pounds. In a market where trucks are often large, the Slate Truck's compact design stands out. Despite its small exterior, the interior offers ample head and legroom, reflecting a design philosophy focused on comfort. This launch may shift consumer expectations for electric trucks, particularly regarding space efficiency and comfort."
         },
         {
           "rank": 5,
@@ -198,8 +198,8 @@
           "link": "https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history",
           "source": "The Verge",
           "published_utc": "2026-04-05 12:24 UTC",
-          "analysis_zh": "亚马逊首席执行官杰夫·贝索斯一直希望能打造一款语音计算机，这一愿望从亚马逊早期就已公开表达。尽管在实现这一目标的过程中，亚马逊团队面临了许多挑战，但最终他们成功推出了Echo音响和Alexa语音助手。这一创新不仅改变了人们与技术互动的方式，也为数百万用户提供了更便捷的生活体验。此举可能会影响未来智能家居设备的发展，推动更多企业投入语音技术的研发。",
-          "analysis_en": "Amazon CEO Jeff Bezos has long desired to create a voice computer, a vision he has shared publicly since the early days of the company. Despite facing numerous challenges in bringing this idea to fruition, the Amazon team ultimately succeeded in launching the Echo speaker and the Alexa voice assistant. This innovation transformed how people interact with technology and provided millions with a more convenient lifestyle. It could also influence the future development of smart home devices, encouraging more companies to invest in voice technology research."
+          "analysis_zh": "亚马逊创始人杰夫·贝索斯一直希望能够开发出一种语音计算机，以便让人们更自然地与技术互动。为了实现这一目标，亚马逊团队经历了许多技术挑战，最终推出了Echo音响和Alexa语音助手。这一创新不仅改变了人们的生活方式，也推动了智能家居和人工智能的发展。Echo和Alexa的成功使得亚马逊在科技领域占据了重要位置，影响了未来语音技术的进步和普及。",
+          "analysis_en": "Jeff Bezos, the founder of Amazon, has long desired to create a voice computer that would allow people to interact with technology more naturally. To achieve this, the Amazon team faced numerous technical challenges, ultimately leading to the launch of the Echo speaker and the Alexa voice assistant. This innovation not only transformed daily life but also advanced the development of smart homes and artificial intelligence. The success of Echo and Alexa positioned Amazon as a key player in the tech industry, influencing the future progress and adoption of voice technology."
         },
         {
           "rank": 6,
@@ -207,8 +207,8 @@
           "link": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
           "source": "The Verge",
           "published_utc": "2026-04-05 12:00 UTC",
-          "analysis_zh": "Grammarly最近推出的“专家评审”AI功能引发了争议，因为它在未获得许可的情况下使用了多位作家的肖像。这一事件不仅损害了Grammarly的声誉，也引发了关于AI技术使用伦理的广泛讨论。随着AI技术的不断发展，如何合理使用个人信息和肖像权将成为未来的重要议题，可能会影响整个行业的规范和法律框架。",
-          "analysis_en": "Grammarly's recent launch of the \"Expert Review\" AI feature has sparked controversy as it used the likenesses of several writers without permission. This incident not only tarnished Grammarly's reputation but also ignited a broader discussion about the ethics of AI technology usage. As AI continues to evolve, the responsible use of personal information and likeness rights will become a crucial topic, potentially impacting industry standards and legal frameworks in the future."
+          "analysis_zh": "Grammarly最近因其“专家审查”AI功能引发争议，该功能未经许可使用了多位作家的肖像。这一事件不仅损害了公司的声誉，也引发了对AI技术伦理的广泛讨论。随着AI在各个领域的应用日益普及，如何合法合规地使用个人信息成为了亟待解决的问题。这一事件可能会促使更多公司在开发AI产品时更加谨慎，确保遵循相关法律法规。",
+          "analysis_en": "Grammarly recently faced controversy over its \"Expert Review\" AI feature, which used the likenesses of various writers without permission. This incident not only tarnished the company's reputation but also sparked widespread discussions about the ethics of AI technology. As AI applications become more prevalent across various fields, the legal and ethical use of personal information is becoming a pressing issue. This situation may prompt more companies to exercise caution in developing AI products, ensuring compliance with relevant laws and regulations."
         }
       ]
     },
@@ -222,8 +222,8 @@
           "link": "https://www.nytimes.com/2026/04/05/arts/television/snl-pam-bondi-firing-trump.html",
           "source": "NYT > Arts",
           "published_utc": "2026-04-05 18:49 UTC",
-          "analysis_zh": "在《周六夜现场》中，演员Ashley Padilla扮演了Pam Bondi和Kristi Noem，展示了她们的政治形象。Pam Bondi在节目中自豪地宣称自己是“第一位被解雇的女性总检察长”。这一表述不仅引发了观众的关注，也反映了女性在政治领域面临的挑战和成就。这一事件可能会激励更多女性参与政治，并引发对性别平等的讨论。",
-          "analysis_en": "On \"Saturday Night Live,\" actress Ashley Padilla portrayed both Pam Bondi and Kristi Noem, highlighting their political personas. Pam Bondi proudly claimed to be the \"first woman ever fired as Attorney General\" during the show. This statement not only caught the audience's attention but also reflects the challenges and achievements women face in politics. This incident may inspire more women to engage in politics and spark discussions about gender equality."
+          "analysis_zh": "在《周六夜现场》中，演员Ashley Padilla扮演了Pam Bondi和Kristi Noem，展示了她们在政治舞台上的形象。Pam Bondi在节目中自夸是“第一位被解雇的女性总检察长”，这一言论引发了观众的关注。这一事件不仅突显了女性在政治领域面临的挑战，也可能影响公众对女性领导力的看法，尤其是在高层职位上。",
+          "analysis_en": "On \"Saturday Night Live,\" actress Ashley Padilla portrayed both Pam Bondi and Kristi Noem, highlighting their personas in the political arena. Bondi's claim of being the \"first woman ever fired as Attorney General\" caught the audience's attention. This incident not only underscores the challenges women face in politics but may also influence public perceptions of female leadership, particularly in high-ranking positions."
         },
         {
           "rank": 2,
@@ -231,8 +231,8 @@
           "link": "https://www.dezeen.com/2026/04/05/the-bell-office-tower-amenity-interiors-chicago-ste-marie/",
           "source": "Dezeen",
           "published_utc": "2026-04-05 17:00 UTC",
-          "analysis_zh": "加拿大设计工作室Ste Marie为位于芝加哥的Bell大厦内的设施空间进行了室内设计，旨在重新诠释1960年代的企业环境。该建筑经过SCB和Onni Group的翻新，现已准备好迎接新的办公租户。这一改造不仅提升了建筑的美学价值，也为现代办公空间注入了新的活力，可能会吸引更多企业入驻，从而推动该地区的经济发展。",
-          "analysis_en": "Canadian studio Ste Marie has designed the interiors for amenity spaces in The Bell, a renovated 1960s tower in Chicago. The building, recently revamped by SCB and Onni Group, is now ready to welcome new office tenants. This transformation not only enhances the aesthetic appeal of the building but also revitalizes the modern office environment, potentially attracting more businesses to the area and boosting local economic growth."
+          "analysis_zh": "加拿大设计工作室Ste Marie为位于芝加哥的The Bell大楼设计了内部配套设施，旨在重塑1960年代的企业空间。这座32层的建筑经过SCB和Onni Group的翻新，重新迎接新的办公租户。Ste Marie的设计灵感来源于中世纪办公室的魅力与自信，这一改造不仅提升了建筑的吸引力，也可能影响芝加哥的商业环境，吸引更多企业入驻。",
+          "analysis_en": "The Canadian design studio Ste Marie has created amenity spaces for The Bell building in Chicago, aiming to reimagine the corporate landscape of the 1960s. This 32-storey tower has been renovated by SCB and Onni Group to welcome new office tenants. Ste Marie's design draws inspiration from the glamour and confidence of mid-century offices, and this transformation not only enhances the building's appeal but may also influence Chicago's business environment by attracting more companies to the area."
         },
         {
           "rank": 3,
@@ -240,8 +240,8 @@
           "link": "https://www.designboom.com/architecture/steel-grates-suspended-ratchet-straps-furniture-bratislava-photo-lab-minulle-adam-terlanda/",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-04-05 14:00 UTC",
-          "analysis_zh": "在布拉迪斯拉发的一家摄影实验室，设计师亚当·特兰达（Adam Terlanda）将悬挂的钢格栅重新配置为家具元素。这一创新设计不仅展示了工业材料的多样性，还为实验室的空间增添了独特的美感。这样的设计理念不仅有助于提升空间的功能性，也可能影响未来家具设计的方向，鼓励更多设计师探索工业元素与日常生活的结合。",
-          "analysis_en": "In a photography lab in Bratislava, designer Adam Terlanda has reconfigured suspended steel grates into furniture elements. This innovative design showcases the versatility of industrial materials while adding a unique aesthetic to the lab's space. Such a design approach not only enhances the functionality of the area but may also influence future furniture design trends, encouraging more designers to explore the integration of industrial elements into everyday life."
+          "analysis_zh": "在布拉迪斯拉发的Minulle实验室，设计师亚当·特兰达（Adam Terlanda）将工业钢格栅重新配置为家具元素。这一创新设计不仅展示了工业材料的多功能性，还为实验室的空间增添了独特的美感。这样的设计理念可能会影响未来的室内设计趋势，鼓励更多设计师探索如何将工业元素与功能性家具结合起来。",
+          "analysis_en": "In Bratislava's Minulle Lab, designer Adam Terlanda has reconfigured industrial steel grates into furniture elements. This innovative design not only showcases the versatility of industrial materials but also adds a unique aesthetic to the lab's space. Such design concepts may influence future interior design trends, encouraging more designers to explore the integration of industrial elements with functional furniture."
         },
         {
           "rank": 4,
@@ -249,8 +249,8 @@
           "link": "https://www.dezeen.com/2026/04/05/farmstead-road-metropolitan-workshop/",
           "source": "Dezeen",
           "published_utc": "2026-04-05 10:00 UTC",
-          "analysis_zh": "伦敦的Farmstead Road上，Metropolitan Workshop设计了一座24个单元的经济适用房，采用了艺术与工艺风格的细节，如纹理砖墙、拱形图案和大型的曼萨德屋顶。这一项目位于1920年代的Bellingham Estate内，由以居民为主导的非营利组织Phoenix Community Housing开发。该项目的设计不仅提升了周边环境的美学价值，也为当地居民提供了可负担的住房选择，具有重要的社会意义。",
-          "analysis_en": "Metropolitan Workshop has designed a 24-unit affordable housing development on Farmstead Road in London, featuring Arts and Crafts style details such as textured brickwork, arch motifs, and large mansard roofs. Located within the 1920s Bellingham Estate, this project is developed by the resident-led nonprofit Phoenix Community Housing. The design enhances the aesthetic value of the surrounding area while providing affordable housing options for local residents, making it significant for the community."
+          "analysis_zh": "伦敦的Farmstead Road新建了一处由Metropolitan Workshop设计的经济适用房项目，采用了艺术与工艺风格的细节设计。该项目位于1920年代的Bellingham Estate内，共有24个单元，旨在为非营利性、居民主导的凤凰社区住房协会提供住房。这一设计不仅美化了周边环境，还为当地居民提供了负担得起的居住选择，彰显了社区建设的重要性。",
+          "analysis_en": "A new affordable housing project on Farmstead Road in London, designed by Metropolitan Workshop, features details inspired by the Arts and Crafts style. Located within the 1920s Bellingham Estate, this development includes 24 units aimed at supporting a non-profit, resident-led association, Phoenix Community Housing. This design not only enhances the local environment but also provides affordable living options for residents, highlighting the significance of community-focused development."
         },
         {
           "rank": 5,
@@ -258,8 +258,8 @@
           "link": "https://www.dezeen.com/2026/04/05/tattoo-parlour-interiors-lookbook/",
           "source": "Dezeen",
           "published_utc": "2026-04-05 09:00 UTC",
-          "analysis_zh": "这篇文章介绍了六家全球知名的纹身店，强调纹身作为一种“仪式性实践”的重要性。许多艺术家和设计师合作，创造出既美观又富有灵性的纹身环境，使顾客在接受纹身时感受到一种精神和宗教的体验。这种趋势不仅提升了纹身艺术的地位，也可能影响人们对纹身的看法，使其更被社会接受和认可。",
-          "analysis_en": "This article highlights six tattoo parlors around the world that emphasize tattooing as a \"ceremonial practice.\" Many artists and designers collaborated to create aesthetically pleasing and spiritually enriching environments, allowing clients to experience a sense of spirituality and ritual during the tattooing process. This trend not only elevates the status of tattoo art but may also influence societal perceptions of tattoos, leading to greater acceptance and recognition."
+          "analysis_zh": "这篇文章介绍了六家全球知名的纹身店，这些店不仅提供纹身服务，还将纹身视为一种精神和宗教体验。设计师与纹身艺术家合作，创造出既美观又富有仪式感的空间，强调了纹身的文化意义。这一现象反映了当代社会对纹身艺术的重新认识，可能会吸引更多人参与这一传统工艺，进而推动纹身行业的发展。",
+          "analysis_en": "This article highlights six renowned tattoo parlors around the world that view tattooing as a spiritual and ceremonial practice. Designers and tattoo artists collaborated to create aesthetically pleasing spaces that emphasize the cultural significance of tattoos. This trend reflects a contemporary reevaluation of tattoo art, which may encourage more people to engage with this traditional craft and potentially boost the growth of the tattoo industry."
         },
         {
           "rank": 6,
@@ -267,8 +267,8 @@
           "link": "https://www.designboom.com/art/colors-light-reconnect-communities-marius-troy-imagined-landscape-art-installations/",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-04-05 08:00 UTC",
-          "analysis_zh": "挪威艺术家马里乌斯·特罗伊的想象景观装置作品通过色彩和光线重新连接了社区。这些作品不仅展现了艺术的美感，更传达了生命的气息，成为一种潜在的主题。这一创作的重要性在于，它强调了艺术在促进社区互动和情感联系中的作用，可能会激发更多类似的艺术项目，推动社会的凝聚力。",
-          "analysis_en": "Norwegian artist Marius Troy's imagined landscape installations reconnect communities through colors and light. These works not only showcase aesthetic beauty but also convey a sense of life, serving as an underlying theme. The significance of this creation lies in its emphasis on the role of art in fostering community interaction and emotional connections, which may inspire more similar artistic projects and enhance social cohesion."
+          "analysis_zh": "挪威艺术家马里乌斯·特罗伊（Marius Troy）通过其设想的景观装置作品，探索了色彩与光线如何重新连接社区。这些作品不仅展现了艺术的灵魂，还传达了深层的主题，强调了人与环境之间的关系。这一创作的重要性在于，它能够激发人们对周围环境的重新思考，并可能促进社区的凝聚力和互动。",
+          "analysis_en": "Norwegian artist Marius Troy explores how colors and light can reconnect communities through his imagined landscape installations. These works not only showcase the soul of art but also convey deeper themes that emphasize the relationship between people and their environment. The significance of this creation lies in its potential to inspire a rethinking of the surrounding environment, which may foster community cohesion and interaction."
         },
         {
           "rank": 7,
@@ -276,8 +276,8 @@
           "link": "https://www.dezeen.com/2026/04/05/luise-terrace-care-of-studio-sydney-house-interiors/",
           "source": "Dezeen",
           "published_utc": "2026-04-05 05:00 UTC",
-          "analysis_zh": "悉尼的一处维多利亚式排屋经过室内设计公司Care Of Studio的改造，成为了设计师的家庭住宅。此次翻新保留了大部分原有的结构，彰显了房屋的历史特色。这一项目不仅展示了对传统建筑的尊重，也反映了现代家庭对空间的独特需求。这样的改造可能会激励更多人关注老房子的保护与再利用，促进可持续建筑的发展。",
-          "analysis_en": "A Victorian terrace in Sydney has been renovated by Care Of Studio to become the family home of the firm's director. The renovation preserved much of the original structure, highlighting the historical character of the house. This project not only demonstrates respect for traditional architecture but also reflects the unique needs of modern families. Such renovations may inspire more people to focus on the preservation and repurposing of older homes, promoting sustainable building practices."
+          "analysis_zh": "悉尼的一座维多利亚式排屋经过Care Of Studio的设计师翻新，成为她的家庭住所。翻新过程中，设计师选择保留了房屋的大部分原始结构，这不仅保留了历史的韵味，也体现了对传统建筑的尊重。这一项目的重要性在于，它展示了如何在现代生活中融合历史与现代设计，可能会影响未来的建筑改造趋势，鼓励更多人关注和保护历史建筑。",
+          "analysis_en": "A Victorian terrace in Sydney has been renovated by the director of Care Of Studio to serve as her family home. During the renovation, she chose to retain much of the original structure, which not only preserves the historical character but also reflects a respect for traditional architecture. This project is significant as it demonstrates how to blend history with modern design in contemporary living, potentially influencing future renovation trends and encouraging greater awareness and preservation of historical buildings."
         }
       ]
     }
