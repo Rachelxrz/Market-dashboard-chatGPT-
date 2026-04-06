@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-06 14:55:48 UTC",
-  "generated_at_unix": 1775487348,
+  "generated_at": "2026-04-06 21:08:13 UTC",
+  "generated_at_unix": 1775509693,
   "window": {
-    "from_utc": "2026-04-05 14:55:48 UTC",
-    "to_utc": "2026-04-06 14:55:48 UTC",
+    "from_utc": "2026-04-05 21:08:13 UTC",
+    "to_utc": "2026-04-06 21:08:13 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,117 +14,144 @@
       "items": [
         {
           "rank": 1,
-          "title": "U.S. and Iran haven't backed ceasefire idea as Trump's Hormuz Strait deadline nears",
-          "link": "https://www.cnbc.com/2026/04/06/trump-iran-war-ceasefire-hormuz-strait.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-04-06 14:50 UTC",
-          "analysis_zh": "美国和伊朗尚未支持停火提议，随着特朗普对霍尔木兹海峡的最后期限临近，局势愈发紧张。尽管有关于45天停火的讨论，这一提议可能会为结束战争铺平道路，但双方似乎仍未达成共识。这一事件的重要性在于，它不仅影响到美伊关系，还可能对整个中东地区的稳定产生深远影响。如果停火得以实现，可能会为各方提供一个重新谈判的机会，从而改善地区安全局势。",
-          "analysis_en": "The U.S. and Iran have not yet backed a ceasefire proposal as Trump's deadline regarding the Strait of Hormuz approaches, heightening tensions in the region. Although discussions are underway about a 45-day ceasefire that could pave the way for ending the war, both sides appear to remain at an impasse. This situation is significant as it not only affects U.S.-Iran relations but could also have far-reaching implications for stability in the Middle East. If a ceasefire is achieved, it may provide an opportunity for all parties to renegotiate and potentially improve the security situation in the region."
+          "title": "Strait of Hormuz sees increased ship traffic ahead of Trump’s deadline. Here’s why oil prices are not budging.",
+          "link": "https://www.marketwatch.com/story/strait-of-hormuz-sees-increased-ship-traffic-ahead-of-trumps-deadline-heres-why-oil-prices-are-not-budging-25a8c2f2?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-04-06 21:04 UTC",
+          "analysis_zh": "霍尔木兹海峡的船只交通在周末有所增加，因为美国对伊朗重新开放这一重要水道的最后期限临近。这一情况引发了市场的紧张情绪，尽管油价并未因此波动。霍尔木兹海峡是全球重要的石油运输通道，任何关于其安全的变化都可能对国际油价产生深远影响。投资者需要密切关注局势的发展，以便及时调整策略。",
+          "analysis_en": "The Strait of Hormuz experienced increased ship traffic over the weekend as a U.S. deadline for Iran to reopen this crucial waterway approached. This situation has created tension in the markets, yet oil prices have remained stable. The Strait of Hormuz is a vital oil transportation route, and any changes regarding its security could significantly impact international oil prices. Investors should closely monitor the developments to adjust their strategies accordingly."
         },
         {
           "rank": 2,
-          "title": "Robinhood, BNY to build Trump Accounts app",
-          "link": "https://www.cnbc.com/2026/04/06/treasury-trump-accounts-bny-robinhood.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-04-06 14:49 UTC",
-          "analysis_zh": "美国财政部指定了BNY作为管理特朗普账户的金融代理，并且BNY将与Robinhood合作开发特朗普账户应用程序。这一合作不仅将为特朗普的支持者提供便捷的金融服务，也可能影响到未来的政治筹款方式。通过这种新应用，用户能够更方便地进行投资和管理资金，从而可能改变他们的投资习惯和参与政治活动的方式。",
-          "analysis_en": "The U.S. Treasury Department has designated BNY as the financial agent to manage Trump accounts, and BNY will partner with Robinhood to develop a Trump accounts app. This collaboration aims to provide convenient financial services for Trump supporters and may influence future political fundraising methods. With this new app, users will have easier access to investment and money management, potentially altering their investment habits and ways of engaging in political activities."
+          "title": "US finalizes 2.48% Medicare Advantage payment hike; insurance stocks surge",
+          "link": "https://www.investing.com/news/stock-market-news/us-finalizes-248-medicare-advantage-payment-hike-above-nearflat-january-proposal-4599313",
+          "source": "Stock Market News",
+          "published_utc": "2026-04-06 20:55 UTC",
+          "analysis_zh": "美国最终确定了2.48%的医疗保险优势支付增长，这一决定导致保险股大幅上涨。这一政策的实施不仅有助于改善医疗保险的资金流动，还可能吸引更多投资者关注相关股票。随着保险行业的盈利能力增强，市场对未来的增长预期也随之上升。",
+          "analysis_en": "The U.S. has finalized a 2.48% increase in Medicare Advantage payments, which has led to a significant surge in insurance stocks. This policy not only improves the cash flow for Medicare but may also attract more investors to related stocks. As the profitability of the insurance sector increases, market expectations for future growth are also rising."
         },
         {
           "rank": 3,
-          "title": "Economy jolted by Iran war. Inflation bubbles up and service companies curb employment.",
-          "link": "https://www.marketwatch.com/story/economy-jolted-by-iran-war-inflation-bubbles-up-and-service-companies-reduce-employment-89e21443?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-04-06 14:47 UTC",
-          "analysis_zh": "由于伊朗战争的影响，经济在三月份的增长速度有所放缓，导致油价和其他商品价格上涨。许多公司为了应对这一局面，开始减少员工数量，这表明在冲突结束之前，经济可能会面临更加艰难的局面。这一情况不仅影响了就业市场，也可能对消费者信心和整体经济增长产生负面影响。",
-          "analysis_en": "The economy experienced slower growth in March due to the impact of the Iran war, which caused an increase in oil and other prices. In response, many companies began to cut back on employment, indicating a potentially tougher economic landscape until the conflict is resolved. This situation not only affects the job market but could also negatively impact consumer confidence and overall economic growth."
+          "title": "Netflix debuts new ’Playground’ gaming app for kids",
+          "link": "https://www.investing.com/news/stock-market-news/netflix-debuts-new-playground-gaming-app-for-kids-4598989",
+          "source": "Stock Market News",
+          "published_utc": "2026-04-06 20:49 UTC",
+          "analysis_zh": "Netflix最近推出了一款名为“Playground”的新游戏应用，专为儿童设计。这一举措标志着Netflix在儿童娱乐领域的进一步扩展，旨在吸引更多家庭用户。随着竞争对手不断增加，这款应用可能会帮助Netflix保持其市场份额，并增强用户粘性。",
+          "analysis_en": "Netflix has recently launched a new gaming app called \"Playground,\" designed specifically for children. This move signifies Netflix's further expansion into the children's entertainment sector, aiming to attract more family users. As competition continues to grow, this app may help Netflix maintain its market share and enhance user engagement."
         },
         {
           "rank": 4,
-          "title": "Morgan Stanley expects Coal India, JSW Steel to outperform in results",
-          "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-expects-coal-india-jsw-steel-to-outperform-in-results-93CH-4598829",
+          "title": "Phillips 66 says Q1 results hit by $900 million mark-to-market losses",
+          "link": "https://www.investing.com/news/stock-market-news/phillips-66-says-q1-results-hit-by-900-million-marktomarket-losses-4599311",
           "source": "Stock Market News",
-          "published_utc": "2026-04-06 14:45 UTC",
-          "analysis_zh": "摩根士丹利预计，印度煤炭公司和JSW钢铁在即将公布的财报中将表现优于市场预期。这一预测引起了投资者的关注，因为这两家公司在印度经济中占据重要地位。若其财报表现良好，可能会提升市场对整个钢铁和煤炭行业的信心，进而影响相关股票的表现。",
-          "analysis_en": "Morgan Stanley has predicted that Coal India and JSW Steel will outperform market expectations in their upcoming earnings reports. This forecast has drawn the attention of investors, as both companies play a significant role in the Indian economy. If their earnings reports are strong, it could boost market confidence in the entire steel and coal sector, potentially impacting the performance of related stocks."
+          "published_utc": "2026-04-06 20:48 UTC",
+          "analysis_zh": "菲利普斯66公司近日公布了第一季度的财务结果，报告显示由于市场价格波动，该公司遭受了高达9亿美元的公允价值损失。这一损失对公司的盈利能力产生了显著影响，可能导致投资者对其未来业绩的信心下降。此事件不仅影响了菲利普斯66的股价，也可能对整个能源行业的投资情绪产生连锁反应。",
+          "analysis_en": "Phillips 66 recently announced its first-quarter financial results, revealing a significant mark-to-market loss of $900 million due to market price fluctuations. This loss has a considerable impact on the company's profitability and may lead to decreased investor confidence in its future performance. This situation not only affects Phillips 66's stock price but could also have a ripple effect on investment sentiment across the entire energy sector."
         },
         {
           "rank": 5,
-          "title": "Stocks hold on to gains even as Iran said to have rejected ceasefire proposal",
-          "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-dip-after-trump-gives-iran-tue-deadline-to-open-hormuz-4597675",
+          "title": "Humana shares surge 12% on 2027 Medicare rate boost; UNH, CVS rally",
+          "link": "https://www.investing.com/news/stock-market-news/humana-shares-surge-12-on-2027-medicare-rate-boost-unh-cvs-rally-4599220",
           "source": "Stock Market News",
-          "published_utc": "2026-04-06 14:43 UTC",
-          "analysis_zh": "尽管伊朗拒绝了停火提议，股市仍然保持上涨。这一情况表明，投资者对市场的信心依然强劲，可能是因为他们预期未来会有更积极的局势发展。股市的稳定表现可能会吸引更多的投资者，进而推动经济增长。然而，地缘政治的紧张局势仍然是一个潜在的风险因素，可能会影响市场的长期走势。",
-          "analysis_en": "Despite Iran's rejection of a ceasefire proposal, the stock market continues to hold onto its gains. This indicates that investor confidence remains strong, likely due to expectations of more positive developments in the future. The stable performance of the stock market may attract more investors, potentially driving economic growth. However, the ongoing geopolitical tensions remain a risk factor that could affect the market's long-term trajectory."
+          "published_utc": "2026-04-06 20:47 UTC",
+          "analysis_zh": "近日，Humana公司的股票因2027年医疗保险费率的提升而上涨了12%。这一消息对投资者而言意义重大，因为医疗保险的调整可能会影响公司的盈利能力和市场竞争力。此外，联合健康集团（UNH）和CVS等其他医疗保健公司也随之上涨，显示出市场对医疗行业前景的乐观态度。这一趋势可能会吸引更多投资者关注医疗行业，进一步推动相关股票的表现。",
+          "analysis_en": "Recently, Humana's shares surged by 12% following the announcement of a boost in Medicare rates for 2027. This development is significant for investors as it could impact the company's profitability and competitive position in the market. Additionally, other healthcare companies like UnitedHealth Group (UNH) and CVS also experienced gains, reflecting a positive outlook for the healthcare sector. This trend may attract more investors to the healthcare industry, potentially enhancing the performance of related stocks."
         },
         {
           "rank": 6,
-          "title": "Seagate Technology stock jumps 7.5% on Morgan Stanley top pick",
-          "link": "https://www.investing.com/news/stock-market-news/seagate-technology-stock-jumps-75-on-morgan-stanley-top-pick-93CH-4598827",
-          "source": "Stock Market News",
-          "published_utc": "2026-04-06 14:43 UTC",
-          "analysis_zh": "西部数据公司（Seagate Technology）的股票在摩根士丹利将其列为首选股票后，涨幅达7.5%。这一消息引起了投资者的广泛关注，因为摩根士丹利的推荐通常会对市场产生显著影响。投资者对西部数据的前景持乐观态度，可能会推动更多资金流入该公司，进一步提升其市场表现。",
-          "analysis_en": "Seagate Technology's stock jumped 7.5% after being named a top pick by Morgan Stanley. This news has garnered significant attention from investors, as recommendations from Morgan Stanley often have a substantial impact on the market. Investor optimism regarding Seagate's prospects may lead to increased capital inflow into the company, further enhancing its market performance."
+          "title": "Offbeat Wall Street research firm says it sent an analyst to Strait of Hormuz. Here's what they learned",
+          "link": "https://www.cnbc.com/2026/04/06/wall-street-firm-sends-analyst-to-the-strait-of-hormuz-heres-what-they-found-out.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-04-06 20:47 UTC",
+          "analysis_zh": "一家名为Offbeat的华尔街研究公司派遣分析师前往霍尔木兹海峡，调查该地区的局势。在美国和以色列与伊朗的冲突升级之前，约20%的全球石油通过这一狭窄的海峡运输。这一事件引发了人们对全球能源供应链的关注，尤其是在地缘政治紧张局势加剧的背景下。若冲突持续，可能会对石油价格和市场稳定性产生重大影响。",
+          "analysis_en": "A Wall Street research firm called Offbeat sent an analyst to the Strait of Hormuz to assess the situation in the region. Before the escalation of conflict between the U.S., Israel, and Iran, about 20% of the world's oil was shipped through this narrow strait. This event has raised concerns about the global energy supply chain, especially amid increasing geopolitical tensions. If the conflict continues, it could significantly impact oil prices and market stability."
         },
         {
           "rank": 7,
-          "title": "Trump’s New Retirement Plan: What a Federal Match Up to $1,000 Means for Seniors",
-          "link": "https://finance.yahoo.com/economy/policy/articles/trump-retirement-plan-federal-match-095505737.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-04-06 14:42 UTC",
-          "analysis_zh": "特朗普最近推出了一项新的退休计划，联邦政府将为老年人提供最高达1000美元的匹配资金。这项计划的推出旨在帮助老年人更好地储蓄和管理他们的退休资金，尤其是在生活成本不断上升的背景下。此举不仅可以减轻老年人的经济压力，还可能刺激整体经济增长，因为更多的资金将流入市场。对于依赖社会保障的老年人来说，这项政策的影响尤为重要。",
-          "analysis_en": "Recently, Trump announced a new retirement plan that will provide seniors with a federal match of up to $1,000. This initiative aims to assist older adults in saving and managing their retirement funds, especially amid rising living costs. Not only could this alleviate financial pressure on seniors, but it may also stimulate overall economic growth as more funds enter the market. This policy is particularly significant for seniors who rely on Social Security."
+          "title": "Trump says Iran ceasefire proposal 'significant' but 'not good enough' as Hormuz Strait deadline nears",
+          "link": "https://www.cnbc.com/2026/04/06/trump-iran-war-ceasefire-hormuz-strait.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-04-06 20:36 UTC",
+          "analysis_zh": "特朗普表示，伊朗提出的停火提议“重要”，但“还不够好”，因为霍尔木兹海峡的最后期限临近。这项为期45天的停火提议可能会导致战争的结束，目前正由美国、伊朗及一组地区调解人进行讨论。这一提议的重要性在于，它可能为缓解中东地区的紧张局势提供一个契机，然而特朗普的态度显示出美国对伊朗的警惕，可能会影响未来的外交谈判。",
+          "analysis_en": "Trump stated that Iran's ceasefire proposal is \"significant\" but \"not good enough\" as the deadline for the Strait of Hormuz approaches. This 45-day ceasefire proposal, which could potentially lead to the end of the war, is reportedly being discussed by the U.S., Iran, and a group of regional mediators. The significance of this proposal lies in its potential to ease tensions in the Middle East, but Trump's stance indicates a cautious approach from the U.S. towards Iran, which may affect future diplomatic negotiations."
         },
         {
           "rank": 8,
-          "title": "Goldman cuts US consumer spending growth forecast on oil price surge",
-          "link": "https://www.investing.com/news/stock-market-news/goldman-cuts-us-consumer-spending-growth-forecast-on-oil-price-surge-93CH-4598824",
-          "source": "Stock Market News",
-          "published_utc": "2026-04-06 14:38 UTC",
-          "analysis_zh": "高盛下调了对美国消费者支出增长的预测，原因是油价大幅上涨。这一变化可能会对经济复苏产生负面影响，因为消费者支出是推动经济增长的重要因素。油价的上涨不仅会增加家庭的开支，还可能导致通货膨胀加剧，从而影响消费者的购买力和信心。",
-          "analysis_en": "Goldman Sachs has lowered its forecast for U.S. consumer spending growth due to a significant surge in oil prices. This adjustment could negatively impact the economic recovery, as consumer spending is a crucial driver of economic growth. The rise in oil prices may increase household expenses and potentially exacerbate inflation, which could affect consumers' purchasing power and confidence."
+          "title": "Trump moves to scrap utility bill aid for Americans, as soaring energy costs hit over $1,000 on average this winter",
+          "link": "https://www.marketwatch.com/story/trump-moves-to-scrap-utility-bill-aid-for-americans-as-soaring-energy-costs-hit-over-1-000-on-average-this-winter-1c486251?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-04-06 20:35 UTC",
+          "analysis_zh": "白宫正在推进取消一项帮助低收入家庭支付公用事业费用的计划，此时美国的能源成本正在飙升，预计冬季平均超过1000美元。这一决定对许多依赖此项援助的家庭来说将产生重大影响，尤其是在经济压力加大的背景下。取消该计划可能导致更多家庭面临能源负担，进一步加剧社会不平等。",
+          "analysis_en": "The White House is moving to eliminate a program that assists low-income families with their utility bills, as energy costs in the U.S. are surging and expected to exceed $1,000 on average this winter. This decision will significantly impact many families that rely on this aid, especially amid increasing economic pressures. The cancellation of the program may lead to more households facing energy burdens, further exacerbating social inequality."
         },
         {
           "rank": 9,
-          "title": "Goldman Sachs' blunt warning to laid-off tech workers: It will take time and earnings loss to find a new job",
-          "link": "https://finance.yahoo.com/news/goldman-sachs-blunt-warning-to-laid-off-tech-workers-it-will-take-time-and-earnings-loss-to-find-a-new-job-143808064.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-04-06 14:38 UTC",
-          "analysis_zh": "高盛最近向被裁员的科技工作者发出了直接的警告，表示他们在寻找新工作的过程中将面临时间和收入损失的挑战。这一警告反映了当前科技行业的不确定性，尤其是在经济放缓和裁员潮的背景下。对于这些失业者而言，这不仅意味着短期内的经济压力，还可能影响他们的职业发展和心理健康。高盛的言论提醒人们，恢复就业并非易事，可能需要更长的时间和适应能力。",
-          "analysis_en": "Goldman Sachs recently issued a blunt warning to laid-off tech workers, indicating that they will face challenges in finding new jobs, including time and earnings loss. This warning highlights the uncertainty in the tech industry, particularly against the backdrop of an economic slowdown and wave of layoffs. For these unemployed individuals, this not only signifies immediate financial pressure but may also impact their career development and mental health. Goldman Sachs' remarks serve as a reminder that recovering employment is not an easy task and may require more time and adaptability."
+          "title": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.35%",
+          "link": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-035-4599239",
+          "source": "Stock Market News",
+          "published_utc": "2026-04-06 20:31 UTC",
+          "analysis_zh": "美国股市在交易结束时上涨，道琼斯工业平均指数上涨了0.35%。这一涨幅反映了投资者对经济复苏的信心，尤其是在企业盈利和就业数据向好的背景下。这种积极的市场表现可能会吸引更多的投资者进入股市，从而进一步推动经济增长。",
+          "analysis_en": "U.S. stocks closed higher, with the Dow Jones Industrial Average rising by 0.35%. This increase reflects investor confidence in the economic recovery, particularly in light of positive corporate earnings and employment data. Such a favorable market performance may attract more investors into the stock market, potentially further boosting economic growth."
         },
         {
           "rank": 10,
-          "title": "Why Cantor Fitzgerald Stayed Neutral on BigBear.ai (BBAI) After a Messy Quarter",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/why-cantor-fitzgerald-stayed-neutral-143747494.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-04-06 14:37 UTC",
-          "analysis_zh": "Cantor Fitzgerald在BigBear.ai（BBAI）经历了一季度的混乱后，选择保持中立。这一决定反映了市场对该公司未来表现的不确定性。尽管公司面临挑战，但分析师认为，保持中立可能是为了观察未来的发展趋势。这一立场可能会影响投资者的信心，并对BigBear.ai的股价产生潜在影响。",
-          "analysis_en": "Cantor Fitzgerald has chosen to remain neutral on BigBear.ai (BBAI) after a tumultuous quarter. This decision reflects the uncertainty in the market regarding the company's future performance. Despite facing challenges, analysts believe that maintaining a neutral stance allows for observation of future trends. This position could affect investor confidence and potentially impact BigBear.ai's stock price."
+          "title": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.22%",
+          "link": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-022-4599226",
+          "source": "Stock Market News",
+          "published_utc": "2026-04-06 20:30 UTC",
+          "analysis_zh": "加拿大股市在交易结束时上涨，S&P/TSX综合指数上涨了0.22%。这一上涨反映了市场对经济复苏的乐观情绪，尤其是在投资者对未来增长前景的信心增强的背景下。这一趋势可能会吸引更多投资者进入市场，从而进一步推动股市的上涨。",
+          "analysis_en": "Canadian stocks closed higher, with the S&P/TSX Composite gaining 0.22%. This increase reflects a growing optimism in the market regarding economic recovery, particularly as investors gain confidence in future growth prospects. This trend may attract more investors to the market, potentially driving stock prices even higher."
         }
       ]
     },
     "健康": {
       "description": "医学、营养、抗衰老、代谢与公共健康",
-      "count": 2,
+      "count": 5,
       "items": [
         {
           "rank": 1,
+          "title": "Trump’s USAID Overhaul Sent Millions More Dollars to Big U.S.-Based Contractors",
+          "link": "https://www.nytimes.com/2026/04/06/health/trump-foreign-aid.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-04-06 19:19 UTC",
+          "analysis_zh": "特朗普政府对美国国际开发署（USAID）的改革导致大量资金流向了美国的大型承包商，而发展中国家的组织几乎被排除在外。这一变化引发了对援助资金使用效率的质疑，因为一些被认为浪费的援助机构却获得了巨额资金。这一现象不仅影响了全球援助的公平性，也可能削弱对发展中国家的支持，导致其在应对危机时面临更大挑战。",
+          "analysis_en": "The Trump administration's overhaul of the U.S. Agency for International Development (USAID) resulted in significant funding being directed to large U.S.-based contractors, while organizations in developing countries were nearly excluded. This shift raises concerns about the efficiency of aid spending, as some agencies deemed wasteful received substantial financial support. This trend not only affects the fairness of global aid distribution but may also weaken support for developing countries, making it more challenging for them to address crises."
+        },
+        {
+          "rank": 2,
+          "title": "For Many Patients Leaving the I.C.U., the Struggle Has Only Just Begun",
+          "link": "https://www.nytimes.com/2026/04/04/health/post-icu-syndrome.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-04-06 15:20 UTC",
+          "analysis_zh": "许多在重症监护室（ICU）接受治疗的患者，在出院后面临着新的挑战。长时间的重症监护不仅对身体造成损伤，还可能影响患者的认知和心理健康。这些问题可能需要数月甚至更长时间才能恢复，因此患者及其家庭需要做好长期康复的准备。这一现象提醒我们，重症监护后的护理和支持同样重要，不能被忽视。",
+          "analysis_en": "Many patients leaving the intensive care unit (ICU) face new challenges after their discharge. Prolonged stays in the ICU can lead to physical, cognitive, and mental health issues that may take months or even longer to resolve. This highlights the importance of ongoing care and support for patients and their families, which should not be overlooked. Understanding these post-ICU challenges is crucial for improving recovery outcomes and overall patient well-being."
+        },
+        {
+          "rank": 3,
+          "title": "Federal Agency Unveils Three Potential Osteoarthritis Treatments",
+          "link": "https://www.nytimes.com/2026/04/06/health/arpa-h-osteoarthritis-bone-cartilage.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-04-06 15:00 UTC",
+          "analysis_zh": "美国联邦机构ARPA-H近日公布了三种潜在的骨关节炎治疗方案。研究团队在动物实验中成功再生了骨骼和软骨，甚至完整的膝关节。这一进展具有重要意义，因为骨关节炎是影响数百万人的常见疾病，现有治疗方法效果有限。若这些治疗方案在人体试验中取得成功，可能会为患者带来新的希望，改善他们的生活质量。",
+          "analysis_en": "The federal agency ARPA-H has recently unveiled three potential treatments for osteoarthritis. Research teams have successfully regrown bone and cartilage, even entire knees, in animal studies. This development is significant because osteoarthritis is a common condition affecting millions, and current treatments are often inadequate. If these treatments prove successful in human trials, they could offer new hope for patients and significantly improve their quality of life."
+        },
+        {
+          "rank": 4,
           "title": "NASA Families Don’t Go to the Moon, but They’re on the Mission, Too",
           "link": "https://www.nytimes.com/2026/04/06/science/artemis-moon-nasa-families-astronauts.html",
           "source": "NYT > Health",
           "published_utc": "2026-04-06 14:20 UTC",
-          "analysis_zh": "阿尔忒弥斯二号任务的宇航员家庭虽然无法亲自前往月球，但他们同样参与了这项使命。对于这些家庭来说，任务的开始意味着他们在宇航员的职业生涯中扮演着重要角色。这种参与感不仅增强了家庭的凝聚力，也让他们在宇航员的探索旅程中感受到自豪。随着阿尔忒弥斯计划的推进，宇航员家庭的支持将对任务的成功至关重要。",
-          "analysis_en": "The families of the Artemis II astronauts may not travel to the Moon themselves, but they are deeply involved in the mission. For these families, the journey begins with their loved ones' assignments, highlighting their crucial role in supporting the astronauts. This sense of involvement not only strengthens family bonds but also instills a sense of pride in their contribution to space exploration. As the Artemis program progresses, the support from astronauts' families will be vital to the mission's success."
+          "analysis_zh": "阿尔忒弥斯二号任务的宇航员家庭虽然无法亲自前往月球，但他们的使命同样重要。这项任务的开始不仅仅是宇航员的责任，家庭成员也在其中扮演着关键角色。这种参与感不仅增强了家庭的凝聚力，也为宇航员提供了情感支持。随着太空探索的深入，家庭的角色可能会在未来的任务中变得更加突出。",
+          "analysis_en": "The families of the Artemis II astronauts may not travel to the Moon themselves, but their role in the mission is equally significant. The mission begins not just with the astronauts but also with their families, who play a crucial part in providing emotional support. This involvement strengthens family bonds and can enhance the astronauts' performance. As space exploration advances, the importance of family involvement may become even more pronounced in future missions."
         },
         {
-          "rank": 2,
+          "rank": 5,
           "title": "Scientists find hidden brain cells helping deadly cancer grow",
           "link": "https://www.sciencedaily.com/releases/2026/04/260405003933.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-04-05 23:48 UTC",
-          "analysis_zh": "加拿大的科学家发现了一种新的治疗胶质母细胞瘤的方法，这是一种极具侵袭性的脑癌。他们发现某些脑细胞不仅支持正常神经功能，还能通过发送信号来促进肿瘤的生长。当研究人员阻断这种细胞间的沟通时，实验模型中的肿瘤生长显著减缓。这一发现不仅揭示了胶质母细胞瘤的潜在弱点，还指出了一种现有的抗HIV药物可能用于治疗这种癌症，为患者提供了新的治疗选择。",
-          "analysis_en": "Researchers in Canada have discovered a new way to treat glioblastoma, one of the most aggressive types of brain cancer. They found that certain brain cells, previously thought to only support normal nerve function, can actually promote tumor growth by sending signals. When scientists blocked this communication, tumor growth slowed significantly in lab models. This finding not only reveals a potential weakness in glioblastoma but also suggests that an existing HIV drug could be repurposed for treatment, offering new options for patients with limited choices."
+          "analysis_zh": "加拿大的科学家们发现了一种新的治疗胶质母细胞瘤的潜在方法，这是一种致命的脑癌。他们发现某些脑细胞，过去被认为只支持健康神经，实际上可以通过发送信号来促进肿瘤的生长。当研究人员阻断这种细胞间的通信时，实验模型中的肿瘤生长显著减缓。这一发现不仅揭示了胶质母细胞瘤的脆弱性，还有可能为患者提供新的治疗选择，尤其是利用现有的抗HIV药物进行干预。",
+          "analysis_en": "Researchers in Canada have discovered a new potential treatment approach for glioblastoma, one of the deadliest forms of brain cancer. They found that certain brain cells, previously thought to only support healthy nerves, can actually send signals that promote tumor growth. When scientists blocked this communication, tumor growth slowed significantly in lab models. This finding not only reveals a vulnerability in glioblastoma but also suggests new treatment options for patients, particularly through the use of existing HIV medications to disrupt this process."
         }
       ]
     },
@@ -138,8 +165,8 @@
           "link": "https://aeon.co/videos/we-long-misjudged-animal-consciousness-could-ai-be-next?utm_source=rss-feed",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-04-06 10:01 UTC",
-          "analysis_zh": "近期，关于人工智能是否已经具备意识的讨论引发了广泛关注。许多专家认为，排除人工智能意识的可能性不仅困难，而且在道德上也可能存在风险。这一问题的重要性在于，它不仅挑战了我们对意识的理解，还可能影响未来人工智能的开发和伦理规范。随着技术的不断进步，我们需要重新审视人类与机器之间的关系，以及如何合理地管理这一关系。",
-          "analysis_en": "Recently, discussions about whether artificial intelligence may already possess consciousness have garnered significant attention. Many experts argue that ruling out the possibility of AI consciousness is not only challenging but may also pose moral risks. This issue is important because it not only challenges our understanding of consciousness but could also influence the future development and ethical guidelines surrounding AI. As technology continues to advance, we need to reassess the relationship between humans and machines and how to manage it responsibly."
+          "analysis_zh": "最近，有关人工智能是否已经具备意识的讨论引发了广泛关注。这个问题不仅涉及技术的进步，还触及伦理和哲学的深层次思考。许多人认为，排除人工智能可能具备意识的可能性是有风险的，因为这可能影响我们对AI的使用和监管方式。随着AI技术的不断发展，理解其潜在的意识状态将对社会产生深远的影响。",
+          "analysis_en": "Recently, discussions about whether artificial intelligence has already achieved consciousness have garnered significant attention. This question not only relates to technological advancements but also delves into deeper ethical and philosophical considerations. Many argue that ruling out the possibility of AI consciousness could be morally perilous, as it may influence how we use and regulate AI. As AI technology continues to evolve, understanding its potential states of consciousness will have profound implications for society."
         },
         {
           "rank": 2,
@@ -147,8 +174,8 @@
           "link": "https://aeon.co/essays/antibiotic-resistance-in-india-has-consequences-everywhere?utm_source=rss-feed",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-04-06 10:00 UTC",
-          "analysis_zh": "印度的抗生素使用问题引发了全球抗微生物耐药性危机。由于这些药物的获取相对容易，印度成为了这一危机的加速器。这一现象不仅影响了当地的公共健康，也可能对全球医疗体系造成严重威胁。随着耐药菌株的增加，治疗常见感染的有效性将受到挑战，可能导致更高的医疗成本和更高的死亡率。",
-          "analysis_en": "India's antibiotic usage issues have triggered a global antimicrobial resistance crisis. The easy access to these drugs has made India a significant accelerant of this crisis. This situation not only impacts local public health but could also pose serious threats to global healthcare systems. As resistant strains increase, the effectiveness of treating common infections will be challenged, potentially leading to higher medical costs and increased mortality rates."
+          "analysis_zh": "印度因其对抗生素的广泛使用而成为全球抗微生物耐药危机的加速器。由于这些药物的获取变得相对容易，许多患者在没有医生指导的情况下自行用药，导致耐药性细菌的迅速增加。这一现象不仅威胁到公共健康，还可能导致治疗常见感染的药物失效，影响全球医疗体系的稳定性。解决这一问题需要加强对抗生素使用的监管和公众教育，以避免更严重的健康危机。",
+          "analysis_en": "India has become a global accelerant of the antimicrobial resistance crisis due to its widespread use of antibiotics. The easy access to these drugs has led many patients to self-medicate without medical supervision, resulting in a rapid increase in antibiotic-resistant bacteria. This situation poses a significant threat to public health and could render common infection treatments ineffective, impacting the stability of healthcare systems worldwide. Addressing this issue will require stricter regulations on antibiotic use and increased public education to prevent a more severe health crisis."
         },
         {
           "rank": 3,
@@ -156,68 +183,104 @@
           "link": "https://www.sciencedaily.com/releases/2026/04/260405003933.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-04-05 23:48 UTC",
-          "analysis_zh": "加拿大的科学家发现了一种新的治疗胶质母细胞瘤的方法，这是一种致命的脑癌。他们发现某些脑细胞，过去被认为仅支持健康神经，实际上可以通过发送信号来促进肿瘤的生长。当研究人员阻断这种细胞间的沟通时，实验模型中的肿瘤生长显著减缓。这一发现不仅揭示了胶质母细胞瘤的潜在弱点，还指出了一种现有的HIV药物可能用于治疗这种癌症，为患者提供了新的治疗选择。",
-          "analysis_en": "Scientists in Canada have discovered a new way to treat glioblastoma, one of the deadliest brain cancers. They found that certain brain cells, once thought to only support healthy nerves, can actually promote tumor growth by sending signals. When researchers blocked this communication, tumor growth slowed significantly in laboratory models. This finding not only reveals a potential weakness in glioblastoma but also suggests that an existing HIV drug could be repurposed for treatment, offering new options for patients with limited choices."
+          "analysis_zh": "加拿大的科学家发现了一种意想不到的弱点，可能有助于对抗致命的脑癌——胶质母细胞瘤。研究表明，某些脑细胞曾被认为仅支持健康神经，但实际上可以通过发送信号来促进肿瘤生长。当研究人员阻断这种细胞间的通信时，实验模型中的肿瘤生长显著减缓。这一发现不仅揭示了胶质母细胞瘤的生长机制，还可能为现有的HIV药物提供新的治疗思路，给患者带来希望。",
+          "analysis_en": "Scientists in Canada have discovered an unexpected weakness that could aid in the fight against glioblastoma, one of the deadliest brain cancers. Their research indicates that certain brain cells, previously thought to only support healthy nerves, can actually promote tumor growth by sending signals that strengthen cancer cells. When researchers blocked this communication, tumor growth slowed significantly in lab models. This finding not only reveals the mechanisms behind glioblastoma growth but also suggests that an existing HIV drug could offer new treatment options, providing hope for patients with limited choices."
         }
       ]
     },
     "AI 科技": {
       "description": "AI、芯片、软件、科技产业与研究进展",
-      "count": 6,
+      "count": 10,
       "items": [
         {
           "rank": 1,
-          "title": "Forget the A.I. Apocalypse. Memes Have Already Nuked Our Culture.",
-          "link": "https://www.nytimes.com/2026/04/06/magazine/ai-apocalypse-brain-rot-memes.html",
-          "source": "NYT > Technology",
-          "published_utc": "2026-04-06 14:54 UTC",
-          "analysis_zh": "最近的报道指出，网络文化中的“脑腐烂”现象已经超越了手机，影响到了我们的日常生活和政治交流。这种现象不仅体现在我们的笑话和俚语中，还渗透到了白宫的政策信息中。这一变化的重要性在于，它可能会改变公众对信息的理解和接受方式，甚至影响政治决策的有效性。随着这种文化的蔓延，我们需要重新审视信息传播的方式及其对社会的潜在影响。",
-          "analysis_en": "Recent reports indicate that the phenomenon of \"brain rot\" in internet culture has transcended our phones, affecting our daily lives and political communication. This trend is evident not only in our jokes and slang but also in the messaging from the White House. The significance of this shift lies in its potential to alter how the public understands and accepts information, possibly impacting the effectiveness of political decision-making. As this culture spreads, we need to reevaluate the ways information is disseminated and its potential effects on society."
+          "title": "Artemis II astronauts break a record, name a crater",
+          "link": "https://www.theverge.com/science/907682/nasa-artemis-ii-distance-record-crater-names",
+          "source": "The Verge",
+          "published_utc": "2026-04-06 20:40 UTC",
+          "analysis_zh": "阿尔忒弥斯二号的宇航员在周一打破了由阿波罗13号任务创下的记录，成为距离地球最远的人类，行程超过248,655英里。这一成就不仅展示了人类在太空探索方面的进步，也为未来的月球任务奠定了基础。为了纪念这一时刻，宇航员们还为月球上的两个陨石坑命名，其中一个以已故宇航员的妻子命名，体现了他们的团结与情感。这一事件可能会激励更多人关注太空探索，并推动相关技术的发展。",
+          "analysis_en": "The Artemis II astronauts broke a record on Monday, surpassing the distance set by the Apollo 13 mission and becoming the farthest humans from Earth at over 248,655 miles. This achievement not only highlights advancements in human space exploration but also lays the groundwork for future lunar missions. To commemorate this milestone, the crew named two craters on the Moon, one of which was named after a deceased astronaut's wife, reflecting their unity and emotional connection. This event may inspire greater public interest in space exploration and drive advancements in related technologies."
         },
         {
           "rank": 2,
-          "title": "Can AI responses be influenced? The SEO industry is trying",
-          "link": "https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing",
+          "title": "The best deals on MacBooks right now",
+          "link": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
           "source": "The Verge",
-          "published_utc": "2026-04-06 11:00 UTC",
-          "analysis_zh": "最近，AI技术在搜索引擎中的应用引起了广泛关注，尤其是谷歌和OpenAI等公司正在推出基于AI的搜索工具。这一趋势促使SEO行业开始探索新的策略，以便更好地影响AI生成的搜索结果。这一变化不仅可能改变企业如何进行在线营销，还可能影响用户获取信息的方式，进而影响他们的决策过程。随着AI技术的不断进步，如何有效利用这些工具将成为企业竞争力的重要因素。",
-          "analysis_en": "Recently, the application of AI technology in search engines has garnered significant attention, particularly with companies like Google and OpenAI launching AI-powered search tools. This trend has prompted the SEO industry to explore new strategies to better influence AI-generated search results. This shift could not only change how businesses conduct online marketing but also affect how users access information, ultimately influencing their decision-making processes. As AI technology continues to evolve, effectively leveraging these tools will become a crucial factor in maintaining competitive advantage for businesses."
+          "published_utc": "2026-04-06 18:50 UTC",
+          "analysis_zh": "2026年，苹果推出了配备M系列处理器和A系列芯片的新款MacBook，后者之前仅限于iPhone使用。新款MacBook Neo的起售价为599美元，苹果目前提供的选择比以往更多，涵盖了更多的尺寸和价格区间。这一变化不仅使得消费者在选择上更加灵活，也可能对苹果的市场竞争力产生积极影响，吸引更多用户选择MacBook作为他们的笔记本电脑。",
+          "analysis_en": "In 2026, Apple has released new MacBooks featuring not only its M-series processors but also A-series chips that were previously exclusive to the iPhone. The new MacBook Neo starts at $599, offering a wider range of options in terms of sizes and price points than ever before. This change not only provides consumers with more flexibility in their choices but may also positively impact Apple's market competitiveness, attracting more users to choose MacBooks as their laptops."
         },
         {
           "rank": 3,
-          "title": "AI is changing how small online sellers decide what to make",
-          "link": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
-          "source": "MIT Technology Review",
-          "published_utc": "2026-04-06 11:00 UTC",
-          "analysis_zh": "人工智能正在改变小型在线卖家决定生产什么产品的方式。以Mike McClary为例，他曾经通过自己的户外品牌销售一款名为Guardian LTE手电筒的产品，这款手电筒因其亮度和耐用性而受到消费者的喜爱。尽管他在2017年停止销售该产品，但仍有许多客户询问购买渠道。这一现象表明，人工智能可以帮助卖家更好地理解市场需求，从而优化产品开发和销售策略。",
-          "analysis_en": "Artificial intelligence is transforming how small online sellers decide what products to create. For instance, Mike McClary previously sold a product called the Guardian LTE Flashlight through his outdoor brand, which gained popularity for its brightness and durability. Even after he stopped selling it in 2017, many customers continued to ask where they could purchase it. This trend indicates that AI can assist sellers in better understanding market demands, allowing them to optimize their product development and sales strategies."
+          "title": "A.I. Is on Its Way to Upending Cybersecurity",
+          "link": "https://www.nytimes.com/2026/04/06/technology/ai-cybersecurity-hackers.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-04-06 18:28 UTC",
+          "analysis_zh": "随着Anthropic和OpenAI等公司的新系统问世，黑客的攻击速度显著提升，这对网络安全构成了新的挑战。这一变化不仅意味着企业和个人面临更大的风险，也促使网络安全领域加速采用人工智能技术来进行防御。未来，网络安全的防护措施将越来越依赖于AI，以应对不断演变的威胁。",
+          "analysis_en": "With the emergence of new systems from companies like Anthropic and OpenAI, hackers are able to launch attacks at a much faster pace, posing a significant challenge to cybersecurity. This shift not only increases the risks for businesses and individuals but also drives the cybersecurity sector to adopt artificial intelligence technologies for defense more rapidly. In the future, cybersecurity measures will increasingly rely on AI to counter evolving threats."
         },
         {
           "rank": 4,
-          "title": "The Ridiculously Nerdy Intel Bet That Could Rake in Billions",
-          "link": "https://www.wired.com/story/why-chip-packaging-could-decide-the-next-phase-of-the-ai-boom/",
-          "source": "Feed: Artificial Intelligence Latest",
-          "published_utc": "2026-04-06 09:00 UTC",
-          "analysis_zh": "英特尔最近宣布将全力投入先进芯片封装技术，这一领域正迅速成为人工智能热潮的核心。此举不仅显示了英特尔对未来市场的信心，也可能在竞争激烈的半导体行业中为其带来巨额收益。随着AI技术的普及，对高性能芯片的需求将持续增长，英特尔的这一战略可能会影响整个行业的格局，推动更多企业加大对相关技术的投资。",
-          "analysis_en": "Intel recently announced its commitment to advanced chip packaging technology, which is rapidly becoming central to the AI boom. This move not only reflects Intel's confidence in future markets but could also yield significant profits in the highly competitive semiconductor industry. As AI technology continues to proliferate, the demand for high-performance chips will remain strong, and Intel's strategy may influence the entire industry's landscape, prompting more companies to invest in related technologies."
+          "title": "DJI’s Mic Mini records clear audio on the go, and it’s on sale for $60",
+          "link": "https://www.theverge.com/gadgets/907582/dji-mic-mini-two-transmitters-deal-sale",
+          "source": "The Verge",
+          "published_utc": "2026-04-06 18:22 UTC",
+          "analysis_zh": "大疆推出的Mic Mini麦克风专为移动内容创作者设计，能够在不携带笨重设备的情况下录制清晰可靠的音频。该麦克风目前在亚马逊上以59.99美元的优惠价格出售，吸引了许多短视频平台的创作者。良好的音质对视频内容至关重要，Mic Mini的推出将提升创作者的制作质量，可能会影响他们的观众互动和内容传播效果。",
+          "analysis_en": "DJI has launched the Mic Mini, a microphone designed for mobile content creators that allows for clear and reliable audio recording without the need for bulky equipment. Currently on sale for $59.99 on Amazon, it has garnered interest from creators on platforms like TikTok and Instagram. Good sound quality is essential for video content, and the introduction of the Mic Mini could enhance creators' production quality, potentially impacting audience engagement and content reach."
         },
         {
           "rank": 5,
-          "title": "Los Thuthanaka’s Wak’a is a mellower follow-up to last year’s surprise Pitchfork favorite",
-          "link": "https://www.theverge.com/entertainment/907174/los-thuthanaka-waka-review",
+          "title": "Robotaxi companies won’t say how often remote operators intervene",
+          "link": "https://www.theverge.com/transportation/907478/robotaxi-remote-assistance-markey-investigation-waymo-tesla",
           "source": "The Verge",
-          "published_utc": "2026-04-05 18:30 UTC",
-          "analysis_zh": "Los Thuthanaka乐队在去年凭借自名专辑意外获得Pitchfork年度专辑奖，虽然该专辑未在流媒体平台上发布，导致其知名度有限。现在，他们的新EP《Wak’a》发布，风格相比之前更加柔和，节奏放缓，融合了传统玻利维亚乐器与迷幻摇滚元素。这一变化可能会吸引更广泛的听众，尤其是那些喜欢更细腻音乐的人。乐队的音乐风格独特，值得关注。",
-          "analysis_en": "Los Thuthanaka emerged last year with their self-titled debut, unexpectedly winning Pitchfork's Album of the Year, despite being unavailable on streaming platforms, which limited its exposure. Their new EP, \"Wak’a,\" presents a mellower sound, slowing down the tempo and blending traditional Bolivian instruments with elements of psychedelic rock. This shift may attract a broader audience, particularly those who appreciate more nuanced music. The band's unique style continues to warrant attention."
+          "published_utc": "2026-04-06 18:15 UTC",
+          "analysis_zh": "自动驾驶出租车公司拒绝透露其远程操作员介入自驾车的频率，这引起了广泛关注。马萨诸塞州参议员埃德·马基曾要求这些公司提供相关信息，以便对远程协助操作员的使用情况进行调查。这一事件的重要性在于，透明度的缺乏可能会影响公众对自动驾驶技术的信任，并可能导致更严格的监管措施。若这些公司无法提供足够的数据，可能会影响其在市场上的竞争力和未来发展。",
+          "analysis_en": "Autonomous taxi companies are refusing to disclose how often their remote operators intervene with self-driving cars, raising significant concerns. Senator Ed Markey from Massachusetts had requested this information as part of an investigation into the use of remote assistance operators. The lack of transparency is crucial because it could undermine public trust in autonomous technology and lead to stricter regulatory measures. If these companies fail to provide sufficient data, it may affect their competitiveness and future growth in the market."
         },
         {
           "rank": 6,
-          "title": "Suno is a music copyright nightmare",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
+          "title": "NASA’s Artemis II mission to fly around the far side of the Moon",
+          "link": "https://www.theverge.com/2019/7/19/20700565/nasa-artemis-moon-return-landing-trump-administration-jim-bridenstine",
           "source": "The Verge",
-          "published_utc": "2026-04-05 16:00 UTC",
-          "analysis_zh": "AI音乐平台Suno的政策是不允许使用受版权保护的材料，用户可以上传自己的曲目进行混音或将原创歌词与AI生成的音乐结合。然而，Suno的版权过滤系统似乎很容易被绕过，用户可以轻松生成与流行歌曲相似的AI版本。这一现象引发了对音乐版权的担忧，因为这些近似原作的AI封面可能会被上传到流媒体平台并获利。这不仅影响了原创艺术家的权益，也可能改变音乐产业的创作和分发方式。",
-          "analysis_en": "The AI music platform Suno has a policy against using copyrighted material, allowing users to upload their own tracks for remixing or to pair original lyrics with AI-generated music. However, it appears that Suno's copyright filters are easily bypassed, enabling users to create AI versions that closely resemble popular songs. This raises concerns about music copyright, as these near-original AI covers could be uploaded to streaming services for profit. This situation not only affects the rights of original artists but may also alter the way music is created and distributed in the industry."
+          "published_utc": "2026-04-06 17:24 UTC",
+          "analysis_zh": "美国宇航局的阿尔忒弥斯二号任务于2026年4月2日成功发射，四名宇航员乘坐猎户座飞船环绕月球飞行。这一任务标志着人类自1972年阿波罗17号任务以来首次再次接近月球，具有重要的历史意义。阿尔忒弥斯计划旨在建立可持续的月球存在，不仅仅是为了登月，而是为未来的探索奠定基础。这项任务的成功将为美国在太空探索领域的领导地位提供支持，并可能推动国际合作与技术创新。",
+          "analysis_en": "NASA's Artemis II mission successfully launched on April 2, 2026, carrying four astronauts aboard the Orion spacecraft to fly around the Moon. This mission marks the first time humans have approached the Moon since the Apollo 17 mission in 1972, making it historically significant. The Artemis program aims to establish a sustainable presence on the Moon, not just for landing but to lay the groundwork for future exploration. The success of this mission will bolster the United States' leadership in space exploration and may encourage international collaboration and technological innovation."
+        },
+        {
+          "rank": 7,
+          "title": "Netflix is launching a new app for kids games",
+          "link": "https://www.theverge.com/entertainment/907293/netflix-playground-kids-games-app",
+          "source": "The Verge",
+          "published_utc": "2026-04-06 17:00 UTC",
+          "analysis_zh": "Netflix最近推出了一款名为“Netflix Playground”的新应用，专注于为八岁及以下儿童提供友好的游戏。这一举措是Netflix在其游戏策略中加强家庭友好内容的重要一步，旨在为孩子们创造一个无广告、无应用内购买的游戏环境。该应用目前已在美国、英国、加拿大、澳大利亚、菲律宾和新西兰上线，并计划于4月28日向全球其他地区推广。这一新应用的推出可能会吸引更多家庭用户，进一步巩固Netflix在儿童娱乐市场的地位。",
+          "analysis_en": "Netflix has recently launched a new app called \"Netflix Playground,\" which focuses on kid-friendly games for children aged eight and under. This initiative represents a significant step in Netflix's strategy to enhance family-friendly content, aiming to create an ad-free and in-app purchase-free gaming environment for kids. The app is currently available in the US, UK, Canada, Australia, the Philippines, and New Zealand, with plans to roll out to other regions on April 28. The launch of this new app may attract more family users and further solidify Netflix's position in the children's entertainment market."
+        },
+        {
+          "rank": 8,
+          "title": "The one piece of data that could actually shed light on your job and AI",
+          "link": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
+          "source": "MIT Technology Review",
+          "published_utc": "2026-04-06 16:33 UTC",
+          "analysis_zh": "最近，硅谷内关于人工智能引发的就业危机的讨论愈演愈烈，许多人对此感到悲观。研究人员指出，虽然AI技术可能会取代一些工作，但也可能创造新的就业机会。这一现象引发了对未来劳动市场的深刻思考，尤其是在如何平衡技术进步与就业保障之间的关系。了解这一数据的影响，有助于我们更好地应对即将到来的变化。",
+          "analysis_en": "Recently, discussions about an impending job crisis due to artificial intelligence have intensified in Silicon Valley, leading to a sense of pessimism among many. Researchers suggest that while AI may replace certain jobs, it could also create new employment opportunities. This situation prompts a deeper reflection on the future labor market, particularly regarding the balance between technological advancement and job security. Understanding the implications of this data can help us better prepare for the changes ahead."
+        },
+        {
+          "rank": 9,
+          "title": "The Big Bang: A.I. Has Created a Code Overload",
+          "link": "https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-04-06 16:27 UTC",
+          "analysis_zh": "最近，许多公司面临着人工智能技术带来的代码过剩问题。随着AI的快速发展，企业在短时间内产生了大量的代码，导致管理和维护变得愈加复杂。这一现象不仅影响了软件开发的效率，还可能导致安全隐患的增加。企业需要寻找有效的解决方案，以应对这一挑战并确保技术的可持续发展。",
+          "analysis_en": "Recently, many companies are grappling with an overload of code generated by artificial intelligence technology. As AI rapidly evolves, organizations are producing vast amounts of code in a short period, complicating management and maintenance. This situation not only affects the efficiency of software development but may also increase security risks. Companies need to find effective solutions to tackle this challenge and ensure the sustainable development of technology."
+        },
+        {
+          "rank": 10,
+          "title": "Samsung’s Galaxy S27 ‘Pro’ could squeeze in between the Ultra and Plus phones",
+          "link": "https://www.theverge.com/tech/907431/samsung-galaxy-s27-pro-privacy-display-rumor",
+          "source": "The Verge",
+          "published_utc": "2026-04-06 16:03 UTC",
+          "analysis_zh": "三星计划在明年推出的Galaxy S27系列中，可能会新增一款名为Galaxy S27 Pro的手机。这款Pro型号将成为Ultra和Plus之间的第二款高端选择，虽然它不支持S Pen，但将配备三星的隐私显示技术。这项技术允许用户限制手机屏幕的可视角度，确保只有在正面观看时才能看到内容。这一新型号的推出可能会影响三星在高端手机市场的竞争力，尤其是在与苹果iPhone Pro的对比中。",
+          "analysis_en": "Samsung is expected to introduce a new phone called the Galaxy S27 Pro in its upcoming S27 lineup next year. This Pro model would serve as a second premium option between the Ultra and Plus versions, though it will not support the S Pen and will feature Samsung's Privacy Display technology. This technology allows users to limit the viewing angle of their phone screen, ensuring that content is only visible when viewed directly. The introduction of this new model could enhance Samsung's competitiveness in the high-end smartphone market, particularly in comparison to Apple's iPhone Pro."
         }
       ]
     },
@@ -227,93 +290,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Forget the A.I. Apocalypse. Memes Have Already Nuked Our Culture.",
-          "link": "https://www.nytimes.com/2026/04/06/magazine/ai-apocalypse-brain-rot-memes.html",
+          "title": "Ronald H. Spector, Who Traced Social History in Books on War, Dies at 83",
+          "link": "https://www.nytimes.com/2026/04/06/books/ronald-spector-dead.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-04-06 14:54 UTC",
-          "analysis_zh": "最近，有关网络文化的讨论引发了广泛关注，特别是关于网络迷因对社会的影响。文章指出，网络迷因已经渗透到我们的日常交流中，甚至影响到政府的政策传达。这种现象不仅改变了我们的沟通方式，也可能对文化的深度和严肃性造成冲击。随着这种“脑腐化”现象的加剧，我们需要重新思考互联网对文化的塑造作用。",
-          "analysis_en": "Recently, discussions about internet culture have gained significant attention, particularly regarding the impact of memes on society. The article highlights how memes have infiltrated our daily communication, even affecting government policy messaging. This phenomenon not only alters the way we communicate but may also undermine the depth and seriousness of our culture. As this \"brain rot\" intensifies, we need to reconsider the role of the internet in shaping cultural narratives."
+          "published_utc": "2026-04-06 21:08 UTC",
+          "analysis_zh": "罗纳德·H·斯佩克特（Ronald H. Spector）于83岁去世，他是一位越战老兵和学术历史学家，以独特的视角记录战争的社会历史。他的著作不仅关注将领的观点，还深入探讨了士兵的经历，涵盖了越南战争和第二次世界大战。这一研究对于理解战争对社会的深远影响至关重要，尤其是在当今全球局势紧张的背景下。他的离世意味着我们失去了一位重要的历史学者，他的作品将继续影响后来的研究者和读者。",
+          "analysis_en": "Ronald H. Spector, an 83-year-old Vietnam veteran and academic historian, has passed away. He was known for chronicling social history through the lens of both generals and soldiers during conflicts, including the Vietnam War and World War II. His work is crucial for understanding the profound impact of war on society, especially in the context of today's tense global situation. His death marks the loss of an important historian, and his writings will continue to influence future researchers and readers."
         },
         {
           "rank": 2,
-          "title": "‘Euphoria,’ Plus 8 Things to Watch on TV This Week",
-          "link": "https://www.nytimes.com/2026/04/06/arts/television/euphoria-march-madness-tv-this-week.html",
+          "title": "Elisabeth Waldo Dies at 107; Fused Indigenous and Western Sounds",
+          "link": "https://www.nytimes.com/2026/04/06/arts/music/elisabeth-waldo-dead.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-04-06 13:54 UTC",
-          "analysis_zh": "HBO的热门剧集《狂喜》在经过长时间的停播后终于回归，这对期待已久的观众来说无疑是个好消息。这部剧以其独特的叙事风格和深刻的主题而受到广泛关注，回归后可能会引发更多关于青少年心理健康和社会问题的讨论。此外，随着《狂喜》的回归，观众的收视热情可能会带动相关产品和周边的销售。",
-          "analysis_en": "The popular HBO series \"Euphoria\" is returning after a long hiatus, which is certainly good news for eager fans. The show has garnered significant attention for its unique storytelling and deep themes, and its return may spark further discussions about adolescent mental health and social issues. Additionally, with the comeback of \"Euphoria,\" viewer enthusiasm could drive sales of related merchandise and products."
+          "published_utc": "2026-04-06 21:02 UTC",
+          "analysis_zh": "著名小提琴家伊丽莎白·瓦尔多于107岁去世，她将拉丁美洲的传统乐器与西方音乐风格相结合，创造出独特的音乐氛围。这一创新不仅丰富了音乐的表现形式，也为不同文化的融合提供了新的视角。瓦尔多的作品在音乐界产生了深远的影响，激励了许多艺术家探索跨文化的创作方式。",
+          "analysis_en": "Renowned violinist Elisabeth Waldo passed away at the age of 107, having fused traditional Latin American instruments with Western musical styles to create a unique atmospheric sound. This innovation not only enriched the musical landscape but also offered new perspectives on cultural integration. Waldo's work had a profound impact on the music community, inspiring many artists to explore cross-cultural creative expressions."
         },
         {
           "rank": 3,
-          "title": "The Volcano Lover: An Anarchic Young Composer’s Masterpiece",
-          "link": "https://www.nytimes.com/2026/04/06/arts/music/simon-hanes-gargantua.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-04-06 12:59 UTC",
-          "analysis_zh": "西蒙·哈内斯，这位纽约市中心音乐界的杰出音乐家，最近录制了他的作品《巨人》，这是一部为15名音乐家创作的作品，灵感来源于火山、拉伯雷和但丁。这部作品的重要性在于它展示了当代音乐的创新和多样性，同时也反映了哈内斯对文学和自然的深刻思考。随着这部作品的发布，可能会引发更多人对实验音乐的关注，并激励其他年轻作曲家探索新的创作方向。",
-          "analysis_en": "Simon Hanes, a prominent musician in New York's downtown scene, has recently recorded his work \"Gargantua,\" composed for 15 musicians and inspired by volcanoes, Rabelais, and Dante. This piece is significant as it showcases the innovation and diversity of contemporary music while reflecting Hanes's deep engagement with literature and nature. With the release of this work, it may spark greater interest in experimental music and encourage other young composers to explore new creative avenues."
+          "title": "Thomas Zipp, Visionary Installation Artist With a Punk Sensibility, Has Died",
+          "link": "https://www.artnews.com/art-news/news/thomas-zipp-artist-dead-1234780157/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-04-06 20:09 UTC",
+          "analysis_zh": "托马斯·齐普（Thomas Zipp），这位具有朋克感知的先锋装置艺术家，近日去世。他以沉浸式的艺术创作而闻名，将特定场地的艺术重新构想为一种心理剧场。这一事件不仅让艺术界失去了一位重要的创作者，也引发了对其作品影响力的反思。齐普的艺术风格和理念可能会继续激励新一代艺术家，推动他们探索更深层次的心理和社会主题。",
+          "analysis_en": "Thomas Zipp, the visionary installation artist known for his punk sensibility, has recently passed away. He was celebrated for his immersive art, reimagining site-specific works as a form of psychological theater. This loss not only leaves a significant void in the art community but also prompts reflection on the impact of his work. Zipp's unique style and ideas may continue to inspire a new generation of artists, encouraging them to explore deeper psychological and social themes."
         },
         {
           "rank": 4,
-          "title": "‘Time Capsule’ Scrapbook of Lee Miller and Cecil Beaton Photographs Discovered, and More: Morning Links for April 6, 2026",
-          "link": "https://www.artnews.com/art-news/news/lee-miller-scrapbook-gelman-collection-morning-links-1234780035/",
+          "title": "Fair Warning Expands With Saara Pritchard, Doubling Down on ‘Conviction’ in a Crowded Art Market",
+          "link": "https://www.artnews.com/art-news/news/fair-warning-expands-saara-pritchard-loic-gouzer-1234780031/",
           "source": "News – ARTnews.com",
-          "published_utc": "2026-04-06 11:37 UTC",
-          "analysis_zh": "近日，艺术界发现了李·米勒和塞西尔·比顿的照片剪贴簿，这一发现引起了广泛关注。这些历史照片不仅展现了两位艺术家的创作过程，也为研究他们的艺术风格和时代背景提供了珍贵的资料。这一发现的重要性在于，它可能会激发对20世纪艺术和摄影的重新审视，并影响后续的艺术展览和研究方向。",
-          "analysis_en": "Recently, a scrapbook containing photographs by Lee Miller and Cecil Beaton was discovered, drawing significant attention in the art world. These historical images not only showcase the creative processes of both artists but also provide valuable insights into their artistic styles and the context of their time. The importance of this discovery lies in its potential to inspire a reevaluation of 20th-century art and photography, which may influence future exhibitions and research directions."
+          "published_utc": "2026-04-06 18:25 UTC",
+          "analysis_zh": "艺术市场的竞争日益激烈，Fair Warning 画廊最近宣布与前佳士得和苏富比的专家萨拉·普里查德（Saara Pritchard）合作，成为其合伙人。这一举措不仅增强了画廊在艺术界的专业性，也表明了其在当前市场中坚定的信念和决心。普里查德的加入可能会吸引更多高端客户，并提升画廊的整体声誉，从而对艺术市场的动态产生深远影响。",
+          "analysis_en": "In an increasingly competitive art market, Fair Warning gallery has announced a partnership with Saara Pritchard, a former specialist at Christie's and Sotheby's. This move not only strengthens the gallery's expertise in the art world but also signals its firm commitment and conviction in the current market landscape. Pritchard's involvement may attract more high-end clients and enhance the gallery's overall reputation, potentially leading to significant impacts on the dynamics of the art market."
         },
         {
           "rank": 5,
-          "title": "a language beyond words: karolina wiktor traces post-stroke motherhood in warsaw",
-          "link": "https://www.designboom.com/art/language-words-karolina-wiktor-post-stroke-motherhood-warsaw-interview/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-04-06 10:30 UTC",
-          "analysis_zh": "卡罗利娜·维克托（Karolina Wiktor）在华沙的作品探讨了中风后母亲的经历，特别是她所面临的失语症。通过结合绘画、手势和声音，维克托创造了一种超越语言的表达方式。这一作品不仅展示了艺术如何帮助人们表达复杂的情感和经历，也引发了对中风患者及其家庭支持的关注。这样的艺术形式可能会影响人们对失语症的理解，促进社会对这一群体的包容与支持。",
-          "analysis_en": "Karolina Wiktor's work in Warsaw explores the experiences of motherhood after a stroke, particularly focusing on her struggle with aphasia. By combining drawing, gesture, and sound, Wiktor creates a form of expression that transcends words. This piece not only illustrates how art can help individuals convey complex emotions and experiences but also raises awareness about the support needed for stroke patients and their families. Such artistic expressions may influence public understanding of aphasia and promote greater inclusivity and support for this community."
+          "title": "Famed Gelman Collection Will Return to Mexico by 2028",
+          "link": "https://www.artnews.com/art-news/news/gelman-collection-returns-mexico-2028-1234780114/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-04-06 18:21 UTC",
+          "analysis_zh": "著名的盖尔曼收藏将在2028年前返回墨西哥。这一收藏包含160件艺术作品，其中一些因墨西哥的永久出口禁令而无法离境。这一事件不仅标志着墨西哥对其文化遗产的重视，也可能影响国际艺术市场的动态，尤其是在艺术品归属和所有权方面的讨论。",
+          "analysis_en": "The renowned Gelman Collection is set to return to Mexico by 2028. This collection consists of 160 artworks, some of which are subject to permanent export bans from Mexico. This event highlights Mexico's commitment to preserving its cultural heritage and may influence the dynamics of the international art market, particularly discussions surrounding the ownership and provenance of artworks."
         },
         {
           "rank": 6,
-          "title": "Black concrete defines \"strong and monolithic\" Casa Mavra in Mexico",
-          "link": "https://www.dezeen.com/2026/04/06/taller-alberto-calleja-casa-mavra/",
-          "source": "Dezeen",
-          "published_utc": "2026-04-06 10:00 UTC",
-          "analysis_zh": "在墨西哥的巴列德布拉沃镇，建筑工作室Taller Alberto Calleja完成了一座名为Casa Mavra的住宅。这座房屋以黑色混凝土为主要材料，呈现出强烈而单一的外观，内部则设有小型树木庭院，增添了自然气息。这一设计不仅展示了现代建筑的美学，也反映了与周围密林环境的和谐共存。Casa Mavra的建成可能会影响当地的建筑风格，推动更多使用自然材料的设计理念。",
-          "analysis_en": "In the town of Valle de Bravo, Mexico, the architecture studio Taller Alberto Calleja has completed a residence called Casa Mavra. This home features a striking and monolithic design primarily made of black concrete, punctuated by small patios filled with trees, which adds a touch of nature. This design not only showcases modern architectural aesthetics but also reflects a harmonious coexistence with the surrounding woodland. The completion of Casa Mavra may influence local architectural styles and encourage the adoption of natural materials in future designs."
+          "title": "Two Rare Keith Haring Art Cars to Be Exhibited in New York This Month",
+          "link": "https://www.artnews.com/art-news/news/rare-keith-haring-art-cars-exhibited-nyc-1234780099/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-04-06 18:13 UTC",
+          "analysis_zh": "本月，纽约将展出两辆罕见的基思·哈林艺术汽车。这次展览不仅展示了哈林的独特艺术风格，还标志着新书《基思·哈林的3D世界》的发布。此书由拉里·沃什和格伦·亚当森编辑，旨在让更多人了解哈林的艺术成就。展览的重要性在于它不仅吸引了艺术爱好者的关注，还可能激发公众对街头艺术和文化的更大兴趣。",
+          "analysis_en": "This month, two rare Keith Haring art cars will be exhibited in New York. The exhibition not only showcases Haring's unique artistic style but also serves as a launch for the new book \"Keith Haring in 3D,\" edited by Larry Warsh and Glenn Adamson. The book aims to provide a deeper understanding of Haring's artistic achievements. The significance of this exhibition lies in its potential to attract art enthusiasts and possibly spark greater public interest in street art and culture."
         },
         {
           "rank": 7,
-          "title": "‘Firebird’ Finds Its Wings Again at Dance Theater of Harlem",
-          "link": "https://www.nytimes.com/2026/04/06/arts/dance/dance-theater-of-harlem-firebird-geoffrey-holder.html",
+          "title": "In Savannah Guthrie’s Return to ‘Today,’ a Rare TV Example of How to Live With Not Knowing",
+          "link": "https://www.nytimes.com/2026/04/06/arts/television/savannah-guthrie-today-return.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-04-06 09:00 UTC",
-          "analysis_zh": "《火鸟》在哈莱姆舞蹈剧院重新展翅，标志着这一公司对其华丽而富有幻想的大型制作的复兴。这部作品的背景设定在加勒比地区，展现了丰富的文化和艺术表现力。这次复演不仅为观众带来了视觉盛宴，也为舞蹈团注入了新的活力，可能会吸引更多观众关注古典舞蹈的魅力。",
-          "analysis_en": "\"Firebird\" has taken flight once again at the Dance Theater of Harlem, marking a revival of the company's lush and fantastical large-scale production. Set in the Caribbean, this performance showcases rich cultural and artistic expressions. The revival not only offers a visual feast for the audience but also revitalizes the dance company, potentially drawing more attention to the allure of classical dance."
+          "published_utc": "2026-04-06 17:15 UTC",
+          "analysis_zh": "在萨凡娜·古斯里重返《今日秀》的过程中，她的母亲仍然失踪，这一情境展示了如何在不确定中生活。这一事件不仅引发了观众对她个人经历的关注，也让人们思考面对未知时的情感和应对方式。这种真实的情感表达在电视节目中并不常见，可能会影响观众对主持人角色的理解和期待。",
+          "analysis_en": "Savannah Guthrie's return to \"Today\" comes amid her mother's ongoing disappearance, highlighting how to cope with uncertainty. This situation not only draws attention to her personal struggles but also prompts viewers to reflect on the emotions and coping mechanisms associated with the unknown. Such authentic emotional expressions are rare in television, potentially influencing how audiences perceive and expect hosts to navigate personal challenges."
         },
         {
           "rank": 8,
-          "title": "biodegradable thermoplastic casts tree bark and branches into light sculptures",
-          "link": "https://www.designboom.com/design/biodegradable-thermoplastic-tree-bark-branches-light-sculptures-mj-fraser/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-04-06 08:30 UTC",
-          "analysis_zh": "最近，一种生物可降解热塑性材料被用于制作独特的灯具，这些灯具的外形模仿了设计师童年花园中树木的树皮和树枝。这项创新不仅展示了环保材料的潜力，还为灯具设计带来了新的艺术表达方式。随着可持续设计理念的推广，这种灯具可能会影响未来的家居装饰趋势，鼓励更多设计师采用自然元素和环保材料。",
-          "analysis_en": "Recently, a biodegradable thermoplastic has been used to create unique lamps that mimic the bark and branches of trees found in the designer's childhood garden. This innovation not only showcases the potential of eco-friendly materials but also introduces a new artistic expression in lamp design. As sustainable design concepts gain traction, these lamps may influence future home decor trends, encouraging more designers to incorporate natural elements and environmentally friendly materials."
+          "title": "Twelve \"regionally diverse\" architecture studios selected for US embassy design",
+          "link": "https://www.dezeen.com/2026/04/06/architects-us-department-state-dureau-overseas-buildings-operations/",
+          "source": "Dezeen",
+          "published_utc": "2026-04-06 17:00 UTC",
+          "analysis_zh": "美国国务院海外建筑事务局选择了12家建筑事务所，包括SHoP Architects、Weiss/Manfredi和Ennead Architects，负责未来五年的外交建筑设计。这一决定不仅反映了对建筑多样性的重视，也可能为这些事务所提供更多的国际项目机会。通过引入不同地区的设计理念，这些建筑将更好地融入当地文化，促进国际交流与合作。",
+          "analysis_en": "The U.S. Department of State's Bureau of Overseas Buildings Operations has selected twelve architecture firms, including SHoP Architects, Weiss/Manfredi, and Ennead Architects, to design diplomatic buildings over the next five years. This decision highlights the importance of architectural diversity and may open up more international project opportunities for these firms. By incorporating design concepts from various regions, these buildings will better integrate with local cultures, fostering international communication and collaboration."
         },
         {
           "rank": 9,
-          "title": "bjarke ingels group completes three rammed earth villas for NOT A HOTEL in japan",
-          "link": "https://www.designboom.com/architecture/bjarke-ingels-group-big-three-rammed-earth-villas-notahotel-japan/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-04-06 08:00 UTC",
-          "analysis_zh": "比亚克·英格斯集团（BIG）在日本完成了三个夯土别墅的建设，这是该工作室在日本的首个实际项目。这些别墅采用了现场挖掘的土壤建造，体现了可持续建筑的理念。这一项目不仅展示了BIG在建筑设计上的创新能力，也为当地的建筑行业提供了新的思路，可能会激励更多类似的环保项目在未来得以实施。",
-          "analysis_en": "The Bjarke Ingels Group (BIG) has completed three rammed earth villas in Japan, marking the studio's first built project in the country. These villas are constructed using soil excavated directly from the site, highlighting the principles of sustainable architecture. This project not only showcases BIG's innovative design capabilities but also offers new perspectives for the local construction industry, potentially inspiring more environmentally friendly projects in the future."
+          "title": "Trump Administration Claims Halting $400 M. White House Ballroom Renovation Is National Security Risk",
+          "link": "https://www.artnews.com/art-news/news/trump-admin-white-house-ballroom-national-security-risk-1234780061/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-04-06 16:46 UTC",
+          "analysis_zh": "特朗普政府声称，停止耗资4亿美元的白宫舞厅翻修工程将构成国家安全风险。此案将由三位法官审理，包括奥巴马任命的帕特里夏·安·米莱特、特朗普任命的内奥米·拉奥和拜登任命的布拉德利·加西亚。这一事件引发了广泛关注，因为白宫的翻修计划不仅涉及巨额资金，还可能影响政府的形象和功能。若翻修工程被继续推迟，可能会对白宫的接待能力和国家活动造成影响。",
+          "analysis_en": "The Trump administration claims that halting the $400 million renovation of the White House ballroom poses a national security risk. The case will be reviewed by three judges: Patricia Ann Millett, appointed by Obama; Neomi Rao, appointed by Trump; and Bradley Garcia, appointed by Biden. This situation has garnered significant attention, as the renovation plan involves substantial funding and could impact the government's image and functionality. If the renovation is further delayed, it may affect the White House's ability to host events and carry out national activities."
         },
         {
           "rank": 10,
-          "title": "paolo ulian sculpts carsico washbasin from marble for antoniolupi",
-          "link": "https://www.designboom.com/design/paolo-ulian-sculpts-carsico-washbasin-from-marble-for-antoniolupi/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-04-06 06:44 UTC",
-          "analysis_zh": "意大利设计师保罗·乌利安为安东尼奥卢皮公司设计的CARSICO洗手盆，采用大理石雕刻而成，展现出独特的蜂窝结构。通过在大理石中打孔，洗手盆的内部形态得以显露，这种设计不仅美观，还体现了材料的自然特性。这一作品的重要性在于它将传统材料与现代设计理念相结合，可能会影响未来洗手盆的设计趋势，推动更多创新的家居产品出现。",
-          "analysis_en": "Italian designer Paolo Ulian has created the CARSICO washbasin for Antoniolupi, sculpted from marble to reveal a unique honeycomb structure. By core-drilling the marble, the interior form of the washbasin is exposed, showcasing the natural qualities of the material. This work is significant as it merges traditional materials with modern design concepts, potentially influencing future trends in washbasin design and encouraging more innovative home products."
+          "title": "Ex-Staffers Say the US Holocaust Museum Altered Website and Canceled Programming to Avoid Angering Trump",
+          "link": "https://www.artnews.com/art-news/news/us-holocaust-museum-canceled-programming-angering-trump-1234780080/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-04-06 15:46 UTC",
+          "analysis_zh": "美国大屠杀纪念馆的两名前员工表示，该馆为了避免激怒特朗普，修改了网站内容并取消了一些活动。这一行为引发了对历史教育和公共记忆的担忧，因为它可能会影响人们对大屠杀的理解和反思。此事件不仅反映了政治干预对文化机构的影响，也可能导致公众对历史真相的认知产生偏差。",
+          "analysis_en": "Two former employees of the U.S. Holocaust Museum claim that the institution altered its website and canceled programming to avoid upsetting Trump. This raises concerns about historical education and public memory, as it may affect how people understand and reflect on the Holocaust. The incident highlights the influence of political interference on cultural institutions and could lead to a distorted public perception of historical truths."
         }
       ]
     }
