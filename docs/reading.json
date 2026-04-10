@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-10 14:20:10 UTC",
-  "generated_at_unix": 1775830810,
+  "generated_at": "2026-04-10 14:55:25 UTC",
+  "generated_at_unix": 1775832925,
   "window": {
-    "from_utc": "2026-04-09 14:20:10 UTC",
-    "to_utc": "2026-04-10 14:20:10 UTC",
+    "from_utc": "2026-04-09 14:55:25 UTC",
+    "to_utc": "2026-04-10 14:55:25 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,93 +14,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Consumer sentiment hits record low, inflation fears rise amid Iran war",
-          "link": "https://www.cnbc.com/2026/04/10/consumer-sentiment-inflation-fears-iran-war.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-04-10 14:19 UTC",
-          "analysis_zh": "近期，美国消费者信心指数降至历史低点，主要原因是由于伊朗战争引发的通货膨胀担忧。消费者信心的下降意味着人们对经济前景的悲观情绪加剧，这可能导致消费支出减少，从而影响经济增长。随着消费者对未来的信心减弱，企业也可能会推迟投资决策，进一步加剧经济的不确定性。",
-          "analysis_en": "Recently, the U.S. consumer sentiment index has hit a record low, primarily due to inflation fears stemming from the war in Iran. The decline in consumer confidence indicates a growing pessimism about the economic outlook, which may lead to reduced consumer spending and, in turn, affect economic growth. As consumer confidence wanes, businesses might also delay investment decisions, further exacerbating economic uncertainty."
+          "title": "‘Our FICO score is excellent’: My husband and I are in our 70s. Do we take out a $10,000 loan for a new roof?",
+          "link": "https://www.marketwatch.com/story/our-fico-score-is-excellent-my-husband-and-i-are-in-our-70s-how-do-we-raise-10-000-for-a-new-roof-738e2821?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-04-10 14:49 UTC",
+          "analysis_zh": "随着三月份通货膨胀的飙升，贷款利率预计不会降低。一对七十多岁的夫妻考虑是否应该为新屋顶申请一笔10,000美元的贷款。这个决定对他们的财务状况至关重要，因为高利率可能会增加他们的还款压力。此事不仅影响他们的生活质量，也可能对其他老年人群体在面对类似财务决策时产生示范效应。",
+          "analysis_en": "With inflation surging in March, loan rates are not expected to decrease. A couple in their seventies is contemplating whether to take out a $10,000 loan for a new roof. This decision is crucial for their financial situation, as high interest rates could increase their repayment burden. This situation not only affects their quality of life but may also serve as an example for other seniors facing similar financial decisions."
         },
         {
           "rank": 2,
-          "title": "Americans blame Iran war for worsening economic outlook, pushing sentiment down to record low",
-          "link": "https://www.marketwatch.com/story/americans-blame-iran-war-for-worsening-economic-outlook-pushing-sentiment-down-to-record-low-db3332ef?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-04-10 14:17 UTC",
-          "analysis_zh": "最近，美国民众对经济前景的看法因伊朗战争而变得更加悲观，导致经济信心降至历史低点。这一变化反映了人们对商业环境、个人财务状况和通货膨胀预期的担忧。经济信心的下降可能会影响消费者支出和投资决策，从而进一步加剧经济放缓的风险。",
-          "analysis_en": "Recently, Americans' outlook on the economy has worsened due to the war in Iran, pushing economic sentiment to a record low. This shift reflects growing concerns about business conditions, personal finances, and inflation expectations. The decline in economic confidence may affect consumer spending and investment decisions, potentially exacerbating the risk of an economic slowdown."
-        },
-        {
-          "rank": 3,
-          "title": "Applied Optoelectronics stock rises despite Citron short call",
-          "link": "https://www.investing.com/news/stock-market-news/applied-optoelectronics-stock-rises-despite-citron-short-call-93CH-4608096",
-          "source": "Stock Market News",
-          "published_utc": "2026-04-10 14:08 UTC",
-          "analysis_zh": "应用光电公司（Applied Optoelectronics）的股票在Citron发布做空报告后仍然上涨。这一现象引起了市场的广泛关注，表明投资者对该公司的前景持乐观态度。尽管面临做空压力，股票的上涨可能反映出市场对其技术和产品的信心。这种情况可能会影响其他投资者的决策，并对公司的未来发展产生积极影响。",
-          "analysis_en": "Applied Optoelectronics' stock rose despite a short call from Citron, which has garnered significant attention in the market. This indicates that investors remain optimistic about the company's future prospects. The stock's increase, despite the short-selling pressure, may reflect confidence in its technology and products. Such a scenario could influence the decisions of other investors and potentially lead to positive outcomes for the company's future development."
-        },
-        {
-          "rank": 4,
-          "title": "Powell, Bessent discussed Anthropic's Mythos AI cyber threat with major U.S. banks",
-          "link": "https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-04-10 14:06 UTC",
-          "analysis_zh": "美国联邦储备委员会主席鲍威尔与投资公司Bessent讨论了Anthropic推出的新AI模型Mythos的网络安全威胁。由于担心黑客可能利用该模型的能力，Anthropic决定将其仅向部分公司推出。这一举措凸显了在快速发展的人工智能领域中，安全性和伦理问题的重要性。此事件可能会影响金融机构对新技术的接受程度，并促使它们在投资时更加谨慎。",
-          "analysis_en": "Federal Reserve Chairman Jerome Powell and investment firm Bessent discussed the cybersecurity threats posed by Anthropic's new AI model, Mythos. Due to concerns that hackers could exploit the model's capabilities, Anthropic has chosen to roll it out only to a select group of companies. This move highlights the importance of security and ethical considerations in the rapidly evolving field of artificial intelligence. The incident may affect financial institutions' willingness to adopt new technologies and encourage them to be more cautious in their investments."
-        },
-        {
-          "rank": 5,
-          "title": "Meta must face youth addiction lawsuit by Massachusetts, court rules",
-          "link": "https://www.investing.com/news/stock-market-news/meta-must-face-youth-addiction-lawsuit-by-massachusetts-court-rules-4608072",
-          "source": "Stock Market News",
-          "published_utc": "2026-04-10 14:06 UTC",
-          "analysis_zh": "马萨诸塞州的法院裁定，Meta公司必须面对一项关于青少年成瘾的诉讼。这起诉讼指控Meta旗下的社交媒体平台对青少年的心理健康造成了负面影响，可能导致成瘾问题的加剧。这一裁决的重要性在于，它可能促使其他州也采取类似的法律行动，进一步审视社交媒体对年轻用户的影响。",
-          "analysis_en": "A Massachusetts court has ruled that Meta must face a lawsuit regarding youth addiction. The lawsuit alleges that Meta's social media platforms have negatively impacted the mental health of teenagers, potentially exacerbating addiction issues. This ruling is significant as it may encourage other states to pursue similar legal actions, prompting a broader examination of the effects of social media on young users."
-        },
-        {
-          "rank": 6,
-          "title": "23%+, 12%+: These tech stocks are rallying as CPI adds fuel to the rebound",
-          "link": "https://www.investing.com/news/stock-market-news/12-10--these-tech-stocks-are-rallying-as-cpi-adds-fuel-to-the-rebound-4607951",
-          "source": "Stock Market News",
-          "published_utc": "2026-04-10 14:04 UTC",
-          "analysis_zh": "最近，科技股的表现显著回升，部分股票的涨幅超过了23%和12%。这一反弹与消费者物价指数（CPI）的上升密切相关，市场对经济复苏的预期增强。投资者对科技行业的信心回暖，可能会推动更多资金流入这一领域，从而影响整体股市的走势。",
-          "analysis_en": "Recently, technology stocks have shown a significant rebound, with some shares rising over 23% and 12%. This recovery is closely linked to the increase in the Consumer Price Index (CPI), which has boosted market expectations for economic recovery. The renewed investor confidence in the tech sector may lead to increased capital inflow into this area, potentially influencing the overall market trends."
-        },
-        {
-          "rank": 7,
-          "title": "What Makes Reddit (RDDT) an Investment Bet?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/makes-reddit-rddt-investment-bet-140200257.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-04-10 14:02 UTC",
-          "analysis_zh": "最近，Reddit（RDDT）被认为是一个值得投资的选择。随着社交媒体平台的用户基础不断扩大，Reddit的市场潜力引起了投资者的关注。投资者对其未来增长的信心可能会推动其股价上涨，从而影响整个社交媒体行业的投资趋势。此外，Reddit的独特社区文化和用户参与度也可能吸引更多广告商，从而进一步提升其盈利能力。",
-          "analysis_en": "Recently, Reddit (RDDT) has been identified as a promising investment opportunity. As the user base of the social media platform continues to grow, its market potential has captured the attention of investors. Confidence in its future growth may drive up its stock price, potentially influencing investment trends across the entire social media sector. Furthermore, Reddit's unique community culture and high user engagement could attract more advertisers, further enhancing its profitability."
-        },
-        {
-          "rank": 8,
-          "title": "CoreWeave adds ninth top AI model provider with deal to power Anthropic's Claude",
-          "link": "https://www.cnbc.com/2026/04/10/coreweave-anthropic-claude-ai-deal.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-04-10 14:00 UTC",
-          "analysis_zh": "CoreWeave与人工智能模型提供商Anthropic达成协议，成为其第九大合作伙伴。这项交易的签署恰逢Meta公司宣布将额外投资210亿美元于云服务提供商，显示出对人工智能需求的强烈关注。这一合作不仅将推动CoreWeave在AI领域的进一步发展，也可能影响整个行业的竞争格局，促使更多企业加大对云计算和AI技术的投入。",
-          "analysis_en": "CoreWeave has signed a deal with AI model provider Anthropic, becoming its ninth major partner. This agreement comes right after Meta announced an additional $21 billion investment in cloud services, highlighting the soaring demand for AI. This collaboration is expected to enhance CoreWeave's position in the AI sector and may influence the competitive landscape of the industry, encouraging more companies to invest in cloud computing and AI technologies."
-        },
-        {
-          "rank": 9,
           "title": "Stocks mixed as caution over Iran ceasefire offset by better than feared CPI data",
           "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-iran-ceasefire-talks-cpi-data-in-focus-4607013",
           "source": "Stock Market News",
-          "published_utc": "2026-04-10 14:00 UTC",
-          "analysis_zh": "近期股市表现不一，主要原因是对伊朗停火协议的谨慎态度与好于预期的消费者物价指数（CPI）数据之间的相互影响。这一局势引发了投资者的关注，因为地缘政治的不确定性可能会影响市场稳定性。同时，CPI数据的改善也为经济复苏提供了积极信号，可能会影响未来的货币政策决策。整体来看，这种复杂的市场动态可能会导致投资者在短期内采取更为谨慎的策略。",
-          "analysis_en": "Recently, the stock market showed mixed results, primarily due to the interplay between caution regarding the Iran ceasefire and better-than-expected Consumer Price Index (CPI) data. This situation has drawn investors' attention, as geopolitical uncertainties may impact market stability. At the same time, the improvement in CPI data provides a positive signal for economic recovery, which could influence future monetary policy decisions. Overall, this complex market dynamic may lead investors to adopt a more cautious strategy in the short term."
+          "published_utc": "2026-04-10 14:48 UTC",
+          "analysis_zh": "近期股市表现不一，主要原因是对伊朗停火协议的谨慎态度与好于预期的消费者物价指数（CPI）数据之间的相互影响。投资者对地缘政治局势的担忧使得市场情绪变得谨慎，而CPI数据的改善则为经济前景带来了一丝希望。这种复杂的局面可能会导致市场波动加剧，影响投资者的决策和未来的市场走势。",
+          "analysis_en": "Recently, the stock market showed mixed performance, primarily due to the interplay between caution over the Iran ceasefire and better-than-expected Consumer Price Index (CPI) data. Investor concerns regarding geopolitical tensions have created a cautious market sentiment, while the improvement in CPI data offers a glimmer of hope for the economic outlook. This complex situation may lead to increased market volatility, affecting investor decisions and future market trends."
+        },
+        {
+          "rank": 3,
+          "title": "‘I worked very hard’: I’m 71 and have $6 million after scrimping and saving. My son, 33, wants money for a house. Do I say yes?",
+          "link": "https://www.marketwatch.com/story/i-worked-very-hard-im-71-and-have-6-million-after-scrimping-and-saving-my-son-33-wants-money-for-a-house-do-i-say-yes-a62657f7?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-04-10 14:48 UTC",
+          "analysis_zh": "一位71岁的父亲在辛勤工作和节俭生活后积累了600万美元的财富。如今，他的33岁儿子希望获得一笔资金用于购房。这个问题引发了关于家庭财务支持和代际责任的讨论，尤其是在年轻一代面临高房价的背景下。这一决定不仅影响父子关系，也可能对家庭未来的财务规划产生深远影响。",
+          "analysis_en": "A 71-year-old father has accumulated $6 million through hard work and frugality. Now, his 33-year-old son is seeking financial assistance to buy a house. This situation raises important questions about family financial support and intergenerational responsibilities, especially as younger generations face high housing prices. The father's decision could not only affect their relationship but also have significant implications for the family's future financial planning."
+        },
+        {
+          "rank": 4,
+          "title": "Here's the inflation breakdown for March 2026 — in one chart",
+          "link": "https://www.cnbc.com/2026/04/10/cpi-inflation-march-2026-breakdown.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-04-10 14:46 UTC",
+          "analysis_zh": "由于伊朗战争的影响，消费者面临汽油、机票和其他商品价格的上涨。这一现象不仅加重了家庭的经济负担，也可能导致整体通货膨胀水平的上升。随着物价的持续上涨，消费者的购买力可能会受到压制，从而影响经济的复苏进程。政府和相关机构需要密切关注这一变化，以便采取适当的应对措施。",
+          "analysis_en": "The ongoing war in Iran has led to rising prices for gasoline, airline fares, and other consumer goods. This situation not only increases the financial burden on households but may also contribute to a higher overall inflation rate. As prices continue to climb, consumer purchasing power could be diminished, potentially hindering economic recovery. Government and relevant agencies need to closely monitor these developments to implement appropriate responses."
+        },
+        {
+          "rank": 5,
+          "title": "Consumer sentiment hits record low, inflation fears rise amid Iran war",
+          "link": "https://www.cnbc.com/2026/04/10/consumer-sentiment-inflation-fears-iran-war.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-04-10 14:46 UTC",
+          "analysis_zh": "消费者信心指数降至47.6，创下历史新低，较三月份下降了10.7%。这一变化反映出人们对经济前景的担忧，尤其是在伊朗战争引发的通货膨胀恐慌背景下。消费者信心的下降可能会导致消费支出减少，从而对经济复苏造成负面影响。",
+          "analysis_en": "The consumer sentiment index has dropped to a record low of 47.6, falling by 10.7% since March. This decline indicates growing concerns about the economic outlook, particularly amid inflation fears triggered by the war in Iran. A decrease in consumer confidence could lead to reduced spending, potentially hindering economic recovery."
+        },
+        {
+          "rank": 6,
+          "title": "Powell, Bessent discussed Anthropic's Mythos AI cyber threat with major U.S. banks",
+          "link": "https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-04-10 14:44 UTC",
+          "analysis_zh": "美国联邦储备委员会主席鲍威尔与投资公司Bessent讨论了Anthropic推出的Mythos AI模型，该模型因担忧黑客可能利用其能力而仅向部分公司发布。这一举措引发了金融界的关注，因为AI技术的潜在风险可能对金融安全构成威胁。此事件不仅影响了相关公司的投资决策，也可能促使监管机构加强对AI技术的审查和管理。",
+          "analysis_en": "Federal Reserve Chairman Jerome Powell and investment firm Bessent discussed the release of Anthropic's Mythos AI model, which was rolled out to a limited number of companies due to concerns that hackers could exploit its capabilities. This move has garnered attention in the financial sector, as the potential risks of AI technology could pose threats to financial security. The incident may not only influence investment decisions among affected companies but also prompt regulatory bodies to enhance scrutiny and management of AI technologies."
+        },
+        {
+          "rank": 7,
+          "title": "Palantir stock rebounds after Trump endorsement amid Anthropic competition",
+          "link": "https://www.investing.com/news/stock-market-news/palantir-stock-rebounds-after-trump-endorsement-amid-anthropic-competition-4608156",
+          "source": "Stock Market News",
+          "published_utc": "2026-04-10 14:43 UTC",
+          "analysis_zh": "近日，Palantir公司的股票在特朗普的支持下出现反弹，这一消息引发了市场的广泛关注。特朗普的背书不仅提升了投资者的信心，也可能影响Palantir在与Anthropic等竞争对手的市场地位。此事件表明，政治因素在科技公司股价波动中扮演着重要角色，未来可能会影响投资者对相关公司的看法和决策。",
+          "analysis_en": "Recently, Palantir's stock rebounded following an endorsement from Donald Trump, which has garnered significant attention in the market. Trump's backing not only boosted investor confidence but may also affect Palantir's competitive standing against rivals like Anthropic. This incident highlights the crucial role that political factors play in the fluctuations of tech company stock prices, potentially influencing investors' perceptions and decisions regarding these companies in the future."
+        },
+        {
+          "rank": 8,
+          "title": "Lockheed Martin secures $4.7 billion Patriot interceptor missile production contract",
+          "link": "https://www.investing.com/news/stock-market-news/lockheed-martin-awarded-pac3-mse-missile-interceptor-production-contract-4607923",
+          "source": "Stock Market News",
+          "published_utc": "2026-04-10 14:43 UTC",
+          "analysis_zh": "洛克希德·马丁公司获得了一项价值47亿美元的爱国者拦截导弹生产合同。这一合同的签署不仅巩固了该公司的市场地位，还将进一步推动美国国防工业的发展。此项投资预计将创造大量就业机会，并可能影响国际军事合作与武器销售的格局。",
+          "analysis_en": "Lockheed Martin has secured a $4.7 billion contract for the production of Patriot interceptor missiles. This contract not only strengthens the company's position in the market but also promotes the growth of the U.S. defense industry. The investment is expected to create numerous job opportunities and may influence the dynamics of international military cooperation and arms sales."
+        },
+        {
+          "rank": 9,
+          "title": "The average tax refund is over $3,500 — and you’ve get less than a week to file",
+          "link": "https://www.marketwatch.com/story/still-havent-filed-your-taxes-heres-a-350-reason-to-stop-procrastinating-012b1171?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-04-10 14:40 UTC",
+          "analysis_zh": "美国国税局（IRS）报告称，目前收到的报税表比去年同期少了100万份，而平均退税额已超过3500美元。这一情况引发关注，因为退税金额的增加可能会影响消费者的支出和经济复苏。税务申报截止日期临近，许多人可能会面临错过退税的风险，这可能会对家庭财务造成压力。",
+          "analysis_en": "The IRS has reported that it has received 1 million fewer tax returns compared to the same time last year, while the average tax refund has exceeded $3,500. This situation is concerning as the increase in refund amounts could influence consumer spending and economic recovery. With the tax filing deadline approaching, many individuals may risk missing out on their refunds, which could put financial pressure on households."
         },
         {
           "rank": 10,
-          "title": "You only really need to know one thing to save for retirement",
-          "link": "https://www.marketwatch.com/story/you-only-really-need-to-know-one-thing-to-save-for-retirement-9e377901?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-04-10 14:00 UTC",
-          "analysis_zh": "为了退休储蓄，关键在于简化投资策略。许多人在储蓄时感到困惑，但实际上只需关注一项重要的原则，就能有效积累财富。这种简单的方法不仅能帮助人们更轻松地规划未来，还可能影响他们的财务安全和生活质量。随着人们对退休储蓄的重视，掌握这一原则显得尤为重要。",
-          "analysis_en": "The key to saving for retirement lies in simplifying investment strategies. Many people feel overwhelmed when it comes to saving, but focusing on one crucial principle can help them effectively build wealth. This straightforward approach not only makes future planning easier but may also impact their financial security and quality of life. As awareness of retirement savings grows, understanding this principle becomes increasingly important."
+          "title": "CoreWeave stock pops 11% on deal to power Anthropic's Claude",
+          "link": "https://www.cnbc.com/2026/04/10/coreweave-anthropic-claude-ai-deal.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-04-10 14:39 UTC",
+          "analysis_zh": "CoreWeave的股票因与人工智能公司Anthropic达成合作协议而上涨了11%。这一交易的达成恰逢Meta公司宣布将再投入210亿美元用于云服务，显示出对AI需求的强劲增长。这一动态不仅提升了CoreWeave的市场信心，也可能促使更多投资流向云计算和AI领域，进一步推动技术创新和市场竞争。",
+          "analysis_en": "CoreWeave's stock surged 11% following a deal to provide services for the AI company Anthropic. This agreement comes on the heels of Meta's announcement to invest an additional $21 billion in cloud services, highlighting the soaring demand for AI. This development not only boosts market confidence in CoreWeave but may also attract more investments into the cloud computing and AI sectors, further driving technological innovation and market competition."
         }
       ]
     },
@@ -114,8 +114,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-04-10 14:12 UTC",
-          "analysis_zh": "科学家们指出，我们对阿尔茨海默病的治疗方法存在根本性错误。这种疾病并不是单一的问题，而是生物学、衰老和整体健康的复杂交织。因此，针对单一因素的药物治疗效果有限，尽管一些新疗法显示出适度的好处。研究人员现在提倡采用多种策略，包括基因编辑、脑细胞再生和肠道健康干预，目标是将阿尔茨海默病视为一个复杂系统来进行治疗，而不是简单地将其视为一种疾病。",
-          "analysis_en": "Scientists have pointed out that our approach to treating Alzheimer's disease has fundamental flaws. This condition is not just a single issue; it is a complex interplay of biology, aging, and overall health. As a result, drugs targeting only one factor have shown limited effectiveness, even though some new therapies provide modest benefits. Researchers are now advocating for multi-faceted strategies, including gene editing, brain cell rejuvenation, and gut health interventions, with the goal of treating Alzheimer's as a complex system rather than simply viewing it as one disease."
+          "analysis_zh": "科学家们指出，我们对阿尔茨海默病的治疗方式存在误区。阿尔茨海默病并不是单一的问题，而是生物学、衰老和整体健康的复杂交织。这就是为什么仅针对某一因素的药物疗法效果不佳，尽管一些新治疗方法显示出有限的好处。研究人员现在倡导采用多方位的策略，从基因编辑到脑细胞再生以及肠道健康干预，旨在将阿尔茨海默病视为一个复杂系统来进行治疗。",
+          "analysis_en": "Scientists have pointed out that we have been treating Alzheimer's disease incorrectly. Alzheimer's is not just a single issue; it is a complex interplay of biology, aging, and overall health. This is why drugs targeting only one factor have fallen short, even though some new treatments show modest benefits. Researchers are now advocating for multi-faceted strategies, ranging from gene editing to brain cell rejuvenation and gut health interventions, aiming to treat Alzheimer's as a complex system rather than a single disease."
         },
         {
           "rank": 2,
@@ -123,8 +123,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/04/260410083114.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-04-10 13:55 UTC",
-          "analysis_zh": "一种常见的营养素——玉米黄质，可能在癌症治疗中发挥重要作用。研究人员发现，玉米黄质能够增强T细胞的活性，从而提高免疫疗法的效果。这一发现不仅意味着我们可以利用日常蔬菜和补充剂来改善癌症治疗的效果，还可能为未来的癌症治疗提供新的方向。接下来的步骤是进行人体试验，以验证其在临床上的应用潜力。",
-          "analysis_en": "A common nutrient, zeaxanthin, may play a significant role in cancer treatment. Researchers have found that zeaxanthin enhances the activity of T cells, thereby improving the effectiveness of immunotherapy. This discovery suggests that we could utilize everyday vegetables and supplements to enhance cancer treatment outcomes and may pave the way for new approaches in cancer therapy. The next step involves conducting human trials to validate its potential for clinical use."
+          "analysis_zh": "研究人员发现，常见的营养素叶黄素不仅对眼睛健康有益，还可能增强人体对抗癌症的能力。这种营养素能够强化T细胞的功能，从而提高免疫疗法的效果。由于叶黄素广泛存在于日常蔬菜和补充剂中，安全且易于获取，因此它作为癌症治疗的辅助剂具有很大的潜力。接下来的步骤是进行人体试验，以验证其效果。",
+          "analysis_en": "Researchers have discovered that zeaxanthin, a common nutrient known for its benefits to eye health, may also enhance the body's ability to fight cancer. This nutrient strengthens T cells, improving the effectiveness of immunotherapy treatments. Since zeaxanthin is widely found in everyday vegetables and supplements, it is safe and accessible, showing significant potential as a booster for cancer therapies. The next step will be to conduct human trials to confirm its efficacy."
         },
         {
           "rank": 3,
@@ -132,8 +132,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/04/260409101055.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-04-10 03:42 UTC",
-          "analysis_zh": "科学家们发现，曾被视为突破性进展的癌症药物BET抑制剂在实际患者中效果不佳的原因之一是，BRD2和BRD4这两种相似的蛋白质并不执行相同的功能。BRD2像一个“舞台经理”，负责准备基因的激活，而BRD4则触发最终的激活步骤。当前的药物同时阻断这两种蛋白，可能会以不可预测的方式干扰这一过程。这项研究的重要性在于，它揭示了癌症治疗中的关键细节，为未来药物的设计提供了新的思路。",
-          "analysis_en": "Scientists have discovered that a key reason why BET inhibitors, once seen as groundbreaking cancer drugs, often fail in real patients is due to the different roles of two similar proteins, BRD2 and BRD4. While BRD2 acts like a \"stage manager\" preparing genes for activation, BRD4 is responsible for triggering the final activation step. Current drugs that block both proteins may disrupt this process in unpredictable ways. This research is significant as it uncovers a crucial detail in cancer treatment and offers new insights for the design of future therapies."
+          "analysis_zh": "科学家们发现，曾被视为突破性进展的癌症药物BET抑制剂在实际患者中效果不佳的原因之一是，BRD2和BRD4这两种相似的蛋白质并不执行相同的功能。BRD2像是“舞台经理”，负责准备基因激活，而BRD4则负责最终的激活步骤。当前药物同时阻断这两种蛋白，可能会以不可预测的方式干扰这一过程。这项研究的重要性在于，它揭示了癌症治疗中潜在的关键差异，并为未来药物的设计提供了新的思路。",
+          "analysis_en": "Researchers have uncovered a key reason why BET inhibitors, once seen as a breakthrough in cancer treatment, often fail in real patients. The closely related proteins BRD2 and BRD4 perform different roles: BRD2 prepares genes for activation, while BRD4 triggers the final activation step. Current drugs that block both proteins may disrupt the process in unpredictable ways. This discovery is significant as it highlights a crucial difference in cancer treatment and offers new insights for designing more effective therapies in the future."
         },
         {
           "rank": 4,
@@ -141,8 +141,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/04/260409221823.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-04-10 02:23 UTC",
-          "analysis_zh": "一项关于微生物组研究的突破可能会改变结直肠癌的检测方式，未来可能不再需要进行肠镜检查。科学家们利用人工智能对肠道细菌进行了前所未有的详细映射，揭示了与癌症相关的微生物模式。通过分析简单的粪便样本，他们的方法能够识别90%的结直肠癌病例，这一准确率与目前最可靠的诊断工具之一相媲美。这项研究的成果不仅可能提高早期检测的效率，还可能推动对肠道微生物群在整体健康和疾病中的作用的进一步理解。",
-          "analysis_en": "A breakthrough in microbiome research could change the way colorectal cancer is detected, potentially eliminating the need for colonoscopies. Scientists used artificial intelligence to map gut bacteria in unprecedented detail, revealing microbial patterns associated with cancer. By analyzing simple stool samples, their method identified 90% of colorectal cancer cases, rivaling one of the most trusted diagnostic tools in medicine. This research could enhance early detection efficiency and promote a better understanding of how gut microbiota influences overall health and disease."
+          "analysis_zh": "近期，日内瓦大学的研究人员开发出一种新型的粪便检测方法，可以在不需要进行结肠镜检查的情况下，检测到90%的结直肠癌病例。这项突破性的研究利用人工智能对肠道细菌进行详细分析，揭示了与癌症相关的微生物模式。这一发现不仅为结直肠癌的早期筛查提供了更为简便和经济的选择，还可能推动对肠道微生物群在整体健康和疾病中的作用的进一步理解。",
+          "analysis_en": "Recently, researchers at the University of Geneva developed a new stool test that can detect 90% of colorectal cancer cases without the need for a colonoscopy. This groundbreaking study utilized artificial intelligence to analyze gut bacteria in detail, revealing microbial patterns associated with cancer. This discovery not only offers a simpler and more cost-effective option for early screening of colorectal cancer but may also advance our understanding of the role of gut microbiota in overall health and disease."
         },
         {
           "rank": 5,
@@ -150,8 +150,8 @@
           "link": "https://www.nytimes.com/2026/04/09/us/politics/trump-kennedy-maha-moms.html",
           "source": "NYT > Health",
           "published_utc": "2026-04-09 23:30 UTC",
-          "analysis_zh": "在一次私下会议上，特朗普向“让美国再次健康”运动的领导者们表达了关心，试图缓解他们对政府近期一些行动的不满。这次会议的重要性在于，它显示了特朗普政府对健康政策支持者的重视，尤其是在面临批评时。这样的互动可能会影响未来的政策方向，并重新激励运动的支持者们。",
-          "analysis_en": "In a private meeting, Trump reassured leaders of the \"Make America Healthy Again\" movement, who have expressed dissatisfaction with some recent actions of the administration. This meeting is significant as it highlights the Trump administration's attention to health policy supporters, especially in the face of criticism. Such interactions may influence future policy directions and reinvigorate the movement's supporters."
+          "analysis_zh": "在一次私下会议中，特朗普安抚了对政府某些近期行动感到失望的“让美国再次健康”运动的领导人。此次会议的目的是为了重新建立与这些领导者的关系，并寻求他们对政府健康政策的建议。这一举动至关重要，因为它可能影响到特朗普在健康政策上的支持基础，并可能改变公众对其政府的看法。",
+          "analysis_en": "In a private meeting, Trump reassured leaders of the \"Make America Healthy Again\" movement who have become disillusioned with some recent actions of his administration. The purpose of this meeting was to rebuild relationships with these leaders and seek their input on health policy. This move is significant as it could impact Trump's support base on health issues and potentially alter public perception of his administration."
         },
         {
           "rank": 6,
@@ -159,8 +159,8 @@
           "link": "https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html",
           "source": "NYT > Health",
           "published_utc": "2026-04-09 21:52 UTC",
-          "analysis_zh": "一位男子和他的兄弟利用人工智能创建了一家价值18亿美元的公司，这一事件引发了对AI在企业运作中作用的广泛关注。随着AI技术的不断进步，越来越多的企业开始依赖它来完成各种任务，从而提高效率。这种趋势不仅改变了传统的就业模式，也可能对未来的劳动力市场产生深远影响。",
-          "analysis_en": "A man and his brother built a $1.8 billion company using artificial intelligence, which has sparked widespread interest in the role of AI in business operations. As AI technology continues to advance, more companies are relying on it to perform various tasks, thereby increasing efficiency. This trend not only alters traditional employment models but may also have profound implications for the future labor market."
+          "analysis_zh": "一位男子和他的兄弟利用人工智能创建了一家价值18亿美元的公司，这一过程展示了AI在企业运营中的巨大潜力。随着技术的进步，越来越多的企业开始依赖AI来完成各种任务，从而提高效率并降低人力成本。这一趋势不仅改变了传统的工作模式，还可能对就业市场产生深远影响，尤其是在某些行业中，人工智能可能取代人类的工作。",
+          "analysis_en": "A man and his brother built a $1.8 billion company using artificial intelligence, showcasing the immense potential of AI in corporate operations. As technology advances, more businesses are turning to AI to handle various tasks, increasing efficiency and reducing labor costs. This trend not only transforms traditional work models but may also have profound implications for the job market, particularly in industries where AI could replace human workers."
         },
         {
           "rank": 7,
@@ -168,8 +168,8 @@
           "link": "https://www.nytimes.com/2026/04/09/health/cdc-rfk-jr-vaccine-committee-ruling.html",
           "source": "NYT > Health",
           "published_utc": "2026-04-09 21:29 UTC",
-          "analysis_zh": "最近发布的一项章程改变了疫苗政策委员会的组成和目的，使得卫生部长罗伯特·F·肯尼迪（Robert F. Kennedy Jr.）能够重新主导国家疫苗政策的修订。这一变化引发了广泛关注，因为它可能会影响公众对疫苗的信任和接种率。随着疫苗政策的调整，未来的公共卫生策略可能会面临新的挑战和机遇。",
-          "analysis_en": "A recently published charter has changed the composition and purpose of the vaccine policy panel, allowing Health Secretary Robert F. Kennedy Jr. to reclaim his revision of national vaccine policy. This change has drawn significant attention as it could impact public trust in vaccines and vaccination rates. With the adjustment of vaccine policies, future public health strategies may face new challenges and opportunities."
+          "analysis_zh": "最近发布的一项新章程改变了疫苗政策委员会的组成和目的，这使得卫生部长罗伯特·F·肯尼迪（Robert F. Kennedy Jr.）能够重新主导国家疫苗政策。此举引发了广泛关注，因为在法院裁决后，肯尼迪的疫苗政策修订曾受到限制。这项变化可能会影响公众对疫苗的信任，进而影响疫苗接种率和公共卫生政策的制定。",
+          "analysis_en": "A new charter has recently been published, altering the composition and purpose of the vaccine policy panel, which allows Health Secretary Robert F. Kennedy Jr. to reclaim his role in shaping national vaccine policy. This development has garnered significant attention, especially since his vaccine policy revisions were previously constrained by a court ruling. The change could impact public trust in vaccines, potentially affecting vaccination rates and the formulation of public health policies."
         },
         {
           "rank": 8,
@@ -177,8 +177,8 @@
           "link": "https://www.nytimes.com/2026/04/09/health/cdc-bhattacharya-covid-shot-report-delay.html",
           "source": "NYT > Health",
           "published_utc": "2026-04-09 20:36 UTC",
-          "analysis_zh": "美国疾病控制与预防中心（CDC）的一位高级官员推迟了关于新冠疫苗有效性的报告。杰伊·巴塔查里亚博士对该研究的方法提出了异议，认为其结果未能准确反映疫苗的益处。这一推迟引发了公众对疫苗有效性和安全性的关注，可能会影响人们对接种疫苗的态度和信心。",
-          "analysis_en": "A top official at the Centers for Disease Control and Prevention (CDC) has delayed a report on the effectiveness of the COVID vaccine. Dr. Jay Bhattacharya raised concerns about the study's methodology, claiming it did not provide an accurate representation of the vaccine's benefits. This delay has sparked public concern regarding vaccine efficacy and safety, which may influence people's attitudes and confidence towards vaccination."
+          "analysis_zh": "美国疾病控制与预防中心（CDC）的一位高级官员推迟了关于新冠疫苗有效性的报告。杰伊·巴塔查里亚博士对该研究的方法表示异议，认为其未能准确反映疫苗的益处。这一推迟引发了公众对疫苗效果的进一步关注，也可能影响疫苗接种率和公众对疫苗的信任。",
+          "analysis_en": "A senior official at the Centers for Disease Control and Prevention (CDC) has delayed a report on the effectiveness of the COVID vaccine. Dr. Jay Bhattacharya raised concerns about the study's methodology, claiming it did not accurately represent the benefits of the vaccine. This delay has sparked increased public scrutiny regarding vaccine efficacy and may impact vaccination rates and public trust in vaccines."
         },
         {
           "rank": 9,
@@ -186,8 +186,8 @@
           "link": "https://www.nytimes.com/2026/04/09/science/chimpanzees-war-ngogo-uganda.html",
           "source": "NYT > Health",
           "published_utc": "2026-04-09 18:00 UTC",
-          "analysis_zh": "乌干达的一座公园内，长达数年的黑猩猩冲突被认为是有史以来最血腥的“战争”。这一事件引发了人们对人类战争起源的思考，并可能为避免未来冲突提供线索。研究人员对这一现象的深入分析，或许能够揭示动物行为与人类社会之间的相似之处，从而帮助我们理解和解决冲突的根源。",
-          "analysis_en": "A long-running conflict among chimpanzees in a Ugandan park has been identified as the bloodiest \"war\" on record. This situation prompts an examination of the origins of human warfare and may offer insights into how to prevent future conflicts. Researchers' analysis of this phenomenon could reveal parallels between animal behavior and human society, aiding in our understanding of the roots of conflict."
+          "analysis_zh": "在乌干达的一座公园内，研究人员观察到了一场持续已久的黑猩猩冲突，这场冲突被认为是有记录以来最血腥的“战争”。这一事件引发了人们对人类战争起源的思考，可能为我们理解和避免未来冲突提供重要线索。这项研究不仅有助于揭示动物行为的复杂性，也可能对人类社会的和平与冲突管理产生深远影响。",
+          "analysis_en": "Researchers have observed a long-running conflict among chimpanzees in a Ugandan park, which is considered the bloodiest \"war\" on record. This event prompts reflection on the origins of human warfare and may provide crucial insights into understanding and preventing future conflicts. The study not only helps to reveal the complexities of animal behavior but could also have significant implications for peace and conflict management in human societies."
         }
       ]
     },
@@ -201,8 +201,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/04/260409101111.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-04-10 14:12 UTC",
-          "analysis_zh": "科学家们指出，我们对阿尔茨海默病的治疗方式存在根本性错误。阿尔茨海默病并非单一问题，而是生物学、衰老和整体健康的复杂交织。因此，单一靶向药物的疗效有限，尽管一些新疗法显示出一定的改善。研究者们现在提倡采用多元化的治疗策略，包括基因编辑、脑细胞再生和肠道健康干预等。此举的目标是将阿尔茨海默病视为一个复杂系统，而非单一疾病，从而更有效地应对这一全球健康挑战。",
-          "analysis_en": "Scientists have pointed out that our approach to treating Alzheimer's disease is fundamentally flawed. Alzheimer's is not just a single problem; it is a complex interplay of biology, aging, and overall health. This complexity is why drugs targeting only one factor have shown limited effectiveness, even as some new treatments offer modest improvements. Researchers are now advocating for a multi-faceted treatment strategy that includes gene editing, brain cell rejuvenation, and gut health interventions. The aim is to treat Alzheimer's as a complex system rather than a single disease, which could lead to more effective solutions for this global health challenge."
+          "analysis_zh": "科学家们指出，我们对阿尔茨海默病的治疗方法存在根本性错误。阿尔茨海默病并不是单一的问题，而是生物学、衰老和整体健康的复杂交织。因此，针对单一因素的药物治疗效果有限，尽管一些新疗法显示出适度的好处。研究人员现在提倡采用多方位的策略，包括基因编辑、脑细胞再生以及肠道健康干预，目标是将阿尔茨海默病视为一个复杂的系统进行综合治疗。",
+          "analysis_en": "Scientists have pointed out that our approach to treating Alzheimer's disease has fundamental flaws. Alzheimer's is not a single issue but a complex interplay of biology, aging, and overall health. This is why drugs targeting only one factor have shown limited effectiveness, even as some new treatments provide modest benefits. Researchers are now advocating for multi-faceted strategies, including gene editing, brain cell rejuvenation, and gut health interventions, aiming to treat Alzheimer's as a complex system rather than a singular disease."
         },
         {
           "rank": 2,
@@ -210,8 +210,8 @@
           "link": "https://aeon.co/essays/could-ai-replace-human-art-experts-in-attributing-paintings?utm_source=rss-feed",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-04-10 10:00 UTC",
-          "analysis_zh": "在博物馆和拍卖界，艺术专家被视为所有价值和意义的中心。最近有讨论认为，人工智能是否可能取代这些专家的角色。这一问题的重要性在于，艺术的价值不仅仅是由市场决定的，还涉及到文化和历史的理解。如果人工智能能够有效地评估艺术品，这可能会改变我们对艺术的欣赏方式以及艺术市场的运作。",
-          "analysis_en": "Art experts serve as the central figures of value and significance in the museum and auction sectors. Recently, there has been a discussion about whether artificial intelligence could replace these experts. This issue matters because the value of art is not solely determined by the market; it also involves cultural and historical understanding. If AI can effectively evaluate artworks, it may transform how we appreciate art and how the art market operates."
+          "analysis_zh": "在博物馆和拍卖界，艺术专家是所有价值和意义的关键。然而，随着人工智能技术的迅速发展，人们开始质疑AI是否能够取代这些专家的角色。这一问题的重要性在于，艺术品的评估和鉴定不仅仅是技术问题，还涉及到文化和情感的深层次理解。如果AI真的能够胜任这一角色，可能会对艺术市场的运作方式产生深远的影响。",
+          "analysis_en": "In the museum and auction world, art experts serve as the crucial point of all value and significance. However, with the rapid advancement of artificial intelligence, there are growing concerns about whether AI could replace these experts. This issue matters because the evaluation and authentication of artworks involve not just technical skills but also a deep understanding of culture and emotion. If AI can indeed take on this role, it could have profound implications for the functioning of the art market."
         }
       ]
     },
@@ -225,8 +225,8 @@
           "link": "https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/",
           "source": "MIT Technology Review",
           "published_utc": "2026-04-10 14:04 UTC",
-          "analysis_zh": "Moderna在命名上面临着“疫苗”与“治疗”的困境，这一问题源于对其新一代mRNA疫苗的公众认知和接受度的分歧。随着疫苗怀疑论者的增加，Moderna的计划受到严重影响，这不仅影响了公司的未来发展，也可能对公共卫生政策产生深远影响。如何正确界定和宣传其产品，将直接关系到疫苗的推广和公众的信任度。",
-          "analysis_en": "Moderna is facing a dilemma regarding the terminology of \"vaccine\" versus \"therapy,\" stemming from public skepticism about its next-generation mRNA vaccines. This growing skepticism has significantly impacted the company's plans, which could have broader implications for public health policy. The way Moderna defines and promotes its products will directly affect vaccine acceptance and public trust."
+          "analysis_zh": "Moderna面临一个关于“疫苗”与“治疗”的命名困境，这一问题源于特朗普时代的语言使用习惯。尽管Moderna计划推出针对流感和新兴病原体的下一代mRNA疫苗，但疫苗怀疑论者的声音使这些计划受到阻碍。这一命名争议不仅影响了公众对疫苗的认知，也可能对未来疫苗的接受度和研发方向产生深远影响。",
+          "analysis_en": "Moderna is facing a dilemma regarding the terminology of \"vaccine\" versus \"therapy,\" stemming from language usage during the Trump era. Although the company planned to develop next-generation mRNA vaccines for flu and emerging pathogens, these plans have been hindered by vaccine skepticism. This naming controversy not only affects public perception of vaccines but may also have significant implications for the acceptance and development of future vaccines."
         },
         {
           "rank": 2,
@@ -234,8 +234,8 @@
           "link": "https://www.theverge.com/column/909736/optimizer-whoop-oura-wearable-hype-cycle",
           "source": "The Verge",
           "published_utc": "2026-04-10 14:00 UTC",
-          "analysis_zh": "最近，科技公司Whoop引起了广泛关注，因为其智能手环向用户推荐提高睾酮水平的方法。这一现象反映了健康科技产品的流行趋势，尤其是可穿戴设备在个人健康管理中的影响力。Whoop公司最近获得了5.75亿美元的融资，估值已达到101亿美元，并计划进行首次公开募股（IPO）。这一发展不仅可能改变健康科技市场的竞争格局，也可能促使更多用户关注自身健康数据的分析与管理。",
-          "analysis_en": "Recently, the tech company Whoop has garnered significant attention for its smart band, which suggested ways for users to boost their testosterone levels. This phenomenon highlights the growing trend of health tech products, particularly the influence of wearable devices in personal health management. Whoop recently raised $575 million in funding, bringing its valuation to $10.1 billion, and it plans to prepare for an initial public offering (IPO). This development could not only alter the competitive landscape of the health tech market but also encourage more users to focus on analyzing and managing their health data."
+          "analysis_zh": "最近，科技公司Whoop推出了一款新的健康追踪设备，吸引了广泛关注。该设备的人工智能教练建议用户提高睾酮水平，尽管用户的睾酮水平并不低。这一建议引发了不少争议，因为它可能会影响用户的健康决策和对自身身体状况的认知。此外，Whoop最近获得了5.75亿美元的融资，显示出健康科技行业的潜力和市场需求。",
+          "analysis_en": "Recently, the tech company Whoop launched a new health tracking device that has garnered significant attention. The device's AI coach suggested users increase their testosterone levels, even when their levels were already normal. This recommendation has sparked controversy, as it could influence users' health decisions and perceptions of their own well-being. Furthermore, Whoop recently raised $575 million in funding, highlighting the potential and demand in the health tech industry."
         },
         {
           "rank": 3,
@@ -243,8 +243,8 @@
           "link": "https://www.theverge.com/tech/909730/cloudflare-emdash-wordpress-community",
           "source": "The Verge",
           "published_utc": "2026-04-10 13:30 UTC",
-          "analysis_zh": "Cloudflare 最近推出了一个名为 EmDash 的新开源系统，旨在解决 WordPress 无法解决的核心问题。该系统允许人工智能代理控制网站，这一创新引发了 WordPress 社区的广泛关注。Cloudflare 将 EmDash 称为 WordPress 的“精神继承者”，但 WordPress 创始人马特·穆伦维格对此表示反对，认为 Cloudflare 的说法缺乏对 WordPress 精髓的理解。这一事件不仅可能影响 WordPress 的用户基础，也可能促使其在架构和安全性方面进行改进。",
-          "analysis_en": "Cloudflare recently launched a new open-source system called EmDash, designed to address the core issues that WordPress cannot solve. This system allows AI agents to take control of websites, generating significant interest within the WordPress community. Cloudflare refers to EmDash as the \"spiritual successor\" to WordPress, a claim that WordPress founder Matt Mullenweg has publicly disputed, arguing that Cloudflare misunderstands the essence of WordPress. This development could not only impact WordPress's user base but also drive improvements in its architecture and security."
+          "analysis_zh": "Cloudflare最近推出了一个名为EmDash的新开源系统，旨在解决WordPress无法解决的核心问题。该系统允许人工智能代理控制网站，因此被称为“WordPress的精神继承者”。这一举动在WordPress社区引发了广泛讨论，甚至WordPress创始人Matt Mullenweg对此表示反对，认为Cloudflare的声明缺乏对WordPress精神的理解。这一新平台的推出可能会影响WordPress的用户基础，并促使其开发者更加关注架构、安全性和人工智能的整合。",
+          "analysis_en": "Cloudflare recently launched a new open-source system called EmDash, designed to address core issues that WordPress cannot solve. This system allows AI agents to take control of websites, leading Cloudflare to refer to it as the \"spiritual successor\" to WordPress. This move has sparked significant discussion within the WordPress community, with even WordPress founder Matt Mullenweg opposing the claim, stating that it lacks an understanding of WordPress's essence. The introduction of this new platform could impact WordPress's user base and encourage its developers to focus more on architecture, security, and the integration of artificial intelligence."
         },
         {
           "rank": 4,
@@ -252,8 +252,8 @@
           "link": "https://www.theverge.com/design/909710/artemis-ii-orion-capsule-interior-design",
           "source": "The Verge",
           "published_utc": "2026-04-10 13:01 UTC",
-          "analysis_zh": "阿尔忒弥斯二号的宇航员正在为他们任务中最戏剧性和潜在危险的部分——重返地球大气层做准备，全球的目光都集中在猎户座舱及其内部人员身上。在任务期间，公众得以窥见舱内的各种设施，从宇航员接收地球信息的屏幕到他们使用的卫生间，甚至在出现故障时的修复过程。猎户座舱内的每一项技术都经过精心设计，不仅要承受发射和着陆时的巨大G力，还要优化人机交互体验。这一设计理念强调了安全性和人性化，确保宇航员在极端环境下的生活质量。",
-          "analysis_en": "As the Artemis II astronauts prepare for the most dramatic and potentially dangerous part of their mission—reentry into Earth's atmosphere—the world is focused on the Orion capsule and its occupants. During the mission, the public has been given glimpses into the capsule's features, from the screens where astronauts receive messages from Earth to the bathroom they use and how it was repaired when it broke. Every piece of technology in the Orion capsule is designed not only to withstand the immense G-forces of launch and landing but also to enhance human interaction. This design philosophy prioritizes safety and user experience, ensuring that astronauts can maintain a quality of life even in extreme conditions."
+          "analysis_zh": "阿尔忒弥斯二号的宇航员们正在为他们任务中最戏剧性和潜在危险的部分——重返地球大气层做准备。全球的目光将聚焦在猎户座飞船及其内部的宇航员身上。在任务期间，公众得以一窥飞船内部的设计，包括宇航员接收地球信息的屏幕和他们使用的卫生间。猎户座飞船的每一项技术都经过精心设计，不仅要承受发射和着陆时的巨大重力，还要优化人机交互体验。这种以人为本的设计理念在航天器设计中变得愈发重要。",
+          "analysis_en": "As the Artemis II astronauts prepare for the most dramatic and potentially dangerous part of their mission—reentry into Earth's atmosphere—the world will be watching the Orion capsule and its crew. During the mission, the public has been given glimpses into the capsule's interior, including the screens where astronauts receive messages from Earth and the bathroom facilities they use. Every piece of technology in the Orion capsule has been meticulously designed to withstand the immense G-forces of launch and landing while also optimizing human interaction. This focus on human factors in design is becoming increasingly important in spacecraft development."
         },
         {
           "rank": 5,
@@ -261,8 +261,8 @@
           "link": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
           "source": "The Verge",
           "published_utc": "2026-04-10 12:23 UTC",
-          "analysis_zh": "在OpenAI，山姆·阿尔特曼的任期充满了波折，甚至一度被解雇，几天后又被重新任命。此事件引发了对他是否适合领导这样一个重要科技公司的广泛讨论。最近，《纽约客》对阿尔特曼及其在OpenAI的经历进行了深入报道，揭示了他在人工智能领域的挑战和机遇。这一事件不仅影响了OpenAI的内部结构，也可能对整个人工智能行业的领导风格产生深远影响。",
-          "analysis_en": "Sam Altman's tenure at OpenAI has been tumultuous, highlighted by his brief firing and subsequent reinstatement as CEO. This situation has sparked widespread debate about his suitability to lead such a significant technology company. Recently, The New Yorker published an in-depth profile of Altman, exploring his experiences at OpenAI and the challenges he faces in the field of artificial intelligence. This incident not only affects the internal dynamics of OpenAI but may also have lasting implications for leadership styles across the entire AI industry."
+          "analysis_zh": "在OpenAI，山姆·阿尔特曼的任期可谓波澜起伏，甚至一度被解雇，几天后又被重新任命。此事件引发了对阿尔特曼是否适合领导这样一个重要科技公司的广泛讨论。最近，《纽约客》发表了一篇深入的报道，探讨了阿尔特曼在OpenAI的经历以及他对组织的改造。这一事件不仅影响了OpenAI的内部结构，也可能对整个人工智能行业的领导力标准产生深远影响。",
+          "analysis_en": "Sam Altman's tenure at OpenAI has been tumultuous, marked by his brief firing and subsequent reinstatement as CEO. This situation has sparked widespread debate about whether he is the right leader for such an important technology company. Recently, The New Yorker published an in-depth profile examining Altman's experiences at OpenAI and his efforts to reshape the organization. This incident not only affects OpenAI's internal dynamics but may also have significant implications for leadership standards across the artificial intelligence industry."
         },
         {
           "rank": 6,
@@ -270,8 +270,8 @@
           "link": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
           "source": "MIT Technology Review",
           "published_utc": "2026-04-10 12:10 UTC",
-          "analysis_zh": "近日，MIT科技评论发布了《下载》栏目，介绍了杰夫·范德梅尔的一篇独家短篇小说以及一些被认为过于恐怖而无法发布的人工智能模型。这篇短篇小说讲述了一艘宇宙飞船在一个敌对星球上坠毁后，幸存者们的故事。此类作品不仅展示了科幻文学的魅力，也引发了人们对人工智能技术潜在风险的关注。随着科技的快速发展，如何平衡创新与安全将成为一个重要议题。",
-          "analysis_en": "Recently, MIT Technology Review released an edition of The Download, featuring an exclusive short story by Jeff VanderMeer and some AI models deemed too scary to release. The short story narrates the tale of survivors after a spacecraft crash-lands on a hostile planet. Such works not only highlight the allure of science fiction but also raise concerns about the potential risks associated with artificial intelligence technology. As technology advances rapidly, balancing innovation with safety will become a crucial issue."
+          "analysis_zh": "在最新一期的《下载》新闻通讯中，著名作家杰夫·范德梅尔发布了一篇独家短篇小说，讲述了一艘宇宙飞船在一个敌对星球上坠毁的故事。与此同时，文章还提到了一些由于其潜在风险而未能发布的人工智能模型。这一事件引发了对科技伦理和安全性的广泛讨论，尤其是在AI技术迅速发展的背景下。人们对这些未发布模型的担忧，可能会影响未来AI研究的透明度和监管政策。",
+          "analysis_en": "In the latest edition of The Download, renowned author Jeff VanderMeer released an exclusive short story about a spacecraft crash-landing on a hostile planet. The article also discusses AI models that have not been released due to their potential risks. This situation has sparked widespread discussions about the ethics and safety of technology, especially in the context of rapid advancements in AI. Concerns surrounding these unreleased models may influence the transparency and regulatory policies of future AI research."
         },
         {
           "rank": 7,
@@ -279,8 +279,8 @@
           "link": "https://www.theverge.com/tech/909608/snap-specs-qualcomm-snapdragon-ar-glasses",
           "source": "The Verge",
           "published_utc": "2026-04-10 12:00 UTC",
-          "analysis_zh": "Snap 宣布将继续与高通合作，推出其即将上市的消费级增强现实（AR）眼镜。这款眼镜将搭载高通的 Snapdragon XR 芯片，预计将在今年某个时间发布。Snap 在智能眼镜领域已经耕耘了十年，尽管之前的几代产品并未面向普通消费者，但此次合作可能会为用户带来更先进的技术和体验。这一战略协议的达成，标志着两家公司在技术协作和市场布局上的进一步深化，可能会推动AR技术的普及和应用。",
-          "analysis_en": "Snap has announced that it will continue its partnership with Qualcomm to launch its upcoming consumer AR glasses. These glasses will be powered by Qualcomm's Snapdragon XR chip and are expected to be released sometime this year. Snap has been working in the smart glasses space for a decade, and while previous generations were not available to general consumers, this collaboration could bring more advanced technology and experiences to users. The establishment of this strategic agreement signifies a deeper technical collaboration and market alignment between the two companies, which may drive the popularization and application of AR technology."
+          "analysis_zh": "Snap 宣布将继续与高通合作，推出其即将发布的消费级增强现实（AR）眼镜。这款新眼镜将搭载高通的 Snapdragon XR 芯片，预计将在今年某个时候上市。Snap 在智能眼镜领域已有十年的研发历史，尽管之前几代 AR 眼镜未能面向普通消费者，但此次合作可能会为其产品带来更强大的技术支持。此举不仅有助于提升 Snap 在智能眼镜市场的竞争力，也可能推动整个 AR 行业的发展。",
+          "analysis_en": "Snap has announced that it will continue its partnership with Qualcomm to launch its upcoming consumer AR glasses. These new glasses will be powered by Qualcomm's Snapdragon XR chip and are expected to be released sometime this year. Although Snap has been working on smart glasses for a decade, previous generations of AR glasses were not available to the general public. This collaboration may enhance Snap's competitiveness in the smart glasses market and could also drive advancements in the broader AR industry."
         },
         {
           "rank": 8,
@@ -288,8 +288,8 @@
           "link": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup",
           "source": "The Verge",
           "published_utc": "2026-04-10 11:23 UTC",
-          "analysis_zh": "根据最新的盖洛普报告，Z世代对人工智能的态度正在发生变化，尽管他们仍在使用这项技术，但他们的热情正在减退。报告显示，参与调查的1600名14至29岁美国年轻人中，仅有18%对人工智能抱有希望，22%感到兴奋，这一比例较去年明显下降。同时，愤怒情绪上升，31%的受访者表示对人工智能感到愤怒。这个趋势表明，随着人工智能在学校和工作中的普及，年轻人对其的期待与现实之间的差距正在加大，这可能会影响他们未来的学习和工作方式。",
-          "analysis_en": "According to a new Gallup report, Generation Z's attitude towards artificial intelligence is shifting; although they continue to use the technology, their enthusiasm is waning. The survey of nearly 1,600 young people aged 14 to 29 in the U.S. found that only 18% feel hopeful about AI and 22% feel excited, both significantly down from last year. At the same time, feelings of anger are rising, with 31% of respondents expressing anger towards AI. This trend indicates that as AI becomes more integrated into education and work, the gap between young people's expectations and reality is widening, which may impact their future learning and working experiences."
+          "analysis_zh": "根据最新的盖洛普报告，Z世代对人工智能的态度日益消极，尽管他们仍在使用这项技术。调查显示，14至29岁的人群中，只有18%对人工智能感到乐观，而22%感到兴奋，分别比去年下降了9%和14%。与此同时，感到愤怒的比例上升至31%，这表明年轻人对人工智能的期待正在减弱。此现象可能影响他们在学习和工作中对人工智能的依赖程度，以及未来技术发展的方向。",
+          "analysis_en": "According to a new Gallup report, Generation Z is becoming increasingly disillusioned with artificial intelligence, even though they continue to use it. The survey indicates that only 18% of respondents aged 14 to 29 feel hopeful about AI, and 22% feel excited, down from 27% and 36% last year, respectively. At the same time, the percentage of those feeling angry about AI has risen to 31%, suggesting a decline in young people's expectations. This trend may affect their reliance on AI in education and work, as well as influence the future direction of technological development."
         },
         {
           "rank": 9,
@@ -297,8 +297,8 @@
           "link": "https://www.theverge.com/streaming/909698/youtube-premium-price-hike-us",
           "source": "The Verge",
           "published_utc": "2026-04-10 11:23 UTC",
-          "analysis_zh": "YouTube Premium在美国的价格上涨，个人账户的费用增加了2美元，家庭计划则上涨了4美元。这一价格调整已经对新账户生效，并正在逐步通知现有用户。此次涨价的原因是为了继续提供优质服务和功能，同时支持在YouTube上创作的艺术家和内容创作者。这一变化可能会影响用户的订阅决策，尤其是在竞争激烈的流媒体市场中。",
-          "analysis_en": "YouTube Premium is increasing its prices in the U.S., with individual accounts rising by $2 and family plans by $4. This price change is already in effect for new accounts and is being rolled out to existing customers. The reason for the hike is to continue providing quality services and features while supporting the creators and artists on YouTube. This change may influence users' subscription decisions, particularly in the competitive streaming market."
+          "analysis_zh": "YouTube Premium在美国的价格上涨，个人账户的月费增加了2美元，家庭计划则上涨了4美元。这一涨价已经对新账户生效，并且正在逐步通知现有用户。此次涨价的原因是为了继续提供优质的服务和功能，同时支持创作者和艺术家。此举可能会影响用户的订阅决策，尤其是在其他流媒体平台也在涨价的背景下。",
+          "analysis_en": "YouTube Premium is increasing its prices in the US, with individual accounts rising by $2 per month and family plans by $4. This price hike is already in effect for new accounts and is being rolled out to existing customers. The reason for the increase is to continue providing quality service and features while supporting creators and artists. This move may influence users' subscription decisions, especially in light of recent price increases from other streaming platforms."
         },
         {
           "rank": 10,
@@ -306,8 +306,8 @@
           "link": "https://www.wired.com/story/ai-podcasters-really-want-to-tell-you-how-to-keep-a-man-happy/",
           "source": "Feed: Artificial Intelligence Latest",
           "published_utc": "2026-04-10 10:30 UTC",
-          "analysis_zh": "最近，一些虚假的关系顾问播客在社交媒体上获得了数百万的观看次数。这些播客通过传播传统性别角色的观念，吸引了大量观众，同时也推动了AI影响者学校的销售。这一现象引发了对性别刻板印象的讨论，可能会影响人们对两性关系的看法和理解。",
-          "analysis_en": "Recently, some fake relationship guru podcasts have garnered millions of views on social media. These podcasts reinforce traditional gender roles, attracting a large audience while also driving sales for AI influencer schools. This phenomenon has sparked discussions about gender stereotypes and may influence people's perceptions and understanding of relationships between the sexes."
+          "analysis_zh": "最近，一些假冒的关系专家播客在网络上获得了数百万的观看次数。这些播客通过传播传统性别角色的观念，吸引了大量观众，同时也推动了AI影响者学校的销售。这一现象引发了对性别刻板印象的关注，可能会影响年轻人的价值观和人际关系的认知。",
+          "analysis_en": "Recently, several fake relationship guru podcasts have garnered millions of views online. These podcasts reinforce traditional gender roles, attracting a large audience while driving sales for AI influencer schools. This phenomenon raises concerns about gender stereotypes and may influence the values and perceptions of relationships among young people."
         }
       ]
     },
@@ -317,93 +317,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "Five Science Fiction Movies to Stream Now",
+          "link": "https://www.nytimes.com/2026/04/10/movies/science-fiction-movies-streaming.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-04-10 15:00 UTC",
+          "analysis_zh": "本月推荐的五部科幻电影将带给观众双重视觉体验，其中包括一部由文斯·沃恩饰演角色的当前与未来版本的影片。这些电影不仅展示了丰富的想象力，还探讨了时间和身份的复杂性。观看这些影片不仅能让观众享受娱乐，还能引发对科技与人类未来的深刻思考。",
+          "analysis_en": "This month's selection of five science fiction films promises viewers a dual visual experience, including a film where Vince Vaughn plays both current and future versions of a character. These films not only showcase rich imagination but also delve into the complexities of time and identity. Watching these films can provide entertainment while also prompting profound reflections on technology and the future of humanity."
+        },
+        {
+          "rank": 2,
           "title": "xi’an international football center opens its stadium bowl to the city through a porous form",
           "link": "https://www.designboom.com/architecture/xian-international-football-center-stadium-bowl-city-porous-form-yuanbo-jia-zhijun-lei/",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-04-10 13:00 UTC",
-          "analysis_zh": "西安国际足球中心通过一种开放的设计形式，将体育场的功能重新定义为城市的公共基础设施。这一项目的开放性不仅使得体育场成为市民日常生活的一部分，还促进了城市空间的共享与互动。这种设计理念可能会影响未来城市建筑的规划，鼓励更多的公共空间与市民生活的融合。",
-          "analysis_en": "The Xi'an International Football Center has redefined the role of the stadium as an open civic infrastructure through its innovative design. This openness allows the stadium to become an integral part of the daily lives of citizens, promoting shared use and interaction within urban spaces. This design philosophy may influence future urban planning, encouraging the integration of public spaces with community life."
+          "analysis_zh": "西安国际足球中心以其开放的设计理念，向城市居民敞开了体育场的怀抱。这一新型的市民基础设施重新定义了体育场在城市生活中的角色，旨在促进社区互动和文化交流。这一举措不仅为市民提供了更多的公共空间，也可能吸引更多的游客和活动，进一步推动当地经济的发展。",
+          "analysis_en": "The Xi'an International Football Center has opened its stadium to the public with an innovative design that emphasizes openness. This new civic infrastructure redefines the role of the stadium within the urban landscape, aiming to enhance community interaction and cultural exchange. This initiative not only provides citizens with more public space but may also attract more visitors and events, further boosting the local economy."
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "SolidNature and OMA/AMO reimagine the everyday as eternal stone dream for milan design week 2026",
           "link": "https://www.designboom.com/design/solidnature-amo-david-mahyari-interview-il-sonno-installation-milan-design-week-2026/",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-04-10 10:58 UTC",
-          "analysis_zh": "在2026年米兰设计周上，SolidNature与OMA/AMO合作推出了一项名为“永恒石梦”的装置，旨在让参观者停下脚步，思考单个架子所承载的数百万年历史。这一装置不仅展示了石材的美学，还引发了人们对时间和自然的深刻思考。这样的设计不仅能提升人们对日常生活的认识，也可能影响未来设计的方向，鼓励更多关注自然材料的使用和可持续性。",
-          "analysis_en": "At the 2026 Milan Design Week, SolidNature and OMA/AMO unveiled an installation called \"Eternal Stone Dream,\" which encourages visitors to pause and reflect on the millions of years of history contained within a single shelf. This installation not only showcases the aesthetics of stone but also provokes deep thoughts about time and nature. Such a design could enhance people's awareness of everyday life and may influence future design trends by promoting a greater focus on the use of natural materials and sustainability."
+          "analysis_zh": "在2026年米兰设计周，SolidNature与OMA/AMO合作推出了一项名为“永恒石梦”的装置，旨在让观众停下脚步，思考一架书架中蕴含的数百万年历史。这一创意不仅重新定义了日常物品的意义，也引发了人们对时间与空间的深刻反思。通过这样的艺术表现，设计师希望观众能够更好地理解自然材料的价值和历史背景，从而激发对环境保护的关注。",
+          "analysis_en": "At the 2026 Milan Design Week, SolidNature and OMA/AMO unveiled an installation called \"Eternal Stone Dream,\" designed to encourage visitors to pause and reflect on the millions of years of history contained within a single shelf. This concept redefines the significance of everyday objects and prompts a deeper contemplation of time and space. Through this artistic expression, the designers aim to enhance the audience's appreciation for the value and historical context of natural materials, potentially fostering greater awareness of environmental conservation."
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Goldstein Heather doubles London home's footprint with four-storey extension",
           "link": "https://www.dezeen.com/2026/04/10/goldstein-heather-west-london-house/",
           "source": "Dezeen",
           "published_utc": "2026-04-10 10:30 UTC",
-          "analysis_zh": "建筑工作室Goldstein Heather对伦敦的一栋维多利亚排屋进行了改造，增建了一个四层的扩展部分，配有拱形开口和雕塑般的木楼梯。这一改造项目旨在解决原有房屋“错位的剪刀状布局”，使空间更加合理和舒适。此举不仅提升了房屋的使用功能，还可能对周边社区的房价和建筑风格产生积极影响，吸引更多家庭选择在此居住。",
-          "analysis_en": "Architecture studio Goldstein Heather has transformed a Victorian terrace house in London by adding a four-storey extension featuring arched openings and a sculptural timber staircase. This renovation aims to address the previously \"disjointed scissor-like layout\" of the home, making the space more functional and comfortable. This improvement not only enhances the usability of the house but may also positively influence property values and architectural styles in the surrounding community, attracting more families to the area."
+          "analysis_zh": "建筑事务所Goldstein Heather对伦敦的一栋维多利亚式排屋进行了改造，新增了一个四层的扩展部分，配有拱形开口和雕塑般的木制楼梯。这一改造旨在扩大和重新组织原本“支离破碎”的布局，使其更好地适应现代生活需求。这项工程不仅提升了房屋的使用空间，也为周边环境增添了新的视觉亮点，可能会影响该地区的房地产市场和居民生活质量。",
+          "analysis_en": "Architecture studio Goldstein Heather has transformed a Victorian terrace house in London by adding a four-storey extension featuring arched openings and a sculptural timber staircase. This renovation aims to expand and reorganize the previously \"disjointed\" layout, making it more suitable for modern living. The project not only enhances the usable space of the home but also adds a new visual element to the surrounding area, which could impact the local real estate market and improve the quality of life for residents."
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "carsten höller on the ‘most powerful architect’ and collective experience at MIT museum",
           "link": "https://www.designboom.com/art/carsten-holler-powerful-architect-collective-dreaming-mit-museum-adam-haar-horowitz-seth-riskin-interview/",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-04-10 10:00 UTC",
-          "analysis_zh": "卡斯滕·霍勒（Carsten Höller）在与设计boom的对话中探讨了在麻省理工学院博物馆的集体梦境体验。他强调，虽然睡眠可以被引导，但梦境却无法被完全控制。这一讨论的重要性在于，它不仅挑战了我们对梦境的传统理解，还可能影响我们对集体意识和人类互动的看法。",
-          "analysis_en": "Carsten Höller discusses the concept of collective dreaming at the MIT Museum in an interview with designboom. He emphasizes that while sleep can be guided, dreams themselves cannot be fully controlled. This conversation is significant as it challenges traditional notions of dreaming and may influence our understanding of collective consciousness and human interaction."
+          "analysis_zh": "卡尔斯滕·霍勒在麻省理工学院博物馆探讨了集体梦境的概念，强调了睡眠的引导性但不可控性。他认为，梦境在多个心灵之间回响，这种集体体验对人类的理解和交流具有重要意义。这一观点不仅挑战了我们对梦的传统看法，还可能影响未来艺术和设计领域的创作方式。",
+          "analysis_en": "Carsten Höller discussed the concept of collective dreaming at the MIT Museum, emphasizing that while sleep can be guided, it cannot be controlled. He suggests that dreams resonate across multiple minds, highlighting the significance of this collective experience for human understanding and communication. This perspective challenges traditional views on dreaming and may influence future creative approaches in art and design."
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Sydney Harbour Bridge Cycleway Ramp draws on industrial heritage of Harbour Bridge",
           "link": "https://www.dezeen.com/2026/04/10/sydney-harbour-bridge-cycleway-ramp/",
           "source": "Dezeen",
           "published_utc": "2026-04-10 10:00 UTC",
-          "analysis_zh": "悉尼港大桥的自行车道坡道由本地设计公司Aspect Studios和Collins and Turner设计，旨在体现悉尼港大桥的工业遗产。这条新开通的坡道不仅外形蜿蜒，且为骑行者提供了无障碍的通行连接，提升了悉尼港的可达性。这一项目的重要性在于，它不仅改善了城市的交通基础设施，还鼓励更多人选择骑行出行，促进了可持续交通的发展。",
-          "analysis_en": "The Sydney Harbour Bridge Cycleway Ramp, designed by local firms Aspect Studios and Collins and Turner, draws inspiration from the industrial heritage of the Harbour Bridge. This newly opened ramp features a serpentine design and provides a step-free connection for cyclists, enhancing accessibility across Sydney Harbour. The significance of this project lies in its improvement of urban transportation infrastructure, encouraging more people to opt for cycling, and promoting sustainable transportation development."
+          "analysis_zh": "悉尼港大桥的自行车道坡道由当地设计公司Aspect Studios和Collins and Turner设计，旨在呼应港桥的工业遗产。这个新开放的坡道提供了一个无障碍的连接，方便骑自行车的人们跨越悉尼港。这一设计不仅提升了城市的交通便利性，还增强了市民的骑行体验，对促进可持续交通方式具有重要意义。",
+          "analysis_en": "The Sydney Harbour Bridge Cycleway Ramp, designed by local firms Aspect Studios and Collins and Turner, draws inspiration from the industrial heritage of the Harbour Bridge. This newly opened ramp provides a step-free connection across Sydney Harbour, making it more accessible for cyclists. This design not only enhances urban mobility but also improves the cycling experience for residents, playing a significant role in promoting sustainable transportation."
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Are the walls closing in on Donald Trump's ballroom?",
           "link": "https://www.dezeen.com/2026/04/10/trump-white-house-lime-bikes-marc-newson-dezeen-weekly-podcast/",
           "source": "Dezeen",
           "published_utc": "2026-04-10 09:15 UTC",
-          "analysis_zh": "最近的播客节目讨论了唐纳德·特朗普的舞厅面临的困境，尤其是白宫目前存在的一个巨大的空洞。这一事件引发了人们对成功设计师标准的思考，尤其是在2026年这样的背景下。特朗普的舞厅问题不仅影响了他的形象，也可能对未来的设计项目和公共空间的规划产生深远影响。",
-          "analysis_en": "The recent podcast episode discusses the challenges facing Donald Trump's ballroom, particularly the giant hole currently at the White House. This situation prompts a reflection on the standards of successful designers, especially in the context of 2026. The issues surrounding Trump's ballroom not only affect his public image but may also have significant implications for future design projects and the planning of public spaces."
+          "analysis_zh": "最近的新闻提到，白宫目前面临一个巨大的地下洞穴，这引发了人们对设计成功标准的思考。在最新一期的Dezeen Weekly中，编辑讨论了唐纳德·特朗普的舞厅故事中的戏剧性转折。这一事件不仅影响了特朗普的形象，也可能对未来设计师的职业标准产生深远影响。设计界需要重新审视什么才算成功，尤其是在政治和社会环境不断变化的背景下。",
+          "analysis_en": "Recent news highlights that the White House is currently dealing with a giant hole in the ground, prompting discussions about the standards of successful design. In the latest episode of Dezeen Weekly, editors discuss a dramatic plot twist in the story of Donald Trump's ballroom. This situation not only impacts Trump's public image but may also have significant implications for the professional standards of future designers. The design community must reevaluate what constitutes success, especially amid the evolving political and social landscape."
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "9 New Movies Our Critics Are Talking About This Week",
           "link": "https://www.nytimes.com/2026/04/10/movies/new-movies-this-week-critics.html",
           "source": "NYT > Arts",
           "published_utc": "2026-04-10 09:03 UTC",
-          "analysis_zh": "本周我们的评论家讨论了九部新电影，这些影片无论是对普通观众还是热爱电影的人来说，都值得关注。这些电影的多样性和创新性可能会影响观众的观影选择，也可能引发更广泛的文化讨论。随着电影行业不断发展，这些作品的评价将为未来的电影趋势提供重要参考。",
-          "analysis_en": "This week, our critics are discussing nine new films that are worth knowing about, whether you are a casual moviegoer or a dedicated film enthusiast. The diversity and innovation of these films may influence audience viewing choices and spark broader cultural discussions. As the film industry continues to evolve, the reviews of these works will provide important insights for future cinematic trends."
+          "analysis_zh": "本周，我们的评论家推荐了九部值得关注的新电影。这些影片不仅吸引了普通观众，也引起了影迷的热议。这些电影的多样性和创新性反映了当今电影行业的趋势，可能会影响观众的观影选择和未来的电影制作方向。",
+          "analysis_en": "This week, our critics have highlighted nine new movies that are worth noting. These films have captured the attention of both casual moviegoers and dedicated fans. The diversity and creativity of these movies reflect current trends in the film industry, which may influence audience viewing choices and the direction of future film productions."
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Why Beauty and Ugliness Go Hand in Hand",
           "link": "https://www.nytimes.com/2026/04/10/arts/beauty-ugliness-renaissance-bozar-center-for-fine-arts.html",
           "source": "NYT > Arts",
           "published_utc": "2026-04-10 09:02 UTC",
-          "analysis_zh": "一场新的展览探讨了文艺复兴时期对美与丑的看法，揭示了二者是如何相辅相成的。这一展览的重要性在于，它挑战了我们对美的传统理解，提示我们丑陋的存在实际上是美的必要条件。通过这样的视角，观众可以更深入地思考美学的复杂性以及文化如何影响我们的审美标准。",
-          "analysis_en": "A new exhibition explores Renaissance perspectives on beauty and ugliness, revealing how the two are interdependent. This exhibition is significant because it challenges traditional notions of beauty, suggesting that the existence of ugliness is essential for defining what is beautiful. By presenting this viewpoint, the exhibition encourages audiences to reflect on the complexities of aesthetics and how culture shapes our standards of beauty."
+          "analysis_zh": "一场新的展览探讨了文艺复兴时期对美与丑的看法，强调了二者之间的密切关系。展览指出，美与丑并不是对立的概念，而是相互依存的，缺一不可。这一主题的重要性在于，它促使观众重新思考美的定义以及在艺术和生活中的意义。这种对比不仅影响了艺术创作，也可能影响人们对美的欣赏和理解。",
+          "analysis_en": "A new exhibition delves into Renaissance perspectives on beauty and ugliness, highlighting their interdependent relationship. It suggests that beauty and ugliness are not opposing concepts but rather exist in tandem, each defining the other. This theme is significant as it encourages viewers to rethink the definition of beauty and its implications in both art and life. Such contrasts may not only influence artistic creation but also shape people's appreciation and understanding of beauty."
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "‘Euphoria’ Is Back. Here’s What to Know.",
           "link": "https://www.nytimes.com/2026/04/10/arts/television/euphoria.html",
           "source": "NYT > Arts",
           "published_utc": "2026-04-10 09:02 UTC",
-          "analysis_zh": "《狂喜》第三季将于周日首播，距离第二季结束已有四年多的时间。这部备受争议的剧集再次回到观众的视野中，吸引了大量粉丝的关注。新一季的回归不仅意味着故事的延续，也可能引发关于青少年心理健康和社会问题的讨论，影响观众对这些话题的认知和理解。",
-          "analysis_en": "The third season of \"Euphoria\" is set to premiere on Sunday, more than four years after the conclusion of Season 2. This controversial series is back in the spotlight, drawing significant attention from its fanbase. The return of the new season not only continues the storyline but may also spark discussions about adolescent mental health and social issues, potentially affecting viewers' perceptions and understanding of these topics."
-        },
-        {
-          "rank": 10,
-          "title": "Billy Magnussen Has Mixed Feelings on Playing ‘Punchable’ Guys So Well",
-          "link": "https://www.nytimes.com/2026/04/10/arts/television/billy-magnussen-the-audacity-amc.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-04-10 09:02 UTC",
-          "analysis_zh": "比利·马格努森在AMC的新剧《胆量》中饰演了一位典型的“科技兄弟”，对此他感到复杂的情感。这部剧以硅谷为背景，讽刺了现代科技文化中的一些现象。马格努森的角色虽然引人注目，但也引发了观众对科技行业中某些负面特质的反思。这部剧的成功可能会促使更多人关注科技行业的伦理问题以及其对社会的影响。",
-          "analysis_en": "Billy Magnussen expresses mixed feelings about playing a quintessential \"tech bro\" in AMC's new satire, \"The Audacity.\" Set in Silicon Valley, the show critiques various aspects of modern tech culture. While his character is striking, it also prompts viewers to reflect on some negative traits within the tech industry. The success of this show may lead to increased awareness of ethical issues in the tech sector and its societal implications."
+          "analysis_zh": "备受瞩目的电视剧《狂喜》第三季将于周日首播，这距离第二季结束已过去四年多。这部剧因其大胆的主题和复杂的人物关系而广受关注。新一季的回归不仅吸引了老粉丝的期待，也可能吸引新观众的关注。随着剧情的发展，观众将看到角色们如何应对青春期的挑战和社会压力，这对年轻观众尤其具有重要意义。",
+          "analysis_en": "The highly anticipated third season of the drama \"Euphoria\" is set to premiere on Sunday, more than four years after the conclusion of Season 2. The show has garnered attention for its bold themes and complex character relationships. The return of the new season not only excites long-time fans but may also attract new viewers. As the plot unfolds, audiences will witness how the characters navigate the challenges of adolescence and societal pressures, which is particularly significant for younger viewers."
         }
       ]
     }
