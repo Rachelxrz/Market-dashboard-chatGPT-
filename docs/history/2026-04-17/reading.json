@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-17 15:01:21 UTC",
-  "generated_at_unix": 1776438081,
+  "generated_at": "2026-04-17 21:23:34 UTC",
+  "generated_at_unix": 1776461014,
   "window": {
-    "from_utc": "2026-04-16 15:01:21 UTC",
-    "to_utc": "2026-04-17 15:01:21 UTC",
+    "from_utc": "2026-04-16 21:23:34 UTC",
+    "to_utc": "2026-04-17 21:23:34 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,93 +14,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Bessent says to adjust your paycheck withholding — but mistakes could trigger a tax bill, experts caution",
-          "link": "https://www.cnbc.com/2026/04/17/tax-withholding-2026.html",
+          "title": "AI chipmaker Cerebras files to go public after scrapping IPO plans last year",
+          "link": "https://www.cnbc.com/2026/04/17/cerebras-new-ipo-ai-chips.html",
           "source": "US Top News and Analysis",
-          "published_utc": "2026-04-17 15:01 UTC",
-          "analysis_zh": "美国财政部长斯科特·贝森特建议员工更新他们的工资扣税信息，以确保在下一个税季中不会出现问题。然而，专家警告说，如果更新不当，可能会导致意外的税款账单。这一建议的重要性在于，正确的扣税能够帮助员工更好地管理个人财务，避免年底时的经济压力。若出现错误，员工可能需要支付额外的税款，影响他们的财务状况。",
-          "analysis_en": "U.S. Treasury Secretary Scott Bessent has advised workers to update their paycheck withholding information to avoid issues in the upcoming tax season. However, experts caution that mistakes in this process could lead to unexpected tax bills. This recommendation is significant because proper withholding can help employees manage their finances better and reduce year-end financial stress. If errors occur, employees may face additional tax payments, which could impact their overall financial situation."
+          "published_utc": "2026-04-17 21:20 UTC",
+          "analysis_zh": "人工智能芯片制造商Cerebras宣布计划上市，此前曾在去年取消了首次公开募股（IPO）的计划。Cerebras表示，未来几年内将与OpenAI扩展业务，并已向OpenAI提供了购买股票的权利。这一举动不仅标志着Cerebras在资本市场上的重启，也反映了其与OpenAI之间日益紧密的合作关系，可能会对人工智能领域的竞争格局产生深远影响。",
+          "analysis_en": "AI chipmaker Cerebras has announced its plans to go public after scrapping its IPO plans last year. The company stated that it aims to expand its business with OpenAI in the coming years and has granted OpenAI a warrant to purchase stock. This move not only marks a significant restart for Cerebras in the capital markets but also highlights the growing partnership with OpenAI, which could have a profound impact on the competitive landscape in the AI sector."
         },
         {
           "rank": 2,
-          "title": "South Africa proposes new rules to regulate crypto under exchange controls",
-          "link": "https://www.investing.com/news/cryptocurrency-news/south-africa-proposes-new-rules-to-regulate-crypto-under-exchange-controls-93CH-4621122",
-          "source": "Cryptocurrency News",
-          "published_utc": "2026-04-17 14:56 UTC",
-          "analysis_zh": "南非政府提出了新的规则，以在外汇管制下对加密货币进行监管。这一提议旨在确保加密资产的透明度和合规性，从而保护投资者和维护金融稳定。这一举措可能会影响加密货币市场的运作方式，促使其他国家也考虑类似的监管框架。",
-          "analysis_en": "The South African government has proposed new regulations to oversee cryptocurrencies under exchange controls. This initiative aims to ensure transparency and compliance in crypto assets, thereby protecting investors and maintaining financial stability. Such measures could influence the operation of the cryptocurrency market and may encourage other countries to consider similar regulatory frameworks."
+          "title": "Anthropic's Dario Amodei to meet with White House about Mythos",
+          "link": "https://www.cnbc.com/2026/04/17/anthropic-dario-amodei-trump-mythos.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-04-17 21:17 UTC",
+          "analysis_zh": "安索普公司（Anthropic）的首席执行官达里奥·阿莫代伊（Dario Amodei）将与白宫会面，讨论其人工智能项目“神话”（Mythos）。此次会面发生在特朗普总统将安索普列入黑名单不到两个月后，这一决定引发了广泛关注。此次会议的重要性在于，它可能影响美国政府对人工智能公司的监管政策，并为安索普争取更多的支持和资源。",
+          "analysis_en": "Dario Amodei, the CEO of Anthropic, is set to meet with the White House to discuss its artificial intelligence project, Mythos. This meeting comes less than two months after President Trump blacklisted Anthropic, a move that garnered significant attention. The importance of this meeting lies in its potential to influence U.S. government regulatory policies regarding AI companies and may help Anthropic secure more support and resources."
         },
         {
           "rank": 3,
-          "title": "Stock Market Today: Dow Soars 1,000 Points On Hormuz Opening; Oil Prices, Netflix Shares Plunge (Live Coverage)",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-netflix-stock-nflx-earnings/?src=A00220&yptr=yahoo",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-04-17 14:47 UTC",
-          "analysis_zh": "今天股市大幅上涨，道琼斯指数上涨了1000点，主要受到霍尔木兹海峡重新开放的推动。这一变化对全球经济至关重要，因为霍尔木兹海峡是重要的石油运输通道。随着海峡的开放，市场对油价的预期可能会发生变化，进而影响相关企业的股票表现，尤其是石油和能源行业。",
-          "analysis_en": "Today, the stock market experienced a significant surge, with the Dow Jones Industrial Average rising by 1,000 points, primarily driven by the reopening of the Hormuz Strait. This development is crucial for the global economy, as the Hormuz Strait is a key oil transport route. With the reopening of the strait, market expectations for oil prices may shift, potentially affecting the stock performance of related companies, particularly in the oil and energy sectors."
+          "title": "2 expensive mistakes most retirees make — and how to avoid them",
+          "link": "https://www.marketwatch.com/story/2-expensive-mistakes-most-retirees-make-and-how-to-avoid-them-89183679?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-04-17 21:14 UTC",
+          "analysis_zh": "最近有专家指出，许多退休人员在投资时犯了两个昂贵的错误，这些错误可能会影响他们的财务安全。首先，很多人过于依赖传统的投资方式，忽视了多样化投资的重要性。其次，一些退休人员在选择投资产品时缺乏必要的知识，导致他们的资产未能有效增值。这些问题的存在不仅影响了个人的退休生活质量，也可能对整个经济产生负面影响。",
+          "analysis_en": "Recently, experts have highlighted two costly mistakes that many retirees make in their investments, which can significantly impact their financial security. First, many individuals rely too heavily on traditional investment methods and overlook the importance of diversification. Second, some retirees lack the necessary knowledge when selecting investment products, resulting in ineffective asset growth. The presence of these issues not only affects the quality of individual retirement lives but could also have negative implications for the broader economy."
         },
         {
           "rank": 4,
-          "title": "Truist (TFC) Q1 2026 Earnings Call Transcript",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/truist-tfc-q1-2026-earnings-144706029.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-04-17 14:47 UTC",
-          "analysis_zh": "Truist金融公司在2026年第一季度的财报电话会议上公布了其最新的财务业绩。此次财报显示，该公司的盈利能力有所提升，这对于投资者来说是一个积极的信号。随着经济复苏的持续，Truist的表现可能会影响其股价走势，并对整体金融市场产生一定的影响。投资者需密切关注其未来的战略和市场表现，以便做出更明智的投资决策。",
-          "analysis_en": "Truist Financial Corporation held its earnings call for the first quarter of 2026, revealing its latest financial performance. The report indicates an improvement in the company's profitability, which is a positive sign for investors. As the economic recovery continues, Truist's performance may influence its stock price and have a broader impact on the financial markets. Investors should closely monitor the company's future strategies and market performance to make more informed investment decisions."
+          "title": "Hedge funds’ record Treasury bets risk sending a ‘shockwave’ through the global bond market, Apollo says",
+          "link": "https://www.marketwatch.com/story/hedge-funds-record-treasury-bets-risk-sending-a-shockwave-through-the-global-bond-market-apollo-says-cfe079ba?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-04-17 21:12 UTC",
+          "analysis_zh": "对冲基金在美国国债市场的投资达到了历史新高，这可能会对全球债券市场产生重大影响。这种情况引发了投资者的担忧，因为过度集中投资可能导致市场波动加剧。若出现意外的市场调整，可能会对其他资产类别产生连锁反应，影响全球经济的稳定性。",
+          "analysis_en": "Hedge funds have reached a record level of investment in the U.S. Treasury market, which could significantly impact the global bond market. This situation has raised concerns among investors, as excessive concentration in investments could lead to increased market volatility. If an unexpected market adjustment occurs, it may trigger a ripple effect on other asset classes, affecting the stability of the global economy."
         },
         {
           "rank": 5,
-          "title": "Is OneSpaWorld (OSW) a Misunderstood Stock?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/onespaworld-osw-misunderstood-stock-144155591.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-04-17 14:41 UTC",
-          "analysis_zh": "OneSpaWorld（OSW）被认为是一只被误解的股票。该公司的业务主要集中在健康和美容服务领域，尽管市场对其表现持谨慎态度，但其潜在增长机会仍然存在。投资者需要关注这一行业的趋势变化，以及OneSpaWorld如何在竞争中保持领先地位。这一事件可能会影响投资者的决策，尤其是在考虑长期投资时。",
-          "analysis_en": "OneSpaWorld (OSW) is considered a misunderstood stock. The company primarily focuses on health and beauty services, and while the market has a cautious outlook on its performance, there are still potential growth opportunities. Investors should pay attention to trends in this industry and how OneSpaWorld can maintain its competitive edge. This situation could influence investor decisions, particularly when considering long-term investments."
+          "title": "Nvidia rival Cerebras reveals US IPO filing as AI boom drives listings",
+          "link": "https://www.investing.com/news/stock-market-news/nvidia-rival-cerebras-reveals-us-ipo-filing-as-ai-boom-drives-listings-4621637",
+          "source": "Stock Market News",
+          "published_utc": "2026-04-17 20:36 UTC",
+          "analysis_zh": "英伟达的竞争对手Cerebras最近提交了美国首次公开募股（IPO）的申请，标志着在人工智能热潮推动下，科技公司纷纷上市。这一事件的重要性在于，Cerebras的上市可能为投资者提供新的机会，并进一步推动AI行业的发展。随着越来越多的公司进入市场，投资者需要关注这些新兴企业的潜力和市场竞争格局的变化。",
+          "analysis_en": "Cerebras, a rival to Nvidia, has recently filed for an initial public offering (IPO) in the U.S., highlighting the trend of tech companies going public amid the AI boom. This is significant because Cerebras' IPO could present new opportunities for investors and further drive the growth of the AI sector. As more companies enter the market, investors will need to pay attention to the potential of these emerging firms and the evolving competitive landscape."
         },
         {
           "rank": 6,
-          "title": "Tesla Earnings: What Robotaxi Updates Should Investors Expect?",
-          "link": "https://www.investors.com/news/tesla-earnings-robotaxi-cybercab-elon-musk-fsd-electric-vehicles/?src=A00220&yptr=yahoo",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-04-17 14:41 UTC",
-          "analysis_zh": "特斯拉最近发布了财报，投资者们对其机器人出租车（Robotaxi）项目的最新进展充满期待。这一项目的成功与否将直接影响特斯拉的市场竞争力和未来收益。随着电动车市场的竞争加剧，特斯拉需要通过创新来保持领先地位。投资者关注这些更新，因为它们可能会影响特斯拉的股价和整体投资前景。",
-          "analysis_en": "Tesla recently released its earnings report, and investors are eagerly anticipating updates on its Robotaxi project. The success of this initiative will directly impact Tesla's market competitiveness and future revenue. As competition in the electric vehicle market intensifies, Tesla needs to innovate to maintain its leading position. Investors are particularly focused on these updates, as they could influence Tesla's stock price and overall investment outlook."
+          "title": "Wall Street indexes rally as oil falls with Strait of Hormuz opening",
+          "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-climb-on-middle-east-peace-hopes-as-investors-eye-strong-finish-to-week-4619850",
+          "source": "Stock Market News",
+          "published_utc": "2026-04-17 20:36 UTC",
+          "analysis_zh": "近期，华尔街股指因霍尔木兹海峡重新开放而上涨，同时油价下跌。这一事件的重要性在于，霍尔木兹海峡是全球主要的石油运输通道，其开放可能会缓解市场对能源供应中断的担忧。股市的上涨反映了投资者对经济复苏的乐观情绪，可能会吸引更多的投资者进入市场，从而进一步推动经济增长。",
+          "analysis_en": "Recently, Wall Street indexes have rallied as the Strait of Hormuz reopened and oil prices fell. This event is significant because the Strait of Hormuz is a major oil transportation route, and its reopening may alleviate market concerns about disruptions in energy supply. The rise in the stock market reflects investor optimism about economic recovery, which could attract more investors into the market and further drive economic growth."
         },
         {
           "rank": 7,
-          "title": "Here’s How Cedar Grove Capital Management Benefitted from Its Short Position in Hims & Hers Health (HIMS)",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/cedar-grove-capital-management-benefitted-143757314.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-04-17 14:37 UTC",
-          "analysis_zh": "Cedar Grove Capital Management通过在Hims & Hers Health的空头头寸获得了显著收益。这一事件表明，投资者在市场波动中能够通过做空策略实现盈利，尤其是在医疗健康领域。此举不仅反映了市场对Hims & Hers的信心不足，也可能影响其他投资者对类似公司的看法，导致更广泛的市场反应。",
-          "analysis_en": "Cedar Grove Capital Management benefited significantly from its short position in Hims & Hers Health. This event highlights how investors can profit from short-selling strategies during market volatility, particularly in the healthcare sector. It not only reflects a lack of confidence in Hims & Hers but may also influence other investors' perceptions of similar companies, potentially leading to broader market reactions."
+          "title": "Most U.S. farmers can’t afford all the fertilizer they need this year. Opening the Strait of Hormuz comes too late.",
+          "link": "https://www.marketwatch.com/story/most-u-s-farmers-cant-afford-all-the-fertilizer-they-need-this-year-opening-the-strait-of-hormuz-comes-too-late-0aa72790?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-04-17 20:36 UTC",
+          "analysis_zh": "根据美国农场局联合会的数据，自二月底以来，尿素肥料的价格上涨了47%。这一价格飙升使得大多数美国农民无法负担他们所需的全部肥料。这一现象不仅影响了农民的生产成本，也可能导致粮食供应链的紧张，进而推高食品价格。随着肥料成本的增加，农民可能会减少作物种植面积，从而对未来的农业产量产生负面影响。",
+          "analysis_en": "According to the American Farm Bureau Federation, urea fertilizer prices have surged by 47% since the end of February. This price increase has left most U.S. farmers unable to afford all the fertilizer they need. This situation not only affects the production costs for farmers but could also lead to a strained food supply chain, potentially driving up food prices. As fertilizer costs rise, farmers may reduce their crop planting areas, which could negatively impact future agricultural yields."
         },
         {
           "rank": 8,
-          "title": "Iran declares Strait of Hormuz open to shipping; Trump says U.S. blockade still active",
-          "link": "https://www.cnbc.com/2026/04/17/iran-war-hormuz-strait-israel-lebanon-ceasefire.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-04-17 14:37 UTC",
-          "analysis_zh": "伊朗宣布霍尔木兹海峡对航运开放，但特朗普表示美国的封锁仍然有效。此举是在美国与伊朗之间的停火协议争议加剧的背景下发生的，霍尔木兹海峡几乎完全关闭。此事件的重要性在于，霍尔木兹海峡是全球重要的石油运输通道，任何封锁或冲突都可能影响国际油价和全球经济稳定。未来，这种紧张局势可能导致更广泛的地缘政治冲突。",
-          "analysis_en": "Iran has declared the Strait of Hormuz open to shipping, while Trump insists that the U.S. blockade remains in effect. This announcement comes amid escalating disputes over the ceasefire agreement between the U.S. and Iran, which has led to the Strait being nearly completely closed. The significance of this situation lies in the fact that the Strait of Hormuz is a crucial oil transport route, and any blockade or conflict could impact international oil prices and global economic stability. Moving forward, this tension may lead to broader geopolitical conflicts."
+          "title": "AI firm Cerebras Systems files for Nasdaq IPO",
+          "link": "https://www.investing.com/news/stock-market-news/ai-firm-cerebras-systems-files-for-nasdaq-ipo-93CH-4621654",
+          "source": "Stock Market News",
+          "published_utc": "2026-04-17 20:33 UTC",
+          "analysis_zh": "人工智能公司Cerebras Systems已向纳斯达克提交了首次公开募股（IPO）的申请。这一举措标志着该公司在资本市场上的重要一步，可能会吸引大量投资者的关注。Cerebras Systems以其创新的芯片技术而闻名，成功上市将有助于其进一步扩展业务和研发新产品。这一事件不仅对公司自身发展至关重要，也可能对整个人工智能行业的投资趋势产生影响。",
+          "analysis_en": "AI company Cerebras Systems has filed for an initial public offering (IPO) on Nasdaq. This move represents a significant step for the company in the capital markets and is likely to attract considerable investor interest. Known for its innovative chip technology, a successful IPO would aid Cerebras in expanding its operations and developing new products. This event is crucial not only for the company's growth but may also influence investment trends across the entire artificial intelligence sector."
         },
         {
           "rank": 9,
-          "title": "Netflix was long 'a builder not a buyer.' Is that era over?",
-          "link": "https://www.cnbc.com/2026/04/17/netflix-mergers-m-a-strategy.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-04-17 14:34 UTC",
-          "analysis_zh": "在最近的一次投资者电话会议上，Netflix联合首席执行官泰德·萨兰多斯表示，公司在追求华纳兄弟Discovery（WBD）资产的过程中，增强了其并购能力。这一转变意味着Netflix可能会改变其长期以来以建设为主的策略，开始更积极地进行收购。这一举措不仅可能影响Netflix的市场竞争力，还可能改变整个流媒体行业的格局，促使其他公司重新评估其投资策略。",
-          "analysis_en": "During a recent investor call, Netflix co-CEO Ted Sarandos stated that the company has strengthened its merger and acquisition capabilities while pursuing assets from Warner Bros. Discovery (WBD). This shift indicates that Netflix may be moving away from its long-standing strategy of focusing on building content and could start to engage more actively in acquisitions. This move could not only enhance Netflix's competitive position in the market but also reshape the dynamics of the entire streaming industry, prompting other companies to reassess their investment strategies."
+          "title": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 1.79%",
+          "link": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-179-4621650",
+          "source": "Stock Market News",
+          "published_utc": "2026-04-17 20:31 UTC",
+          "analysis_zh": "美国股市在交易结束时上涨，道琼斯工业平均指数上涨了1.79%。这一上涨反映了投资者对经济复苏的乐观情绪，尤其是在企业盈利和就业数据改善的背景下。这一趋势可能会吸引更多投资者进入市场，从而进一步推动股市的上涨，并可能影响未来的经济政策。",
+          "analysis_en": "U.S. stocks closed higher, with the Dow Jones Industrial Average rising by 1.79%. This increase reflects investor optimism regarding economic recovery, particularly in light of improving corporate earnings and employment data. This trend may attract more investors to the market, potentially driving further stock market gains and influencing future economic policies."
         },
         {
           "rank": 10,
-          "title": "‘I have more money than I know what to do with’: I’m a single millionaire with no heirs and don’t like spending. What’s wrong?",
-          "link": "https://www.marketwatch.com/story/i-have-more-money-than-i-know-what-to-do-with-im-a-single-millionaire-with-no-heirs-and-dont-like-spending-whats-wrong-dd5acfb6?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-04-17 14:34 UTC",
-          "analysis_zh": "一位单身百万富翁分享了自己的财富观，表示自己有更多的钱却不知道该如何使用。他不喜欢消费，甚至选择在二手店购买衣物。这一现象引发了人们对财富管理和消费观念的思考，尤其是在现代社会中，如何平衡财富与生活质量显得尤为重要。此类故事可能会影响其他富裕人士对金钱的看法，促使他们重新审视自己的消费习惯和价值观。",
-          "analysis_en": "A single millionaire has shared his perspective on wealth, stating that he has more money than he knows what to do with. He dislikes spending and even opts to buy clothes at thrift stores. This phenomenon prompts reflection on wealth management and consumer attitudes, particularly the importance of balancing wealth with quality of life in today's society. Such stories may influence other affluent individuals to reconsider their spending habits and values."
+          "title": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.86%",
+          "link": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-086-4621638",
+          "source": "Stock Market News",
+          "published_utc": "2026-04-17 20:30 UTC",
+          "analysis_zh": "加拿大股市在交易结束时上涨，S&P/TSX综合指数上涨了0.86%。这一上涨反映了市场对经济复苏的乐观情绪，投资者对未来增长的预期增强。股市的表现不仅影响了投资者的信心，也可能对加拿大的经济增长产生积极影响，吸引更多的外资流入。",
+          "analysis_en": "Canadian stocks rose at the close of trading, with the S&P/TSX Composite up 0.86%. This increase reflects a growing optimism in the market regarding economic recovery, as investors' expectations for future growth strengthen. The performance of the stock market not only boosts investor confidence but could also positively impact Canada's economic growth, attracting more foreign investment."
         }
       ]
     },
@@ -110,93 +110,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Scientists discover bacteria can “explode” to spread antibiotic resistance",
-          "link": "https://www.sciencedaily.com/releases/2026/04/260416071953.htm",
-          "source": "Health & Medicine News -- ScienceDaily",
-          "published_utc": "2026-04-17 11:44 UTC",
-          "analysis_zh": "科学家们发现细菌可以通过“爆炸”来传播抗生素抗性基因。这一发现揭示了细菌如何利用一种名为基因转移因子（GTA）的微小病毒样颗粒，作为DNA传递系统，将遗传物质在邻近细胞之间转移。这项研究的重要性在于，它揭示了细菌抗药性传播的新机制，可能会对公共卫生产生深远影响，尤其是在抗生素耐药性日益严重的背景下。",
-          "analysis_en": "Scientists have discovered that bacteria can \"explode\" to spread antibiotic resistance genes. This finding reveals how bacteria utilize tiny virus-like particles known as gene transfer agents (GTAs) as delivery systems to shuttle DNA between neighboring cells. The significance of this research lies in its unveiling of a new mechanism for the spread of antibiotic resistance, which could have profound implications for public health, especially as antibiotic resistance becomes an increasingly serious issue."
+          "title": "Iris Long, Scientific Mentor to AIDS Activists, Dies at 92",
+          "link": "https://www.nytimes.com/2026/04/17/health/iris-long-dead.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-04-17 19:56 UTC",
+          "analysis_zh": "艾瑞斯·朗（Iris Long），一位在艾滋病活动中担任科学导师的化学家，近日去世，享年92岁。她在药物研究方面的专业知识为ACT UP组织提供了重要支持，该组织以街头抗议而闻名。朗的贡献加速了HIV和艾滋病治疗药物的批准，这对无数患者的生命产生了深远影响。她的去世不仅是科学界的损失，也让艾滋病抗击运动失去了一位重要的推动者。",
+          "analysis_en": "Iris Long, a chemist and scientific mentor to AIDS activists, has passed away at the age of 92. Her expertise in drug research significantly aided ACT UP, an organization renowned for its street protests. Long's contributions helped expedite the approval of HIV and AIDS treatments, profoundly impacting the lives of countless patients. Her death marks a significant loss for the scientific community and the AIDS advocacy movement, as she was a vital force in their efforts."
         },
         {
           "rank": 2,
           "title": "New Treatment Lets 3 Transplant Patients Halt Anti-Rejection Drugs",
           "link": "https://www.nytimes.com/2026/04/17/health/liver-transplants-antirejection-drugs.html",
           "source": "NYT > Health",
-          "published_utc": "2026-04-17 09:04 UTC",
-          "analysis_zh": "匹兹堡大学的研究人员为三名器官移植患者提供了来自其器官捐赠者的特定免疫细胞，使他们能够停止使用抗排斥药物。这项研究的重要性在于，它可能为器官移植患者提供了一种新的治疗选择，减少了长期使用药物带来的副作用。虽然并非所有患者都能成功停止用药，但这一进展可能会影响未来器官移植的治疗方案和患者的生活质量。",
-          "analysis_en": "Researchers at the University of Pittsburgh provided certain immune cells from organ donors to three transplant patients, allowing them to stop taking anti-rejection drugs. This development is significant as it may offer a new treatment option for transplant recipients, reducing the side effects associated with long-term medication use. Although not all patients were able to successfully halt their medication, this progress could influence future treatment protocols for organ transplantation and improve patients' quality of life."
+          "published_utc": "2026-04-17 15:37 UTC",
+          "analysis_zh": "匹兹堡大学的研究人员为三名器官移植患者提供了来自其器官捐赠者的特定免疫细胞，使他们能够停止使用抗排斥药物。这项研究的重要性在于，它可能为器官移植患者提供了一种新的治疗选择，减少了长期使用免疫抑制剂带来的副作用。此外，这一发现可能会推动未来在器官移植领域的进一步研究和应用。",
+          "analysis_en": "Researchers at the University of Pittsburgh provided certain immune cells from organ donors to three transplant recipients, allowing them to stop taking anti-rejection drugs. This development is significant as it may offer a new treatment option for transplant patients, reducing the side effects associated with long-term use of immunosuppressants. Furthermore, this finding could encourage further research and applications in the field of organ transplantation."
         },
         {
           "rank": 3,
+          "title": "Scientists discover bacteria can “explode” to spread antibiotic resistance",
+          "link": "https://www.sciencedaily.com/releases/2026/04/260416071953.htm",
+          "source": "Health & Medicine News -- ScienceDaily",
+          "published_utc": "2026-04-17 11:44 UTC",
+          "analysis_zh": "科学家们发现细菌可以通过“爆炸”来传播抗生素抗性基因。这一发现揭示了细菌如何利用一种被称为基因转移因子（GTA）的病毒样颗粒，作为DNA的运输工具，将遗传物质在相邻细胞之间转移。研究表明，名为LypABC的三个基因在这一过程中起着关键作用，触发细菌细胞破裂并释放这些装载DNA的颗粒。这项研究的重要性在于，它为理解抗生素抗性传播的机制提供了新的视角，可能会影响未来抗生素的使用和开发。",
+          "analysis_en": "Scientists have discovered that bacteria can \"explode\" to spread antibiotic resistance genes. This finding reveals how bacteria utilize tiny virus-like particles known as gene transfer agents (GTAs) as delivery systems to shuttle DNA between neighboring cells. The study identifies a key control hub of three genes, called LypABC, that triggers bacterial cells to burst open and release these DNA-packed particles. This research is significant as it provides new insights into the mechanisms of antibiotic resistance spread, which could impact the future use and development of antibiotics."
+        },
+        {
+          "rank": 4,
           "title": "Can sparkling water boost metabolism and help with weight loss?",
           "link": "https://www.sciencedaily.com/releases/2026/04/260417001658.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-04-17 07:17 UTC",
-          "analysis_zh": "最近的研究表明，气泡水可能对新陈代谢有轻微的促进作用，尤其是在血糖和能量处理方面。然而，这种效果非常有限，不能替代健康饮食和锻炼的重要性。气泡水被认为是一种健康饮品，可能在一定程度上帮助控制体重，但其作用微乎其微。因此，依靠气泡水来减肥并不是一个有效的策略，保持均衡的饮食和规律的运动仍然是关键。",
-          "analysis_en": "Recent research suggests that sparkling water may have a slight boosting effect on metabolism, particularly in how the body processes blood sugar and energy. However, this effect is minimal and cannot replace the importance of a healthy diet and exercise. While sparkling water is viewed as a healthy beverage that might assist in weight management, its impact is negligible. Therefore, relying on sparkling water for weight loss is not an effective strategy; maintaining a balanced diet and regular physical activity remains essential."
+          "analysis_zh": "最近的研究表明，气泡水可能对新陈代谢有轻微的促进作用，能够稍微提高身体对血糖和能量的处理能力。然而，这种效果非常有限，因此不能替代饮食和锻炼的重要性。尽管气泡水可能在一定程度上帮助管理体重，但其作用并不足以驱动显著的减重效果。研究者强调，保持健康体重的关键仍然是均衡饮食和定期锻炼。",
+          "analysis_en": "Recent research suggests that sparkling water may have a slight positive effect on metabolism, potentially enhancing the body's processing of blood sugar and energy. However, this effect is minimal and cannot replace the importance of diet and exercise. While sparkling water might assist in weight management to some extent, it is not sufficient for significant weight loss. Researchers emphasize that maintaining a healthy weight still relies on a balanced diet and regular physical activity."
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Trump to Nominate Dr. Erica Schwartz, a Vaccine Supporter, as CDC Director",
           "link": "https://www.nytimes.com/2026/04/16/health/erica-schwartz-cdc-director-trump.html",
           "source": "NYT > Health",
           "published_utc": "2026-04-17 06:38 UTC",
-          "analysis_zh": "特朗普提名疫苗支持者埃里卡·施瓦茨博士担任疾病控制与预防中心（CDC）主任，这一决定被视为一个重要的传统选择。此举表明，政府在选举年中正逐渐摆脱对疫苗的怀疑态度。施瓦茨博士的任命可能会影响公众对疫苗的信任，进而影响疫苗接种率和公共卫生政策。",
-          "analysis_en": "Trump has nominated Dr. Erica Schwartz, a vaccine supporter, to be the director of the Centers for Disease Control and Prevention (CDC), which is seen as a significant traditional choice. This move signals that the administration is moving away from vaccine skepticism as the election year approaches. Dr. Schwartz's appointment could impact public trust in vaccines, potentially affecting vaccination rates and public health policies."
+          "analysis_zh": "特朗普提名疫苗支持者埃里卡·施瓦茨博士担任疾病控制与预防中心（CDC）主任。这一决定被视为政府在选举年向疫苗怀疑论的转变，施瓦茨博士被认为是一个非常合适的传统人选。这一提名不仅可能影响公众对疫苗的信心，还可能改变政府在公共卫生政策上的方向。",
+          "analysis_en": "Trump has nominated Dr. Erica Schwartz, a vaccine supporter, to be the director of the Centers for Disease Control and Prevention (CDC). This decision is seen as a strong indication that the administration is shifting away from vaccine skepticism during this election year, with Dr. Schwartz being viewed as a highly qualified traditional choice. This nomination could not only affect public confidence in vaccines but also alter the government's approach to public health policy."
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Scientists discover natural hormone that reverses obesity",
           "link": "https://www.sciencedaily.com/releases/2026/04/260416071954.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-04-17 03:49 UTC",
-          "analysis_zh": "科学家们发现了一种名为FGF21的自然激素，它能够通过激活与新陈代谢相关的脑回路逆转小鼠的肥胖。这一发现具有重要意义，因为FGF21的作用机制与现有的GLP-1类药物不同，它并不是通过抑制食欲来发挥作用，而是通过增强身体的能量消耗。这项研究可能为更具针对性的减肥和肝病治疗方法开辟新的方向，尤其是在治疗代谢相关脂肪肝病方面。",
-          "analysis_en": "Scientists have discovered a natural hormone called FGF21 that can reverse obesity in mice by activating a brain circuit linked to metabolism. This finding is significant because FGF21 operates through a different mechanism than existing GLP-1 drugs, as it increases energy expenditure rather than suppressing appetite. This research could pave the way for more targeted treatments for weight loss and liver diseases, particularly in addressing metabolic dysfunction-associated steatohepatitis."
+          "analysis_zh": "科学家发现一种名为FGF21的天然激素能够逆转小鼠的肥胖。这种激素通过激活与新陈代谢相关的脑部电路来发挥作用，令人惊讶的是，它作用于后脑，而不是像GLP-1药物那样抑制食欲，而是提高身体的能量消耗。这一发现可能为更有针对性的减肥和肝病治疗开辟新的方向。",
+          "analysis_en": "Scientists have discovered a natural hormone called FGF21 that can reverse obesity in mice. This hormone works by activating a brain circuit linked to metabolism, surprisingly targeting the hindbrain instead of suppressing appetite like GLP-1 drugs do; instead, it enhances the body's energy expenditure. This finding could pave the way for more targeted treatments for weight loss and liver diseases."
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Scientists supercharge immune cells to destroy cancer more effectively",
           "link": "https://www.sciencedaily.com/releases/2026/04/260416072001.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-04-17 03:28 UTC",
-          "analysis_zh": "巴西的科学家们在癌症免疫治疗方面取得了重要进展，他们通过增强自然杀伤细胞（NK细胞）的能力，使其在攻击肿瘤时更加精准有效。研究团队在NK-92细胞系中引入了特定的共刺激成分，显著提升了这些细胞的攻击准备状态。此外，研究还发现，使用药物暂时抑制细胞活性后再进行治疗，能够进一步提高其效果。这一发现可能为开发更安全、更有效的下一代癌症治疗方案奠定基础。",
-          "analysis_en": "Scientists in Brazil have made significant advancements in cancer immunotherapy by enhancing the power and precision of natural killer (NK) cells, making them more effective at targeting tumors. The research team incorporated specific costimulatory components into the NK-92 cell line, which significantly improved the cells' readiness to attack. Additionally, they discovered that briefly suppressing cell activity with a drug before treatment could further enhance effectiveness. This finding could pave the way for the development of safer and more effective next-generation cancer therapies."
+          "analysis_zh": "巴西的研究人员在癌症免疫治疗领域取得了重要进展，他们成功增强了自然杀伤细胞（NK细胞）的能力和精准度。通过在细胞中添加特定的信号成分，研究团队显著提高了这些细胞对肿瘤的攻击能力。此外，他们还发现，使用药物暂时抑制细胞活动后再使用，能够进一步提升其效果。这一研究成果可能为开发更安全、更有效的下一代癌症治疗方法奠定基础。",
+          "analysis_en": "Researchers in Brazil have made significant strides in the field of cancer immunotherapy by enhancing the power and precision of natural killer (NK) cells. By incorporating specific signaling components into these cells, the team significantly improved their ability to attack tumors. Furthermore, they discovered that briefly suppressing cell activity with a drug before use could enhance their effectiveness even more. This research could pave the way for developing safer and more effective next-generation cancer treatments."
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "A “death” protein may be the key to slowing aging at its source",
           "link": "https://www.sciencedaily.com/releases/2026/04/260416071951.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-04-17 02:58 UTC",
-          "analysis_zh": "科学家发现一种与细胞死亡相关的蛋白质，实际上以不同的方式影响血液干细胞的衰老。这种蛋白质并不是直接杀死细胞，而是损害其线粒体，逐渐耗尽细胞的能量，导致免疫系统的弱化。当关闭这种蛋白质时，干细胞在压力下依然保持强健和平衡。这一发现为减缓衰老提供了新的策略，可能对抗衰老相关疾病的治疗产生深远影响。",
-          "analysis_en": "Scientists have discovered that a protein associated with cell death actually affects the aging of blood stem cells in a different way. Instead of killing the cells, this protein damages their mitochondria, gradually depleting their energy and weakening the immune system. When this protein was turned off, the stem cells remained strong and balanced even under stress. This finding offers a new strategy for slowing aging at its source, which could have significant implications for the treatment of age-related diseases."
+          "analysis_zh": "科学家发现一种与细胞死亡相关的蛋白质，实际上在以一种不同的方式加速血液干细胞的衰老。这种蛋白质并不直接杀死细胞，而是损害其线粒体，逐渐耗尽细胞能量，导致免疫系统变弱。当这种蛋白质被关闭时，干细胞在压力下依然保持强壮和平衡。这一发现为减缓衰老提供了新的策略，可能对延长人类健康寿命具有重要意义。",
+          "analysis_en": "Scientists have discovered that a protein associated with cell death is accelerating the aging of blood stem cells in a novel way. Instead of killing the cells, this protein damages their mitochondria, gradually depleting their energy and weakening the immune system. When this protein was turned off, the stem cells remained strong and balanced even under stress. This finding offers a new strategy for slowing aging, which could have significant implications for extending human healthspan."
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "On ‘The Pitt,’ the Lingering Effects of Trauma Take the Spotlight",
           "link": "https://www.nytimes.com/2026/04/16/well/mind/the-pitt-trauma-ptsd.html",
           "source": "NYT > Health",
           "published_utc": "2026-04-17 01:00 UTC",
-          "analysis_zh": "在电视剧《The Pitt》中，医护人员不仅要面对日常的患者治疗，还要承受自身的创伤。这部剧突出了创伤对医护人员心理健康的影响，反映了他们在职业生涯中所经历的痛苦和挑战。这一主题的重要性在于，它揭示了医疗行业中常被忽视的心理健康问题，可能会促使更多人关注医护人员的福祉，并推动相关的支持措施。",
-          "analysis_en": "In the show \"The Pitt,\" medical providers not only deal with the daily challenges of treating patients but also carry their own emotional scars. This series highlights the impact of trauma on healthcare workers' mental health, showcasing the pain and challenges they face throughout their careers. The significance of this theme lies in its ability to shed light on the often-overlooked mental health issues within the medical field, potentially prompting greater awareness and support for healthcare workers' well-being."
+          "analysis_zh": "在《皮特医院》中，医疗工作者们不仅要应对日常的病人治疗，还要面对自身的创伤。这部剧突出了创伤对医务人员的长期影响，揭示了他们在工作中所承受的心理负担。这一主题的重要性在于，它让观众意识到医护人员的心理健康问题，可能会影响到他们的工作表现和病人护理质量。",
+          "analysis_en": "In \"The Pitt,\" medical providers are shown grappling with their own traumas while treating patients on a daily basis. The series highlights the lasting effects of trauma on healthcare workers, shedding light on the psychological burdens they carry. This theme is significant as it raises awareness about the mental health issues faced by medical professionals, which can ultimately impact their job performance and the quality of care they provide to patients."
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Surgeon Who Removed Wrong Organ From Patient Is Charged in His Death",
           "link": "https://www.nytimes.com/2026/04/14/us/florida-surgeon-manslaughter-organ-removal.html",
           "source": "NYT > Health",
           "published_utc": "2026-04-17 00:38 UTC",
-          "analysis_zh": "佛罗里达州的一名外科医生托马斯·沙克诺夫斯基因在手术中错误切除了70岁患者的肝脏而被控以过失致死。医生试图说服同事认为他切除的是脾脏，而非肝脏。这一事件引发了公众对医疗安全的广泛关注，突显了手术过程中沟通和确认的重要性。此案的结果可能会影响医疗行业的规范和医生的执业标准。",
-          "analysis_en": "Dr. Thomas Shaknovsky, a surgeon in Florida, has been charged with manslaughter after mistakenly removing a 70-year-old patient's liver instead of his spleen. He attempted to convince his colleagues in the operating room that the organ he removed was the spleen. This incident has raised significant public concern regarding patient safety and highlights the importance of communication and verification during surgical procedures. The outcome of this case may influence medical regulations and the standards of practice for physicians."
-        },
-        {
-          "rank": 10,
-          "title": "RFK Jr. Shifts Tone on Vaccines in Congressional Hearing",
-          "link": "https://www.nytimes.com/2026/04/16/us/politics/rfk-jr-congress-budget-hearing.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-04-16 23:33 UTC",
-          "analysis_zh": "罗伯特·F·肯尼迪 Jr. 在国会听证会上改变了对疫苗的态度，他表示麻疹疫苗对“大多数人”是安全有效的，并同意接种疫苗比感染麻疹更安全。这一转变引发了广泛关注，因为肯尼迪曾长期反对疫苗政策。他的言论可能会影响公众对疫苗的看法，尤其是在当前疫苗接种率受到挑战的背景下。",
-          "analysis_en": "Robert F. Kennedy Jr. shifted his stance on vaccines during a congressional hearing, stating that the measles vaccine is safe and effective \"for most people\" and agreeing that it is safer than contracting measles. This change has garnered significant attention, as Kennedy has long been an opponent of vaccine policies. His remarks may influence public perceptions of vaccines, particularly in the context of declining vaccination rates."
+          "analysis_zh": "佛罗里达州的一名外科医生托马斯·沙克诺夫斯基因在手术中错误地切除了70岁患者的肝脏而被控以过失致死。根据佛罗里达州卫生部门的说法，沙克诺夫斯基试图说服同事，他所切除的器官是脾脏而非肝脏。这一事件引发了公众对医疗安全的广泛关注，尤其是在手术过程中如何确保正确识别和处理器官。此案的结果可能会影响医疗行业的执业标准和医生的责任认定。",
+          "analysis_en": "Dr. Thomas Shaknovsky, a surgeon in Florida, has been charged with manslaughter after he mistakenly removed a 70-year-old patient's liver, believing it to be the spleen. According to the Florida Health Department, Shaknovsky attempted to convince his colleagues in the operating room of his misidentification. This incident has raised significant public concern regarding patient safety in medical procedures, particularly about ensuring correct organ identification during surgery. The outcome of this case may influence professional standards and accountability within the medical field."
         }
       ]
     },
@@ -210,8 +210,8 @@
           "link": "https://aeon.co/essays/you-know-what-consciousness-is-you-live-in-soul-land?utm_source=rss-feed",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-04-17 10:00 UTC",
-          "analysis_zh": "这篇文章探讨了人类灵魂的起源，认为灵魂并不是上帝或基因赋予我们的，而是我们通过语言创造出来的。作者尼古拉斯·汉弗莱指出，语言使我们的意识变得神圣，这一观点引发了对人类自我认知和存在意义的深刻思考。这一理论的重要性在于，它挑战了传统的宗教和生物学观念，可能会影响我们对人类身份和灵魂的理解。",
-          "analysis_en": "This article explores the origins of the human soul, arguing that it was not given to us by God or genes, but rather created through language. Author Nicholas Humphrey suggests that language transforms our consciousness into something sacred, prompting profound reflections on human self-awareness and the meaning of existence. The significance of this theory lies in its challenge to traditional religious and biological views, which may influence our understanding of human identity and the concept of the soul."
+          "analysis_zh": "这篇文章探讨了人类灵魂的起源，指出灵魂并非上帝或基因赋予我们的，而是我们通过语言创造出来的。作者尼古拉斯·汉弗瑞认为，语言使我们的意识变得神圣，这一观点挑战了传统的宗教和科学信仰。理解灵魂的这种自我创造过程，可能会影响我们对人类存在的看法以及我们如何看待意识和身份。",
+          "analysis_en": "This article explores the origin of the human soul, arguing that it was not given to us by God or genes, but rather created by us through language. Author Nicholas Humphrey suggests that language has transformed our sentience into something sacred, challenging traditional religious and scientific beliefs. Understanding this self-creation process of the soul may influence our perspectives on human existence and how we view consciousness and identity."
         }
       ]
     },
@@ -221,93 +221,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Pie day links",
-          "link": "https://www.technologyreview.com/2026/04/17/1136121/pie-day-links/",
-          "source": "MIT Technology Review",
-          "published_utc": "2026-04-17 14:07 UTC",
-          "analysis_zh": "2026年“派日”即将到来，MIT科技评论对此进行了报道。这个节日不仅是一个轻松的庆祝活动，还象征着数学和科学的美妙，尤其是圆周率的庆祝。随着科技的不断进步，这样的活动能够激发更多年轻人对STEM（科学、技术、工程和数学）领域的兴趣，促进未来的创新和发展。",
-          "analysis_en": "The upcoming \"Pi Day\" in 2026 has been reported by MIT Technology Review. This holiday is not just a fun celebration but also symbolizes the beauty of mathematics and science, particularly the appreciation of pi. As technology continues to advance, such events can inspire more young people to engage in STEM (science, technology, engineering, and mathematics), fostering future innovation and development."
+          "title": "OpenAI’s former Sora boss is leaving",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+          "source": "The Verge",
+          "published_utc": "2026-04-17 21:13 UTC",
+          "analysis_zh": "上个月，OpenAI 宣布放弃其视频生成工具 Sora，随后 Sora 团队的负责人比尔·皮布尔斯（Bill Peebles）在周五宣布离开公司。这一变动反映了 OpenAI 在避免“旁支任务”方面的优先级调整，皮布尔斯的离开只是公司近期众多变化中的一部分。此举可能会影响 OpenAI 的研发方向，尤其是在编码和企业应用领域的集中发展。",
+          "analysis_en": "Last month, OpenAI announced it was discontinuing its Sora video generation tool, and on Friday, the leader of the Sora team, Bill Peebles, announced his departure from the company. This change reflects OpenAI's shift in priorities to avoid \"side quests,\" and Peebles' exit is just one of many recent changes within the organization. This move may impact OpenAI's research direction, particularly in its focus on coding and enterprise applications."
         },
         {
           "rank": 2,
-          "title": "Ghost orchid in the machine",
-          "link": "https://www.theverge.com/tech/909806/kinetic-sculpture-fake-flowers-mechanical-artwork-rachel-youn",
+          "title": "Should you stare into Sam Altman’s orb before your next date?",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
           "source": "The Verge",
-          "published_utc": "2026-04-17 14:00 UTC",
-          "analysis_zh": "艺术家瑞秋·尤恩（Rachel Youn）利用二手家电，如吸尘器和个人按摩器，创作出动感雕塑。这些雕塑结合了人造花、金属零件和电子元件，展现出一种人性化的存在感。尤恩的作品《慢燃》（Slow Burn）通过机械运动表现出一种被困的感觉，暗示了人在舒适循环中可能陷入的自我毁灭。此类艺术作品不仅引发观众的情感共鸣，也反映了现代社会对消费文化和物品生命周期的深刻思考。",
-          "analysis_en": "Artist Rachel Youn creates kinetic sculptures using secondhand household electronics, such as vacuum cleaners and personal massagers. These sculptures combine artificial flowers, metal parts, and electronic components, giving them a humanlike presence. Youn's piece \"Slow Burn\" uses mechanical movement to convey a sense of entrapment, suggesting how individuals can become stuck in a comforting cycle of self-destruction. Such artworks not only evoke emotional responses from viewers but also reflect a deeper commentary on consumer culture and the lifecycle of objects in contemporary society."
+          "published_utc": "2026-04-17 20:42 UTC",
+          "analysis_zh": "Tinder 用户如果通过访问身份验证的“球体”来证明自己是真实的人，将能够在应用中获得五次免费的推广机会。这项服务是由 OpenAI 首席执行官山姆·奥特曼共同创办的 World 公司推出的，旨在通过面部扫描技术提高用户的真实性验证。此举不仅提升了用户的安全感，也可能改变在线约会平台的使用方式，吸引更多用户参与验证，从而减少虚假账户的存在。",
+          "analysis_en": "Tinder users who verify their identity by visiting an identity-verifying orb will soon receive five free boosts in the app. This service, launched by World, a company co-founded by OpenAI CEO Sam Altman, aims to enhance user authenticity through facial scanning technology. This initiative not only increases user security but may also change how online dating platforms operate, encouraging more users to participate in verification and reducing the prevalence of fake accounts."
         },
         {
           "rank": 3,
-          "title": "The South Korean president is doing quote-post diplomacy",
-          "link": "https://www.theverge.com/policy/913587/south-korea-lee-jae-myung-israel",
+          "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
           "source": "The Verge",
-          "published_utc": "2026-04-17 14:00 UTC",
-          "analysis_zh": "韩国总统李在明在社交媒体上发表了一则引发广泛争议的帖子，他将以色列在加沙的行为与日本殖民时期对韩国人的暴行相提并论。此言论引发了网络上的激烈讨论，原因之一是他引用的视频内容被误导性地标记为“直播画面”。这个视频实际上是2024年9月拍摄的，显示以色列士兵将一具无生命的尸体从屋顶扔下。此事件不仅涉及国际法对敌方战斗人员尸体的处理规定，还可能影响韩国与以色列的外交关系。",
-          "analysis_en": "South Korean President Lee Jae-myung sparked widespread controversy with a social media post comparing Israel's actions in Gaza to atrocities committed against Koreans during Japanese colonial rule. His statement ignited intense discussions online, partly due to the misleading labeling of the video he quoted. The footage, taken in September 2024, showed Israeli soldiers throwing a lifeless body off a rooftop. This incident not only raises questions about the treatment of enemy combatants under international law but may also impact diplomatic relations between South Korea and Israel."
+          "published_utc": "2026-04-17 20:14 UTC",
+          "analysis_zh": "特朗普政府与人工智能公司Anthropic之间的关系经历了近两个月的紧张局势，政府曾指责该公司为“激进左派”的威胁。然而，随着Anthropic推出其新的网络安全模型Claude Mythos Preview，双方的关系似乎有了缓和的迹象。这一变化可能会影响Anthropic与五角大楼的合作，尤其是在网络安全领域。若政府重新考虑与Anthropic的合作，可能会对国家安全和技术发展产生积极影响。",
+          "analysis_en": "The relationship between the Trump administration and AI company Anthropic has been tense for nearly two months, with the government labeling the company as a \"RADICAL LEFT\" threat. However, with the introduction of Anthropic's new cybersecurity model, Claude Mythos Preview, there are signs of a thaw in relations. This shift could impact Anthropic's collaboration with the Pentagon, particularly in the area of cybersecurity. If the government re-evaluates its partnership with Anthropic, it may lead to positive outcomes for national security and technological advancement."
         },
         {
           "rank": 4,
-          "title": "Peloton, stay in your lane",
-          "link": "https://www.theverge.com/column/913766/optimizer-peloton-fitness-business-column",
-          "source": "The Verge",
-          "published_utc": "2026-04-17 14:00 UTC",
-          "analysis_zh": "Peloton 最近引发了关于其品牌定位的讨论，几位首席执行官表示该公司不仅仅是一家健身公司。这一观点引起了广泛关注，因为Peloton的核心业务一直是提供高质量的健身设备和课程。品牌的扩展可能会影响其市场定位和消费者认知，尤其是在竞争激烈的健身行业中。若Peloton能够成功转型，可能会吸引更多的用户并提升其市场份额。",
-          "analysis_en": "Peloton has recently sparked discussions about its brand positioning, with several CEOs suggesting that the company is more than just a fitness brand. This perspective has garnered significant attention, as Peloton's core business has traditionally focused on high-quality fitness equipment and classes. The potential expansion of the brand could impact its market positioning and consumer perception, especially in a competitive fitness industry. If Peloton can successfully transform, it may attract a broader user base and enhance its market share."
+          "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
+          "link": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+          "source": "Feed: Artificial Intelligence Latest",
+          "published_utc": "2026-04-17 19:56 UTC",
+          "analysis_zh": "OpenAI的高管凯文·韦尔（Kevin Weil）宣布离开公司，他曾担任Instagram的副总裁。韦尔的离职意味着他所领导的AI科学应用将并入Codex，这一变化可能会影响OpenAI在AI领域的战略方向。韦尔的离开引发了业界对OpenAI未来发展的关注，尤其是在竞争日益激烈的人工智能市场中。",
+          "analysis_en": "Kevin Weil, an executive at OpenAI and former VP at Instagram, has announced his departure from the company. His exit signifies that the AI science application he led will be integrated into Codex, which may impact OpenAI's strategic direction in the AI sector. Weil's departure raises concerns in the industry about OpenAI's future, particularly as competition in the artificial intelligence market intensifies."
         },
         {
           "rank": 5,
-          "title": "The ‘AI is inevitable’ trap",
-          "link": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast",
+          "title": "Betting on the news raises ethical questions for journalists",
+          "link": "https://www.theverge.com/report/914157/prediction-markets-news-outlet-ethics-policy-propublica-kalshi-polymarket",
           "source": "The Verge",
-          "published_utc": "2026-04-17 13:24 UTC",
-          "analysis_zh": "最近，鞋业公司Allbirds宣布转型为一家人工智能公司，短时间内其股价暴涨了七倍。这一事件引发了人们对人工智能发展的思考，尤其是在许多人对AI技术的接受度下降的背景下。尽管AI在某些领域的表现不断提升，但越来越多的人希望与这项技术保持距离。这种现象可能会影响投资者对AI公司的信心，并加剧社会对技术进步的分歧。",
-          "analysis_en": "Recently, the shoe company Allbirds announced its pivot to becoming an AI company, which led to a sevenfold increase in its stock price in a short period. This event has sparked discussions about the state of AI development, especially as many people seem to be growing less accepting of AI technology. While AI continues to improve in various fields, an increasing number of individuals wish to distance themselves from it. This trend could impact investor confidence in AI companies and exacerbate societal divides regarding technological advancements."
+          "published_utc": "2026-04-17 18:07 UTC",
+          "analysis_zh": "预测市场的兴起引发了新闻行业的伦理争议。像Polymarket和Kalshi这样的交易平台让用户可以对各种信息进行下注，包括流行歌曲的表现或政治事件的结果。这种现象不仅可能改变新闻的报道方式，还可能影响公众对新闻的信任度。新闻机构与这些平台的合作可能导致报道的客观性受到挑战，进而影响到新闻的公信力和社会舆论。",
+          "analysis_en": "The rise of prediction markets has sparked ethical debates within the journalism industry. Platforms like Polymarket and Kalshi allow users to bet on various pieces of information, including the performance of popular songs or political events. This trend could not only change the way news is reported but also affect public trust in journalism. Collaborations between news organizations and these platforms may challenge the objectivity of reporting, ultimately impacting the credibility of news and public discourse."
         },
         {
           "rank": 6,
-          "title": "The creative software industry has declared war on Adobe",
-          "link": "https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates",
+          "title": "This charming gadget writes bad AI poetry",
+          "link": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on",
           "source": "The Verge",
-          "published_utc": "2026-04-17 12:51 UTC",
-          "analysis_zh": "创意软件行业正在对抗Adobe，标志着这一行业的重大变革。Adobe的Creative Cloud工具多年来一直是行业标准，但其高昂的订阅费用和对生成式人工智能的全面拥抱引发了用户的不满。最近，像Autograph这样的免费替代软件的出现，为用户提供了更具吸引力的选择，这可能会改变市场格局，迫使Adobe重新考虑其定价策略和产品方向。",
-          "analysis_en": "The creative software industry is rising against Adobe, signaling a significant shift in the market. Adobe's Creative Cloud tools have long been the industry standard, but their high subscription fees and full embrace of generative AI have led to user dissatisfaction. The emergence of free alternatives like Autograph offers users more appealing choices, which could reshape the market dynamics and force Adobe to reconsider its pricing strategies and product direction."
+          "published_utc": "2026-04-17 17:30 UTC",
+          "analysis_zh": "这款名为“诗歌相机”的新型设备引起了人们的关注。它并不是一台普通的相机，而是通过人工智能将拍摄的场景转化为诗歌，打印在热敏纸上。尽管其外观可爱且富有创意，但用户在体验过程中却感到失望，因为生成的诗歌往往不尽如人意。这款设备的推出引发了对AI创作艺术作品的讨论，可能会影响人们对AI在创作领域的期待和接受度。",
+          "analysis_en": "The newly released device called the \"Poetry Camera\" has garnered attention. It is not an ordinary camera; instead, it uses artificial intelligence to transform captured scenes into poetry, which is printed on thermal paper. While its design is charming and creative, users have expressed disappointment during their experience, as the generated poems often fall short of expectations. The launch of this device has sparked discussions about AI's role in creating artistic works, which may influence people's expectations and acceptance of AI in the creative field."
         },
         {
           "rank": 7,
-          "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
-          "link": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
-          "source": "MIT Technology Review",
-          "published_utc": "2026-04-17 12:10 UTC",
-          "analysis_zh": "最近的研究提出了一个有趣的理论，认为许多人体内可能存在“内隐的尼安德特人”。这一观点引发了对人类进化的深入讨论，尤其是现代人类与古代人类之间的遗传联系。这一发现不仅有助于我们理解人类的起源，还可能影响我们对人类身份和文化认同的看法。",
-          "analysis_en": "Recent research has introduced an intriguing theory suggesting that many people may have an \"inner Neanderthal.\" This idea has sparked deeper discussions about human evolution, particularly the genetic connections between modern humans and ancient species. This discovery not only aids in our understanding of human origins but could also influence our perspectives on human identity and cultural recognition."
+          "title": "Gazing Into Sam Altman’s Orb Now Proves You’re Human on Tinder",
+          "link": "https://www.wired.com/story/gazing-into-sam-altmans-orb-now-proves-youre-human-on-tinder/",
+          "source": "Feed: Artificial Intelligence Latest",
+          "published_utc": "2026-04-17 17:14 UTC",
+          "analysis_zh": "近日，Tinder推出了一项新功能，用户在使用该应用时需要通过“萨姆·奥特曼的光球”来验证自己是人类。这一举措旨在防止机器人和虚假账户的出现，从而提高用户的真实互动体验。此功能的推出不仅提升了平台的安全性，还有助于改善用户的信任感，可能会吸引更多用户加入Tinder。",
+          "analysis_en": "Recently, Tinder introduced a new feature requiring users to verify their humanity through \"Sam Altman's orb\" while using the app. This initiative aims to prevent bots and fake accounts, enhancing the authenticity of user interactions. The rollout of this feature not only boosts the platform's security but also improves user trust, potentially attracting more users to join Tinder."
         },
         {
           "rank": 8,
-          "title": "A giant cell tower is going to space this weekend",
-          "link": "https://www.theverge.com/tech/913752/blue-origin-reusable-rocket-test-ast-sapcemobile",
-          "source": "The Verge",
-          "published_utc": "2026-04-17 11:25 UTC",
-          "analysis_zh": "本周末，蓝色起源公司计划发射一枚巨型火箭，这次发射具有重要意义。如果成功，将结束SpaceX在可重复使用轨道发射器上的垄断，并开启一场三方竞赛，努力消除手机上的“无服务”指示。此次发射将搭载AST SpaceMobile的BlueBird 7卫星，标志着亚马逊急需拥有自己的可重复使用火箭，以加快其低地球轨道卫星的发射进程。",
-          "analysis_en": "This weekend, Blue Origin is set to launch a massive rocket, marking a significant moment in the space industry. If successful, it would break SpaceX's monopoly on reusable orbital launch vehicles and initiate a three-way competition aimed at eliminating the \"No Service\" indicator on mobile phones. The mission will carry AST SpaceMobile's BlueBird 7 satellite, highlighting Amazon's urgent need for its own reusable rocket to accelerate its low Earth orbit satellite launches."
+          "title": "How Do You Measure an A.I. Boom?",
+          "link": "https://www.nytimes.com/2026/04/17/technology/how-do-you-measure-an-ai-boom.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-04-17 16:00 UTC",
+          "analysis_zh": "最近，一家名为METR的非营利性人工智能组织制作了一张图表，展示了大型人工智能系统的快速发展。这张图表引发了整个行业的关注，成为衡量人工智能繁荣的重要工具。这一现象不仅反映了技术进步的速度，也可能影响投资者和企业的决策，推动更多资源投入到人工智能领域。",
+          "analysis_en": "Recently, a nonprofit organization called METR created a chart that illustrates the rapid development of large AI systems. This chart has captured the attention of the entire industry, becoming a crucial tool for measuring the AI boom. This trend not only reflects the pace of technological advancement but may also influence investors and companies' decisions, leading to increased resource allocation in the AI sector."
         },
         {
           "rank": 9,
-          "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
-          "link": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
-          "source": "Biz & IT - Ars Technica",
-          "published_utc": "2026-04-17 11:00 UTC",
-          "analysis_zh": "最近的技术进展使大型科技公司越来越接近“量子日”的危险区。这一变化意味着，随着后量子密码技术的推进，企业必须迅速适应新的安全标准，以保护其数据和用户隐私。这不仅影响到科技公司的竞争力，也可能对整个网络安全生态系统产生深远影响，促使更多企业加速转型。",
-          "analysis_en": "Recent technological advancements have pushed Big Tech closer to the \"Q-Day\" danger zone. This shift indicates that companies must quickly adapt to new security standards with the rise of post-quantum cryptography to protect their data and user privacy. This not only affects the competitiveness of tech companies but may also have far-reaching implications for the entire cybersecurity ecosystem, prompting more businesses to accelerate their transitions."
+          "title": "Our new favorite budget phones",
+          "link": "https://www.theverge.com/tech/912286/our-new-favorite-budget-phones",
+          "source": "The Verge",
+          "published_utc": "2026-04-17 15:58 UTC",
+          "analysis_zh": "在过去几个月中，各大手机制造商纷纷更新了他们的产品线，尤其是在经济型手机领域，预计直到明年不会有重大的新款发布。这使得现在成为重新评估《The Verge》推荐的最佳预算手机的绝佳时机。值得注意的是，iPhone 17E成为了最佳廉价iPhone的推荐，尽管它是唯一的廉价iPhone，但其新增的MagSafe充电功能和与旗舰iPhone 17相同的A19芯片，使其在性价比方面表现出色。这一变化可能会影响消费者的选择，尤其是在预算有限的情况下。",
+          "analysis_en": "In recent months, major phone manufacturers have refreshed their lineups, particularly in the budget segment, with no significant new budget phone launches expected until next year. This has created an ideal opportunity to reassess The Verge's recommendations for the best budget phones available now. Notably, the iPhone 17E has been recommended as the best cheap iPhone, being the only affordable option. Its new MagSafe charging feature and the same A19 chip as the flagship iPhone 17 enhance its value, which may influence consumer choices, especially for those on a tight budget."
         },
         {
           "rank": 10,
-          "title": "A.I. Backlash Turns Violent + Kara Swisher on Healthmaxxing + The Zuck Bot Is Coming",
-          "link": "https://www.nytimes.com/2026/04/17/podcasts/hardfork-ai-backlash.html",
-          "source": "NYT > Technology",
-          "published_utc": "2026-04-17 11:00 UTC",
-          "analysis_zh": "近期，反对人工智能的情绪在一些地区愈演愈烈，甚至出现了暴力事件。这一趋势引发了广泛关注，因为它不仅反映了人们对技术进步的恐惧，也可能影响到科技公司的运营和政策制定。随着人们对人工智能潜在风险的警惕加剧，相关行业可能面临更严格的监管和公众抵制。",
-          "analysis_en": "Recently, the backlash against artificial intelligence has intensified in some areas, even leading to violent incidents. This trend is concerning as it reflects growing fears about technological advancements and could impact the operations and policies of tech companies. As public awareness of the potential risks of AI increases, the industry may face stricter regulations and public resistance."
+          "title": "The best budget smartphones you can buy",
+          "link": "https://www.theverge.com/gadgets/912271/best-budget-smartphones-cheap-iphone-android-phones",
+          "source": "The Verge",
+          "published_utc": "2026-04-17 15:55 UTC",
+          "analysis_zh": "最近，《The Verge》发布了一篇关于2026年最佳预算智能手机的文章，强调了这些设备在性能和价格上的优势。预算手机通常定价在600美元以下，虽然它们可能没有高端手机的所有功能，但在性价比上却更具吸引力。这一趋势对消费者尤其重要，因为越来越多的人希望在不牺牲基本功能的前提下，节省开支。随着预算手机的技术不断进步，未来可能会有更多用户选择这些设备而非昂贵的旗舰手机。",
+          "analysis_en": "Recently, The Verge published an article about the best budget smartphones for 2026, highlighting the advantages of these devices in terms of performance and price. Budget phones are typically priced under $600, and while they may lack all the features of high-end models, they offer better value for money. This trend is particularly significant for consumers, as more people seek to save money without sacrificing essential functionality. As the technology of budget phones continues to improve, it's likely that more users will opt for these devices instead of expensive flagship models."
         }
       ]
     },
@@ -317,93 +317,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "‘Thrash’ and Other Action Movies to Stream Now",
-          "link": "https://www.nytimes.com/2026/04/17/movies/action-movies-streaming.html",
+          "title": "An Explosion Rattles a Toronto Neighborhood. Was a Drake Video to Blame?",
+          "link": "https://www.nytimes.com/2026/04/17/world/canada/toronto-downsview-explosion-drake.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-04-17 15:00 UTC",
-          "analysis_zh": "本月推荐的电影包括凶猛的鲨鱼、意想不到的黑帮分子以及叛逆的芭蕾舞者。这些动作片不仅提供了刺激的视觉体验，还展现了不同角色在极端情况下的生存斗争。这些影片的多样性吸引了广泛的观众，反映了人们对冒险和挑战的渴望。随着流媒体平台的普及，这类电影的影响力可能会进一步扩大，推动更多创作者探索新颖的故事和风格。",
-          "analysis_en": "This month's movie picks feature killer sharks, unlikely gangsters, and defiant ballerinas. These action films not only offer thrilling visual experiences but also showcase the survival struggles of diverse characters in extreme situations. The variety of these films appeals to a wide audience, reflecting a collective desire for adventure and challenge. As streaming platforms become more popular, the influence of such movies may grow further, encouraging more creators to explore innovative stories and styles."
+          "published_utc": "2026-04-17 21:05 UTC",
+          "analysis_zh": "周四晚上，安大略省多伦多的一次爆炸事件引起了居民的恐慌，尽管后来证实这只是一次电影拍摄的特效。此次事件让经历过2008年丙烷工厂爆炸的居民感到不安，重燃了他们的恐惧。这样的事件不仅影响了当地居民的心理安全感，也可能对未来的电影拍摄活动产生影响，促使相关部门加强对拍摄现场的安全管理。",
+          "analysis_en": "On Thursday night, an explosion in a Toronto neighborhood caused alarm among residents, although it was later revealed to be a special effect for a film shoot. This incident unsettled locals who had previously experienced a propane plant explosion in 2008, reigniting their fears. Such events not only affect the psychological safety of the community but may also influence future film productions, prompting authorities to enhance safety regulations for filming activities."
         },
         {
           "rank": 2,
-          "title": "Is the Movie Star Back? Sort Of.",
-          "link": "https://www.nytimes.com/2026/04/17/movies/ryan-gosling-sydney-sweeney-box-office.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-04-17 15:00 UTC",
-          "analysis_zh": "近年来，电影票房的成功似乎不再仅仅依赖明星的名字。随着《Project Hail Mary》和《F1》等影片的推出，明星们在大银幕和小荧幕上都在积极宣传，以期吸引观众的注意。这一变化反映了观众对内容质量的重视，可能会促使电影制作人更加关注故事和创意，而不仅仅是明星阵容。这样的趋势可能会影响未来的电影投资和市场策略。",
-          "analysis_en": "In recent years, box office success no longer seems to rely solely on star power. With the release of films like \"Project Hail Mary\" and \"F1,\" celebrities are actively promoting their projects on both big and small screens to capture audience attention. This shift reflects a growing emphasis on content quality among viewers, which may encourage filmmakers to focus more on storytelling and creativity rather than just star casts. Such a trend could impact future film investments and marketing strategies."
+          "title": "Catalan Museum Has Yet to Follow Through on Court Order to Return Contested Murals to Aragon Monastery",
+          "link": "https://www.artnews.com/art-news/news/catalan-museum-hasnt-returned-contested-murals-aragon-monastery-1234781729/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-04-17 20:41 UTC",
+          "analysis_zh": "加泰罗尼亚博物馆尚未遵循法院命令，将有争议的壁画归还给阿拉贡修道院。这些壁画在1936年西班牙内战期间因火灾而受损。此事件引发了对文化遗产保护和归属权的广泛讨论，尤其是在历史遗产的修复和归还方面。若博物馆继续不遵守法院的裁决，可能会影响其声誉，并引发更大范围的法律和社会争议。",
+          "analysis_en": "The Catalan Museum has yet to comply with a court order to return contested murals to the Aragon monastery. These murals were damaged by a fire during the Spanish Civil War in 1936. This situation has sparked widespread discussions about the protection and ownership of cultural heritage, particularly regarding the restoration and return of historical artifacts. If the museum continues to defy the court's ruling, it could affect its reputation and lead to broader legal and social controversies."
         },
         {
           "rank": 3,
-          "title": "Metropolitan Opera and MoMA Together Put Kahlo at Center Stage",
-          "link": "https://www.nytimes.com/2026/04/17/arts/design/metropolitan-opera-moma-frida-kahlo.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-04-17 14:58 UTC",
-          "analysis_zh": "大都会歌剧院与现代艺术博物馆（MoMA）展开了一项不同寻常的合作，歌剧院的舞台设计师为MoMA设计了一场与弗里达·卡洛相关的展览。这一合作不仅展示了卡洛的艺术作品，还将其与歌剧的表现形式相结合，突显了她在艺术界的重要性。这一展览可能会吸引更多观众关注卡洛的艺术，同时也为歌剧和视觉艺术之间的跨界合作提供了新的视角。",
-          "analysis_en": "The Metropolitan Opera has partnered with the Museum of Modern Art (MoMA) in an unusual collaboration, where the opera's set designer has created an exhibition centered around Frida Kahlo. This partnership not only showcases Kahlo's artwork but also integrates it with the operatic experience, highlighting her significance in the art world. The exhibition may draw more attention to Kahlo's art and offers a fresh perspective on the collaboration between opera and visual arts."
+          "title": "berlin’s KEIT bakery interiors balance rugged stone with soft washi paper",
+          "link": "https://www.designboom.com/design/berlin-keit-bakery-interiors-stone-washi-paper-kreuzberg-michael-burman/",
+          "source": "designboom | architecture & design magazine",
+          "published_utc": "2026-04-17 20:00 UTC",
+          "analysis_zh": "柏林的KEIT面包店由迈克尔·伯曼工作室设计，内部装潢巧妙地将粗犷的石材与柔和的和纸结合在一起。这种设计不仅为面包制作提供了一个独特的背景，也营造出一种温馨而舒适的氛围。这样的设计风格在当今的餐饮空间中显得尤为重要，因为它能够吸引顾客并提升他们的用餐体验。此外，这种结合自然材料的设计理念可能会影响未来的建筑和室内设计趋势。",
+          "analysis_en": "The KEIT bakery in Berlin, designed by Studio Michael Burman, features a unique interior that balances rugged stone with soft washi paper. This design not only provides a distinctive backdrop for bread-making but also creates a warm and inviting atmosphere. Such a design approach is particularly significant in today's dining spaces, as it can attract customers and enhance their overall experience. Furthermore, this integration of natural materials may influence future trends in architecture and interior design."
         },
         {
           "rank": 4,
-          "title": "Recalling When Lower Manhattan Was New Amsterdam",
-          "link": "https://www.nytimes.com/2026/04/17/arts/design/new-amsterdam-manhattan-dutch.html",
+          "title": "The Politically Charged Art of Celeste Dupuy-Spencer",
+          "link": "https://www.nytimes.com/2026/04/17/arts/the-politically-charged-art-of-celeste-dupuy-spencer.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-04-17 14:56 UTC",
-          "analysis_zh": "纽约历史博物馆举办了一场展览，回顾了下曼哈顿作为荷兰殖民地的新阿姆斯特丹的历史。这一展览不仅展示了17世纪的城市发展，还强调了荷兰文化对纽约的深远影响。了解这一历史背景有助于我们更好地理解现代纽约的多元文化特征。这样的展览也可能激发人们对城市历史的兴趣，促进文化遗产的保护与传承。",
-          "analysis_en": "The New York Historical Society is hosting an exhibition that reflects on Lower Manhattan's history as the Dutch settlement of New Amsterdam. This exhibition not only showcases the city's development in the 17th century but also highlights the lasting impact of Dutch culture on New York. Understanding this historical context can enhance our appreciation of the city's diverse cultural identity today. Such exhibitions may also inspire greater interest in urban history and encourage the preservation and transmission of cultural heritage."
+          "published_utc": "2026-04-17 19:48 UTC",
+          "analysis_zh": "艺术家塞莱斯特·杜皮-斯宾塞以其生动的画作探讨了宗教极端主义以及美国国会大厦1月6日骚乱等事件。她在本月去世，享年46岁。她的作品不仅反映了当代社会的紧张局势，也引发了人们对信仰和政治之间关系的深思。杜皮-斯宾塞的离世使得她的艺术和所传达的信息更加引人关注，可能会激励更多人关注这些重要议题。",
+          "analysis_en": "Artist Celeste Dupuy-Spencer used her vivid paintings to explore themes such as religious extremism and events like the January 6 riots at the U.S. Capitol. She passed away this month at the age of 46. Her work not only reflects the tensions of contemporary society but also prompts deeper reflection on the relationship between faith and politics. Dupuy-Spencer's death brings her art and its messages into sharper focus, potentially inspiring more people to engage with these significant issues."
         },
         {
           "rank": 5,
-          "title": "At the Guggenheim, Pop Art Engages With Art of the Present",
-          "link": "https://www.nytimes.com/2026/04/17/arts/design/guggenheim-pop-art.html",
+          "title": "Celeste Dupuy-Spencer, Painter of Hotly Topical Images, Dies at 46",
+          "link": "https://www.nytimes.com/2026/04/17/arts/design/celeste-dupuy-spencer-dead.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-04-17 14:52 UTC",
-          "analysis_zh": "在古根海姆博物馆，一场展览展示了1960年代的波普艺术作品，并与当代艺术家的新近收藏进行对话。这场展览不仅让观众重新审视波普艺术的影响力，还突显了当代艺术如何与历史作品相互交织。这种对话的重要性在于，它能够帮助我们理解艺术发展的脉络，并激发对当代社会的思考。这也可能影响未来艺术创作的方向，促使艺术家们在创作中更加关注历史与当下的关系。",
-          "analysis_en": "At the Guggenheim Museum, an exhibition showcases examples of Pop Art from the 1960s in dialogue with recent acquisitions by contemporary artists. This exhibition invites viewers to reconsider the influence of Pop Art while highlighting how contemporary works interact with historical pieces. The significance of this dialogue lies in its ability to help us understand the evolution of art and provoke thoughts about contemporary society. It may also influence the direction of future artistic creation, encouraging artists to pay more attention to the relationship between history and the present."
+          "published_utc": "2026-04-17 19:47 UTC",
+          "analysis_zh": "画家塞莱斯特·杜普伊-斯宾塞于46岁去世，她的作品以鲜艳而深沉的风格探讨了特朗普时代的危机。她的画作包括描绘1月6日骚乱和受损的南方联盟纪念碑，这些作品引发了人们对当代社会问题的深思。杜普伊-斯宾塞的去世不仅是艺术界的损失，也让人们重新审视她所关注的社会议题及其影响。",
+          "analysis_en": "Celeste Dupuy-Spencer, a painter known for her vibrant yet somber works, has passed away at the age of 46. Her art addressed the crises of the Trump era, including depictions of the January 6 riots and a damaged Confederate monument, prompting reflection on contemporary social issues. Her death is a significant loss to the art community and invites a reevaluation of the societal themes she engaged with in her work."
         },
         {
           "rank": 6,
-          "title": "How TV Series Like ‘Smash’ and ‘American Classic’ Portray Theater Is Quite a Drama",
-          "link": "https://www.nytimes.com/2026/04/17/arts/television/tv-shows-theater-portrayal-smash-glee.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-04-17 14:46 UTC",
-          "analysis_zh": "在电视剧《Smash》、《Slings & Arrows》和《American Classic》中，舞台生活被描绘成一个充满各种典型角色的混合体，既有搞笑的错误也有些许真实。这些剧集通过夸张和戏剧化的手法，展示了剧院背后的复杂性和挑战。这种表现方式不仅吸引了观众的注意，也引发了人们对戏剧艺术的更深层次思考，可能会影响观众对现实舞台生活的理解和期待。",
-          "analysis_en": "In shows like \"Smash,\" \"Slings & Arrows,\" and \"American Classic,\" life on stage is depicted as a mix of archetypes that are both humorously incorrect and somewhat accurate. These series use exaggeration and drama to showcase the complexities and challenges of theater life. This portrayal not only captures the audience's attention but also prompts deeper reflections on the art of drama, potentially shaping viewers' understanding and expectations of real-life theatrical experiences."
+          "title": "Exhibition marks 25 years of \"incredible\" Princeton Media + Modernity seminar",
+          "link": "https://www.dezeen.com/2026/04/17/agency-agency-media-modernity-seminar-princeton/",
+          "source": "Dezeen",
+          "published_utc": "2026-04-17 19:00 UTC",
+          "analysis_zh": "普林斯顿大学的媒体与现代性研讨会迎来了25周年纪念，相关展览在该校建筑学院展出。展览通过一面银色布幕展示了多年来的研讨会海报，体现了这一项目的历史与影响。该展览由该项目的长期负责人比阿特丽斯·科洛米娜及其团队策划，旨在回顾媒体与现代性之间的关系。这一展览不仅庆祝了过去的成就，也可能激励未来的学术研究和讨论。",
+          "analysis_en": "An exhibition has been installed at Princeton University's architecture school to celebrate the 25th anniversary of the Media + Modernity seminar. The display features a silver fabric curtain showcasing seminar posters from over the years, reflecting the program's history and impact. Curated by Beatriz Colomina, the long-time director of the program, along with her team, the exhibition aims to revisit the relationship between media and modernity. This celebration not only honors past achievements but may also inspire future academic research and discussions."
         },
         {
           "rank": 7,
-          "title": "‘Everyone Is Lying to You for Money’ Digs Into Cryptocurrency",
-          "link": "https://www.nytimes.com/2026/04/17/movies/cryptocurrency-documentary-everyone-is-lying-to-you-for-money.html",
+          "title": "Kanye West’s Concert in Poland Is Canceled Amid Furor Over Antisemitic Comments",
+          "link": "https://www.nytimes.com/2026/04/17/arts/music/ye-poland-concert-canceled.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-04-17 14:36 UTC",
-          "analysis_zh": "《每个人都在为钱对你撒谎》是本·麦肯齐执导的一部影片，深入探讨了虚拟货币及其潜在的陷阱。这部作品不仅为观众提供了对加密货币的基本了解，还揭示了其背后的欺诈行为。随着加密货币的普及，这部影片的重要性愈加凸显，因为它提醒人们在投资时要保持警惕。未来，这部影片可能会影响公众对虚拟货币的看法，并促使更多人关注相关的风险。",
-          "analysis_en": "\"Everyone Is Lying to You for Money,\" directed by Ben McKenzie, explores the world of virtual currency and its potential pitfalls. The film provides viewers with a solid introduction to cryptocurrency while exposing the fraudulent behaviors associated with it. As cryptocurrency becomes more mainstream, the film's relevance grows, serving as a warning for investors to remain cautious. In the future, this film may shape public perceptions of virtual currency and encourage greater awareness of its risks."
+          "published_utc": "2026-04-17 18:48 UTC",
+          "analysis_zh": "最近，坎耶·韦斯特在波兰的演唱会被取消，原因是他发表了反犹太人的言论。波兰政府官员表示，在经历过大屠杀历史的国家，不能将此视为单纯的娱乐活动。这一事件引发了广泛的关注，反映了社会对反犹太主义的零容忍态度。演唱会的取消不仅影响了韦斯特的演出安排，也可能对他未来的职业生涯产生深远影响。",
+          "analysis_en": "Recently, Kanye West's concert in Poland was canceled due to his antisemitic remarks. A Polish government official stated that in a country marked by the history of the Holocaust, such comments cannot be dismissed as mere entertainment. This incident has garnered significant attention, highlighting society's zero-tolerance stance against antisemitism. The cancellation not only affects West's performance schedule but may also have lasting repercussions on his future career."
         },
         {
           "rank": 8,
-          "title": "open courtyards and evolving green facades turn hyderabad school campus into living forest",
-          "link": "https://www.designboom.com/architecture/open-courtyards-evolving-green-facades-hyderabad-school-campus-living-forest-heartfulness-international-pentaspace/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-04-17 14:30 UTC",
-          "analysis_zh": "海得拉巴的一所学校校园通过开放的庭院和不断演变的绿色立面，成功转变为一个生机勃勃的森林环境。该校园采用太阳能作为净零能耗系统，这不仅提升了学校的可持续性，也为学生提供了一个更健康的学习空间。这一创新设计的重要性在于，它展示了教育机构如何在应对气候变化的同时，创造出更具生态友好的环境，未来可能会影响更多学校的建筑和设计理念。",
-          "analysis_en": "A school campus in Hyderabad has transformed into a vibrant forest environment through open courtyards and evolving green facades. The campus operates on solar energy as a net-zero energy system, enhancing sustainability and providing a healthier learning space for students. This innovative design is significant as it demonstrates how educational institutions can address climate change while creating more eco-friendly environments, potentially influencing the architectural and design approaches of other schools in the future."
+          "title": "Sotheby’s Returns to Profit as Sales Rise, Though Cash Pressures Persist",
+          "link": "https://www.artnews.com/art-news/news/sothebys-profit-as-sales-rise-2025-1234781716/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-04-17 18:11 UTC",
+          "analysis_zh": "苏富比的销售额增长近20%，达到71亿美元，核心拍卖业务的收入也上升了26%，约为10亿美元。这一业绩的回升标志着艺术市场的复苏，显示出高端艺术品的需求正在恢复。尽管如此，苏富比仍面临现金压力，这可能影响其未来的投资和运营策略。",
+          "analysis_en": "Sotheby's reported a nearly 20% increase in sales, reaching $7.1 billion, with revenue from its core auction business climbing 26% to about $1 billion. This rebound indicates a recovery in the art market, reflecting a renewed demand for high-end artworks. However, Sotheby's continues to face cash pressures, which may impact its future investment and operational strategies."
         },
         {
           "rank": 9,
-          "title": "‘Greater New York’ Brings the Noisy, Messy Vitality of 53 Artists",
-          "link": "https://www.nytimes.com/2026/04/16/arts/design/greater-new-york-moma-ps-1-queens-art.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-04-17 14:19 UTC",
-          "analysis_zh": "“更大的纽约”展览展示了53位在城市中生活和工作的艺术家的作品，突显了那些常常被忽视的才华。这一展览由MoMA PS 1主办，旨在呈现纽约艺术界的多样性和活力。这样的展览不仅为艺术家提供了展示的平台，也让公众重新认识到城市中丰富的文化资源，可能会激发更多人对艺术的兴趣和参与。",
-          "analysis_en": "The exhibition \"Greater New York\" showcases the works of 53 artists living and working in the city, highlighting talents that are often overlooked. Organized by MoMA PS 1, this exhibition aims to present the diversity and vitality of the New York art scene. Such an event not only provides a platform for artists to display their work but also allows the public to rediscover the rich cultural resources within the city, potentially inspiring greater interest and involvement in the arts."
+          "title": "Seamless HPL Translucent Surfaces by PoliLam",
+          "link": "https://www.dezeen.com/2026/04/17/seamless-hpl-translucent-surfaces-polilam-dezeen-showroom/",
+          "source": "Dezeen",
+          "published_utc": "2026-04-17 18:00 UTC",
+          "analysis_zh": "美国品牌PoliLam推出了一系列无缝的半透明表面，这些表面不仅在平面上，还在边缘上都能让光线透过。与传统的层压材料不同，这些表面用与表面相匹配的边缘取代了通常的深色边缘，并且具有低透明度，使光线能够穿透。这一创新设计不仅提升了空间的美感，还可能影响建筑和室内设计领域的材料选择，推动更具透光性的设计趋势。",
+          "analysis_en": "US brand PoliLam has introduced a collection of seamless translucent surfaces that allow light to pass through both the planes and edges. Unlike conventional laminates, these surfaces feature edges that match the surface color instead of the usual dark edges, and they possess a low opacity that enables light diffusion. This innovative design not only enhances the aesthetic appeal of spaces but may also influence material choices in architecture and interior design, promoting a trend towards more light-permeable designs."
         },
         {
           "rank": 10,
-          "title": "D4vd Arrested in Connection With Death of Celeste Rivas Hernandez",
-          "link": "https://www.nytimes.com/2026/04/16/arts/music/d4vd-arrest-teen-death-tesla.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-04-17 14:02 UTC",
-          "analysis_zh": "歌手D4vd因与15岁前去世的Celeste Rivas Hernandez的死亡有关而被拘留。这一事件引发了公众的广泛关注，因为它涉及未成年人的悲剧性死亡。D4vd的律师表示将全力以赴为其辩护，强调其无辜。这起案件不仅对D4vd的职业生涯产生重大影响，也可能引发对青少年安全和法律责任的更深入讨论。",
-          "analysis_en": "Singer D4vd has been arrested in connection with the death of Celeste Rivas Hernandez, who passed away before her 15th birthday. This incident has garnered significant public attention due to the tragic nature of a minor's death. D4vd's lawyers have stated they will vigorously defend his innocence, highlighting his lack of guilt. This case could have a profound impact on D4vd's career and may also spark deeper discussions about youth safety and legal accountability."
+          "title": "Turkey Notches Another Successful Restitution After Denver Art Museum Returns 1500-Year-Old Marble Head",
+          "link": "https://www.artnews.com/art-news/news/turkey-notches-another-successful-restitution-after-denver-art-museum-returns-1500-year-old-marble-head-1234781710/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-04-17 17:46 UTC",
+          "analysis_zh": "土耳其最近在追回被盗文物方面取得了显著进展，丹佛艺术博物馆归还了一件1500年前的雕刻大理石头像。这一事件标志着土耳其在国际文物归还运动中的成功，反映出全球对文化遗产保护的日益重视。此举不仅有助于恢复土耳其的历史遗产，也可能激励其他国家采取类似行动，推动国际社会更加关注文物的合法归属问题。",
+          "analysis_en": "Turkey has recently achieved significant progress in recovering looted artifacts, with the Denver Art Museum returning a 1,500-year-old marble head. This event highlights Turkey's success in the international movement for the restitution of cultural heritage, reflecting a growing global awareness of the importance of protecting cultural artifacts. This move not only aids in restoring Turkey's historical heritage but may also inspire other countries to take similar actions, prompting the international community to pay closer attention to the rightful ownership of artifacts."
         }
       ]
     }
