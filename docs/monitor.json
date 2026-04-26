@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26 14:53:08 UTC",
+  "generated_at": "2026-04-26 21:07:37 UTC",
   "run_mode": "morning",
   "regime": "Neutral",
   "risk_score": 2,
@@ -19,11 +19,11 @@
     },
     "QQQ": {
       "label": "QQQ",
-      "price": 663.88,
-      "change": 52.809999999999945,
-      "change_pct": 8.642217749194026,
-      "change_3d": 19.549982910156245,
-      "change_3d_pct": 3.0341567817148962,
+      "price": 664.02,
+      "change": 52.94999999999993,
+      "change_pct": 8.665128381363825,
+      "change_3d": 19.689982910156232,
+      "change_3d_pct": 3.055884777662114,
       "note": "科技成长代理",
       "ok": true
     },
@@ -211,7 +211,7 @@
     },
     {
       "symbol": "CEG",
-      "price": 313.53,
+      "price": 313.51,
       "ma20": 288.37599792480466,
       "ma50": 299.6703985595703,
       "above_20ma": true,
@@ -391,7 +391,7 @@
     },
     {
       "symbol": "NVDA",
-      "price": 208.27,
+      "price": 208.26,
       "ma20": 188.38300018310548,
       "ma50": 185.02519958496094,
       "above_20ma": true,
@@ -639,8 +639,8 @@
     }
   },
   "actions": {
-    "one_liner_zh": "当前结构为 Neutral，风险等级 2/4；VIX 18.71，MOVE 66.97，QQQ +8.64%，GLD -0.89%，VLCC 3天 +0.39%。 当前为早间版。",
-    "one_liner_en": "The current regime is Neutral with a risk score of 2/4; VIX 18.71, MOVE 66.97, QQQ +8.64%, GLD -0.89%, VLCC 3d +0.39%. Current mode: Morning Edition.",
+    "one_liner_zh": "当前结构为 Neutral，风险等级 2/4；VIX 18.71，MOVE 66.97，QQQ +8.67%，GLD -0.89%，VLCC 3天 +0.39%。 当前为早间版。",
+    "one_liner_en": "The current regime is Neutral with a risk score of 2/4; VIX 18.71, MOVE 66.97, QQQ +8.67%, GLD -0.89%, VLCC 3d +0.39%. Current mode: Morning Edition.",
     "core_zh": "核心仓先不动，维持既有框架，避免因为单日波动频繁切换。",
     "core_en": "Leave core positions unchanged for now and maintain the current framework rather than reacting to one-day volatility.",
     "trend_zh": "趋势仓更适合聚焦少数强势资产，弱势科技或高波动标的不要盲目加仓。",
