@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-28 16:09:56 UTC",
-  "generated_at_unix": 1777392596,
+  "generated_at": "2026-04-28 21:38:56 UTC",
+  "generated_at_unix": 1777412336,
   "window": {
-    "from_utc": "2026-04-27 16:09:56 UTC",
-    "to_utc": "2026-04-28 16:09:56 UTC",
+    "from_utc": "2026-04-27 21:38:56 UTC",
+    "to_utc": "2026-04-28 21:38:56 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,189 +14,180 @@
       "items": [
         {
           "rank": 1,
-          "title": "Op-ed: In blocking Meta-Manus deal, China sent a powerful reminder to Mark Zuckerberg and U.S. market about AI race",
-          "link": "https://www.cnbc.com/2026/04/28/china-meta-manus-ai-deal.html",
+          "title": "Pentagon AI chief confirms DOD's expanded use of Google, says reliance on one model 'never a good thing'",
+          "link": "https://www.cnbc.com/2026/04/28/pentagon-ai-chief-confirms-work-with-google-after-anthropic-blacklist.html",
           "source": "US Top News and Analysis",
-          "published_utc": "2026-04-28 16:09 UTC",
-          "analysis_zh": "最近，马克·扎克伯格的Meta公司收购了总部位于新加坡、具有中国背景的人工智能初创公司Manus，但这一交易遭到了中国的阻止。这一事件凸显了中国在全球人工智能竞争中的强硬立场，提醒美国市场和科技巨头们，不能忽视中国的影响力。这一举动可能会导致其他科技公司在进行国际收购时更加谨慎，同时也可能加剧中美之间在科技领域的紧张关系。",
-          "analysis_en": "Recently, Mark Zuckerberg's Meta attempted to acquire Manus, a Singapore-based AI startup with Chinese roots, but this deal was blocked by China. This incident highlights China's assertive stance in the global AI competition, serving as a reminder to the U.S. market and tech giants not to underestimate China's influence. This action could lead other tech companies to be more cautious in their international acquisitions and may also escalate tensions between the U.S. and China in the tech sector."
+          "published_utc": "2026-04-28 21:34 UTC",
+          "analysis_zh": "美国国防部的人工智能负责人确认，国防部将扩大对谷歌Gemini的使用，原因是对Anthropic的黑名单限制。这一决定表明，国防部在选择技术合作伙伴时更加谨慎，避免过度依赖单一模型。这一变化可能会影响国防部的技术战略，推动更多竞争者参与到军事人工智能的开发中，从而促进技术创新和安全性。",
+          "analysis_en": "The Pentagon's AI chief confirmed that the Department of Defense will expand its use of Google Gemini due to the blacklisting of Anthropic. This decision indicates that the DOD is becoming more cautious in selecting technology partners, aiming to avoid over-reliance on a single model. This shift may impact the DOD's technological strategy, encouraging more competitors to engage in the development of military AI, which could foster innovation and enhance security."
         },
         {
           "rank": 2,
-          "title": "IBM stock rises after unveiling AI development platform",
-          "link": "https://www.investing.com/news/stock-market-news/ibm-stock-rises-after-unveiling-ai-development-platform-93CH-4642327",
-          "source": "Stock Market News",
-          "published_utc": "2026-04-28 15:59 UTC",
-          "analysis_zh": "IBM最近推出了一款新的人工智能开发平台，导致其股票价格上涨。这一举措不仅展示了IBM在AI领域的创新能力，也可能增强其在竞争激烈的科技市场中的地位。随着企业越来越依赖人工智能技术，这一平台的推出可能会吸引更多客户，从而推动公司的长期增长。",
-          "analysis_en": "IBM recently unveiled a new artificial intelligence development platform, which led to a rise in its stock price. This move not only highlights IBM's innovative capabilities in the AI sector but may also strengthen its position in the highly competitive tech market. As businesses increasingly rely on AI technologies, the launch of this platform could attract more customers, potentially driving long-term growth for the company."
+          "title": "Starbucks raises full-year outlook as turnaround takes hold — despite higher gas prices",
+          "link": "https://www.cnbc.com/2026/04/28/starbucks-sbux-q2-2026-earnings.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-04-28 21:31 UTC",
+          "analysis_zh": "星巴克近日提高了全年的业绩展望，尽管油价上涨。该公司全球同店销售额增长了6.2%，主要得益于顾客到店的增加。这一增长表明，星巴克的复苏策略正在取得成效，吸引了更多的消费者。随着经济复苏和消费者信心的提升，星巴克的业绩可能会进一步改善，这对其未来的发展和投资者信心都有积极影响。",
+          "analysis_en": "Starbucks has recently raised its full-year outlook despite rising gas prices. The company's global same-store sales increased by 6.2%, primarily driven by more customer visits. This growth indicates that Starbucks' turnaround strategies are proving effective in attracting more consumers. As the economy recovers and consumer confidence rises, Starbucks' performance may continue to improve, positively impacting its future growth and investor confidence."
         },
         {
           "rank": 3,
-          "title": "Europe’s Airbus misses core profit estimates as deliveries slow",
-          "link": "https://www.investing.com/news/stock-market-news/europes-airbus-misses-core-profit-estimates-as-deliveries-slow-4642325",
-          "source": "Stock Market News",
-          "published_utc": "2026-04-28 15:56 UTC",
-          "analysis_zh": "欧洲的空中客车公司（Airbus）在近期的财报中未能达到核心利润预期，主要原因是交付速度放缓。这一情况对公司未来的财务表现产生了负面影响，也可能影响到航空业的复苏进程。投资者对此反应谨慎，可能导致股价波动。此外，交付延迟可能影响客户的信心，从而影响未来的订单量。",
-          "analysis_en": "Europe's Airbus recently reported that it missed core profit estimates due to a slowdown in deliveries. This situation negatively impacts the company's future financial performance and may also affect the recovery process of the aviation industry. Investors are reacting cautiously, which could lead to stock price fluctuations. Additionally, the delays in deliveries might undermine customer confidence, potentially affecting future order volumes."
+          "title": "The Elon Musk-Sam Altman trial has just begun. Here’s what’s at stake.",
+          "link": "https://www.marketwatch.com/story/the-elon-musk-sam-altman-trial-has-just-begun-heres-whats-at-stake-01df4a4c?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-04-28 21:28 UTC",
+          "analysis_zh": "埃隆·马斯克与山姆·阿尔特曼之间的诉讼刚刚开始，马斯克指责OpenAI在追求利润的过程中背离了其核心使命。此案的重要性在于，它不仅涉及到人工智能的发展方向，还可能影响投资者对AI公司的信任和未来的投资决策。如果马斯克的指控成立，可能会引发对OpenAI及其他科技公司的监管审查，从而改变行业的竞争格局。",
+          "analysis_en": "The trial between Elon Musk and Sam Altman has just begun, with Musk accusing OpenAI of abandoning its core mission in favor of profit. This case is significant as it touches on the future direction of artificial intelligence and could impact investors' trust in AI companies and their future investment decisions. If Musk's claims are validated, it may lead to increased regulatory scrutiny of OpenAI and other tech firms, potentially altering the competitive landscape of the industry."
         },
         {
           "rank": 4,
-          "title": "HSBC turns bullish on US equities citing earnings momentum",
-          "link": "https://www.investing.com/news/stock-market-news/hsbc-turns-bullish-on-us-equities-citing-earnings-momentum-4642324",
+          "title": "Colombia stocks lower at close of trade; COLCAP down 1.02%",
+          "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-102-4643151",
           "source": "Stock Market News",
-          "published_utc": "2026-04-28 15:56 UTC",
-          "analysis_zh": "汇丰银行对美国股票持乐观态度，主要是基于企业盈利的强劲势头。这一转变反映出市场对经济复苏的信心，可能会吸引更多投资者进入美国股市。随着企业盈利的持续增长，投资者可能会重新评估他们的投资组合，并增加对美国市场的投入。这一趋势不仅影响股市，也可能对全球投资流向产生深远影响。",
-          "analysis_en": "HSBC has adopted a bullish stance on US equities, driven by strong earnings momentum. This shift reflects growing market confidence in economic recovery and may attract more investors to the US stock market. As corporate profits continue to rise, investors might reassess their portfolios and increase their investments in the US market. This trend could not only impact the stock market but also have significant implications for global investment flows."
+          "published_utc": "2026-04-28 21:25 UTC",
+          "analysis_zh": "哥伦比亚股市在交易结束时出现下跌，COLCAP指数下跌了1.02%。这一变化反映了市场对经济前景的担忧，可能会影响投资者的信心。股市的波动不仅影响短期投资决策，还可能对长期经济增长产生潜在影响。",
+          "analysis_en": "Colombia's stock market closed lower, with the COLCAP index down by 1.02%. This decline reflects concerns about the economic outlook, which could affect investor confidence. The fluctuations in the stock market not only influence short-term investment decisions but may also have potential implications for long-term economic growth."
         },
         {
           "rank": 5,
-          "title": "Jamie Dimon warns of 'some kind of bond crisis' ahead as global debt risks build",
-          "link": "https://www.cnbc.com/2026/04/28/jamie-dimon-bond-crisis-global-debt-risks.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-04-28 15:55 UTC",
-          "analysis_zh": "摩根大通首席执行官杰米·戴蒙警告称，全球债务风险正在增加，可能导致某种形式的债券危机。他指出，当前的风险组合可能以不可预测的方式相互作用。这一警告引发了市场的广泛关注，因为债务危机可能影响全球经济的稳定性，并对投资者的信心造成冲击。如果债务危机真的发生，可能会导致利率上升和金融市场的不稳定，进而影响企业和消费者的借贷成本。",
-          "analysis_en": "Jamie Dimon, the CEO of JPMorgan Chase, has warned that rising global debt risks could lead to some kind of bond crisis. He emphasized that the current mix of risks could interact in unpredictable ways. This warning has garnered significant attention in the markets, as a debt crisis could threaten global economic stability and undermine investor confidence. If such a crisis were to occur, it could lead to rising interest rates and instability in financial markets, ultimately affecting borrowing costs for businesses and consumers."
+          "title": "Russia stocks lower at close of trade; MOEX Russia Index down 1.27%",
+          "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-127-4643140",
+          "source": "Stock Market News",
+          "published_utc": "2026-04-28 21:20 UTC",
+          "analysis_zh": "俄罗斯股市在交易结束时下跌，MOEX俄罗斯指数下跌了1.27%。这一下跌反映了市场对经济前景的不确定性，尤其是在全球经济形势复杂的背景下。投资者可能会因此对俄罗斯市场的信心受到打击，进而影响未来的投资决策和资本流动。",
+          "analysis_en": "Russian stocks closed lower, with the MOEX Russia Index down by 1.27%. This decline reflects market uncertainty regarding the economic outlook, particularly amid a complex global economic environment. Investors may lose confidence in the Russian market as a result, which could impact future investment decisions and capital flows."
         },
         {
           "rank": 6,
-          "title": "Denso grows FY2026 revenue and profit",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/denso-grows-fy2026-revenue-profit-155458031.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-04-28 15:54 UTC",
-          "analysis_zh": "电装公司（Denso）近日公布了2026财年的收入和利润增长。这一消息表明，电装在全球汽车零部件市场中的竞争力依然强劲，尤其是在电动汽车和智能汽车领域的投资将推动其未来发展。随着汽车行业向电动化和智能化转型，电装的业绩增长可能会吸引更多投资者的关注，并对整个行业的供应链产生积极影响。",
-          "analysis_en": "Denso recently announced an increase in revenue and profit for the fiscal year 2026. This indicates that Denso remains competitive in the global automotive parts market, particularly with its investments in electric and smart vehicles driving future growth. As the automotive industry shifts towards electrification and smart technology, Denso's performance may attract more investor interest and positively impact the entire industry's supply chain."
+          "title": "Robinhood’s quarterly profit misses estimates on weak transaction revenue",
+          "link": "https://www.investing.com/news/stock-market-news/robinhood-quarterly-profit-rises-on-trading-strength-4642877",
+          "source": "Stock Market News",
+          "published_utc": "2026-04-28 21:19 UTC",
+          "analysis_zh": "罗宾汉公司公布的季度利润未能达到预期，主要原因是交易收入疲软。这一结果引发了市场的关注，因为交易收入是该公司的核心盈利来源。利润低于预期可能会影响投资者的信心，并导致股价波动。未来，罗宾汉需要寻找新的收入来源，以应对市场竞争和用户活跃度下降的问题。",
+          "analysis_en": "Robinhood reported quarterly profits that fell short of expectations, primarily due to weak transaction revenue. This outcome has drawn market attention, as transaction revenue is a key source of the company's earnings. The lower-than-expected profits may affect investor confidence and lead to stock price fluctuations. Moving forward, Robinhood will need to explore new revenue streams to address market competition and declining user engagement."
         },
         {
           "rank": 7,
-          "title": "Gold, silver plunge amid US-Iran stalemate",
-          "link": "https://finance.yahoo.com/markets/article/gold-silver-plunge-amid-us-iran-stalemate-155453396.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-04-28 15:54 UTC",
-          "analysis_zh": "近期，由于美国与伊朗之间的僵局，黄金和白银的价格大幅下跌。这一事件引发了市场的广泛关注，因为黄金和白银通常被视为避险资产，投资者在不确定的经济环境中倾向于购买这些贵金属。价格的下跌可能会影响投资者的信心，并导致资金流出贵金属市场，转向其他投资领域。这一变化可能会对全球金融市场产生连锁反应，尤其是在地缘政治紧张局势加剧的情况下。",
-          "analysis_en": "Recently, gold and silver prices have plummeted amid a stalemate between the U.S. and Iran. This situation has drawn significant market attention, as gold and silver are typically viewed as safe-haven assets that investors flock to during uncertain economic times. The decline in prices may undermine investor confidence and lead to a shift of funds away from the precious metals market into other investment areas. Such a change could have ripple effects on global financial markets, especially as geopolitical tensions continue to escalate."
+          "title": "Berkshire’s Duracell must face BASF lawsuit over battery secrets, US judge rules",
+          "link": "https://www.investing.com/news/stock-market-news/berkshires-duracell-must-face-basf-lawsuit-over-battery-secrets-us-judge-rules-4643137",
+          "source": "Stock Market News",
+          "published_utc": "2026-04-28 21:19 UTC",
+          "analysis_zh": "美国法官裁定，伯克希尔哈撒韦旗下的杜拉塞尔公司必须应对德国化工巨头巴斯夫提起的诉讼，涉及电池技术的商业秘密。这一裁决的重要性在于，它可能影响到电池行业的竞争格局，尤其是在电动车和可再生能源领域。若杜拉塞尔败诉，可能会导致其在技术上的重大损失，并对其市场地位产生负面影响。",
+          "analysis_en": "A U.S. judge has ruled that Berkshire Hathaway's Duracell must face a lawsuit from the German chemical giant BASF regarding trade secrets related to battery technology. This ruling is significant as it could impact the competitive landscape of the battery industry, particularly in the electric vehicle and renewable energy sectors. If Duracell loses the case, it may suffer substantial technological setbacks and face negative repercussions on its market position."
         },
         {
           "rank": 8,
-          "title": "Lululemon appoints new director as proxy fight with founder looms",
-          "link": "https://www.investing.com/news/stock-market-news/exclusivelululemon-appoints-new-director-as-proxy-fight-with-founder-looms-sources-say-4641015",
+          "title": "Mexican broadcaster Televisa triples Q1 profit despite shrinking revenues",
+          "link": "https://www.investing.com/news/stock-market-news/mexican-broadcaster-televisa-triples-q1-profit-despite-shrinking-revenues-4643103",
           "source": "Stock Market News",
-          "published_utc": "2026-04-28 15:54 UTC",
-          "analysis_zh": "Lululemon最近任命了一位新董事，以应对创始人与公司之间即将展开的代理权斗争。这一变化引发了市场的广泛关注，因为创始人对公司的未来方向有着重要影响。新董事的加入可能会改变公司治理结构，并影响投资者的信心和决策。此事件不仅关系到Lululemon的管理层稳定性，也可能对其股价产生直接影响。",
-          "analysis_en": "Lululemon has recently appointed a new director in anticipation of an upcoming proxy fight with its founder. This change has garnered significant attention in the market, as the founder plays a crucial role in the company's future direction. The addition of the new director may alter the governance structure and impact investor confidence and decisions. This situation not only affects the stability of Lululemon's management but could also have a direct effect on its stock price."
+          "published_utc": "2026-04-28 21:19 UTC",
+          "analysis_zh": "墨西哥广播公司Televisa在第一季度的利润增长了三倍，尽管其收入有所下降。这一现象引发了市场的广泛关注，因为公司通过成本控制和优化运营实现了利润的提升。这不仅显示了Televisa在逆境中保持盈利能力的能力，也可能影响投资者对其未来表现的信心。随着媒体行业竞争加剧，Televisa的成功案例或许会为其他公司提供借鉴。",
+          "analysis_en": "Mexican broadcaster Televisa tripled its profit in the first quarter, despite a decline in revenue. This situation has drawn significant market attention, as the company managed to boost its profits through cost control and operational optimization. This not only demonstrates Televisa's ability to maintain profitability in challenging times but may also affect investor confidence in its future performance. As competition in the media industry intensifies, Televisa's success story could serve as a model for other companies."
         },
         {
           "rank": 9,
-          "title": "Frothy, but not like 1999: This new valuation indicator has stocks beating inflation",
-          "link": "https://www.marketwatch.com/story/frothy-but-not-like-1999-this-new-valuation-indicator-has-stocks-beating-inflation-40482dd5?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-04-28 15:54 UTC",
-          "analysis_zh": "最近，市场观察网站的报道指出，虽然当前股市估值较高，但与1999年相比并不相同。根据新的估值指标，尽管Shiller CAPE比率预测未来十年可能出现亏损，但另一种更优的模型显示出实现正实际回报的可能性。这一发现对投资者来说至关重要，因为它提供了在高估值环境中仍有盈利机会的信心，可能会影响投资策略的调整。",
-          "analysis_en": "Recently, a report from MarketWatch highlighted that while current stock market valuations are high, they are not comparable to those in 1999. The Shiller CAPE ratio predicts a lost decade ahead, but a superior valuation model suggests a pathway to positive real returns. This finding is crucial for investors as it instills confidence that there are still opportunities for profit even in a high-valuation environment, potentially influencing adjustments in investment strategies."
+          "title": "Walmart Mexico unit’s profit ticks up in first quarter",
+          "link": "https://www.investing.com/news/stock-market-news/walmart-mexico-units-profit-ticks-up-in-first-quarter-4643134",
+          "source": "Stock Market News",
+          "published_utc": "2026-04-28 21:18 UTC",
+          "analysis_zh": "沃尔玛墨西哥分公司的利润在第一季度有所上升。这一增长表明该公司在墨西哥市场的表现依然强劲，尽管面临经济挑战。这一消息对投资者而言具有重要意义，因为它可能反映出消费者信心的恢复以及零售行业的复苏。随着利润的提升，沃尔玛可能会进一步扩大在该地区的投资，从而推动经济增长。",
+          "analysis_en": "Walmart's Mexico unit reported an increase in profits for the first quarter. This growth indicates that the company continues to perform well in the Mexican market despite facing economic challenges. This news is significant for investors as it may reflect a recovery in consumer confidence and a rebound in the retail sector. With rising profits, Walmart may further expand its investments in the region, potentially driving economic growth."
         },
         {
           "rank": 10,
-          "title": "BofA Names Top Semiconductor Equipment Stocks Amid Industry Growth",
-          "link": "https://www.investing.com/news/stock-market-news/bofa-names-top-semiconductor-equipment-stocks-amid-industry-growth-93CH-4642320",
-          "source": "Stock Market News",
-          "published_utc": "2026-04-28 15:53 UTC",
-          "analysis_zh": "美国银行（BofA）近日发布报告，指出在半导体设备行业增长的背景下，几只股票表现突出。这一分析表明，随着全球对半导体需求的增加，相关企业的前景看好。投资者可能会因此重新评估其投资组合，关注这些被推荐的股票，以期获得更好的回报。",
-          "analysis_en": "Bank of America (BofA) recently released a report highlighting several standout stocks in the semiconductor equipment sector amid industry growth. This analysis indicates that, with the rising global demand for semiconductors, the outlook for related companies is promising. Investors may reassess their portfolios in light of this information, focusing on these recommended stocks to potentially achieve better returns."
+          "title": "Ex-FBI Director James Comey charged with threatening Trump's life in ‘8647’ post",
+          "link": "https://www.cnbc.com/2026/04/28/james-comey-indicted-trump-seashell-8647.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-04-28 21:18 UTC",
+          "analysis_zh": "前联邦调查局局长詹姆斯·科米因在社交媒体上发布一则与特朗普相关的帖子而被指控威胁特朗普的生命。特朗普指责科米在5月15日的Instagram帖子中“呼吁暗杀总统”，并分享了数字“8647”的图片。这一事件引发了广泛关注，因为它涉及到美国政治中的安全问题和言论自由的界限。此事可能会加剧特朗普与科米之间的紧张关系，并引发公众对政治言论的讨论。",
+          "analysis_en": "Former FBI Director James Comey has been charged with threatening Donald Trump's life due to a post he made on social media. Trump accused Comey of \"calling for the assassination of the president\" by sharing an image of the numbers \"8647\" in a May 15 Instagram post. This incident has raised significant concerns regarding security in American politics and the boundaries of free speech. It may escalate tensions between Trump and Comey and spark public discussions about political rhetoric."
         }
       ]
     },
     "健康": {
       "description": "医学、营养、抗衰老、代谢与公共健康",
-      "count": 10,
+      "count": 9,
       "items": [
         {
           "rank": 1,
+          "title": "Could At-Home Brain Stimulation Reduce Psychiatry’s Reliance on S.S.R.I.s?",
+          "link": "https://www.nytimes.com/2026/04/28/health/depression-at-home-brain-stimulation-fda.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-04-28 20:55 UTC",
+          "analysis_zh": "最近，美国食品药品监督管理局批准了一款新型耳机，该设备通过微弱的电流刺激大脑。这一技术的出现可能会对精神病学产生深远影响，尤其是在减少对选择性血清素再摄取抑制剂（SSRIs）的依赖方面。许多研究人员对此表示乐观，认为这种替代疗法可能为患者提供新的治疗选择，并改变传统以药物为中心的治疗模式。",
+          "analysis_en": "Recently, the U.S. Food and Drug Administration approved a new headset that stimulates the brain using a weak electric current. This technology could have significant implications for psychiatry, particularly in reducing reliance on selective serotonin reuptake inhibitors (SSRIs). Many researchers are optimistic that this alternative treatment may provide new options for patients and shift the traditional pill-centric approach to mental health care."
+        },
+        {
+          "rank": 2,
+          "title": "Grand Jury Indicts Former N.I.H. Official",
+          "link": "https://www.nytimes.com/2026/04/28/science/david-morens-indictment.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-04-28 17:19 UTC",
+          "analysis_zh": "美国国会大陪审团对前国立卫生研究院官员大卫·莫伦斯博士提出指控，指控他隐瞒与疫情爆发相关的记录。这一事件引发了公众对政府透明度和公共卫生决策的关注。此案的进展可能会影响人们对疫情应对措施的信任，并可能导致对相关官员的进一步审查。",
+          "analysis_en": "A grand jury in the United States has indicted Dr. David Morens, a former official at the National Institutes of Health, for allegedly hiding records related to the onset of the pandemic. This situation has raised public concerns regarding government transparency and public health decision-making. The outcome of this case could affect public trust in pandemic response measures and may lead to further scrutiny of officials involved."
+        },
+        {
+          "rank": 3,
+          "title": "U.S. Government Will Stop Paying for Test Strips to Detect Deadly Drugs",
+          "link": "https://www.nytimes.com/2026/04/27/health/trump-fentanyl-test-strips.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-04-28 16:24 UTC",
+          "analysis_zh": "美国政府宣布将停止为检测致命药物的试纸条提供资金。特朗普政府在给各州及其他拨款接受者的信中表示，这些试纸条可能会鼓励药物使用。这一决定引发了广泛关注，因为它可能会影响到公共卫生，尤其是在毒品滥用问题日益严重的背景下。停止资助可能导致更多人接触到危险药物，从而增加 overdose 的风险。",
+          "analysis_en": "The U.S. government has announced that it will stop funding test strips used to detect deadly drugs. In a letter to states and other grant recipients, the Trump administration stated that these strips might encourage drug use. This decision has raised significant concerns, as it could impact public health, particularly in the context of rising drug abuse issues. The cessation of funding may lead to more individuals being exposed to dangerous substances, thereby increasing the risk of overdoses."
+        },
+        {
+          "rank": 4,
           "title": "Cellular Rejuvenation Has the Potential to Reverse Aging",
           "link": "https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html",
           "source": "NYT > Health",
           "published_utc": "2026-04-28 15:42 UTC",
-          "analysis_zh": "一种新的疗法被认为有可能治愈数百种疾病，甚至逆转衰老。这项研究的突破性进展引起了广泛关注，因为它可能改变我们对衰老过程的理解和应对方式。如果这种疗法得到进一步验证，未来可能会在医疗领域产生深远的影响，改善人们的生活质量，并延长健康寿命。",
-          "analysis_en": "A new therapy has been identified that could potentially cure hundreds of diseases and even reverse aging. This breakthrough has garnered significant attention as it may change our understanding and approach to the aging process. If validated further, this therapy could have profound implications in the medical field, improving quality of life and extending healthy lifespans."
+          "analysis_zh": "一种新的细胞再生疗法被认为有可能治愈数百种疾病，甚至逆转衰老。这项研究的突破性进展引起了广泛关注，因为它可能改变我们对衰老过程的理解和应对方式。如果这种疗法得到进一步验证并广泛应用，可能会显著提高人类的生活质量和寿命，带来重大的社会和经济影响。",
+          "analysis_en": "A new cellular rejuvenation therapy has the potential to cure hundreds of diseases and even reverse aging. This groundbreaking research has garnered significant attention, as it may change our understanding and approach to the aging process. If this therapy is further validated and widely implemented, it could greatly enhance the quality of life and longevity for many individuals, leading to substantial social and economic impacts."
         },
         {
-          "rank": 2,
+          "rank": 5,
           "title": "MIT scientists turn chaotic laser light into powerful brain imaging tool",
           "link": "https://www.sciencedaily.com/releases/2026/04/260428045542.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-04-28 13:10 UTC",
-          "analysis_zh": "麻省理工学院的科学家们发现，混沌激光光束在特定条件下可以自发形成高度集中的“铅笔光束”，而不是像以往那样散射。这种新型光束使他们能够以现有技术的25倍速度三维成像血脑屏障，并实时观察药物如何进入脑细胞。这一发现具有重要意义，因为它可能加速神经疾病治疗方法的开发，帮助科学家更有效地评估药物是否能够到达大脑的目标区域。",
-          "analysis_en": "Scientists at MIT have discovered that chaotic laser light can spontaneously form a highly focused \"pencil beam\" under specific conditions, rather than scattering as previously thought. This new type of beam allows them to image the blood-brain barrier in 3D at speeds 25 times faster than current techniques, while also enabling real-time observation of how drugs enter brain cells. This finding is significant as it could accelerate the development of treatments for neurological diseases, helping researchers more effectively assess whether drugs reach their intended targets in the brain."
+          "analysis_zh": "麻省理工学院的科学家们发现，在特定条件下，混乱的激光光束可以自发形成一个高度聚焦的“铅笔光束”，而不是像以往那样散射。这一发现使他们能够以现有技术的25倍速度，三维成像人类的血脑屏障，并实时观察药物如何进入脑细胞。这项新技术的应用可能会显著加速神经疾病治疗的研发进程，尤其是在阿尔茨海默病和肌萎缩侧索硬化症等疾病的治疗上。",
+          "analysis_en": "Scientists at MIT have discovered that under specific conditions, chaotic laser light can spontaneously organize into a highly focused \"pencil beam\" instead of scattering. This breakthrough allows them to image the human blood-brain barrier in 3D at speeds 25 times faster than current techniques, while also enabling real-time observation of how drugs enter brain cells. The implications of this technology could significantly accelerate the development of treatments for neurological diseases, particularly for conditions like Alzheimer's and ALS."
         },
         {
-          "rank": 3,
+          "rank": 6,
           "title": "Your dreams aren’t random. Here’s what’s really happening",
           "link": "https://www.sciencedaily.com/releases/2026/04/260428045538.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-04-28 12:08 UTC",
-          "analysis_zh": "研究表明，梦境并非随机产生，而是受到个人特质和现实生活经历的影响。科学家发现，大脑在梦中并不是简单地重放日常生活，而是将这些经历重新塑造为富有想象力甚至超现实的场景。那些更容易走神的人往往会做出支离破碎的梦，而重视梦境的人则体验到更丰富的梦境。此外，像疫情这样的重大事件也改变了梦的内容，使其变得更加情感化和限制性。这一发现对我们理解梦境的本质以及其对心理健康的潜在影响具有重要意义。",
-          "analysis_en": "Research indicates that dreams are not random; they are influenced by personal traits and real-life experiences. Scientists found that the brain does not merely replay daily life during sleep but reshapes those experiences into imaginative and sometimes surreal scenarios. People who tend to mind-wander often have fragmented dreams, while those who value their dreams experience richer ones. Additionally, major events like the pandemic have altered dream content, making it more emotional and restrictive. This finding is significant for understanding the nature of dreams and their potential impact on mental health."
+          "analysis_zh": "研究表明，梦境并非随机，而是受到个人特征和现实生活经历的影响。科学家发现，大脑在睡眠中并不是简单地重放日常生活，而是将这些经历重塑为富有想象力的场景。那些更容易走神的人往往会做出碎片化的梦，而重视梦境的人则会经历更丰富的梦境。此外，像疫情这样的重大事件也改变了梦的内容，使其更加情感化和限制性。这项研究有助于我们理解梦境的结构和意义，可能对心理健康和梦境解析等领域产生深远影响。",
+          "analysis_en": "Research indicates that dreams are not random; they are influenced by personal traits and real-life experiences. Scientists found that the brain does not merely replay daily life during sleep but reshapes those experiences into imaginative scenarios. Individuals who tend to mind-wander often have fragmented dreams, while those who value their dreams experience richer ones. Furthermore, significant events like the pandemic have altered dream content, making it more emotional and restrictive. This study helps us understand the structure and meaning of dreams, which may have profound implications for mental health and dream interpretation."
         },
         {
-          "rank": 4,
+          "rank": 7,
           "title": "Pregnancy With Lupus Is Risky. Would She Be Able to Carry Her Baby to Term?",
           "link": "https://www.nytimes.com/2026/04/27/science/lupus-pregnancy-kidney-failure.html",
           "source": "NYT > Health",
           "published_utc": "2026-04-28 11:42 UTC",
-          "analysis_zh": "法蒂玛·谢泼德的肾脏功能受到影响，怀孕可能导致她的肾衰竭。这一情况引发了人们对狼疮患者怀孕风险的关注。怀孕对健康状况不佳的女性来说，可能会带来严重的健康威胁，甚至危及生命。了解这些风险对于制定安全的怀孕计划至关重要，也可能影响医疗专业人员在处理类似病例时的决策。",
-          "analysis_en": "Fatimah Shepherd's kidney function was compromised, and pregnancy could lead to kidney failure. This situation has raised awareness about the risks of pregnancy for women with lupus. Pregnancy can pose serious health threats for women with pre-existing conditions, potentially endangering their lives. Understanding these risks is crucial for developing safe pregnancy plans and may influence healthcare professionals' decisions when handling similar cases."
+          "analysis_zh": "法蒂玛·谢泼德的肾脏功能受到损害，怀孕可能会导致她的肾衰竭。这一情况突显了狼疮患者在怀孕期间面临的重大风险。了解这些风险对于医生和患者都至关重要，因为它们可能影响到母亲和胎儿的健康。随着越来越多的狼疮患者选择怀孕，相关的医疗指导和支持显得尤为重要。",
+          "analysis_en": "Fatimah Shepherd's kidney function is compromised, and pregnancy could lead to kidney failure for her. This situation highlights the significant risks that lupus patients face during pregnancy. Understanding these risks is crucial for both doctors and patients, as they can impact the health of both the mother and the fetus. As more lupus patients choose to become pregnant, the need for appropriate medical guidance and support becomes increasingly important."
         },
         {
-          "rank": 5,
+          "rank": 8,
           "title": "Vitamin D boosts breast cancer treatment success by 79%",
           "link": "https://www.sciencedaily.com/releases/2026/04/260428004119.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-04-28 05:03 UTC",
-          "analysis_zh": "一项研究发现，维生素D补充剂可能显著提高乳腺癌化疗的成功率，达79%。在这项小规模研究中，接受低剂量维生素D的女性在化疗后癌症消失的概率远高于未服用者。这一发现非常重要，因为许多患者维生素D水平不足，而维生素D还能够增强免疫功能，因此可能在癌症治疗中发挥更大的作用。这种经济实惠的补充方法值得进一步深入研究，可能为乳腺癌患者提供新的治疗选择。",
-          "analysis_en": "A study has found that vitamin D supplements may significantly boost the success rate of chemotherapy for breast cancer, by as much as 79%. In this small-scale research, women who took low doses of vitamin D were much more likely to see their cancer disappear after treatment compared to those who did not. This finding is crucial as many patients are deficient in vitamin D, which also supports immune function, suggesting it could play a larger role in cancer treatment than previously thought. This affordable supplement approach deserves further investigation, potentially offering new treatment options for breast cancer patients."
+          "analysis_zh": "一项研究显示，维生素D补充剂可能显著提高乳腺癌化疗的成功率，达79%。在这项小规模研究中，接受低剂量维生素D的女性在化疗后癌症消失的几率远高于未接受补充的女性。这一发现具有重要意义，因为许多癌症患者维生素D水平不足，而维生素D还支持免疫功能，可能在治疗中发挥更大的作用。这种经济实惠的补充方式值得进一步深入研究，以期改善乳腺癌患者的治疗效果。",
+          "analysis_en": "A study has found that vitamin D supplements could significantly boost the success rate of breast cancer chemotherapy by 79%. In this small-scale study, women who took low doses of vitamin D were much more likely to see their cancer disappear after treatment compared to those who did not receive the supplement. This finding is important because many cancer patients are deficient in vitamin D, which also supports immune function, suggesting it may play a larger role in treatment than previously thought. This affordable approach warrants further investigation to potentially improve outcomes for breast cancer patients."
         },
         {
-          "rank": 6,
+          "rank": 9,
           "title": "Scientists discover enzyme that could supercharge Ozempic",
           "link": "https://www.sciencedaily.com/releases/2026/04/260427050620.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-04-28 04:11 UTC",
-          "analysis_zh": "研究人员发现了一种名为PapB的酶，可以将脆弱的药物分子转变为耐用的环状结构。这一发现可能会使像Ozempic这样的药物在体内更持久、更有效。与传统方法相比，这一过程更简单、精确，甚至适用于复杂药物。这项研究不仅可能改善糖尿病和肥胖症的治疗效果，还可能为未来更强效的药物开发铺平道路。",
-          "analysis_en": "Researchers have identified an enzyme called PapB that can transform fragile drug molecules into durable ring structures. This discovery could enhance the longevity and effectiveness of medications like Ozempic in the body. The process is simpler and more precise than traditional methods, even for complex drugs. This research may not only improve treatments for diabetes and obesity but also pave the way for the development of more powerful medications in the future."
-        },
-        {
-          "rank": 7,
-          "title": "U.S. Government Will Stop Paying for Test Strips to Detect Deadly Drugs",
-          "link": "https://www.nytimes.com/2026/04/27/health/trump-fentanyl-test-strips.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-04-28 01:07 UTC",
-          "analysis_zh": "美国政府决定停止为检测致命药物的试纸条提供资金。特朗普政府在给各州和其他拨款接受者的信中表示，这些试纸条可能会鼓励药物使用。这一决定引发了广泛的关注，因为它可能会影响到公共卫生政策，尤其是在应对药物滥用危机方面。停止资助可能导致更多人面临药物过量的风险，从而加剧社会问题。",
-          "analysis_en": "The U.S. government has decided to stop funding test strips used to detect deadly drugs. In a letter to states and other grant recipients, the Trump administration stated that these strips could encourage drug use. This decision has raised significant concerns, as it may impact public health policies, particularly in addressing the drug abuse crisis. The cessation of funding could lead to an increased risk of overdose for many individuals, exacerbating social issues."
-        },
-        {
-          "rank": 8,
-          "title": "Supreme Court Appears Divided Over Roundup Weedkiller Case",
-          "link": "https://www.nytimes.com/2026/04/27/us/politics/supreme-court-roundup-weedkiller.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-04-27 20:04 UTC",
-          "analysis_zh": "美国最高法院在一起关于草甘膦除草剂的案件中似乎存在分歧。此案可能会影响成千上万起针对该除草剂制造商的诉讼，这些诉讼声称其产品可能导致癌症。此案的重要性在于，它不仅关乎消费者的健康安全，也可能影响未来农药的监管政策和生产商的责任。",
-          "analysis_en": "The U.S. Supreme Court appears divided over a case involving the herbicide glyphosate. This case could significantly impact thousands of lawsuits against the manufacturer, which claim that the product may cause cancer. The importance of this case lies in its implications for consumer health safety and the potential changes it may bring to pesticide regulation and manufacturer liability in the future."
-        },
-        {
-          "rank": 9,
-          "title": "Thanks to GLP-1s, Obesity Experts Are Trying to Understand ‘Food Noise’",
-          "link": "https://www.nytimes.com/2026/04/27/health/food-noise-obesity-drugs-glp-1.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-04-27 18:09 UTC",
-          "analysis_zh": "随着GLP-1药物的兴起，肥胖专家开始关注人们进食时内心的“食物噪音”，这一现象在此之前并未受到重视。食物噪音指的是促使人们进食的内在冲动。了解这一现象的重要性在于，它可能影响肥胖治疗的方式，帮助专家制定更有效的干预策略。通过研究食物噪音，专家们希望能够更好地理解人们的饮食行为，从而改善肥胖管理。",
-          "analysis_en": "With the rise of GLP-1 medications, obesity experts are now focusing on the concept of \"food noise,\" an internal drive that compels people to eat, which had previously been overlooked. Food noise refers to the internal impulses that lead to eating. Understanding this phenomenon is crucial as it may influence how obesity is treated, helping experts to develop more effective intervention strategies. By studying food noise, researchers hope to gain better insights into eating behaviors, ultimately improving obesity management."
-        },
-        {
-          "rank": 10,
-          "title": "Can Spending More Improve Your Health and Prolong Your Life?",
-          "link": "https://www.nytimes.com/2026/04/27/your-money/longevity-wellness-industry.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-04-27 17:12 UTC",
-          "analysis_zh": "近年来，越来越多的人希望通过增加支出来改善健康和延长寿命。这一趋势催生了各种健康服务和补充品的增长。然而，究竟哪些方法最有效仍然是一个值得探讨的问题。这一现象不仅反映了人们对健康的重视，也可能对医疗行业和市场产生深远影响。",
-          "analysis_en": "In recent years, there has been a growing desire among people to improve their health and extend their lifespan by increasing their spending. This trend has led to a rise in various health services and supplements. However, it remains a topic of discussion as to which methods are most effective. This phenomenon not only reflects the increasing importance people place on health but may also have significant implications for the healthcare industry and the market."
+          "analysis_zh": "研究人员发现了一种名为PapB的酶，可以将脆弱的药物分子转变为耐用的环状结构。这一发现对像Ozempic这样的药物具有重要意义，因为它可能使这些药物在体内的活性时间更长，效果更好。这种酶促反应比传统方法更简单、精确，尤其适用于复杂药物。这一进展可能为开发更强效、持久的治疗方案铺平道路，进而改善糖尿病和肥胖症患者的治疗效果。",
+          "analysis_en": "Researchers have discovered an enzyme called PapB that can transform fragile drug molecules into durable ring structures. This finding is significant for medications like Ozempic, as it could enhance their longevity and effectiveness in the body. The enzymatic process is simpler and more precise than traditional methods, especially for complex drugs. This advancement may pave the way for stronger and longer-lasting treatments, improving outcomes for patients with diabetes and obesity."
         }
       ]
     },
@@ -210,8 +201,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/04/260428045542.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-04-28 13:10 UTC",
-          "analysis_zh": "麻省理工学院的科学家们发现，在特定条件下，混乱的激光光束可以自发形成一个高度聚焦的“铅笔光束”，而不是像以往那样散射。这种新型的成像技术使他们能够以现有技术的25倍速度，三维成像人类的血脑屏障。此外，该方法还可以实时观察药物如何进入脑细胞。这项研究可能会显著加速神经疾病治疗方案的开发。",
-          "analysis_en": "Scientists at MIT have discovered that under specific conditions, chaotic laser light can spontaneously organize into a highly focused \"pencil beam\" instead of scattering. This new imaging technique allows them to create 3D images of the human blood-brain barrier at speeds 25 times faster than current methods. Additionally, the technique enables real-time observation of how drugs enter brain cells. This research could significantly accelerate the development of treatments for neurological diseases."
+          "analysis_zh": "麻省理工学院的科学家们发现，在特定条件下，混乱的激光光束可以自发形成一个高度聚焦的“铅笔束”，而不是像以往那样散射。这种新型的成像技术使他们能够以现有技术的25倍速度，三维成像人类的血脑屏障。此外，该方法还可以实时观察药物如何进入脑细胞。这项研究具有重要意义，因为它可能加速神经疾病治疗的开发，帮助科学家更有效地评估治疗效果。",
+          "analysis_en": "Scientists at MIT have discovered that under specific conditions, chaotic laser light can spontaneously organize into a highly focused \"pencil beam\" instead of scattering. This innovative imaging technique allows them to create 3D images of the human blood-brain barrier at speeds 25 times faster than current methods. Furthermore, it enables real-time observation of how drugs enter brain cells. This research is significant as it could accelerate the development of treatments for neurological diseases, helping scientists more effectively evaluate the efficacy of therapies."
         },
         {
           "rank": 2,
@@ -219,8 +210,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/04/260428045538.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-04-28 12:08 UTC",
-          "analysis_zh": "研究表明，梦境并非随机，而是受到个人特质和现实经历的影响。科学家发现，大脑在睡眠中并不是简单地重放日常生活，而是将这些经历重新组合成富有想象力的情境。那些更容易走神的人通常会做出片段化的梦，而重视梦境的人则会体验到更丰富的梦境。此外，像疫情这样的重大事件也改变了梦的内容，使其变得更加情感化和限制性。这项研究有助于我们理解梦境的结构和意义，可能会影响心理学和梦境解析的研究方向。",
-          "analysis_en": "Research indicates that dreams are not random; they are influenced by personal traits and real-life experiences. Scientists found that the brain does not merely replay daily life during sleep but reshapes those experiences into imaginative scenarios. People who tend to mind-wander often have fragmented dreams, while those who value their dreams experience richer ones. Additionally, significant events like the pandemic have altered dream content, making it more emotional and restrictive. This study enhances our understanding of the structure and meaning of dreams, potentially impacting research in psychology and dream interpretation."
+          "analysis_zh": "研究发现，梦境并非随机产生，而是受到个人特质和现实生活经历的影响。科学家们指出，大脑在睡眠中并不是简单地重放日常生活，而是将这些经历重新塑造为富有想象力且有时超现实的场景。那些更容易走神的人往往会做出支离破碎的梦，而重视梦境的人则体验到更丰富的梦境。此外，像疫情这样的重大事件也改变了梦的内容，使其更加情绪化和限制性。这项研究有助于我们理解梦境的结构及其与个人心理状态的关系。",
+          "analysis_en": "Research has shown that dreams are not random; they are influenced by personal traits and real-life experiences. Scientists indicate that the brain does not simply replay daily life during sleep but reshapes those experiences into imaginative and sometimes surreal scenarios. People who tend to mind-wander often have fragmented dreams, while those who value their dreams experience richer ones. Moreover, significant events like the pandemic have altered dream content, making it more emotional and restrictive. This study helps us understand the structure of dreams and their connection to individual psychological states."
         },
         {
           "rank": 3,
@@ -228,8 +219,8 @@
           "link": "https://aeon.co/essays/why-man-the-hunter-continues-to-die-and-return?utm_source=rss-feed",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-04-28 10:00 UTC",
-          "analysis_zh": "“人类猎手”理论在过去一个世纪中经历了多次兴衰。这一理论的复兴与否不仅关乎人类起源的理解，也影响着我们对人类行为和社会结构的看法。通过深入探讨这一理论的多重含义，我们可以更好地理解人类的演化历程及其对现代社会的影响。",
-          "analysis_en": "The theory of \"Man the Hunter\" has seen a century of rises and falls. Its revival is significant not only for our understanding of human origins but also for how we perceive human behavior and social structures. By unraveling the various meanings of this theory, we can gain deeper insights into the evolutionary history of humanity and its implications for contemporary society."
+          "analysis_zh": "“人类猎手”理论在过去一个世纪中经历了多次兴衰。该理论试图解释人类起源的复杂性，但其含义却常常被误解。重新审视这一理论的重要性在于，它不仅影响我们对人类历史的理解，还可能改变我们对人类行为和社会结构的看法。",
+          "analysis_en": "The theory of \"Man the Hunter\" has experienced a rise and fall over the past century. This theory attempts to explain the complexities of human origins, but its meanings are often misunderstood. Reassessing the importance of this theory is crucial, as it not only affects our understanding of human history but may also alter our views on human behavior and social structures."
         }
       ]
     },
@@ -239,93 +230,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Here Are the Key Players in the OpenAI Trial",
-          "link": "https://www.nytimes.com/2026/04/28/technology/key-players-openai-trial.html",
-          "source": "NYT > Technology",
-          "published_utc": "2026-04-28 16:09 UTC",
-          "analysis_zh": "在即将进行的OpenAI审判中，埃隆·马斯克、山姆·奥特曼及其他几位人工智能行业的重要人物将出庭作证。此次审判预计将持续数周，涉及的内容可能对人工智能行业的未来发展产生深远影响。这场审判不仅关系到OpenAI的法律责任，还可能影响公众对人工智能技术的信任和监管政策的制定。",
-          "analysis_en": "In the upcoming OpenAI trial, Elon Musk, Sam Altman, and several other key figures in the artificial intelligence industry are set to testify. The trial is expected to last several weeks and could have significant implications for the future of the AI sector. This trial not only addresses OpenAI's legal responsibilities but may also affect public trust in AI technology and the formulation of regulatory policies."
+          "title": "James Comey indicted over Instagram seashell photo that allegedly threatened Trump",
+          "link": "https://www.theverge.com/policy/920131/james-comey-indicted-over-instagram-seashell-photo-that-allegedly-threatened-trump",
+          "source": "The Verge",
+          "published_utc": "2026-04-28 21:40 UTC",
+          "analysis_zh": "美国司法部再次对詹姆斯·科米提出指控，这次是因为他在Instagram上发布的一张贝壳照片，涉嫌威胁前总统特朗普。根据指控，科米发布的照片中贝壳排列成数字“8647”，而“八六”在俚语中可以表示“处理掉”或“扔掉”。这一事件引发了广泛关注，因为它涉及到言论自由与法律界限的复杂关系，可能对公众人物的社交媒体行为产生深远影响。",
+          "analysis_en": "The U.S. Department of Justice has indicted James Comey again, this time for an Instagram photo that allegedly threatened former President Trump. The indictment claims that the arrangement of seashells in the photo formed the numbers \"8647,\" with \"eighty-six\" being slang for \"to get rid of.\" This incident has garnered significant attention as it raises complex issues surrounding freedom of speech and legal boundaries, potentially impacting how public figures engage on social media."
         },
         {
           "rank": 2,
           "title": "Here’s the latest.",
           "link": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/openai-trial-opening-comments",
           "source": "NYT > Technology",
-          "published_utc": "2026-04-28 16:03 UTC",
-          "analysis_zh": "最近，人工智能技术的快速发展引发了广泛关注。许多公司正在加大对AI研究和应用的投资，这不仅推动了科技进步，也改变了各行各业的运营模式。这一趋势可能会影响就业市场，导致某些职业的消失，同时也会创造出新的工作机会。随着AI技术的不断成熟，社会各界需要认真思考其带来的伦理和安全问题。",
-          "analysis_en": "Recently, the rapid development of artificial intelligence technology has garnered widespread attention. Many companies are increasing their investments in AI research and applications, which not only drives technological advancement but also alters the operational models across various industries. This trend may affect the job market, leading to the disappearance of certain professions while also creating new job opportunities. As AI technology continues to mature, various sectors of society need to seriously consider the ethical and security issues it presents."
+          "published_utc": "2026-04-28 20:47 UTC",
+          "analysis_zh": "最近，人工智能技术在各个领域的应用不断扩展，引发了广泛的关注和讨论。这一现象的重要性在于，AI不仅能够提高生产效率，还可能改变传统行业的运作方式。随着技术的不断进步，企业和个人都需要适应这种变化，以保持竞争力。未来，AI的发展可能会对就业市场和社会结构产生深远的影响。",
+          "analysis_en": "Recently, the application of artificial intelligence technology has been expanding across various fields, sparking widespread attention and discussion. This trend is significant because AI has the potential to enhance productivity and transform the operations of traditional industries. As technology continues to advance, both businesses and individuals must adapt to these changes to remain competitive. In the future, the development of AI may have profound effects on the job market and social structure."
         },
         {
           "rank": 3,
-          "title": "Google Translate can now help you with pronunciation",
-          "link": "https://www.theverge.com/tech/919510/google-translate-pronunciation-practice-availability",
+          "title": "Elon Musk tells the jury that all he wants to do is save humanity",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
           "source": "The Verge",
-          "published_utc": "2026-04-28 16:00 UTC",
-          "analysis_zh": "谷歌推出了一项新的AI驱动功能，旨在帮助用户在学习新语言时纠正和练习发音。这个“发音练习”工具能够分析用户的语音，并提供即时反馈，以帮助他们在实际对话前进行改进。这一功能的推出对语言学习者来说非常重要，因为它可以提高他们的交流能力，增强自信心。目前，该功能在美国和印度的安卓用户中推出，支持英语、西班牙语和印地语，但尚未公布是否会扩展到其他地区或iOS用户。",
-          "analysis_en": "Google has launched a new AI-powered feature designed to help users correct and practice their pronunciation while learning a new language. The \"pronunciation practice\" tool analyzes users' speech and provides instant feedback to help them improve before engaging in actual conversations. This feature is significant for language learners as it enhances their communication skills and boosts their confidence. Currently, it is available for Android users in the US and India, supporting English, Spanish, and Hindi, but there has been no announcement regarding its expansion to other regions or iOS users."
+          "published_utc": "2026-04-28 20:46 UTC",
+          "analysis_zh": "在一起备受瞩目的审判中，埃隆·马斯克试图将自己塑造成拯救人类的英雄。他在法庭上详细讲述了自己的成长经历，从南非到加拿大上大学的旅程，强调自己所有商业活动的初衷都是为了人类的福祉。马斯克提到，创立SpaceX是为了“为我们所知的生命提供保险”，而特斯拉的成立则是因为他认为继续依赖化石燃料对环境和人类整体都是有害的。这场审判不仅关乎马斯克与OpenAI现任首席执行官山姆·阿尔特曼之间的争执，也可能影响公众对科技企业家责任的看法。",
+          "analysis_en": "In a high-profile trial, Elon Musk is attempting to portray himself as a savior of humanity. He detailed his background on the stand, from growing up in South Africa to arriving in Canada for college, emphasizing that all his business ventures are aimed at benefiting humanity. Musk stated that he founded SpaceX as \"insurance for life as we know it,\" and started Tesla because he believed that continued reliance on fossil fuels could harm the environment and humanity as a whole. This trial not only concerns the dispute between Musk and current OpenAI CEO Sam Altman but may also influence public perceptions of the responsibilities of tech entrepreneurs."
         },
         {
           "rank": 4,
-          "title": "Former FCC officials want to force a vote on the ‘weapon’ Brendan Carr has invoked against broadcasters",
-          "link": "https://www.theverge.com/policy/919536/former-fcc-officials-brendan-car-news-distortion-policy",
-          "source": "The Verge",
-          "published_utc": "2026-04-28 16:00 UTC",
-          "analysis_zh": "几位前联邦通信委员会（FCC）官员和工作人员呼吁联邦上诉法院强制对FCC的新闻扭曲政策进行投票，他们认为该政策在共和党主席布伦丹·卡尔的操控下被滥用，应该被废除。周二，一组请愿者向哥伦比亚特区上诉法院请求，要求FCC对一项废除新闻扭曲政策的请愿进行投票。这项请愿于2025年11月由这群两党前官员提出，原因是卡尔利用该政策施压ABC暂时停播喜剧演员吉米·基梅尔。由于只有委员会主席可以将此事项提交全体委员会投票，而卡尔至今未能采取行动，前官员们现在请求法院发出强制令，迫使FCC进行投票。",
-          "analysis_en": "Several former Federal Communications Commission (FCC) officials and staffers are urging a federal appeals court to compel a vote on the FCC's news distortion policy, which they argue should be repealed due to its misuse by Republican Chair Brendan Carr. On Tuesday, a group of petitioners asked the U.S. Court of Appeals for the District of Columbia to require the FCC to vote on a petition to repeal this policy. This petition was filed in November 2025 after Carr invoked the rule to pressure ABC into temporarily suspending comedian Jimmy Kimmel. Since only the chair can bring the matter to a full commission vote and Carr has not done so, the former officials are now asking the court to issue a writ of mandamus to force the FCC to act."
-        },
-        {
-          "rank": 5,
-          "title": "Amazon’s color screen Kindles are finally getting a system-wide dark mode",
-          "link": "https://www.theverge.com/tech/919597/amazon-kindle-colorsoft-scribe-dark-mode-system-wide-software-update",
-          "source": "The Verge",
-          "published_utc": "2026-04-28 15:46 UTC",
-          "analysis_zh": "亚马逊宣布其彩色屏幕Kindle设备将推出全局黑暗模式，这一功能此前仅在黑白E Ink屏幕的Kindle上可用。全局黑暗模式将允许用户在设备的各个界面中自由切换明暗模式，这对于提升用户体验至关重要。此更新预计将在未来几周内向全球用户推送，用户可通过亚马逊网站下载。此举不仅提升了设备的可用性，也可能吸引更多用户选择Kindle作为阅读工具。",
-          "analysis_en": "Amazon has announced that its color screen Kindle devices will receive a system-wide dark mode, a feature previously available only on black and white E Ink Kindles. This dark mode will allow users to freely switch between light and dark themes across various interfaces, significantly enhancing the user experience. The update is expected to roll out to readers worldwide in the coming weeks and will be available for download through Amazon's website. This move not only improves the usability of the devices but may also attract more users to choose Kindle as their reading tool."
-        },
-        {
-          "rank": 6,
-          "title": "Elon Musk Assails Sam Altman on Social Media Before OpenAI Trial",
-          "link": "https://www.nytimes.com/2026/04/28/technology/elon-musk-social-posts-sam-altman-openai.html",
-          "source": "NYT > Technology",
-          "published_utc": "2026-04-28 15:35 UTC",
-          "analysis_zh": "埃隆·马斯克在社交媒体上对山姆·奥特曼进行了猛烈抨击，恰逢OpenAI即将进行审判。这一事件引发了广泛关注，因为马斯克的言论可能影响公众对OpenAI及其领导层的看法。他的批评强调了他对人工智能发展的担忧，并可能导致对OpenAI未来方向的重新审视。这场争论不仅关系到OpenAI的声誉，也可能影响整个行业对人工智能的信任。",
-          "analysis_en": "Elon Musk has launched a fierce attack on Sam Altman on social media just before OpenAI's trial. This incident has garnered significant attention, as Musk's comments could shape public perception of OpenAI and its leadership. His criticisms underscore his concerns about the direction of artificial intelligence and may prompt a reevaluation of OpenAI's future trajectory. This debate not only impacts OpenAI's reputation but could also affect the broader industry's trust in artificial intelligence."
-        },
-        {
-          "rank": 7,
-          "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-          "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-          "source": "The Verge",
-          "published_utc": "2026-04-28 15:32 UTC",
-          "analysis_zh": "埃隆·马斯克与山姆·奥特曼之间的高风险法庭对决正在进行，这场诉讼可能会改变领先人工智能初创公司OpenAI的未来。马斯克在2024年提起诉讼，指控OpenAI放弃了其为人类发展人工智能的初衷，转而追求利润最大化。此案的审理于4月27日开始，马斯克作为证人出庭，声称奥特曼和共同创始人格雷格·布罗克曼欺骗了他，导致他对公司的资金支持未能实现最初的目标。这场诉讼不仅关系到OpenAI的运营模式，还可能影响整个人工智能行业的竞争格局。",
-          "analysis_en": "Elon Musk and Sam Altman are currently engaged in a high-stakes court battle that could significantly impact the future of OpenAI, a leading AI startup. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its original mission to develop AI for the benefit of humanity in favor of profit maximization. The trial began on April 27, with Musk appearing as a witness, claiming that Altman and co-founder Greg Brockman deceived him regarding his financial contributions to the company. This lawsuit not only affects OpenAI's operational model but may also influence the competitive landscape of the entire AI industry."
-        },
-        {
-          "rank": 8,
-          "title": "This trial comes amid a growing national backlash against A.I.",
-          "link": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/this-trial-comes-amid-a-growing-national-backlash-against-ai",
-          "source": "NYT > Technology",
-          "published_utc": "2026-04-28 15:19 UTC",
-          "analysis_zh": "最近，美国对人工智能（AI）的反对声浪日益高涨，相关的法律诉讼也随之增加。这场审判的进行反映了公众对AI技术潜在风险的关注，尤其是在隐私和就业等领域。此事件不仅可能影响AI技术的监管政策，还可能改变企业在开发和应用AI时的策略。",
-          "analysis_en": "Recently, there has been a growing national backlash against artificial intelligence (AI) in the United States, leading to an increase in related legal trials. This trial reflects public concern over the potential risks associated with AI technology, particularly regarding privacy and employment issues. The outcome of this event could not only influence regulatory policies surrounding AI but also alter how companies approach the development and application of AI technologies."
-        },
-        {
-          "rank": 9,
           "title": "G.M.’s Profit Bolstered by a $500 Million Tariff Refund",
           "link": "https://www.nytimes.com/2026/04/28/business/general-motors-trump-tariffs.html",
           "source": "NYT > Technology",
-          "published_utc": "2026-04-28 15:07 UTC",
-          "analysis_zh": "通用汽车公司（G.M.）近日宣布，由于二月份最高法院的裁决，他们将获得部分已支付关税的退款，金额高达五亿美元。这一决定对公司的财务状况产生了积极影响，可能会增强其在市场上的竞争力。随着汽车行业的不断变化，这笔退款不仅有助于改善通用汽车的盈利能力，还可能影响其未来的投资决策和产品定价策略。",
-          "analysis_en": "General Motors (G.M.) recently announced that, due to a Supreme Court ruling in February, it would receive refunds on some tariffs it had previously paid, totaling $500 million. This decision positively impacts the company's financial situation and could strengthen its competitive position in the market. As the automotive industry continues to evolve, this refund not only helps improve G.M.'s profitability but may also influence its future investment decisions and pricing strategies."
+          "published_utc": "2026-04-28 20:32 UTC",
+          "analysis_zh": "通用汽车公司（G.M.）近日宣布，由于今年二月份最高法院的裁决，他们将获得部分已支付关税的退款，金额高达五亿美元。这一决定对公司利润的提升至关重要，可能会改善其财务状况，并为未来的投资提供资金支持。此举不仅对通用汽车有利，也可能影响整个汽车行业的关税政策和市场竞争格局。",
+          "analysis_en": "General Motors (G.M.) recently announced that, following a Supreme Court ruling in February, it will receive refunds on some tariffs it had paid, amounting to $500 million. This decision is crucial for boosting the company's profits and could improve its financial situation, providing funds for future investments. This move not only benefits G.M. but may also influence tariff policies and the competitive landscape across the entire automotive industry."
+        },
+        {
+          "rank": 5,
+          "title": "Taylor Swift is stepping up the legal war on AI copycats",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats",
+          "source": "The Verge",
+          "published_utc": "2026-04-28 20:30 UTC",
+          "analysis_zh": "泰勒·斯威夫特近年来一直处于人工智能模仿争议的中心，最近她加大了对抗AI抄袭者的法律行动。她的团队提交了商标申请，保护她的两句经典台词：“嘿，我是泰勒·斯威夫特”和“嘿，我是泰勒”。这项举措不仅是为了保护她的个人品牌，也反映了音乐行业在面对AI技术时的复杂法律挑战。如果成功，这可能会为其他艺术家提供保护的先例，影响整个娱乐行业对AI模仿的法律应对。",
+          "analysis_en": "Taylor Swift has been at the forefront of controversies surrounding AI imitation, and she has recently intensified her legal efforts against AI copycats. Her team filed trademark applications to protect two phrases she commonly uses: \"Hey, it's Taylor Swift\" and \"Hey, it's Taylor.\" This move aims not only to safeguard her personal brand but also highlights the complex legal challenges the music industry faces with the rise of AI technology. If successful, it could set a precedent for other artists, influencing how the entertainment industry addresses legal issues related to AI imitation."
+        },
+        {
+          "rank": 6,
+          "title": "Here’s what OpenAI’s lawyer argued in his opening statement.",
+          "link": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/heres-what-openais-lawyer-argued-in-his-opening-statement",
+          "source": "NYT > Technology",
+          "published_utc": "2026-04-28 20:24 UTC",
+          "analysis_zh": "在最近的法庭辩论中，OpenAI的律师在开场陈述中强调了人工智能技术的重要性以及其在社会中的潜在影响。他们指出，AI不仅可以推动经济增长，还能改善人们的生活质量。这场辩论的结果可能会影响未来AI技术的监管政策，进而影响行业的发展方向和创新能力。",
+          "analysis_en": "In a recent court debate, OpenAI's lawyer emphasized the significance of artificial intelligence technology and its potential impact on society during the opening statement. They highlighted that AI can not only drive economic growth but also enhance people's quality of life. The outcome of this debate could influence future regulatory policies surrounding AI technology, thereby affecting the direction of the industry and its capacity for innovation."
+        },
+        {
+          "rank": 7,
+          "title": "Google Signs A.I. Deal With the Pentagon",
+          "link": "https://www.nytimes.com/2026/04/28/technology/google-ai-deal-pentagon.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-04-28 20:16 UTC",
+          "analysis_zh": "谷歌与美国国防部签署了一项人工智能合作协议。这一举措表明，政府与科技公司之间的合作正在加深，尤其是在军事领域。此协议的重要性在于，它可能推动人工智能技术在国防和安全方面的应用，同时也引发了对科技公司在军事用途上道德责任的讨论。",
+          "analysis_en": "Google has signed a deal with the Pentagon for artificial intelligence collaboration. This move indicates a deepening partnership between the government and tech companies, particularly in the military sector. The significance of this agreement lies in its potential to advance the application of AI technology in defense and security, while also raising ethical concerns about the responsibilities of tech companies in military use."
+        },
+        {
+          "rank": 8,
+          "title": "Why does Elon Musk talk so much about saving humanity?",
+          "link": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/why-does-elon-musk-talk-so-much-about-saving-humanity",
+          "source": "NYT > Technology",
+          "published_utc": "2026-04-28 19:55 UTC",
+          "analysis_zh": "埃隆·马斯克近期频繁谈论拯救人类的话题，引发了广泛关注。他认为，人工智能的发展可能对人类未来构成威胁，因此他呼吁采取措施以确保技术的安全性。这一言论的重要性在于，它不仅反映了科技界对AI潜在风险的担忧，也可能影响政策制定者和公众对科技发展的态度。随着AI技术的快速进步，如何平衡创新与安全将成为一个亟待解决的问题。",
+          "analysis_en": "Elon Musk has recently been vocal about the need to save humanity, which has garnered significant attention. He believes that the advancement of artificial intelligence could pose a threat to our future, prompting him to call for measures to ensure the safety of technology. This discussion is important as it highlights concerns within the tech community regarding the potential risks of AI and may influence policymakers and public attitudes toward technological development. As AI technology progresses rapidly, finding a balance between innovation and safety will become a pressing issue."
+        },
+        {
+          "rank": 9,
+          "title": "Now YouTube TV lets you multiview any channel you want",
+          "link": "https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel",
+          "source": "The Verge",
+          "published_utc": "2026-04-28 19:46 UTC",
+          "analysis_zh": "YouTube的首席执行官尼尔·莫汉在周二宣布，YouTube TV将推出“完全可定制”的多视图功能。用户现在可以自由选择和组合直播流，打造个性化的观看体验。这一变化不仅提升了用户的观看灵活性，也可能吸引更多用户订阅YouTube TV，尤其是在体育赛事和新闻节目等热门内容上。随着这一功能的推出，YouTube可能会在流媒体市场中进一步增强其竞争力。",
+          "analysis_en": "YouTube CEO Neal Mohan announced on Tuesday that YouTube TV will feature \"fully customizable\" multiview. Users can now mix and match live streams to create a personalized viewing experience. This change not only enhances user flexibility but may also attract more subscribers to YouTube TV, particularly for popular content like sports events and news programs. With this feature, YouTube could strengthen its competitive position in the streaming market."
         },
         {
           "rank": 10,
-          "title": "DJI’s new Mic Mini 2 adds colorful covers to help them blend in",
-          "link": "https://www.theverge.com/tech/919553/dji-mic-mini-2-wireless-microphone-transmitter-magnetic-cover",
+          "title": "The FCC is going after the broadcast licenses of Disney-owned ABC stations",
+          "link": "https://www.theverge.com/policy/919739/fcc-disney-abc-broadcast-licenses-threat",
           "source": "The Verge",
-          "published_utc": "2026-04-28 15:04 UTC",
-          "analysis_zh": "大疆最近推出了其最新的无线麦克风系统——Mic Mini 2，尽管与2024年首次发布的原版相比升级不多，但新增的可更换磁性外壳系统使用户可以根据需要自定义外观。这一创新不仅提升了麦克风的美观性，还可能吸引更多用户选择该产品。值得注意的是，Mic Mini 2并不会在美国市场发售，但在其他大多数市场已开始销售，价格从59欧元起。此举可能会影响大疆在全球市场的竞争力，尤其是在音频设备领域。",
-          "analysis_en": "DJI has recently launched its latest wireless microphone system, the Mic Mini 2. While it doesn't offer many upgrades over the original version released in November 2024, the new swappable magnetic cover system allows users to customize the appearance of the microphones. This innovation not only enhances the aesthetic appeal but may also attract more users to the product. Notably, the Mic Mini 2 will not be available in the U.S. market but has started selling in most other markets, with prices starting at €59. This move could impact DJI's competitiveness in the global market, especially in the audio equipment sector."
+          "published_utc": "2026-04-28 19:36 UTC",
+          "analysis_zh": "美国联邦通信委员会（FCC）要求迪士尼旗下的ABC电台提前申请广播许可证续期，此举与对迪士尼多样性、公平性和包容性政策的调查有关。此决定是在特朗普总统要求解雇深夜节目主持人吉米·基梅尔后的一天做出的，基梅尔在一段小品中称梅拉尼娅·特朗普为“即将成为寡妇”。这一事件引发了对迪士尼在媒体行业中的影响力和责任的广泛讨论，可能会对其未来的广播运营产生重要影响。",
+          "analysis_en": "The Federal Communications Commission (FCC) has ordered Disney's ABC stations to apply for an early license renewal, linked to an investigation into Disney's policies on diversity, equity, and inclusivity. This decision came just a day after President Trump called for the firing of late-night host Jimmy Kimmel, who referred to Melania Trump as an \"expectant widow\" in a skit. This incident has sparked widespread discussion about Disney's influence and responsibilities in the media industry, which could significantly impact its future broadcasting operations."
         }
       ]
     },
@@ -335,93 +326,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "‘Running Point’ Is ‘The Office’ Meets the Lakers",
-          "link": "https://www.nytimes.com/2026/04/28/arts/television/running-point-netflix.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-04-28 15:54 UTC",
-          "analysis_zh": "《奔跑的点》是一部由湖人队高管珍妮·巴斯制作的喜剧，灵感来源于她的生活。这部剧的第二季即将上线，而此时她和球队都正处于变动之中。这部剧不仅展示了湖人队的幕后故事，还反映了巴斯个人的挑战与成长。它的重要性在于揭示了体育界的复杂性以及个人与团队之间的关系，可能会影响观众对运动员和管理层的理解。",
-          "analysis_en": "\"Running Point\" is a comedy produced by Lakers executive Jeanie Buss, loosely based on her life. The second season is set to premiere while both she and the team are undergoing significant changes. The show not only highlights the behind-the-scenes dynamics of the Lakers but also reflects Buss's personal challenges and growth. Its significance lies in revealing the complexities of the sports world and the relationship between individuals and teams, which may influence viewers' perceptions of athletes and management."
+          "title": "New Jersey Father and Daughter Plead Guilty to $2 M. Counterfeit Art Scheme",
+          "link": "https://www.artnews.com/art-news/news/counterfeit-art-scheme-bankowski-guilty-plea-warhol-banksy-1234783008/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-04-28 21:19 UTC",
+          "analysis_zh": "新泽西州的一名父亲和女儿因参与价值200万美元的伪造艺术品计划而认罪。为了使这些作品看起来更具合法性，他们伪造了详细的所有权历史。这一事件引发了对艺术市场诚信的关注，尤其是在高价值艺术品交易中，伪造行为可能会对艺术品的真实价值和市场信任造成严重影响。",
+          "analysis_en": "A father and daughter from New Jersey pleaded guilty to a $2 million counterfeit art scheme. They fabricated detailed ownership histories to lend an air of legitimacy to the artworks. This incident raises concerns about the integrity of the art market, particularly in high-value transactions, as forgery can severely impact the true value of artworks and the trust within the market."
         },
         {
           "rank": 2,
-          "title": "folding PTFE facade to wrap OPEN’s ‘cube of change’ arts center in china",
-          "link": "https://www.designboom.com/architecture/open-cube-of-change-meitu-visual-arts-center-xiamen-china/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-04-28 15:30 UTC",
-          "analysis_zh": "OPEN建筑事务所设计的“变化立方体”艺术中心即将在中国沿海地区落成，外立面采用可折叠的PTFE材料，具有灵活性和变幻的光泽。这一设计不仅提升了建筑的美观性，还为艺术中心提供了适应不同环境和活动的能力。这样的创新设计将可能吸引更多的艺术活动和游客，推动当地文化和经济的发展。",
-          "analysis_en": "The \"Cube of Change\" arts center, designed by OPEN Architecture, is set to be completed in a coastal area of China, featuring a flexible facade made of foldable PTFE material that offers a luminous and transforming appearance. This design enhances the aesthetic appeal of the building while providing the center with the ability to adapt to various environments and activities. Such innovative architecture is likely to attract more artistic events and visitors, thereby promoting local cultural and economic development."
+          "title": "‘Dances With Wolves’ Actor Is Sentenced to Life in Prison",
+          "link": "https://www.nytimes.com/2026/04/28/movies/nathan-chasing-horse-dances-with-wolves-sentenced.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-04-28 21:13 UTC",
+          "analysis_zh": "演员内森·追马因性侵女性和女孩以及持有儿童性虐待影像等罪名被判终身监禁。这一判决引发了广泛关注，反映了社会对性犯罪的零容忍态度。此案的结果不仅为受害者提供了一定的正义，也可能影响未来对类似案件的处理方式，促使更多人站出来揭发性犯罪行为。",
+          "analysis_en": "Actor Nathan Chasing Horse has been sentenced to life in prison for charges including the sexual assault of women and girls, as well as possession of child sexual abuse imagery. This verdict has garnered significant attention, highlighting society's zero-tolerance stance on sexual crimes. The outcome of this case not only provides a sense of justice for the victims but may also influence how similar cases are handled in the future, encouraging more individuals to come forward and report sexual offenses."
         },
         {
           "rank": 3,
-          "title": "She’s Blazing a Trail for a Traditional Korean Zither in Jazz",
-          "link": "https://www.nytimes.com/2026/04/28/arts/music/doyeon-kim-wellspring-gayageum.html",
+          "title": "FCC Orders a Review of ABC’s Licenses Amid Feud Between Trump and Kimmel",
+          "link": "https://www.nytimes.com/2026/04/28/business/media/fcc-abc-television-kimmel.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-04-28 15:22 UTC",
-          "analysis_zh": "出生于首尔的伽倻琴演奏家金多妍，近年来在即兴音乐领域崭露头角，成为众多创新音乐家的热门合作伙伴。她将传统的韩国乐器与现代爵士乐相结合，开创了一种新的音乐风格，这不仅丰富了爵士乐的表现形式，也为传统音乐的传播提供了新的可能性。这一现象表明，跨文化的音乐合作正在改变音乐界的格局，可能会激励更多艺术家探索和融合不同的音乐传统。",
-          "analysis_en": "DoYeon Kim, a gayageum player born in Seoul, has recently emerged as a sought-after collaborator among leading innovators in improvised music. By blending the traditional Korean instrument with modern jazz, she has created a new musical style that not only enriches the jazz genre but also offers fresh avenues for the dissemination of traditional music. This trend highlights how cross-cultural musical collaborations are reshaping the music landscape and may inspire more artists to explore and fuse different musical traditions."
+          "published_utc": "2026-04-28 21:12 UTC",
+          "analysis_zh": "美国联邦通信委员会（FCC）决定对ABC电视台的广播许可证进行审查，这一决定与该网络的多样性和包容性政策有关。此时正值特朗普总统与深夜节目主持人吉米·基梅尔之间的争斗加剧。这一审查可能会对ABC的节目内容和未来的运营产生重大影响，尤其是在政治和社会议题上。此举引发了人们对媒体自由和政府干预之间界限的关注。",
+          "analysis_en": "The Federal Communications Commission (FCC) has decided to review ABC's broadcasting licenses, citing concerns related to the network's diversity and inclusion policies. This decision comes amid an escalating feud between President Trump and late-night host Jimmy Kimmel. The review could significantly impact ABC's programming and operations, particularly regarding political and social issues. This move raises concerns about the boundaries between media freedom and government intervention."
         },
         {
           "rank": 4,
-          "title": "In Replaced, a Sentient A.I. Learns Its Limits",
-          "link": "https://www.nytimes.com/2026/04/28/arts/replaced-review.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-04-28 14:21 UTC",
-          "analysis_zh": "在新游戏《Replaced》中，玩家将体验到一个具有人格的人工智能如何逐渐认识到自身的局限性。这款游戏以复古风格为基础，结合了现代技术，给人一种怀旧而又新颖的感觉。这一作品不仅吸引了老玩家的注意，也引发了对人工智能在艺术创作中角色的讨论。随着技术的发展，游戏和艺术的界限可能会变得更加模糊，未来的创作将面临更多的伦理和审美挑战。",
-          "analysis_en": "In the new game \"Replaced,\" players experience a sentient AI coming to terms with its own limitations. The game blends retro aesthetics with modern technology, creating a nostalgic yet fresh experience. This title not only captures the attention of long-time gamers but also sparks discussions about the role of AI in artistic creation. As technology evolves, the boundaries between gaming and art may blur further, leading to more ethical and aesthetic challenges in future creations."
+          "title": "Judge Orders Prado to Hold Disputed Velázquez Painting in Divorce Case",
+          "link": "https://www.artnews.com/art-news/news/prado-to-hold-disputed-velazquez-in-divorce-case-1234782830/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-04-28 21:00 UTC",
+          "analysis_zh": "近日，西班牙法院裁定，普拉多博物馆需暂时保留一幅有争议的委拉斯凯兹画作，直到离婚案件的所有权问题得到解决。这幅画作于3月17日从Aristrain的马德里住所被移除，并转移至博物馆的储藏室。这一事件引发了对艺术品所有权的广泛关注，尤其是在离婚和财产分割的背景下。此案可能会影响未来艺术品在类似法律纠纷中的处理方式。",
+          "analysis_en": "Recently, a Spanish court ordered the Prado Museum to temporarily hold a disputed Velázquez painting until the ownership issue is resolved in a divorce case. The artwork was removed from Aristrain's residence in Madrid and transferred to the museum's storage on March 17. This incident has sparked widespread interest in the ownership of artworks, particularly in the context of divorce and asset division. The case may influence how similar legal disputes involving artworks are handled in the future."
         },
         {
           "rank": 5,
-          "title": "Courtney Washington: A New Stage but the Same Fearlessness",
-          "link": "https://www.nytimes.com/2026/04/27/arts/dance/courtney-washington-ballroom-juicy-couture-parsons.html",
+          "title": "6 Takeaways from The Times’s Interview with Taylor Swift",
+          "link": "https://www.nytimes.com/2026/04/28/arts/music/taylor-swift-interview-takeaways.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-04-28 13:54 UTC",
-          "analysis_zh": "科特尼·华盛顿在街舞比赛和社交舞蹈界崭露头角，如今她正在为帕森斯舞蹈团创作新作品。这一转变不仅展示了她在舞蹈领域的多样性，也反映了她在艺术创作中的无畏精神。华盛顿的作品可能会影响年轻舞者的创作风格，并激励他们探索不同的舞蹈形式。",
-          "analysis_en": "Courtney Washington has made a name for herself in street dance competitions and the ballroom scene, and now she is creating a new work for Parsons Dance. This transition highlights her versatility in the dance world and reflects her fearless approach to artistic creation. Washington's work may influence the creative styles of young dancers and inspire them to explore different forms of dance."
+          "published_utc": "2026-04-28 20:47 UTC",
+          "analysis_zh": "泰勒·斯威夫特在《纽约时报》的采访中谈到了她的自白式创作风格，以及一些热门歌曲背后的灵感来源。她还提到了一些她无法忍受的写作习惯。这次采访不仅让粉丝更深入地了解她的创作过程，也突显了她在音乐界的影响力。斯威夫特的分享可能会激励更多的艺术家探索个人经历在创作中的重要性。",
+          "analysis_en": "Taylor Swift discussed her confessional songwriting style and the inspiration behind some of her biggest hits in an interview with The New York Times. She also mentioned certain writing quirks that she finds intolerable. This interview provides fans with deeper insights into her creative process and highlights her influence in the music industry. Swift's reflections may inspire more artists to explore the significance of personal experiences in their work."
         },
         {
           "rank": 6,
-          "title": "George Clooney Calls for Unity After White House Correspondents’ Dinner Shooting",
-          "link": "https://www.nytimes.com/2026/04/28/style/george-clooney-white-house-dinner-trump-shooting.html",
+          "title": "Kennedy Center Works to Make the Case That Repairs Are Urgent",
+          "link": "https://www.nytimes.com/2026/04/28/arts/kennedy-center-closure-trump.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-04-28 13:53 UTC",
-          "analysis_zh": "乔治·克鲁尼在林肯中心的查普林奖晚会上呼吁团结，针对最近白宫记者晚宴上的枪击事件发表了讲话。他谴责了政治暴力，特别是在特朗普总统遭遇刺杀未遂之后。这一事件引发了对美国政治环境的广泛关注，凸显了暴力行为对社会和民主的威胁。克鲁尼的呼吁可能会激励更多人关注政治对话和团结的重要性。",
-          "analysis_en": "George Clooney spoke at the Chaplin Award Gala at Lincoln Center, calling for unity in response to the recent shooting at the White House Correspondents’ Dinner. He condemned political violence, especially following the attempted assassination of President Trump. This incident has raised significant concerns about the political climate in the U.S., highlighting the threats that violent actions pose to society and democracy. Clooney's appeal may inspire more people to focus on the importance of political dialogue and unity."
+          "published_utc": "2026-04-28 20:42 UTC",
+          "analysis_zh": "肯尼迪中心正在华盛顿和联邦法院中辩称，其计划中的为期两年的闭馆修缮是至关重要的。该中心的管理层认为，修缮工作可以提升设施的安全性和吸引力。然而，批评者指出，这一决定反映了观众人数下降和艺术家流失的问题。这一情况不仅影响了中心的声誉，也可能对整个艺术界的生态产生深远的影响。",
+          "analysis_en": "The Kennedy Center is arguing in Washington and federal court that its planned two-year closure for repairs is essential. The management believes that the renovations will enhance the safety and appeal of the facility. However, critics claim that this decision highlights issues of declining attendance and artists leaving the venue. This situation not only affects the center's reputation but may also have significant repercussions for the broader arts community."
         },
         {
           "rank": 7,
-          "title": "floating ring installation by broissin architects releases a continuous cascade of water",
-          "link": "https://www.designboom.com/architecture/floating-ring-installation-broissin-architects-continuous-cascade-water/",
+          "title": "bad posture becomes design logic in mara bragagnolo’s birch plywood chair collection",
+          "link": "https://www.designboom.com/design/bad-posture-design-logic-mara-bragagnolo-birch-plywood-chair-collection/",
           "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-04-28 13:30 UTC",
-          "analysis_zh": "由Broissin建筑事务所设计的浮动环装置在室内释放出连续的瀑布，改变了空间的声学效果和视觉感知。这一创新设计不仅为室内环境增添了独特的美感，还可能影响人们对空间的体验和使用方式。随着这种装置的推广，未来的建筑设计可能会更加注重自然元素的融入，从而提升人们的生活质量。",
-          "analysis_en": "The floating ring installation designed by Broissin Architects releases a continuous indoor waterfall, altering both the acoustics and visual perception of the space. This innovative design not only adds a unique aesthetic to the interior but may also influence how people experience and utilize the space. As such installations gain popularity, future architectural designs may increasingly focus on integrating natural elements, enhancing the quality of life for occupants."
+          "published_utc": "2026-04-28 20:00 UTC",
+          "analysis_zh": "玛拉·布拉加尼奥（Mara Bragagnolo）设计的桦木椅子系列采用了符合真实坐姿习惯的设计理念，允许交叉腿、非对称和放松的坐姿，而不是强制要求单一的“正确”坐姿。这一设计理念反映了对人类自然行为的尊重，强调舒适性和个性化。这样的变化可能会影响家具设计的未来方向，促使更多设计师关注用户的实际需求，而不仅仅是传统的美学标准。",
+          "analysis_en": "Mara Bragagnolo's birch plywood chair collection is designed around real sitting habits, accommodating cross-legged, asymmetrical, and relaxed postures instead of enforcing a single \"correct\" way of sitting. This design philosophy respects natural human behavior and emphasizes comfort and personalization. Such a shift may influence the future direction of furniture design, encouraging more designers to focus on the actual needs of users rather than just adhering to traditional aesthetic standards."
         },
         {
           "rank": 8,
-          "title": "Nedra Talley Ross, Last Surviving Member of the Ronettes, Dies at 80",
-          "link": "https://www.nytimes.com/2026/04/27/arts/music/nedra-talley-ross-dead.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-04-28 13:30 UTC",
-          "analysis_zh": "内德拉·塔利·罗斯，罗内特乐队最后一位幸存成员，享年80岁。她与表姐妹罗尼和埃斯特尔一起，以高耸的发型和完美的和声，为女孩组合的音乐带来了新鲜的风格，创作了《Be My Baby》等经典歌曲。她的去世标志着一个时代的结束，这不仅让乐迷感到惋惜，也使得对这一音乐风格的回忆更加珍贵。罗斯的影响力将继续激励后来的音乐家，尤其是在女性音乐人中。",
-          "analysis_en": "Nedra Talley Ross, the last surviving member of the Ronettes, has passed away at the age of 80. Along with her cousins Ronnie and Estelle, she brought a fresh edge to the girl-group sound with their towering hairstyles and perfect harmonies, creating classic hits like \"Be My Baby.\" Her death marks the end of an era, evoking a sense of loss among fans and making the memories of this musical style even more precious. Ross's influence will continue to inspire future musicians, particularly among female artists."
+          "title": "What Does Damien Hirst Have to Do With This Giant McDonald’s Ball Pit in Milan?",
+          "link": "https://www.artnews.com/art-news/news/what-does-damien-hirst-have-to-do-with-this-mcdonalds-ball-pit-milan-design-week-1234782969/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-04-28 19:43 UTC",
+          "analysis_zh": "在米兰设计周上，为庆祝麦当劳在意大利成立40周年，展出了一个巨大的球池。策展人尼古拉斯·巴拉里奥表示，这个球池与著名艺术家达米恩·赫斯特并没有直接关系。此次展览引发了人们对快餐文化与艺术之间关系的思考，尤其是在当代艺术日益商业化的背景下。这种跨界合作可能会影响未来艺术展览的形式和内容，吸引更多年轻观众的关注。",
+          "analysis_en": "During Milan Design Week, a giant ball pit was showcased to celebrate McDonald's 40th anniversary in Italy. Curator Nicolas Ballario stated that the ball pit has no direct connection to the renowned artist Damien Hirst. This exhibition prompts reflections on the relationship between fast food culture and art, particularly against the backdrop of increasing commercialization in contemporary art. Such cross-disciplinary collaborations may influence the format and content of future art exhibitions, potentially drawing more attention from younger audiences."
         },
         {
           "rank": 9,
-          "title": "Geirr Tveitt’s Music Captured Norway’s Colors. His Life Reflected Its Shadows.",
-          "link": "https://www.nytimes.com/2026/04/28/arts/music/geirr-tveitt-leif-ove-andsnes-norway.html",
+          "title": "What to Know About the Kimmel vs. Trump Feud",
+          "link": "https://www.nytimes.com/2026/04/28/arts/television/jimmy-kimmel-donald-trump-feud.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-04-28 13:22 UTC",
-          "analysis_zh": "挪威作曲家盖尔·特维特的音乐因其民族主义政治而受到影响，但如今新一代音乐家正在将他的作品带向国际舞台。这一转变不仅有助于恢复特维特的艺术声誉，也让更多人了解挪威丰富的文化遗产。特维特的音乐色彩斑斓，反映了挪威的自然美景，而他的生活经历则揭示了更复杂的历史背景。这种重新审视他的作品可能会影响当代音乐界对民族主义与艺术之间关系的看法。",
-          "analysis_en": "Norwegian composer Geirr Tveitt's music was affected by his nationalist politics, but a new generation of musicians is now bringing his works to an international audience. This shift not only helps restore Tveitt's artistic reputation but also allows more people to appreciate Norway's rich cultural heritage. His music is vibrant and reflects the natural beauty of Norway, while his life experiences reveal a more complex historical context. This reevaluation of his works may influence contemporary discussions on the relationship between nationalism and art."
+          "published_utc": "2026-04-28 19:05 UTC",
+          "analysis_zh": "吉米·基梅尔与特朗普之间的争执引发了广泛关注。特朗普及其夫人对基梅尔的一则玩笑表示不满，而基梅尔则为自己的言论辩护。这场争吵不仅反映了政治与娱乐界的紧张关系，也引发了公众对言论自由的讨论。这样的事件可能会影响公众对喜剧和政治评论的接受度，尤其是在当前的社会氛围中。",
+          "analysis_en": "The feud between Jimmy Kimmel and Donald Trump has garnered significant attention. Trump and the First Lady took issue with a joke made by Kimmel, who defended his remarks. This conflict highlights the tension between politics and the entertainment industry and has sparked public discourse on freedom of speech. Such incidents may influence how audiences perceive comedy and political commentary, especially in the current social climate."
         },
         {
           "rank": 10,
-          "title": "Reloaded ceramic surfaces by Diesel and Iris Ceramica",
-          "link": "https://www.dezeen.com/2026/04/28/reloaded-ceramic-surfaces-iris-ceramica-dezeen-showroom/",
-          "source": "Dezeen",
-          "published_utc": "2026-04-28 13:00 UTC",
-          "analysis_zh": "意大利瓷砖制造商Iris Ceramica与服装品牌Diesel再次合作，推出了名为“Reloaded”的新陶瓷表面。这一合作结合了Diesel品牌的流行和时尚影响，展现了工艺与年轻创意的融合。此次项目由Diesel创意总监Glenn Martens监督，标志着两者在设计领域的进一步探索，对陶瓷表面的美学和功能性可能产生深远影响。",
-          "analysis_en": "Italian tile manufacturer Iris Ceramica has partnered once again with clothing brand Diesel to launch a new ceramic surface called \"Reloaded.\" This collaboration blends the pop and fashion influences of the Diesel brand, showcasing a fusion of craftsmanship and youthful creativity. Supervised by Diesel's creative director Glenn Martens, this project signifies a deeper exploration in design, which could have a significant impact on the aesthetics and functionality of ceramic surfaces."
+          "title": "‘Flower Drum Song,’ Once Overhauled, Returns Changed Again",
+          "link": "https://www.nytimes.com/2026/04/28/theater/flower-drum-song-david-henry-hwang.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-04-28 19:01 UTC",
+          "analysis_zh": "《花鼓歌》经历了25年前大改编后再次回归，这次的修订由大卫·亨利·黄负责。此次修订旨在纠正他当初改编时留下的一些不足之处。这一变化不仅为经典作品注入了新的活力，也引发了人们对文化表现和艺术传承的思考。随着这部作品的重新上演，观众将有机会重新审视其在当代社会中的意义。",
+          "analysis_en": "\"Flower Drum Song\" returns once again after being overhauled 25 years ago, with David Henry Hwang taking the lead on this revision. This new adaptation aims to address some of the flaws left in his original remake. The changes not only breathe new life into this classic work but also spark discussions about cultural representation and artistic legacy. With the revival, audiences will have the chance to reassess its significance in today's society."
         }
       ]
     }
