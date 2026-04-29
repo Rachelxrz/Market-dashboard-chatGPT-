@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-29 15:57:59 UTC",
-  "generated_at_unix": 1777478279,
+  "generated_at": "2026-04-29 21:41:24 UTC",
+  "generated_at_unix": 1777498884,
   "window": {
-    "from_utc": "2026-04-28 15:57:59 UTC",
-    "to_utc": "2026-04-29 15:57:59 UTC",
+    "from_utc": "2026-04-28 21:41:24 UTC",
+    "to_utc": "2026-04-29 21:41:24 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,144 +14,135 @@
       "items": [
         {
           "rank": 1,
-          "title": "Chipotle to report Q1 earnings as it tries to lure back customers with high-protein menu",
-          "link": "https://finance.yahoo.com/news/chipotle-to-report-q1-earnings-as-it-tries-to-lure-back-customers-with-high-protein-menu-155336713.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-04-29 15:53 UTC",
-          "analysis_zh": "Chipotle即将发布第一季度的财报，旨在通过推出高蛋白菜单来吸引回流失的顾客。这一举措反映了公司在面对竞争加剧和消费者偏好变化时的应对策略。高蛋白饮食的趋势在市场上越来越受欢迎，Chipotle希望借此机会提升销售和顾客忠诚度。财报的结果将对公司的未来发展和投资者信心产生重要影响。",
-          "analysis_en": "Chipotle is set to report its Q1 earnings as it attempts to attract back lost customers with a new high-protein menu. This initiative reflects the company's strategy to respond to increasing competition and changing consumer preferences. The trend towards high-protein diets is gaining popularity, and Chipotle hopes to leverage this to boost sales and customer loyalty. The results of the earnings report will significantly impact the company's future growth and investor confidence."
+          "title": "Chipotle posts surprise same-store sales growth in early sign chain could be breaking its slump",
+          "link": "https://www.cnbc.com/2026/04/29/chipotle-mexican-grill-cmg-q1-2026-earnings.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-04-29 21:40 UTC",
+          "analysis_zh": "Chipotle最近发布了意外的同店销售增长数据，显示出该连锁餐厅可能正在走出持续的低迷状态。尽管过去一年其股价下跌了35%，这一增长迹象对于投资者来说是一个积极的信号，可能会吸引更多的投资和关注。随着消费者对其产品的需求回暖，Chipotle有望改善财务状况，进而推动整体市场信心。",
+          "analysis_en": "Chipotle recently reported unexpected same-store sales growth, indicating that the chain may be emerging from a prolonged slump. Despite a 35% drop in its stock price over the past year, this growth signal is a positive development for investors and may attract more investment and attention. As consumer demand for its products rebounds, Chipotle is likely to improve its financial situation, which could boost overall market confidence."
         },
         {
           "rank": 2,
-          "title": "Gas prices jump to highest level since July 2022 as oil hovers near $110",
-          "link": "https://finance.yahoo.com/personal-finance/article/gas-prices-jump-to-highest-level-since-july-2022-as-oil-hovers-near-110-154947778.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-04-29 15:49 UTC",
-          "analysis_zh": "近期，油价接近每桶110美元，导致汽油价格飙升至2022年7月以来的最高水平。这一变化对消费者的日常生活产生了直接影响，尤其是在通货膨胀压力加大的背景下，家庭的出行成本将进一步上升。此外，油价的上涨可能会影响整体经济复苏，增加运输和生产成本，从而对商品价格产生连锁反应。",
-          "analysis_en": "Recently, oil prices have approached $110 per barrel, causing gas prices to surge to their highest level since July 2022. This increase directly impacts consumers, as rising costs for travel will add to the financial strain already felt due to inflation. Furthermore, the rise in oil prices could hinder overall economic recovery by increasing transportation and production costs, leading to a ripple effect on the prices of goods."
+          "title": "$1.5 Billion Agreement Signed By Argentum AI To Provide Large-Scale GPU Cloud Capacity",
+          "link": "https://www.investing.com/news/cryptocurrency-news/15-billion-agreement-signed-by-argentum-ai-to-provide-largescale-gpu-cloud-capacity-4647152",
+          "source": "Cryptocurrency News",
+          "published_utc": "2026-04-29 21:30 UTC",
+          "analysis_zh": "Argentum AI 最近签署了一项价值15亿美元的协议，旨在提供大规模的GPU云计算能力。这一举措将显著推动人工智能和加密货币领域的技术发展。随着对计算能力需求的增加，这项投资可能会吸引更多企业和开发者参与相关项目，从而加速行业的创新和竞争。",
+          "analysis_en": "Argentum AI has recently signed a $1.5 billion agreement to provide large-scale GPU cloud capacity. This initiative is expected to significantly advance technology in the fields of artificial intelligence and cryptocurrency. As the demand for computing power grows, this investment may attract more businesses and developers to engage in related projects, thereby accelerating innovation and competition within the industry."
         },
         {
           "rank": 3,
-          "title": "US extends deadline on talks over Lukoil assets to May 30",
-          "link": "https://www.investing.com/news/stock-market-news/us-extends-deadline-on-talks-over-lukoil-assets-to-may-30-4646034",
+          "title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.26%",
+          "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-026-4647150",
           "source": "Stock Market News",
-          "published_utc": "2026-04-29 15:48 UTC",
-          "analysis_zh": "美国政府将与俄罗斯石油公司卢克石油（Lukoil）有关资产的谈判截止日期延长至5月30日。这一决定表明，美国在处理与俄罗斯的经济关系时采取了更加谨慎的态度。此举可能会影响国际投资者对俄罗斯市场的信心，并在一定程度上影响全球能源市场的动态。",
-          "analysis_en": "The U.S. government has extended the deadline for negotiations regarding Lukoil's assets to May 30. This decision indicates a more cautious approach by the U.S. in handling its economic relations with Russia. This move may affect international investors' confidence in the Russian market and could also influence the dynamics of the global energy market."
+          "published_utc": "2026-04-29 21:30 UTC",
+          "analysis_zh": "墨西哥股市在交易结束时出现下跌，S&P/BMV IPC指数下跌了0.26%。这一走势反映了市场对经济前景的不确定性，投资者可能对即将发布的经济数据持谨慎态度。股市的波动可能会影响投资者的信心，进而影响未来的投资决策。",
+          "analysis_en": "Mexican stocks closed lower, with the S&P/BMV IPC index down by 0.26%. This decline reflects market uncertainty regarding the economic outlook, as investors may be cautious ahead of upcoming economic data releases. The fluctuations in the stock market could impact investor confidence, which in turn may affect future investment decisions."
         },
         {
           "rank": 4,
-          "title": "Micron’s stock is gaining. Here’s why the semiconductor trade has sprung back to life.",
-          "link": "https://www.marketwatch.com/story/microns-stock-is-gaining-heres-why-the-semiconductor-trade-has-sprung-back-to-life-fab513a8?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-04-29 15:48 UTC",
-          "analysis_zh": "美光公司的股票正在上涨，这主要得益于西部数据和恩智浦的强劲业绩。这些积极的财报提升了市场对半导体行业的信心，表明该行业正在复苏。这一趋势不仅对投资者信心至关重要，还可能影响整个科技行业的投资流向，进一步推动相关公司的发展。",
-          "analysis_en": "Micron's stock is on the rise, largely due to strong performances from Seagate and NXP. These positive earnings reports have boosted market confidence in the semiconductor sector, indicating a revival in the industry. This trend is crucial for investor sentiment and may influence the flow of investments across the tech sector, potentially driving growth for related companies."
+          "title": "Fed holds interest rates steady: Here's what that means for credit cards, mortgages, car loans and savings rates",
+          "link": "https://www.cnbc.com/2026/04/29/fed-interest-rates-april.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-04-29 21:29 UTC",
+          "analysis_zh": "美联储决定保持利率不变，这一决定对消费者的信贷卡、抵押贷款、汽车贷款和储蓄利率等方面将产生重要影响。保持利率稳定意味着借款成本不会增加，这对希望购房或购车的消费者来说是个好消息。同时，储蓄账户的利率也可能不会有显著变化，这可能会影响人们的储蓄意愿。整体而言，这一政策将对经济复苏和消费者信心产生深远影响。",
+          "analysis_en": "The Federal Reserve has decided to keep interest rates steady, which will significantly impact consumers regarding credit cards, mortgages, auto loans, and savings rates. Maintaining stable rates means borrowing costs will not rise, which is good news for those looking to buy homes or cars. At the same time, savings account rates may not see substantial changes, potentially affecting people's willingness to save. Overall, this policy will have far-reaching effects on economic recovery and consumer confidence."
         },
         {
           "rank": 5,
-          "title": "Etsy shares pop on Q1 results, improved outlook",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/etsy-shares-pop-q1-results-154600406.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-04-29 15:46 UTC",
-          "analysis_zh": "Etsy发布了第一季度的财报，股价因此上涨。公司在报告中显示出强劲的业绩和对未来的乐观展望，这对投资者来说是一个积极的信号。Etsy的成功不仅反映了其在电子商务领域的持续增长，也可能影响到其他类似平台的市场表现。随着消费者对在线购物的需求增加，Etsy的表现可能会激励更多投资者关注这一领域。",
-          "analysis_en": "Etsy's stock surged following the release of its Q1 earnings report. The company demonstrated strong performance and an optimistic outlook for the future, which serves as a positive signal for investors. Etsy's success not only highlights its ongoing growth in the e-commerce sector but may also impact the market performance of similar platforms. As consumer demand for online shopping continues to rise, Etsy's results could encourage more investors to focus on this sector."
+          "title": "Amazon stock dips even as earnings beat expectations with strong cloud growth",
+          "link": "https://www.cnbc.com/2026/04/29/amazon-amzn-q1-earnings-report-2026.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-04-29 21:28 UTC",
+          "analysis_zh": "亚马逊的股价在财报发布后出现下跌，尽管其云计算部门的收入同比增长了28%，超出分析师的预期。这一增长表明亚马逊在云服务市场的竞争力依然强劲，但股价下跌可能反映出投资者对整体经济形势的担忧或对未来增长的谨慎态度。这一情况可能会影响市场对亚马逊的长期投资信心，并引发对其他科技公司的股价波动。",
+          "analysis_en": "Amazon's stock dipped following the release of its earnings report, despite its cloud computing segment showing a 28% year-over-year revenue growth that surpassed analysts' expectations. This growth indicates Amazon's strong position in the cloud services market, but the stock decline may reflect investor concerns about the broader economic situation or caution regarding future growth. This situation could impact market confidence in Amazon's long-term investments and trigger fluctuations in the stock prices of other tech companies."
         },
         {
           "rank": 6,
-          "title": "Oil prices rebound to highest in weeks with Trump reportedly preparing to extend Iran blockade",
-          "link": "https://www.cnbc.com/2026/04/29/oil-prices-brent-wti-trump-iran.html",
+          "title": "Warsh hints at a new reading of the Fed's power over swap lines amid UAE discussion",
+          "link": "https://www.cnbc.com/2026/04/29/fed-warsh-bessent-uae-swap-lines.html",
           "source": "US Top News and Analysis",
-          "published_utc": "2026-04-29 15:43 UTC",
-          "analysis_zh": "近期油价上涨至数周以来的最高水平，原因是有报道称美国计划延长对伊朗港口的封锁。这一举措可能会对全球石油供应产生影响，进而影响油价的波动。延长封锁可能导致市场对伊朗石油的供应预期下降，从而推高油价。这一变化不仅影响能源市场，还可能对全球经济复苏产生连锁反应。",
-          "analysis_en": "Recently, oil prices have risen to their highest levels in weeks due to reports that the U.S. plans to extend its blockade of Iranian ports. This move could impact global oil supply and, consequently, oil price fluctuations. Extending the blockade may lead to decreased market expectations for Iranian oil supply, driving prices higher. This change not only affects the energy market but could also have ripple effects on the global economic recovery."
+          "published_utc": "2026-04-29 21:26 UTC",
+          "analysis_zh": "美联储主席提名人凯文·沃什在参议院银行委员会的听证会上表示，美联储在国际金融事务中并不完全独立，尤其是在与阿联酋的讨论中提到的掉期额度问题。这一表态引发了对美联储权力边界的重新审视，可能会影响市场对美联储在全球金融体系中的角色的看法。此举不仅关系到美国的货币政策，还可能对国际金融合作和外汇市场的稳定性产生深远影响。",
+          "analysis_en": "Federal Reserve chair nominee Kevin Warsh stated during his Senate Banking Committee hearing that the Fed is not fully independent in matters of international finance, particularly regarding swap lines in discussions with the UAE. This remark has prompted a reevaluation of the boundaries of the Fed's authority, which could influence market perceptions of the Fed's role in the global financial system. This development not only pertains to U.S. monetary policy but may also have significant implications for international financial cooperation and the stability of foreign exchange markets."
         },
         {
           "rank": 7,
-          "title": "AbbVie tops quarterly expectations as newer immunology drugs offset Humira decline",
-          "link": "https://www.investing.com/news/stock-market-news/abbvie-tops-quarterly-expectations-as-newer-immunology-drugs-offset-humira-decline-4644659",
-          "source": "Stock Market News",
-          "published_utc": "2026-04-29 15:43 UTC",
-          "analysis_zh": "艾伯维（AbbVie）在最新的季度财报中超出了市场预期，主要得益于其新推出的免疫学药物弥补了对传统药物Humira的销售下滑。这一表现表明公司在创新药物研发方面取得了积极进展，能够有效应对市场竞争。随着新药的上市，艾伯维的未来增长潜力将得到进一步提升，可能会吸引更多投资者的关注。",
-          "analysis_en": "AbbVie exceeded quarterly expectations in its latest earnings report, primarily due to its newer immunology drugs compensating for the decline in sales of its traditional drug, Humira. This performance indicates that the company is making positive strides in the development of innovative medications, effectively addressing market competition. With the introduction of new drugs, AbbVie's future growth potential is likely to increase, which may attract more investor interest."
+          "title": "More diners are eating at Chipotle despite higher prices, bucking Wall Street’s concerns about restaurants",
+          "link": "https://www.marketwatch.com/story/more-diners-are-eating-at-chipotle-despite-higher-prices-bucking-wall-streets-concerns-about-restaurants-7d221685?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-04-29 21:26 UTC",
+          "analysis_zh": "尽管价格上涨，越来越多的顾客选择在Chipotle用餐，这让华尔街对餐饮行业的担忧有所缓解。Chipotle在第一季度意外实现了同店销售增长，导致其股价在周三盘后上涨了6.2%。这一现象表明，消费者对Chipotle的品牌忠诚度依然强劲，可能会影响其他餐饮企业的市场策略和定价决策。",
+          "analysis_en": "Despite rising prices, more diners are choosing to eat at Chipotle, easing Wall Street's concerns about the restaurant industry. The company unexpectedly reported a same-store sales increase for the first quarter, resulting in a 6.2% rise in its stock price after hours on Wednesday. This trend suggests that consumer loyalty to the Chipotle brand remains strong, which may influence the market strategies and pricing decisions of other restaurant businesses."
         },
         {
           "rank": 8,
-          "title": "H2O America Q1 Earnings Call Highlights",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/h2o-america-q1-earnings-call-154323173.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-04-29 15:43 UTC",
-          "analysis_zh": "H2O America最近发布了第一季度的财报电话会议要点，显示出公司在市场中的表现和未来的展望。此次财报的重要性在于它提供了投资者对公司财务健康状况的深入了解，并可能影响投资者的决策。随着公司在技术和服务上的不断创新，未来的业绩表现可能会吸引更多的投资者关注。",
-          "analysis_en": "H2O America recently held a conference call to discuss the highlights of its first-quarter earnings report, revealing the company's performance and future outlook. This earnings report is significant as it provides investors with a deeper understanding of the company's financial health, which may influence their investment decisions. With the company's ongoing innovations in technology and services, its future performance could attract more investor interest."
+          "title": "Colombia stocks lower at close of trade; COLCAP down 1.03%",
+          "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-103-4647142",
+          "source": "Stock Market News",
+          "published_utc": "2026-04-29 21:25 UTC",
+          "analysis_zh": "哥伦比亚股市在交易结束时出现下跌，COLCAP指数下跌了1.03%。这一下跌反映了市场对经济前景的不确定性，投资者情绪受到影响。股市的波动可能会影响到投资者的信心，并导致资金流出，进而影响到国家的经济增长。",
+          "analysis_en": "Colombia's stock market closed lower, with the COLCAP index down by 1.03%. This decline reflects uncertainty in the market regarding the economic outlook, which has affected investor sentiment. The fluctuations in the stock market may impact investor confidence and lead to capital outflows, potentially affecting the country's economic growth."
         },
         {
           "rank": 9,
-          "title": "Oil rises, stocks dip with Iran, earnings and Fed in focus",
-          "link": "https://www.investing.com/news/stock-market-news/stocks-retreat-on-iran-ai-concerns-as-fed-meeting-looms-4643470",
-          "source": "Stock Market News",
-          "published_utc": "2026-04-29 15:43 UTC",
-          "analysis_zh": "近期，油价上涨，而股市则出现下跌，市场的关注点集中在伊朗局势、企业盈利和美联储的动向上。这一变化反映了投资者对地缘政治风险的担忧，以及对经济前景的不确定性。油价的上涨可能会导致通货膨胀加剧，从而影响消费者支出和企业利润，进而对股市产生进一步的压力。",
-          "analysis_en": "Recently, oil prices have risen while the stock market has dipped, with investors focusing on the situation in Iran, corporate earnings, and the Federal Reserve's actions. This shift reflects concerns about geopolitical risks and uncertainty regarding economic prospects. The rise in oil prices could lead to increased inflation, which may affect consumer spending and corporate profits, putting further pressure on the stock market."
+          "title": "Microsoft beats on top and bottom lines with 40% Azure growth",
+          "link": "https://www.cnbc.com/2026/04/29/microsoft-msft-q3-earnings-report-2026.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-04-29 21:24 UTC",
+          "analysis_zh": "微软的Azure云服务在最新财报中表现超出预期，增长率达到40%。与此同时，企业对Copilot人工智能助手的采用也在不断增加。这一增长表明微软在云计算和人工智能领域的竞争力不断增强，可能会吸引更多企业客户，从而进一步推动其收入增长。然而，资本支出未能达到预期，这可能会影响微软未来的投资策略。",
+          "analysis_en": "Microsoft's Azure cloud service exceeded expectations in its latest earnings report, achieving a growth rate of 40%. At the same time, corporate adoption of the Copilot artificial intelligence assistant is also on the rise. This growth indicates that Microsoft is strengthening its competitiveness in the cloud computing and AI sectors, potentially attracting more enterprise customers and further boosting its revenue. However, capital expenditures fell short of expectations, which may impact Microsoft's future investment strategies."
         },
         {
           "rank": 10,
-          "title": "Alphabet investors push for safeguards on use of its cloud, AI tech",
-          "link": "https://www.investing.com/news/stock-market-news/alphabet-investors-push-for-safeguards-on-use-of-its-cloud-ai-tech-4645922",
-          "source": "Stock Market News",
-          "published_utc": "2026-04-29 15:37 UTC",
-          "analysis_zh": "最近，Alphabet公司的投资者呼吁对其云计算和人工智能技术的使用进行更严格的监管。这一举措反映了投资者对公司在快速发展的科技领域中可能面临的风险的担忧。加强监管不仅可以保护投资者的利益，还可能影响Alphabet在市场上的竞争力和创新能力。随着科技行业的不断演变，如何平衡创新与风险管理将成为关键议题。",
-          "analysis_en": "Recently, investors in Alphabet have called for stricter regulations on the use of its cloud and AI technologies. This move reflects their concerns about the potential risks the company may face in the rapidly evolving tech landscape. Enhanced regulations could not only protect investors' interests but also impact Alphabet's competitiveness and innovation in the market. As the tech industry continues to evolve, finding a balance between innovation and risk management will be a crucial topic."
+          "title": "Stock investors fared very well under Powell. Bond investors, not so much",
+          "link": "https://www.cnbc.com/2026/04/29/stock-investors-fared-very-well-under-powell-bond-investors-not-so-much.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-04-29 21:22 UTC",
+          "analysis_zh": "在鲍威尔的领导下，股票投资者的表现相当出色，而债券投资者却面临困境。随着市场对鲍威尔任期的评估，投资者开始意识到货币政策的变化对不同资产类别的影响。股票市场的强劲表现使得许多投资者获利，而债券市场的低迷则可能导致投资者重新考虑其投资组合。这一现象不仅反映了当前经济形势的复杂性，也可能影响未来的投资决策和市场走势。",
+          "analysis_en": "Under Powell's leadership, stock investors have performed very well, while bond investors have struggled. As investors assess Powell's tenure, they are beginning to recognize how changes in monetary policy impact different asset classes. The strong performance of the stock market has led to significant gains for many investors, whereas the sluggish bond market may prompt investors to rethink their portfolios. This trend not only highlights the complexities of the current economic landscape but may also influence future investment decisions and market movements."
         }
       ]
     },
     "健康": {
       "description": "医学、营养、抗衰老、代谢与公共健康",
-      "count": 5,
+      "count": 4,
       "items": [
         {
           "rank": 1,
+          "title": "Could At-Home Brain Stimulation Reduce Psychiatry’s Reliance on S.S.R.I.s?",
+          "link": "https://www.nytimes.com/2026/04/28/health/depression-at-home-brain-stimulation-fda.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-04-29 20:56 UTC",
+          "analysis_zh": "最近，美国食品药品监督管理局批准了一款新型耳机，该设备通过微弱的电流刺激大脑。一些研究人员希望这种技术能够挑战目前以药物为中心的精神病治疗模式。这一进展可能会改变精神健康领域的治疗方法，减少对选择性血清素再摄取抑制剂（SSRI）的依赖，从而为患者提供更多的治疗选择。",
+          "analysis_en": "Recently, the U.S. Food and Drug Administration approved a new type of headset that stimulates the brain using a weak electric current. Some researchers hope this technology could challenge the current pill-centric approach to psychiatric treatment. This development may change treatment methods in the mental health field, reducing reliance on selective serotonin reuptake inhibitors (SSRIs) and providing patients with more options for care."
+        },
+        {
+          "rank": 2,
+          "title": "Former Fauci Adviser Indicted on Covid-Related Charges",
+          "link": "https://www.nytimes.com/2026/04/28/science/david-morens-indictment.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-04-29 16:17 UTC",
+          "analysis_zh": "前美国国家过敏症和传染病研究所的顾问大卫·莫伦斯博士因涉嫌隐瞒与疫情初期相关的记录而被起诉。这一事件引发了公众对疫情应对透明度的关注，尤其是在疫情初期的决策过程。此案的进展可能会影响公众对政府和卫生机构的信任，尤其是在未来应对类似公共卫生危机时。",
+          "analysis_en": "Dr. David Morens, a former adviser to the National Institute of Allergy and Infectious Diseases, has been indicted for allegedly concealing records related to the early days of the pandemic. This situation raises concerns about transparency in the government's response to the pandemic, particularly regarding decision-making during its onset. The outcome of this case could impact public trust in government and health agencies, especially in future public health crises."
+        },
+        {
+          "rank": 3,
           "title": "A forgotten drug is giving new hope to kids with a rare disease",
           "link": "https://www.sciencedaily.com/releases/2026/04/260428045556.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-04-29 05:28 UTC",
-          "analysis_zh": "一种被遗忘的药物正在为患有罕见疾病的儿童带来新的希望。几十年前用于治疗睡眠病的药物DFMO，现在显示出对一种名为巴赫曼-布普综合症（BABS）的超罕见且危及生命的遗传疾病的潜在疗效。早期的治疗结果表明，该药物可能通过针对根本的基因缺陷来缓解严重症状。虽然研究人员已经对少数患者进行了治疗并取得了积极的结果，但由于监管和后勤方面的障碍，进展受到了一定限制。",
-          "analysis_en": "A forgotten drug is providing new hope for children with a rare disease. DFMO, a decades-old medication once used to treat sleeping sickness, is showing potential effectiveness against a life-threatening genetic disorder known as Bachmann-Bupp syndrome (BABS). Early treatment results suggest that the drug may alleviate severe symptoms by targeting the underlying genetic malfunction. Although researchers have treated a small number of patients with encouraging outcomes, progress has been hampered by regulatory and logistical challenges."
+          "analysis_zh": "一种被遗忘的药物正在为患有罕见疾病的儿童带来新的希望。这种药物名为DFMO，曾用于治疗非洲睡眠病，如今在治疗一种名为巴赫曼-布普综合症（BABS）的致命遗传疾病中显示出令人惊讶的前景。早期治疗结果表明，DFMO可能通过针对根本的基因缺陷来缓解严重症状。尽管研究人员已经对少数患者进行了治疗并取得了积极成果，但由于监管和后勤障碍，进展受到了一定限制。",
+          "analysis_en": "A forgotten drug is offering new hope for children with a rare disease. This drug, known as DFMO, was previously used to treat sleeping sickness and is now showing surprising potential against a life-threatening genetic disorder called Bachmann-Bupp syndrome (BABS). Early treatment results suggest that DFMO may alleviate severe symptoms by targeting the underlying genetic malfunction. However, progress has been hampered by regulatory and logistical challenges, despite encouraging outcomes from initial patient treatments."
         },
         {
-          "rank": 2,
+          "rank": 4,
           "title": "MIT study finds children more vulnerable to cancer-causing chemical in water",
           "link": "https://www.sciencedaily.com/releases/2026/04/260428045546.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-04-29 05:06 UTC",
-          "analysis_zh": "麻省理工学院的一项新研究发现，水中常见的致癌化学物质NDMA对儿童的危害远大于成年人。实验显示，暴露于NDMA的幼鼠比成年鼠出现了更多的DNA损伤和癌症，这主要是因为儿童细胞分裂速度较快，导致早期的DNA损伤更容易转化为致癌突变。这项研究的重要性在于，它强调了在不同生命阶段研究潜在致癌物的必要性，尤其是儿童的脆弱性。研究结果可能促使安全检测机构改变测试方法，更加关注年轻生物体，以便在人们接触这些危险化学物质之前进行预防。",
-          "analysis_en": "A new study from MIT reveals that the cancer-causing chemical NDMA, commonly found in contaminated water, poses a significantly greater risk to children than to adults. Experiments showed that young mice exposed to NDMA developed much more DNA damage and cancer compared to adult mice, primarily due to the faster cell division in children, which facilitates the conversion of early DNA damage into cancerous mutations. This research highlights the importance of studying how potential carcinogens affect individuals at different life stages, particularly the vulnerability of children. The findings may encourage safety testing organizations to revise their testing protocols to focus more on young organisms, allowing for preventive measures before exposure to these harmful chemicals."
-        },
-        {
-          "rank": 3,
-          "title": "Former Fauci Adviser Indicted on Covid-Related Charges",
-          "link": "https://www.nytimes.com/2026/04/28/science/david-morens-indictment.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-04-28 23:46 UTC",
-          "analysis_zh": "前美国国家过敏症和传染病研究所的顾问大卫·莫伦斯博士因涉嫌隐瞒与疫情爆发相关的记录而被起诉。这一事件引发了公众对疫情初期信息透明度的关注，可能会影响人们对政府和公共卫生机构的信任。随着调查的深入，可能会揭示更多关于疫情应对过程中的决策和信息处理的细节。",
-          "analysis_en": "Dr. David Morens, a former adviser to the National Institute of Allergy and Infectious Diseases, has been indicted for allegedly concealing records related to the onset of the pandemic. This incident raises public concerns about the transparency of information during the early stages of the pandemic and may affect trust in government and public health institutions. As the investigation unfolds, it could reveal more details about the decision-making and information handling during the pandemic response."
-        },
-        {
-          "rank": 4,
-          "title": "Could At-Home Brain Stimulation Reduce Psychiatry’s Reliance on S.S.R.I.s?",
-          "link": "https://www.nytimes.com/2026/04/28/health/depression-at-home-brain-stimulation-fda.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-04-28 22:02 UTC",
-          "analysis_zh": "最近，美国食品药品监督管理局批准了一款新型耳机，该设备通过微弱的电流刺激大脑。一些研究人员希望这种技术能够改变目前以药物为中心的精神病治疗模式。这一进展可能会影响心理健康领域的治疗方法，减少对选择性血清素再摄取抑制剂（SSRI）的依赖，进而为患者提供更多非药物的治疗选择。",
-          "analysis_en": "Recently, the U.S. Food and Drug Administration approved a new headset that stimulates the brain using a weak electric current. Some researchers believe this technology could challenge the current pill-centric approach to psychiatric treatment. This development may impact treatment methods in the mental health field, potentially reducing reliance on selective serotonin reuptake inhibitors (SSRIs) and offering patients more non-drug treatment options."
-        },
-        {
-          "rank": 5,
-          "title": "U.S. Government Will Stop Paying for Test Strips to Detect Deadly Drugs",
-          "link": "https://www.nytimes.com/2026/04/27/health/trump-fentanyl-test-strips.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-04-28 16:24 UTC",
-          "analysis_zh": "美国政府宣布将停止为检测致命药物的试纸提供资金。这一决定引发了广泛关注，因为试纸的使用可以帮助人们识别含有危险成分的毒品，从而减少过量和死亡的风险。停止资助可能会导致更多的药物滥用和相关的健康危机，尤其是在面临药物危机的地区。此举不仅影响了公共卫生政策，还可能加剧社会对毒品问题的担忧。",
-          "analysis_en": "The U.S. government has announced it will stop funding test strips that detect deadly drugs. This decision has raised significant concerns, as these strips can help individuals identify dangerous substances in drugs, potentially reducing the risk of overdoses and fatalities. The cessation of funding may lead to increased drug abuse and related health crises, particularly in areas already facing drug challenges. This move not only impacts public health policy but may also heighten societal anxiety regarding drug issues."
+          "analysis_zh": "麻省理工学院的一项新研究表明，常见的环境污染物NDMA在水中存在，可能对儿童造成比成年人更大的癌症风险。研究发现，暴露于这种化学物质的年轻小鼠比成年小鼠表现出更显著的DNA损伤和癌症发展。这一发现的重要性在于，儿童细胞分裂速度较快，使得早期的DNA损伤更容易转变为致癌突变。这项研究强调了在不同生命阶段研究潜在致癌物的重要性，并呼吁安全测试机构关注年轻动物，以便在人们接触这些化学物质之前识别潜在风险。",
+          "analysis_en": "A new study from MIT reveals that NDMA, a common environmental contaminant found in water, poses a significantly greater cancer risk to children than to adults. The research showed that young mice exposed to this chemical experienced much more DNA damage and developed cancer at a higher rate compared to older mice with the same exposure. This finding is crucial because children's cells divide more rapidly, making early DNA damage more likely to lead to dangerous mutations. The study underscores the importance of examining how potential carcinogens affect individuals at different life stages and calls for safety testing organizations to focus on younger animals to identify risks before exposure occurs."
         }
       ]
     },
@@ -165,8 +156,8 @@
           "link": "https://aeon.co/videos/a-millennium-of-japanese-history-as-told-through-the-samurai-sword?utm_source=rss-feed",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-04-29 10:01 UTC",
-          "analysis_zh": "这段视频探讨了日本刀剑的千年历史，展示了其从武器到文化象征的演变过程。日本刀不仅仅是一种武器，它承载着武士精神和传统工艺的深厚内涵。这一历史的回顾不仅让人们更好地理解日本文化，也引发了对武器在社会中象征意义的思考。随着对传统工艺的重新关注，这种文化遗产可能会在现代社会中获得新的生命。",
-          "analysis_en": "This video explores the thousand-year history of Japanese swords, illustrating their transformation from weapons to cultural icons. The samurai sword is not just a weapon; it embodies the spirit of the samurai and the rich tradition of craftsmanship. This historical overview not only enhances our understanding of Japanese culture but also prompts reflection on the symbolic meanings of weapons in society. As there is a renewed interest in traditional craftsmanship, this cultural heritage may find new life in modern society."
+          "analysis_zh": "日本刀的历史跨越了千年，从武器演变为文化象征。这段历史不仅展示了武士刀的工艺之美，也反映了日本社会的价值观和传统。了解这一切有助于我们更好地理解日本文化的深层含义，以及武士精神如何影响现代社会。",
+          "analysis_en": "The history of Japanese swords spans a millennium, transforming from a weapon into a cultural icon. This history not only showcases the craftsmanship of the samurai sword but also reflects the values and traditions of Japanese society. Understanding this evolution helps us grasp the deeper meanings of Japanese culture and how the samurai spirit continues to influence modern society."
         }
       ]
     },
@@ -176,93 +167,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "The new Razr Ultra is still the best-looking phone out there",
-          "link": "https://www.theverge.com/tech/920183/motorola-razr-ultra-2026-wood-finish-alcantara-price",
-          "source": "The Verge",
-          "published_utc": "2026-04-29 16:00 UTC",
-          "analysis_zh": "摩托罗拉新款Razr Ultra手机于2026年发布，虽然在功能上没有太大变化，但外观依然吸引人。新机型配备了更好的主摄像头和稍大的电池，售价也上涨至1499美元。尽管如此，这款手机的设计依然出色，木纹背面设计再次回归，吸引了众多消费者的目光。这款手机的外观可能会影响市场对折叠屏手机的审美标准。",
-          "analysis_en": "The new Motorola Razr Ultra was released in 2026, and while there aren't many functional upgrades, its design remains striking. The updated model features a better main camera and a slightly larger battery, with a price increase to $1,499. Nonetheless, the phone's aesthetics continue to impress, with the return of the wood-finish back panel, capturing the attention of many consumers. This phone's design could influence the aesthetic standards for foldable smartphones in the market."
+          "title": "A.I. Spending Sets a Record, With No End in Sight",
+          "link": "https://www.nytimes.com/2026/04/29/technology/ai-spending-tech-data-centers.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-04-29 21:33 UTC",
+          "analysis_zh": "近日，谷歌、亚马逊、微软和Meta等科技巨头在周三公布了超过1300亿美元的季度资本支出，主要用于建设人工智能数据中心。这一创纪录的支出表明，科技公司对人工智能的投资热情依然高涨，且未来可能还会进一步增加。这不仅反映了行业对AI技术的重视，也可能推动相关产业链的发展，影响就业市场和技术创新的方向。",
+          "analysis_en": "Recently, tech giants like Google, Amazon, Microsoft, and Meta reported over $130 billion in quarterly capital expenditures primarily aimed at building artificial intelligence data centers. This record spending indicates that the enthusiasm for AI investment remains strong, with potential for further increases in the future. This not only reflects the industry's emphasis on AI technology but may also drive the development of related industries, impacting the job market and the direction of technological innovation."
         },
         {
           "rank": 2,
-          "title": "Microsoft is giving its Xbox employees an Xbox email address",
-          "link": "https://www.theverge.com/report/920525/microsoft-xbox-email-address-change",
-          "source": "The Verge",
-          "published_utc": "2026-04-29 15:43 UTC",
-          "analysis_zh": "微软最近宣布，所有Xbox员工将在下个月获得一个新的@xbox.com电子邮件地址。这一变化是Xbox首席执行官Asha Sharma为强化Xbox品牌形象而采取的举措，之前她已经决定将“微软游戏”这一名称改为简单的“Xbox”。这一新邮件地址将取代现有的@microsoft.com地址，尽管员工仍可选择保留原来的邮件地址。这一调整不仅有助于提升Xbox的品牌认知度，也可能影响微软内部的团队文化和沟通方式。",
-          "analysis_en": "Microsoft recently announced that all Xbox employees will receive a new @xbox.com email address next month. This change is part of an initiative by Xbox CEO Asha Sharma to strengthen the Xbox brand identity, following her decision to rename the gaming division from \"Microsoft Gaming\" to simply \"Xbox.\" The new email address will replace the existing @microsoft.com address, although employees can still choose to keep their original email. This adjustment not only aims to enhance brand recognition for Xbox but may also influence the internal culture and communication within Microsoft."
+          "title": "Musk Says He ‘Was a Fool’ to Provide OpenAI’s Early Funding",
+          "link": "https://www.nytimes.com/2026/04/29/technology/musk-openai-trial-altman.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-04-29 21:27 UTC",
+          "analysis_zh": "在与OpenAI的诉讼第二天，马斯克表示自己在早期资助OpenAI时是个“傻瓜”，因为他认为自己受到了首席执行官萨姆·阿尔特曼的误导。然而，OpenAI的律师则表示，证据显示情况恰恰相反。这场诉讼不仅涉及马斯克与OpenAI之间的资金争议，也可能影响到人工智能行业的投资信心和未来发展。马斯克的言论引发了对科技公司透明度和责任的广泛讨论。",
+          "analysis_en": "On the second day of the trial against OpenAI, Musk claimed he was a \"fool\" for providing early funding, stating he felt misled by CEO Sam Altman. However, OpenAI's lawyer argued that evidence contradicted Musk's claims. This lawsuit not only highlights the financial disputes between Musk and OpenAI but could also impact investor confidence and the future of the AI industry. Musk's comments have sparked a broader discussion about transparency and accountability in tech companies."
         },
         {
           "rank": 3,
-          "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-          "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+          "title": "Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off",
+          "link": "https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale",
           "source": "The Verge",
-          "published_utc": "2026-04-29 15:35 UTC",
-          "analysis_zh": "埃隆·马斯克和山姆·阿尔特曼正在进行一场高风险的法庭对决，这场审判可能会改变OpenAI及其知名产品ChatGPT的未来。马斯克在2024年提起诉讼，指控OpenAI放弃了最初为人类发展AI的使命，转而追求利润最大化。这场审判的重要性在于，它不仅关乎OpenAI的运营方向，还可能影响整个AI行业的伦理标准和发展模式。",
-          "analysis_en": "Elon Musk and Sam Altman are engaged in a high-stakes court battle that could reshape the future of OpenAI and its flagship product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission to develop AI for the benefit of humanity in favor of profit maximization. The significance of this trial lies in its potential impact on OpenAI's operational direction and the broader ethical standards and development models within the AI industry."
+          "published_utc": "2026-04-29 21:19 UTC",
+          "analysis_zh": "任天堂最近宣布了一项新的定价政策，未来专为任天堂Switch 2推出的第一方数字版游戏将降低10美元的价格。这一政策使得即将于7月23日发布的《Splatoon Raiders》在数字版的预购价格为49.99美元，而实体版则为59.99美元。然而，沃尔玛的预购价格却略低，仅为49.94美元，这使得实体版的价格几乎与数字版相当。这一变化不仅为消费者提供了更具吸引力的选择，也可能影响其他零售商的定价策略。",
+          "analysis_en": "Nintendo recently announced a new pricing policy that reduces the cost of digital versions of future first-party titles exclusive to the Nintendo Switch 2 by $10. As a result, the preorder price for \"Splatoon Raiders,\" set to release on July 23, is $49.99 for the digital version and $59.99 for the physical edition. However, Walmart is offering the physical version at a slightly lower price of $49.94, making it almost the same as the digital version. This change not only provides consumers with a more appealing option but may also influence the pricing strategies of other retailers."
         },
         {
           "rank": 4,
-          "title": "Here’s the latest.",
-          "link": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/heres-the-latest",
+          "title": "Meta Deal Reversal Deepens Split Between China and Silicon Valley",
+          "link": "https://www.nytimes.com/2026/04/29/business/china-silicon-valley-manus.html",
           "source": "NYT > Technology",
-          "published_utc": "2026-04-29 15:28 UTC",
-          "analysis_zh": "最近，人工智能技术的迅速发展引发了广泛关注。许多企业和研究机构正在积极探索AI在各个领域的应用，包括医疗、金融和教育等。这一趋势不仅推动了科技的进步，也可能改变劳动市场的结构，影响人们的就业机会和工作方式。因此，理解AI的发展及其潜在影响变得尤为重要。",
-          "analysis_en": "Recently, the rapid advancement of artificial intelligence technology has garnered widespread attention. Many companies and research institutions are actively exploring AI applications across various fields, including healthcare, finance, and education. This trend not only drives technological progress but may also alter the structure of the labor market, affecting job opportunities and work methods. Therefore, understanding the development of AI and its potential impacts is increasingly important."
+          "published_utc": "2026-04-29 21:08 UTC",
+          "analysis_zh": "北京要求Meta解散与一家中国人工智能初创公司的交易，这一举动加剧了中美在先进科技领域的地缘政治斗争。这一决定不仅反映了中国对外国科技公司的监管力度加大，也可能影响未来中美之间的科技合作与交流。随着两国在科技领域的竞争加剧，相关企业和投资者可能需要重新评估他们的战略和合作伙伴关系。",
+          "analysis_en": "Beijing's demand for Meta to unwind its deal with a Chinese AI start-up escalates the geopolitical struggle over advanced technology between China and the United States. This decision not only highlights China's increasing regulatory scrutiny over foreign tech companies but may also affect future technological cooperation and exchanges between the two nations. As competition in the tech sector intensifies, related businesses and investors may need to reassess their strategies and partnerships."
         },
         {
           "rank": 5,
-          "title": "The best deals we found during Amazon’s Gaming Week",
-          "link": "https://www.theverge.com/gadgets/919671/amazon-gaming-week-2026-deal-sale",
-          "source": "The Verge",
-          "published_utc": "2026-04-29 15:14 UTC",
-          "analysis_zh": "亚马逊的年度游戏周正在进行中，活动将持续到5月4日，期间提供视频游戏、配件和电脑组件的折扣。尽管这个活动规模较小，但仍然有一些非常划算的优惠。今年的热门游戏《艾尔登法环：夜之统治》以及Nex Playground游戏机和高端任天堂Switch 2控制器等产品都享受到了罕见的折扣。这一促销活动不仅吸引了游戏爱好者的关注，也可能影响到其他零售商的定价策略。",
-          "analysis_en": "Amazon's annual Gaming Week is currently underway, running until May 4th, offering discounts on video games, accessories, and PC components. While this event is smaller in scale compared to Amazon's other sales, there are still some genuinely great deals available. This year, popular titles like Elden Ring Nightreign, as well as rare discounts on the Nex Playground console and high-end Nintendo Switch 2 controllers, have been highlighted. This promotion not only attracts the attention of gaming enthusiasts but may also influence pricing strategies among other retailers."
+          "title": "Ford Reports Higher Profit Thanks Partly to Tariff Refund",
+          "link": "https://www.nytimes.com/2026/04/29/business/ford-motor-tariff-refund-profit.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-04-29 21:01 UTC",
+          "analysis_zh": "福特汽车公司近日宣布，预计联邦政府将退还其支付的13亿美元关税，这笔关税后来被最高法院推翻。这一消息对福特来说意义重大，因为这笔退款将显著提升公司的利润水平，并可能改善其财务状况。这也可能影响到其他汽车制造商的关税政策和未来的市场竞争格局。",
+          "analysis_en": "Ford Motor recently announced that it expects the federal government to refund $1.3 billion in tariffs that the Supreme Court later struck down. This news is significant for Ford, as the refund will substantially boost the company's profit margins and may improve its overall financial health. Additionally, this could influence tariff policies for other automakers and reshape the competitive landscape in the market."
         },
         {
           "rank": 6,
-          "title": "Uber adds hotels to its app in big travel swing",
-          "link": "https://www.theverge.com/transportation/919393/uber-hotel-expedia-vrbo-ai-voice-search",
-          "source": "The Verge",
-          "published_utc": "2026-04-29 15:00 UTC",
-          "analysis_zh": "优步（Uber）在其应用程序中新增了酒店预订功能，这是该公司在旅行住宿领域的一次重大扩展。用户现在可以直接在优步应用中预订和支付酒店房间，这一功能的推出是在公司年度产品发布会上宣布的。这一变化不仅使优步的服务范围更加多样化，还可能改变用户的旅行方式，尤其是对于习惯使用优步的旅客而言。与Expedia的合作使得优步能够提供超过70万个酒店选择，这一举措可能会进一步增强优步在旅游市场的竞争力。",
-          "analysis_en": "Uber has introduced a hotel booking feature in its app, marking a significant expansion into the travel accommodations sector. Users can now book and pay for hotel rooms directly through the Uber app, a feature announced at the company's annual product event. This change not only diversifies Uber's service offerings but may also transform the way users travel, particularly for those who are accustomed to using Uber. The partnership with Expedia allows Uber to offer over 700,000 hotel options, which could further strengthen Uber's competitive position in the travel market."
+          "title": "A.I. Helps Online Ad Businesses Boom",
+          "link": "https://www.nytimes.com/2026/04/29/technology/ai-artificial-intelligence-ad-boom.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-04-29 20:59 UTC",
+          "analysis_zh": "谷歌和Meta正在经历数字广告的繁荣，人工智能的应用使得营销自动化，从而推动了创纪录的销售额。这一趋势表明，AI技术正在深刻改变广告行业的运作方式，提升了广告的精准投放和效果评估。随着越来越多的企业采用这些技术，未来的市场竞争将更加依赖于AI的能力，这可能会导致传统广告模式的转变。",
+          "analysis_en": "Google and Meta are experiencing a boom in digital advertising, driven by the automation of marketing through artificial intelligence, which has led to record sales. This trend indicates that AI technology is profoundly transforming the way the advertising industry operates, enhancing the precision of ad targeting and effectiveness assessment. As more businesses adopt these technologies, future market competition will increasingly rely on AI capabilities, potentially leading to a shift away from traditional advertising models."
         },
         {
           "rank": 7,
-          "title": "Google TV is getting a dedicated row for YouTube Shorts",
-          "link": "https://www.theverge.com/tech/920354/google-tv-youtube-shorts-row-update",
-          "source": "The Verge",
-          "published_utc": "2026-04-29 15:00 UTC",
-          "analysis_zh": "谷歌正在为其电视设备推出一个专门的YouTube Shorts栏目，使用户无需打开专用的YouTube应用即可轻松观看短视频。新的“为您推荐短视频”栏目将出现在Google TV的主页上，提供个性化视频推荐。这一更新预计将在今年夏季推出，虽然谷歌尚未确定具体日期，但这一变化可能会吸引更多用户使用Google TV，并提升短视频内容的观看体验。此外，谷歌还计划在此更新中支持其他短视频平台，如TikTok和Instagram的Reels，进一步丰富用户选择。",
-          "analysis_en": "Google is introducing a dedicated row for YouTube Shorts on its TV devices, allowing users to easily watch short videos without needing to open the YouTube app. The new \"Short videos for you\" row will appear on the Google TV homepage, featuring personalized video recommendations. This update is expected to roll out in the US this summer, although Google has not specified an exact date. This change could attract more users to Google TV and enhance the viewing experience for short video content. Additionally, Google plans to support other short video platforms like TikTok and Instagram's Reels, further expanding user options."
+          "title": "Emergency First Responders Say Waymos Are Getting Worse",
+          "link": "https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/",
+          "source": "Feed: Artificial Intelligence Latest",
+          "published_utc": "2026-04-29 20:45 UTC",
+          "analysis_zh": "最近，一名警官向联邦监管机构表示，Waymo的自动驾驶车辆在紧急情况下的表现越来越糟。他认为，这项技术在尚未完全准备好的情况下就被大规模部署，导致了安全隐患。这一问题引发了对自动驾驶技术的监管和安全标准的重新审视，可能会影响未来相关技术的推广和应用。",
+          "analysis_en": "Recently, a police official reported to federal regulators that Waymo's autonomous vehicles are performing worse in emergency situations. He believes that the technology was deployed on a large scale before it was fully ready, leading to safety concerns. This issue has prompted a reevaluation of regulatory and safety standards for autonomous driving technology, which may affect the future deployment and acceptance of such technologies."
         },
         {
           "rank": 8,
-          "title": "Tumbler Ridge families sue OpenAI for not alerting police to the suspect’s ChatGPT activity",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/920479/tumbler-ridge-chagpt-openai-lawsuit",
+          "title": "Microsoft reports sinking Xbox revenue as its cloud business climbs",
+          "link": "https://www.theverge.com/tech/920785/microsoft-xbox-revenue-q3-2026-earnings",
           "source": "The Verge",
-          "published_utc": "2026-04-29 14:47 UTC",
-          "analysis_zh": "加拿大坦布勒岭的七个受害家庭对OpenAI及其首席执行官山姆·阿尔特曼提起诉讼，指控该公司在未能向警方报告涉嫌枪击事件的嫌疑人使用ChatGPT的活动时存在疏忽。受害者家庭认为，OpenAI在其系统标记出嫌疑人杰西·范·鲁特斯拉的活动后选择保持沉默，以保护公司的声誉和即将进行的首次公开募股（IPO）。这一事件引发了对人工智能公司在处理潜在暴力行为时的责任和道德义务的广泛讨论，可能会影响未来对AI技术监管的政策制定。",
-          "analysis_en": "Seven families of victims from the Tumbler Ridge school shooting in Canada have filed lawsuits against OpenAI and CEO Sam Altman, accusing the company of negligence for failing to alert the police about the suspected shooter’s ChatGPT activity. The families claim that OpenAI chose to remain silent after its systems flagged the activity of the suspect, Jesse Van Rootselaar, in order to protect the company's reputation and its upcoming initial public offering (IPO). This incident has sparked widespread discussions about the responsibilities and ethical obligations of AI companies in handling potential violent behavior, which may influence future regulatory policies regarding AI technology."
+          "published_utc": "2026-04-29 20:43 UTC",
+          "analysis_zh": "微软最近发布的财报显示，Xbox硬件收入下降了33%。尽管公司其他消费部门也出现下滑，但其云计算和生产力业务却持续增长，推动总收入接近829亿美元。这一情况反映出微软在游戏领域面临的挑战，尤其是在高管更替频繁的背景下，Xbox的市场定位亟需重新审视。未来，微软可能需要进一步调整其战略，以应对竞争加剧和消费者需求变化的挑战。",
+          "analysis_en": "Microsoft's recent earnings report revealed a 33% decline in Xbox hardware revenue. While other consumer-focused divisions also experienced a downturn, the company's cloud and productivity sectors continued to thrive, pushing total revenue close to $82.9 billion. This situation highlights the challenges Microsoft faces in the gaming sector, particularly with frequent executive turnover, necessitating a reevaluation of Xbox's market positioning. Moving forward, Microsoft may need to further adjust its strategy to tackle intensifying competition and shifting consumer demands."
         },
         {
           "rank": 9,
-          "title": "ChatGPT downloads are slowing — and may cause problems for OpenAI’s IPO",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/920476/openai-chatgpt-downloads-slow-down-ipo",
-          "source": "The Verge",
-          "published_utc": "2026-04-29 14:43 UTC",
-          "analysis_zh": "ChatGPT的下载量正在放缓，用户卸载应用程序的数量显著增加，这对OpenAI的首次公开募股（IPO）可能造成影响。根据市场情报公司Sensor Tower的数据，4月份ChatGPT的卸载率同比增长了132%，而上个月的卸载率更是达到了413%。虽然ChatGPT的用户基础仍然远大于竞争对手，但其增长速度却明显落后于Claude等新兴聊天机器人。这一变化可能会影响OpenAI的市场表现和投资者信心。",
-          "analysis_en": "ChatGPT's download numbers are slowing down, with a significant increase in users uninstalling the app, which could impact OpenAI's upcoming IPO. According to data from market intelligence firm Sensor Tower, the uninstall rate for ChatGPT rose by 132% year-over-year in April, and it reached a staggering 413% last month. While ChatGPT still has a substantially larger user base than its competitors, its growth is lagging behind that of emerging chatbots like Claude. This trend may affect OpenAI's market performance and investor confidence."
+          "title": "Here’s the latest.",
+          "link": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/heres-the-latest",
+          "source": "NYT > Technology",
+          "published_utc": "2026-04-29 20:40 UTC",
+          "analysis_zh": "最近，人工智能技术的迅猛发展引发了广泛关注。许多公司正在加大对AI的投资，以提升其产品和服务的竞争力。这一趋势不仅推动了科技行业的创新，也可能对就业市场产生深远影响，尤其是在传统岗位上。随着AI的普及，企业和员工都需要适应新的工作环境和技能要求。",
+          "analysis_en": "Recently, the rapid advancement of artificial intelligence technology has garnered significant attention. Many companies are increasing their investments in AI to enhance the competitiveness of their products and services. This trend is not only driving innovation in the tech industry but could also have profound effects on the job market, particularly in traditional roles. As AI becomes more prevalent, both businesses and employees will need to adapt to new work environments and skill requirements."
         },
         {
           "rank": 10,
-          "title": "Et tu, Brute? What Elon Musk’s clash with Sam Altman is really about.",
-          "link": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/et-tu-brute-what-elon-musks-clash-with-sam-altman-is-really-about",
-          "source": "NYT > Technology",
-          "published_utc": "2026-04-29 14:35 UTC",
-          "analysis_zh": "最近，埃隆·马斯克与山姆·奥特曼之间的冲突引起了广泛关注。这场争斗不仅涉及两位科技巨头之间的个人恩怨，更反映了人工智能领域内的权力斗争和未来方向的分歧。这一事件的重要性在于，它可能影响到AI技术的发展路径以及相关公司的战略决策，进而对整个行业产生深远的影响。",
-          "analysis_en": "Recently, a clash between Elon Musk and Sam Altman has garnered significant attention. This conflict not only highlights personal tensions between two tech giants but also reflects deeper power struggles and differing visions within the artificial intelligence sector. The importance of this event lies in its potential to influence the development trajectory of AI technologies and the strategic decisions of related companies, which could have far-reaching implications for the entire industry."
+          "title": "Taylor Swift Wants to Trademark Her Likeness. These TikTok Deepfake Ads Show Why",
+          "link": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/",
+          "source": "Feed: Artificial Intelligence Latest",
+          "published_utc": "2026-04-29 20:36 UTC",
+          "analysis_zh": "近日，泰勒·斯威夫特（Taylor Swift）希望注册她的肖像权，以保护自己不被恶意使用。研究人员发现，诈骗者利用人工智能技术伪造名人采访的视频，试图欺骗用户分享个人信息。这一事件引发了公众对深度伪造技术的广泛关注，尤其是在保护个人隐私和名人形象方面。随着这种技术的普及，未来可能会对社交媒体平台的监管和法律框架产生深远影响。",
+          "analysis_en": "Recently, Taylor Swift has expressed her desire to trademark her likeness to protect herself from malicious use. Researchers have found that scammers are using AI-generated deepfake videos of celebrity interviews to trick users into sharing personal information. This incident has sparked widespread public concern about deepfake technology, particularly regarding the protection of personal privacy and celebrity images. As this technology becomes more prevalent, it may have significant implications for the regulation of social media platforms and legal frameworks in the future."
         }
       ]
     },
@@ -272,93 +263,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Meryl Streep, Anne Hathaway and the ‘Devil Wears Prada’ Cast on the Sequel",
-          "link": "https://www.nytimes.com/2026/04/29/movies/devil-wears-prada-meryl-streep-anne-hathaway.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-04-29 15:58 UTC",
-          "analysis_zh": "梅丽尔·斯特里普、安妮·海瑟薇、艾米莉·布朗特、斯坦利·图齐以及导演大卫·弗兰克尔近日聚集在一起，讨论《穿普拉达的女王》的续集。这部经典电影的续集备受期待，明星们的回归不仅引发了影迷的热情，也让人们对角色的发展充满好奇。这一续集的制作可能会影响到原作的影响力，并为新一代观众带来新的视角。",
-          "analysis_en": "Meryl Streep, Anne Hathaway, Emily Blunt, Stanley Tucci, and director David Frankel recently came together to discuss the sequel to \"The Devil Wears Prada.\" The anticipation surrounding this sequel is high, and the return of these stars not only excites fans but also raises curiosity about the development of their characters. The production of this sequel could impact the legacy of the original film and offer a fresh perspective for a new generation of viewers."
+          "title": "Portland’s Converge 45 Reveals Theme and Artists, Including Trisha Baga, Rose Salane, and Srijon Chowdhury",
+          "link": "https://www.artnews.com/art-news/news/converge-45-triennial-2026-artist-list-1234783141/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-04-29 21:06 UTC",
+          "analysis_zh": "波特兰的Converge 45艺术三年展近日公布了2026年的主题和参展艺术家，包括特里莎·巴加、罗斯·萨兰和斯里琼·乔杜里。这一展览将于2026年8月27日在俄勒冈州启动，由Lumi Tan策展。此次展览的重要性在于它为当代艺术提供了一个展示平台，同时也反映了艺术界对社会和文化议题的关注。随着展览的临近，预计将吸引更多观众和艺术爱好者的参与，进一步推动当地的艺术生态发展。",
+          "analysis_en": "Portland's Converge 45 art triennial has announced its theme and featured artists for the 2026 edition, which includes Trisha Baga, Rose Salane, and Srijon Chowdhury. Set to launch on August 27, 2026, in Oregon, the event is curated by Lumi Tan. This exhibition is significant as it provides a platform for contemporary art and reflects the art community's engagement with social and cultural issues. As the event approaches, it is expected to attract more visitors and art enthusiasts, further enhancing the local art ecosystem."
         },
         {
           "rank": 2,
-          "title": "11 Great American Songwriters Who Didn’t Make Our List",
-          "link": "https://www.nytimes.com/2026/04/28/arts/music/amplifier-newsletter-greatest-american-songwriters.html",
+          "title": "Tupac Shakur’s Stepbrother Files Wrongful Death Lawsuit, 29 Years After Murder",
+          "link": "https://www.nytimes.com/2026/04/29/arts/music/tupac-murder-lawsuit-stepbrother.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-04-29 15:52 UTC",
-          "analysis_zh": "《纽约时报杂志》评选出了30位最伟大的当代美国词曲作者，但并非所有杰出的人物都入选。这篇文章提到了包括比利·乔尔、弗兰克·欧申和内科·凯斯在内的更多候选人。这一评选引发了对音乐创作的讨论，强调了美国音乐文化的多样性和深度。这样的名单不仅影响了公众对这些艺术家的认知，也可能影响他们的音乐事业和后续作品的接受度。",
-          "analysis_en": "The New York Times Magazine has named the 30 greatest living American songwriters, but not all notable figures made the list. This article highlights additional contenders, including Billy Joel, Frank Ocean, and Neko Case. Such selections spark discussions about music composition, emphasizing the diversity and depth of American music culture. These lists not only shape public perception of these artists but may also impact their careers and the reception of their future works."
+          "published_utc": "2026-04-29 20:24 UTC",
+          "analysis_zh": "图帕克·沙库尔的继兄莫里斯·沙库尔针对杜安·基思·戴维斯提起了错误死亡诉讼，此人于2023年被控谋杀这位说唱歌手。莫里斯在诉状中表示，“线索开始逐渐明朗”。这一诉讼的重要性在于，它可能为长达29年的未解案件带来新的进展，并引发公众对沙库尔遗产的重新关注。这不仅可能影响到案件的审理进程，还可能对相关人士的声誉和法律责任产生深远影响。",
+          "analysis_en": "Maurice Shakur, Tupac Shakur's stepbrother, has filed a wrongful death lawsuit against Duane Keith Davis, who was charged with the rapper's murder in 2023. In the complaint, Maurice stated that \"the threads are starting to come together.\" This lawsuit is significant as it could bring new developments to a case that has remained unresolved for 29 years, reigniting public interest in Tupac's legacy. It may not only affect the legal proceedings of the case but also have lasting implications for the reputations and responsibilities of those involved."
         },
         {
           "rank": 3,
-          "title": "John Trumbull’s Declaration of Independence Painting Appears on Trump’s New US Passports",
-          "link": "https://www.artnews.com/art-news/news/john-trumbull-declaration-independence-us-passports-trump-1234783073/",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-04-29 15:40 UTC",
-          "analysis_zh": "特朗普的新美国护照上出现了约翰·特伦布尔的《独立宣言》画作。这幅著名的画作目前展出在美国国会大厦的圆形大厅中。此举引发了公众的广泛讨论，因为它不仅涉及历史艺术作品的使用，还可能影响人们对国家身份和文化象征的理解。将这幅画作与护照结合，可能会引发对美国历史和价值观的重新审视。",
-          "analysis_en": "Trump's new U.S. passports feature John Trumbull's painting of the Declaration of Independence. This famous artwork is currently displayed in the U.S. Capitol Rotunda. The decision has sparked widespread public discussion, as it touches on the use of historical art and may influence people's understanding of national identity and cultural symbols. Combining this painting with passports could prompt a reevaluation of American history and values."
+          "title": "POCO soft robot companion rethinks human-AI connection through touch and interaction",
+          "link": "https://www.designboom.com/technology/poco-soft-robot-companion-human-ai-connection-touch-interaction-mehrnaz-amouei/",
+          "source": "designboom | architecture & design magazine",
+          "published_utc": "2026-04-29 20:00 UTC",
+          "analysis_zh": "POCO是一款软体机器人伴侣，重新思考了人类与人工智能之间的连接，特别是在触觉和互动方面。这款机器人挑战了人工智能在情感方面应当拥有权威的传统观念，强调了人类情感的重要性。这一创新不仅可能改变人们对人工智能的看法，还可能影响未来机器人设计的方向，促使更多关注人机互动的情感维度。",
+          "analysis_en": "POCO is a soft robot companion that rethinks the connection between humans and artificial intelligence, particularly through touch and interaction. This robot challenges the traditional notion that AI should hold authority over human emotions, emphasizing the importance of human feelings. This innovation could not only change people's perceptions of AI but also influence the direction of future robot designs, encouraging a greater focus on the emotional aspects of human-robot interaction."
         },
         {
           "rank": 4,
-          "title": "Giorno Poetry Systems Gives Grants to 12 Artists Including Jacolby Satterwhite, Puppies Puppies (Jade Guanaro Kuriki-Olivo), and the Late Agosto Machado",
-          "link": "https://www.artnews.com/art-news/news/giorno-poetry-systems-grants-1234783059/",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-04-29 15:35 UTC",
-          "analysis_zh": "Giorno Poetry Systems最近向12位艺术家提供了基于需求的资助，其中包括Jacolby Satterwhite、Puppies Puppies（Jade Guanaro Kuriki-Olivo）和已故的Agosto Machado。这项资助计划受到了1980年代艾滋病治疗项目的启发，旨在支持那些在艺术创作中面临经济困难的艺术家。这一举措不仅为艺术家们提供了必要的资金支持，也强调了艺术界对社会问题的关注和回应，可能会激励更多的艺术项目和公益活动。",
-          "analysis_en": "Giorno Poetry Systems recently awarded need-based grants to 12 artists, including Jacolby Satterwhite, Puppies Puppies (Jade Guanaro Kuriki-Olivo), and the late Agosto Machado. This grant program was inspired by the AIDS Treatment Project from the 1980s, aiming to support artists facing financial hardships in their creative endeavors. This initiative not only provides essential funding for these artists but also highlights the art community's awareness and response to social issues, potentially encouraging more artistic projects and charitable activities."
+          "title": "With ‘Sister Dreamer’ Park, Lauren Halsey Brings Her Heroes Home",
+          "link": "https://www.nytimes.com/2026/04/28/arts/design/lauren-halsey-sculpture-park-dreamer-los-angeles.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-04-29 19:52 UTC",
+          "analysis_zh": "洛杉矶南中央地区的艺术家劳伦·哈尔西（Lauren Halsey）通过她的装置艺术《姐妹梦者公园》为社区中的英雄们树立了纪念碑。这一项目不仅提升了当地居民的形象，也为社区注入了新的文化活力。通过将熟悉的面孔以石雕的形式呈现，哈尔西希望激发人们对社区历史和文化的重视。这一艺术装置的意义在于，它不仅是对个人的致敬，也是对整个社区的认同和团结的象征。",
+          "analysis_en": "Artist Lauren Halsey's installation, \"Sister Dreamer Park,\" in South Central Los Angeles honors local heroes by creating stone monuments of familiar faces in the neighborhood. This project not only elevates the representation of community members but also injects new cultural vitality into the area. By presenting these recognizable figures in stone, Halsey aims to inspire a greater appreciation for the community's history and culture. The significance of this installation lies in its tribute to individuals while also symbolizing recognition and unity for the entire community."
         },
         {
           "rank": 5,
-          "title": "Buffalo AKG Art Museum Director Janne Sirén to Depart After 13 Years",
-          "link": "https://www.artnews.com/art-news/news/buffalo-akg-art-museum-janne-siren-departs-1234783064/",
+          "title": "Ittai Gradel, Danish Gems Expert Who Uncovered British Museum Thefts, Has Died at 61",
+          "link": "https://www.artnews.com/art-news/news/ittai-gradel-expert-uncovered-british-museum-thefts-dead-1234783123/",
           "source": "News – ARTnews.com",
-          "published_utc": "2026-04-29 15:30 UTC",
-          "analysis_zh": "布法罗AKG艺术博物馆的馆长贾内·西伦在担任职务13年后宣布离职，原因是他未能偿还用于个人住房融资的博物馆贷款。这一事件引发了公众对博物馆管理和财务透明度的关注。西伦的离职可能会影响博物馆的声誉，并对未来的领导层选拔产生影响，同时也可能引发对博物馆资金使用的审查。",
-          "analysis_en": "Janne Sirén, the director of the Buffalo AKG Art Museum, has announced his departure after 13 years due to his failure to repay a museum loan that was used to finance his home. This incident has raised public concerns about the management and financial transparency of the museum. Sirén's departure could affect the museum's reputation and influence the selection of future leadership, as well as prompt scrutiny over the use of museum funds."
+          "published_utc": "2026-04-29 19:23 UTC",
+          "analysis_zh": "丹麦宝石专家伊泰·格拉德（Ittai Gradel）因揭露大英博物馆的盗窃事件而闻名，近日去世，享年61岁。他的调查引起了国际媒体的广泛关注，并最终导致当时的馆长哈特维希·费舍尔在2023年辞职。这一事件不仅揭示了博物馆内部的管理问题，也引发了公众对文化遗产保护的关注。格拉德的去世可能会对相关调查和后续的改革进程产生影响。",
+          "analysis_en": "Ittai Gradel, a Danish gem expert known for uncovering thefts at the British Museum, has passed away at the age of 61. His investigation garnered international media attention and ultimately led to the resignation of then-director Hartwig Fischer in 2023. This incident not only highlighted management issues within the museum but also sparked public concern over the protection of cultural heritage. Gradel's death may impact ongoing investigations and future reform efforts in this area."
         },
         {
           "rank": 6,
-          "title": "Chessboard-informed glassware among projects from Häme University of Applied Sciences",
-          "link": "https://www.dezeen.com/2026/04/29/chessboard-glassware-hame-university-of-applied-sciences-schoolshows/",
-          "source": "Dezeen",
-          "published_utc": "2026-04-29 15:00 UTC",
-          "analysis_zh": "芬兰哈梅应用科技大学的学生们展示了一系列创新项目，其中包括一款受棋盘美学启发的玻璃支架。这一设计不仅展现了学生们的创意能力，也反映了现代设计与传统元素的结合。这样的项目重要性在于它们能够推动可持续设计理念的发展，并激发更多人对艺术与实用性的思考。这些作品可能会影响未来的产品设计趋势，鼓励设计师们探索更多跨界的可能性。",
-          "analysis_en": "Students from Häme University of Applied Sciences in Finland showcased a range of innovative projects, including a glass stand inspired by chessboard aesthetics. This design not only highlights the creativity of the students but also reflects the integration of modern design with traditional elements. The significance of such projects lies in their potential to advance sustainable design concepts and inspire broader reflections on art and functionality. These works may influence future product design trends, encouraging designers to explore more interdisciplinary possibilities."
+          "title": "U.S. and Italy Honor Alliance to Curb Art Looting, Amid Broader Tensions",
+          "link": "https://www.nytimes.com/2026/04/29/arts/design/us-italy-art-looting.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-04-29 19:16 UTC",
+          "analysis_zh": "美国和意大利的官员近日在一场仪式上庆祝两国在遏制艺术品掠夺方面的合作，特别是在数千件艺术品成功归还意大利的背景下。这一举措不仅彰显了两国在文化遗产保护方面的共同努力，也反映了在更广泛的国际紧张局势中，文化交流的重要性。此举可能会激励其他国家加强合作，保护和归还被掠夺的艺术品，从而促进全球文化的和谐与尊重。",
+          "analysis_en": "Officials from the U.S. and Italy recently celebrated their collaboration in curbing art looting, particularly in light of the successful return of thousands of artworks to Italy. This initiative highlights the shared commitment of both countries to protect cultural heritage and underscores the importance of cultural exchange amid broader international tensions. Such efforts may inspire other nations to enhance cooperation in the protection and repatriation of looted artifacts, fostering global cultural harmony and respect."
         },
         {
           "rank": 7,
-          "title": "‘Evita,’ Starring Rachel Zegler, Is Heading to Broadway",
-          "link": "https://www.nytimes.com/2026/04/29/theater/evita-broadway-rachel-zegler.html",
+          "title": "Visconti’s ‘Bellissima’: Mama’s Going to See to It!",
+          "link": "https://www.nytimes.com/2026/04/29/movies/bellissima-film-forum.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-04-29 15:00 UTC",
-          "analysis_zh": "《埃维塔》将于明年春季在百老汇上演，这部由瑞秋·泽格勒主演的经典音乐剧经过重新制作，引起了广泛关注。然而，这次演出将缺少其标志性的户外场景。这一变化引发了观众的讨论，因为户外场景是该剧的重要组成部分，影响了观众对故事的感受和理解。此举可能会影响到观众的期待，并对音乐剧的整体表现产生影响。",
-          "analysis_en": "\"Evita,\" starring Rachel Zegler, is set to hit Broadway next spring, marking a highly anticipated revival of the classic musical. However, this production will not include its iconic outdoor scene, which has sparked discussions among audiences. This change is significant as the outdoor scene plays a crucial role in shaping the audience's experience and understanding of the story. The absence of this element may alter audience expectations and impact the overall reception of the musical."
+          "published_utc": "2026-04-29 19:15 UTC",
+          "analysis_zh": "维斯康蒂的电影《美丽的她》在电影论坛进行4K修复放映，这部1951年的作品通过安娜·曼尼亚尼饰演的夸张舞台母亲，讽刺了意大利电影产业。这部电影的重要性在于它不仅展示了当时电影行业的荒谬，还反映了社会对母亲角色的期望与压力。这样的作品能够引发观众对家庭和职业之间关系的深思，可能会影响人们对电影和母亲形象的理解。",
+          "analysis_en": "Visconti's film \"Bellissima\" is being screened in a new 4K restoration at Film Forum. This 1951 work satirizes the Italian film industry through Anna Magnani's over-the-top portrayal of a stage mother. The significance of this film lies in its critique of the absurdities within the film industry and its reflection on societal expectations of motherhood. Such a work can provoke audiences to contemplate the relationship between family and career, potentially influencing their understanding of both cinema and maternal figures."
         },
         {
           "rank": 8,
-          "title": "Three Great Documentaries to Stream",
-          "link": "https://www.nytimes.com/2026/04/29/movies/three-great-documentaries-to-stream.html",
+          "title": "The Good List: 6 Things to Add Some Joy to Your Day",
+          "link": "https://www.nytimes.com/2026/04/29/briefing/the-good-list-shower-airport.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-04-29 15:00 UTC",
-          "analysis_zh": "本月推荐的三部纪录片中，一位臭名昭著的参议员遭到质询，一名男子改变了自己的眼睛颜色，以及俄罗斯记者在专制环境中努力履行职责。这些纪录片不仅揭示了社会和政治的复杂性，还反映了个人在极端情况下的选择和挑战。它们的重要性在于，能够引发观众对自由、权力和个人身份的深思，可能会影响人们对当今社会现象的理解和反应。",
-          "analysis_en": "This month's selection of three documentaries features a notorious senator being grilled, a man changing his eye color, and Russian journalists struggling to perform their jobs under authoritarianism. These films reveal the complexities of social and political issues while highlighting individual choices and challenges in extreme circumstances. Their significance lies in provoking viewers to reflect on freedom, power, and personal identity, which may influence how people understand and respond to contemporary societal phenomena."
+          "published_utc": "2026-04-29 19:14 UTC",
+          "analysis_zh": "《纽约时报》最近发布了一份“快乐清单”，推荐了六种能够为日常生活增添乐趣的事物。这些建议包括在机场洗澡、欣赏缝隙中的花朵等。这一清单的重要性在于，它提醒人们在忙碌的生活中寻找小确幸，提升生活质量。这样的建议可能会影响人们的日常选择，鼓励他们更加关注生活中的美好瞬间。",
+          "analysis_en": "The New York Times recently published a \"Good List\" featuring six things that can add joy to daily life. Among the suggestions are showering at the airport and appreciating flowers in seams. This list is significant as it encourages people to find small joys amidst their busy lives, enhancing their overall quality of life. Such recommendations may influence daily choices, prompting individuals to pay more attention to the beautiful moments around them."
         },
         {
           "rank": 9,
-          "title": "Whistleblower Complaint Alleges Misconduct at Palm Springs Art Museum, Where an Ex-Trustee Describes a ‘Shattered Moral Compass’",
-          "link": "https://www.artnews.com/art-news/news/whistleblower-complaint-misconduct-palm-springs-art-museum-1234783065/",
+          "title": "Hermitage Museum Director and Putin Ally Mikhail Piotrovsky Sanctioned by European Union",
+          "link": "https://www.artnews.com/art-news/news/hermitage-museum-director-putin-ally-mikhail-piotrovsky-sanctioned-european-union-1234783105/",
           "source": "News – ARTnews.com",
-          "published_utc": "2026-04-29 14:51 UTC",
-          "analysis_zh": "最近，棕榈泉艺术博物馆爆出一起举报投诉，指控该馆存在不当行为。两名董事会成员的辞职信揭示了博物馆内部存在的秘密文化和缺乏问责制的问题。这一事件不仅影响了博物馆的声誉，也引发了公众对艺术机构透明度和道德标准的关注。随着调查的深入，可能会对博物馆的管理结构和未来运营产生深远影响。",
-          "analysis_en": "Recently, a whistleblower complaint has emerged regarding misconduct at the Palm Springs Art Museum. Resignation letters from two board members highlight a culture of secrecy and a lack of accountability within the museum. This incident not only affects the museum's reputation but also raises public concern about the transparency and ethical standards of art institutions. As the investigation unfolds, it may have significant implications for the museum's management structure and future operations."
+          "published_utc": "2026-04-29 19:10 UTC",
+          "analysis_zh": "欧洲联盟对冬宫博物馆馆长米哈伊尔·皮特罗夫斯基实施了制裁，原因是他被指控积极支持和为俄罗斯对乌克兰的战争辩护。这一制裁不仅影响了皮特罗夫斯基的个人声誉，也可能对冬宫博物馆的国际合作和展览活动产生负面影响。随着国际社会对俄罗斯的制裁加剧，文化界的反响也日益明显，这可能促使更多艺术机构重新审视与俄罗斯的关系。",
+          "analysis_en": "The European Union has sanctioned Mikhail Piotrovsky, the director of the Hermitage Museum, due to accusations of actively supporting and justifying Russia's war against Ukraine. This sanction not only affects Piotrovsky's personal reputation but may also negatively impact the Hermitage Museum's international collaborations and exhibition activities. As the international community intensifies sanctions against Russia, the cultural sector's response is becoming increasingly evident, potentially prompting more art institutions to reassess their relationships with Russia."
         },
         {
           "rank": 10,
-          "title": "Don Cheadle and Ayo Edebiri Are Giving ‘Proof’ a New Meaning",
-          "link": "https://www.nytimes.com/2026/04/29/theater/don-cheadle-ayo-edebiri-proof-broadway.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-04-29 14:03 UTC",
-          "analysis_zh": "唐·奇朵和艾约·埃德比里在准备他们的百老汇首演时迅速建立了联系，他们将共同出演大卫·奥本获普利策奖和托尼奖的经典剧作《证明》的新复兴版。这部剧的重要性在于它探讨了数学、家庭和心理健康等深刻主题，吸引了广泛的观众。此次复兴不仅为新一代观众带来了经典作品，也为演员们提供了展示才华的机会，可能会对他们的职业生涯产生积极影响。",
-          "analysis_en": "Don Cheadle and Ayo Edebiri quickly connected while preparing for their Broadway debuts in a new revival of David Auburn's Pulitzer- and Tony-winning play, \"Proof.\" The significance of this play lies in its exploration of profound themes such as mathematics, family, and mental health, which resonate with a wide audience. This revival not only introduces a classic work to a new generation of viewers but also provides the actors with an opportunity to showcase their talents, potentially positively impacting their careers."
+          "title": "Benjamin Hall expands Phoenix home with treehouse-like addition",
+          "link": "https://www.dezeen.com/2026/04/29/adkins-treehouse-benjamin-hall-design-phoenix/",
+          "source": "Dezeen",
+          "published_utc": "2026-04-29 19:00 UTC",
+          "analysis_zh": "亚利桑那州的建筑工作室Benjamin Hall Design完成了一项对凤凰城住宅的扩建，新增的部分与周围的景观融为一体，营造出树屋般的效果。这一扩建项目名为Adkins Treehouse，增加了约88平方米的空间，取代了1980年代未经许可的附加建筑，同时保留了原有的占地面积。这项设计不仅提升了住宅的功能性，也为居民提供了一个更具自然氛围的生活环境，可能会影响周边地区的房地产价值和建筑风格。",
+          "analysis_en": "Arizona-based studio Benjamin Hall Design has completed an addition to a Phoenix home that seamlessly integrates with the landscaping, creating a treehouse-like effect. This project, named the Adkins Treehouse, adds approximately 952 square feet of space, replacing an unpermitted addition from the 1980s while maintaining the original footprint. This design not only enhances the home's functionality but also provides residents with a more nature-inspired living environment, which could influence property values and architectural styles in the surrounding area."
         }
       ]
     }
