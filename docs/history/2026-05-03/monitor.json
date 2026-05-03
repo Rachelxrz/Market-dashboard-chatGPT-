@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03 14:54:59 UTC",
+  "generated_at": "2026-05-03 21:23:29 UTC",
   "run_mode": "morning",
   "regime": "Neutral / Defensive",
   "risk_score": 3,
@@ -19,11 +19,11 @@
     },
     "QQQ": {
       "label": "QQQ",
-      "price": 674.15,
-      "change": 25.299999999999955,
-      "change_pct": 3.899206288048078,
-      "change_3d": 16.600012207031227,
-      "change_3d_pct": 2.524524753281234,
+      "price": 674.18,
+      "change": 25.329999999999927,
+      "change_pct": 3.9038298528165103,
+      "change_3d": 16.6300122070312,
+      "change_3d_pct": 2.529087144058651,
       "note": "科技成长代理",
       "ok": true
     },
