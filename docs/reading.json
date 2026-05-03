@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-03 14:14:23 UTC",
-  "generated_at_unix": 1777817663,
+  "generated_at": "2026-05-03 14:54:59 UTC",
+  "generated_at_unix": 1777820099,
   "window": {
-    "from_utc": "2026-05-02 14:14:23 UTC",
-    "to_utc": "2026-05-03 14:14:23 UTC",
+    "from_utc": "2026-05-02 14:54:59 UTC",
+    "to_utc": "2026-05-03 14:54:59 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,99 +14,99 @@
       "items": [
         {
           "rank": 1,
-          "title": "Healthcare cost surge makes parental paid leave benefits a target of workplace cuts",
-          "link": "https://www.cnbc.com/2026/05/03/healthcare-costs-parental-paid-leave-employee-benefits-cuts.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-05-03 14:14 UTC",
-          "analysis_zh": "随着医疗成本的飙升，许多公司开始削减慷慨的带薪育儿假福利，Zoom和德勤是最近的例子。这一变化反映了企业在寻找节省开支的方式时，员工福利往往成为首要目标。带薪育儿假对于员工的工作与生活平衡至关重要，削减这一福利可能会影响员工的满意度和留任率。此外，这也可能导致企业在吸引新人才时面临更大的挑战。",
-          "analysis_en": "As healthcare costs continue to rise, many companies are cutting generous paid parental leave benefits, with Zoom and Deloitte being recent examples. This shift highlights how employee benefits are often the first target when businesses look for ways to save money. Paid parental leave is crucial for maintaining a work-life balance for employees, and reducing this benefit could negatively impact employee satisfaction and retention rates. Furthermore, it may pose greater challenges for companies in attracting new talent."
+          "title": "‘I’m not interested in long-term care insurance’: I’d like to retire at 55. How much will I have to pay for healthcare?",
+          "link": "https://www.marketwatch.com/story/im-not-interested-in-long-term-care-insurance-id-like-to-retire-at-55-how-much-will-i-have-to-pay-for-healthcare-a4659d9b?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-05-03 14:41 UTC",
+          "analysis_zh": "一位希望在55岁退休的人表达了对长期护理保险的不感兴趣，主要担心医疗费用的负担。这一观点反映了许多即将退休者对未来医疗支出的忧虑。随着人口老龄化，医疗成本不断上升，这可能会影响人们的退休计划和生活质量。了解医疗费用的预期支出对于制定合理的财务规划至关重要。",
+          "analysis_en": "A person looking to retire at 55 has expressed disinterest in long-term care insurance, primarily due to concerns about medical costs. This sentiment highlights the anxiety many soon-to-be retirees feel regarding future healthcare expenses. As the population ages and medical costs continue to rise, this could significantly impact individuals' retirement plans and quality of life. Understanding expected healthcare expenses is crucial for developing sound financial strategies."
         },
         {
           "rank": 2,
+          "title": "Lizzo loses nearly $4M on her LA mansion — a third of its value. How to know when selling at a loss is the right move",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/lizzo-loses-nearly-4m-her-143500731.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-05-03 14:35 UTC",
+          "analysis_zh": "流行歌手莉佐（Lizzo）在洛杉矶的豪宅出售中遭遇了近400万美元的损失，房产价值下降了三分之一。这一事件引发了人们对房地产市场波动的关注，尤其是在高端市场中。莉佐的损失不仅反映了个人财务决策的复杂性，也可能影响其他高端房产的销售策略，促使更多卖家考虑在市场低迷时出售房产。",
+          "analysis_en": "Pop star Lizzo has lost nearly $4 million on the sale of her Los Angeles mansion, which has seen a one-third drop in value. This incident highlights the volatility in the real estate market, particularly within the luxury segment. Lizzo's loss not only underscores the complexities of personal financial decisions but may also influence the selling strategies of other high-end properties, prompting more sellers to consider offloading their assets during market downturns."
+        },
+        {
+          "rank": 3,
+          "title": "Healthcare cost surge makes parental paid leave benefits a target for workplace cuts",
+          "link": "https://www.cnbc.com/2026/05/03/healthcare-costs-parental-paid-leave-employee-benefits-cuts.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-05-03 14:14 UTC",
+          "analysis_zh": "随着医疗成本的不断上涨，许多公司开始寻找节省开支的方法，其中包括削减慷慨的带薪父母假福利。最近，Zoom和德勤等公司就采取了这一措施。这一变化不仅影响了员工的福利待遇，也可能对员工的工作满意度和留任率产生负面影响。带薪父母假是吸引和留住人才的重要因素，削减这一福利可能使企业在竞争中处于不利地位。",
+          "analysis_en": "As healthcare costs continue to rise, many companies are looking for ways to cut expenses, including reducing generous paid parental leave benefits. Recent examples include Zoom and Deloitte implementing such cuts. This change not only affects employee benefits but may also negatively impact job satisfaction and retention rates. Paid parental leave is a crucial factor in attracting and retaining talent, and cutting this benefit could put companies at a competitive disadvantage."
+        },
+        {
+          "rank": 4,
           "title": "S&P 500 profits haven’t been this rich in at least 15 years — but there’s more to the story",
           "link": "https://www.marketwatch.com/story/s-p-500-profits-havent-been-this-rich-in-at-least-15-years-but-theres-more-to-the-story-c3ccaf3b?mod=mw_rss_topstories",
           "source": "MarketWatch.com - Top Stories",
           "published_utc": "2026-05-03 14:00 UTC",
-          "analysis_zh": "标准普尔500指数的利润在过去15年中达到了前所未有的高水平，这一现象主要受到三家大型科技公司的推动。这表明这些公司的盈利能力对整体市场表现产生了重要影响。这种情况不仅反映了科技行业的强劲复苏，也可能对投资者的信心和未来的市场走势产生深远的影响。",
-          "analysis_en": "The profits of the S&P 500 have reached unprecedented levels not seen in at least 15 years, largely driven by three major tech companies. This indicates that the profitability of these firms has a significant impact on the overall market performance. Such a situation not only reflects a strong recovery in the tech sector but may also have profound implications for investor confidence and future market trends."
+          "analysis_zh": "标准普尔500指数的企业利润在过去15年中达到了前所未有的高水平，这一现象主要受到三家大型科技公司的推动。这一情况引起了市场的广泛关注，因为高利润不仅反映了这些公司的强劲表现，也可能影响投资者的信心和市场趋势。随着科技行业的持续增长，其他行业可能会面临更大的竞争压力，从而影响整体经济的平衡。",
+          "analysis_en": "The profits of companies in the S&P 500 have reached unprecedented levels not seen in at least 15 years, largely driven by three major tech companies. This situation has garnered significant attention in the market, as high profits not only reflect the strong performance of these firms but may also influence investor confidence and market trends. As the tech sector continues to grow, other industries may face increased competitive pressure, potentially impacting the overall balance of the economy."
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "‘The numbers don’t lie’: If I had invested my Social Security in the S&P 500 I’d have $4 million. Is the system broken?",
           "link": "https://www.marketwatch.com/story/the-numbers-dont-lie-if-i-had-invested-my-social-security-in-the-s-p-500-id-have-4-million-is-the-system-broken-d41b1779?mod=mw_rss_topstories",
           "source": "MarketWatch.com - Top Stories",
           "published_utc": "2026-05-03 13:45 UTC",
-          "analysis_zh": "一项新的分析显示，如果将社会保障金投资于标准普尔500指数，投资者的回报将达到400万美元。这一发现引发了对现行社会保障制度的质疑，许多人开始思考该制度是否存在缺陷。此事的重要性在于，它可能促使政策制定者重新审视社会保障的可持续性和投资策略，从而影响未来的退休金制度。",
-          "analysis_en": "A new analysis reveals that if Social Security funds were invested in the S&P 500, investors could see returns of up to $4 million. This finding raises questions about the current Social Security system, prompting many to consider whether it is flawed. The significance of this issue lies in its potential to encourage policymakers to reevaluate the sustainability and investment strategies of Social Security, which could impact future retirement systems."
+          "analysis_zh": "一项新的分析显示，如果将社会保障金投资于标准普尔500指数，个人的财富将大幅增长，甚至可能达到400万美元。这一发现引发了对当前社会保障制度的质疑，许多人开始思考该系统是否存在缺陷。这一问题的重要性在于，社会保障是许多退休人员的主要收入来源，任何制度上的缺陷都可能影响到他们的生活质量。",
+          "analysis_en": "A new analysis reveals that if Social Security benefits were invested in the S&P 500, individuals could see their wealth grow significantly, potentially reaching $4 million. This finding raises questions about the current Social Security system, prompting many to consider whether it is fundamentally flawed. The significance of this issue lies in the fact that Social Security is a primary income source for many retirees, and any shortcomings in the system could impact their quality of life."
         },
         {
-          "rank": 4,
+          "rank": 6,
           "title": "AI adoption cuts jobs but lifts productivity, survey shows",
           "link": "https://www.investing.com/news/stock-market-news/ai-adoption-cuts-jobs-but-lifts-productivity-survey-shows-4654847",
           "source": "Stock Market News",
           "published_utc": "2026-05-03 13:35 UTC",
-          "analysis_zh": "一项调查显示，人工智能的普及虽然导致了部分职位的减少，但同时也显著提高了生产力。这一现象引发了广泛关注，因为它不仅影响了劳动力市场的结构，还可能改变企业的运营模式。随着AI技术的不断进步，企业可能会更加依赖自动化，从而进一步加剧就业市场的竞争。",
-          "analysis_en": "A recent survey indicates that while the adoption of artificial intelligence has led to job losses, it has also significantly boosted productivity. This development is drawing considerable attention as it impacts the structure of the labor market and may alter business operations. As AI technology continues to advance, companies may increasingly rely on automation, potentially intensifying competition in the job market."
+          "analysis_zh": "一项调查显示，人工智能的普及虽然导致了一些工作岗位的减少，但同时也提高了生产力。这一现象引发了广泛关注，因为它可能会改变未来劳动市场的结构。企业在追求效率的同时，可能需要重新评估人力资源的配置，进而影响就业机会和经济增长。",
+          "analysis_en": "A recent survey indicates that while the adoption of artificial intelligence has resulted in job losses, it has also boosted productivity. This development is significant as it may reshape the future structure of the labor market. As companies strive for efficiency, they may need to reassess their workforce allocation, which could ultimately impact job opportunities and economic growth."
         },
         {
-          "rank": 5,
+          "rank": 7,
           "title": "Used EV sales are surging — how their ownership costs compare to gas-powered cars",
           "link": "https://www.cnbc.com/2026/05/03/ev-ownership-costs.html",
           "source": "US Top News and Analysis",
           "published_utc": "2026-05-03 13:30 UTC",
-          "analysis_zh": "随着越来越多的经济型电动汽车进入二手车市场，消费者在购买时需要关注与传统燃油车不同的拥有成本。这一趋势不仅反映了电动车的普及，也可能影响未来汽车市场的格局。电动汽车的维护和使用成本通常较低，但初期购买价格和充电设施的可用性仍是消费者考虑的重要因素。了解这些差异将帮助买家做出更明智的决策。",
-          "analysis_en": "As more affordable electric vehicles enter the used car market, consumers need to be aware of ownership costs that differ from those of traditional gas-powered cars. This trend not only reflects the growing popularity of electric vehicles but may also influence the future landscape of the automotive market. While electric vehicles typically have lower maintenance and operating costs, the initial purchase price and availability of charging infrastructure remain significant considerations for buyers. Understanding these differences will help consumers make more informed decisions."
+          "analysis_zh": "随着越来越多的经济型电动汽车进入二手车市场，消费者在购买时需要关注与传统燃油车不同的拥有成本。这一趋势不仅反映了电动车的普及，也可能影响消费者的购车决策和整体市场格局。电动汽车的维护和充电费用可能与燃油车有所不同，这使得消费者在选择时需要更加谨慎。未来，随着电动车技术的进步和充电基础设施的完善，电动车的市场份额有望进一步扩大。",
+          "analysis_en": "As more affordable electric vehicles enter the used car market, buyers need to be aware of ownership costs that differ from those associated with traditional gas-powered cars. This trend not only reflects the growing popularity of electric vehicles but may also influence consumer purchasing decisions and the overall market landscape. The maintenance and charging costs of electric cars can vary significantly from those of gas cars, prompting consumers to be more cautious in their choices. In the future, as electric vehicle technology advances and charging infrastructure improves, the market share of electric vehicles is expected to grow further."
         },
         {
-          "rank": 6,
+          "rank": 8,
           "title": "‘I am her scapegoat’: My mother-in-law squandered all her money. Do we buy her a house so she’s not homeless?",
           "link": "https://www.marketwatch.com/story/i-am-her-scapegoat-my-mother-in-law-squandered-all-her-money-do-we-buy-her-a-house-so-shes-not-homeless-a8cbfa1c?mod=mw_rss_topstories",
           "source": "MarketWatch.com - Top Stories",
           "published_utc": "2026-05-03 13:19 UTC",
-          "analysis_zh": "一位母亲的婆婆将所有的钱都花光了，她的家庭面临是否为婆婆购买房子的困境，以避免她无家可归。这个问题引发了家庭内部的紧张关系，因为婆婆指责她的儿子和孙子与她的关系不佳。这个事件不仅影响了家庭成员之间的关系，也可能对他们的经济状况产生重大影响，尤其是在购房决策上。",
-          "analysis_en": "A woman is facing a dilemma about whether to buy a house for her mother-in-law, who has squandered all her money and risks becoming homeless. This situation has created tension within the family, as the mother-in-law blames her son and grandchildren for their poor relationship. This issue not only affects the dynamics among family members but could also have significant financial implications, particularly regarding the decision to purchase a home."
+          "analysis_zh": "一位母亲的婆婆因为挥霍所有的钱而面临无家可归的困境。她的儿媳感到被指责，认为婆婆把与儿子和孙子之间的关系问题都归咎于自己。这个事件引发了对家庭责任和财务管理的讨论，尤其是在老年人面临经济困境时。如何处理家庭成员的财务问题，不仅关乎个人的道德责任，也可能影响家庭的和谐与稳定。",
+          "analysis_en": "A mother-in-law is facing homelessness after squandering all her money, and her daughter-in-law feels blamed for the poor relationship with her son and grandchildren. This situation raises important discussions about family responsibility and financial management, particularly when elderly individuals encounter economic difficulties. How to handle financial issues within the family not only relates to personal moral obligations but may also affect family harmony and stability."
         },
         {
-          "rank": 7,
+          "rank": 9,
           "title": "‘We’re all worried the honey pot will run dry’: Does the U.S. government borrow from my Social Security to fund federal programs?",
           "link": "https://www.marketwatch.com/story/were-worried-the-honey-pot-will-run-dry-does-the-trump-administration-use-my-social-security-to-fund-federal-programs-1cd01b8f?mod=mw_rss_topstories",
           "source": "MarketWatch.com - Top Stories",
           "published_utc": "2026-05-03 13:06 UTC",
-          "analysis_zh": "美国政府是否会借用社会保障资金来资助联邦项目的问题引发了广泛关注。华盛顿特区有许多关于如何解决这一项目即将面临的资金问题的建议。这一问题的重要性在于，社会保障是许多美国人退休生活的主要经济来源。如果政府无法妥善解决资金短缺，将可能影响到数百万人的生活质量和经济安全。",
-          "analysis_en": "The question of whether the U.S. government borrows from Social Security funds to finance federal programs has raised significant concern. There are numerous suggestions circulating in Washington D.C. on how to address the imminent funding issues facing the program. This matter is crucial because Social Security serves as a primary source of income for many Americans in retirement. If the government fails to effectively resolve the funding shortfall, it could impact the quality of life and economic security for millions."
+          "analysis_zh": "美国政府是否会借用社会保障基金来资助联邦项目的问题引发了广泛关注。随着资金即将枯竭，华盛顿D.C.出现了许多关于如何解决这一问题的建议。这一情况不仅影响到数百万依赖社会保障的人，也可能对未来的财政政策产生深远影响。如果不采取有效措施，可能会导致社会保障福利的削减，从而影响到老年人和低收入家庭的生活质量。",
+          "analysis_en": "The question of whether the U.S. government borrows from Social Security to fund federal programs has sparked significant concern. With the program facing imminent funding issues, various suggestions are circulating in Washington D.C. This situation not only affects millions who rely on Social Security but could also have far-reaching implications for future fiscal policies. Without effective measures, there may be cuts to Social Security benefits, impacting the quality of life for seniors and low-income families."
         },
         {
-          "rank": 8,
+          "rank": 10,
           "title": "Fewer features, more value: Why some Americans are buying simpler cars",
           "link": "https://www.cnbc.com/2026/05/03/why-some-americans-are-buying-simpler-cars.html",
           "source": "US Top News and Analysis",
           "published_utc": "2026-05-03 13:00 UTC",
-          "analysis_zh": "近年来，越来越多的美国消费者选择购买简单配置的汽车，例如布艺座椅、手动控制和模拟仪表。这一趋势反映了消费者对价格更为敏感，许多人希望以接近3万美元的价格购得一辆实用的汽车。这种变化不仅影响了汽车制造商的产品设计，也可能导致市场上更高性价比车型的增加，满足消费者对经济实惠的需求。",
-          "analysis_en": "In recent years, more American consumers are opting for simpler cars with features like cloth seats, manual controls, and analog gauges. This trend indicates a growing sensitivity to pricing, as many people seek practical vehicles priced closer to $30,000. This shift not only affects the product designs of car manufacturers but may also lead to an increase in more affordable models in the market, catering to consumers' demand for cost-effective options."
-        },
-        {
-          "rank": 9,
-          "title": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.05%",
-          "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-higher-at-close-of-trade-tadawul-all-share-up-005-4654839",
-          "source": "Stock Market News",
-          "published_utc": "2026-05-03 12:45 UTC",
-          "analysis_zh": "沙特阿拉伯股市在交易结束时上涨，塔达乌尔综合指数上涨了0.05%。这一小幅上涨反映了市场的稳定性，尽管全球经济环境仍然面临挑战。投资者对沙特经济的前景持乐观态度，可能会吸引更多的外资流入。这一趋势不仅有助于提升沙特市场的活跃度，也可能对区域经济产生积极影响。",
-          "analysis_en": "Saudi Arabia's stock market closed higher, with the Tadawul All Share Index rising by 0.05%. This slight increase indicates market stability, even as the global economic environment faces challenges. Investors are optimistic about the prospects of the Saudi economy, which may attract more foreign investment. This trend not only helps to enhance the activity of the Saudi market but could also have a positive impact on the regional economy."
-        },
-        {
-          "rank": 10,
-          "title": "Small caps steal the spotlight as S&P 500 rally masks weak breadth",
-          "link": "https://www.investing.com/news/stock-market-news/small-caps-steal-the-spotlight-as-sp-500-rally-masks-weak-breadth-4654838",
-          "source": "Stock Market News",
-          "published_utc": "2026-05-03 12:43 UTC",
-          "analysis_zh": "近期，小型股在股市中引起了广泛关注，尽管标准普尔500指数的上涨掩盖了市场内部的疲弱表现。这种现象表明，虽然整体市场看似强劲，但实际上许多股票的表现并不理想。这一趋势可能会影响投资者的信心，促使他们重新评估投资组合的多样性和风险管理策略。",
-          "analysis_en": "Recently, small-cap stocks have gained significant attention in the stock market, even as the S&P 500's rally obscures weak market breadth. This situation indicates that while the overall market appears strong, many individual stocks are underperforming. This trend could affect investor confidence, prompting a reassessment of portfolio diversification and risk management strategies."
+          "analysis_zh": "近年来，越来越多的美国消费者开始选择简单配置的汽车，例如布艺座椅、手动控制和模拟仪表盘。这一趋势的背后是消费者对价格的敏感，许多人希望购买价格更接近30,000美元的车型。此现象反映了经济压力对消费者购买决策的影响，尤其是在通货膨胀和生活成本上升的背景下。简单配置的汽车不仅能满足基本需求，还能帮助消费者节省开支。",
+          "analysis_en": "In recent years, more American consumers are opting for simpler cars, featuring cloth seats, manual controls, and analog gauges. This trend is driven by a sensitivity to pricing, with many buyers looking for vehicles closer to the $30,000 mark. It reflects the impact of economic pressures on consumer purchasing decisions, particularly against the backdrop of rising inflation and living costs. Simpler cars not only meet basic needs but also help consumers save money."
         }
       ]
     },
     "健康": {
       "description": "医学、营养、抗衰老、代谢与公共健康",
-      "count": 4,
+      "count": 3,
       "items": [
         {
           "rank": 1,
@@ -114,8 +114,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260501052842.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-05-03 12:50 UTC",
-          "analysis_zh": "科学家们发现，大脑的记忆中心并不是从空白开始，而是从一个拥挤的网络开始。研究表明，海马体内的早期神经网络密集且看似随机，随着时间的推移，通过剔除多余的连接变得更加有序。这一修剪过程使得大脑在链接经历和形成记忆时更加高效。这项研究挑战了大脑从零开始的传统观念，可能会对我们理解记忆形成和大脑发育的方式产生深远影响。",
-          "analysis_en": "Scientists have found that the brain's memory center does not start from a blank slate but rather from a crowded network. Research indicates that early neural networks in the hippocampus are dense and seemingly random, becoming more organized over time through a process of pruning excess connections. This process enhances the brain's efficiency in linking experiences and forming memories. The findings challenge the traditional notion that the brain begins from scratch and could have significant implications for our understanding of memory formation and brain development."
+          "analysis_zh": "科学家们发现，大脑的记忆中心并非一开始就是空白的，而是像一张拥挤的网络。研究表明，海马体内早期的神经网络密集且看似随机，随着时间的推移，这些连接会被削减，从而变得更加有序。这一修剪过程使得大脑在链接经历和形成记忆时更加高效。这项研究挑战了大脑从零开始的传统观念，可能会对我们理解记忆形成的机制产生深远影响。",
+          "analysis_en": "Scientists have found that the brain's memory center does not start off blank; instead, it resembles a crowded web. Research indicates that early neural networks in the hippocampus are dense and seemingly random, becoming more organized over time as connections are pruned away. This pruning process enhances the brain's efficiency in linking experiences and forming memories. This study challenges the traditional notion that the brain begins from scratch and may have significant implications for our understanding of memory formation."
         },
         {
           "rank": 2,
@@ -123,8 +123,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260502233922.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-05-03 11:47 UTC",
-          "analysis_zh": "最近的研究分析了“玻尔兹曼大脑”悖论，提出我们的记忆和现实感可能只是源于宇宙混沌的随机幻觉。研究揭示了物理学家在时间和熵的思考中存在的循环推理，这使我们对过去的真实了解产生了新的怀疑。这个发现重要，因为它挑战了我们对记忆可靠性的信任，可能会影响我们对时间、历史以及自我认知的理解。",
-          "analysis_en": "A recent study analyzed the \"Boltzmann brain\" paradox, suggesting that our memories and sense of reality might merely be random illusions arising from cosmic chaos. The research uncovers circular reasoning in how physicists think about time and entropy, raising new doubts about our understanding of the past. This finding is significant as it challenges our trust in the reliability of memories, potentially affecting our perceptions of time, history, and self-awareness."
+          "analysis_zh": "最近的研究分析了“玻尔兹曼脑”悖论，提出我们的记忆和现实感可能只是源自宇宙混沌的随机幻觉。研究揭示了物理学家在思考时间和熵时存在的循环推理，这使我们对过去的真实了解产生了新的疑问。这一发现不仅挑战了我们对记忆的信任，也可能影响我们对时间流逝的理解，促使科学家重新审视物理学中的基本假设。",
+          "analysis_en": "A recent study revisits the \"Boltzmann brain\" paradox, suggesting that our memories and sense of reality could merely be random illusions arising from cosmic chaos. The research uncovers circular reasoning in how physicists think about time and entropy, raising new doubts about our understanding of the past. This finding challenges our trust in memories and may influence our understanding of the flow of time, prompting scientists to reevaluate fundamental assumptions in physics."
         },
         {
           "rank": 3,
@@ -132,17 +132,8 @@
           "link": "https://www.nytimes.com/2026/05/03/science/ibogaine-psychedelics-rogan-trump.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-03 09:00 UTC",
-          "analysis_zh": "多年来，保守派一直坚决反对使用像迷幻蘑菇和LSD这样的药物。然而，特朗普政府最近却发生了显著的转变，开始接受这些迷幻药物的使用。这一变化不仅反映了对药物政策的重新审视，也可能影响未来的医疗和心理健康治疗方式。随着对迷幻药物潜在疗效的研究增多，保守派的态度转变可能会为相关立法和公共健康政策带来新的机遇。",
-          "analysis_en": "For decades, conservatives were firmly opposed to the use of drugs like psilocybin and LSD. However, the Trump administration has recently made a significant shift towards embracing these psychedelic substances. This change not only reflects a reevaluation of drug policies but could also influence future approaches to medical and mental health treatments. As research into the potential benefits of psychedelics increases, this shift in conservative attitudes may open up new opportunities for legislation and public health initiatives."
-        },
-        {
-          "rank": 4,
-          "title": "3 Medical Routines That Older People May Not Need",
-          "link": "https://www.nytimes.com/2026/05/02/health/older-colonoscopy-screenings-treatments.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-05-02 14:47 UTC",
-          "analysis_zh": "随着年龄的增长，一些医疗检查和治疗对老年患者来说可能不再必要。最新的研究结果显示，某些常规程序可能会对老年人的健康产生负面影响，因此建议减少这些不必要的干预。这一发现对于医疗实践具有重要意义，因为它可以帮助医生更好地为老年患者制定个性化的治疗方案，从而提高他们的生活质量。",
-          "analysis_en": "As people age, certain medical screenings and treatments may no longer be necessary for older patients. Recent research has identified additional routine procedures that could potentially harm the health of seniors, suggesting a reduction in these unnecessary interventions. This finding is significant for medical practice, as it can help doctors create more personalized treatment plans for older patients, ultimately improving their quality of life."
+          "analysis_zh": "过去几十年，保守派一直坚决反对使用迷幻药物，如裸盖菇素和LSD。然而，特朗普政府最近却发生了显著的转变，开始接受这些药物的使用。这一变化不仅反映了政治立场的转变，也可能影响药物政策和公共健康的未来。迷幻药物在治疗心理健康问题方面的潜力逐渐被认可，这可能会引发更广泛的社会讨论和政策调整。",
+          "analysis_en": "For decades, conservatives were firmly opposed to the use of psychedelic drugs like psilocybin and LSD. However, the Trump administration has recently made a significant shift towards embracing these substances. This change not only reflects a shift in political attitudes but may also impact drug policy and public health in the future. The growing recognition of the potential of psychedelics in treating mental health issues could spark broader societal discussions and policy changes."
         }
       ]
     },
@@ -156,8 +147,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260501052842.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-05-03 12:50 UTC",
-          "analysis_zh": "科学家发现，大脑并不是从空白开始，而是从满载开始。研究表明，海马体的早期神经网络密集且看似随机，随着时间的推移，通过剪除多余的连接而变得更加有序。这一修剪过程使得大脑在链接经历和形成记忆方面更加高效。这项研究挑战了大脑从零开始的传统观念，可能会影响我们对记忆形成和学习过程的理解。",
-          "analysis_en": "Scientists have found that the brain does not start blank but rather overloaded. Research indicates that early neural networks in the hippocampus are dense and seemingly random, becoming more organized over time through a process of pruning excess connections. This pruning creates a more efficient system for linking experiences and forming memories, challenging the traditional notion that the brain begins from scratch. This discovery may influence our understanding of memory formation and learning processes."
+          "analysis_zh": "科学家发现，大脑并不是从空白开始，而是从一个充满信息的状态开始。研究表明，海马体的早期神经网络密集且看似随机，随着时间的推移，通过修剪连接变得更加有序。这一过程使得大脑在链接经历和形成记忆时更加高效。这项研究挑战了大脑从零开始的传统观念，可能会影响我们对记忆形成和学习过程的理解。",
+          "analysis_en": "Scientists have found that the brain does not start as a blank slate but rather as a state filled with information. Research indicates that early neural networks in the hippocampus are dense and seemingly random, becoming more organized over time through a pruning process. This allows the brain to link experiences and form memories more efficiently. This study challenges the traditional notion that the brain begins from scratch and may influence our understanding of memory formation and learning processes."
         },
         {
           "rank": 2,
@@ -165,8 +156,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260502233922.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-05-03 11:47 UTC",
-          "analysis_zh": "一项新的研究分析了“玻尔兹曼大脑”悖论，提出我们的记忆和现实感可能只是来自宇宙混沌的随机幻觉。这项研究揭示了物理学家在思考时间和熵时存在的循环推理问题，从而对我们能否真正了解过去提出了新的质疑。这一发现的重要性在于，它挑战了我们对记忆可靠性的传统看法，可能影响我们对时间、记忆和现实的理解。",
-          "analysis_en": "A new study analyzes the \"Boltzmann brain\" paradox, suggesting that our memories and sense of reality might just be random illusions arising from cosmic chaos. The research uncovers circular reasoning in how physicists think about time and entropy, raising fresh doubts about our ability to truly understand the past. This finding is significant as it challenges traditional views on the reliability of memory and may impact our understanding of time, memory, and reality."
+          "analysis_zh": "一项关于“玻尔兹曼大脑”悖论的新分析提出，我们的记忆和现实感可能在理论上是源于宇宙混沌的随机幻觉。研究揭示了物理学家在思考时间和熵时的循环推理，这使我们对过去的真实了解产生了新的怀疑。这一发现的重要性在于，它挑战了我们对记忆可靠性的基本信念，可能影响我们对时间、记忆和现实的理解。",
+          "analysis_en": "A new analysis of the \"Boltzmann brain\" paradox suggests that our memories and sense of reality could, in theory, be random illusions arising from cosmic chaos. The study uncovers circular reasoning in how physicists think about time and entropy, raising fresh doubts about what we can truly know about the past. This finding is significant as it challenges our fundamental beliefs about the reliability of memories and may influence our understanding of time, memory, and reality."
         }
       ]
     },
@@ -176,84 +167,84 @@
       "items": [
         {
           "rank": 1,
+          "title": "Jeeves and Ask.com Shut Down After Almost 30 Years",
+          "link": "https://www.nytimes.com/2026/05/03/business/ask-jeeves-shuts-down-internet-search-engine.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-05-03 14:36 UTC",
+          "analysis_zh": "Jeeves和Ask.com在运营近30年后于5月1日正式关闭。这一决定标志着互联网早期搜索引擎的一个重要里程碑，反映了科技行业的快速变化。随着用户需求的演变和竞争的加剧，许多传统搜索引擎面临着巨大的压力。这一关闭不仅影响了曾经依赖该平台的用户，也可能促使其他类似服务重新审视其市场定位和创新策略。",
+          "analysis_en": "Jeeves and Ask.com officially shut down on May 1, after nearly 30 years of operation. This decision marks a significant milestone in the history of early internet search engines, highlighting the rapid changes in the tech industry. As user demands evolve and competition intensifies, many traditional search engines are under immense pressure. This closure not only affects the users who relied on the platform but may also prompt other similar services to reassess their market positioning and innovation strategies."
+        },
+        {
+          "rank": 2,
           "title": "These reusable digital Polaroids are a clever way to cover a fridge in memories",
           "link": "https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on",
           "source": "The Verge",
           "published_utc": "2026-05-03 13:00 UTC",
-          "analysis_zh": "最近，VidaBay推出了一款名为Snap的数字波拉罗伊磁铁，这种产品巧妙地将电子价格标签转变为可重复使用的数字照片磁铁。与传统的即时相机不同，这款磁铁使用NFC技术和彩色电子墨水屏幕，用户可以随时更换显示的图片，而无需充电。这项创新不仅为家庭增添了个性化的装饰，还可能改变人们记录和分享生活瞬间的方式，减少对传统相机和胶卷的依赖。",
-          "analysis_en": "Recently, VidaBay launched a digital Polaroid magnet called Snap, which cleverly transforms electronic price tags into reusable digital photo magnets. Unlike traditional instant cameras, this magnet uses NFC technology and color E Ink screens, allowing users to change the displayed image at any time without needing to charge it. This innovation not only adds a personalized touch to home decor but may also change the way people capture and share moments in their lives, reducing reliance on traditional cameras and film."
+          "analysis_zh": "最近，一家名为VidaBay的小公司推出了一款名为Snap的数字波拉罗伊磁铁。这款产品利用NFC技术和彩色电子墨水屏幕，用户可以随时更换显示的照片，而无需充电。这种创新的设计不仅解决了传统即时相机笨重和昂贵胶卷的问题，还为用户提供了一种便捷的方式来展示生活中的美好瞬间。随着这种数字波拉罗伊的普及，家庭装饰和个人记忆的展示方式可能会发生变化。",
+          "analysis_en": "Recently, a small company called VidaBay launched a digital Polaroid magnet known as Snap. This product uses NFC technology and color E Ink screens, allowing users to change the displayed photos without needing to recharge. This innovative design addresses the issues of bulky instant cameras and expensive film, providing a convenient way to showcase cherished moments in life. As digital Polaroids like this gain popularity, the way people decorate their homes and display personal memories may change significantly."
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
           "link": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
           "source": "The Verge",
           "published_utc": "2026-05-03 13:00 UTC",
-          "analysis_zh": "最近，名为DualShot Recorder的相机应用程序迅速走红，仅在发布12小时内便登上了App Store付费应用的榜首。这一成功出乎意料，尤其是考虑到这款应用的起源：它源于一位名为德里克·道尼的创作者，他因与邻里松鼠的互动而广受欢迎。这个应用不仅展示了他与松鼠的有趣故事，也反映了社交媒体时代内容创作者如何利用个人品牌开发新产品。这一现象可能会影响更多创作者探索与粉丝互动的新方式，并推动应用市场的创新。",
-          "analysis_en": "Recently, the camera app DualShot Recorder became an overnight sensation, reaching the top of the App Store's paid apps list just 12 hours after its release. This surprising success is particularly noteworthy given the app's origin: it was created by Derrick Downey Jr., who is famous for his interactions with neighborhood squirrels. The app not only showcases his charming stories with the squirrels but also illustrates how content creators in the social media era can leverage their personal brands to develop new products. This trend may encourage more creators to explore innovative ways to engage with their audiences and drive innovation in the app market."
+          "analysis_zh": "最近，一款名为DualShot Recorder的相机应用在发布后仅12小时内便登上了App Store付费应用的第一名，成为了一个令人惊讶的成功。这款应用的背后是德里克·道尼（Derrick Downey Jr.），他因拍摄与邻里松鼠的互动视频而广受欢迎。这个应用的成功不仅展示了道尼的创意和影响力，也表明了短视频内容与应用开发之间的紧密联系。随着社交媒体的不断发展，这种跨界合作可能会激励更多创作者探索新的商业模式。",
+          "analysis_en": "Recently, an app called DualShot Recorder became an overnight sensation, reaching the number one spot on the App Store's paid apps list just 12 hours after its release. The app was developed by Derrick Downey Jr., who gained popularity through his videos featuring neighborhood squirrels. This success not only highlights Downey's creativity and influence but also illustrates the close connection between short-form video content and app development. As social media continues to evolve, such cross-disciplinary collaborations may inspire more creators to explore new business models."
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Driving Electric in Costa Rica Is Surprisingly Doable",
           "link": "https://www.nytimes.com/2026/05/03/business/costa-rica-electric-vehicle-road-trip.html",
           "source": "NYT > Technology",
           "published_utc": "2026-05-03 12:34 UTC",
-          "analysis_zh": "在哥斯达黎加，电动车的使用变得越来越可行，尽管充电网络仍然不够完善。这一现象表明，尽管基础设施存在不足，但在小国的环境中，电动车的普及仍然具有潜力。这对可再生能源的推广和减少碳排放具有重要意义，可能会激励其他国家在电动车基础设施建设上加大投资。",
-          "analysis_en": "In Costa Rica, the use of electric vehicles is becoming increasingly feasible, even though the charging network is still lacking. This situation highlights that, despite infrastructure challenges, there is potential for electric vehicle adoption in smaller countries. This is significant for promoting renewable energy and reducing carbon emissions, and it may encourage other nations to invest more in electric vehicle infrastructure."
+          "analysis_zh": "在哥斯达黎加，电动车的使用变得越来越可行，尽管充电网络仍然不够完善。这一现象表明，尽管基础设施存在不足，但在小国的背景下，电动车的普及依然有可能。随着环保意识的提升和电动车技术的进步，哥斯达黎加的电动车市场可能会迎来更大的发展。这不仅有助于减少碳排放，还可能推动当地经济的转型。",
+          "analysis_en": "In Costa Rica, the use of electric vehicles is becoming increasingly feasible, despite the shortcomings in the charging network. This situation indicates that, even with infrastructure challenges, the adoption of electric vehicles is still possible in a smaller country. As environmental awareness grows and electric vehicle technology advances, Costa Rica's electric vehicle market may see significant growth. This shift could not only help reduce carbon emissions but also drive a transformation in the local economy."
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "AI music is flooding streaming services — but who wants it?",
           "link": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
           "source": "The Verge",
           "published_utc": "2026-05-03 12:00 UTC",
-          "analysis_zh": "近年来，生成性人工智能在音乐创作中的应用迅速增长，尤其是在流媒体平台上。随着Suno和Udio等工具的推出，任何人都可以通过简单的文本提示快速创作完整的音乐作品。这一变化使得AI音乐的数量激增，但同时也引发了人们对其质量和艺术价值的质疑。尽管流媒体服务尚未对AI音乐采取禁令，但它们也未完全拥抱这一新兴趋势，这可能会对音乐产业的未来发展产生深远影响。",
-          "analysis_en": "In recent years, the use of generative AI in music creation has surged, particularly on streaming platforms. With the introduction of tools like Suno and Udio, anyone can quickly create complete music compositions using simple text prompts. This shift has led to a significant increase in the volume of AI-generated music, raising questions about its quality and artistic value. While streaming services have not banned AI music, they have also not fully embraced this emerging trend, which could have profound implications for the future of the music industry."
+          "analysis_zh": "近期，人工智能音乐作品迅速涌入各大流媒体平台，但人们对这些作品的需求却并不明确。随着生成式人工智能技术的进步，创作音乐变得更加简单，任何人只需输入简单的文本提示即可生成完整的音乐作品。这一现象引发了对音乐创作本质的讨论，也让人们开始思考人工智能在音乐产业中的未来地位。尽管AI音乐的数量激增，但市场对其接受度仍然不高，可能会影响音乐创作者和流媒体平台的商业模式。",
+          "analysis_en": "Recently, AI-generated music has flooded streaming platforms, yet the demand for such music remains unclear. With advancements in generative AI technology, creating music has become easier, allowing anyone to generate complete compositions with simple text prompts. This phenomenon has sparked discussions about the essence of music creation and the future role of AI in the music industry. Despite the surge in AI music, its acceptance in the market is still low, which could impact the business models of music creators and streaming platforms."
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "These Countries Embrace E.V.s to Avoid Oil Price Shocks",
           "link": "https://www.nytimes.com/2026/05/03/business/electric-vehicles-costa-rica.html",
           "source": "NYT > Technology",
           "published_utc": "2026-05-03 09:00 UTC",
-          "analysis_zh": "在哥斯达黎加以及其他一些拉丁美洲、亚洲和非洲国家，越来越多的人开始购买电动车，以应对油价飙升带来的冲击。这一趋势反映了全球对可再生能源和环保交通工具的日益关注。电动车的普及不仅有助于降低对化石燃料的依赖，还可能推动相关产业的发展，促进经济转型。",
-          "analysis_en": "In Costa Rica and several other countries in Latin America, Asia, and Africa, more people are purchasing electric vehicles to mitigate the impact of rising fuel prices. This trend highlights a growing global awareness of renewable energy and environmentally friendly transportation. The increase in electric vehicle adoption can reduce dependence on fossil fuels and may also stimulate the growth of related industries, fostering economic transformation."
+          "analysis_zh": "哥斯达黎加及其他拉丁美洲、亚洲和非洲国家的人们正越来越多地购买电动汽车，以应对油价飙升带来的冲击。这一趋势反映了全球对可持续交通的需求增加，同时也显示出各国在能源独立方面的努力。随着电动汽车的普及，相关产业链的发展和基础设施的完善将可能带来新的经济机会。",
+          "analysis_en": "People in Costa Rica and other Latin American, Asian, and African countries are increasingly purchasing electric vehicles to mitigate the impact of rising fuel prices. This trend highlights a growing global demand for sustainable transportation and reflects efforts by various nations to achieve energy independence. As electric vehicles become more common, the development of related industries and infrastructure may create new economic opportunities."
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Meta’s historic loss in court could cost a lot more than $375 million",
           "link": "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety",
           "source": "The Verge",
           "published_utc": "2026-05-02 18:25 UTC",
-          "analysis_zh": "新墨西哥州检察长劳尔·托雷斯在今年早些时候对Meta公司提起的儿童安全案件中赢得了历史性的3.75亿美元赔偿。然而，接下来的审判阶段可能对Meta及整个社交媒体行业产生更深远的影响。从周一开始，Meta和新墨西哥州的律师将在圣菲法院进行为期三周的公共滋扰审判，讨论检察长希望法官要求Meta在其平台上进行的多项变更。这些变更包括为新墨西哥用户添加年龄验证、禁止18岁以下用户使用端到端加密、限制每月使用时间为90小时等。这一案件的结果可能会促使社交媒体公司在保护儿童安全方面采取更严格的措施。",
-          "analysis_en": "New Mexico Attorney General Raúl Torrez won a historic $375 million judgment against Meta in a landmark child safety case earlier this year. However, the upcoming trial could have even greater implications for Meta and the social media industry as a whole. Starting Monday, attorneys for Meta and New Mexico will engage in a three-week public nuisance trial in Santa Fe, where they will discuss changes the Attorney General wants the judge to mandate for Meta's platforms. These changes include implementing age verification for New Mexico users, prohibiting end-to-end encryption for users under 18, and limiting their usage to 90 hours per month. The outcome of this case may lead to stricter measures for social media companies in protecting child safety."
+          "analysis_zh": "新墨西哥州检察长拉乌尔·托雷斯在一宗标志性的儿童安全案件中赢得了历史性赔偿金375百万美元，但接下来的诉讼阶段可能对Meta及整个社交媒体行业产生更深远的影响。从本周一开始，Meta和新墨西哥的律师将在圣菲法院进行为期三周的公共滋扰审判，讨论检察长希望法官要求Meta对其平台进行的多项改变。这些改变包括为新墨西哥用户增加年龄验证、禁止18岁以下用户使用端到端加密、限制他们每月使用时间等。这一案件的结果可能会影响社交媒体公司的运营模式，推动更严格的儿童保护措施。",
+          "analysis_en": "New Mexico Attorney General Raúl Torrez won a historic $375 million in a landmark child safety case against Meta, but the next phase of the legal battle could have even greater implications for Meta and the social media industry. Starting Monday, attorneys for Meta and New Mexico will return to a Santa Fe courthouse for a three-week public nuisance trial, where they will discuss the changes the Attorney General wants the judge to mandate for Meta's platforms. These changes include implementing age verification for New Mexico users, prohibiting end-to-end encryption for users under 18, and limiting their usage time. The outcome of this case could significantly impact how social media companies operate, potentially leading to stricter child protection measures."
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices",
           "link": "https://www.theverge.com/business/922788/spirit-airlines-shutdown",
           "source": "The Verge",
           "published_utc": "2026-05-02 17:51 UTC",
-          "analysis_zh": "美国超低成本航空公司精神航空在运营34年后于周六凌晨3点宣布停业，取消了所有航班。由于特朗普政府对伊朗的政策导致航空燃料价格翻倍，精神航空的破产重组计划受到严重影响，最终被迫关闭。这一事件不仅使数千名乘客滞留，也使约17,000名员工失业，影响深远。航空业的竞争格局可能因此发生变化，其他航空公司可能会借机吸引精神航空的客户。",
-          "analysis_en": "Spirit Airlines, the ultra-low-cost carrier, ceased operations after 34 years in business, canceling all flights at 3 AM ET on Saturday. The airline's bankruptcy restructuring was derailed by soaring fuel prices resulting from the Trump administration's policies on Iran. This shutdown leaves thousands of passengers stranded and approximately 17,000 employees without jobs, which could have significant repercussions. The competitive landscape of the airline industry may shift, as other carriers might take the opportunity to attract Spirit's former customers."
+          "analysis_zh": "美国超低成本航空公司精神航空（Spirit Airlines）在运营34年后于周六凌晨3点宣布停业，取消了所有航班。由于特朗普对伊朗的战争导致航空燃油价格翻倍，该公司的破产重组计划受到严重影响，最终导致其关闭。此事件不仅使17000名员工失业，也让许多乘客陷入困境，其他航空公司已开始提供救助票价选项。这一事件突显了国际局势对航空业的深远影响。",
+          "analysis_en": "Spirit Airlines, the ultra-low-cost carrier, announced its shutdown at 3 AM ET on Saturday after 34 years in operation, canceling all flights. The company's bankruptcy restructuring was severely impacted by skyrocketing jet fuel prices due to Trump's war on Iran, leading to its closure. This situation not only leaves 17,000 employees without jobs but also stranding many travelers, prompting other airlines to offer rescue fare options. This incident highlights the significant impact that international events can have on the aviation industry."
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Aura’s delightful Aspen photo frame is on sale for $30 off this weekend",
           "link": "https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale",
           "source": "The Verge",
           "published_utc": "2026-05-02 17:00 UTC",
-          "analysis_zh": "Aura的Aspen数字相框在母亲节期间降价30美元，售价为199美元。这款12英寸的相框可以让朋友和家人随时发送照片和视频，成为一种不断更新的“活照片册”。这项促销活动不仅为消费者提供了一个实惠的选择，也让更多人能够在母亲节这个特别的日子里，送出充满温情的礼物。随着节日临近，这种数字相框的热销可能会推动相关科技产品的市场需求。",
-          "analysis_en": "Aura's Aspen digital photo frame is currently on sale for $30 off, bringing the price down to $199 for Mother's Day. This 12-inch frame allows friends and family to send photos and videos from anywhere, making it a living photo album that evolves over time. This promotion not only offers consumers an affordable gift option but also enables more people to give heartfelt presents on this special occasion. As the holiday approaches, the increased popularity of such digital frames may boost demand in the tech product market."
-        },
-        {
-          "rank": 9,
-          "title": "How Running Shoes Have Evolved, From Ancient Greece to a Record-Breaking Marathon Time",
-          "link": "https://www.nytimes.com/2026/05/01/sports/running-shoe-history-adidas-sneakers-london-marathon.html",
-          "source": "NYT > Technology",
-          "published_utc": "2026-05-02 14:17 UTC",
-          "analysis_zh": "随着科技的发展，跑鞋的设计经历了巨大的变革，从古希腊时期到如今的现代跑鞋，创新不断推动着运动鞋的进步。最近，在伦敦马拉松中，跑鞋的轻量化设计帮助选手们打破了多项纪录。这一趋势不仅提升了运动员的表现，也引发了对跑鞋技术的广泛关注，可能会影响未来运动装备的研发方向。",
-          "analysis_en": "With advancements in technology, the design of running shoes has undergone significant changes, evolving from ancient Greece to modern sneakers. Recently, the lightweight design of running shoes contributed to record-breaking performances at the London Marathon. This trend not only enhances athletes' performance but also sparks widespread interest in running shoe technology, which may influence the development of future sports equipment."
+          "analysis_zh": "Aura的Aspen数字相框在母亲节期间降价30美元，现售价为199美元。这款12英寸的相框允许朋友和家人随时随地发送照片和视频，成为一种“活着的相册”。这项促销活动不仅为消费者提供了更实惠的选择，也为即将到来的母亲节增添了温馨的礼物选择。数字相框的流行可能会影响其他传统相册的销售，进一步推动智能家居产品的发展。",
+          "analysis_en": "Aura's Aspen digital photo frame is currently on sale for $30 off, bringing the price down to $199 for Mother's Day. This 12-inch frame allows friends and family to send photos and videos from anywhere, making it a modern \"living album.\" This promotion not only offers consumers a more affordable gift option but also adds a heartfelt choice for the upcoming Mother's Day. The popularity of digital frames may impact the sales of traditional photo albums and further drive the growth of smart home products."
         }
       ]
     },
@@ -267,8 +258,8 @@
           "link": "https://www.nytimes.com/2026/05/03/arts/television/aziz-ansari-kash-patel-snl-olivia-rodrigo.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-03 12:49 UTC",
-          "analysis_zh": "喜剧演员阿兹兹·安萨里在近十年内首次回归《周六夜现场》，在由奥利维亚·罗德里戈主持的节目中饰演联邦调查局局长卡什·帕特尔。这一亮相引起了广泛关注，标志着安萨里在经历了一段时间的公众沉寂后，重新回到了聚光灯下。此举不仅展示了他的喜剧才华，也可能影响他未来的职业发展和公众形象。",
-          "analysis_en": "Comedian Aziz Ansari made his first appearance on \"Saturday Night Live\" in nearly a decade, portraying FBI Director Kash Patel in an episode hosted by Olivia Rodrigo. This return has garnered significant attention, marking Ansari's re-emergence into the spotlight after a period of public silence. His appearance not only showcases his comedic talent but may also influence his future career trajectory and public perception."
+          "analysis_zh": "喜剧演员阿齐兹·安萨里在近十年内首次回归《周六夜现场》，在由奥利维亚·罗德里戈主持的一集中扮演联邦调查局局长卡什·帕特尔。这一亮相不仅标志着安萨里重返喜剧舞台，也引发了人们对其职业生涯的关注。安萨里的回归可能会吸引更多观众关注《周六夜现场》，同时也可能为他未来的项目带来新的机会。",
+          "analysis_en": "Comedian Aziz Ansari made his first appearance on \"Saturday Night Live\" in nearly a decade, portraying FBI Director Kash Patel in an episode hosted by Olivia Rodrigo. This return not only marks Ansari's comeback to the comedy scene but also draws attention to his career trajectory. His appearance could attract more viewers to \"Saturday Night Live\" and potentially open up new opportunities for him in future projects."
         },
         {
           "rank": 2,
@@ -276,8 +267,8 @@
           "link": "https://www.dezeen.com/2026/05/03/bernard-tschumi-architects-philo/",
           "source": "Dezeen",
           "published_utc": "2026-05-03 10:00 UTC",
-          "analysis_zh": "瑞士的罗斯学校新建了一座名为Philo的科学中心，设计由国际知名建筑事务所Bernard Tschumi Architects完成。这个中心的核心是一个明亮的中庭，里面有螺旋形的滑梯和楼梯，既美观又实用。此项目不仅为学生提供了现代化的学习空间，还通过创新的设计激发了他们的探索精神。这种结合了教育与娱乐的建筑形式，可能会影响未来学校建筑的设计理念。",
-          "analysis_en": "The Philo science center at the Institute Le Rosey boarding school in Switzerland has been designed by the renowned firm Bernard Tschumi Architects. At its heart is a bright atrium featuring helical slides and staircases, which are both aesthetically pleasing and functional. This project not only provides students with a modern learning environment but also inspires their spirit of exploration through innovative design. Such a blend of education and playfulness in architecture may influence future school designs."
+          "analysis_zh": "瑞士的一所学校新建了一个名为Philo的科学中心，由国际知名建筑事务所Bernard Tschumi Architects设计。这个中心的核心是一个采光良好的中庭，内部设有螺旋滑梯和楼梯，提供了一个独特的学习和社交空间。这一设计不仅提升了校园的美观性，还为学生们创造了一个富有创意和互动性的学习环境。这种创新的建筑理念可能会影响未来学校建筑的设计趋势，鼓励更多的教育机构关注空间的多功能性和学生的体验。",
+          "analysis_en": "A new science center named Philo has been built at a school in Switzerland, designed by the renowned architectural firm Bernard Tschumi Architects. The center features a skylit atrium at its core, equipped with helical slides and staircases, providing a unique space for learning and social interaction. This design not only enhances the aesthetic appeal of the campus but also creates a creative and interactive environment for students. Such innovative architectural concepts may influence future school designs, encouraging educational institutions to focus more on the multifunctionality of spaces and the experiences of students."
         },
         {
           "rank": 3,
@@ -285,8 +276,8 @@
           "link": "https://www.dezeen.com/2026/05/03/inflatable-chair-designs/",
           "source": "Dezeen",
           "published_utc": "2026-05-03 09:00 UTC",
-          "analysis_zh": "宜家最近推出了PS 2026充气椅，吸引了人们的关注。这款椅子不仅是现代设计的体现，还唤起了90年代青少年卧室家具的怀旧情感。通过回顾七款充气椅的设计，这一趋势可能会影响当代家具市场的风格选择，尤其是年轻消费者的偏好。充气椅的流行可能会促使更多品牌探索轻便和可移动的家具设计。",
-          "analysis_en": "IKEA recently launched the PS 2026 Easy Chair, capturing public attention. This chair not only represents modern design but also evokes nostalgia for the 1990s teen bedroom furniture trend. By revisiting seven blow-up chair designs, this trend could influence contemporary furniture styles, particularly among younger consumers. The popularity of inflatable chairs may encourage more brands to explore lightweight and portable furniture designs."
+          "analysis_zh": "宜家最近推出了PS 2026充气椅，引发了人们对90年代充气家具的怀旧情绪。文章回顾了七款充气椅设计，这些设计不仅唤起了90年代青少年卧室的流行趋势，也展示了当代设计师如何在此基础上进行创新。这一趋势的重要性在于，它不仅反映了对过去时尚的重新审视，还可能影响未来家具设计的方向，尤其是在环保和可持续性方面。",
+          "analysis_en": "IKEA recently launched the PS 2026 Easy Chair, sparking nostalgia for inflatable furniture from the 1990s. The article reviews seven inflatable chair designs that not only evoke the popular trends of teenage bedrooms from that era but also showcase how contemporary designers are innovating on this theme. This trend is significant as it reflects a renewed interest in past fashions and may influence the direction of future furniture design, particularly in terms of sustainability and environmental considerations."
         },
         {
           "rank": 4,
@@ -294,8 +285,8 @@
           "link": "https://www.nytimes.com/2026/05/03/arts/television/khloe-kardashian.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-03 09:00 UTC",
-          "analysis_zh": "卡戴珊家族的明星克洛伊·卡戴珊最近表示，她非常重视生活中的音乐氛围。她提到自己喜欢的音乐包括萨布丽娜·卡朋特、弗兰克·西纳特拉和约翰·科尔特兰。这一声明不仅反映了她个人的音乐品味，也突显了音乐在她生活中的重要性。音乐作为一种情感表达和生活背景，可能会影响她的职业生涯和公众形象。",
-          "analysis_en": "Reality TV star Khloé Kardashian recently shared her strong appreciation for music as an essential part of her life. She mentioned artists like Sabrina Carpenter, Frank Sinatra, and John Coltrane as part of her personal soundtrack. This statement not only reveals her musical preferences but also emphasizes the significance of music in her daily life. As a form of emotional expression and background, music could potentially influence her career and public persona."
+          "analysis_zh": "卡戴珊家族的明星克洛伊·卡戴珊近日在一次采访中表示，她非常重视生活中的音乐氛围。她提到自己的生活配乐包括萨布丽娜·卡彭特、弗兰克·辛纳屈和约翰·科尔特兰等艺术家的作品。这一观点不仅反映了她个人的音乐品味，也突显了音乐在生活中的重要性。音乐能够影响情绪和氛围，因此她的选择可能会引起粉丝和公众对音乐与生活关系的思考。",
+          "analysis_en": "Reality TV star Khloé Kardashian recently shared in an interview that she places great importance on the soundtrack of her life. She mentioned that her playlist includes artists like Sabrina Carpenter, Frank Sinatra, and John Coltrane. This perspective not only showcases her personal taste in music but also highlights the significance of music in daily life. Since music can influence emotions and atmosphere, her choices may prompt fans and the public to reflect on the relationship between music and life."
         },
         {
           "rank": 5,
@@ -303,8 +294,8 @@
           "link": "https://www.nytimes.com/2026/05/01/arts/18-off-broadway-shows-may-nyc.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-03 05:18 UTC",
-          "analysis_zh": "在五月，纽约的Off Broadway剧场将迎来多部精彩的演出，包括新明星加盟的《恐怖小店》和在Delacorte剧场上演的《罗密欧与朱丽叶》。此外，休·杰克曼将在Minetta Lane剧院主演《新生》。这些演出不仅丰富了观众的文化生活，也为剧场艺术注入了新的活力。随着这些知名作品的回归，观众的期待和参与度可能会进一步提升。",
-          "analysis_en": "In May, New York's Off Broadway theaters will feature several exciting performances, including \"Little Shop of Horrors\" with new stars and \"Romeo and Juliet\" at the Delacorte. Additionally, Hugh Jackman will star in \"New Born\" at the Minetta Lane Theatre. These productions not only enrich the cultural landscape for audiences but also inject new energy into the theater scene. With the return of these well-known works, audience anticipation and engagement may increase further."
+          "analysis_zh": "在五月，纽约的剧场界迎来了多部值得关注的戏剧，包括新明星加盟的《恐怖小店》和在德拉科特剧场上演的《罗密欧与朱丽叶》。此外，休·杰克曼将在米内塔巷剧院主演新剧《新生》。这些演出不仅丰富了观众的选择，也为演员和创作者提供了展示才华的机会。随着这些作品的推出，观众的期待和剧场的活力将进一步提升。",
+          "analysis_en": "In May, New York's theater scene features several noteworthy productions, including \"Little Shop of Horrors\" with new stars and \"Romeo and Juliet\" at the Delacorte. Additionally, Hugh Jackman will star in the new play \"New Born\" at the Minetta Lane Theatre. These performances not only enhance the options available to audiences but also provide opportunities for actors and creators to showcase their talents. With the launch of these works, audience anticipation and the vibrancy of the theater will likely increase."
         },
         {
           "rank": 6,
@@ -312,8 +303,8 @@
           "link": "https://www.dezeen.com/2026/05/03/prototype-island-exhibition-milan-design-week/",
           "source": "Dezeen",
           "published_utc": "2026-05-03 05:00 UTC",
-          "analysis_zh": "在米兰设计周上，由新加坡设计委员会主办的“原型岛”展览展示了新加坡的设计理念，探讨了包括人工智能文化影响在内的未来主题。此次展览旨在庆祝新加坡的创意场景，并将新加坡呈现为一个活生生的原型，利用设计应对全球面临的各种挑战。这一展览不仅突显了新加坡在设计领域的创新能力，也可能激励其他国家在面对未来挑战时，借鉴新加坡的经验和方法。",
-          "analysis_en": "The \"Prototype Island\" exhibition, organized by the DesignSingapore Council at Milan Design Week, showcased Singaporean design and explored futuristic themes, including the cultural impact of artificial intelligence. The exhibition aimed to celebrate Singapore's creative scene and presented the nation as a living prototype that uses design to tackle various global challenges. This event not only highlighted Singapore's innovative capabilities in design but may also inspire other countries to adopt similar approaches when facing future challenges."
+          "analysis_zh": "在米兰设计周上，由新加坡设计委员会组织的“原型岛”展览展示了新加坡的设计创新。展览探讨了未来主义主题，特别是人工智能对文化的影响，强调了设计在应对全球挑战中的重要性。这一展览不仅展示了新加坡的创意场景，也为其他国家提供了借鉴，展示了如何通过设计来增强未来的韧性。",
+          "analysis_en": "The \"Prototype Island\" exhibition, organized by the DesignSingapore Council, showcased Singapore's design innovations at Milan Design Week. It explored futuristic themes, particularly the cultural impact of artificial intelligence, highlighting the importance of design in addressing global challenges. This exhibition not only showcased Singapore's creative scene but also provided insights for other countries on how to enhance future resilience through design."
         },
         {
           "rank": 7,
@@ -321,8 +312,8 @@
           "link": "https://www.designboom.com/art/kinetic-mirrored-installation-portugal-moradavaga-shoal-golden-fish-a-l-m-a-d-r-a-v-a/",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-05-03 03:00 UTC",
-          "analysis_zh": "在葡萄牙，一项名为A-L-M-A-D-R-A-V-A的动感镜面装置吸引了众多关注。这一装置结合了动感艺术和像素艺术，旨在为一座废弃的啤酒厂带来“黄金时光”的美好体验。这项艺术作品不仅为当地社区增添了活力，还可能吸引游客，促进经济发展。",
-          "analysis_en": "In Portugal, a kinetic mirrored installation called A-L-M-A-D-R-A-V-A has garnered significant attention. This installation merges kinetic art with pixel art, aiming to bring the beauty of \"golden hours\" to a rundown former beer factory. This artwork not only revitalizes the local community but may also attract tourists, potentially boosting the local economy."
+          "analysis_zh": "在葡萄牙，一个名为A-L-M-A-D-R-A-V-A的动态镜面装置被安装在一座废弃的啤酒厂中，展现出一群金色鱼群的视觉效果。这一装置结合了动态艺术和像素艺术，旨在为这个曾经繁华的地方带来新的生命和活力。这项艺术作品不仅提升了当地的美学价值，也可能吸引更多游客前来参观，促进当地经济的发展。",
+          "analysis_en": "In Portugal, a kinetic mirrored installation called A-L-M-A-D-R-A-V-A has been set up in a rundown former beer factory, creating a visual effect reminiscent of a shoal of golden fish. This installation merges kinetic and pixel art, aiming to breathe new life into the once-thriving site. Not only does this artwork enhance the aesthetic value of the area, but it may also attract more visitors, boosting the local economy."
         },
         {
           "rank": 8,
@@ -330,8 +321,8 @@
           "link": "https://www.nytimes.com/2026/05/02/theater/patrick-ball-pitt-bear-hacks-gilded-age-broadway.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-02 22:13 UTC",
-          "analysis_zh": "近期，百老汇的舞台上迎来了多位知名演员，包括《The Pitt》的帕特里克·鲍尔、《The Bear》的乔恩·伯恩塔尔和阿约·埃德比里，以及《The Gilded Age》的本·阿赫勒斯等。这些演员的加盟吸引了大量观众前来观看演出，显示了他们在观众心中的影响力。这一现象不仅提升了演出的票房，也可能促进更多观众对百老汇的关注与热情，进一步推动这一文化产业的发展。",
-          "analysis_en": "Recently, Broadway has welcomed several well-known actors, including Patrick Ball from \"The Pitt,\" Jon Bernthal and Ayo Edebiri from \"The Bear,\" and Ben Ahlers from \"The Gilded Age.\" Their presence has drawn large audiences, highlighting their influence among theatergoers. This trend not only boosts ticket sales for the performances but may also increase public interest in Broadway, further promoting the growth of this cultural industry."
+          "analysis_zh": "近期，百老汇的舞台上涌现出众多新秀演员，包括《The Pitt》的帕特里克·巴尔、《The Bear》的乔恩·伯恩塔尔和阿约·埃德比里，以及《The Gilded Age》的本·阿赫勒斯等。这些演员的加入吸引了大量观众前来观看他们的表演，显示出新一代演员的崛起对百老汇的影响力。此现象不仅为观众带来了新鲜感，也可能推动更多年轻演员的参与，进一步丰富百老汇的艺术生态。",
+          "analysis_en": "Recently, Broadway has seen a surge of new talent, with actors like Patrick Ball from \"The Pitt,\" Jon Bernthal and Ayo Edebiri from \"The Bear,\" and Ben Ahlers from \"The Gilded Age\" taking center stage. Their performances have drawn large audiences, highlighting the impact of this new generation of actors on Broadway. This trend not only brings freshness to the theater scene but may also encourage more young actors to participate, further enriching the artistic landscape of Broadway."
         },
         {
           "rank": 9,
@@ -339,8 +330,8 @@
           "link": "https://www.nytimes.com/2026/05/02/us/politics/trump-garden-of-heroes-statues.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-02 20:52 UTC",
-          "analysis_zh": "特朗普提出的“英雄花园”雕像项目正在不断扩大，计划中包括250位杰出美国人的雕像，以及正式的花园、倒影池和广场。这一项目的规模和成本的增加引发了公众的关注，因为它不仅涉及巨额的财政支出，还可能影响到国家的文化形象和历史叙述。随着项目的推进，社会对这些雕像的选择和象征意义的讨论也将愈发激烈。",
-          "analysis_en": "Trump's proposed \"Garden of Heroes\" statue project is growing in both size and cost, with plans that include statues of 250 notable Americans, formal gardens, reflecting pools, and plazas. The increasing scale and expense of this project have raised public concern, as it involves significant financial resources and may impact the nation's cultural image and historical narrative. As the project progresses, discussions about the selection of these statues and their symbolic meanings are likely to intensify."
+          "analysis_zh": "特朗普提出的“英雄花园”雕像项目正在扩大，计划包括250位杰出美国人的雕像，以及正式的花园、倒影池和广场。这一项目的规模和费用不断增加，引发了公众的关注和讨论。这不仅反映了特朗普对国家历史的看法，也可能影响未来公共艺术和纪念空间的规划。",
+          "analysis_en": "Trump's proposed \"Garden of Heroes\" statue project is expanding, with plans for statues of 250 notable Americans, as well as formal gardens, reflecting pools, and plazas. The growing scale and cost of this project have sparked public interest and debate. This initiative not only reflects Trump's perspective on national history but may also influence the planning of public art and memorial spaces in the future."
         },
         {
           "rank": 10,
@@ -348,8 +339,8 @@
           "link": "https://www.nytimes.com/2026/05/02/arts/design/nicole-hollander-dead.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-02 17:42 UTC",
-          "analysis_zh": "尼科尔·霍兰德（Nicole Hollander），一位尖锐的女性主义漫画家，于86岁时去世。她创作的漫画《西尔维亚》持续了超过30年，描绘了一位直言不讳、机智幽默的女性，勇于表达自己的观点。这位艺术家的离世不仅是漫画界的损失，也让许多人失去了一个为女性发声的代表。她的作品影响了无数读者，激励了更多女性勇敢表达自己的想法。",
-          "analysis_en": "Nicole Hollander, an acerbic feminist cartoonist, passed away at the age of 86. For over 30 years, she created the comic strip \"Sylvia,\" featuring a sharp-tongued, witty woman unafraid to voice her opinions. Her death marks a significant loss for the comic world and leaves many without a powerful advocate for women's voices. Hollander's work has inspired countless readers and encouraged more women to express their thoughts boldly."
+          "analysis_zh": "尼科尔·霍兰德（Nicole Hollander）是一位以犀利幽默著称的女性漫画家，她的漫画《西尔维亚》（“Sylvia”）在过去三十多年中深受读者喜爱。霍兰德以其独特的视角和大胆的表达方式，探讨了女性在社会中的角色和挑战。她的去世不仅是漫画界的损失，也让人们重新思考女性主义在当代文化中的重要性。这一事件可能激励更多人关注女性艺术家的贡献，并推动对性别平等的讨论。",
+          "analysis_en": "Nicole Hollander, a sharp-witted feminist cartoonist, passed away, leaving behind her beloved comic strip \"Sylvia,\" which she created for over thirty years. Her work boldly addressed women's roles and challenges in society, resonating with many readers. Her death marks a significant loss for the comic world and prompts a reevaluation of the importance of feminism in contemporary culture. This event may inspire greater recognition of female artists' contributions and encourage ongoing discussions about gender equality."
         }
       ]
     }
