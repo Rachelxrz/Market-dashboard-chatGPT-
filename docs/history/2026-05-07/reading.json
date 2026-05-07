@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-07 15:32:41 UTC",
-  "generated_at_unix": 1778167961,
+  "generated_at": "2026-05-07 16:08:42 UTC",
+  "generated_at_unix": 1778170122,
   "window": {
-    "from_utc": "2026-05-06 15:32:41 UTC",
-    "to_utc": "2026-05-07 15:32:41 UTC",
+    "from_utc": "2026-05-06 16:08:42 UTC",
+    "to_utc": "2026-05-07 16:08:42 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,180 +14,189 @@
       "items": [
         {
           "rank": 1,
-          "title": "Peloton stock rises as higher subscription prices help company drive a profitable quarter",
-          "link": "https://www.cnbc.com/2026/05/07/peloton-pton-earnings-q3-2026.html",
+          "title": "This 'win-win' hedge trade is getting popular with traders",
+          "link": "https://www.cnbc.com/2026/05/07/this-win-win-hedge-trade-is-getting-popular-with-traders.html",
           "source": "US Top News and Analysis",
-          "published_utc": "2026-05-07 15:31 UTC",
-          "analysis_zh": "Peloton公司首席执行官彼得·斯特恩在接受CNBC采访时表示，提升订阅价格是基于价值驱动的决策。这一举措使得Peloton在最近的财报中实现了盈利，标志着公司在市场中的复苏。提高订阅费用不仅能增加公司的收入，还可能吸引更多重视服务质量的用户。这一变化对于Peloton的未来发展至关重要，可能会影响其在竞争激烈的健身市场中的地位。",
-          "analysis_en": "Peloton's CEO Peter Stern stated in an interview with CNBC that raising subscription prices was a value-driven decision. This move led to the company achieving profitability in its recent financial report, indicating a recovery in the market. Increasing subscription fees can not only boost the company's revenue but may also attract users who prioritize service quality. This change is crucial for Peloton's future development and could impact its position in the highly competitive fitness market."
+          "published_utc": "2026-05-07 16:05 UTC",
+          "analysis_zh": "最近，一种被称为“双赢”对冲交易的策略在交易者中越来越受欢迎。这种交易方式的核心是，在半导体行业中出售下行保护，因为该行业的波动性较高，而在标准普尔500指数中购买下行保护，因为其相对便宜。这一策略的重要性在于，它能够帮助投资者在市场不确定性加大的情况下，降低风险并提高收益潜力。随着市场波动性的变化，这种交易方式可能会影响投资者的决策和市场的整体动态。",
+          "analysis_en": "Recently, a strategy known as the \"win-win\" hedge trade has gained popularity among traders. The essence of this trading approach is to sell downside protection in the semiconductor sector, where volatility is high, while buying downside protection in the S&P 500, where it is relatively cheap. This strategy is significant as it helps investors reduce risk and enhance profit potential amid increasing market uncertainty. As market volatility shifts, this trading method may influence investor decisions and the overall dynamics of the market."
         },
         {
           "rank": 2,
-          "title": "Datadog’s stock is soaring. Here’s how the company became such a crucial AI player.",
-          "link": "https://www.marketwatch.com/story/datadogs-stock-is-soaring-heres-how-the-company-became-such-a-crucial-ai-player-a55294dc?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-05-07 15:29 UTC",
-          "analysis_zh": "Datadog的股票正在飙升，这表明该公司在人工智能领域的重要性日益增强。随着人工智能技术的普及，企业系统变得愈加复杂，市场对能够监控安全性和故障的软件需求也随之上升。这一趋势不仅提升了Datadog的市场地位，也可能影响其他相关公司的发展方向，促使它们加大在AI领域的投资。",
-          "analysis_en": "Datadog's stock is soaring, highlighting the company's growing importance in the artificial intelligence sector. As AI technology becomes more prevalent, corporate systems are becoming increasingly complex, leading to a rising demand for software that can monitor security and outages. This trend not only enhances Datadog's market position but may also influence the growth strategies of other related companies, encouraging them to invest more in AI."
+          "title": "Jim Cramer: This partnership could be a 'seismic shift' in AI and 2 of our stocks",
+          "link": "https://www.cnbc.com/2026/05/07/jim-cramer-this-partnership-could-be-a-seismic-shift-in-ai-and-2-of-our-stocks.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-05-07 16:05 UTC",
+          "analysis_zh": "投资俱乐部的“晨会”每个工作日早上10:20举行，近期讨论了一个可能在人工智能领域引发“重大变革”的合作伙伴关系。这一合作的意义在于，它可能会推动相关技术的快速发展，从而影响市场格局和投资机会。投资者需要密切关注这一动态，因为它可能会改变行业内的竞争态势，带来新的投资机会。",
+          "analysis_en": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET, where they recently discussed a partnership that could lead to a \"seismic shift\" in the field of artificial intelligence. This partnership is significant as it may accelerate the development of related technologies, potentially reshaping market dynamics and investment opportunities. Investors should keep a close eye on this development, as it could alter the competitive landscape within the industry and present new investment prospects."
         },
         {
           "rank": 3,
-          "title": "Ryan Cohen's mysterious bank letter backing GameStop's eBay bid reveals a big issue with deal",
-          "link": "https://www.cnbc.com/2026/05/07/ryan-cohens-mysterious-bank-letter-backing-his-ebay-bid-reveals-a-big-issue.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-05-07 15:27 UTC",
-          "analysis_zh": "最近，GameStop收到了来自Ryan Cohen的一封神秘融资信件，支持其收购eBay的计划。这封信件强调，合并后的公司需要保持投资级别的信用评级。这一消息引发了市场的广泛关注，因为如果信用评级未能维持，可能会对公司的融资能力和未来发展产生重大影响。投资者和分析师们正在密切关注这一动态，以评估其对GameStop及其战略转型的潜在影响。",
-          "analysis_en": "Recently, GameStop received a mysterious financing letter from Ryan Cohen, supporting its bid to acquire eBay. The letter emphasized that the combined company would need to maintain an investment-grade credit profile. This news has drawn significant market attention, as failing to uphold this credit rating could severely impact the company's financing capabilities and future growth. Investors and analysts are closely monitoring this situation to assess its potential implications for GameStop and its strategic transformation."
+          "title": "Average US long-term mortgage rate ticks up to 6.37%",
+          "link": "https://finance.yahoo.com/economy/policy/articles/average-us-long-term-mortgage-160240748.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-05-07 16:02 UTC",
+          "analysis_zh": "美国长期抵押贷款利率上升至6.37%。这一变化对购房者和房地产市场产生了重要影响。随着利率的上升，借贷成本增加，可能导致购房需求下降，从而影响房地产市场的活跃度。此外，较高的利率也可能使得一些潜在买家推迟购房计划，进一步加剧市场的不确定性。",
+          "analysis_en": "The average long-term mortgage rate in the U.S. has risen to 6.37%. This change has significant implications for homebuyers and the real estate market. As borrowing costs increase, demand for homes may decline, which could affect the overall activity in the housing market. Additionally, higher rates may lead some potential buyers to postpone their purchasing plans, further contributing to market uncertainty."
         },
         {
           "rank": 4,
-          "title": "Boeing CEO Kelly Ortberg set to join Trump on China visit next week",
-          "link": "https://www.cnbc.com/2026/05/07/trump-china-boeing-kelly-ortberg.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-05-07 15:25 UTC",
-          "analysis_zh": "波音首席执行官凯利·奥特伯格预计将在下周与特朗普总统一同访问中国。这次访问的重要性在于，波音作为全球最大的飞机制造商之一，其与中国的合作关系对公司未来的发展至关重要。此次访问可能会影响波音在中国的市场份额以及与中国政府的关系，进而对全球航空市场产生深远影响。",
-          "analysis_en": "Boeing CEO Kelly Ortberg is expected to join President Donald Trump on a visit to China next week. This visit is significant because Boeing, as one of the largest aircraft manufacturers in the world, relies heavily on its partnership with China for future growth. The trip could impact Boeing's market share in China and its relationship with the Chinese government, potentially influencing the global aviation market as a whole."
+          "title": "Is now a good time to lock in your mortgage rate? Here’s what to know.",
+          "link": "https://www.marketwatch.com/story/is-now-a-good-time-to-lock-in-your-mortgage-rate-heres-what-to-know-68af7d76?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-05-07 16:02 UTC",
+          "analysis_zh": "近期，抵押贷款利率上升至6.37%，这标志着春季购房季节的波动仍在继续。这一变化对潜在购房者和投资者都具有重要意义，因为较高的利率可能会增加购房成本，抑制需求。随着市场的不确定性加大，购房者需要仔细考虑是否现在是锁定抵押贷款利率的合适时机。",
+          "analysis_en": "Recently, mortgage rates have risen to 6.37%, indicating that the spring home-buying season continues to be volatile. This change is significant for potential homebuyers and investors, as higher rates can increase the cost of purchasing a home and suppress demand. With growing uncertainty in the market, buyers need to carefully consider whether now is the right time to lock in their mortgage rates."
         },
         {
           "rank": 5,
-          "title": "Kevin Warsh will be the richest Fed chair ever. Just how rich, he isn’t saying.",
-          "link": "https://www.marketwatch.com/story/kevin-warshs-undisclosed-wealth-leaves-a-100-million-mystery-atop-the-federal-reserve-19f0dc78?mod=mw_rss_topstories",
+          "title": "Tesla’s stock rises as investors get a fresh sign that high gas prices are driving EV sales",
+          "link": "https://www.marketwatch.com/story/teslas-stock-rises-as-investors-get-a-fresh-sign-that-high-gas-prices-are-driving-ev-sales-75d1914a?mod=mw_rss_topstories",
           "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-05-07 15:23 UTC",
-          "analysis_zh": "凯文·沃什被提名为美联储主席，他的财务状况引发了广泛关注。他提交了69页的财务报告，但大部分内容并未透露他的具体财富。这一事件的重要性在于，沃什可能成为历史上最富有的美联储主席，这可能会影响公众对美联储的信任和透明度的看法。尽管如此，参议院仍然准备确认他的提名，这表明政治力量可能在此过程中占据主导地位。",
-          "analysis_en": "Kevin Warsh has been nominated as the chair of the Federal Reserve, and his financial situation has garnered significant attention. He submitted a 69-page financial report, but much of it does not disclose the specifics of his wealth. This situation is important because Warsh could become the richest Fed chair in history, which may affect public perceptions of trust and transparency regarding the Federal Reserve. Nevertheless, the Senate is still poised to confirm his nomination, indicating that political dynamics may be taking precedence in this process."
+          "published_utc": "2026-05-07 16:01 UTC",
+          "analysis_zh": "特斯拉的股票上涨，因为投资者看到高油价正在推动电动车销量的最新迹象。上个月，特斯拉及其中国竞争对手在该地区的销量创下了新高。这一趋势表明，越来越多的消费者倾向于选择电动车，这对汽车行业的未来发展至关重要。高油价可能会促使更多人转向电动车，从而进一步推动可再生能源的使用。",
+          "analysis_en": "Tesla's stock has risen as investors receive new evidence that high gas prices are boosting electric vehicle sales. Last month, Tesla and its Chinese competitors achieved record unit sales in the region. This trend indicates a growing consumer preference for electric vehicles, which is crucial for the future of the automotive industry. Rising gas prices may lead more people to switch to electric vehicles, further promoting the use of renewable energy."
         },
         {
           "rank": 6,
-          "title": "Trump Accounts could allow direct stock donations down the road: Reports",
-          "link": "https://www.cnbc.com/2026/05/07/trump-accounts-stock-donations.html",
+          "title": "Boeing CEO Kelly Ortberg set to join Trump on China visit next week",
+          "link": "https://www.cnbc.com/2026/05/07/trump-china-boeing-kelly-ortberg.html",
           "source": "US Top News and Analysis",
-          "published_utc": "2026-05-07 15:21 UTC",
-          "analysis_zh": "据报道，特朗普的账户可能允许直接进行股票捐赠。这一变化可能会对投资者产生重要影响，因为它可能为他们提供新的融资渠道。直接捐赠股票的方式将使投资者能够更灵活地管理其资产，并可能吸引更多的资金流入市场。这一政策的实施可能会改变投资者的行为，进而影响股市的动态。",
-          "analysis_en": "Reports indicate that Trump's accounts could allow for direct stock donations. This change could significantly impact investors by providing them with new avenues for funding. The ability to donate stocks directly would enable investors to manage their assets more flexibly and could attract more capital into the market. The implementation of this policy may alter investor behavior, subsequently affecting the dynamics of the stock market."
+          "published_utc": "2026-05-07 16:00 UTC",
+          "analysis_zh": "波音首席执行官凯利·奥特伯格预计将于下周陪同特朗普总统访问中国。这次访问的重要性在于，波音作为全球领先的航空制造商，其与中国的合作关系将直接影响到公司的未来发展和市场份额。此次访问可能会促进中美之间的贸易关系，尤其是在航空领域，进而影响到全球航空市场的竞争格局。",
+          "analysis_en": "Boeing CEO Kelly Ortberg is expected to accompany President Trump on his visit to China next week. This visit is significant because Boeing, as a leading global aerospace manufacturer, has its future development and market share closely tied to its relationship with China. The trip could enhance trade relations between the U.S. and China, particularly in the aviation sector, potentially affecting the competitive landscape of the global aviation market."
         },
         {
           "rank": 7,
-          "title": "OpenAI trial: Mother of Musk's children says he offered Altman a Tesla board seat",
-          "link": "https://www.cnbc.com/2026/05/07/open-ai-trial-shivon-zilis-musk-altman-tesla-board.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-05-07 15:20 UTC",
-          "analysis_zh": "在最近的OpenAI审判中，Shivon Zilis作为证人表示，特斯拉首席执行官马斯克曾向她提出希望将OpenAI与特斯拉的电动车公司结合的想法，并为Altman提供特斯拉董事会的席位。这一事件引发了广泛关注，因为它涉及到科技巨头之间的合作与竞争，尤其是在人工智能领域。马斯克的提议可能会影响OpenAI的独立性以及未来的商业战略，进而对整个行业产生深远影响。",
-          "analysis_en": "In the recent OpenAI trial, Shivon Zilis testified that Tesla CEO Elon Musk had proposed integrating OpenAI with his electric vehicle company and offered Altman a seat on Tesla's board. This event has garnered significant attention as it touches on the collaboration and competition among tech giants, particularly in the field of artificial intelligence. Musk's proposal could affect OpenAI's independence and future business strategies, potentially having a profound impact on the entire industry."
+          "title": "Chime (CHYM) Q1 2026 Earnings Call Transcript",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/chime-chym-q1-2026-earnings-155946564.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-05-07 15:59 UTC",
+          "analysis_zh": "Chime（CHYM）在2026年第一季度的财报电话会议中发布了最新的财务数据。此次财报显示，Chime的收入和用户增长均有所上升，这表明其在竞争激烈的金融科技市场中仍保持强劲的增长势头。这一消息对投资者而言至关重要，因为它反映了Chime在数字银行领域的持续吸引力，可能会吸引更多的投资和用户。未来，这种增长趋势可能会促使Chime进一步扩展其产品和服务，以满足不断变化的市场需求。",
+          "analysis_en": "Chime (CHYM) released its latest financial data during the Q1 2026 earnings call. The report indicated that Chime experienced an increase in both revenue and user growth, demonstrating its strong momentum in the competitive fintech market. This news is crucial for investors as it reflects Chime's ongoing appeal in the digital banking sector, which may attract more investments and users. Moving forward, this growth trend could lead Chime to further expand its products and services to meet the evolving market demands."
         },
         {
           "rank": 8,
-          "title": "S&P, Nasdaq hit record highs on U.S.-Iran peace hopes, Dow briefly reclaims 50k",
-          "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-lower-after-wall-st-hits-record-highs-on-iran-hopes-4666050",
-          "source": "Stock Market News",
-          "published_utc": "2026-05-07 15:19 UTC",
-          "analysis_zh": "近期，由于美国与伊朗之间的和平希望，标准普尔500指数和纳斯达克指数达到了历史新高，同时道琼斯指数也短暂突破了50,000点。这一事件表明，市场对地缘政治局势的改善持乐观态度，投资者信心增强。若和平进程持续推进，可能会进一步推动经济复苏，并吸引更多投资者进入市场。",
-          "analysis_en": "Recently, the S&P 500 and Nasdaq reached record highs due to hopes for peace between the U.S. and Iran, while the Dow briefly reclaimed the 50,000-point mark. This event indicates that the market is optimistic about improvements in geopolitical conditions, leading to increased investor confidence. If the peace process continues to progress, it could further drive economic recovery and attract more investors to the market."
+          "title": "Planet Fitness stock plunges 30% after company slashes guidance, cancels planned price hikes",
+          "link": "https://www.cnbc.com/2026/05/07/planet-fitness-stock.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-05-07 15:59 UTC",
+          "analysis_zh": "健身公司Planet Fitness的股票在周四暴跌30%，原因是该公司下调了业绩预期并取消了原定的价格上涨计划。这一消息对投资者来说是一个重大打击，反映出公司在市场上的竞争压力加大。此次股价下跌可能会影响到公司的融资能力及未来的扩展计划，投资者对其未来发展前景的信心也可能受到影响。",
+          "analysis_en": "Planet Fitness's stock plummeted 30% on Thursday after the company lowered its guidance and canceled planned price increases. This news is a significant blow to investors, indicating increased competitive pressure on the company in the market. The drop in stock price may affect the company's ability to raise funds and its future expansion plans, potentially shaking investors' confidence in its growth prospects."
         },
         {
           "rank": 9,
-          "title": "Shake Shack misses quarterly estimates as fast food demand weakens, shares drop 30%",
-          "link": "https://www.investing.com/news/stock-market-news/shake-shack-swings-to-quarterly-loss-names-new-cfo-shares-fall-20-4667375",
-          "source": "Stock Market News",
-          "published_utc": "2026-05-07 15:18 UTC",
-          "analysis_zh": "Shake Shack最近公布的季度财报未能达到市场预期，主要原因是快餐需求减弱，导致其股价下跌了30%。这一情况反映了消费者对快餐的需求正在减弱，可能会对整个快餐行业产生连锁反应。投资者需要关注这一趋势，因为它可能影响其他快餐品牌的业绩和市场表现。",
-          "analysis_en": "Shake Shack recently reported quarterly earnings that fell short of market expectations, primarily due to weakening demand for fast food, resulting in a 30% drop in its stock price. This situation indicates a declining consumer appetite for fast food, which could have a ripple effect across the entire fast-food industry. Investors should monitor this trend, as it may impact the performance and market outlook of other fast-food brands."
+          "title": "Paycom (PAYC) Q1 2026 Earnings Transcript",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/paycom-payc-q1-2026-earnings-155906810.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-05-07 15:59 UTC",
+          "analysis_zh": "Paycom在2026年第一季度的财报中显示出强劲的业绩，超出了市场预期。这一表现不仅反映了公司在薪资和人力资源管理软件领域的持续增长，也表明了其在竞争激烈的市场中保持领先地位的重要性。投资者对此反应积极，可能会推动股价上涨，并吸引更多的投资者关注Paycom的未来发展。",
+          "analysis_en": "Paycom's earnings report for Q1 2026 revealed strong performance that exceeded market expectations. This result not only indicates the company's ongoing growth in the payroll and human resource management software sector but also highlights its importance in maintaining a competitive edge in a challenging market. Investors reacted positively, which could lead to a rise in stock prices and attract more attention from investors regarding Paycom's future prospects."
         },
         {
           "rank": 10,
-          "title": "Oil prices fall below $100 as U.S. waits for Iran response to framework deal",
-          "link": "https://www.cnbc.com/2026/05/07/oil-prices-today-trump-iran-strait-of-hormuz-us-crude-brent-.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-05-07 15:17 UTC",
-          "analysis_zh": "油价在周四跌破100美元，投资者对中东局势的最新发展表示关注，尤其是伊朗与美国之间的紧张关系再次升级。这一价格下跌反映了市场对未来供需状况的担忧，尤其是在全球经济复苏的背景下。油价的波动不仅影响能源市场，还可能对通货膨胀和全球经济增长产生深远影响。",
-          "analysis_en": "Oil prices fell below $100 on Thursday as investors reacted to the latest developments in the Middle East, particularly the renewed tensions between Iran and the U.S. This decline reflects market concerns about future supply and demand, especially in the context of a recovering global economy. The fluctuations in oil prices could have significant implications for the energy market, as well as potential effects on inflation and global economic growth."
+          "title": "Symbotic (SYM) Q2 2026 Earnings Transcript",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/symbotic-sym-q2-2026-earnings-155842145.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-05-07 15:58 UTC",
+          "analysis_zh": "Symbotic公司在2026年第二季度的财报中公布了其业绩表现，显示出公司在自动化仓储解决方案领域的持续增长。此次财报的重要性在于，它不仅反映了Symbotic在市场上的竞争力，还可能影响投资者对该公司的信心和未来的投资决策。随着电商和物流行业的快速发展，Symbotic的技术创新可能会进一步推动其市场份额的扩大。",
+          "analysis_en": "Symbotic reported its earnings for the second quarter of 2026, showcasing continued growth in the automated warehousing solutions sector. This earnings report is significant as it reflects Symbotic's competitiveness in the market and may influence investor confidence and future investment decisions. With the rapid growth of e-commerce and logistics, Symbotic's technological innovations could further enhance its market share."
         }
       ]
     },
     "健康": {
       "description": "医学、营养、抗衰老、代谢与公共健康",
-      "count": 9,
+      "count": 10,
       "items": [
         {
           "rank": 1,
+          "title": "Her Self-Experiment with Drug Detox Almost Broke Her",
+          "link": "https://www.nytimes.com/2026/05/06/health/synthetic-drug-detox-experiment.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-05-07 15:53 UTC",
+          "analysis_zh": "最近，一些人不顾专家的建议，开始自行尝试新型合成药物，以期摆脱成瘾。这种自我实验的做法不仅风险极高，还可能导致严重的健康问题。此现象引发了对药物滥用和成瘾治疗方法的广泛关注，尤其是在缺乏科学依据的情况下。专家们警告，这种行为可能会加剧成瘾问题，影响个人及其家庭的生活。",
+          "analysis_en": "Recently, some individuals have been experimenting with new synthetic drugs against expert advice in hopes of overcoming addiction. This self-experimentation is highly risky and can lead to serious health issues. This trend has raised significant concerns about drug abuse and addiction treatment methods, especially in the absence of scientific backing. Experts warn that such behavior may exacerbate addiction problems, affecting both individuals and their families."
+        },
+        {
+          "rank": 2,
+          "title": "Netherlands Tests Flight Attendant for Hantavirus as Officials Track Cruise Ship Outbreak",
+          "link": "https://www.nytimes.com/2026/05/07/world/europe/hantavirus-cruise-ship-outbreak.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-05-07 15:51 UTC",
+          "analysis_zh": "荷兰的一名空乘人员因与一艘邮轮上的致命疫情有关而接受检测。这起疫情的源头是一名感染者在去世前曾短暂登上前往荷兰的航班。这一事件引起了广泛关注，因为它可能意味着病毒传播的风险增加，尤其是在航空旅行中。如果疫情进一步扩散，可能会对公共健康和旅游业造成严重影响。",
+          "analysis_en": "A Dutch flight attendant has been tested in connection with a deadly outbreak linked to a cruise ship. The outbreak originated from an infected passenger who briefly boarded a flight to the Netherlands before her death. This situation raises significant concerns as it suggests an increased risk of virus transmission, particularly in air travel. If the outbreak spreads further, it could have serious implications for public health and the tourism industry."
+        },
+        {
+          "rank": 3,
+          "title": "Employees With Medical Conditions Challenge C.D.C. In-Office Requirement",
+          "link": "https://www.nytimes.com/2026/05/07/health/cdc-worker-accomodations-disabilities.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-05-07 15:36 UTC",
+          "analysis_zh": "美国疾病控制与预防中心（CDC）最近取消了员工在家工作的安排，尤其是那些曾因健康原因获得特殊照顾的员工对此表示强烈不满。这一决定引发了对CDC政策的质疑，因为许多员工认为这一变化忽视了他们的医疗需求。此举不仅可能导致员工士气低落，还可能影响CDC在公共卫生领域的工作效率和声誉。",
+          "analysis_en": "The Centers for Disease Control and Prevention (CDC) recently eliminated remote work options, particularly affecting employees who had previously received accommodations due to health conditions. This decision has sparked criticism of the CDC's policies, as many employees feel their medical needs are being overlooked. This move could not only lower employee morale but also impact the CDC's efficiency and reputation in public health efforts."
+        },
+        {
+          "rank": 4,
           "title": "New “Trojan horse” obesity drug supercharges weight loss in early tests",
           "link": "https://www.sciencedaily.com/releases/2026/05/260506225428.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-07 10:37 UTC",
-          "analysis_zh": "研究人员开发了一种新型的肥胖药物，采用“特洛伊木马”的机制，通过GLP-1/GIP信号将强效代谢增强剂直接送入目标细胞。在小鼠实验中，该药物的效果超过了现有治疗方法，能够抑制食欲、增加体重减轻并改善血糖水平。由于这种药物仅在需要的地方发挥作用，因此可以以更低的剂量使用，从而可能减少副作用。这项研究的进展为肥胖和2型糖尿病的治疗提供了新的希望，未来可能会改变相关药物的开发方向。",
-          "analysis_en": "Researchers have developed a new obesity drug that operates like a \"Trojan horse,\" using GLP-1/GIP signals to deliver a powerful metabolic enhancer directly into target cells. In tests on mice, this drug outperformed existing treatments by curbing appetite, increasing weight loss, and improving blood sugar levels. Because it acts only where needed, it can be administered at much lower doses, potentially reducing side effects. This advancement offers new hope for treating obesity and type 2 diabetes, and it may influence the future development of related medications."
+          "analysis_zh": "研究人员开发了一种新型肥胖药物，类似于“特洛伊木马”，利用GLP-1/GIP信号将强效代谢增强剂直接送入目标细胞。在小鼠实验中，这种药物的效果超过了现有治疗方法，能够抑制食欲、增加体重减轻并改善血糖水平。这一进展具有重要意义，因为它可能使药物在更低剂量下发挥作用，从而减少副作用。这项研究为肥胖和2型糖尿病的治疗提供了新的希望，可能会改变未来的治疗策略。",
+          "analysis_en": "Researchers have developed a new obesity drug that functions like a \"Trojan horse,\" using GLP-1/GIP signals to deliver a powerful metabolic enhancer directly into target cells. In tests on mice, this drug outperformed existing treatments by curbing appetite, increasing weight loss, and improving blood sugar levels. This advancement is significant as it may allow for the drug to be used at much lower doses, potentially reducing side effects. The study offers new hope for the treatment of obesity and type 2 diabetes, which could change future therapeutic strategies."
         },
         {
-          "rank": 2,
+          "rank": 5,
           "title": "Scientists discover why Ozempic works better for some people",
           "link": "https://www.sciencedaily.com/releases/2026/05/260506225233.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-07 10:11 UTC",
-          "analysis_zh": "研究发现，Ozempic等GLP-1类药物对某些人效果显著更好，原因在于他们的饮食习惯。日本的一项为期一年的研究显示，那些因食物外观或气味而过量进食的人，通常能在使用这些药物后更有效地减重和改善血糖水平。相反，主要因压力、悲伤或情绪问题而进食的人则未能获得同样的长期益处。这一发现对于糖尿病患者的治疗具有重要意义，可能会影响医生在开处方时对患者饮食行为的评估。",
-          "analysis_en": "A study has found that GLP-1 drugs like Ozempic work significantly better for certain individuals due to their eating habits. Research conducted in Japan over a year revealed that people who tend to overeat because of appealing food visuals or smells are more likely to lose weight and improve their blood sugar levels while on these medications. In contrast, those who primarily eat in response to stress, sadness, or emotional issues do not experience the same long-term benefits. This finding is crucial for diabetes treatment, as it may influence how doctors assess patients' eating behaviors when prescribing these medications."
+          "analysis_zh": "最近的一项研究发现，Ozempic等GLP-1类糖尿病药物对某些人群的效果显著优于其他人。研究表明，那些因食物的外观或气味而过量进食的人，通常在使用这些药物后能够更有效地减重和改善血糖水平。而那些因压力、悲伤或情绪问题而进食的人，长期效果却不尽如人意。这一发现对糖尿病治疗具有重要意义，可能促使医生在开处方时更加关注患者的饮食习惯，从而提高治疗效果。",
+          "analysis_en": "A recent study has found that Ozempic and other GLP-1 diabetes drugs work significantly better for certain individuals. The research indicates that people who overeat due to the appearance or smell of food are more likely to lose weight and improve their blood sugar levels while using these medications. In contrast, those who eat primarily in response to stress, sadness, or emotional issues do not experience the same long-term benefits. This finding is crucial for diabetes treatment, as it may lead doctors to pay closer attention to patients' eating habits when prescribing these medications, potentially enhancing treatment outcomes."
         },
         {
-          "rank": 3,
+          "rank": 6,
           "title": "Scientists find a way to stop dangerous belly fat as we age",
           "link": "https://www.sciencedaily.com/releases/2026/05/260506225235.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-07 09:25 UTC",
-          "analysis_zh": "科学家发现，随着年龄的增长，身体脂肪不仅增加，还会以危险的方式重新分布，尤其是腹部脂肪的增加可能对健康造成危害。研究表明，睾酮在这一变化中起着关键作用。在一项针对恢复髋部骨折的老年女性的研究中，结合使用睾酮凝胶和锻炼能够有效防止危险内脏脂肪的增加。这一发现可能为改善老年人的恢复和长期健康提供了一种新的有效策略。",
-          "analysis_en": "Scientists have discovered that as we age, fat not only increases but also redistributes in harmful ways, particularly accumulating in the abdomen, which poses health risks. The research indicates that testosterone plays a crucial role in this process. In a study involving older women recovering from hip fractures, the combination of testosterone gel and exercise effectively prevented the rise of dangerous visceral fat. This finding could offer a new and effective strategy for enhancing recovery and long-term health in the elderly."
+          "analysis_zh": "科学家发现，随着年龄的增长，身体脂肪不仅增加，还会以危险的方式重新分布，尤其是腹部脂肪的增加会对健康造成危害。研究表明，睾酮在这一变化中起着关键作用。在一项研究中，老年女性在髋部骨折恢复期间使用睾酮凝胶并结合锻炼，成功阻止了腹部危险脂肪的增加。这一发现可能为改善老年人的恢复和长期健康提供了一种新的有效策略。",
+          "analysis_en": "Scientists have discovered that as we age, fat not only increases but also redistributes in harmful ways, particularly accumulating in the abdomen, which poses health risks. The research indicates that testosterone plays a crucial role in this process. In a study, older women recovering from hip fractures who used testosterone gel in conjunction with exercise were able to prevent the rise of dangerous abdominal fat. This finding could offer a new effective strategy for enhancing recovery and long-term health in older adults."
         },
         {
-          "rank": 4,
-          "title": "Employees With Medical Conditions Challenge C.D.C. In-Office Requirement",
-          "link": "https://www.nytimes.com/2026/05/07/health/cdc-worker-accomodations-disabilities.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-05-07 09:01 UTC",
-          "analysis_zh": "美国疾病控制与预防中心（C.D.C.）最近要求员工在办公室工作，这一政策引发了有健康问题员工的挑战。许多员工认为，疫情前获得的在家工作的便利被忽视，这可能对他们的健康产生负面影响。这一事件不仅关系到员工的工作环境，也反映了疫情后对远程工作的态度变化，可能会影响未来的工作政策和员工的工作满意度。",
-          "analysis_en": "The Centers for Disease Control and Prevention (C.D.C.) has recently mandated that employees work in the office, a decision that has faced challenges from workers with medical conditions. Many employees feel that their previously granted accommodations for remote work are being disregarded, which could adversely affect their health. This situation not only concerns the work environment for employees but also highlights a shift in attitudes towards remote work post-pandemic, potentially influencing future workplace policies and employee satisfaction."
-        },
-        {
-          "rank": 5,
+          "rank": 7,
           "title": "Your DNA may predict your future success more than your upbringing",
           "link": "https://www.sciencedaily.com/releases/2026/05/260505234624.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-05-07 02:41 UTC",
-          "analysis_zh": "一项新的双胞胎研究表明，基因在个人未来成功中的作用可能超过家庭环境。研究发现，智商在很大程度上受到遗传影响，并且与教育、职业和收入有着密切的关联。即使是同一家庭中长大的双胞胎，由于基因差异，人生轨迹也可能大相径庭。这一发现提示我们，生活结果可能比许多人想象的更加受到基因的影响。",
-          "analysis_en": "A new twin study suggests that genetics may play a more significant role in determining future success than upbringing. Researchers found a strong correlation between IQ, which is largely influenced by genetics, and factors such as education, career, and income. Even twins raised in the same household showed divergent life paths due to genetic differences. This finding indicates that life outcomes may be more predetermined by genetics than many people realize."
+          "analysis_zh": "一项新的双胞胎研究表明，基因在未来成功中的作用可能超过家庭环境。研究发现，智商与教育、职业和收入之间存在强烈的关联，而智商在很大程度上受到遗传的影响。即使是同一家庭中长大的双胞胎，由于基因差异也会出现不同的生活结果。这一发现提示我们，人生的结果可能比许多人想象的更为固定，值得我们重新思考成功的来源。",
+          "analysis_en": "A new twin study suggests that genetics may play a more significant role in future success than upbringing. Researchers found a strong correlation between IQ and factors such as education, career, and income, with IQ being largely influenced by genetics. Even twins raised in the same household showed divergent outcomes due to genetic differences. This finding indicates that life outcomes may be more predetermined than many people realize, prompting a reevaluation of the sources of success."
         },
         {
-          "rank": 6,
+          "rank": 8,
           "title": "Scientists reverse diabetes in mice with lab-grown insulin cells",
           "link": "https://www.sciencedaily.com/releases/2026/05/260505234620.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-07 02:28 UTC",
-          "analysis_zh": "瑞典的科学家们在治疗1型糖尿病方面取得了重要进展，他们开发了一种更可靠的方法，从人类干细胞中制造胰岛素产生细胞。这些实验室培养的细胞不仅能强烈响应葡萄糖，还能在移植到糖尿病小鼠体内时恢复血糖控制。这项研究的重要性在于，它为未来的患者特异性细胞疗法提供了可能性，可能减少免疫排斥反应，从而为糖尿病患者带来新的希望。",
-          "analysis_en": "Scientists in Sweden have made significant progress in treating type 1 diabetes by developing a more reliable method to create insulin-producing cells from human stem cells. These lab-grown cells not only respond effectively to glucose but also restore blood sugar control when transplanted into diabetic mice. The importance of this research lies in its potential to pave the way for patient-specific cell therapies, which could reduce the risk of immune rejection and offer new hope for diabetes patients."
+          "analysis_zh": "瑞典的科学家们在治疗1型糖尿病方面取得了重要进展，他们开发了一种更可靠的方法来从人类干细胞中培养出胰岛素生产细胞。这些实验室培养的细胞不仅对葡萄糖反应强烈，而且在移植到糖尿病小鼠体内后，能够恢复血糖控制。这项研究的重要性在于，它为未来个性化的细胞治疗提供了可能性，或许能够减少免疫排斥反应，从而为糖尿病患者带来新的希望。",
+          "analysis_en": "Scientists in Sweden have made significant progress in treating type 1 diabetes by developing a more reliable method for creating insulin-producing cells from human stem cells. These lab-grown cells not only respond effectively to glucose but also successfully restored blood sugar control when transplanted into diabetic mice. The importance of this research lies in its potential to pave the way for personalized cell therapies, which may reduce immune rejection and offer new hope for diabetes patients."
         },
         {
-          "rank": 7,
+          "rank": 9,
           "title": "A Medical Examiner Chases Down an Elusive Killer",
           "link": "https://www.nytimes.com/2026/05/04/health/knoxville-medical-examiners-drugs-cychlorphine.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-06 22:09 UTC",
-          "analysis_zh": "在田纳西州诺克斯维尔，首席法医正在努力应对新型致命药物的威胁。这些不寻常的类鸦片药物正逐渐渗透到街头毒品中，给公共健康带来了严重挑战。及时识别这些药物对于防止更多的过量死亡至关重要。这一情况不仅影响了当地社区的安全，也可能引发更广泛的公共卫生危机。",
-          "analysis_en": "In Knoxville, Tennessee, the chief medical examiner is tackling the threat posed by new lethal drugs. Unusual opioids are infiltrating street drugs, presenting a serious challenge to public health. Rapid identification of these substances is crucial to prevent further overdose deaths. This situation not only affects the safety of the local community but could also trigger a broader public health crisis."
+          "analysis_zh": "近期，田纳西州诺克斯维尔的法医正在努力追踪一种新型的致命药物，这种药物正在逐渐渗透到街头毒品中。这位法医医生的工作至关重要，因为这些不寻常的阿片类药物可能导致更高的死亡率。及时识别这些致命物质不仅有助于保护公众健康，还可能影响执法部门的应对策略，以更有效地打击毒品犯罪。",
+          "analysis_en": "Recently, a forensic doctor in Knoxville, Tennessee, is working hard to track down a new type of deadly drug that is infiltrating street substances. This medical examiner's efforts are crucial, as these unusual opioids could lead to increased mortality rates. Quickly identifying these lethal substances not only helps protect public health but may also influence law enforcement strategies to more effectively combat drug-related crimes."
         },
         {
-          "rank": 8,
-          "title": "Her Self-Experiment with Drug Detox Almost Broke Her",
-          "link": "https://www.nytimes.com/2026/05/06/health/synthetic-drug-detox-experiment.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-05-06 21:54 UTC",
-          "analysis_zh": "最近，有人不顾专家的建议，开始尝试使用新型且不可预测的合成药物进行自我实验，期望能够摆脱成瘾。这种行为引发了广泛关注，因为自我实验可能导致严重的健康风险和不可逆的后果。此现象不仅反映了人们对成瘾问题的无奈，也可能对公共卫生政策和药物监管产生深远影响。",
-          "analysis_en": "Recently, some individuals have been disregarding expert advice and experimenting with new and unpredictable synthetic drugs in hopes of overcoming addiction. This behavior has raised significant concern due to the serious health risks and irreversible consequences that self-experimentation can entail. This trend not only highlights the desperation surrounding addiction issues but may also have far-reaching implications for public health policies and drug regulation."
-        },
-        {
-          "rank": 9,
+          "rank": 10,
           "title": "MIT scientists discover millions of “silent synapses” in the adult brain",
           "link": "https://www.sciencedaily.com/releases/2026/05/260504211848.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-05-06 20:05 UTC",
-          "analysis_zh": "麻省理工学院的神经科学家发现了成人大脑中存在数百万个“沉默突触”，这些突触在新学习到来时会被激活。此前，科学家们认为这些沉默突触仅在早期发育阶段存在，但研究表明，成人大脑皮层中约有30%的突触仍处于沉默状态。这一发现的重要性在于，它揭示了大脑如何在不干扰已有记忆的情况下，继续学习新知识。未来的研究可能会进一步探讨这些沉默突触在学习和记忆形成中的具体机制。",
-          "analysis_en": "MIT neuroscientists have discovered millions of \"silent synapses\" in the adult brain, which can be activated when new learning occurs. Previously thought to exist only during early development, about 30% of synapses in the adult cortex are still silent. This finding is significant because it reveals how the brain can continue to learn new information without disrupting existing memories. Future research may further explore the specific mechanisms by which these silent synapses contribute to learning and memory formation."
+          "analysis_zh": "麻省理工学院的神经科学家发现成人大脑中存在数百万个“沉默突触”，这些突触在新学习到来时才会被激活。之前科学家认为这些突触只存在于早期发育阶段，但研究表明，成人大脑皮层中大约30%的突触仍然处于静默状态。这一发现表明，成人大脑拥有大量未使用的连接，可以在接收新信息时迅速激活，从而帮助形成新的记忆。这项研究可能改变我们对成人大脑学习能力的理解，表明即使在成年后，大脑仍然具备灵活学习的潜力。",
+          "analysis_en": "MIT neuroscientists have discovered millions of \"silent synapses\" in the adult brain, which remain inactive until new learning occurs. Previously thought to exist only during early development, about 30% of synapses in the adult cortex are still silent. This finding indicates that the adult brain has a significant reserve of unused connections that can be quickly activated to form new memories when new information is presented. This research could reshape our understanding of learning in adulthood, suggesting that the brain retains a remarkable capacity for flexible learning even after reaching maturity."
         }
       ]
     },
@@ -201,8 +210,8 @@
           "link": "https://aeon.co/videos/fungi-homes-and-more-ways-biology-could-sustain-life-beyond-earth?utm_source=rss-feed",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-05-07 10:01 UTC",
-          "analysis_zh": "一位NASA的天体生物学家探讨了地球上的细胞生命如何为可持续的太空探索提供工具。这一观点引发了人们对生物技术在未来探索中的潜力的思考。通过利用自然界的资源，我们可能会找到更环保和高效的方法来支持太空任务。这不仅关系到科学研究的进展，也可能影响人类在宇宙中的生存方式。",
-          "analysis_en": "A NASA astrobiologist discusses how cellular life on Earth could provide tools for sustainable space exploration. This idea prompts consideration of the potential of biotechnology in future exploration. By harnessing resources from nature, we may discover more environmentally friendly and efficient methods to support space missions. This not only pertains to advancements in scientific research but could also impact humanity's way of surviving in the universe."
+          "analysis_zh": "一位NASA的天体生物学家探讨了如何利用地球上的细胞生命为可持续的太空探索提供工具。这一研究的重要性在于，它可能为未来的太空任务提供环保和可再生的解决方案，减少对传统资源的依赖。通过深入了解生物的基本构造，我们或许能够开发出新技术，推动人类在宇宙中的探索。",
+          "analysis_en": "A NASA astrobiologist discusses how tools for sustainable space exploration could be derived from cellular life on Earth. This research is significant as it may offer environmentally friendly and renewable solutions for future space missions, reducing reliance on traditional resources. By gaining a deeper understanding of the fundamental structures of biology, we might develop new technologies that advance human exploration in the cosmos."
         },
         {
           "rank": 2,
@@ -210,8 +219,8 @@
           "link": "https://aeon.co/essays/ancient-india-was-shaped-by-waves-of-migration-and-mixing?utm_source=rss-feed",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-05-07 10:00 UTC",
-          "analysis_zh": "最新的基因研究支持了历史学家多年来的观点：古代印度是一个移民和混合的地方。这一发现揭示了印度丰富的文化和民族多样性，强调了历史上人类迁徙的重要性。这不仅有助于我们更好地理解印度的历史，也可能影响当今对身份和文化认同的讨论。",
-          "analysis_en": "Recent genetic studies support historians' long-held view that ancient India was a place of migration and mixture. This finding highlights the rich cultural and ethnic diversity of India and underscores the significance of human migration throughout history. It not only enhances our understanding of India's past but may also influence contemporary discussions on identity and cultural recognition."
+          "analysis_zh": "根据基因研究，历史学家们长期以来的观点得到了支持：古代印度是一个移民和混合的地方。这一发现不仅揭示了印度多元文化的根源，还强调了人类迁徙对文明发展的重要性。这些研究可能会影响我们对印度历史的理解，并促使人们重新审视文化认同和民族归属的问题。",
+          "analysis_en": "Genetic studies have confirmed what historians have argued for decades: ancient India was a place of migration and mixture. This finding not only reveals the roots of India's diverse culture but also highlights the significance of human migration in the development of civilizations. Such research may influence our understanding of Indian history and prompt a reevaluation of issues related to cultural identity and national belonging."
         },
         {
           "rank": 3,
@@ -219,8 +228,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260505234624.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-05-07 02:41 UTC",
-          "analysis_zh": "一项新的双胞胎研究表明，基因可能在未来的成功中扮演比家庭背景更重要的角色。研究发现，智商在很大程度上受遗传影响，强烈预测教育、职业和收入。即使是在同一家庭中长大的双胞胎，由于基因差异，其人生轨迹也可能大相径庭。这一发现提示我们，生活结果可能比许多人想象的更加固化于基因之中。",
-          "analysis_en": "A new twin study suggests that genetics may play a more significant role in future success than upbringing. Researchers found that IQ, which is largely influenced by genetics, strongly predicts education, career, and income. Even twins raised in the same household diverged in their life paths due to genetic differences. This finding indicates that life outcomes may be more predetermined by our genes than many people realize."
+          "analysis_zh": "一项新的双胞胎研究表明，基因在未来成功中的作用可能超过家庭环境。研究发现，智商与教育、职业和收入之间存在强烈的相关性，而智商在很大程度上受到遗传的影响。即使是同一家庭中长大的双胞胎，由于基因差异，其人生轨迹也会有所不同。这一发现提示我们，生活结果可能比许多人想象的更为根深蒂固。",
+          "analysis_en": "A new twin study suggests that genetics may play a more significant role in future success than upbringing. The research found a strong correlation between IQ and factors such as education, career, and income, with IQ being largely influenced by genetics. Even twins raised in the same household diverged in their life paths due to genetic differences. This finding indicates that life outcomes may be more deeply ingrained than many people realize."
         },
         {
           "rank": 4,
@@ -228,8 +237,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260504211848.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-05-06 20:05 UTC",
-          "analysis_zh": "麻省理工学院的神经科学家发现成年大脑中存在数百万个“静默突触”，这些连接在新学习到来时才会被激活。此前，科学家们认为这些静默突触仅存在于早期发育阶段，但研究表明，成年大脑皮层中约有30%的突触仍处于静默状态。这一发现的重要性在于，它揭示了大脑在学习新知识时能够保留已有记忆的机制，可能对理解记忆的形成和学习过程有深远影响。",
-          "analysis_en": "MIT neuroscientists have discovered millions of \"silent synapses\" in the adult brain, which remain dormant until new learning activates them. Previously thought to exist only during early development, about 30% of synapses in the adult cortex are still silent. This finding is significant because it reveals how the brain can learn new information while preserving existing memories, potentially impacting our understanding of memory formation and learning processes."
+          "analysis_zh": "麻省理工学院的神经科学家们发现了成年大脑中存在数百万个“沉默突触”，这些连接在新学习到来时才会被激活。之前科学家们认为这些沉默突触仅存在于早期发育阶段，但研究表明，成年大脑皮层中约有30%的突触仍处于静止状态。这一发现不仅揭示了大脑的潜在学习能力，也可能影响我们对记忆形成和学习过程的理解，说明大脑能够在不干扰已有记忆的情况下继续学习新知识。",
+          "analysis_en": "MIT neuroscientists have discovered millions of \"silent synapses\" in the adult brain, which remain dormant until new learning activates them. Previously thought to exist only during early development, about 30% of synapses in the adult cortex are still inactive. This finding not only reveals the brain's potential for learning but may also affect our understanding of memory formation and the learning process, indicating that the brain can continue to acquire new knowledge without disrupting existing memories."
         }
       ]
     },
@@ -239,93 +248,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "A hacker ran me over with a robot lawn mower",
+          "link": "https://www.theverge.com/tech/925696/yarbo-robot-lawn-mower-hack-remote-control-camera-access-mqtt",
+          "source": "The Verge",
+          "published_utc": "2026-05-07 16:00 UTC",
+          "analysis_zh": "最近，一名安全研究员通过黑客手段远程控制了一台重达200磅的机器人割草机，展示了其严重的安全漏洞。研究员安德烈亚斯·马克里斯（Andreas Makris）在距离设备近6000英里的地方，成功地操控了这台割草机，甚至让其朝着他躺着的方向移动。这一事件凸显了机器人设备在网络安全方面的脆弱性，可能导致更多类似的安全隐患，尤其是在家庭自动化设备日益普及的背景下。",
+          "analysis_en": "Recently, a security researcher remotely controlled a 200-pound robot lawn mower to demonstrate its serious security vulnerabilities. Andreas Makris, located nearly 6,000 miles away, successfully maneuvered the mower towards himself while lying on the ground. This incident highlights the fragility of robotic devices in terms of cybersecurity, potentially leading to more similar security risks, especially as home automation devices become increasingly common."
+        },
+        {
+          "rank": 2,
+          "title": "Inside the return of Xbox",
+          "link": "https://www.theverge.com/tech/925966/microsoft-return-to-xbox-town-hall-notepad",
+          "source": "The Verge",
+          "published_utc": "2026-05-07 16:00 UTC",
+          "analysis_zh": "微软的Xbox团队最近在D楼召开了一次全员大会，Xbox首席执行官阿莎·夏尔玛向员工们传达了“Xbox的回归”这一口号。在经历了两年的动荡后，夏尔玛提出了一个四点行动计划，重点关注硬件、游戏、平台和服务。她承认，玩家对Xbox的现状感到失望，认为主机更新不足，PC平台表现不佳。此次会议标志着Xbox在未来将更加注重满足现有用户的需求，可能会对其市场竞争力产生积极影响。",
+          "analysis_en": "Recently, Microsoft's Xbox team held an all-hands meeting in Building D, where Xbox CEO Asha Sharma conveyed the slogan \"the return of Xbox\" to employees. After two years of turbulence, Sharma presented a four-point action plan focusing on hardware, games, platform, and services. She acknowledged that players are frustrated with the current state of Xbox, feeling that the console updates have been insufficient and the PC presence weak. This meeting signifies a renewed commitment to addressing the needs of existing users, which could positively impact Xbox's competitive position in the market."
+        },
+        {
+          "rank": 3,
+          "title": "The future of Disney Plus is a confused mess",
+          "link": "https://www.theverge.com/streaming/925973/josh-damaro-disney-plus-disney-parks",
+          "source": "The Verge",
+          "published_utc": "2026-05-07 16:00 UTC",
+          "analysis_zh": "迪士尼新任首席执行官乔什·达马罗表示，他希望将Disney Plus打造成“公司沉浸式、互动式的数字核心”。过去，人们通常通过电影或主题公园来体验迪士尼的虚构世界，而达马罗现在认为Disney Plus将成为“迪士尼与粉丝之间的主要关系”。这一转变不仅反映了迪士尼对数字化的重视，也可能影响到其主题公园的访客流量，粉丝在观看Disney Plus的内容后，可能会更倾向于前往迪士尼乐园游玩，从而形成一种更紧密的品牌体验。",
+          "analysis_en": "Disney's newly appointed CEO, Josh D'Amaro, has expressed his ambition to transform Disney Plus into \"the immersive, interactive digital centerpiece of the company.\" Traditionally, audiences engaged with Disney's fictional worlds through movies or theme parks, but D'Amaro now envisions Disney Plus as \"the primary relationship between Disney and its fans.\" This shift highlights Disney's focus on digital engagement, which could influence visitor traffic to its theme parks. Fans who watch content on Disney Plus may be more inclined to visit Disney parks, creating a more interconnected brand experience."
+        },
+        {
+          "rank": 4,
+          "title": "There’s actually a good deal happening now on the Xbox Series X",
+          "link": "https://www.theverge.com/gadgets/925429/xbox-series-forza-horizon-6-controller-magsafe-airtags-deal-sale",
+          "source": "The Verge",
+          "published_utc": "2026-05-07 15:35 UTC",
+          "analysis_zh": "最近，Xbox Series X的推荐变得困难，尤其是在自去年十月以来其售价高达649美元的情况下。然而，如果你考虑购买，可以看看Best Buy提供的Forza Horizon 6主题主机套餐，价格仅比通常的高价多出10美元。这个套餐包含1TB SSD的Series X主机、Forza Horizon 6光盘和灵感来自游戏的限量版无线手柄，价值高达180美元。这一优惠可能会吸引游戏爱好者，尤其是在即将推出的游戏发布日。",
+          "analysis_en": "Recently, it has been challenging to recommend the Xbox Series X, especially with its price at $649 since last October. However, if you're thinking about purchasing one, consider the Forza Horizon 6-themed console bundle available at Best Buy, which is only $10 more than the usual inflated price. This bundle includes the Series X with a 1TB SSD, a disc of Forza Horizon 6, and a limited edition wireless controller inspired by the game, valued at $180. This deal could attract gamers, especially with the game's upcoming launch date."
+        },
+        {
+          "rank": 5,
           "title": "Netflix has its own, impressive AI-powered voice search",
           "link": "https://www.theverge.com/column/925898/netflix-ai-voice-search",
           "source": "The Verge",
           "published_utc": "2026-05-07 15:30 UTC",
-          "analysis_zh": "Netflix 最近开始测试一项新的人工智能语音搜索功能，部分用户可以通过遥控器上的 Netflix 按钮来获取电影和电视节目的推荐。这项功能的推出，使得用户可以用自然语言提出请求，系统将根据用户的需求提供相关的观看建议。这一创新不仅提升了用户体验，也可能影响到流媒体平台之间的竞争，因为它绕过了智能电视和其他设备内置的语音助手。这意味着 Netflix 在增强用户互动和个性化推荐方面迈出了重要一步。",
-          "analysis_en": "Netflix has recently begun testing a new AI-powered voice search feature, allowing a subset of users to request movie and TV show recommendations by pressing the Netflix button on their remote. This feature enables users to make requests in natural language, with the system providing relevant viewing suggestions based on their needs. This innovation not only enhances the user experience but may also impact competition among streaming platforms, as it circumvents built-in voice assistants on smart TVs and other devices. This signifies a significant step for Netflix in enhancing user interaction and personalized recommendations."
+          "analysis_zh": "Netflix 最近开始测试一项新的 AI 驱动的语音搜索功能，部分用户可以通过遥控器上的 Netflix 按钮来获取电影和电视剧的推荐。这项功能的推出使得用户能够使用自然语言进行搜索，提升了观看体验。此举不仅展示了 Netflix 在技术创新方面的努力，也可能影响到用户的观看习惯和内容发现方式，进一步增强其在流媒体市场的竞争力。",
+          "analysis_en": "Netflix has recently begun testing a new AI-powered voice search feature, allowing a subset of users to request movie and TV show recommendations using the Netflix button on their remote. This feature enhances the viewing experience by enabling users to search using natural language. The introduction of this technology not only highlights Netflix's commitment to innovation but may also influence user viewing habits and content discovery, strengthening its competitive position in the streaming market."
         },
         {
-          "rank": 2,
+          "rank": 6,
           "title": "BMW iX3 has a lower starting price than comparable gas-powered X3",
           "link": "https://www.theverge.com/transportation/925975/bmw-ix3-starting-price-lower-x3-range-estimate",
           "source": "The Verge",
           "published_utc": "2026-05-07 15:28 UTC",
-          "analysis_zh": "2027款宝马iX3现已在美国上市，其起售价为62,850美元，令人惊喜的是，这一价格比同类的燃油版宝马X3 M50 xDrive低了约5,000美元。这款iX3是基于宝马下一代Neue Klasse平台打造的首款车型，标志着宝马在电动车市场的进一步布局。iX3的价格低于同类燃油车，显示出电动车在美国市场的可负担性正在改善，尽管总体上电动车的平均价格仍高于内燃机车型。这一趋势可能会吸引更多消费者转向电动车，推动市场的进一步发展。",
-          "analysis_en": "The 2027 BMW iX3 is now available in the US, starting at $62,850, which surprisingly undercuts the comparable gas-powered BMW X3 M50 xDrive by about $5,000. As the first vehicle built on BMW's next-gen Neue Klasse platform, the iX3 represents a significant step for the automaker in the electric vehicle market. Its lower price compared to gas counterparts indicates improving affordability for EVs in the US, even though electric vehicles still generally cost more than internal combustion engine models. This trend may encourage more consumers to consider electric vehicles, potentially accelerating the growth of the market."
+          "analysis_zh": "2027款宝马iX3现已在美国上市，其起售价为62,850美元，低于同类燃油车型X3 M50 xDrive的67,850美元。作为宝马下一代Neue Klasse平台上首款车型，iX3的定价可能会让消费者感到惊喜。这一价格差异不仅提升了电动车的可负担性，也可能推动更多消费者转向电动车，进一步促进电动汽车市场的发展。",
+          "analysis_en": "The 2027 BMW iX3 is now available in the US, with a starting price of $62,850, which is lower than the comparable gas-powered X3 M50 xDrive priced at $67,850. As the first vehicle built on BMW's next-gen Neue Klasse platform, the iX3's pricing may surprise consumers. This price difference not only enhances the affordability of electric vehicles but could also encourage more consumers to switch to EVs, further promoting the growth of the electric vehicle market."
         },
         {
-          "rank": 3,
+          "rank": 7,
           "title": "Apple’s $599 MacBook Neo could be at risk from rising RAM prices",
           "link": "https://www.theverge.com/gadgets/925997/apple-macbook-neo-price-increase-ram",
           "source": "The Verge",
           "published_utc": "2026-05-07 15:05 UTC",
-          "analysis_zh": "苹果的$599 MacBook Neo可能面临因RAM价格上涨而导致的风险。分析师Tim Culpan指出，苹果可能会停止销售这一最便宜的基础配置，只保留售价$699、存储为512GB的版本。这一变化不仅影响了消费者的选择，也可能导致苹果在市场上的竞争力下降，尤其是在其他品牌的笔记本电脑价格因RAM短缺而上涨的情况下。苹果的生产计划也因此受到影响，预计将把Neo的生产量从最初的500万到600万台提升至1000万台。",
-          "analysis_en": "Apple's $599 MacBook Neo may be at risk due to rising RAM prices. Analyst Tim Culpan suggests that Apple could discontinue this budget-friendly base configuration, leaving only the $699 model with 512GB of storage available. This change not only affects consumer choices but could also diminish Apple's competitiveness in the market, especially as prices for laptops from other brands are increasing due to RAM shortages. Additionally, Apple's production plans are being impacted, with expectations to boost Neo production from an initial 5 to 6 million units to 10 million units."
+          "analysis_zh": "苹果的599美元MacBook Neo可能面临因内存价格上涨而取消的风险。分析师Tim Culpan指出，苹果可能会停止销售这一价格最低的基础配置，只保留699美元的512GB版本。这一变化不仅会影响消费者的选择，也可能导致苹果在市场上的竞争力下降，尤其是在其他品牌的笔记本电脑价格也在上涨的情况下。此外，苹果近期还停止销售最便宜的Mac mini配置，显示出其在内存短缺背景下的策略调整。",
+          "analysis_en": "Apple's $599 MacBook Neo is at risk of being discontinued due to rising RAM prices. Analyst Tim Culpan suggests that Apple may eliminate the budget-friendly base configuration, leaving only the $699 model with 512GB of storage. This change could limit consumer options and potentially weaken Apple's competitive position in the market, especially as prices for laptops from other brands are also increasing. Additionally, Apple recently stopped selling the most affordable Mac mini configuration, indicating a strategic adjustment in response to the ongoing RAM shortage."
         },
         {
-          "rank": 4,
+          "rank": 8,
           "title": "Samsung’s flagship laptop is a MacBook Pro clone gone horribly wrong",
           "link": "https://www.theverge.com/tech/925806/samsung-galaxy-book6-ultra-nvidia-rtx-5070-laptop-review",
           "source": "The Verge",
           "published_utc": "2026-05-07 15:00 UTC",
-          "analysis_zh": "三星最新推出的Galaxy Book6 Ultra笔记本电脑被认为是MacBook Pro的拷贝，但却出现了严重的问题。尽管它拥有美丽的屏幕和精致的设计，构建质量也相当坚固，但在使用体验上却大打折扣，尤其是键盘和摄像头的表现不佳。这个产品的失败不仅影响了三星的品牌形象，也让消费者对高价位笔记本的期待大打折扣，可能会导致他们转向其他品牌。",
-          "analysis_en": "Samsung's newly launched Galaxy Book6 Ultra laptop has been criticized for being a poor clone of the MacBook Pro, with significant issues. While it boasts a beautiful screen and a sleek design, the user experience suffers due to a subpar keyboard and webcam. This failure not only tarnishes Samsung's brand image but also diminishes consumer expectations for high-end laptops, potentially driving them toward competing brands."
+          "analysis_zh": "三星最新推出的Galaxy Book6 Ultra笔记本电脑被批评为MacBook Pro的拷贝，但在性能和设计上却未能达到预期。尽管它拥有出色的屏幕和优雅的外观，但用户体验却因键盘和摄像头质量不佳而受到影响。这一事件引发了对三星在高端笔记本市场定位的质疑，尤其是在与苹果竞争时。消费者可能会因此对三星的产品产生怀疑，从而影响其市场份额和品牌形象。",
+          "analysis_en": "Samsung's newly launched Galaxy Book6 Ultra laptop has been criticized as a clone of the MacBook Pro, failing to meet expectations in both performance and design. While it boasts an excellent screen and elegant appearance, user experience is hampered by poor keyboard and webcam quality. This situation raises questions about Samsung's positioning in the high-end laptop market, especially in competition with Apple. As a result, consumers may develop skepticism towards Samsung's products, potentially affecting its market share and brand image."
         },
         {
-          "rank": 5,
+          "rank": 9,
           "title": "OpenClaw and Claude can put your AI-generated podcasts in Spotify",
           "link": "https://www.theverge.com/entertainment/925916/save-to-spotify-ai-podcasts",
           "source": "The Verge",
           "published_utc": "2026-05-07 14:15 UTC",
-          "analysis_zh": "OpenClaw和Claude推出了一款名为“Save to Spotify”的新命令行工具，专为AI代理设计。用户可以通过这个工具将AI生成的音频摘要和个人播客直接保存到Spotify。这一功能的推出，标志着AI与播客行业的进一步融合，使得用户能够更方便地管理和收听个性化内容。随着这一工具的普及，可能会吸引更多用户使用AI技术来生成和分享他们的播客，提高内容创作的效率。",
-          "analysis_en": "OpenClaw and Claude have introduced a new command-line tool called \"Save to Spotify,\" specifically designed for AI agents. This tool allows users to save AI-generated audio summaries and personal podcasts directly to Spotify. The launch of this feature signifies a deeper integration of AI into the podcasting industry, making it easier for users to manage and listen to personalized content. As this tool gains popularity, it may encourage more users to leverage AI technology for generating and sharing their podcasts, enhancing the efficiency of content creation."
+          "analysis_zh": "OpenClaw和Claude推出了一款新的命令行工具“Save to Spotify”，使得用户可以将AI生成的播客直接保存到Spotify上。这一工具特别适合那些喜欢收集研究资料并通过AI生成音频摘要的人。此功能的推出不仅丰富了Spotify的内容形式，也为用户提供了更便捷的个性化播客体验，可能会吸引更多用户使用AI技术来创造和分享内容。",
+          "analysis_en": "OpenClaw and Claude have introduced a new command-line tool called \"Save to Spotify,\" allowing users to save AI-generated podcasts directly to Spotify. This tool is particularly useful for those who gather research and use AI to create audio summaries. The launch of this feature not only enhances the variety of content on Spotify but also offers users a more convenient way to create and share personalized podcasts, potentially attracting more users to utilize AI technology for content creation."
         },
         {
-          "rank": 6,
+          "rank": 10,
           "title": "Google’s taking a big swing at AI health with the Fitbit Air",
           "link": "https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers",
           "source": "The Verge",
           "published_utc": "2026-05-07 14:00 UTC",
-          "analysis_zh": "谷歌最近推出了新的Fitbit Air，这是一款售价99美元的可穿戴设备，旨在通过人工智能技术提升健康管理。与市场上其他产品相比，Fitbit Air没有屏幕，设计简约，强调轻便和易用性。这一产品的推出不仅标志着谷歌在健康科技领域的进一步布局，也可能会影响可穿戴设备市场的竞争格局，吸引更多用户关注健康监测。",
-          "analysis_en": "Google recently launched the new Fitbit Air, a $99 wearable device aimed at enhancing health management through artificial intelligence technology. Unlike other products on the market, the Fitbit Air is screenless and features a minimalist design that emphasizes convenience and ease of use. This launch not only signifies Google's deeper commitment to the health tech sector but may also impact the competitive landscape of wearable devices, drawing more users' attention to health monitoring."
-        },
-        {
-          "rank": 7,
-          "title": "Ploopy’s new mouse makes the ThinkPad’s iconic TrackPoint portable",
-          "link": "https://www.theverge.com/tech/925923/ploopy-bean-open-source-mouse-pointing-stick-qmk",
-          "source": "The Verge",
-          "published_utc": "2026-05-07 13:59 UTC",
-          "analysis_zh": "Ploopy 最近推出了一款新的开源鼠标——Ploopy Bean，这款鼠标的设计灵感来源于 IBM ThinkPad 笔记本电脑上的 TrackPoint。与传统的触控板和轨迹球不同，Ploopy Bean 不需要移动，而是通过一个红色指点杆和四个按钮进行操作。这款鼠标的灵敏度极高，能够检测到微小的移动，适合旅行使用。该产品的发布不仅为用户提供了更多选择，也可能影响到便携式输入设备的市场格局。",
-          "analysis_en": "Ploopy has recently launched a new open-source mouse called the Ploopy Bean, inspired by the TrackPoint found on IBM's ThinkPad laptops. Unlike traditional touchpads and trackballs, the Ploopy Bean does not require movement; instead, it operates through a red pointing stick surrounded by four buttons. This mouse features high sensitivity, capable of detecting minute movements, making it ideal for travel. The release of this product not only offers users more options but may also influence the market landscape for portable input devices."
-        },
-        {
-          "rank": 8,
-          "title": "Inside Dreame’s wild launch event — packed with products no one can buy",
-          "link": "https://www.theverge.com/tech/922511/inside-dreames-wild-launch-event-dreame-next-2026",
-          "source": "The Verge",
-          "published_utc": "2026-05-07 13:15 UTC",
-          "analysis_zh": "上周，数百名网络红人、媒体人士和一些小牌明星聚集在旧金山的美术宫，参加了Dreame的发布活动。此次活动旨在展示该中国机器人吸尘器公司进入美国市场及其更大产品生态系统的计划。在为期四天的展会上，Dreame推出了许多引人注目的概念产品，尽管其中大部分并没有明确的上市时间。这一活动的重心在于吸引注意力，而非实际可购买的产品，这可能会影响消费者对品牌的信任和期待。",
-          "analysis_en": "Last week, hundreds of influencers, media representatives, and a few minor celebrities gathered at the Palace of Fine Arts in San Francisco for Dreame's launch event. The event aimed to showcase the Chinese robot vacuum company's entry into the American market and a broader ecosystem of products. Over the four-day showcase, Dreame presented many eye-catching concept gadgets, although most lacked clear release dates. This focus on spectacle rather than actual purchasable products may affect consumer trust and expectations regarding the brand."
-        },
-        {
-          "rank": 9,
-          "title": "The Download: the tech reshaping IVF and the rise of balcony solar",
-          "link": "https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/",
-          "source": "MIT Technology Review",
-          "published_utc": "2026-05-07 12:10 UTC",
-          "analysis_zh": "最近的技术进展正在改变试管婴儿（IVF）的过程，尽管这一技术在过去四十年中帮助了数百万家庭迎来新生命，但其过程仍然面临缓慢、痛苦和高昂费用等问题。这些新技术的出现可能会使IVF变得更加高效和可负担，从而帮助更多有生育需求的家庭。随着科技的不断进步，未来的IVF可能会变得更加普及，改变人们的生育选择和家庭结构。",
-          "analysis_en": "Recent technological advancements are reshaping the process of in vitro fertilization (IVF). While IVF has helped millions of families welcome new life over the past four decades, it still faces challenges such as being slow, painful, and expensive. The emergence of new technologies could make IVF more efficient and affordable, potentially assisting more families with fertility needs. As technology continues to evolve, the future of IVF may become more accessible, altering reproductive choices and family structures."
-        },
-        {
-          "rank": 10,
-          "title": "Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web",
-          "link": "https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/",
-          "source": "Feed: Artificial Intelligence Latest",
-          "published_utc": "2026-05-07 11:00 UTC",
-          "analysis_zh": "最近，许多使用Vibe编码的应用程序泄露了企业和个人的敏感数据。这些应用程序由Lovable、Base44、Replit和Netlify等公司提供，利用人工智能技术使用户能够在几秒钟内构建网页应用。然而，数千个案例表明，这些应用程序将高度敏感的数据暴露在公共互联网中。这一事件引发了对数据隐私和安全性的广泛关注，可能会促使企业重新审视其数据保护措施，并加强对用户信息的管理。",
-          "analysis_en": "Recently, numerous Vibe-coded applications have exposed sensitive corporate and personal data. These applications, provided by companies like Lovable, Base44, Replit, and Netlify, utilize AI technology to allow users to build web apps in seconds. However, thousands of cases have shown that these apps have leaked highly sensitive data onto the public internet. This incident has raised significant concerns about data privacy and security, potentially prompting companies to reassess their data protection measures and enhance the management of user information."
+          "analysis_zh": "谷歌最近推出了新的Fitbit Air，售价为99美元，标志着其在AI健康领域的重要进展。该设备没有屏幕，采用金属织物扣，设计简约，旨在为用户提供更轻松的健康追踪体验。这一产品的发布不仅是谷歌对可穿戴设备市场的再一次尝试，也可能会影响到健康科技行业的竞争格局，尤其是在与其他品牌如Whoop的对比中。随着AI健康教练的推出，谷歌希望通过智能科技改善用户的健康管理方式。",
+          "analysis_en": "Google recently launched the new Fitbit Air, priced at $99, marking a significant advancement in its AI health initiatives. The device is screenless and features a metallic fabric clasp, designed to offer users a more straightforward health tracking experience. This product release not only represents Google's renewed effort in the wearable market but could also impact the competitive landscape in the health tech industry, particularly in comparison to brands like Whoop. With the rollout of its AI Health Coach, Google aims to enhance users' health management through smart technology."
         }
       ]
     },
@@ -335,93 +344,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "Is the Blake Lively v. Justin Baldoni Legal Fight Over? Not So Fast.",
+          "link": "https://www.nytimes.com/2026/05/07/movies/blake-lively-justin-baldoni-settlement-defamation.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-05-07 16:06 UTC",
+          "analysis_zh": "布莱克·莱弗利与贾斯廷·巴尔多尼之间的法律纠纷似乎已部分达成和解，双方律师表示大部分争议已解决。然而，仍然存在一个主要的分歧未能解决。这一案件的进展引起了公众的关注，因为它涉及到名人之间的法律斗争，可能会影响他们的职业形象和未来合作。若争议持续，可能会对两位艺人的事业产生负面影响。",
+          "analysis_en": "The legal dispute between Blake Lively and Justin Baldoni appears to have reached a partial settlement, with lawyers indicating that most of the contentious issues have been resolved. However, one significant disagreement remains unresolved. This case has garnered public attention as it involves a legal battle between celebrities, which could impact their professional images and future collaborations. If the disagreement continues, it may have negative repercussions on both artists' careers."
+        },
+        {
+          "rank": 2,
+          "title": "‘The Sheep Detectives’ Review: A Murder Most Fleecy",
+          "link": "https://www.nytimes.com/2026/05/07/movies/the-sheep-detectives-review.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-05-07 15:41 UTC",
+          "analysis_zh": "《羊群侦探》是一部以英村为背景的迷人悬疑剧，主演是休·杰克曼。这部影片采用了阿加莎·克里斯蒂的风格，讲述了一起与羊群有关的谋杀案。该片不仅吸引了观众的注意，也为悬疑电影注入了新的活力。它的成功可能会激励更多类似题材的作品出现，进一步丰富电影市场。",
+          "analysis_en": "\"The Sheep Detectives\" is a charming mystery set in an English village, featuring Hugh Jackman. The film adopts an Agatha Christie style, revolving around a murder linked to a flock of sheep. Its appeal not only captivates audiences but also revitalizes the mystery genre. The success of this film may encourage the production of more works in similar themes, enriching the film market further."
+        },
+        {
+          "rank": 3,
           "title": "kengo kuma’s first US museum emerges within vast art and nature campus in pennsylvania",
           "link": "https://www.designboom.com/architecture/kengo-kuma-associates-kkaa-first-us-museum-vast-art-nature-campus-pennsylvania-brandywine-conservancy/",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-05-07 15:30 UTC",
-          "analysis_zh": "日本建筑师隈研吾在宾夕法尼亚州设计的首个美国博物馆正式揭幕。这个博物馆由一系列木质外观的展馆组成，面积达到3716平方米，坐落在湿地和历史艺术家工作室的广阔景观中。这一项目不仅展示了隈研吾对自然与建筑和谐共生的追求，也为当地艺术文化的发展提供了新的平台。博物馆的建立可能会吸引更多游客，促进当地经济，并提升宾夕法尼亚州在艺术界的地位。",
-          "analysis_en": "Japanese architect Kengo Kuma's first museum in the United States has officially opened in Pennsylvania. The museum consists of a series of timber-clad pavilions covering an area of 3,716 square meters, set within a landscape of wetlands and historic artists' studios. This project not only showcases Kuma's pursuit of harmony between nature and architecture but also provides a new platform for the development of local art and culture. The establishment of the museum is likely to attract more visitors, boost the local economy, and enhance Pennsylvania's status in the art world."
+          "analysis_zh": "日本建筑师隈研吾在宾夕法尼亚州设计的首个美国博物馆正式揭幕。这个博物馆由一系列木质外观的展馆组成，面积达到3716平方米，坐落在湿地和历史艺术家工作室的美丽景观中。这一项目不仅展示了隈研吾对自然与艺术结合的独特理解，也为当地文化和旅游发展注入了新的活力。未来，这个博物馆可能会吸引更多游客，促进艺术交流和社区发展。",
+          "analysis_en": "Japanese architect Kengo Kuma's first museum in the United States has officially opened in Pennsylvania. This museum features a series of timber-clad pavilions covering an area of 3,716 square meters, set within a beautiful landscape of wetlands and historic artists' studios. This project not only showcases Kuma's unique interpretation of the relationship between nature and art but also revitalizes the local culture and tourism. In the future, this museum may attract more visitors, fostering artistic exchange and community development."
         },
         {
-          "rank": 2,
+          "rank": 4,
           "title": "Here’s Why the Venice Biennale Main Show Lost One Artist During the Planning Stages",
           "link": "https://www.artnews.com/art-news/news/venice-biennale-2026-lost-artist-bodys-isek-kingelez-1234784463/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-05-07 15:30 UTC",
-          "analysis_zh": "威尼斯双年展在策划阶段失去了一位艺术家，原因是博迪斯·伊塞克·金格莱兹的作品“已不再可用”。这一变化引发了对展览内容和艺术家选择的关注。失去这位艺术家的作品可能会影响展览的整体主题和多样性，观众也可能因此错失欣赏其独特艺术风格的机会。",
-          "analysis_en": "The Venice Biennale lost an artist during the planning stages because Bodys Isek Kingelez's work was \"no longer available.\" This change raises concerns about the content and artist selection for the exhibition. The absence of this artist's work may affect the overall theme and diversity of the show, and audiences might miss the opportunity to experience his unique artistic style."
+          "analysis_zh": "在威尼斯双年展的策划阶段，主办方宣布无法展出艺术家博迪斯·伊塞克·金格莱兹的作品，原因是该作品“已不再可用”。这一决定引发了广泛关注，因为金格莱兹的作品在当代艺术界具有重要地位，反映了非洲艺术家的声音和视角。失去这一作品可能会影响展览的整体多样性和文化代表性，观众也将错失欣赏这一重要艺术家的机会。",
+          "analysis_en": "During the planning stages of the Venice Biennale, the organizers announced that they could not present the work of artist Bodys Isek Kingelez because it was \"no longer available.\" This decision has sparked considerable attention, as Kingelez's work holds significant importance in the contemporary art scene, representing the voices and perspectives of African artists. The absence of this piece may affect the overall diversity and cultural representation of the exhibition, and audiences will miss the opportunity to appreciate the work of this important artist."
         },
         {
-          "rank": 3,
-          "title": "‘The Sheep Detectives’ Review: A Murder Most Fleecy",
-          "link": "https://www.nytimes.com/2026/05/07/movies/the-sheep-detectives-review.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-05-07 15:24 UTC",
-          "analysis_zh": "《羊群侦探》是一部以英格兰乡村为背景的迷人悬疑剧，讲述了一群羊和休·杰克曼共同参与的谋杀案。这部影片以阿加莎·克里斯蒂的风格呈现，吸引了观众的注意。它不仅展示了独特的故事情节，还融合了幽默和悬疑元素，可能会影响观众对传统侦探故事的期待。这样的作品能够为观众带来新鲜感，并激发对经典文学改编的兴趣。",
-          "analysis_en": "\"The Sheep Detectives\" is a charming mystery set in an English village, featuring a flock of sheep and Hugh Jackman involved in a murder case. The film captures the essence of Agatha Christie’s style, drawing the audience's attention. It not only presents a unique storyline but also blends humor and suspense, potentially influencing viewers' expectations of traditional detective stories. Such a work can provide a refreshing experience and spark interest in adaptations of classic literature."
-        },
-        {
-          "rank": 4,
+          "rank": 5,
           "title": "France Passes Law Easing Process of Returning Looted Art",
           "link": "https://www.nytimes.com/2026/05/07/arts/design/france-africa-art-restitution-colonialism.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-07 15:18 UTC",
-          "analysis_zh": "法国国会通过了一项法律，简化了归还被掠夺艺术品的程序。这项法律的通过标志着法国在归还非洲艺术品方面迈出了重要一步，满足了许多国家和文化的呼声。此举不仅有助于修复历史不公，还可能激励其他国家重新审视其博物馆中的藏品，推动全球艺术品归还的潮流。",
-          "analysis_en": "The French Parliament has passed a law that streamlines the process for returning looted artworks. This legislation represents a significant step forward in France's efforts to return African art, responding to the demands of many nations and cultures. This move not only helps to rectify historical injustices but may also encourage other countries to reassess the collections in their museums, potentially sparking a global trend in the restitution of artworks."
+          "analysis_zh": "法国国会通过了一项新法律，简化了归还被掠夺艺术品的程序。这项法律的通过标志着法国在归还非洲艺术品方面迈出了重要一步，符合总统马克龙长期以来的承诺。这一变化不仅可能改善法国与非洲国家的关系，还可能推动其他国家重新审视其博物馆中的藏品归属问题。",
+          "analysis_en": "The French Parliament has passed a new law that streamlines the process for returning looted artworks. This legislation represents a significant step forward in France's efforts to return African art, aligning with President Macron's long-standing commitment. This change could not only enhance France's relations with African nations but also encourage other countries to reconsider the ownership of artworks in their museums."
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Ed Gardner, ‘Force to Be Reckoned With,’ Comes Into His Own",
           "link": "https://www.nytimes.com/2026/05/07/arts/music/ed-gardner-conductor.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-07 15:15 UTC",
-          "analysis_zh": "艾德·加德纳是英国音乐的理想大使，本月他将前往美国，进一步提升自己的国际形象。这次出行不仅展示了他在音乐界的影响力，也为英国音乐在海外的发展提供了新的机遇。加德纳的成功可能会激励更多的英国艺术家走向国际舞台，促进文化交流。",
-          "analysis_en": "Ed Gardner is an ideal ambassador for British music, and he is set to enhance his international profile with a trip to the United States this month. This journey not only highlights his influence in the music industry but also opens new opportunities for British music abroad. Gardner's success may inspire more British artists to reach for the international stage, fostering cultural exchange."
+          "analysis_zh": "艾德·加德纳被认为是英国音乐的理想大使，他在国际舞台上逐渐崭露头角。本月，他将前往美国，这次旅行将进一步提升他的国际形象。加德纳的成功不仅有助于推广英国音乐，还可能影响其他艺术家在全球范围内的发展和合作。",
+          "analysis_en": "Ed Gardner is regarded as an ideal ambassador for British music, and he is starting to make a significant impact on the international stage. This month, he will travel to the United States, which will further enhance his global profile. Gardner's success not only promotes British music but may also influence the development and collaboration of other artists worldwide."
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "America’s Museums Have a Building Problem",
           "link": "https://www.artnews.com/art-news/news/us-museums-repairs-gao-report-85-percent-1234784458/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-05-07 15:06 UTC",
-          "analysis_zh": "美国的博物馆面临着建筑问题，约85%的博物馆需要维修。大多数博物馆规模较小，资源匮乏，常常位于老旧或历史建筑中，这使得维护和升级变得更加困难。这一问题不仅影响了博物馆的运营和展览质量，也可能降低公众对文化艺术的参与度和兴趣。解决这些建筑问题对于保护和传承文化遗产至关重要。",
-          "analysis_en": "American museums are facing a building problem, with approximately 85% needing repairs. Most of these museums are small and under-resourced, often located in aging or historic structures, making maintenance and upgrades particularly challenging. This issue not only affects the operation and quality of exhibitions but may also diminish public engagement and interest in cultural arts. Addressing these building challenges is crucial for preserving and passing on cultural heritage."
+          "analysis_zh": "美国的博物馆面临建筑问题，约85%的博物馆需要修缮。大多数博物馆资源匮乏，常常位于老旧或历史建筑中，这些建筑的维护成本高昂且升级困难。这一问题不仅影响博物馆的运营，也可能导致公众对文化艺术的接触减少，进而影响社会对文化遗产的认知与保护。",
+          "analysis_en": "America's museums are facing a significant building problem, with around 85% requiring repairs. Most of these institutions are under-resourced and often located in aging or historic structures that are costly to maintain and difficult to upgrade. This issue not only affects the operation of the museums but may also lead to a decrease in public engagement with the arts, ultimately impacting society's awareness and preservation of cultural heritage."
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Review: Sophie Rivera’s Photos Come Out From the Shadows",
           "link": "https://www.nytimes.com/2026/05/07/arts/design/review-sophie-riveras-museo-del-barrio.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-07 15:00 UTC",
-          "analysis_zh": "索菲·里维拉的摄影作品在她的首次博物馆展览《双重曝光》中得到了展示，展览突出了她在记录纽约人生活方面的独特视角。此次展览的重要性在于，它不仅展示了艺术家的创作历程，还反映了纽约这座城市的多样性和复杂性。通过传统与非传统的手法，里维拉的作品可能会影响观众对城市生活的理解，激发更多人关注和探索城市文化。",
-          "analysis_en": "Sophie Rivera's photography is showcased in her first museum exhibition, \"Double Exposures,\" which highlights her unique perspective on documenting the lives of New Yorkers. This exhibition is significant because it not only showcases the artist's career but also reflects the diversity and complexity of the city itself. By employing both traditional and unconventional methods, Rivera's work may influence viewers' understanding of urban life and inspire more people to engage with and explore urban culture."
+          "analysis_zh": "索菲·里维拉的摄影作品在她的首次博物馆展览《双重曝光》中得到了展示。这位艺术家通过传统与独特的方式记录了纽约人的生活。这次展览的重要性在于，它不仅让观众重新审视这些影像背后的故事，也为里维拉的艺术生涯提供了一个新的平台。这样的展览可能会激发更多人对她作品的关注，并推动对当代摄影艺术的讨论。",
+          "analysis_en": "Sophie Rivera's photography is showcased in her first museum survey, \"Double Exposures.\" The artist has documented the lives of New Yorkers in both traditional and unconventional ways. This exhibition is significant as it encourages viewers to reconsider the narratives behind these images and provides a new platform for Rivera's artistic career. Such an exhibition may spark greater interest in her work and foster discussions about contemporary photography."
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Fondazione Sandretto Re Rebaudengo’s New Art Island Made a Sunny Splash in a Rainy Venice Vernissage Week",
           "link": "https://www.artnews.com/art-news/news/fondazione-sandretto-re-rebaudengo-art-island-venice-1234784446/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-05-07 14:41 UTC",
-          "analysis_zh": "在威尼斯的艺术周上，桑德雷托基金会的新艺术岛吸引了众多关注，尽管天气阴雨绵绵。该艺术岛展示了由休·海登、戈什卡·马库加和帕梅拉·罗森克兰兹等艺术家创作的引人注目的作品。这一展览不仅展示了当代艺术的多样性，也为威尼斯的艺术场景注入了新的活力。艺术岛的成功可能会激励更多类似项目的出现，进一步推动艺术与公众之间的互动。",
-          "analysis_en": "During the Venice Art Week, the new Art Island by Fondazione Sandretto Re Rebaudengo garnered significant attention despite the rainy weather. The island showcased striking commissioned pieces by artists such as Hugh Hayden, Goshka Macuga, and Pamela Rosenkranz. This exhibition not only highlighted the diversity of contemporary art but also revitalized the art scene in Venice. The success of Art Island may inspire more similar projects, further enhancing the interaction between art and the public."
+          "analysis_zh": "在威尼斯的艺术周上，桑德雷托·雷·巴尔登戈基金会推出了一个新的艺术岛，吸引了众多关注。此次展览展示了由休·海登、戈什卡·马库加和帕梅拉·罗森克兰兹等艺术家创作的引人注目的作品。这个项目的重要性在于它不仅为艺术家提供了展示平台，也为威尼斯的文化景观增添了新的活力。这样的艺术活动可能会吸引更多游客，进一步推动当地经济的发展。",
+          "analysis_en": "During the Venice Art Week, the Fondazione Sandretto Re Rebaudengo unveiled a new art island that garnered significant attention. The exhibition featured striking pieces by artists such as Hugh Hayden, Goshka Macuga, and Pamela Rosenkranz. This project is important as it not only provides a platform for artists to showcase their work but also revitalizes the cultural landscape of Venice. Such artistic initiatives could attract more visitors, potentially boosting the local economy further."
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Isabel Strauss wins competition for public bathroom at Gropius House",
           "link": "https://www.dezeen.com/2026/05/07/isabel-strauss-competition-restroom-gropius-house-massachusetts/",
           "source": "Dezeen",
           "published_utc": "2026-05-07 14:00 UTC",
-          "analysis_zh": "建筑设计师伊莎贝尔·斯特劳斯（Isabel Strauss）在美国马萨诸塞州的格罗皮乌斯之家（Gropius House）设计了一座公共厕所，并在数百份提交中脱颖而出，赢得了这一设计竞赛。该竞赛由历史新英格兰组织发起，旨在保护和提升这一历史遗址的公共设施。斯特劳斯的设计名为“一间接着另一间”（One Bathroom After Another），与格罗皮乌斯的自设计住宅的占地面积相呼应。这一项目不仅提升了公共空间的功能性，也为历史建筑的现代化改造提供了新的视角。",
-          "analysis_en": "Architectural designer Isabel Strauss has designed a public bathroom for the Gropius House in Massachusetts, winning the competition from hundreds of submissions. This contest was initiated by the preservation organization Historic New England to enhance public facilities at this historical site. Strauss's design, titled \"One Bathroom After Another,\" mirrors the footprint of Gropius's self-designed home. This project not only improves the functionality of public spaces but also offers a fresh perspective on the modernization of historical buildings."
-        },
-        {
-          "rank": 10,
-          "title": "Is the Blake Lively v. Justin Baldoni Legal Fight Over? Not So Fast.",
-          "link": "https://www.nytimes.com/2026/05/07/movies/blake-lively-justin-baldoni-settlement-defamation.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-05-07 14:00 UTC",
-          "analysis_zh": "布莱克·莱弗利与贾斯廷·巴尔多尼之间的法律争端似乎已经达成部分和解，但仍有一个主要分歧未能解决。这场纠纷引发了公众的广泛关注，因为它涉及到名人之间的法律问题和公众形象的维护。此事的进展可能会影响两位明星的职业生涯以及他们在公众眼中的形象。",
-          "analysis_en": "The legal dispute between Blake Lively and Justin Baldoni appears to have reached a partial settlement, but a significant disagreement remains unresolved. This case has drawn considerable public interest as it touches on legal issues between celebrities and the maintenance of their public images. The outcome of this situation could impact both stars' careers and how they are perceived by the public."
+          "analysis_zh": "建筑设计师伊莎贝尔·施特劳斯（Isabel Strauss）在马萨诸塞州的格罗皮乌斯（Walter Gropius）自设计的住宅区内设计了一座公共卫生间，并在数百份参赛作品中脱颖而出。她的设计名为“一个接一个的卫生间”，旨在与格罗皮乌斯的建筑风格相呼应。这一项目不仅为公众提供了便利的设施，也为保护和传承现代建筑遗产做出了贡献。施特劳斯的获奖设计可能会激励更多的建筑师关注公共空间的设计和功能性。",
+          "analysis_en": "Architectural designer Isabel Strauss has designed a public bathroom for the grounds of Walter Gropius's self-designed home in Massachusetts, winning the competition among hundreds of submissions. Her design, titled \"One Bathroom After Another,\" aims to reflect the architectural style of Gropius. This project not only provides a convenient facility for the public but also contributes to the preservation and appreciation of modern architectural heritage. Strauss's winning design may inspire more architects to focus on the design and functionality of public spaces."
         }
       ]
     }
