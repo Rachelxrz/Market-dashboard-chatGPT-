@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-08 21:35:33 UTC",
-  "generated_at_unix": 1778276133,
+  "generated_at": "2026-05-08 22:32:28 UTC",
+  "generated_at_unix": 1778279548,
   "window": {
-    "from_utc": "2026-05-07 21:35:33 UTC",
-    "to_utc": "2026-05-08 21:35:33 UTC",
+    "from_utc": "2026-05-07 22:32:28 UTC",
+    "to_utc": "2026-05-08 22:32:28 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,93 +14,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "Intel shares soar on Apple chip deal report. Here's why it signals a total pivot for chipmaking",
+          "link": "https://www.cnbc.com/2026/05/08/intel-stock-apple-chip-deal.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-05-08 22:18 UTC",
+          "analysis_zh": "英特尔的股票因与苹果的芯片交易传闻而大幅上涨。这一消息表明，英特尔正在转变其芯片制造战略，可能会在人工智能领域占据更重要的地位。随着三星、英特尔和台积电成为全球仅有的三家能够生产最先进芯片的公司，这一变化可能会影响整个半导体行业的竞争格局。",
+          "analysis_en": "Intel's shares surged on reports of a chip deal with Apple, signaling a significant shift in its chip manufacturing strategy. This move could position Intel more prominently in the artificial intelligence sector. As Samsung, Intel, and Taiwan Semiconductor remain the only three companies capable of producing the most advanced chips, this development may reshape the competitive landscape of the semiconductor industry."
+        },
+        {
+          "rank": 2,
+          "title": "‘It saved my relationship with my mom.’ These money managers may help if you’re feeling overwhelmed helping your parents pay their bills.",
+          "link": "https://www.marketwatch.com/story/feeling-overwhelmed-with-helping-your-parents-pay-their-bills-or-track-expenses-every-day-these-money-managers-can-help-ec399b99?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-05-08 22:14 UTC",
+          "analysis_zh": "最近，一些理财经理开始为那些感到压力的子女提供帮助，特别是在支付父母账单方面。这一服务的出现，旨在减轻子女的负担，让他们能够更好地照顾自己的生活和家庭关系。这不仅有助于提升家庭成员之间的沟通和理解，还可能延长父母的独立生活时间。随着人口老龄化问题的加剧，这种支持服务的重要性愈发凸显。",
+          "analysis_en": "Recently, some financial managers have begun offering assistance to children who feel overwhelmed, particularly in managing their parents' bills. This service aims to alleviate the burden on children, allowing them to better care for their own lives and family relationships. It not only helps improve communication and understanding among family members but may also extend the time that parents can live independently. As the issue of an aging population becomes more pressing, the importance of such support services is increasingly highlighted."
+        },
+        {
+          "rank": 3,
+          "title": "Dunkin’ is making its return to the stock market — with a new twist",
+          "link": "https://www.marketwatch.com/story/dunkin-is-making-its-return-to-the-stock-market-with-a-new-twist-c89f1cc2?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-05-08 22:07 UTC",
+          "analysis_zh": "咖啡连锁品牌Dunkin'的母公司Inspire Brands已秘密提交了首次公开募股（IPO）的申请，这标志着Dunkin'将重返股市。这一举动不仅显示了Inspire Brands对Dunkin'未来发展的信心，也可能为公司带来新的资金支持，以扩展其业务。随着市场对餐饮行业的关注增加，Dunkin'的回归可能会影响投资者对其他类似品牌的看法。",
+          "analysis_en": "Dunkin', the coffee chain owned by Inspire Brands, has confidentially filed for an initial public offering (IPO), signaling its return to the stock market. This move reflects Inspire Brands' confidence in Dunkin's future and could provide the company with new funding to expand its operations. As interest in the restaurant industry grows, Dunkin's return may influence investors' perceptions of other similar brands."
+        },
+        {
+          "rank": 4,
+          "title": "Trump plans to fire US FDA chief Makary, sources say",
+          "link": "https://www.investing.com/news/stock-market-news/trump-planning-to-fire-fda-chief-makary-wsj-reports-4673651",
+          "source": "Stock Market News",
+          "published_utc": "2026-05-08 22:06 UTC",
+          "analysis_zh": "据消息人士透露，特朗普计划解雇美国食品药品监督管理局（FDA）局长马卡里。这一决定可能会引发对FDA政策和监管方向的重大变化，尤其是在药品和疫苗审批方面。此举不仅影响到公众健康，还可能对投资者信心造成冲击，尤其是在生物科技和制药行业。",
+          "analysis_en": "According to sources, Trump plans to fire the head of the U.S. Food and Drug Administration (FDA), Dr. Makary. This decision could lead to significant changes in FDA policies and regulatory approaches, particularly concerning drug and vaccine approvals. Such a move may not only impact public health but also shake investor confidence, especially in the biotech and pharmaceutical sectors."
+        },
+        {
+          "rank": 5,
+          "title": "Russia holds scaled-back WW2 victory parade as worries over war in Ukraine deepen",
+          "link": "https://www.investing.com/news/stock-market-news/russia-holds-scaledback-ww2-victory-parade-as-worries-over-war-in-ukraine-deepen-4674411",
+          "source": "Stock Market News",
+          "published_utc": "2026-05-08 22:00 UTC",
+          "analysis_zh": "俄罗斯在莫斯科举行了一场规模缩小的二战胜利日游行，这一举动引发了外界对乌克兰战争加剧的担忧。此次游行的规模较往年明显减少，显示出俄罗斯在当前国际局势下的压力和不安。这一事件不仅反映了俄罗斯国内的紧张情绪，也可能影响到国际社会对俄罗斯的看法，进一步加剧对其军事行动的关注。",
+          "analysis_en": "Russia held a scaled-back Victory Day parade in Moscow, raising concerns about the escalating war in Ukraine. The reduced scale of the parade compared to previous years highlights the pressure and unease Russia faces in the current international climate. This event not only reflects the tense atmosphere within Russia but may also influence the international community's perception of the country, increasing scrutiny of its military actions."
+        },
+        {
+          "rank": 6,
+          "title": "The Federal Reserve is quickly running out of reasons to cut interest rates",
+          "link": "https://www.cnbc.com/2026/05/08/the-federal-reserve-is-quickly-running-out-of-reasons-to-cut-interest-rates.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-05-08 21:44 UTC",
+          "analysis_zh": "美国劳工部最近发布的就业报告显示，生活成本不断上升，成为美联储面临的主要问题。这一情况使得美联储在考虑降息的理由上越来越少。生活成本的增加可能会对消费者支出产生负面影响，从而影响经济增长。美联储的决策将直接关系到未来的经济政策和市场稳定。",
+          "analysis_en": "The recent jobs report from the U.S. Department of Labor indicates that rising living costs have become a primary concern for the Federal Reserve. This situation leaves the central bank with fewer reasons to consider cutting interest rates. The increasing cost of living may negatively impact consumer spending, which could, in turn, affect economic growth. The Fed's decisions will directly influence future economic policies and market stability."
+        },
+        {
+          "rank": 7,
+          "title": "Gold has climbed back above a key trend line. Are more gains on the way?",
+          "link": "https://www.marketwatch.com/story/gold-has-climbed-back-above-a-key-trend-line-are-more-gains-on-the-way-6627e0f5?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-05-08 21:44 UTC",
+          "analysis_zh": "金价在周五突破了一个重要的短期技术水平，这表明在伊朗冲突开始以来一直疲软的黄金市场可能正在重新获得动能。这一突破对投资者而言具有重要意义，因为它可能预示着金价将继续上涨。随着市场对地缘政治风险的关注加剧，黄金作为避险资产的需求可能会增加，从而影响整体投资策略。",
+          "analysis_en": "Gold prices broke above a significant short-term technical level on Friday, indicating that the market may be starting to regain momentum after a sluggish period since the onset of the Iran conflict. This breakthrough is important for investors as it may signal further gains in gold prices. With increasing market focus on geopolitical risks, the demand for gold as a safe-haven asset could rise, potentially influencing overall investment strategies."
+        },
+        {
+          "rank": 8,
+          "title": "Nike sued by consumers for not refunding tariff costs",
+          "link": "https://www.investing.com/news/stock-market-news/nike-sued-by-consumers-for-not-refunding-tariff-costs-4673936",
+          "source": "Stock Market News",
+          "published_utc": "2026-05-08 21:31 UTC",
+          "analysis_zh": "耐克因未能退还关税费用而被消费者起诉。这一事件引发了广泛关注，因为它不仅涉及消费者权益，还可能影响耐克的品牌形象和财务状况。如果法院支持消费者的诉求，可能会导致其他公司面临类似的法律挑战，从而改变行业内的商业惯例。",
+          "analysis_en": "Nike has been sued by consumers for failing to refund tariff costs. This incident has garnered significant attention as it relates to consumer rights and could impact Nike's brand image and financial health. If the court rules in favor of the consumers, it may lead to similar legal challenges for other companies, potentially altering business practices within the industry."
+        },
+        {
+          "rank": 9,
+          "title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.23%",
+          "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-023-4674347",
+          "source": "Stock Market News",
+          "published_utc": "2026-05-08 21:30 UTC",
+          "analysis_zh": "墨西哥股市在交易结束时出现下跌，S&P/BMV IPC指数下跌了0.23%。这一变化反映了市场对经济前景的不确定性，投资者可能对未来的经济数据感到谨慎。股市的波动可能会影响投资者的信心，进而影响到资金流入和企业融资的情况。",
+          "analysis_en": "Mexican stocks closed lower, with the S&P/BMV IPC index down by 0.23%. This decline indicates uncertainty in the market regarding the economic outlook, leading investors to be cautious about future economic data. Such fluctuations in the stock market can affect investor confidence, which may, in turn, influence capital inflows and corporate financing."
+        },
+        {
+          "rank": 10,
           "title": "No do-overs: How one extra dollar on your Roth conversion triggers a tax bill you won’t see coming",
           "link": "https://www.marketwatch.com/story/no-do-overs-how-one-extra-dollar-on-your-roth-conversion-triggers-a-tax-bill-you-wont-see-coming-5b52c911?mod=mw_rss_topstories",
           "source": "MarketWatch.com - Top Stories",
           "published_utc": "2026-05-08 21:29 UTC",
-          "analysis_zh": "最近，有关Roth转换的新规定引发了广泛关注。根据最新的税务政策，即使是多出的一美元也可能导致意想不到的税务账单。这一变化的重要性在于，它可能会影响许多投资者的退休计划，尤其是那些依赖Roth账户的人。随着隐性税收和医疗保险罚款的增加，投资者需要更加谨慎地管理他们的财务，以避免不必要的损失。",
-          "analysis_en": "Recently, new regulations regarding Roth conversions have garnered significant attention. Under the latest tax policies, even an extra dollar can trigger unexpected tax bills. This change is important because it may affect many investors' retirement plans, particularly those relying on Roth accounts. With the rise of stealth taxes and Medicare penalties, investors must manage their finances more carefully to avoid unnecessary losses."
-        },
-        {
-          "rank": 2,
-          "title": "Rocket Lab surges 34% in best day ever on revenue beat, record-setting launch deal",
-          "link": "https://www.cnbc.com/2026/05/08/rocket-lab-rklb-q1-earnings-2026.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-05-08 21:15 UTC",
-          "analysis_zh": "火箭实验室的股价上涨了34%，创下了公司历史上最佳的交易日。这一涨幅主要是由于公司超出预期的收入报告以及创纪录的发射合同。这一事件不仅反映了市场对航天股票的热情，也可能影响其他航天公司的股价和投资者信心，尤其是在SpaceX即将进行首次公开募股的背景下。",
-          "analysis_en": "Rocket Lab's stock surged by 34%, marking the best trading day in the company's history. This increase was driven by better-than-expected revenue results and a record-setting launch deal. This event not only highlights the growing enthusiasm for space stocks but may also impact the stock prices and investor confidence of other aerospace companies, especially with SpaceX's anticipated IPO on the horizon."
-        },
-        {
-          "rank": 3,
-          "title": "Russia and Ukraine agree on three-day US-mediated ceasefire",
-          "link": "https://www.investing.com/news/stock-market-news/russia-and-ukraine-accuse-each-other-of-violating-ceasefire-4671068",
-          "source": "Stock Market News",
-          "published_utc": "2026-05-08 21:12 UTC",
-          "analysis_zh": "俄罗斯和乌克兰达成了一项为期三天的美国调解停火协议。这一协议的达成为双方提供了一个缓和紧张局势的机会，可能有助于为未来的和平谈判铺平道路。停火期间，双方可以集中精力进行人道主义援助，减轻冲突对平民的影响。这一进展不仅对两国关系至关重要，也可能影响国际社会对冲突的反应和干预方式。",
-          "analysis_en": "Russia and Ukraine have reached a three-day ceasefire agreement mediated by the United States. This agreement provides both sides with an opportunity to ease tensions and may help pave the way for future peace negotiations. During the ceasefire, both parties can focus on humanitarian aid, alleviating the impact of the conflict on civilians. This development is crucial not only for the bilateral relationship but may also influence how the international community responds to and intervenes in the conflict."
-        },
-        {
-          "rank": 4,
-          "title": "US FDA to ease crackdown on some under-review unauthorized vapes",
-          "link": "https://www.investing.com/news/stock-market-news/us-fda-to-ease-crackdown-on-some-underreview-unauthorized-vapes-4674289",
-          "source": "Stock Market News",
-          "published_utc": "2026-05-08 21:12 UTC",
-          "analysis_zh": "美国食品药品监督管理局（FDA）宣布将放宽对一些正在审查中的未经授权电子烟的监管。这一决定可能会影响市场上电子烟的供应，尤其是那些尚未获得批准的产品。此举不仅可能促进相关企业的投资和创新，还可能引发公众对电子烟安全性的担忧，进而影响消费者的购买决策。",
-          "analysis_en": "The U.S. Food and Drug Administration (FDA) has announced plans to ease regulations on certain unauthorized vapes that are currently under review. This decision could impact the supply of e-cigarettes in the market, particularly for products that have not yet received approval. This move may not only encourage investment and innovation among related companies but could also raise public concerns about the safety of e-cigarettes, potentially influencing consumer purchasing decisions."
-        },
-        {
-          "rank": 5,
-          "title": "Trump plans to fire US FDA chief Makary, sources say",
-          "link": "https://www.investing.com/news/stock-market-news/trump-planning-to-fire-fda-chief-makary-wsj-reports-4673651",
-          "source": "Stock Market News",
-          "published_utc": "2026-05-08 21:07 UTC",
-          "analysis_zh": "据消息人士透露，特朗普计划解雇美国食品药品监督管理局局长马卡里。这一决定可能会引发市场的广泛关注，因为FDA在药品和疫苗审批方面扮演着关键角色。解雇局长可能会影响公众对政府监管的信心，并可能导致药品审批进程的延迟，从而影响投资者的决策。",
-          "analysis_en": "According to sources, Trump plans to fire FDA chief Makary. This decision could attract significant attention from the market, as the FDA plays a crucial role in the approval of drugs and vaccines. Dismissing the chief may undermine public confidence in government regulation and could lead to delays in the drug approval process, ultimately affecting investors' decisions."
-        },
-        {
-          "rank": 6,
-          "title": "AMD, Micron shares surge on a big day for chip-sector outperformance",
-          "link": "https://www.marketwatch.com/story/amd-micron-shares-surge-on-a-big-day-for-chip-sector-outperformance-fe2d5306?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-05-08 21:07 UTC",
-          "analysis_zh": "AMD和美光的股票在芯片行业表现强劲的日子里大幅上涨。分析师指出，市场对人工智能数据中心的乐观情绪显著回归。这一趋势不仅反映了投资者对未来技术的信心，也可能推动相关企业的进一步发展和创新。随着AI技术的不断进步，芯片制造商的市场需求预计将持续增长，从而影响整个科技行业的格局。",
-          "analysis_en": "Shares of AMD and Micron surged on a strong day for the chip sector. An analyst noted a significant return of optimism regarding AI data centers. This trend not only reflects investor confidence in future technologies but may also drive further development and innovation within these companies. As AI technology continues to advance, the demand for chips is expected to grow, potentially reshaping the landscape of the entire tech industry."
-        },
-        {
-          "rank": 7,
-          "title": "Bitcoin heads for six-week win streak, bolstered by U.S.-Iran diplomacy hopes",
-          "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-796k-as-usiran-escalation-dents-risk-set-for-6th-weekly-gain-4671088",
-          "source": "Cryptocurrency News",
-          "published_utc": "2026-05-08 21:05 UTC",
-          "analysis_zh": "比特币在美国与伊朗的外交希望推动下，正朝着六周连涨的目标迈进。这一趋势表明，市场对加密货币的信心正在增强，尤其是在全球政治局势不确定的情况下。比特币的持续上涨可能会吸引更多投资者进入市场，从而进一步推动加密货币的普及和接受度。",
-          "analysis_en": "Bitcoin is on track for a six-week winning streak, driven by hopes for U.S.-Iran diplomatic progress. This trend indicates a growing confidence in the cryptocurrency market, particularly amid global political uncertainties. The continued rise of Bitcoin may attract more investors, further promoting the adoption and acceptance of cryptocurrencies."
-        },
-        {
-          "rank": 8,
-          "title": "Applied Aerospace & Defense stock files for IPO amid defense sector rush",
-          "link": "https://www.investing.com/news/stock-market-news/applied-aerospace--defense-stock-files-for-ipo-amid-defense-sector-rush-93CH-4674254",
-          "source": "Stock Market News",
-          "published_utc": "2026-05-08 21:04 UTC",
-          "analysis_zh": "应用航空航天与国防公司在国防行业热潮中申请首次公开募股（IPO）。这一举措反映出国防领域的投资热情不断上升，尤其是在全球安全形势紧张的背景下。该公司的上市可能会吸引更多投资者关注国防科技，进而推动相关行业的发展和创新。",
-          "analysis_en": "Applied Aerospace & Defense has filed for an initial public offering (IPO) amid a surge in the defense sector. This move highlights the growing investment enthusiasm in the defense industry, particularly in light of escalating global security concerns. The company's listing may attract more investors to focus on defense technology, potentially driving growth and innovation in related sectors."
-        },
-        {
-          "rank": 9,
-          "title": "Intel shares soar on Apple chip deal report. Here's why it signals a total pivot for chipmaking",
-          "link": "https://www.cnbc.com/2026/05/08/intel-stock-apple-chip-deal.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-05-08 21:03 UTC",
-          "analysis_zh": "英特尔的股票因与苹果达成芯片交易的消息而大幅上涨。这一交易标志着芯片制造行业的重大转变，显示出英特尔在高端芯片市场的竞争力。随着人工智能技术的快速发展，只有三星、英特尔和台积电能够生产最先进的芯片，这使得他们在市场中的地位愈加重要。这一变化可能会影响整个科技行业，推动更多公司寻求与这些制造商的合作。",
-          "analysis_en": "Intel's shares surged following reports of a chip deal with Apple. This agreement signifies a significant shift in the chip manufacturing industry, highlighting Intel's competitiveness in the high-end chip market. As artificial intelligence technology rapidly evolves, only Samsung, Intel, and TSMC can produce the most advanced chips, enhancing their importance in the market. This change could impact the entire tech industry, prompting more companies to seek partnerships with these manufacturers."
-        },
-        {
-          "rank": 10,
-          "title": "Moderna stock surges on hantavirus vaccine development plans",
-          "link": "https://www.investing.com/news/stock-market-news/moderna-stock-surges-on-hantavirus-vaccine-development-plans-93CH-4674249",
-          "source": "Stock Market News",
-          "published_utc": "2026-05-08 21:02 UTC",
-          "analysis_zh": "莫德纳公司宣布正在开发汉坦病毒疫苗，导致其股票大幅上涨。这一消息引起了市场的广泛关注，因为汉坦病毒是一种潜在的致命病毒，疫苗的研发可能会显著改善公共卫生安全。投资者对该公司的前景表示乐观，这可能会吸引更多资金流入生物科技领域，推动相关公司的发展。",
-          "analysis_en": "Moderna announced plans to develop a hantavirus vaccine, which led to a significant surge in its stock price. This news has garnered widespread attention in the market, as hantavirus is a potentially deadly virus, and the development of a vaccine could greatly enhance public health safety. Investors are optimistic about the company's prospects, which may attract more funding into the biotech sector and promote the growth of related companies."
+          "analysis_zh": "最近，关于罗斯转换的税务问题引起了广泛关注。即使是多出的一美元，也可能导致意想不到的税单，这对投资者来说是一个重要的警示。这一变化意味着许多人在进行罗斯转换时需要更加谨慎，以避免潜在的税务负担和医疗保险罚款。这种情况可能会影响到个人的投资策略和退休规划，促使他们重新评估自己的财务决策。",
+          "analysis_en": "Recently, the tax implications of Roth conversions have garnered significant attention. Even an extra dollar can trigger unexpected tax bills, serving as an important warning for investors. This change means that many individuals need to be more cautious when executing Roth conversions to avoid potential tax burdens and Medicare penalties. Such circumstances may impact personal investment strategies and retirement planning, prompting a reevaluation of financial decisions."
         }
       ]
     },
@@ -114,8 +114,8 @@
           "link": "https://www.nytimes.com/2026/05/08/us/trump-fda-commissioner-makary.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-08 21:27 UTC",
-          "analysis_zh": "特朗普计划解雇食品药品监督管理局局长马蒂·马卡里。马卡里曾支持“让美国再次健康”运动，但因其在电子烟、堕胎药及拒绝新药方面的立场，与政府内部产生了一些矛盾。这一决定可能会影响美国公共卫生政策的方向，尤其是在药物审批和健康倡导方面。特朗普的这一举动引发了对未来卫生政策的广泛关注，可能会导致更多的争议和分歧。",
-          "analysis_en": "Trump plans to fire FDA Commissioner Marty Makary, who has been a supporter of the \"Make America Healthy Again\" movement. However, he has made some enemies within the administration due to his positions on vaping, the abortion pill, and the rejection of new drugs. This decision could significantly impact the direction of public health policy in the U.S., particularly regarding drug approvals and health advocacy. Trump's move has sparked widespread concern about the future of health policies, which may lead to further controversies and divisions."
+          "analysis_zh": "特朗普计划解雇食品药品监督管理局局长马蒂·马卡里。马卡里曾支持“让美国再次健康”的运动，但因在电子烟、堕胎药和新药审批方面与政府内部产生分歧而结下了一些敌人。这一决定可能会影响FDA的政策走向，尤其是在公共健康和药物监管领域，引发广泛关注和讨论。",
+          "analysis_en": "Trump plans to fire FDA Commissioner Marty Makary, who has been a supporter of the \"Make America Healthy Again\" movement. However, he has made some enemies within the administration due to his stances on vaping, the abortion pill, and the rejection of new drugs. This decision could impact the FDA's policy direction, particularly in public health and drug regulation, sparking widespread attention and debate."
         },
         {
           "rank": 2,
@@ -123,8 +123,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260508171123.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-08 21:21 UTC",
-          "analysis_zh": "科学家们发现了一种隐藏在脂肪细胞内的秘密，这一发现可能会改变我们对肥胖和代谢疾病的理解。被称为HSL的蛋白质，长期以来被认为仅仅是释放储存脂肪的“开关”，但研究表明它在脂肪细胞核内还有保护细胞健康的作用。更令人惊讶的是，缺乏这种蛋白质的人和小鼠并没有如预期那样变得肥胖，反而出现了一种名为脂肪营养不良的危险状况。这一发现不仅揭示了脂肪细胞的复杂性，也为研究糖尿病、心脏病等代谢疾病开辟了新的方向。",
-          "analysis_en": "Scientists have uncovered a surprising secret within fat cells that could change our understanding of obesity and metabolic diseases. A protein known as HSL, previously thought to merely act as a switch for releasing stored fat, has now been found to also play a role in maintaining the health of fat cells from within their nucleus. Even more surprisingly, individuals and mice lacking this protein do not become obese as expected; instead, they develop a dangerous condition known as lipodystrophy. This discovery not only highlights the complexity of fat cells but also opens new avenues for research into diabetes, heart disease, and other metabolic disorders."
+          "analysis_zh": "科学家们发现了一种隐藏在脂肪细胞中的意外秘密，这一发现可能会改变我们对肥胖和代谢疾病的看法。被称为HSL的蛋白质，长期以来被认为只是释放储存脂肪的“开关”，但实际上它在脂肪细胞的细胞核中还有另一个重要作用，帮助维持细胞的健康和平衡。更令人惊讶的是，缺乏这种蛋白质的人和小鼠并没有如预期那样变得肥胖，反而出现了一种称为脂肪营养不良的危险情况。这一发现不仅解决了肥胖研究中的一个长期谜团，还为理解糖尿病、心脏病等代谢疾病开辟了新的研究方向。",
+          "analysis_en": "Scientists have uncovered a surprising secret hidden within fat cells that could change our understanding of obesity and metabolic diseases. A protein called HSL, long thought to merely act as a switch for releasing stored fat, actually plays a crucial role inside the nucleus of fat cells, helping to maintain their health and balance. Even more surprisingly, individuals and mice lacking this protein do not become obese as expected; instead, they develop a dangerous condition known as lipodystrophy. This discovery not only resolves a long-standing mystery in obesity research but also opens new avenues for understanding diabetes, heart disease, and other metabolic disorders."
         },
         {
           "rank": 3,
@@ -132,8 +132,8 @@
           "link": "https://www.nytimes.com/2026/05/08/world/canada/canada-hospital-ants-surgeries.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-08 19:03 UTC",
-          "analysis_zh": "加拿大曼尼托巴省的一家医院因第三次出现蚂蚁而被迫推迟了一些“有限数量的选择性手术”。这一事件引发了公众对医院卫生条件的关注，尤其是在医疗环境中，昆虫的出现可能会影响患者的安全和治疗效果。医院管理层需要采取有效措施，确保此类事件不再发生，以恢复公众对医疗机构的信任。",
-          "analysis_en": "A hospital in Manitoba, Canada, had to postpone a limited number of elective surgeries after ants appeared for the third time since 2024. This incident has raised public concern about the hygiene conditions in the hospital, as the presence of insects can compromise patient safety and treatment outcomes. Hospital management must implement effective measures to prevent such occurrences in the future and restore public trust in healthcare facilities."
+          "analysis_zh": "加拿大曼尼托巴省的一家医院因第三次出现蚂蚁而被迫推迟了一些“有限数量的选择性手术”。这一事件引发了公众对医院卫生状况的担忧，也让人们对医疗设施的管理提出了质疑。蚂蚁的反复出现不仅影响了患者的治疗安排，还可能对医院的声誉造成负面影响。",
+          "analysis_en": "A hospital in Manitoba, Canada, had to postpone a limited number of elective surgeries after ants appeared for the third time since 2024. This incident has raised public concerns about the sanitation conditions within the hospital and has prompted questions regarding the management of healthcare facilities. The recurring presence of ants not only disrupts patient care but may also negatively affect the hospital's reputation."
         },
         {
           "rank": 4,
@@ -141,8 +141,8 @@
           "link": "https://www.nytimes.com/2026/05/08/health/hantavirus-outbreak-covid-pandemic.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-08 17:04 UTC",
-          "analysis_zh": "近日，荷兰邮轮MV Hondius上发生了几起死亡事件，引发了公众对汉坦病毒的担忧。尽管专家迅速向公众保证汉坦病毒与新冠病毒有显著不同，但相关的报道和措辞仍然唤起了人们对新冠疫情初期的焦虑。这一事件提醒我们，尽管病毒的性质不同，但疫情带来的心理影响依然深远，可能会影响人们对未来公共卫生事件的反应和态度。",
-          "analysis_en": "Recently, several deaths occurred aboard the Dutch cruise ship MV Hondius, raising public concerns about hantavirus. Although experts quickly reassured the public that hantavirus is significantly different from coronavirus, the related reports and language have rekindled anxieties reminiscent of the early days of the COVID pandemic. This incident serves as a reminder that, despite the differences in the viruses themselves, the psychological impact of past pandemics can still be profound, potentially influencing how people react to future public health crises."
+          "analysis_zh": "近期，荷兰邮轮MV Hondius上发生了几起死亡事件，引发了公众对汉坦病毒的关注。尽管专家迅速向公众保证汉坦病毒与新冠病毒有很大不同，但相关的报道和措辞仍然唤起了人们对新冠疫情早期的恐慌情绪。这一事件提醒我们，尽管病毒的性质不同，但疫情带来的心理影响仍然存在，可能会影响人们对未来公共卫生事件的反应和信心。",
+          "analysis_en": "Recently, several deaths occurred aboard the Dutch cruise ship MV Hondius, raising public concern about hantavirus. Although experts have quickly reassured the public that hantavirus is very different from coronavirus, the related reports and language have rekindled fears reminiscent of the early days of the COVID pandemic. This incident serves as a reminder that, despite the differences in the viruses, the psychological impact of pandemics persists and may affect people's reactions and confidence regarding future public health events."
         },
         {
           "rank": 5,
@@ -150,8 +150,8 @@
           "link": "https://www.nytimes.com/2026/05/07/world/europe/hantavirus-cruise-ship-outbreak.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-08 16:55 UTC",
-          "analysis_zh": "最近，一名荷兰空乘人员和一名法国国籍人士因与一场致命的汉坦病毒疫情有关而接受检测。这次疫情发生在一艘邮轮上，健康官员们正在全力追踪疫情的传播情况。尽管如此，南非的一项分析显示病毒样本没有出现突变，这意味着疫情的传播可能受到限制。这一事件引发了人们对邮轮旅行安全的关注，可能会影响未来的旅游业和公共卫生政策。",
-          "analysis_en": "Recently, a Dutch flight attendant and a French national were tested in connection with a deadly hantavirus outbreak on a cruise ship. Health officials are racing to track the spread of the virus, but an analysis from South Africa indicated that there were no mutations in the viral samples, suggesting that the outbreak may be limited. This situation has raised concerns about the safety of cruise travel, which could impact future tourism and public health policies."
+          "analysis_zh": "近期，一名荷兰空乘人员和一名法国国籍的乘客因与一艘游轮上的致命汉坦病毒疫情有关而接受检测。尽管疫情引起了广泛关注，但南非的分析显示病毒样本没有发生突变，这意味着传播的风险可能有限。这一事件的重要性在于，它提醒人们关注新兴传染病的监测和控制，尤其是在全球旅行日益频繁的背景下。",
+          "analysis_en": "Recently, a Dutch flight attendant and a French national were tested in connection with a deadly hantavirus outbreak on a cruise ship. Despite the widespread concern, an analysis in South Africa indicated that there were no mutations in the viral samples, suggesting that the risk of spread may be limited. This incident highlights the importance of monitoring and controlling emerging infectious diseases, especially in the context of increasing global travel."
         },
         {
           "rank": 6,
@@ -159,8 +159,8 @@
           "link": "https://www.nytimes.com/2026/05/08/well/mind/body-dysmorphic-disorder-bdd-symptoms.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-08 15:08 UTC",
-          "analysis_zh": "身体畸形障碍是一种严重的心理健康问题，尽管它可能被误解为单纯的虚荣心。这种疾病使患者对自己外貌产生强烈的不满，可能导致严重的情绪困扰和社交障碍。了解这一疾病的重要性在于，它不仅影响患者的生活质量，还可能导致更严重的心理健康问题。通过提高公众意识，我们可以帮助更多人认识到这一障碍的存在，从而提供必要的支持和治疗。",
-          "analysis_en": "Body Dysmorphic Disorder (BDD) is a serious mental health condition that is often mistaken for mere vanity. Individuals suffering from BDD experience intense dissatisfaction with their appearance, which can lead to significant emotional distress and social difficulties. Understanding this disorder is crucial, as it not only affects the quality of life for those impacted but can also lead to more severe mental health issues. By raising public awareness, we can help more people recognize the existence of this disorder and provide the necessary support and treatment."
+          "analysis_zh": "身体畸形障碍是一种严重的心理健康问题，尽管外界可能将其视为虚荣心。患者常常对自己身体的某些部分感到极度不满，甚至会影响到他们的日常生活和社交活动。这种障碍不仅影响个人的心理健康，还可能导致严重的抑郁和焦虑。因此，了解这一疾病的重要性在于能够帮助患者获得必要的支持和治疗。",
+          "analysis_en": "Body Dysmorphic Disorder (BDD) is a serious mental health condition that is often mistaken for mere vanity. Individuals suffering from BDD experience intense dissatisfaction with specific parts of their bodies, which can significantly disrupt their daily lives and social interactions. The importance of understanding this disorder lies in the ability to provide patients with the necessary support and treatment, as it can lead to severe depression and anxiety if left unaddressed."
         },
         {
           "rank": 7,
@@ -168,8 +168,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260508024740.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-08 10:44 UTC",
-          "analysis_zh": "一项研究发现，常用于治疗便秘的药物卢比普利斯通可能在保护肾脏方面发挥了意想不到的作用。这项临床试验涉及150名中度慢性肾病患者，结果显示该药物有助于维持肾功能。这一发现意义重大，因为慢性肾病影响着数百万人，通常会导致透析治疗。研究人员认为，药物的效果与肠道细菌的变化有关，这些变化促进了与健康线粒体相关的化合物的生成，从而减少了肾脏损伤。",
-          "analysis_en": "A study has found that lubiprostone, a common drug used for treating constipation, may unexpectedly protect kidney function. In a clinical trial involving 150 patients with moderate chronic kidney disease, the medication was shown to help preserve kidney function. This finding is significant as chronic kidney disease affects millions and often leads to dialysis. Researchers believe the drug's effects are linked to changes in gut bacteria that enhance the production of compounds associated with healthier mitochondria, thereby reducing kidney damage."
+          "analysis_zh": "一项研究发现，常用的治疗便秘药物鲁比普利（lubiprostone）可能意外地为慢性肾病的治疗开辟了新途径。在一项涉及150名患者的临床试验中，研究人员发现该药物能够帮助维持中度慢性肾病患者的肾功能。这一发现的重要性在于，慢性肾病影响数百万人的生活，且常常导致透析，而目前尚无批准的药物能够直接恢复肾功能。研究人员认为，鲁比普利通过改变肠道细菌的组成，促进了与健康线粒体相关的化合物——精胺的产生，从而减轻了肾脏损伤。",
+          "analysis_en": "A study has found that a common constipation medication, lubiprostone, may unexpectedly open a new avenue for treating chronic kidney disease. In a clinical trial involving 150 patients, researchers discovered that this medication helped preserve kidney function in individuals with moderate CKD. This finding is significant because chronic kidney disease affects millions of people and often leads to dialysis, with no approved medications currently available to directly restore kidney function. Researchers believe that lubiprostone works by altering gut bacteria, which boosts the production of spermidine, a compound linked to healthier mitochondria and reduced kidney damage."
         },
         {
           "rank": 8,
@@ -177,8 +177,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260508024125.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-08 09:27 UTC",
-          "analysis_zh": "科学家们发现了一种新的预防牙龈疾病的方法，关键在于干扰口腔细菌之间的交流，而不是消灭它们。研究表明，牙菌斑中的细菌通过化学信号来协调生长，阻断这些信号可以促进健康细菌的生长，同时减少与牙龈疾病相关的有害微生物。这一发现不仅为牙科治疗提供了新思路，也可能对其他医学领域产生深远影响，尤其是在抗生素耐药性日益严重的背景下。",
-          "analysis_en": "Scientists have discovered a new method to prevent gum disease by disrupting the communication between oral bacteria instead of killing them. The research indicates that bacteria in dental plaque use chemical signals to coordinate their growth, and by blocking these signals, healthier bacteria can thrive while reducing harmful microbes associated with gum disease. This finding not only offers a new perspective for dental treatments but may also have significant implications for other areas of medicine, especially given the increasing challenge of antibiotic resistance."
+          "analysis_zh": "科学家们发现了一种新方法，可以在不杀死有益细菌的情况下预防牙龈疾病。他们通过干扰口腔内细菌之间的“对话”来实现这一目标，而不是直接消灭细菌。研究表明，牙菌斑细菌通过化学信号来协调生长，阻断这些信号可以促进健康细菌的生长，同时减少与牙龈疾病相关的有害微生物。这一发现不仅对牙科治疗具有重要意义，还可能影响更广泛的医学领域，帮助我们更好地理解和管理微生物群落的健康。",
+          "analysis_en": "Scientists have discovered a new method to prevent gum disease without harming beneficial bacteria. Instead of killing bacteria, they interrupt the \"conversations\" between them. The research indicates that dental plaque bacteria use chemical signals to coordinate their growth, and by blocking these signals, healthier bacteria can thrive while reducing harmful microbes associated with gum disease. This finding is significant not only for dental treatments but may also have broader implications for understanding and managing microbial health in various medical fields."
         },
         {
           "rank": 9,
@@ -186,8 +186,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260506225229.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-08 04:10 UTC",
-          "analysis_zh": "科学家们在珊瑚礁中发现了一个隐藏的微生物宇宙，这些微生物的种类和特性超出了他们的预期。每种珊瑚都支持着独特的微生物伙伴，这些微生物能够产生多种化学化合物，具有潜在的医学和生物技术应用价值。这一发现凸显了珊瑚礁面临的威胁以及保护这些生态系统的重要性，因为它们可能是未来医学突破的关键。",
-          "analysis_en": "Scientists have uncovered a hidden universe of microbes within coral reefs, revealing a diversity that exceeds their expectations. Each coral species hosts its own unique microbial partners, which produce a variety of chemical compounds with potential applications in medicine and biotechnology. This discovery underscores the threats facing coral reefs and highlights the importance of protecting these ecosystems, as they may hold the key to future medical breakthroughs."
+          "analysis_zh": "科学家们在珊瑚礁中发现了一种独特的微生物群落，这些微生物与各个珊瑚物种密切共生，产生了多种具有潜在医学和生物技术应用的化学化合物。这一发现不仅揭示了珊瑚礁生态系统的复杂性，也强调了保护这些生态系统的重要性。随着珊瑚礁面临日益严峻的威胁，失去这些生物多样性可能意味着我们将错失未来医学突破的机会。",
+          "analysis_en": "Scientists have discovered a unique community of microbes within coral reefs, which are closely associated with different coral species and produce a variety of chemical compounds with potential applications in medicine and biotechnology. This finding not only reveals the complexity of coral reef ecosystems but also underscores the importance of protecting these systems. As coral reefs face increasing threats, losing this biodiversity could mean missing out on future medical breakthroughs."
         },
         {
           "rank": 10,
@@ -195,14 +195,14 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260506225551.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-08 02:07 UTC",
-          "analysis_zh": "许多癌症患者在治疗期间会选择补充生物素，以期恢复因治疗而脱落的头发。然而，专家警告称，这种流行的维生素可能会带来更多的危害而非好处。尽管生物素常被宣传为增强头发和指甲的营养，但实际上几乎没有证据表明它能帮助癌症相关的脱发。此外，生物素可能会干扰实验室检测，扭曲关键的血液标志物，从而掩盖癌症复发的迹象或延误治疗决策。这一发现提醒患者在使用补充剂时需谨慎，以免影响治疗效果。",
-          "analysis_en": "Many cancer patients turn to biotin supplements in hopes of restoring hair lost during treatment. However, experts warn that this popular vitamin may cause more harm than good. While biotin is often marketed as beneficial for hair and nails, there is little evidence supporting its effectiveness for cancer-related hair loss. More importantly, biotin can interfere with lab tests, distorting crucial blood markers and potentially masking cancer recurrence or delaying treatment decisions. This finding serves as a caution for patients to be careful with supplements that could impact their treatment outcomes."
+          "analysis_zh": "许多癌症患者为了恢复因治疗而脱落的头发，开始服用生物素补充剂。然而，专家警告这种流行的维生素可能会带来更多的危害而非好处。虽然生物素常被宣传为能增强头发和指甲的健康，但实际上几乎没有证据表明它能帮助癌症相关的脱发。此外，它可能会干扰实验室检测，导致关键的血液指标失真，从而掩盖癌症复发的迹象或延误治疗决策。这一发现提醒患者在使用补充剂时应谨慎，以免影响治疗效果。",
+          "analysis_en": "Many cancer patients are turning to biotin supplements in hopes of regrowing hair lost during treatment. However, experts warn that this popular vitamin may do more harm than good. While biotin is often marketed for promoting stronger hair and nails, there is little evidence that it effectively aids in cancer-related hair loss. More concerning is its potential to interfere with lab tests, distorting key blood markers and possibly masking signs of cancer recurrence or delaying treatment decisions. This finding highlights the need for patients to be cautious about using supplements that could adversely affect their treatment outcomes."
         }
       ]
     },
     "心理/哲学": {
       "description": "心理学、行为、认知、哲学与意义讨论",
-      "count": 2,
+      "count": 1,
       "items": [
         {
           "rank": 1,
@@ -210,17 +210,8 @@
           "link": "https://aeon.co/essays/things-have-jobs-and-digital-devices-are-made-to-track-you",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-05-08 10:00 UTC",
-          "analysis_zh": "这篇文章探讨了数字设备在我们生活中的角色，尤其是它们如何监控我们的行为。随着技术的进步，智能手机等设备不仅仅是工具，它们也在潜移默化中影响着我们的隐私和自由。了解这些设备的功能和潜在影响，对于我们在数字时代保持自主权至关重要。这一现象可能会引发对隐私权的更广泛讨论，并促使人们重新审视与技术的关系。",
-          "analysis_en": "This article examines the role of digital devices in our lives, particularly how they monitor our behaviors. As technology advances, devices like smartphones have evolved from mere tools to entities that subtly influence our privacy and freedom. Understanding the functions and potential impacts of these devices is crucial for maintaining autonomy in the digital age. This phenomenon may spark broader discussions about privacy rights and encourage individuals to reassess their relationship with technology."
-        },
-        {
-          "rank": 2,
-          "title": "Eating eggs could cut Alzheimer’s risk by 27%",
-          "link": "https://www.sciencedaily.com/releases/2026/05/260506225214.htm",
-          "source": "Mind & Brain News -- ScienceDaily",
-          "published_utc": "2026-05-07 22:22 UTC",
-          "analysis_zh": "研究发现，定期食用鸡蛋可能有助于降低65岁及以上人群患阿尔茨海默病的风险，减少幅度可达27%。这一发现表明，饮食中的小变化可能对长期脑健康产生重要影响。鸡蛋富含胆碱等营养成分，这些成分对记忆和脑细胞之间的交流至关重要。因此，增加鸡蛋的摄入量可能是改善老年人认知健康的简单有效方法。",
-          "analysis_en": "Researchers have found that regularly eating eggs may help reduce the risk of Alzheimer’s disease by up to 27% for individuals aged 65 and older. This finding highlights the potential impact of small dietary changes on long-term brain health. Eggs are rich in nutrients like choline, which are essential for memory and communication between brain cells. Therefore, increasing egg consumption could be a simple and effective way to improve cognitive health in older adults."
+          "analysis_zh": "这篇文章探讨了数字设备在我们生活中的作用，尤其是它们如何记录和追踪我们的每一个动作。随着科技的进步，许多人对隐私的担忧日益加剧，因为这些设备不仅仅是工具，它们还在潜移默化中影响着我们的行为和思维方式。了解这些设备的功能和潜在影响，对于我们在数字时代保持自主性和隐私至关重要。",
+          "analysis_en": "This article explores the role of digital devices in our lives, particularly how they track our every move. As technology advances, concerns about privacy have grown, as these devices are not just tools but also subtly influence our behaviors and thought processes. Understanding the functions and potential impacts of these devices is crucial for maintaining autonomy and privacy in the digital age."
         }
       ]
     },
@@ -234,8 +225,8 @@
           "link": "https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display",
           "source": "The Verge",
           "published_utc": "2026-05-08 20:34 UTC",
-          "analysis_zh": "华硕最近推出了一款新的游戏显示器ROG Strix XG129C，尺寸为12.3英寸，配备触控屏，旨在作为主显示器的辅助屏幕。这款显示器与2020年发布的ROG Zephyrus Duo 15的14.1英寸副屏类似，虽然尺寸稍小，但仍然具备竞争力。此举不仅丰富了华硕的产品线，也为游戏玩家提供了更多的选择，尤其是在流媒体和编辑设置中，能够提升工作效率。",
-          "analysis_en": "Asus has recently launched a new gaming monitor, the ROG Strix XG129C, which features a 12.3-inch touchscreen designed to serve as a secondary display for a main monitor. This model is similar to the 14.1-inch secondary display found in the 2020 ROG Zephyrus Duo 15, though it is slightly smaller. This move not only expands Asus's product lineup but also offers gamers more options, particularly enhancing productivity in streaming and editing setups."
+          "analysis_zh": "华硕最近发布了一款新的游戏显示器ROG Strix XG129C，尺寸为12.3英寸，采用触控IPS显示屏，旨在作为主显示器的辅助屏幕。这款显示器与2020年发布的ROG Zephyrus Duo 15的14.1英寸副屏类似，虽然尺寸稍小，但在色彩表现上却覆盖了125%的sRGB色域和90%的DCI-P3色域。此举不仅丰富了华硕的产品线，也为游戏玩家提供了更多的选择，可能会影响到市场上其他品牌的竞争格局。",
+          "analysis_en": "Asus has recently launched a new gaming monitor, the ROG Strix XG129C, which features a 12.3-inch touchscreen IPS display designed to serve as a companion to a larger main monitor. This display is similar to the 14.1-inch secondary screen found in the 2020 ROG Zephyrus Duo 15, but it offers a slightly smaller size while covering 125% of the sRGB color gamut and 90% of the DCI-P3 color gamut. This move not only expands Asus's product lineup but also provides gamers with more options, potentially impacting the competitive landscape among other brands in the market."
         },
         {
           "rank": 2,
@@ -243,8 +234,8 @@
           "link": "https://www.theverge.com/streaming/927327/amazon-prime-video-vertical-video-feed",
           "source": "The Verge",
           "published_utc": "2026-05-08 20:19 UTC",
-          "analysis_zh": "亚马逊Prime Video最近宣布将推出一个新的垂直视频流“Clips”，与Netflix和Disney Plus竞争。这个新功能将提供来自节目和电影的短视频片段，用户可以直接跳转到完整内容、租赁或购买。这一变化不仅丰富了用户的观看体验，还可能吸引更多年轻观众，尤其是习惯于短视频内容的用户。此外，Clips功能的推出可能会影响用户的观看习惯，促使他们更频繁地使用Prime Video平台。",
-          "analysis_en": "Amazon Prime Video has recently announced the addition of a new vertical video stream called \"Clips,\" joining competitors like Netflix and Disney Plus. This feature will provide short video snippets from shows and movies, allowing users to jump directly to the full content, rent, or purchase it. This change not only enhances the viewing experience but may also attract more younger audiences who are accustomed to short-form content. Furthermore, the rollout of the Clips feature could influence user viewing habits, encouraging more frequent engagement with the Prime Video platform."
+          "analysis_zh": "亚马逊Prime Video正在推出一个新的垂直视频流功能，名为“Clips”，与Netflix和Disney Plus的类似功能相呼应。这个新功能将提供来自节目和电影的短视频片段，用户可以直接跳转到完整标题进行租赁或购买。这一变化不仅丰富了用户的观看体验，还可能吸引更多年轻观众，尤其是在短视频日益流行的背景下。随着这一功能的推出，Prime Video有望在竞争激烈的流媒体市场中进一步提升其吸引力。",
+          "analysis_en": "Amazon Prime Video is introducing a new vertical video feed called \"Clips,\" following similar features from Netflix and Disney Plus. This new feature will showcase short video snippets from shows and movies, allowing users to jump directly to the full title for rental or purchase. This change not only enhances the viewing experience but may also attract more younger audiences, especially given the rising popularity of short videos. With this rollout, Prime Video is likely to strengthen its appeal in the highly competitive streaming market."
         },
         {
           "rank": 3,
@@ -252,8 +243,8 @@
           "link": "https://www.theverge.com/tech/926989/yarbo-robot-lawn-mower-hack-company-update-security-promise",
           "source": "The Verge",
           "published_utc": "2026-05-08 19:14 UTC",
-          "analysis_zh": "近日，Yarbo公司承认其机器人割草机存在安全漏洞，导致用户的个人信息容易被黑客获取。该公司对此表示歉意，并发布了一项详细计划，旨在解决这些安全问题。此事件的重要性在于，它不仅影响了用户的隐私安全，也引发了对智能家居设备安全性的广泛关注。Yarbo的应对措施可能会影响其他科技公司在产品安全性方面的策略和标准。",
-          "analysis_en": "Recently, Yarbo acknowledged that its robot lawn mowers have security vulnerabilities that make users' personal information easily accessible to hackers. The company has apologized and released a detailed plan to address these security issues. This incident is significant as it not only affects user privacy but also raises broader concerns about the security of smart home devices. Yarbo's response may influence how other tech companies approach product security and set standards in the industry."
+          "analysis_zh": "近日，Yarbo公司确认其机器人割草机存在安全漏洞，并对用户表示歉意。此前，有黑客利用这些割草机轻易获取用户的GPS坐标、Wi-Fi密码和电子邮件地址等敏感信息。Yarbo发布了一份详细的计划，承诺将采取措施解决这些安全问题，包括暂时切断远程访问权限和改善设备的安全认证机制。这一事件引发了公众对智能设备安全性的广泛关注，可能会影响消费者对类似产品的信任度。",
+          "analysis_en": "Recently, Yarbo confirmed that its robot lawn mowers have security vulnerabilities and apologized to users. Previously, a hacker was able to easily access sensitive information such as users' GPS coordinates, Wi-Fi passwords, and email addresses through these mowers. Yarbo has released a detailed plan promising to address these security issues, including temporarily cutting off remote access and improving the security authentication mechanisms of its devices. This incident has sparked widespread concern about the safety of smart devices, which may affect consumer trust in similar products."
         },
         {
           "rank": 4,
@@ -261,8 +252,8 @@
           "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
           "source": "The Verge",
           "published_utc": "2026-05-08 18:45 UTC",
-          "analysis_zh": "最近，全球范围内对新建人工智能数据中心的争论愈演愈烈。这些庞大的数据中心是科技公司实现人工智能梦想的基础，但它们对电网、公共事业费用、周边社区和环境的影响引发了广泛的担忧。随着对这些能耗巨大的服务器的需求不断增加，相关的法律纠纷和环境问题也随之而来。这一现象不仅影响了当地社区的生活质量，还可能改变未来科技发展的方向。",
-          "analysis_en": "Recently, there has been escalating debate worldwide regarding the construction of new AI data centers. These massive facilities serve as the foundation for tech companies' aspirations in artificial intelligence, but they raise significant concerns about their impact on power grids, utility costs, nearby communities, and the environment. As the demand for energy-hungry servers continues to grow, related legal disputes and environmental issues have emerged. This trend not only affects the quality of life in local communities but may also alter the trajectory of future technological development."
+          "analysis_zh": "最近，全球范围内对新建大型人工智能数据中心的争论愈演愈烈。这些数据中心是科技公司实现人工智能梦想的基础，但它们对电网、公共事业费用、周边社区和环境的影响引发了广泛关注。随着对这些能耗巨大的服务器的需求增加，相关的法律纠纷和环境问题也日益突出。这一现象不仅影响了科技行业的发展方向，也可能导致政策的调整和公众对科技项目的态度变化。",
+          "analysis_en": "Recently, there has been escalating debate worldwide regarding the construction of large AI data centers. These facilities serve as the backbone for tech companies' aspirations in artificial intelligence, but their impact on power grids, utility costs, nearby communities, and the environment has raised significant concerns. As the demand for these energy-intensive servers grows, related legal disputes and environmental issues are becoming more pronounced. This trend not only affects the direction of the tech industry but may also lead to policy changes and shifts in public attitudes toward technology projects."
         },
         {
           "rank": 5,
@@ -270,8 +261,8 @@
           "link": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/",
           "source": "Biz & IT - Ars Technica",
           "published_utc": "2026-05-08 18:33 UTC",
-          "analysis_zh": "近日，美国的学习平台Canvas遭遇网络攻击，导致全国多所学校和大学不得不推迟期末考试。这一事件引发了广泛的混乱，影响了学生的学习计划和考试安排。网络攻击不仅对教育系统造成了直接影响，还可能对学生的心理和学业表现产生长期影响。随着网络安全问题日益严重，此次事件也促使教育机构重新审视其网络安全防护措施。",
-          "analysis_en": "Recently, the learning platform Canvas in the U.S. was hit by a cyberattack, forcing numerous schools and colleges to postpone their final exams. This incident caused widespread chaos, disrupting students' study schedules and exam plans. The cyberattack not only had an immediate impact on the education system but could also have long-term effects on students' mental health and academic performance. As cybersecurity issues become increasingly critical, this event may prompt educational institutions to reassess their security measures."
+          "analysis_zh": "近日，美国的学习平台Canvas遭遇网络攻击，导致全国多所学校和大学不得不推迟期末考试。这一事件引发了广泛的混乱，影响了学生的学习计划和考试安排。网络攻击不仅对教育系统造成了直接影响，也暴露了学校在网络安全方面的脆弱性。此事件可能促使教育机构加强网络安全措施，以防止未来类似事件的发生。",
+          "analysis_en": "Recently, the learning platform Canvas in the U.S. was hit by a cyberattack, causing numerous schools and colleges to postpone final exams. This incident has led to widespread chaos, disrupting students' study plans and exam schedules. The cyberattack not only directly impacted the education system but also highlighted the vulnerabilities in schools' cybersecurity. As a result, this event may prompt educational institutions to enhance their cybersecurity measures to prevent similar incidents in the future."
         },
         {
           "rank": 6,
@@ -279,8 +270,8 @@
           "link": "https://www.theverge.com/policy/927071/doge-chatgpt-grants-canceled",
           "source": "The Verge",
           "published_utc": "2026-05-08 18:02 UTC",
-          "analysis_zh": "美国政府效率部（DOGE）取消超过1亿美元的补助金被判定为违宪。根据美国地区法官科琳·麦克马洪的裁决，DOGE在取消补助金的过程中，使用了ChatGPT来判断某些项目是否与多样性、公平性和包容性（DEI）相关。此裁决的重要性在于，它揭示了政府在使用人工智能工具时可能存在的法律和伦理问题，尤其是在涉及保护性特征的情况下。这一判决可能会影响未来政府如何使用技术来评估和分配公共资金。",
-          "analysis_en": "The Department of Government Efficiency (DOGE) was ruled unconstitutional for canceling over $100 million in grants. According to U.S. District Judge Colleen McMahon, DOGE used ChatGPT to determine whether certain projects were related to diversity, equity, and inclusion (DEI) in the process of eliminating grants. This ruling is significant as it highlights potential legal and ethical issues when the government employs AI tools, particularly concerning protected characteristics. The decision may influence how the government utilizes technology in assessing and distributing public funds in the future."
+          "analysis_zh": "美国政府效率部（DOGE）因取消超过一亿美元的补助金而被判定为违宪。法官科琳·麦克马洪在143页的裁决中指出，DOGE在取消补助金的过程中，使用了ChatGPT来判断这些补助金是否与多样性、公平和包容性（DEI）相关。这一判决的重要性在于，它揭示了政府在使用人工智能工具时可能存在的法律和伦理问题，尤其是在涉及敏感社会议题时。此案的结果可能会影响未来政府如何使用技术进行决策，尤其是在公共资金分配方面。",
+          "analysis_en": "The Department of Government Efficiency (DOGE) was ruled unconstitutional for canceling over $100 million in grants. In a 143-page decision, Judge Colleen McMahon highlighted that DOGE used ChatGPT to determine whether grants were related to diversity, equity, and inclusion (DEI). This ruling is significant as it exposes potential legal and ethical issues surrounding the government's use of artificial intelligence tools, particularly when dealing with sensitive social issues. The outcome of this case may influence how the government employs technology in decision-making, especially regarding the allocation of public funds."
         },
         {
           "rank": 7,
@@ -288,8 +279,8 @@
           "link": "https://www.theverge.com/policy/927002/abc-disney-fcc-first-amendment-the-view",
           "source": "The Verge",
           "published_utc": "2026-05-08 17:52 UTC",
-          "analysis_zh": "ABC指控联邦通信委员会（FCC）侵犯其第一修正案权利，认为FCC在政策和实践上做出了重大改变，这将抑制言论自由。该网络要求FCC重申其长期以来对《今日视界》这一白天脱口秀节目在真实新闻采访豁免方面的做法。ABC表示，FCC的一系列举措表明该委员会正在实施重大政策转变，这需要全体委员会的行动和法院的监督。这一事件可能会影响媒体的言论自由和新闻报道的独立性。",
-          "analysis_en": "ABC is accusing the Federal Communications Commission (FCC) of violating its First Amendment rights, claiming that the FCC has made significant changes in policy and practice that could suppress free speech. The network is urging the FCC to reaffirm its long-standing approach regarding the bona fide news interview exemption for its daytime talk show, The View. ABC argues that a series of actions taken by the FCC indicates a major shift in policy that requires action from the full Commission and oversight from the courts. This situation could have implications for media freedom and the independence of news reporting."
+          "analysis_zh": "ABC指控联邦通信委员会（FCC）侵犯其第一修正案权利，称该委员会在政策和实践上进行了重大转变，这可能会抑制言论自由。ABC要求FCC确认其对《今日视界》这一白天脱口秀节目在真实新闻采访豁免方面的长期做法。此事件的重要性在于，若FCC的政策变化得以实施，可能会对媒体的报道自由和公共讨论产生深远影响，尤其是在政治候选人平等播出时间的规定上。",
+          "analysis_en": "ABC is accusing the Federal Communications Commission (FCC) of violating its First Amendment rights, claiming that the agency has made significant shifts in policy and practice that could suppress free speech. The network is requesting that the FCC affirm its long-standing approach to the bona fide news interview exemption for the daytime talk show The View. This matter is significant because if the FCC's policy changes are implemented, it could have far-reaching effects on media reporting freedom and public discourse, particularly regarding the rules on equal air time for political candidates."
         },
         {
           "rank": 8,
@@ -297,8 +288,8 @@
           "link": "https://www.theverge.com/gadgets/926968/trump-mobile-t1-phone-dreame-aurora-phones",
           "source": "The Verge",
           "published_utc": "2026-05-08 17:38 UTC",
-          "analysis_zh": "特朗普手机的去向仍然成谜，最近又有一款新手机引起了关注。Dreame公司推出了其新款手机，虽然早在三月份就已在中国宣布，但直到最近的发布会才引起了公众的注意。这款手机的设计和宣传似乎模仿了特朗普手机的概念，但更具奢华感。此事件不仅让人对特朗普手机的未来感到疑惑，也可能影响消费者对手机市场的信心，尤其是在面对虚假宣传的情况下。",
-          "analysis_en": "The whereabouts of the Trump phone remain a mystery, but recently a new phone has caught public attention. Dreame has launched its new phone, which was announced back in March in China but only gained notice during a recent launch event. This phone's design and marketing appear to mimic the concept of the Trump phone, but with a more luxurious twist. This situation not only raises questions about the future of the Trump phone but may also affect consumer confidence in the mobile market, especially in light of concerns over false advertising."
+          "analysis_zh": "近日，特朗普手机的消息再次引发关注，但这次却被另一款手机所 overshadow。Dreame 公司推出了其新款手机，尽管它们的发布似乎并不太可能。这一事件引发了人们对手机市场的关注，尤其是那些看似虚无缥缈的产品。Dreame 的手机在发布会上展示了实体样机，这与特朗普手机的情况形成鲜明对比，后者至今仍未问世。这可能会影响消费者对品牌的信任度，以及对未来手机发布的期待。",
+          "analysis_en": "Recently, the news about the Trump phone has garnered attention again, but this time it has been overshadowed by another phone. Dreame has announced its new smartphone, although its release seems highly unlikely. This event has sparked interest in the smartphone market, particularly regarding products that appear to be vaporware. Dreame's phones were showcased with physical prototypes at their launch event, contrasting sharply with the Trump phone, which has yet to materialize. This situation may affect consumer trust in brands and shape expectations for future phone releases."
         },
         {
           "rank": 9,
@@ -306,8 +297,8 @@
           "link": "https://www.theverge.com/tech/926988/apple-intel-chips",
           "source": "The Verge",
           "published_utc": "2026-05-08 17:22 UTC",
-          "analysis_zh": "苹果与英特尔达成了一项“初步协议”，将由英特尔为苹果硬件制造芯片。这一消息引起了广泛关注，因为苹果曾成功地从依赖英特尔的计算机转向自家的Apple Silicon芯片。此次合作可能会影响苹果未来的产品线，尤其是在芯片生产方面的选择。尽管目前尚不清楚具体哪些产品将使用英特尔的芯片，但这一动态显示出两家公司在技术领域的重新合作。",
-          "analysis_en": "Apple has reportedly reached a \"preliminary agreement\" with Intel for the latter to manufacture chips for Apple hardware. This development is significant as Apple had previously transitioned away from Intel-powered computers to its own Apple Silicon chips. The collaboration could impact Apple's future product lineup, particularly in terms of chip production options. While it remains unclear which specific products will utilize Intel chips, this move indicates a renewed partnership between the two companies in the tech space."
+          "analysis_zh": "苹果与英特尔达成了一项“初步协议”，将由英特尔为苹果硬件制造芯片。这一消息引发了广泛关注，因为苹果此前已经成功转向自家设计的Apple Silicon芯片，标志着其与英特尔的分道扬镳。此次合作可能会影响苹果未来产品的性能和供应链，尤其是在芯片生产方面的多样化选择。尽管目前尚不清楚哪些产品将使用英特尔的芯片，但这一动态无疑将对市场产生深远影响。",
+          "analysis_en": "Apple has reportedly reached a \"preliminary agreement\" with Intel for the latter to manufacture chips for Apple's hardware. This is significant as Apple had previously transitioned to its own Apple Silicon chips, marking a departure from Intel. The collaboration could impact the performance and supply chain of future Apple products, particularly in diversifying chip production options. While it remains unclear which products will utilize Intel's chips, this development is likely to have far-reaching implications for the market."
         },
         {
           "rank": 10,
@@ -315,8 +306,8 @@
           "link": "https://www.theverge.com/gadgets/924672/steam-controller-reservation-queue-buy",
           "source": "The Verge",
           "published_utc": "2026-05-08 16:59 UTC",
-          "analysis_zh": "在5月4日，Steam控制器迅速售罄后，Valve推出了预订系统，以确保玩家能够轻松获得这款控制器。虽然可能无法立即拿到，但用户现在可以方便地预订这款99美元的控制器。只有在2023年4月27日之前在Steam账户上有过购买记录的用户，才能参与预订。这一举措不仅能帮助Valve更好地管理库存，还能提升用户体验，确保更多玩家能够享受到这款热门产品。",
-          "analysis_en": "On May 4th, the Steam Controller sold out quickly, prompting Valve to launch a reservation system to help players secure one more easily. While customers may not receive their controllers immediately, they can now conveniently reserve the $99 device. Only users with a purchase history on their Steam accounts before April 27, 2023, are eligible to reserve. This move will not only help Valve manage inventory more effectively but also enhance the user experience, ensuring that more players can enjoy this popular product."
+          "analysis_zh": "在5月4日，Steam控制器迅速售罄后，Valve推出了一个预订系统，以便用户能够更轻松地获取这一产品。虽然用户可能无法立即拿到控制器，但现在至少可以轻松地进行预订，售价为99美元。只有在4月27日之前在Steam账户上有过购买记录的用户，才能够参与预订。这一举措不仅能帮助Valve更好地管理库存，也能确保更多玩家能够在未来的补货中获得控制器。",
+          "analysis_en": "After quickly selling out on May 4th, Valve has introduced a reservation system for the Steam Controller to make it easier for users to obtain one. While customers may not receive their controllers immediately, they can now easily reserve the $99 device. Only users with a purchase history on their Steam accounts before April 27th are eligible to reserve. This move will help Valve manage inventory more effectively and ensure that more players can get their hands on the controller in future restocks."
         }
       ]
     },
@@ -326,93 +317,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "David Attenborough, a Voice of Nature, Turns 100",
+          "link": "https://www.nytimes.com/2026/05/08/arts/television/david-attenborough-100-birthday.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-05-08 22:12 UTC",
+          "analysis_zh": "大卫·阿滕伯勒（David Attenborough）庆祝了他的百岁生日，他是全球最受尊敬的自然主义者之一。这位传奇人物以其对自然界的热情和深刻的见解而闻名，他的作品激励了无数人关注环境保护。阿滕伯勒的影响力不仅在于他的纪录片，更在于他对公众意识的提升，促使人们更加重视生态保护和可持续发展。随着全球面临气候变化的挑战，他的声音显得尤为重要。",
+          "analysis_en": "David Attenborough celebrated his 100th birthday, marking him as one of the most respected naturalists in the world. This legendary figure is known for his passion for the natural world and profound insights, inspiring countless individuals to care about environmental conservation. Attenborough's influence extends beyond his documentaries; he has raised public awareness and emphasized the importance of ecological protection and sustainability. As the world faces challenges from climate change, his voice becomes increasingly vital."
+        },
+        {
+          "rank": 2,
+          "title": "An Artist Who Sees the Beauty in Dust",
+          "link": "https://www.nytimes.com/2026/05/08/t-magazine/reggie-burrows-hodges-favorite-artworks.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-05-08 21:41 UTC",
+          "analysis_zh": "艺术家瑞吉·伯罗斯·霍奇斯（Reggie Burrows Hodges）在采访中探讨了马耳他、卡拉瓦乔以及一幅受撒哈拉沙漠风启发的画作。这位艺术家通过独特的视角，展现了尘埃中的美感，提醒人们关注那些常被忽视的细节。这一讨论不仅反映了艺术与自然之间的深刻联系，也可能激发观众对环境和日常生活中美的重新思考。",
+          "analysis_en": "Artist Reggie Burrows Hodges discusses Malta, Caravaggio, and a painting inspired by the winds of the Sahara in a recent interview. Through his unique perspective, he highlights the beauty found in dust, encouraging people to pay attention to often-overlooked details. This conversation not only reflects the profound connection between art and nature but may also inspire viewers to rethink the beauty in their environment and everyday life."
+        },
+        {
+          "rank": 3,
           "title": "Edith Eva Eger, Psychologist Who Barely Survived Auschwitz, Dies at 98",
           "link": "https://www.nytimes.com/2026/05/08/books/edith-eger-dead.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-08 21:38 UTC",
-          "analysis_zh": "艾迪丝·伊娃·埃格尔，这位在奥斯维辛集中营中险些丧命的心理学家，于98岁去世。她在集中营的经历使她对人性有了深刻的理解，这也帮助她更好地治疗患者。埃格尔的去世不仅是心理学界的损失，也让人们重新思考创伤与恢复之间的关系。她的故事和专业知识将继续激励许多人，尤其是在心理健康领域。",
-          "analysis_en": "Edith Eva Eger, the psychologist who barely survived Auschwitz, has passed away at the age of 98. Her experiences in the concentration camp gave her profound insights into humanity, which she used to help treat her patients. Eger's death is a significant loss to the field of psychology and prompts a renewed reflection on the relationship between trauma and healing. Her story and expertise will continue to inspire many, particularly in the realm of mental health."
-        },
-        {
-          "rank": 2,
-          "title": "David Attenborough, a Voice of Nature, Turns 100",
-          "link": "https://www.nytimes.com/2026/05/08/arts/television/david-attenborough-100-birthday.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-05-08 21:29 UTC",
-          "analysis_zh": "大卫·阿滕伯勒（David Attenborough）迎来了他的百岁生日，这位著名的自然主义者以其对自然界的深刻见解和动人叙述而闻名。他的作品不仅让公众更加了解自然环境的重要性，也激发了人们对保护生态的关注。阿滕伯勒的影响力超越了影视界，成为了全球环境保护运动的象征。他的百岁生日提醒我们珍惜自然，并继续努力保护我们赖以生存的地球。",
-          "analysis_en": "David Attenborough has celebrated his 100th birthday, marking a significant milestone for the renowned naturalist known for his profound insights and captivating storytelling about the natural world. His work has not only educated the public about the importance of the environment but has also inspired a greater awareness of ecological conservation. Attenborough's influence extends beyond the film industry, becoming a symbol for global environmental movements. His centenary serves as a reminder for us to cherish nature and continue our efforts to protect the planet we depend on."
-        },
-        {
-          "rank": 3,
-          "title": "Federal Panel Considers Plan to Paint Granite Eisenhower Executive Office Building in D.C. White",
-          "link": "https://www.artnews.com/art-news/news/trump-proposal-paint-eisenhower-executive-office-building-white-review-1234784774/",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-05-08 21:20 UTC",
-          "analysis_zh": "美国联邦委员会正在考虑将位于华盛顿特区的艾森豪威尔行政办公大楼粉刷成白色，这项计划的预算估计为750万美元。该项目引发了超过2000条公众评论，其中大多数意见持反对态度。这一提案的重要性在于，它不仅涉及到国家标志性建筑的外观，还反映了公众对政府支出和美学的看法。如果最终决定实施，可能会引发更广泛的讨论，涉及政府在艺术和文化项目上的投资。",
-          "analysis_en": "A federal panel in the United States is considering a plan to paint the Eisenhower Executive Office Building in Washington, D.C., white, with an estimated budget of $7.5 million. The proposal has generated over 2,000 public comments, most of which are negative. This plan is significant as it concerns the appearance of a national landmark and reflects public opinion on government spending and aesthetics. If the decision is made to proceed, it could spark broader discussions about government investment in art and cultural projects."
+          "analysis_zh": "心理学家艾迪丝·埃娃·埃格尔于98岁去世，她在奥斯维辛集中营的经历让她对人性有了深刻的理解。这种理解不仅塑造了她的个人生活，也使她能够更好地帮助她的患者。她的去世标志着一个时代的结束，同时也提醒我们历史的惨痛教训。埃格尔的故事激励了许多人，未来的心理学家可能会继续受到她的影响，努力理解和帮助那些经历过创伤的人。",
+          "analysis_en": "Psychologist Edith Eva Eger passed away at the age of 98, having survived the Auschwitz concentration camp. Her experiences there provided her with profound insights into humanity, which she used to help her patients. Her death marks the end of an era and serves as a reminder of the painful lessons of history. Eger's story has inspired many, and future psychologists may continue to be influenced by her work in understanding and assisting those who have experienced trauma."
         },
         {
           "rank": 4,
+          "title": "Federal Panel Considers Plan to Paint Granite Eisenhower Executive Office Building White",
+          "link": "https://www.artnews.com/art-news/news/trump-proposal-paint-eisenhower-executive-office-building-white-review-1234784774/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-05-08 21:20 UTC",
+          "analysis_zh": "美国联邦委员会正在考虑将艾森豪威尔行政办公室大楼涂成白色，这一项目预计耗资750万美元。该计划引发了超过2000条公众评论，其中大多数持反对意见。这一提案的重要性在于，它不仅涉及到国家标志性建筑的外观，还可能影响公众对政府支出的看法和态度。如果项目继续推进，可能会引发更广泛的讨论，关于如何平衡美学与财政责任。",
+          "analysis_en": "A federal panel in the U.S. is considering a plan to paint the Eisenhower Executive Office Building white, with an estimated cost of $7.5 million. This proposal has generated over 2,000 public comments, most of which are negative. The significance of this plan lies in its impact on the appearance of a national landmark and public perceptions of government spending. If the project moves forward, it could spark broader discussions about balancing aesthetics with fiscal responsibility."
+        },
+        {
+          "rank": 5,
           "title": "J.H. Prynne, Erudite and Elusive British Poet, Dies at 89",
           "link": "https://www.nytimes.com/2026/05/08/books/jh-prynne-dead.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-08 19:57 UTC",
-          "analysis_zh": "英国著名诗人J.H. Prynne于89岁去世，他的作品以其深奥的学术性而闻名，尽管有些读者认为他的诗作难以理解。Prynne被视为英国最重要的诗人之一，他的去世标志着一个时代的结束。其作品不仅影响了诗歌界，还对后来的文学创作产生了深远的影响。",
-          "analysis_en": "British poet J.H. Prynne passed away at the age of 89, known for his densely intellectual work that some readers found challenging. Prynne is regarded as one of England's most significant poets, and his death marks the end of an era. His writings have not only influenced the poetry community but also left a lasting impact on subsequent literary creations."
+          "analysis_zh": "英国著名诗人J.H. Prynne于89岁去世，他的作品以其深奥的学术性而闻名，尽管有些读者认为其难度较高。Prynne被认为是英国最重要的诗人之一，他的去世标志着一个文学时代的结束。其作品不仅影响了诗歌界，也对当代文学的思考方式产生了深远影响。未来的诗人和学者可能会继续探讨他的思想和风格，以此激发新的创作灵感。",
+          "analysis_en": "British poet J.H. Prynne has passed away at the age of 89, known for his densely intellectual work that some readers found challenging. He is regarded as one of England's most significant poets, and his death marks the end of an era in literature. His writings have not only influenced the poetry community but also had a profound impact on contemporary literary thought. Future poets and scholars may continue to explore his ideas and style, potentially inspiring new creative endeavors."
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Review: At City Ballet, Tiler Peck Shows Shimmering Restraint",
           "link": "https://www.nytimes.com/2026/05/08/arts/dance/review-tiler-peck-symphonie-espagnole-new-york-city-ballet.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-08 19:15 UTC",
-          "analysis_zh": "在城市芭蕾舞团的最新演出中，明星芭蕾舞者蒂勒·佩克展现了她的才华与克制。作为一位出色的编舞者，她的第二部作品比首部更为宏大和出色。这一演出不仅展示了她的艺术成长，也为观众提供了新的视角，重新定义了芭蕾舞的表现形式。这对芭蕾舞界而言意义重大，可能会激励更多舞者尝试编舞，推动整个艺术领域的发展。",
-          "analysis_en": "In the latest performance by City Ballet, star ballerina Tiler Peck showcased her talent and restraint. As an accomplished choreographer, her sophomore work is larger and more impressive than her first. This performance not only highlights her artistic growth but also offers audiences a fresh perspective, redefining the expression of ballet. This is significant for the ballet community, as it may inspire more dancers to venture into choreography, potentially advancing the entire art form."
+          "analysis_zh": "在纽约城市芭蕾舞团，明星芭蕾舞者泰勒·佩克展示了她的才华与克制。她的新作品比她的首部作品更加宏大和出色，这不仅体现了她在舞蹈上的进步，也展示了她作为编舞家的潜力。这一演出引起了观众的关注，可能会进一步提升她在艺术界的地位，并激励更多舞者探索编舞的可能性。",
+          "analysis_en": "At the City Ballet, star ballerina Tiler Peck showcased her talent and restraint. Her new work is larger and more impressive than her first, reflecting her growth as a dancer and her potential as a choreographer. This performance has garnered attention from audiences and may enhance her status in the arts community, inspiring more dancers to explore choreography."
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Artists’ Strike Closes Pavilions at Venice Biennale, Adding to Upheaval",
           "link": "https://www.nytimes.com/2026/05/08/arts/venice-biennale-protests.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-08 19:10 UTC",
-          "analysis_zh": "威尼斯双年展的主要展馆因艺术家罢工而关闭，此次罢工是为了支持巴勒斯坦人。这一事件不仅影响了展览的正常进行，也引发了对艺术界在社会和政治问题上立场的广泛讨论。艺术家们通过这种方式表达了对当前局势的关注，可能会促使更多人关注相关的社会正义议题。",
-          "analysis_en": "The main pavilions at the Venice Biennale were closed due to an artists' strike in support of Palestinians. This event not only disrupted the exhibition but also sparked widespread discussions about the art community's stance on social and political issues. By taking this action, artists are drawing attention to current events, which may encourage more people to engage with related social justice topics."
+          "analysis_zh": "在威尼斯双年展上，因支持巴勒斯坦的抗议活动，多个展馆于周五关闭。这一事件不仅影响了艺术家的展示机会，也引发了对艺术与政治关系的广泛讨论。艺术界的动荡可能会促使更多艺术家关注社会问题，并在未来的创作中融入政治元素。",
+          "analysis_en": "At the Venice Biennale, several pavilions were closed on Friday as part of a pro-Palestinian protest. This incident not only affected the artists' opportunities to showcase their work but also sparked a broader discussion about the relationship between art and politics. The upheaval in the art world may encourage more artists to engage with social issues and incorporate political elements into their future creations."
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Numerous Venice Biennale Pavilions and Artists Go on Strike in Protest over Israel’s Participation",
           "link": "https://www.artnews.com/art-news/news/venice-biennale-israel-strike-pavilions-close-1234784754/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-05-08 17:37 UTC",
-          "analysis_zh": "在威尼斯双年展上，许多展馆和艺术家因以色列的参与而发起罢工，数千名示威者聚集在街头，抗议这一决定。这一事件引发了广泛关注，因为威尼斯双年展是全球最重要的艺术展览之一，艺术家的立场可能会影响公众对以色列政策的看法。此次罢工不仅反映了艺术界对政治问题的敏感性，也可能促使其他文化活动重新审视与政治的关系。",
-          "analysis_en": "At the Venice Biennale, numerous pavilions and artists went on strike in protest against Israel's participation, with thousands of marchers gathering in the streets. This event has garnered significant attention, as the Venice Biennale is one of the most prestigious art exhibitions globally, and the artists' stance may influence public perceptions of Israeli policies. The strike not only highlights the art community's sensitivity to political issues but may also prompt other cultural events to reconsider their relationship with politics."
+          "analysis_zh": "在威尼斯双年展上，许多展馆和艺术家因以色列的参与而举行罢工，数千名示威者聚集在街头，抗议这一决定。这一事件引发了广泛关注，因为它不仅涉及艺术界的政治立场，也反映了国际社会对以色列政策的反对声音。此次罢工可能会影响到未来的艺术展览和文化交流，促使更多艺术家关注社会和政治问题。",
+          "analysis_en": "At the Venice Biennale, numerous pavilions and artists went on strike in protest of Israel's participation, with thousands of demonstrators gathering in the streets. This event has garnered significant attention as it highlights the political stance of the art community and reflects the broader international opposition to Israeli policies. The strike may impact future art exhibitions and cultural exchanges, encouraging more artists to engage with social and political issues."
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "19 essential exhibitions to see during NYCxDesign 2026",
           "link": "https://www.dezeen.com/2026/05/08/19-exhibitions-during-nycxdesign-2026/",
           "source": "Dezeen",
           "published_utc": "2026-05-08 17:30 UTC",
-          "analysis_zh": "在2026年纽约设计周（NYCxDesign）即将到来之际，Dezeen网站汇总了纽约市内不可错过的19个展览。这些展览涵盖了大型品牌以及独立设计师的作品，展示了从夜灯到鸟类等多样的设计主题。这一设计盛事不仅在正式日期（5月14日至20日）期间吸引了众多观众，还延伸到了其他时间段，显示出设计在城市生活中的重要性。这些展览将促进设计师与公众之间的互动，可能会影响未来的设计趋势和市场走向。",
-          "analysis_en": "As NYCxDesign 2026 approaches, Dezeen has compiled a list of 19 must-see exhibitions throughout New York City. These exhibitions feature works from both large brands and independent designers, showcasing a variety of themes from nightlights to birds. This design extravaganza not only attracts many visitors during its official dates (May 14 to 20) but also extends beyond, highlighting the significance of design in urban life. These exhibitions are likely to enhance interaction between designers and the public, potentially influencing future design trends and market directions."
+          "analysis_zh": "在2026年纽约设计周（NYCxDesign）即将到来之际，Dezeen网站整理了纽约市内不容错过的19个展览。这些展览涵盖了大型品牌和独立设计师的作品，展示了从夜灯到鸟类等多样的主题。这一设计盛会不仅在正式日期（5月14日至20日）内吸引了众多观众，还延伸到更广泛的社区活动，显示出设计在城市文化中的重要性。这些展览的成功可能会进一步推动设计行业的发展，并激励更多创意人才参与其中。",
+          "analysis_en": "As NYCxDesign 2026 approaches, Dezeen has compiled a list of 19 must-see exhibitions throughout New York City. These exhibitions feature a range of works from major brands to independent designers, showcasing diverse themes from nightlights to birds. This design extravaganza not only attracts a large audience during its official dates (May 14 to 20) but also extends to broader community activities, highlighting the significance of design in urban culture. The success of these exhibitions may further stimulate the growth of the design industry and inspire more creative talents to get involved."
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Rare Unlooted Grave Among 44 Roman Graves Uncovered in Eastern Croatia",
           "link": "https://www.artnews.com/art-news/news/rare-unlooted-grave-roman-necropolis-eastern-croatia-1234784721/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-05-08 17:25 UTC",
-          "analysis_zh": "在克罗地亚东部的文科夫齐，考古学家发现了44座罗马墓葬，其中一座墓葬未被盗掘。这一发现发生在未来农贸市场的建设现场，具有重要的历史和文化价值。未被盗掘的墓葬为研究罗马时期的生活和习俗提供了珍贵的实物证据，可能会吸引更多的考古研究和旅游活动，从而促进当地经济的发展。",
-          "analysis_en": "Archaeologists in Eastern Croatia have uncovered 44 Roman graves at a site designated for a future farmers' market, with one grave remarkably left untouched. This discovery is significant as it offers valuable insights into Roman life and customs, providing rare artifacts for study. The presence of an unlooted grave may lead to increased archaeological research and tourism in the area, potentially boosting the local economy."
-        },
-        {
-          "rank": 10,
-          "title": "Nine of the best projects from the inaugural Montreal Design Week",
-          "link": "https://www.dezeen.com/2026/05/08/inaugural-montreal-design-week-round-up/",
-          "source": "Dezeen",
-          "published_utc": "2026-05-08 17:00 UTC",
-          "analysis_zh": "蒙特利尔首次设计周的举办标志着这座城市在设计领域的重要里程碑。作为北美首个联合国教科文组织设计之城，蒙特利尔在设计方面的影响力不断上升。此次设计周展示了九个创新项目，涵盖了概念再利用和风格实验等多个方面。这不仅提升了城市的设计形象，也为本地设计师提供了展示平台，可能会吸引更多的国际关注和投资。",
-          "analysis_en": "The inaugural Montreal Design Week marks a significant milestone for the city in the realm of design. As the first North American UNESCO City of Design, Montreal's influence in the design sector continues to grow. The event showcased nine innovative projects, ranging from conceptual reuse to stylistic experimentation. This not only enhances the city's design profile but also provides a platform for local designers, potentially attracting more international attention and investment."
+          "analysis_zh": "在克罗地亚东部的文科夫齐，考古学家在未来的农贸市场建设现场发现了44个罗马墓葬，其中一个墓葬未被盗掘。这一发现不仅为研究古罗马时期的文化和习俗提供了重要线索，也为当地的历史遗产保护工作增添了新的价值。未被盗掘的墓葬可能包含珍贵的文物，未来的发掘工作可能会揭示更多关于这一地区历史的秘密。",
+          "analysis_en": "Archaeologists in Vinkovci, eastern Croatia, have uncovered 44 Roman graves at the site of a future farmers' market, with one grave notably untouched by looters. This discovery is significant as it offers valuable insights into the culture and customs of ancient Rome, while also enhancing the local historical heritage preservation efforts. The unlooted grave may contain precious artifacts, and future excavations could reveal more secrets about the area's history."
         }
       ]
     }
