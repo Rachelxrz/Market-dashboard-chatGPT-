@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-10 21:27:58 UTC",
-  "generated_at_unix": 1778448478,
+  "generated_at": "2026-05-10 22:26:34 UTC",
+  "generated_at_unix": 1778451994,
   "window": {
-    "from_utc": "2026-05-09 21:27:58 UTC",
-    "to_utc": "2026-05-10 21:27:58 UTC",
+    "from_utc": "2026-05-09 22:26:34 UTC",
+    "to_utc": "2026-05-10 22:26:34 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,93 +14,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "U.S. stock futures fall, oil surges as Trump calls Iran’s latest offer to end war ‘totally unacceptable’",
+          "link": "https://www.marketwatch.com/story/u-s-stock-futures-fall-oil-surges-as-trump-calls-irans-latest-offer-to-end-war-totally-unacceptable-187e3d87?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-05-10 22:23 UTC",
+          "analysis_zh": "美国股指期货在周日下跌，油价则上涨，因为特朗普总统称伊朗对美国最新提议结束战争的回应“完全不可接受”。这一事件反映了美伊关系的紧张局势，可能会对全球市场产生影响。投资者对不确定性和潜在的地缘政治风险感到担忧，这可能导致股市进一步波动。",
+          "analysis_en": "U.S. stock-index futures fell on Sunday while oil prices surged after President Donald Trump labeled Iran's response to the latest U.S. proposal to end the war as \"totally unacceptable.\" This incident highlights the escalating tensions between the U.S. and Iran, which could impact global markets. Investors are concerned about uncertainty and potential geopolitical risks, which may lead to further volatility in the stock market."
+        },
+        {
+          "rank": 2,
+          "title": "Custom Truck One Source Says Utility Demand Is Driving Record Rental Fleet Growth",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/custom-truck-one-source-says-220921821.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-05-10 22:09 UTC",
+          "analysis_zh": "Custom Truck One Source公司表示，公用事业需求正在推动其租赁车队的创纪录增长。这一现象反映了基础设施投资的增加，尤其是在电力和水务行业。随着对可再生能源和现代化基础设施的需求上升，相关企业可能会迎来更多的投资机会，进一步推动经济发展。",
+          "analysis_en": "Custom Truck One Source has reported that utility demand is driving record growth in its rental fleet. This trend highlights an increase in infrastructure investment, particularly in the electricity and water sectors. As the demand for renewable energy and modernized infrastructure rises, related companies may see more investment opportunities, further stimulating economic growth."
+        },
+        {
+          "rank": 3,
+          "title": "Hudson Pacific Properties Q1 Earnings Call Highlights",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/hudson-pacific-properties-q1-earnings-220920535.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-05-10 22:09 UTC",
+          "analysis_zh": "哈德逊太平洋地产公司在第一季度的财报电话会议中分享了其业绩亮点。该公司报告了稳健的收益增长，显示出其在房地产市场中的强劲表现。这一消息对投资者而言至关重要，因为它反映了公司在经济波动中的韧性，并可能吸引更多的投资者关注其未来的发展潜力。",
+          "analysis_en": "Hudson Pacific Properties held a conference call to highlight its earnings for the first quarter. The company reported solid revenue growth, demonstrating its strong performance in the real estate market. This news is significant for investors as it reflects the company's resilience amid economic fluctuations and may attract more investor interest in its future growth potential."
+        },
+        {
+          "rank": 4,
+          "title": "Heritage Insurance Q1 Earnings Call Highlights",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/heritage-insurance-q1-earnings-call-220920537.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-05-10 22:09 UTC",
+          "analysis_zh": "遗产保险公司在第一季度的财报电话会议上公布了其业绩表现。此次财报显示，公司在收入和净利润方面均有所增长，这表明其业务模式正在逐步恢复并适应市场变化。这一消息对投资者而言至关重要，因为它可能会影响公司股价的走势，并吸引更多的投资者关注该公司未来的发展潜力。",
+          "analysis_en": "Heritage Insurance recently held its earnings call for the first quarter, revealing positive performance in both revenue and net profit. This indicates that the company's business model is gradually recovering and adapting to market changes. This news is significant for investors, as it could influence the company's stock price and attract more attention from investors regarding its future growth potential."
+        },
+        {
+          "rank": 5,
+          "title": "H&R Block Q3 Earnings Call Highlights",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/h-r-block-q3-earnings-220920065.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-05-10 22:09 UTC",
+          "analysis_zh": "H&R Block最近公布了第三季度的财报，显示出公司在税务服务领域的稳健表现。尽管面临经济不确定性，H&R Block的收入和客户数量均有所增长，这表明消费者对其服务的需求依然强劲。这一结果不仅反映了公司在市场中的竞争力，也可能影响投资者的信心，促使更多人关注税务服务行业的潜在机会。",
+          "analysis_en": "H&R Block recently released its third-quarter earnings report, showcasing a solid performance in the tax services sector. Despite facing economic uncertainties, the company reported growth in both revenue and customer numbers, indicating strong consumer demand for its services. This outcome not only reflects the company's competitiveness in the market but may also influence investor confidence, leading to increased interest in potential opportunities within the tax services industry."
+        },
+        {
+          "rank": 6,
+          "title": "Dow Jones Futures Fall, Oil Prices Rise; Trump Says Iran Response To U.S. Offer 'Totally Unacceptable'",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-trump-xi-summit-apple-nvidia-boeing/?src=A00220&yptr=yahoo",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-05-10 22:07 UTC",
+          "analysis_zh": "道琼斯期货下跌，而油价上涨，反映出市场对经济前景的担忧。特朗普表示伊朗对美国提议的回应“完全不可接受”，这可能加剧中东地区的紧张局势。此事件不仅影响国际油价，还可能对全球投资者的信心产生负面影响，进而影响股市表现。",
+          "analysis_en": "Dow Jones futures have fallen while oil prices have risen, indicating market concerns about the economic outlook. Trump stated that Iran's response to the U.S. offer is \"totally unacceptable,\" which could escalate tensions in the Middle East. This situation not only affects international oil prices but may also negatively impact global investor confidence, subsequently influencing stock market performance."
+        },
+        {
+          "rank": 7,
+          "title": "Powell’s legacy as Fed chair is fighting inflation and Trump. He may lose the battle against both.",
+          "link": "https://www.marketwatch.com/story/powells-legacy-as-fed-chair-is-fighting-inflation-and-trump-he-may-lose-the-battle-against-both-aeb32f89?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-05-10 22:00 UTC",
+          "analysis_zh": "杰罗姆·鲍威尔作为美联储主席的遗产将主要体现在他对抗通货膨胀和维护美联储独立性的努力上。随着通胀持续高企，鲍威尔面临着巨大的压力，可能会影响到他的政策决策和美联储的未来方向。这一局势不仅关系到美国经济的稳定，也可能对全球金融市场产生深远影响。鲍威尔的表现将直接影响公众对美联储的信任以及未来的货币政策走向。",
+          "analysis_en": "Jerome Powell's legacy as Fed chair will largely be defined by his efforts to combat inflation and maintain the independence of the Federal Reserve. As inflation remains persistently high, Powell faces immense pressure that could influence his policy decisions and the future direction of the Fed. This situation not only affects the stability of the U.S. economy but may also have far-reaching implications for global financial markets. Powell's performance will directly impact public trust in the Fed and the future trajectory of monetary policy."
+        },
+        {
+          "rank": 8,
+          "title": "Exclusive-Cerebras to raise IPO price range to $150-$160 as demand surges, sources say​​​​​​​​​​​​​​​​",
+          "link": "https://www.investing.com/news/stock-market-news/exclusivecerebras-to-raise-ipo-price-range-to-150160-as-demand-surges-sources-say-4674870",
+          "source": "Stock Market News",
+          "published_utc": "2026-05-10 21:42 UTC",
+          "analysis_zh": "据消息人士透露，Cerebras计划将其首次公开募股（IPO）的价格区间提高至150至160美元，原因是市场需求激增。这一调整反映了投资者对该公司的强烈兴趣，可能会进一步推动其在科技领域的影响力。Cerebras的成功上市不仅对其自身发展至关重要，也可能对整个半导体行业产生积极的连锁反应。",
+          "analysis_en": "According to sources, Cerebras is planning to raise its initial public offering (IPO) price range to $150-$160 due to a surge in demand. This adjustment reflects strong investor interest in the company, which could further enhance its influence in the tech sector. A successful IPO for Cerebras is crucial not only for its own growth but may also have a positive ripple effect on the entire semiconductor industry."
+        },
+        {
+          "rank": 9,
+          "title": "Exclusive-Cerebras to raise IPO price range to $150-$160 as demand surges, sources say​​​​​​​​​​​​​​​​",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/exclusive-cerebras-raise-ipo-price-213927145.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-05-10 21:39 UTC",
+          "analysis_zh": "据消息人士透露，Cerebras计划将其首次公开募股（IPO）的价格区间提高至150至160美元，原因是市场需求激增。这一调整反映了投资者对该公司产品的强烈兴趣，尤其是在人工智能和高性能计算领域。Cerebras的成功上市可能会吸引更多投资者关注相关技术公司，进一步推动行业的发展。",
+          "analysis_en": "According to sources, Cerebras is planning to raise its initial public offering (IPO) price range to $150 to $160 due to a surge in demand. This adjustment reflects strong investor interest in the company's products, particularly in the fields of artificial intelligence and high-performance computing. A successful IPO for Cerebras could attract more investors to similar tech companies, further driving growth in the industry."
+        },
+        {
+          "rank": 10,
           "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
           "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4674868",
           "source": "Stock Market News",
           "published_utc": "2026-05-10 21:20 UTC",
-          "analysis_zh": "俄罗斯股市在交易结束时出现下跌，尽管MOEX俄罗斯指数保持不变。这一现象反映了市场对经济前景的不确定性，投资者情绪受到影响。股市的波动可能会影响投资者的决策，进而影响整个经济的稳定性和发展。",
-          "analysis_en": "Russian stocks closed lower, while the MOEX Russia Index remained unchanged. This situation reflects uncertainty in the market regarding the economic outlook, which has affected investor sentiment. The fluctuations in the stock market could influence investors' decisions, potentially impacting the overall stability and growth of the economy."
-        },
-        {
-          "rank": 2,
-          "title": "Is NuScale Power Going to $120?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-going-120-210500522.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-05-10 21:05 UTC",
-          "analysis_zh": "NuScale Power最近引起了市场的广泛关注，投资者们对其股价是否会升至120美元产生了热烈讨论。作为一家专注于小型模块化反应堆的公司，NuScale的技术被视为未来清洁能源的重要组成部分。这一股价预测不仅反映了市场对其技术潜力的认可，也可能影响到更多投资者对核能和可再生能源领域的兴趣。如果NuScale的股价真的达到这一水平，可能会吸引更多资金流入该行业，推动相关技术的发展和应用。",
-          "analysis_en": "NuScale Power has recently garnered significant attention in the market, with investors actively discussing whether its stock price will reach $120. As a company focused on small modular reactors, NuScale's technology is seen as a crucial part of future clean energy solutions. This stock price prediction not only reflects market recognition of its technological potential but may also influence more investors' interest in the nuclear and renewable energy sectors. If NuScale's stock does reach this level, it could attract more capital into the industry, promoting the development and application of related technologies."
-        },
-        {
-          "rank": 3,
-          "title": "Camden Property Trust Shareholders Approve Proposals as Management Sees Strong Recovery",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/camden-property-trust-shareholders-approve-210415575.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-05-10 21:04 UTC",
-          "analysis_zh": "Camden Property Trust的股东最近批准了管理层提出的多项提案，显示出公司在经历了疫情的挑战后，正在强劲复苏。这一决定不仅反映了股东对公司未来发展的信心，也表明市场对房地产投资的恢复趋势。随着经济逐步复苏，投资者可能会更加关注房地产领域的机会，进而影响相关市场的动态。",
-          "analysis_en": "Shareholders of Camden Property Trust recently approved several proposals put forth by management, indicating a strong recovery for the company following the challenges posed by the pandemic. This decision not only reflects shareholder confidence in the company's future but also signals a trend of recovery in the real estate investment market. As the economy gradually rebounds, investors may increasingly focus on opportunities within the real estate sector, potentially influencing market dynamics."
-        },
-        {
-          "rank": 4,
-          "title": "Houlihan Lokey Q4 Earnings Call Highlights",
-          "link": "https://finance.yahoo.com/news/houlihan-lokey-q4-earnings-call-210413437.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-05-10 21:04 UTC",
-          "analysis_zh": "Houlihan Lokey在第四季度的财报电话会议中公布了其业绩，显示出公司在投资银行业务上的强劲表现。这一消息对投资者而言至关重要，因为它反映了市场对并购和资本市场活动的信心。随着经济复苏的持续，Houlihan Lokey的成功可能会吸引更多客户，进一步推动其业务增长。",
-          "analysis_en": "Houlihan Lokey reported strong performance in its investment banking business during its fourth-quarter earnings call. This news is significant for investors as it reflects market confidence in mergers and capital market activities. As the economic recovery continues, Houlihan Lokey's success may attract more clients, further driving its business growth."
-        },
-        {
-          "rank": 5,
-          "title": "Holley Q1 Earnings Call Highlights",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/holley-q1-earnings-call-highlights-210413342.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-05-10 21:04 UTC",
-          "analysis_zh": "霍利公司在第一季度的财报电话会议上公布了其财务表现。此次财报显示，公司的收入和利润均有所增长，这表明其在市场中的竞争力增强。这样的业绩不仅提升了投资者的信心，也可能吸引更多的投资者关注该公司，从而推动其股价上涨。随着公司持续发展，未来的投资机会也将随之增加。",
-          "analysis_en": "Holley recently held its earnings call for the first quarter, revealing positive financial results. The report showed an increase in both revenue and profits, indicating that the company is strengthening its competitive position in the market. This performance not only boosts investor confidence but may also attract more investors, potentially driving up the stock price. As the company continues to grow, future investment opportunities are likely to increase as well."
-        },
-        {
-          "rank": 6,
-          "title": "Dow Jones Futures: Trump Says Iran Response To U.S. Offer 'Totally Unacceptable'; Apple, Nvidia, Boeing In Buy Areas",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-trump-xi-summit-apple-nvidia-boeing/?src=A00220&yptr=yahoo",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-05-10 20:48 UTC",
-          "analysis_zh": "特朗普表示，伊朗对美国提议的回应“完全不可接受”，这一言论可能会加剧美国与伊朗之间的紧张关系。此事件的重要性在于，它可能影响到全球市场的稳定性，尤其是能源市场，因为伊朗是重要的石油生产国。此外，苹果、英伟达和波音等公司的股票目前处于买入区间，投资者需关注这些公司的表现，以便在市场波动中做出明智的投资决策。",
-          "analysis_en": "Trump stated that Iran's response to the U.S. offer is \"totally unacceptable,\" which could escalate tensions between the U.S. and Iran. This situation is significant as it may impact global market stability, particularly in the energy sector, given Iran's role as a major oil producer. Additionally, companies like Apple, Nvidia, and Boeing are currently in buy zones, prompting investors to monitor their performance for informed investment decisions amid market fluctuations."
-        },
-        {
-          "rank": 7,
-          "title": "Tigress Financial Partners Initiates Coverage of Oklo (OKLO) Stock",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/tigress-financial-partners-initiates-coverage-203239567.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-05-10 20:32 UTC",
-          "analysis_zh": "Tigress Financial Partners 最近开始对 Oklo（股票代码：OKLO）进行覆盖分析。这一举措表明，投资者对 Oklo 的未来发展持乐观态度，可能会吸引更多的资金流入该公司。Oklo 专注于小型核反应堆技术，随着全球对清洁能源需求的增加，其市场潜力不容小觑。这一分析可能会影响投资者的决策，推动股票价格的波动。",
-          "analysis_en": "Tigress Financial Partners has recently initiated coverage of Oklo (stock symbol: OKLO). This move indicates that investors are optimistic about Oklo's future prospects, potentially attracting more capital into the company. Oklo focuses on small modular reactor technology, which has significant market potential as global demand for clean energy rises. This analysis may influence investor decisions and lead to fluctuations in the stock price."
-        },
-        {
-          "rank": 8,
-          "title": "Netanyahu says Iran war is 'not over' as Trump rejects latest Iranian offer",
-          "link": "https://www.cnbc.com/2026/05/10/netanyahu-says-iran-war-is-not-over-as-peace-deal-remains-elusive.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-05-10 20:28 UTC",
-          "analysis_zh": "以色列总理内塔尼亚胡表示，伊朗战争尚未结束，而特朗普则拒绝了伊朗的最新提议。这场战争已持续近两个月，导致美国及全球的石油和天然气价格飙升。此事件不仅影响了能源市场，还可能对全球经济产生广泛的连锁反应，尤其是在能源依赖较大的国家。",
-          "analysis_en": "Israeli Prime Minister Netanyahu stated that the war with Iran is \"not over,\" while Trump rejected Iran's latest offer. This conflict has now entered its second month, causing a surge in oil and gas prices both in the U.S. and worldwide. This situation not only affects the energy markets but could also have widespread repercussions on the global economy, particularly for countries heavily reliant on energy resources."
-        },
-        {
-          "rank": 9,
-          "title": "Introducing the ‘NACHO’ trade: How Wall Street is betting on higher oil prices and persistent inflation",
-          "link": "https://www.marketwatch.com/story/introducing-the-nacho-trade-how-wall-street-is-betting-on-higher-oil-prices-and-persistent-inflation-eb915434?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-05-10 20:20 UTC",
-          "analysis_zh": "华尔街最近推出了一个新的交易策略，名为“NACHO”，旨在押注于油价上涨和持续的通货膨胀。这一策略的名称部分灵感来自墨西哥美食，反映了市场对当前经济形势的反应。随着全球经济的不确定性加剧，投资者们希望通过这种方式来保护自己的资产。此举可能会影响油市的走势，并进一步推动相关行业的投资热潮。",
-          "analysis_en": "Wall Street has recently introduced a new trading strategy called \"NACHO,\" which aims to bet on rising oil prices and persistent inflation. The name is partially inspired by Mexican cuisine, reflecting the market's response to the current economic situation. As global economic uncertainty increases, investors are looking to protect their assets through this approach. This move could impact the oil market's trajectory and further stimulate investment in related sectors."
-        },
-        {
-          "rank": 10,
-          "title": "California duo opened a burrito spot in a Home Depot parking lot — the business now brings in $2.3 million",
-          "link": "https://finance.yahoo.com/economy/policy/articles/california-duo-opened-burrito-spot-201500173.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-05-10 20:15 UTC",
-          "analysis_zh": "加利福尼亚的一对夫妇在家得宝的停车场开设了一家墨西哥卷饼店，现已年收入达到230万美元。这一成功案例不仅展示了创新商业模式的潜力，也反映了消费者对便捷美食的需求不断增长。随着这种新型餐饮模式的兴起，可能会激励更多创业者探索类似的商业机会，进一步推动当地经济的发展。",
-          "analysis_en": "A couple in California opened a burrito shop in a Home Depot parking lot, which now generates an impressive annual revenue of $2.3 million. This success story highlights the potential of innovative business models and reflects the growing consumer demand for convenient food options. As this new dining trend gains traction, it may inspire more entrepreneurs to explore similar business opportunities, further stimulating local economic growth."
+          "analysis_zh": "俄罗斯股市在交易结束时出现下跌，莫斯科交易所俄罗斯指数保持不变。这一现象反映出市场对经济前景的不确定性，投资者情绪低迷。尽管指数未发生变化，但个别股票的波动可能会影响投资者的信心和未来的投资决策。",
+          "analysis_en": "Russian stocks closed lower, while the MOEX Russia Index remained unchanged. This situation reflects uncertainty in the market regarding the economic outlook, leading to a decline in investor sentiment. Although the index itself did not change, fluctuations in individual stocks could impact investor confidence and future investment decisions."
         }
       ]
     },
@@ -114,8 +114,8 @@
           "link": "https://www.nytimes.com/article/hantavirus-cruise-ship-outbreak-hondius.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-10 20:53 UTC",
-          "analysis_zh": "最近，一艘名为MV Hondius的邮轮上爆发了汉坦病毒疫情，导致三名乘客因出现该罕见疾病的症状而不幸去世。这一事件引起了公众的广泛关注，因为汉坦病毒是一种潜在致命的病毒，通常通过接触感染的啮齿动物或其排泄物传播。此次疫情不仅对邮轮上的乘客和船员构成了威胁，还可能影响到邮轮行业的声誉和未来的旅游安全措施。",
-          "analysis_en": "Recently, an outbreak of hantavirus on the MV Hondius cruise ship resulted in the tragic deaths of three passengers who exhibited symptoms of this rare disease. This incident has garnered significant public attention, as hantavirus is a potentially deadly virus typically transmitted through contact with infected rodents or their droppings. The outbreak poses a threat not only to the passengers and crew on board but may also impact the reputation of the cruise industry and future safety measures in tourism."
+          "analysis_zh": "最近，一艘名为MV Hondius的邮轮上发生了汉坦病毒疫情，导致三名乘客因出现该罕见疾病的症状而不幸去世。这一事件引起了公众的广泛关注，因为汉坦病毒是一种潜在致命的病毒，主要通过接触感染的啮齿动物或其排泄物传播。此次疫情不仅对邮轮行业的安全性提出了质疑，还可能影响未来的旅游业，尤其是在疫情后人们对健康安全的关注日益增加。",
+          "analysis_en": "Recently, an outbreak of hantavirus on the cruise ship MV Hondius resulted in the deaths of three passengers who exhibited symptoms of this rare disease. This incident has garnered significant public attention, as hantavirus can be potentially fatal and is primarily transmitted through contact with infected rodents or their droppings. The outbreak raises concerns about safety in the cruise industry and may impact future tourism, especially as health safety becomes an increasingly important consideration for travelers post-pandemic."
         },
         {
           "rank": 2,
@@ -123,8 +123,8 @@
           "link": "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-10 20:46 UTC",
-          "analysis_zh": "一艘与汉坦病毒疫情有关的邮轮于周日抵达西班牙的加那利群岛，开始让乘客和船员下船。有关部门表示，船上的人员预计将在周一通过航班返回各自的国家。这一事件引发了公众对邮轮安全和卫生的关注，尤其是在疫情频发的背景下。此次疫情可能会影响未来邮轮旅游的选择和相关政策的制定。",
-          "analysis_en": "A cruise ship linked to a hantavirus outbreak arrived in Spain's Canary Islands on Sunday to allow passengers and crew to disembark. Officials stated that those on board were expected to be flown back to their home countries by Monday. This incident has raised public concerns about the safety and hygiene of cruise travel, especially in light of ongoing health crises. The outbreak may influence future choices regarding cruise tourism and the development of related policies."
+          "analysis_zh": "一艘与汉坦病毒疫情有关的邮轮于周日抵达西班牙的加那利群岛，开始让乘客和船员下船。有关部门表示，船上的乘客和船员预计将在周一通过航班返回各自的国家。这一事件引发了公众对邮轮安全和传染病控制的关注，可能会影响未来邮轮旅游的政策和措施。",
+          "analysis_en": "A cruise ship linked to a hantavirus outbreak arrived in Spain's Canary Islands on Sunday to allow passengers and crew to disembark. Officials stated that those on board were expected to be flown back to their home countries by Monday. This incident has raised public concern regarding cruise safety and disease control, which may influence future policies and measures related to cruise tourism."
         },
         {
           "rank": 3,
@@ -132,8 +132,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260510030948.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-10 11:27 UTC",
-          "analysis_zh": "罗切斯特大学的科学家们成功地将一种与长寿相关的基因从著名的长寿动物裸鼹鼠转移到小鼠身上，结果小鼠的健康状况得到了改善，寿命也有所延长。这种特殊基因能够促进一种名为高分子量透明质酸的物质的产生，这种物质似乎能够抵御癌症、减少炎症，并支持更健康的衰老。这项研究的重要性在于，它表明长寿机制可以在不同物种之间转移，可能为未来的抗衰老研究和治疗提供新的思路。",
-          "analysis_en": "Scientists at the University of Rochester successfully transferred a longevity-related gene from the long-lived naked mole rat to mice, resulting in healthier mice with extended lifespans. This gene enhances the production of high molecular weight hyaluronic acid, which appears to protect against cancer, reduce inflammation, and support healthier aging. The significance of this research lies in its demonstration that longevity mechanisms can be transferred between species, potentially offering new avenues for anti-aging research and treatments in the future."
+          "analysis_zh": "罗切斯特大学的科学家们成功地将一种与长寿相关的基因从著名的长寿动物裸鼹鼠转移到小鼠身上，结果使小鼠的健康状况得到了改善，寿命也有所延长。这种特殊的基因能够增加一种叫做高分子量透明质酸的物质的产生，这种物质似乎能够抵抗癌症、减少炎症，并支持更健康的衰老。此次研究的重要性在于，它展示了长寿机制可以被转移到其他物种，从而为延长人类寿命提供了新的可能性。",
+          "analysis_en": "Scientists at the University of Rochester successfully transferred a longevity-related gene from the long-lived naked mole rat to mice, resulting in healthier mice with extended lifespans. This gene enhances the production of high molecular weight hyaluronic acid, which appears to protect against cancer, reduce inflammation, and promote healthier aging. The significance of this research lies in its demonstration that longevity mechanisms can be transferred to other species, potentially opening new avenues for extending human lifespan."
         },
         {
           "rank": 4,
@@ -141,8 +141,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260510030946.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-05-10 11:05 UTC",
-          "analysis_zh": "科学家们发现，心理病态者与其他人之间存在显著的脑部差异。研究表明，具有心理病态特征的人，其大脑中与奖励、动机和决策相关的纹状体区域平均比没有这些特征的人大约大10%。这一发现不仅揭示了心理病态者寻求刺激和冲动行为的生物学基础，也可能对心理健康领域的研究和干预措施产生深远影响。",
-          "analysis_en": "Scientists have discovered a significant brain difference between individuals with psychopathic traits and those without. The study found that the striatum, a brain region associated with reward, motivation, and decision-making, is on average about 10% larger in people with psychopathic traits. This finding not only sheds light on the biological basis of thrill-seeking and impulsive behaviors in psychopaths but may also have profound implications for research and interventions in the field of mental health."
+          "analysis_zh": "科学家们发现，心理病态者与其他人之间存在显著的脑部差异。研究表明，具有心理病态特征的人其纹状体——一个与奖励、动机和决策相关的脑区，平均比没有这些特征的人大约大10%。这一发现不仅揭示了心理病态者追求刺激和冲动行为的生物学基础，也可能对心理健康领域的研究和干预措施产生深远影响。",
+          "analysis_en": "Scientists have discovered a significant brain difference between individuals with psychopathic traits and those without. The study found that the striatum, a brain region associated with reward, motivation, and decision-making, is about 10% larger on average in people with psychopathic traits. This finding not only sheds light on the biological basis for the thrill-seeking and impulsive behaviors often seen in psychopaths but may also have profound implications for research and interventions in the field of mental health."
         },
         {
           "rank": 5,
@@ -150,8 +150,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260509210654.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-10 07:08 UTC",
-          "analysis_zh": "科学家们发现了大脑中一个隐藏的“停止抓挠”信号，这一信号能够告诉大脑何时抓挠已经足够。这一发现主要集中在一种名为TRPV4的分子上，它在缓解瘙痒时起到类似内部刹车系统的作用。在涉及类似湿疹的慢性瘙痒实验中，缺失这一信号的小鼠抓挠的频率减少，但一旦抓挠却无法停止。这项研究揭示了神经系统如何自然限制抓挠行为，可能有助于解释慢性瘙痒障碍为何如此顽固。",
-          "analysis_en": "Scientists have discovered a hidden \"stop-scratching\" signal in the brain that informs it when enough scratching has occurred. This discovery focuses on a molecule called TRPV4, which acts like an internal braking system for itch relief. In experiments with chronic itch similar to eczema, mice lacking this signal scratched less frequently, but when they did scratch, they could not stop. This research reveals how the nervous system naturally regulates scratching behavior and may help explain why chronic itch disorders can be so persistent."
+          "analysis_zh": "科学家们发现了大脑中一个隐藏的“停止抓挠”信号，这个信号能够告诉大脑何时抓挠已经足够。这个发现主要集中在一种名为TRPV4的分子上，它在缓解瘙痒时起着类似内部刹车系统的作用。在与类似湿疹的慢性瘙痒实验中，缺乏这一信号的小鼠抓挠的频率减少，但一旦开始抓挠，他们就无法停止。这项研究的重要性在于，它揭示了神经系统如何自然限制抓挠行为，并可能帮助解释慢性瘙痒障碍为何变得如此难以控制。",
+          "analysis_en": "Scientists have discovered a hidden \"stop-scratching\" signal in the brain that informs it when enough scratching has occurred. This discovery revolves around a molecule called TRPV4, which functions like an internal braking system for itch relief. In experiments with chronic itch resembling eczema, mice lacking this signal scratched less frequently, but when they did scratch, they couldn't stop. This research is significant as it reveals how the nervous system naturally regulates scratching behavior and may help explain why chronic itch disorders can become so relentless."
         },
         {
           "rank": 6,
@@ -159,8 +159,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260509210643.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-10 02:58 UTC",
-          "analysis_zh": "一项新的研究表明，通过将年轻的肠道细菌移植到老鼠体内，可以逆转肝脏衰老并降低肝癌风险。研究发现，接受自身年轻微生物群的老鼠表现出更少的炎症、减少的DNA损伤，并且没有肝癌的迹象。这项发现的重要性在于，它揭示了肠道微生物群与衰老及肝癌之间的潜在联系，可能为未来的抗衰老和癌症预防策略提供新的方向。",
-          "analysis_en": "A new study has shown that transplanting young gut bacteria into older mice can reverse liver aging and reduce the risk of liver cancer. The research found that mice receiving their own youthful microbiome exhibited less inflammation, reduced DNA damage, and no signs of liver cancer. This finding is significant as it reveals a potential link between the gut microbiome, aging, and liver cancer, which could pave the way for new strategies in anti-aging and cancer prevention."
+          "analysis_zh": "科学家们在一项研究中发现，利用年轻的肠道细菌可以逆转老年小鼠的肝脏衰老现象。这项研究表明，恢复年轻的肠道微生物群能够减少与年龄相关的肝脏损伤，并有可能预防肝癌。研究结果显示，接受治疗的小鼠炎症水平降低，DNA损伤减少，且没有肝癌的迹象。这一发现不仅为衰老过程提供了新的理解，也可能为肝脏疾病的预防和治疗开辟新的方向。",
+          "analysis_en": "Scientists have discovered that young gut bacteria can reverse liver aging in older mice. This research indicates that restoring a youthful gut microbiome may help reduce age-related liver damage and potentially prevent liver cancer. The treated mice exhibited lower levels of inflammation, reduced DNA damage, and showed no signs of liver cancer. These findings not only enhance our understanding of the aging process but may also pave the way for new approaches in preventing and treating liver diseases."
         },
         {
           "rank": 7,
@@ -168,8 +168,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260508003127.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-10 00:58 UTC",
-          "analysis_zh": "研究人员开发了一种基于干细胞的人类肠道模型，这一突破可能改变炎症性肠病（IBD）新疗法的发现方式。在测试了数千种化合物后，他们发现甘草酸——一种存在于黑甘草中的天然物质——作为一种有前景的抗炎候选药物。在实验室培养的组织和小鼠实验中，该化合物有效减少了与IBD相关的肠道损伤和细胞死亡。这项研究的重要性在于，IBD影响着全球数百万人，而现有的治疗方法往往效果不佳，因此新疗法的开发至关重要。",
-          "analysis_en": "Researchers have developed a stem cell-based model of the human intestine, which could significantly change how new treatments for inflammatory bowel disease (IBD) are discovered. After screening thousands of compounds, they identified glycyrrhizin—a natural substance found in black licorice—as a promising anti-inflammatory candidate. In both lab-grown tissues and mouse models, this compound showed effectiveness in reducing intestinal damage and cell death associated with IBD. This research is crucial because IBD affects millions worldwide, and current treatments often fail to provide adequate relief, highlighting the need for new therapeutic options."
+          "analysis_zh": "研究人员开发了一种基于干细胞的人类肠道模型，这一突破可能改变炎症性肠病（IBD）新疗法的发现方式。在测试了数千种化合物后，他们发现甘草酸——一种存在于黑甘草中的天然物质——是一个有前景的抗炎候选药物。在实验室培养的组织和小鼠中，这种化合物减少了与IBD相关的肠道损伤和细胞死亡。这项研究的重要性在于，IBD影响全球数百万人，而现有的治疗方法往往效果不佳，新的发现可能为患者带来更有效的治疗选择。",
+          "analysis_en": "Researchers have developed a stem cell-based model of the human intestine, which could revolutionize the discovery of new treatments for inflammatory bowel disease (IBD). After screening thousands of compounds, they identified glycyrrhizin—a natural substance found in black licorice—as a promising anti-inflammatory candidate. In both lab-grown tissues and mice, this compound showed a reduction in intestinal damage and cell death associated with IBD. This research is significant because IBD affects millions worldwide, and current treatments often fail to provide adequate relief, making these findings a potential breakthrough for more effective therapies."
         },
         {
           "rank": 8,
@@ -177,8 +177,8 @@
           "link": "https://www.nytimes.com/2026/05/09/world/africa/hantavirus-ship-passengers-evacuate.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-10 00:38 UTC",
-          "analysis_zh": "一艘邮轮上的乘客因汉坦病毒的风险，将在西班牙的特内里费岛下船并返回各自的国家。此事件引发了公众对邮轮卫生和安全的关注，尤其是在疫情后，乘客的健康问题变得更加重要。此次撤离可能会影响未来邮轮行业的运营模式和乘客信心。",
-          "analysis_en": "Passengers on a cruise ship will disembark in Tenerife, Spain, due to concerns over hantavirus and will return to their home countries. This incident has raised public awareness about health and safety on cruise ships, especially in the wake of the pandemic, making passenger health a critical issue. The evacuation may influence the operational practices of the cruise industry and affect passenger confidence moving forward."
+          "analysis_zh": "一艘邮轮上的乘客因汉坦病毒的担忧，将在西班牙的特内里费岛下船并返回各自的国家。此次事件引起了公众对邮轮健康安全的关注，尤其是在疫情后人们对传染病的敏感性增加。乘客的安全撤离不仅关系到他们的健康，也可能影响到邮轮行业的复苏和公众对未来邮轮旅行的信心。",
+          "analysis_en": "Passengers on a cruise ship will disembark in Tenerife, Spain, due to concerns over hantavirus and return to their home countries. This incident has raised public awareness about health safety on cruise ships, especially as people have become more sensitive to infectious diseases in the aftermath of the pandemic. The safe evacuation of these passengers not only pertains to their health but may also impact the recovery of the cruise industry and public confidence in future cruise travel."
         }
       ]
     },
@@ -192,8 +192,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260510030946.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-05-10 11:05 UTC",
-          "analysis_zh": "科学家们发现了与心理病态相关的显著大脑差异：具有心理病态特征的人，其大脑中与奖励、动机和决策相关的纹状体平均比没有这些特征的人大约大10%。通过对120名参与者进行MRI扫描和心理评估，研究人员将这一增大的大脑区域与寻求刺激、冲动行为以及更强的刺激驱动联系在一起。这一发现不仅揭示了心理病态行为背后的生物学基础，也可能影响我们对心理健康和犯罪行为的理解。",
-          "analysis_en": "Scientists have uncovered a significant brain difference linked to psychopathy: individuals with psychopathic traits have a striatum, a brain region associated with reward, motivation, and decision-making, that is about 10% larger on average than those without such traits. By conducting MRI scans and psychological assessments on 120 participants, researchers connected this enlarged brain area to thrill-seeking, impulsive behavior, and a heightened drive for stimulation. This finding not only reveals a biological basis for psychopathic behavior but may also influence our understanding of mental health and criminal behavior."
+          "analysis_zh": "科学家发现，心理病态者与其他人之间存在显著的脑部差异。研究表明，具有心理病态特征的人，其与奖励、动机和决策相关的脑区——纹状体，平均比没有这些特征的人大约大10%。这一发现不仅揭示了心理病态者寻求刺激和冲动行为的生物学基础，还可能影响我们对心理健康和犯罪行为的理解。这项研究强调了生物因素在心理病态形成中的重要性，可能为未来的干预措施提供新的思路。",
+          "analysis_en": "Scientists have discovered a significant brain difference between psychopaths and others. The research indicates that individuals with psychopathic traits have a striatum, a brain region associated with reward, motivation, and decision-making, that is on average about 10% larger than that of individuals without such traits. This finding not only reveals the biological basis for the thrill-seeking and impulsive behaviors of psychopaths but may also influence our understanding of mental health and criminal behavior. The study highlights the importance of biological factors in the development of psychopathy, potentially offering new insights for future interventions."
         },
         {
           "rank": 2,
@@ -201,8 +201,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260509210654.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-05-10 07:08 UTC",
-          "analysis_zh": "科学家们发现了神经系统中一个隐藏的“停止抓挠”信号，这个信号能够告诉大脑何时抓挠已经足够。这个发现主要集中在一种名为TRPV4的分子上，它在缓解瘙痒时起到了类似内部制动系统的作用。在模拟湿疹的慢性瘙痒实验中，缺乏这一信号的小鼠抓挠的频率减少，但一旦开始抓挠，就无法停止。这项研究揭示了神经系统如何自然限制抓挠行为，可能有助于解释为什么慢性瘙痒障碍会变得如此顽固。",
-          "analysis_en": "Scientists have discovered a hidden \"stop-scratching\" signal in the nervous system that informs the brain when enough scratching has occurred. This finding centers on a molecule called TRPV4, which functions like an internal braking system for itch relief. In experiments simulating chronic itch similar to eczema, mice lacking this signal scratched less frequently, but once they began scratching, they could not stop. This research reveals how the nervous system naturally regulates scratching behavior and may help explain why chronic itch disorders can become so persistent."
+          "analysis_zh": "科学家们发现了大脑中一个隐藏的“停止抓挠”信号，这一信号能够告诉大脑何时抓挠已经足够。这项发现围绕着一种名为TRPV4的分子展开，它在缓解瘙痒的过程中充当了内部刹车系统的一部分。在与类似湿疹的慢性瘙痒实验中，缺乏这一信号的小鼠抓挠的频率减少，但一旦开始抓挠，就无法停止。这项研究的重要性在于，它揭示了神经系统如何自然限制抓挠行为，并可能帮助我们理解慢性瘙痒障碍为何如此顽固。",
+          "analysis_en": "Scientists have discovered a hidden \"stop-scratching\" signal in the brain that informs it when enough scratching has occurred. This finding focuses on a molecule called TRPV4, which acts as part of an internal braking system for itch relief. In experiments with chronic itch similar to eczema, mice lacking this signal scratched less frequently, but once they began, they couldn't stop. This research is significant as it reveals how the nervous system naturally regulates scratching behavior, potentially shedding light on why chronic itch disorders can be so persistent."
         }
       ]
     },
@@ -216,8 +216,8 @@
           "link": "https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano",
           "source": "The Verge",
           "published_utc": "2026-05-10 20:42 UTC",
-          "analysis_zh": "Bastl Kalimba是一款独特的合成器，虽然它的外形像是一把拇指钢琴，但实际上它的声音主要由合成引擎驱动。尽管其琴弦本身发出的声音不多，但内部麦克风可以为音色增添一些自然的元素。这款乐器的多样性和功能性使其在音乐创作中具有广泛的应用潜力，尤其是对于电子音乐制作人来说。它的内置效果和触控点功能，能够为音乐创作带来新的灵感和可能性。",
-          "analysis_en": "The Bastl Kalimba is a unique synthesizer that resembles a thumb piano, but its sound is primarily generated by a synth engine. While the tines themselves produce minimal sound, an internal microphone can add some acoustic elements. The versatility and functionality of this instrument open up a wide range of possibilities for music creation, particularly for electronic music producers. Its built-in effects and touch points can inspire new ideas and creative directions in music production."
+          "analysis_zh": "Bastl Kalimba是一款独特的合成器，虽然它的外形像拇指钢琴，但实际上它的声音主要由合成引擎驱动。尽管其音叉本身发出的声音不多，但内部麦克风可以为音色增添一些自然的音效。这款设备的多样性使其不仅能模拟真实的拇指钢琴音色，还能提供多种合成器特有的功能和效果。随着音乐科技的不断进步，Bastl Kalimba可能会吸引更多音乐创作者的关注，推动合成器在音乐制作中的应用。",
+          "analysis_en": "The Bastl Kalimba is a unique synthesizer that resembles a thumb piano, but its sound is primarily generated by a synth engine. While the tines produce minimal sound on their own, an internal microphone can add some acoustic flavor. This device's versatility allows it to not only mimic the sound of a real kalimba but also offer various features and effects typical of synthesizers. As music technology continues to advance, the Bastl Kalimba may attract more attention from music creators, potentially influencing the use of synthesizers in music production."
         },
         {
           "rank": 2,
@@ -225,8 +225,8 @@
           "link": "https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review",
           "source": "The Verge",
           "published_utc": "2026-05-10 16:52 UTC",
-          "analysis_zh": "伦敦乐队Ashnymph发布了他们的首张EP《Childhood》，这张专辑将后朋克旋律与克劳特摇滚节奏和工业音乐元素相结合。专辑中梦幻的声线与强烈的舞曲节拍交织在一起，展现了乐队的独特风格。这张EP的发布标志着乐队可能即将迎来重大突破，值得乐迷关注。随着他们的音乐逐渐受到认可，Ashnymph可能会在未来的音乐场景中占据一席之地。",
-          "analysis_en": "London band Ashnymph has released their debut EP titled \"Childhood,\" which blends post-punk melodies with Krautrock rhythms and industrial elements. The EP features dreamy vocals intertwined with strong dance beats, showcasing the band's unique style. The release of this EP signifies a potential breakthrough for the band, making them a group to watch in the music scene. As their music gains recognition, Ashnymph may carve out a significant place in the future of the industry."
+          "analysis_zh": "伦敦乐队Ashnymph发布了他们的首张EP《Childhood》，这张专辑融合了后朋克旋律、克劳特摇滚节奏和工业音乐元素。该专辑的音乐风格既梦幻又充满动感，展现了乐队在音乐上的创新和突破。这一作品的重要性在于，它不仅为乐队的未来发展奠定了基础，也可能吸引更多听众关注这一新兴的音乐风格。随着乐队的不断发展，他们有望在音乐界取得更大的成就。",
+          "analysis_en": "London band Ashnymph has released their debut EP, \"Childhood,\" which blends post-punk melodies, Krautrock rhythms, and industrial elements. The music on this EP is both dreamy and energetic, showcasing the band's innovation and potential breakthrough. This release is significant as it lays the groundwork for the band's future and may attract more listeners to this emerging music style. As the band continues to evolve, they are poised to achieve greater success in the music scene."
         },
         {
           "rank": 3,
@@ -234,8 +234,8 @@
           "link": "https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on",
           "source": "The Verge",
           "published_utc": "2026-05-10 14:00 UTC",
-          "analysis_zh": "Cricut Joy 2是一款售价99美元的智能切割和绘图机器，最近获得了一位用户的青睐。尽管她对能提升创造力的产品持怀疑态度，但在使用这款机器后，她发现它帮助她重新找回了创作的乐趣。尽管这款小型设备并不完美，但其功能和应用程序提供的模板正是她所需要的。这一产品的推出不仅为手工爱好者提供了新的创作工具，也可能影响到更多人重新投入到手工艺和创意活动中。",
-          "analysis_en": "The Cricut Joy 2 is a smart cutting and drawing machine priced at $99, which recently won over a user who had been skeptical about products claiming to enhance creativity. After using the machine, she found that it helped her rediscover her creative spark. While the small device isn't perfect, its capabilities and the templates provided by the app were exactly what she needed. The introduction of this product not only offers a new tool for craft enthusiasts but may also encourage more people to engage in crafting and creative activities."
+          "analysis_zh": "最近，Cricut推出了一款售价99美元的智能切割和绘图机器Cricut Joy 2，帮助用户重新找回创作的乐趣。尽管我对声称能提升创造力的产品一直持怀疑态度，但这款机器让我改变了看法。它的功能和应用程序提供的模板让我能够轻松制作贴纸、贺卡和书签等手工艺品。这款设备不仅适合初学者，还能为那些在创作过程中感到压力的人提供快速的成就感，可能会对他们的心理健康产生积极影响。",
+          "analysis_en": "Recently, Cricut launched the Cricut Joy 2, a smart cutting and drawing machine priced at $99, which helps users rediscover their creative spark. Although I have always been skeptical of products that claim to enhance creativity, this machine changed my perspective. Its capabilities and the templates provided by the app made it easy for me to create stickers, cards, and bookmarks. This device is not only suitable for beginners but also offers quick wins for those feeling pressure in their creative pursuits, potentially having a positive impact on their mental health."
         },
         {
           "rank": 4,
@@ -243,8 +243,8 @@
           "link": "https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv",
           "source": "The Verge",
           "published_utc": "2026-05-10 14:00 UTC",
-          "analysis_zh": "Substack，这个曾经备受瞩目的新闻通讯平台，正在失去一批作家，他们纷纷转向一些鲜为人知的竞争平台。最近，Substack上最受欢迎的出版物之一《The Ankler》已迁移到一个能够提供更多网站控制权的平台。作家们对Substack的定价模式和有限的自定义功能感到厌倦，这可能会影响到平台的创作者生态，导致更多人才流失。",
-          "analysis_en": "Substack, once a highly popular newsletter platform, is losing a number of writers to lesser-known rival platforms. Recently, one of Substack's most popular publications, The Ankler, migrated to a platform that offers greater control over its site. Writers are growing frustrated with Substack's pricing model and limited customization options, which could impact the creator ecosystem on the platform and lead to further talent drain."
+          "analysis_zh": "Substack，这个曾经备受瞩目的新闻通讯平台，正失去一批作家，他们纷纷转向一些鲜为人知的竞争平台。最近，Substack上最受欢迎的出版物之一《The Ankler》已转向一个能提供更多网站控制权的平台。作家们对Substack的定价模式和有限的自定义功能感到厌倦，这可能会影响平台的创作者生态，进一步加剧其人才流失。",
+          "analysis_en": "Substack, once a highly popular newsletter platform, is losing a group of writers to lesser-known rival platforms. Recently, one of Substack's most popular publications, The Ankler, switched to a platform that offers more control over its site. Writers are growing tired of Substack's pricing model and limited customization options, which could impact the creator ecosystem on the platform and exacerbate its talent drain."
         },
         {
           "rank": 5,
@@ -252,8 +252,8 @@
           "link": "https://www.theverge.com/column/926250/netflix-tv-games-strategy",
           "source": "The Verge",
           "published_utc": "2026-05-10 12:00 UTC",
-          "analysis_zh": "Netflix最近在游戏领域取得了重大进展，推出了一系列基于电视的游戏，包括《Boggle》和其他聚会游戏。这些新游戏的设计使得家庭成员可以轻松参与，甚至不需要控制器，只需使用自己的智能手机。此举标志着Netflix在尝试进入游戏市场五年后，终于找到了适合其平台的游戏模式。这不仅可能吸引更多用户，也可能改变流媒体服务的竞争格局，使其在娱乐行业中更具吸引力。",
-          "analysis_en": "Netflix has recently made significant strides in the gaming sector by launching a series of TV-based games, including Boggle and other party games. These new games are designed for easy participation among family members, requiring no controllers—players can simply use their smartphones. This move signifies that after five years of attempts to enter the gaming market, Netflix may have finally found a gaming model that suits its platform. This could not only attract more users but also alter the competitive landscape of streaming services, making it more appealing in the entertainment industry."
+          "analysis_zh": "Netflix最近在游戏领域取得了显著进展，推出了一系列基于电视的游戏，如Boggle和乐高派对等。这些游戏的设计使得家庭成员可以轻松参与，甚至不需要额外的控制器，只需使用自己的智能手机即可。这一转变对于Netflix来说至关重要，因为它标志着该公司在尝试进入游戏市场五年后，终于找到了适合其流媒体平台的游戏模式。这可能会影响Netflix的用户留存率和收入来源，进一步巩固其在娱乐行业的地位。",
+          "analysis_en": "Netflix has recently made significant strides in the gaming sector by launching a series of TV-based games, including Boggle and Lego Party. These games are designed for easy family participation, requiring no extra controllers—players simply use their smartphones. This shift is crucial for Netflix, as it signifies that after five years of trying to break into the gaming market, the company has finally found a gaming model that fits its streaming platform. This could impact Netflix's user retention and revenue streams, further solidifying its position in the entertainment industry."
         },
         {
           "rank": 6,
@@ -261,8 +261,8 @@
           "link": "https://www.theverge.com/tech/926067/vivos-x300-ultra-has-the-best-cameras-in-any-phone",
           "source": "The Verge",
           "published_utc": "2026-05-10 11:00 UTC",
-          "analysis_zh": "Vivo最近推出的X300 Ultra手机在相机性能上表现出色，成为市场上最好的手机相机之一。与小米和OPPO等竞争对手将重心放在长焦镜头不同，Vivo选择了提升其35mm主摄像头的性能，并在超广角镜头和专业视频功能上也做了显著改进。这种均衡的相机系统使得X300 Ultra在多种拍摄场景下都表现出色，具有更高的实用性。这一创新可能会影响未来手机相机的发展方向，促使其他品牌重新思考其相机设计策略。",
-          "analysis_en": "Vivo recently launched the X300 Ultra, which has emerged as one of the best camera phones on the market. Unlike competitors like Xiaomi and Oppo that focus heavily on telephoto lenses, Vivo has chosen to enhance its 35mm main camera while also making significant improvements to its ultrawide lens and professional video features. This balanced camera system allows the X300 Ultra to excel in various shooting scenarios, offering greater versatility. This innovation may influence the future direction of smartphone cameras, prompting other brands to rethink their camera design strategies."
+          "analysis_zh": "Vivo最近发布的X300 Ultra手机在相机性能上表现出色，成为市场上最好的手机相机之一。与小米和OPPO等竞争对手将重心放在长焦镜头不同，Vivo选择强化其35mm主摄像头，并在超广角镜头和专业视频功能上也进行了显著提升。这种平衡的相机系统使得X300 Ultra在多种拍摄场景中都能表现出色，展现了Vivo在手机摄影领域的独特创新。这一进展不仅提升了消费者的拍照体验，也可能促使其他品牌重新思考相机设计的方向。",
+          "analysis_en": "Vivo's recently launched X300 Ultra smartphone has emerged as one of the best camera phones on the market. Unlike competitors like Xiaomi and Oppo, which have focused heavily on telephoto lenses, Vivo has chosen to enhance its 35mm main camera while also significantly improving its ultrawide lens and professional video features. This balanced camera system allows the X300 Ultra to excel in various shooting scenarios, showcasing Vivo's unique innovation in mobile photography. This development not only enhances the consumer photography experience but may also prompt other brands to rethink their camera design strategies."
         }
       ]
     },
@@ -272,57 +272,57 @@
       "items": [
         {
           "rank": 1,
+          "title": "Maya Lin Connects Nature to a New Manhattan Skyscraper and Beyond",
+          "link": "https://www.nytimes.com/2026/05/10/arts/design/maya-lin-manhattan-skyscraper.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-05-10 21:52 UTC",
+          "analysis_zh": "著名艺术家和设计师玛雅·林在纽约和芝加哥的新作品中，汲取了她对自然的终身热爱作为灵感。这一创作不仅展示了她对环境的关注，也反映了当代建筑与自然之间的紧密联系。这一项目的重要性在于，它可能引领未来建筑设计更加注重可持续性和生态友好性，激励其他设计师在创作中融入自然元素。",
+          "analysis_en": "Renowned artist and designer Maya Lin drew inspiration from her lifelong love of the environment for her new works in New York and Chicago. This creation not only highlights her concern for nature but also reflects the close connection between contemporary architecture and the natural world. The significance of this project lies in its potential to lead future architectural designs to prioritize sustainability and eco-friendliness, encouraging other designers to incorporate natural elements into their work."
+        },
+        {
+          "rank": 2,
           "title": "india pavilion explores memories of home through thread, bamboo, and earth in venice",
           "link": "https://www.designboom.com/art/india-pavilion-venice-biennale-2026-alwar-balasubramaniam-sumakshi-singh-ranjani-shettar-asim-waqif-and-skarma-sonam-tashi/",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-05-10 20:00 UTC",
-          "analysis_zh": "印度馆将在2026年威尼斯双年展上展出，主题为“距离的地理”，通过土壤、线和竹子来追溯家的记忆。这一展览不仅展示了印度丰富的文化遗产，也反映了人们对家的思考和情感。此类展览有助于加深国际社会对印度文化的理解，并可能影响未来的艺术交流与合作。",
-          "analysis_en": "The India Pavilion will be featured at the 2026 Venice Biennale, focusing on the theme \"Geographies of Distance,\" which explores the memories of home through earth, thread, and bamboo. This exhibition showcases India's rich cultural heritage and reflects on people's thoughts and emotions about home. Such exhibitions can deepen the international community's understanding of Indian culture and may influence future artistic exchanges and collaborations."
+          "analysis_zh": "印度馆将在2026年威尼斯双年展上展出，主题为“距离的地理”，通过土壤、线和竹子探索家的记忆。这一展览不仅展示了印度丰富的文化遗产，也反映了人们对家的深刻情感。这样的艺术表达方式有助于增强观众对家乡的认同感，并可能激发更多关于身份和归属的讨论。",
+          "analysis_en": "The India Pavilion will be featured at the 2026 Venice Biennale, focusing on the theme \"Geographies of Distance,\" which explores memories of home through earth, thread, and bamboo. This exhibition not only showcases India's rich cultural heritage but also reflects deep emotional connections to the concept of home. Such artistic expressions can enhance viewers' sense of belonging and may spark further discussions about identity and belonging."
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Review: ‘The Receptionist’ Can’t Help You Today",
           "link": "https://www.nytimes.com/2026/05/10/theater/the-receptionist-review.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-10 18:23 UTC",
-          "analysis_zh": "《接待员》是一部亚当·博克的黑色喜剧，近期复排却显得乏味，缺乏独特性和深度。这部作品反映了现代职场的无奈与荒诞，但在表现上未能引起观众的共鸣。这样的复排不仅影响了观众的体验，也可能导致对类似题材作品的关注度降低。",
-          "analysis_en": "\"The Receptionist,\" a revival of Adam Bock's dark comedy, has recently been criticized for being stale and lacking in specificity and depth. The play aims to reflect the absurdity and helplessness of modern office life, yet it fails to resonate with audiences. This lackluster revival may not only diminish the audience's experience but could also lead to a decreased interest in similar themed works."
+          "analysis_zh": "《接待员》的复兴版本显得乏味，缺乏具体性和冲击力。这部亚当·博克的黑色喜剧原本旨在揭示办公室生活的荒谬，但此次演出未能有效传达其深层含义。这一现象反映了当代戏剧在创作和演绎上的挑战，可能会影响观众对类似题材作品的期待和接受度。",
+          "analysis_en": "The revival of \"The Receptionist\" comes across as stale and lacks the specificity and impact needed to resonate with audiences. Originally, Adam Bock's dark comedy aimed to highlight the absurdities of office life, but this production fails to convey its deeper meanings effectively. This situation reflects the challenges contemporary theater faces in both creation and performance, which may affect audience expectations and acceptance of similar themed works."
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "New Books Provide Divergent Views of the Art Market",
           "link": "https://www.nytimes.com/2026/05/10/arts/design/books-art-market-2026.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-10 17:37 UTC",
-          "analysis_zh": "近期出版的三本新书为艺术市场提供了不同的视角，包括一部全面的非虚构作品、一部幽默的回忆录和一部双人传记。这些书籍的发布恰逢纽约艺术周，反映了艺术交易的复杂性和多样性。它们不仅为艺术爱好者和收藏家提供了新的见解，也可能影响公众对艺术市场的理解和参与方式。",
-          "analysis_en": "Three new books have recently been published, offering divergent perspectives on the art market, including a comprehensive nonfiction work, a cheeky memoir, and a dual biography. Their release coincides with New York Art Week, highlighting the complexity and diversity of art transactions. These books not only provide fresh insights for art enthusiasts and collectors but may also influence the public's understanding and engagement with the art market."
+          "analysis_zh": "最近出版的三本新书为艺术市场提供了不同的视角。这些书籍包括一部全面的非虚构作品、一部幽默的回忆录和一部双人传记，恰逢纽约艺术周的到来。这些书的发布不仅丰富了公众对艺术市场的理解，也可能影响收藏家和投资者的决策。随着艺术市场的不断变化，这些不同的观点将促使人们重新思考艺术品的价值和购买动机。",
+          "analysis_en": "Three new books have recently been published, offering contrasting perspectives on the art market. These include a comprehensive nonfiction work, a witty memoir, and a dual biography, all released just in time for New York Art Week. The publication of these books not only enhances public understanding of the art market but may also influence the decisions of collectors and investors. As the art market continues to evolve, these diverse viewpoints will encourage a reevaluation of the value and motivations behind art purchases."
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Michael Joo Steps Into the Art World’s Spotlight",
           "link": "https://www.nytimes.com/2026/05/10/arts/design/michael-joo-frieze-new-york.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-10 17:34 UTC",
-          "analysis_zh": "迈克尔·朱近期在多个艺术展览中崭露头角，从纽约和旧金山湾区到地中海岛屿和威尼斯。他的作品引起了广泛关注，标志着他在艺术界的重要地位。这一现象不仅展示了他的艺术才华，也反映了当代艺术市场的多样性和全球化趋势。朱的成功可能会激励更多艺术家探索国际舞台，推动艺术界的进一步发展。",
-          "analysis_en": "Michael Joo is stepping into the spotlight with multiple exhibitions, spanning from New York and the San Francisco Bay Area to a Mediterranean island and Venice. His work has garnered significant attention, highlighting his important role in the art world. This trend not only showcases his artistic talent but also reflects the diversity and globalization of the contemporary art market. Joo's success may inspire more artists to explore international platforms, potentially advancing the art community as a whole."
+          "analysis_zh": "迈克尔·朱最近在艺术界引起了广泛关注，他的作品在纽约、旧金山湾区、地中海岛屿和威尼斯等多个展览中展出。这一系列展览不仅展示了他的艺术才华，也反映了当代艺术的多样性和全球化趋势。朱的崛起可能会激励更多艺术家探索跨文化的创作方式，并推动艺术市场的进一步发展。",
+          "analysis_en": "Michael Joo has recently garnered significant attention in the art world, with his works showcased in multiple exhibitions across New York, the San Francisco Bay Area, a Mediterranean island, and Venice. This series of exhibitions not only highlights his artistic talent but also reflects the diversity and globalization of contemporary art. Joo's rise may inspire more artists to explore cross-cultural creative approaches and further stimulate the development of the art market."
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "A Monument to Chocolate Is Wrapped in Layers of Mexican History",
           "link": "https://www.nytimes.com/2026/05/10/arts/design/mexico-chocolate-museum.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-10 17:13 UTC",
-          "analysis_zh": "新开幕的可可与巧克力博物馆结合了一座殖民时期的房屋和现代建筑，坐落在一个与阿兹特克文化有关的地方。这一博物馆不仅展示了巧克力的历史，还反映了墨西哥丰富的文化遗产。它的重要性在于通过巧克力这一全球喜爱的食物，促进对墨西哥历史的理解和欣赏。这样的文化场所可能会吸引更多游客，推动当地经济发展。",
-          "analysis_en": "The newly opened Museum of Cacao & Chocolate combines a colonial house with a contemporary addition, situated on a site linked to Aztec culture. This museum not only showcases the history of chocolate but also reflects Mexico's rich cultural heritage. Its significance lies in promoting an understanding and appreciation of Mexican history through the lens of chocolate, a globally beloved food. Such cultural venues may attract more tourists and boost the local economy."
-        },
-        {
-          "rank": 6,
-          "title": "Hugh Jackman in a Truly PG-Rated Murder Mystery",
-          "link": "https://www.nytimes.com/video/movies/100000010852444/hugh-jackman-in-a-truly-pg-rated-murder-mystery.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-05-10 15:49 UTC",
-          "analysis_zh": "休·杰克曼主演的电影《羊群侦探》是一部真正的PG级谋杀悬疑片，评论家阿丽莎·威尔金森对此进行了评价。她指出，这部电影的成功在于它以轻松幽默的方式处理了复杂的谋杀情节，适合各个年龄段的观众。此类电影的出现不仅丰富了电影市场的选择，也为家庭观影提供了更多的可能性，反映了观众对更健康娱乐内容的需求。",
-          "analysis_en": "Hugh Jackman stars in \"The Sheep Detectives,\" a truly PG-rated murder mystery, which was reviewed by critic Alissa Wilkinson. She highlights the film's success in handling a complex murder plot with a light-hearted and humorous approach, making it suitable for audiences of all ages. The emergence of such films not only diversifies the options available in the movie market but also provides more opportunities for family-friendly viewing, reflecting the audience's demand for healthier entertainment content."
+          "analysis_zh": "新开幕的可可与巧克力博物馆结合了一座殖民时期的房屋与现代建筑，坐落在一个充满历史的阿兹特克遗址上。这座博物馆不仅展示了巧克力的制作过程，还反映了墨西哥丰富的文化遗产。它的重要性在于，它不仅是对巧克力的致敬，更是对墨西哥历史的重新审视，可能会吸引更多游客了解当地的文化和历史。",
+          "analysis_en": "The newly opened Museum of Cacao & Chocolate combines a colonial house with a contemporary addition, situated on a historically significant Aztec site. This museum not only showcases the chocolate-making process but also reflects Mexico's rich cultural heritage. Its significance lies in paying homage to chocolate while re-examining Mexican history, potentially attracting more visitors to learn about the local culture and history."
         },
         {
           "rank": 7,
@@ -330,8 +330,8 @@
           "link": "https://www.dezeen.com/2026/05/10/proposal-for-sustainable-agriculture-factory-among-projects-from-uwe-bristol/",
           "source": "Dezeen",
           "published_utc": "2026-05-10 15:00 UTC",
-          "analysis_zh": "在布里斯托大学的项目中，提出了一项面向2050年的可持续农业工厂设计，使用了天然材料如粪便灰泥和茅草。这一提案不仅展示了未来农业的创新思路，也反映了对环境保护的重视。随着全球对可持续发展的关注加剧，这样的项目可能会影响未来农业的建设和运营模式。",
-          "analysis_en": "A proposal for a sustainable agriculture factory designed for the year 2050 has been presented by UWE Bristol, utilizing natural materials such as manure plaster and thatch. This initiative highlights innovative approaches to future agriculture while emphasizing the importance of environmental sustainability. As global attention on sustainable development increases, such projects could significantly influence the construction and operational models of future agricultural facilities."
+          "analysis_zh": "近日，布里斯托大学的学生们提出了一项2050年的可持续农业工厂设计方案，该工厂将采用粪便灰泥和茅草等自然材料建造。这一提案不仅展示了未来农业的创新思维，也强调了可持续发展在现代社会中的重要性。这样的项目可能会影响农业生产方式，推动更环保的建筑和生产实践。",
+          "analysis_en": "Recently, students from UWE Bristol presented a proposal for a sustainable agriculture factory designed for the year 2050, which will be constructed using natural materials like manure plaster and thatch. This proposal not only showcases innovative thinking for the future of agriculture but also highlights the significance of sustainability in modern society. Such projects could influence agricultural production methods and promote more environmentally friendly building and production practices."
         },
         {
           "rank": 8,
@@ -339,8 +339,8 @@
           "link": "https://www.designboom.com/architecture/seamless-architecture-book-continuous-surfaces-bio-inspired-design-research-fujiki-studio-fads/",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-05-10 14:30 UTC",
-          "analysis_zh": "一本名为《无缝建筑》的书探讨了通过生物启发设计实现的连续表面概念。这本书将建筑与生物皮肤系统进行类比，强调了自然界在设计中的重要性。这一研究不仅为建筑师提供了新的设计思路，也可能推动可持续建筑材料的开发，从而影响未来建筑行业的发展方向。",
-          "analysis_en": "A book titled \"Seamless Architecture\" explores the concept of continuous surfaces through bio-inspired design. It draws parallels between architecture and biological skin systems, highlighting the significance of nature in design. This research not only offers architects new design perspectives but may also encourage the development of sustainable building materials, potentially influencing the future direction of the architecture industry."
+          "analysis_zh": "一本名为《无缝建筑》的新书探讨了通过生物启发设计实现的连续表面概念。该书将建筑与生物皮肤系统进行了类比，强调了自然界在设计中的重要性。这一研究不仅为建筑设计提供了新的视角，也可能影响未来建筑材料和结构的创新方向。",
+          "analysis_en": "A new book titled \"Seamless Architecture\" explores the concept of continuous surfaces through bio-inspired design. It draws parallels between architecture and biological skin systems, highlighting the significance of nature in design. This research not only offers a fresh perspective on architectural design but may also influence the innovation of building materials and structures in the future."
         },
         {
           "rank": 9,
@@ -348,8 +348,8 @@
           "link": "https://www.nytimes.com/2026/05/10/arts/television/on-snl-brett-kavanaugh-kash-patel-and-pete-hegseth-walk-into-a-bar.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-10 12:55 UTC",
-          "analysis_zh": "在最新一期《周六夜现场》中，马特·达蒙和阿齐兹·安萨里重返他们曾经扮演的角色，与科林·乔斯特共同出演。这一集由达蒙主持，吸引了观众的广泛关注。此类节目不仅为观众提供娱乐，还通过幽默的方式反映社会热点话题。此次演出可能会引发对政治和社会问题的进一步讨论，尤其是在当前的政治气候下。",
-          "analysis_en": "In the latest episode of \"Saturday Night Live,\" Matt Damon and Aziz Ansari returned to their previous roles alongside Colin Jost. Hosted by Damon, this episode garnered significant attention from viewers. Such programs not only entertain but also reflect on pressing social issues through humor. This performance may spark further discussions on political and social matters, especially given the current political climate."
+          "analysis_zh": "在最新一期的《周六夜现场》中，马特·达蒙和阿齐兹·安萨里重返他们曾经扮演的角色，与科林·乔斯特共同出演。这一集由达蒙主持，吸引了观众的广泛关注。这不仅展示了他们的喜剧才华，也反映了当前政治环境的紧张局势。这样的节目能够引发公众对社会和政治问题的讨论，影响观众的观点和情感。",
+          "analysis_en": "In the latest episode of \"Saturday Night Live,\" Matt Damon and Aziz Ansari returned to their previous roles alongside Colin Jost. Hosted by Damon, this episode garnered significant attention from viewers. It not only showcased their comedic talents but also reflected the tense political climate. Such programs can spark public discussions on social and political issues, influencing viewers' perspectives and emotions."
         },
         {
           "rank": 10,
@@ -357,8 +357,8 @@
           "link": "https://www.nytimes.com/2026/05/08/arts/design/matthew-wong-venice-exhibition.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-10 12:26 UTC",
-          "analysis_zh": "著名画家马修·黄在35岁时不幸去世，正值他艺术生涯的巅峰。为了保护儿子的艺术遗产，他的母亲莫妮塔·黄积极推动马修的作品在威尼斯等地展出。这一举措不仅有助于提升马修的知名度，也让更多人了解他的艺术风格和情感深度。马修的作品在艺术界的影响力可能会因此而持续扩大，激励更多年轻艺术家追求自己的梦想。",
-          "analysis_en": "Renowned painter Matthew Wong tragically passed away at the age of 35, just as his career was reaching new heights. His mother, Monita Wong, is actively ensuring that his work is showcased, particularly in Venice. This effort not only helps to elevate Matthew's profile but also allows a wider audience to appreciate his artistic style and emotional depth. As a result, Matthew's influence in the art world may continue to grow, inspiring more young artists to pursue their dreams."
+          "analysis_zh": "画家马修·黄在35岁时去世时正处于事业的上升期。他的母亲莫妮塔·黄正在努力保护他的艺术遗产，确保他的作品得到展示，尤其是在威尼斯展览上。这一举动不仅是对儿子的纪念，也反映了艺术界对马修作品的重视。通过这样的努力，莫妮塔希望能够让更多人认识到马修的才华和他所传达的情感。",
+          "analysis_en": "Painter Matthew Wong was on the rise when he passed away at the age of 35. His mother, Monita Wong, is working to protect his artistic legacy by ensuring his work is showcased, particularly at exhibitions in Venice. This effort serves not only as a tribute to her son but also highlights the art community's appreciation for Matthew's work. Through her actions, Monita hopes to introduce more people to Matthew's talent and the emotions he conveyed through his art."
         }
       ]
     }
