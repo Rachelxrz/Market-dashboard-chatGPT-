@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10 14:59:19 UTC",
+  "generated_at": "2026-05-10 21:27:58 UTC",
   "run_mode": "morning",
   "regime": "Neutral",
   "risk_score": 2,
@@ -19,11 +19,11 @@
     },
     "QQQ": {
       "label": "QQQ",
-      "price": 711.23,
-      "change": 47.35000000000002,
-      "change_pct": 7.132313068626864,
-      "change_3d": 29.620014648437518,
-      "change_3d_pct": 4.34559576370643,
+      "price": 711.063,
+      "change": 47.18299999999999,
+      "change_pct": 7.107157920106043,
+      "change_3d": 29.453014648437488,
+      "change_3d_pct": 4.321094948931263,
       "note": "科技成长代理",
       "ok": true
     },
@@ -346,7 +346,7 @@
     },
     {
       "symbol": "LITE",
-      "price": 903.8,
+      "price": 903.43,
       "ma20": 887.0224975585937,
       "ma50": 788.2053991699219,
       "above_20ma": true,
@@ -391,7 +391,7 @@
     },
     {
       "symbol": "NVDA",
-      "price": 215.2,
+      "price": 215.217,
       "ma20": 203.18149948120117,
       "ma50": 188.6509994506836,
       "above_20ma": true,
@@ -511,7 +511,7 @@
     },
     {
       "symbol": "NBIS",
-      "price": 177.05,
+      "price": 176.927,
       "ma20": 160.27350082397462,
       "ma50": 129.5887008666992,
       "above_20ma": true,
@@ -639,8 +639,8 @@
     }
   },
   "actions": {
-    "one_liner_zh": "当前结构为 Neutral，风险等级 2/4；VIX 17.19，MOVE 67.25，QQQ +7.13%，GLD +0.12%，VLCC 3天 -0.52%。 当前为早间版。",
-    "one_liner_en": "The current regime is Neutral with a risk score of 2/4; VIX 17.19, MOVE 67.25, QQQ +7.13%, GLD +0.12%, VLCC 3d -0.52%. Current mode: Morning Edition.",
+    "one_liner_zh": "当前结构为 Neutral，风险等级 2/4；VIX 17.19，MOVE 67.25，QQQ +7.11%，GLD +0.12%，VLCC 3天 -0.52%。 当前为早间版。",
+    "one_liner_en": "The current regime is Neutral with a risk score of 2/4; VIX 17.19, MOVE 67.25, QQQ +7.11%, GLD +0.12%, VLCC 3d -0.52%. Current mode: Morning Edition.",
     "core_zh": "核心仓先不动，维持既有框架，避免因为单日波动频繁切换。",
     "core_en": "Leave core positions unchanged for now and maintain the current framework rather than reacting to one-day volatility.",
     "trend_zh": "趋势仓更适合聚焦少数强势资产，弱势科技或高波动标的不要盲目加仓。",
