@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-11 21:51:45 UTC",
-  "generated_at_unix": 1778536305,
+  "generated_at": "2026-05-11 22:34:50 UTC",
+  "generated_at_unix": 1778538890,
   "window": {
-    "from_utc": "2026-05-10 21:51:45 UTC",
-    "to_utc": "2026-05-11 21:51:45 UTC",
+    "from_utc": "2026-05-10 22:34:50 UTC",
+    "to_utc": "2026-05-11 22:34:50 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,93 +14,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "OpenAI trial: Nadella says Musk never raised concerns to him about Microsoft investment",
-          "link": "https://www.cnbc.com/2026/05/11/microsoft-ceo-satya-nadella-musk-altman-trial.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-05-11 21:49 UTC",
-          "analysis_zh": "在最近的OpenAI诉讼中，埃隆·马斯克将微软列为被告，声称该公司在投资OpenAI时存在不当行为。微软首席执行官萨提亚·纳德拉表示，马斯克从未向他提出过任何关于微软投资的担忧。这一事件引发了对科技公司之间投资关系的关注，尤其是在人工智能领域。此案的进展可能会影响未来科技企业的投资策略和合作模式。",
-          "analysis_en": "In a recent lawsuit involving OpenAI, Elon Musk named Microsoft as a defendant, alleging misconduct related to its investment in OpenAI. Microsoft CEO Satya Nadella stated that Musk never raised any concerns with him regarding the investment. This situation has drawn attention to the investment relationships between tech companies, particularly in the field of artificial intelligence. The outcome of this case could influence future investment strategies and collaboration models among technology firms."
+          "title": "Oil price charts produced a pattern not seen in 36 years. What happened last time?",
+          "link": "https://www.marketwatch.com/story/oil-price-charts-produced-a-pattern-not-seen-in-36-years-what-happened-last-time-763cdc40?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-05-11 22:29 UTC",
+          "analysis_zh": "布伦特原油期货图表出现了36年来未曾见过的技术模式。这一现象引起了投资者的广泛关注，因为它可能预示着未来油价的重大变化。历史上类似的模式曾导致油价的剧烈波动，因此市场参与者正在密切关注这一趋势的发展，以便做出相应的投资决策。",
+          "analysis_en": "Brent crude futures charts have revealed a technical pattern not seen in 36 years. This development has garnered significant attention from investors, as it may indicate substantial changes in oil prices ahead. Historically, similar patterns have led to drastic fluctuations in oil prices, prompting market participants to closely monitor this trend to make informed investment decisions."
         },
         {
           "rank": 2,
+          "title": "Byron Allen to buy majority stake in BuzzFeed for $120 million, shares nearly triple",
+          "link": "https://www.investing.com/news/stock-market-news/byron-allen-to-buy-majority-stake-in-buzzfeed-for-120-million-shares-nearly-triple-4678697",
+          "source": "Stock Market News",
+          "published_utc": "2026-05-11 22:18 UTC",
+          "analysis_zh": "拜伦·艾伦（Byron Allen）宣布将以1.2亿美元收购BuzzFeed的控股权，此消息引发了市场的强烈反响，BuzzFeed的股价几乎上涨了三倍。这笔交易不仅表明了艾伦对数字媒体的信心，也可能改变BuzzFeed的运营方向和发展战略。随着投资者对数字内容的兴趣增加，这一收购可能会吸引更多的资金流入相关领域，进一步推动行业的整合与创新。",
+          "analysis_en": "Byron Allen has announced his intention to acquire a majority stake in BuzzFeed for $120 million, which has led to a significant market reaction, with BuzzFeed's shares nearly tripling in value. This deal not only reflects Allen's confidence in digital media but could also alter BuzzFeed's operational direction and growth strategy. As investor interest in digital content rises, this acquisition may attract more capital into the sector, further driving industry consolidation and innovation."
+        },
+        {
+          "rank": 3,
+          "title": "GitLab announces restructuring plan, shares slide",
+          "link": "https://www.investing.com/news/stock-market-news/gitlab-announces-restructuring-plan-shares-slide-4678673",
+          "source": "Stock Market News",
+          "published_utc": "2026-05-11 22:07 UTC",
+          "analysis_zh": "GitLab最近宣布了一项重组计划，导致其股票价格大幅下跌。这一决定反映了公司在面对市场竞争和内部挑战时的应对策略。重组可能会影响公司的运营效率和未来的盈利能力，同时也引发了投资者对其长期前景的担忧。",
+          "analysis_en": "GitLab recently announced a restructuring plan, which led to a significant drop in its stock price. This decision reflects the company's strategy to address market competition and internal challenges. The restructuring may impact operational efficiency and future profitability, raising concerns among investors about the company's long-term prospects."
+        },
+        {
+          "rank": 4,
+          "title": "OpenAI trial: Nadella says Musk never raised concerns to him about Microsoft investment",
+          "link": "https://www.cnbc.com/2026/05/11/microsoft-ceo-satya-nadella-musk-altman-trial.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-05-11 22:03 UTC",
+          "analysis_zh": "在一起引人注目的诉讼中，埃隆·马斯克将微软列为对OpenAI的被告，指控其在投资方面存在不当行为。微软首席执行官萨提亚·纳德拉表示，马斯克从未向他提出过任何关于微软投资的担忧。这一事件不仅揭示了科技巨头之间的复杂关系，也可能影响到未来的投资决策和合作模式，尤其是在人工智能领域。随着诉讼的进展，业界将密切关注其对市场和投资者信心的潜在影响。",
+          "analysis_en": "In a notable lawsuit, Elon Musk has named Microsoft as a defendant against OpenAI, alleging misconduct related to its investments. Microsoft CEO Satya Nadella stated that Musk never raised any concerns about Microsoft's investment with him. This incident highlights the complex relationships among tech giants and could influence future investment decisions and collaboration models, particularly in the field of artificial intelligence. As the lawsuit progresses, the industry will closely monitor its potential impact on market dynamics and investor confidence."
+        },
+        {
+          "rank": 5,
+          "title": "Netflix sued by Texas for allegedly spying on children, addicting users",
+          "link": "https://www.investing.com/news/stock-market-news/netflix-sued-by-texas-for-allegedly-spying-on-consumers-4677472",
+          "source": "Stock Market News",
+          "published_utc": "2026-05-11 22:00 UTC",
+          "analysis_zh": "德克萨斯州对Netflix提起诉讼，指控其涉嫌监视儿童并使用户上瘾。这一事件引发了广泛关注，因为它涉及儿童隐私和心理健康问题。若诉讼成功，可能会对Netflix的商业模式产生重大影响，并促使其他科技公司重新审视其用户数据使用方式。",
+          "analysis_en": "Texas has filed a lawsuit against Netflix, accusing the company of allegedly spying on children and addicting users. This situation has garnered significant attention as it raises concerns about children's privacy and mental health. If the lawsuit is successful, it could have a major impact on Netflix's business model and may prompt other tech companies to reevaluate how they use user data."
+        },
+        {
+          "rank": 6,
+          "title": "Tobacco company BAT’s criminal case for violating North Korea sanctions dismissed by US judge",
+          "link": "https://www.investing.com/news/stock-market-news/tobacco-company-bats-criminal-case-for-violatingnorth-korea-sanctions-dismissed-by-us-judge-4678641",
+          "source": "Stock Market News",
+          "published_utc": "2026-05-11 21:54 UTC",
+          "analysis_zh": "美国法官驳回了烟草公司英国美国烟草公司（BAT）因违反对朝鲜制裁而提起的刑事案件。这一裁决引发了广泛关注，因为它可能会影响国际制裁的执行力度，尤其是在涉及朝鲜的情况下。此案的结果不仅关乎BAT的法律责任，也可能对其他企业在遵守国际制裁方面产生示范效应。",
+          "analysis_en": "A U.S. judge has dismissed a criminal case against British American Tobacco (BAT) for violating sanctions against North Korea. This ruling has garnered significant attention as it could impact the enforcement of international sanctions, particularly regarding North Korea. The outcome of this case not only pertains to BAT's legal accountability but may also set a precedent for how other companies adhere to international sanctions."
+        },
+        {
+          "rank": 7,
+          "title": "OpenAI unveils Daybreak initiative to fortify software security through AI",
+          "link": "https://www.investing.com/news/stock-market-news/openai-unveils-daybreak-initiative-to-fortify-software-security-through-ai-4678638",
+          "source": "Stock Market News",
+          "published_utc": "2026-05-11 21:51 UTC",
+          "analysis_zh": "OpenAI最近推出了名为“Daybreak”的新计划，旨在通过人工智能增强软件安全性。此举不仅展示了OpenAI在技术创新方面的领导地位，也反映了当前网络安全形势的严峻性。随着网络攻击日益增多，企业和个人对安全解决方案的需求也在不断上升。Daybreak计划可能会改变软件开发和安全防护的方式，促进整个行业的进步。",
+          "analysis_en": "OpenAI recently launched a new initiative called \"Daybreak,\" aimed at enhancing software security through artificial intelligence. This move not only showcases OpenAI's leadership in technological innovation but also highlights the growing severity of current cybersecurity threats. As cyberattacks become more frequent, the demand for security solutions among businesses and individuals continues to rise. The Daybreak initiative could transform the way software is developed and secured, driving progress across the industry."
+        },
+        {
+          "rank": 8,
+          "title": "Stocks edge up ahead of US-China meeting; oil rallies on US-Iran stalemate",
+          "link": "https://www.investing.com/news/stock-market-news/share-futures-ease-dollar-gains-as-gulf-talks-teeter-4674873",
+          "source": "Stock Market News",
+          "published_utc": "2026-05-11 21:49 UTC",
+          "analysis_zh": "在美中会晤即将举行之际，股市小幅上涨，显示出投资者对未来谈判的乐观情绪。同时，由于美国与伊朗之间的僵局，油价也出现了反弹。这一动态不仅反映了市场对国际关系的敏感性，也可能影响全球经济的走势。投资者需要关注即将到来的会议结果，因为这可能会对贸易政策和能源市场产生深远影响。",
+          "analysis_en": "As the US-China meeting approaches, stock prices have edged up, reflecting investor optimism about the upcoming negotiations. Concurrently, oil prices have rallied due to the ongoing stalemate between the US and Iran. This situation highlights the market's sensitivity to international relations and may have broader implications for the global economy. Investors should pay close attention to the outcomes of the upcoming meeting, as it could significantly impact trade policies and the energy market."
+        },
+        {
+          "rank": 9,
           "title": "Here’s the next AI ‘battleground’ — and how investors can get in on the action",
           "link": "https://www.marketwatch.com/story/heres-the-next-ai-battleground-and-how-investors-can-get-in-on-the-action-24db158c?mod=mw_rss_topstories",
           "source": "MarketWatch.com - Top Stories",
           "published_utc": "2026-05-11 21:44 UTC",
-          "analysis_zh": "根据Bernstein的分析，Lumentum的股票表现非常强劲，但在人工智能数据中心日益增长的连接需求中，还有许多不太知名的投资机会。这一趋势表明，AI行业正在迅速发展，投资者可以通过多样化的投资组合来抓住这一机遇。随着技术的不断进步，相关公司的股价可能会进一步上涨，吸引更多投资者的关注。",
-          "analysis_en": "According to Bernstein's analysis, Lumentum's stock has been performing exceptionally well, but there are many lesser-known investment opportunities to capitalize on the growing connectivity needs of AI data centers. This trend indicates that the AI industry is rapidly evolving, and investors can seize this opportunity through a diversified portfolio. As technology continues to advance, the stock prices of related companies may rise further, drawing more attention from investors."
+          "analysis_zh": "根据Bernstein的分析，Lumentum的股票表现非常强劲，但还有许多不太知名的投资机会可以利用人工智能数据中心日益增长的连接需求。这一趋势表明，随着AI技术的快速发展，相关企业的市场潜力将不断扩大。投资者如果能够把握这些机会，可能会在未来获得可观的回报。",
+          "analysis_en": "According to Bernstein's analysis, Lumentum's stock has been performing exceptionally well, but there are many lesser-known investment opportunities to capitalize on the growing connectivity needs of AI data centers. This trend indicates that as AI technology rapidly evolves, the market potential for related companies will continue to expand. Investors who can seize these opportunities may achieve significant returns in the future."
         },
         {
-          "rank": 3,
+          "rank": 10,
           "title": "AST SpaceMobile’s stock drops as earnings come with a big disappointment",
           "link": "https://www.marketwatch.com/story/ast-spacemobiles-stock-is-on-the-rise-as-investors-gear-up-for-earnings-from-the-spacex-rival-2ba69b4c?mod=mw_rss_topstories",
           "source": "MarketWatch.com - Top Stories",
           "published_utc": "2026-05-11 21:42 UTC",
-          "analysis_zh": "AST SpaceMobile的股票在周一的财报发布后大幅下跌，令投资者感到失望。尽管早些时候市场对该公司的速度突破充满期待，但财报显示其收入远低于预期。这一情况不仅影响了投资者的信心，也可能对公司未来的融资和发展计划产生负面影响。",
-          "analysis_en": "AST SpaceMobile's stock plummeted after the release of its earnings report on Monday, disappointing investors. While there had been early excitement about the company's breakthroughs in speed, the report revealed a significant revenue miss. This situation not only undermines investor confidence but may also negatively impact the company's future financing and development plans."
-        },
-        {
-          "rank": 4,
-          "title": "Stocks are hitting record highs even as Iran war drags on. How long can it last?",
-          "link": "https://www.marketwatch.com/story/stocks-are-hitting-record-highs-even-as-iran-war-drags-on-how-long-can-it-last-f65cf2d5?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-05-11 21:32 UTC",
-          "analysis_zh": "尽管伊朗战争持续，股市依然创下新高。标准普尔500指数首次突破7400点，这表明投资者对市场的信心依然强劲。然而，华尔街的“恐惧指数”也出现了显著上升，显示出市场对潜在风险的担忧。这一现象可能会影响投资者的决策，导致市场波动加剧。",
-          "analysis_en": "Despite the ongoing war in Iran, the stock market has reached new heights. The S&P 500 has surpassed 7,400 points for the first time, indicating strong investor confidence. However, Wall Street's \"fear gauge\" has also spiked, reflecting concerns about potential risks. This situation may influence investor decisions and lead to increased market volatility."
-        },
-        {
-          "rank": 5,
-          "title": "‘I’m not an extravagant spender’: I’m in my 70s with a $90,000 income. Can I afford my dream home with a pool?",
-          "link": "https://www.marketwatch.com/story/im-not-an-extravagant-spender-im-in-my-70s-with-a-90-000-income-can-i-afford-my-dream-home-with-a-pool-871ccda2?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-05-11 21:28 UTC",
-          "analysis_zh": "一位70多岁的投资者表示，尽管年收入为90,000美元，他并不奢侈消费，但仍在考虑购买梦想中的带游泳池的房子。他目前的房子已经全部还清，价值65万美元。这一情况反映了许多退休人士在面对高昂房价时的困境，尤其是在追求理想生活方式的同时，也要考虑财务的可持续性。这可能会影响到房地产市场的需求，尤其是针对高端住宅的部分。",
-          "analysis_en": "A 70-something investor shared that, despite an annual income of $90,000 and not being an extravagant spender, he is contemplating purchasing his dream home with a pool. His current house is fully paid off and valued at $650,000. This situation highlights the challenges many retirees face when dealing with high housing prices while trying to maintain a desirable lifestyle, raising concerns about financial sustainability. This may impact the demand in the real estate market, particularly for luxury homes."
-        },
-        {
-          "rank": 6,
-          "title": "Cash-strapped homeowners may soon have no choice but to repair their aging houses. These stocks can benefit.",
-          "link": "https://www.marketwatch.com/story/cash-strapped-homeowners-may-soon-have-no-choice-but-to-repair-their-aging-houses-0241bbdc?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-05-11 21:19 UTC",
-          "analysis_zh": "由于经济压力，许多房主可能很快不得不修缮他们逐渐老化的房屋。根据瑞银分析师的观点，尽管家得宝和Lowe's今年面临挑战，但随着房主对2000年代中期住房繁荣时期建造的房屋达到临界点，这些公司有望受益。这一趋势不仅可能推动这两家公司的股票上涨，还可能影响整个建筑和家居改善行业的复苏。",
-          "analysis_en": "Cash-strapped homeowners may soon find themselves compelled to repair their aging houses. UBS analysts suggest that despite the struggles faced by Home Depot and Lowe's this year, these companies are likely to benefit as homeowners reach a tipping point with properties built during the mid-2000s housing boom. This trend could not only boost the stock prices of these two companies but also have a positive impact on the broader home improvement and construction industry."
-        },
-        {
-          "rank": 7,
-          "title": "Action camera maker GoPro to review options, including possible sale",
-          "link": "https://www.investing.com/news/stock-market-news/action-camera-maker-gopro-to-review-options-including-possible-sale-4678504",
-          "source": "Stock Market News",
-          "published_utc": "2026-05-11 21:18 UTC",
-          "analysis_zh": "运动相机制造商GoPro正在审查其未来的发展选项，包括可能的出售。这一决定引发了市场的广泛关注，因为GoPro在过去几年面临着激烈的竞争和销售下滑。此举不仅可能影响公司的股价，还可能改变运动相机行业的格局，吸引其他潜在买家或投资者的兴趣。",
-          "analysis_en": "Action camera maker GoPro is reviewing its future options, including a possible sale. This decision has garnered significant attention in the market, as GoPro has faced intense competition and declining sales in recent years. This move could not only impact the company's stock price but also reshape the landscape of the action camera industry, potentially attracting interest from other buyers or investors."
-        },
-        {
-          "rank": 8,
-          "title": "Google says it likely thwarted effort by hacker group to use AI for 'mass exploitation event'",
-          "link": "https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-05-11 21:13 UTC",
-          "analysis_zh": "谷歌近日表示，他们成功阻止了一个黑客组织利用人工智能进行大规模攻击的企图。黑客们正在迅速采用人工智能技术，寻找之前未被发现的软件漏洞，这一趋势引发了广泛关注。这一事件的重要性在于，它不仅显示了黑客技术的进步，也提醒了企业和用户在网络安全方面必须保持警惕。未来，随着人工智能技术的不断发展，网络安全的挑战可能会更加严峻。",
-          "analysis_en": "Google recently announced that it likely thwarted an attempt by a hacker group to use artificial intelligence for a large-scale attack. Hackers are rapidly adopting AI technologies to discover previously unknown software vulnerabilities, raising significant concerns. This incident is important as it highlights the advancement of hacking techniques and serves as a reminder for businesses and users to remain vigilant about cybersecurity. In the future, as AI technology continues to evolve, the challenges to cybersecurity may become even more severe."
-        },
-        {
-          "rank": 9,
-          "title": "Victoria’s Secret says why Blundy was denied seat, director leaving board",
-          "link": "https://www.investing.com/news/stock-market-news/victorias-secret-says-why-blundy-was-denied-seat-director-leaving-board-4678443",
-          "source": "Stock Market News",
-          "published_utc": "2026-05-11 21:06 UTC",
-          "analysis_zh": "维多利亚的秘密公司近日宣布，董事会成员布伦迪未能获得董事席位的原因。这一决定引发了市场的广泛关注，因为布伦迪在公司战略和管理方面具有重要影响力。此事件可能会影响公司的未来发展方向，投资者对公司治理的信心也可能受到影响。",
-          "analysis_en": "Victoria's Secret recently announced the reasons why director Blundy was denied a seat on the board. This decision has garnered significant attention in the market, as Blundy plays a crucial role in the company's strategy and management. The incident could affect the company's future direction and may also impact investor confidence in its governance."
-        },
-        {
-          "rank": 10,
-          "title": "Bitcoin rises, nears $82k as traders weigh U.S. regulation progress, Iran setback",
-          "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-near-81k-with-iran-tensions-us-regulations-in-focus-4675014",
-          "source": "Cryptocurrency News",
-          "published_utc": "2026-05-11 21:02 UTC",
-          "analysis_zh": "比特币价格上涨，接近82,000美元，投资者正在评估美国监管进展和伊朗的挫折。这一价格波动反映了市场对加密货币监管政策的关注，尤其是在美国可能出台新规的背景下。比特币的上涨不仅可能吸引更多投资者进入市场，还可能影响其他加密货币的走势，进一步推动整个行业的发展。",
-          "analysis_en": "Bitcoin's price has risen, approaching $82,000, as traders assess the progress of U.S. regulations and setbacks in Iran. This price movement reflects the market's concern regarding cryptocurrency regulatory policies, particularly with potential new regulations in the U.S. The rise in Bitcoin's value may not only attract more investors to the market but could also influence the trends of other cryptocurrencies, further propelling the growth of the entire industry."
+          "analysis_zh": "AST SpaceMobile的股票在周一的财报发布后大幅下跌，令投资者感到失望。尽管早些时候市场对该公司的速度突破充满期待，但财报显示其收入大幅低于预期。这一情况不仅影响了投资者的信心，也可能对公司未来的融资和发展计划产生负面影响。",
+          "analysis_en": "AST SpaceMobile's stock plummeted after the release of its earnings report on Monday, disappointing investors. While there was initial excitement about the company's breakthroughs in speed, the report revealed a significant revenue miss. This situation not only undermines investor confidence but may also negatively impact the company's future funding and development plans."
         }
       ]
     },
@@ -114,8 +114,8 @@
           "link": "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-abortion-pill-mifepristone.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-11 20:03 UTC",
-          "analysis_zh": "美国最高法院暂时允许通过邮寄方式获取堕胎药物米非司酮，直到至少周四。这一决定是对联邦上诉法院裁定的暂停，后者曾限制了食品药品监督管理局的相关政策。这一事件的重要性在于，它关系到女性的生育权和医疗选择，可能对未来的堕胎政策产生深远影响。",
-          "analysis_en": "The U.S. Supreme Court has temporarily allowed access to the abortion pill mifepristone by mail until at least Thursday. This decision pauses a federal appeals court ruling that sought to restrict the Food and Drug Administration's policy on the medication. The significance of this event lies in its implications for women's reproductive rights and healthcare choices, which may have a lasting impact on future abortion policies."
+          "analysis_zh": "美国最高法院暂时允许通过邮件获取堕胎药物米非司酮，直到至少周四。这一决定是对联邦上诉法院裁定的暂停，后者曾试图限制药物的邮寄获取。这一事件的重要性在于，它关系到女性的生育权和医疗选择，可能会影响到全国范围内对堕胎药物的获取方式。",
+          "analysis_en": "The U.S. Supreme Court has temporarily allowed access to the abortion pill mifepristone by mail until at least Thursday. This decision pauses a federal appeals court ruling that sought to restrict mail access to the drug. The significance of this event lies in its impact on women's reproductive rights and healthcare choices, potentially affecting how abortion medications are accessed nationwide."
         },
         {
           "rank": 2,
@@ -123,8 +123,8 @@
           "link": "https://www.nytimes.com/2026/05/11/health/kennedy-vaccine-safety.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-11 20:02 UTC",
-          "analysis_zh": "健康部长罗伯特·F·肯尼迪 Jr. 最近在公众场合减少了对疫苗的批评，这一变化是白宫的指示。然而，在他的部门内部，一项大规模的疫苗研究工作仍然是首要任务。这一研究的重要性在于，它可能会影响公众对疫苗的信任以及未来的公共卫生政策。尽管表面上保持沉默，肯尼迪的行动可能会在疫苗领域引发广泛的讨论和争议。",
-          "analysis_en": "Health Secretary Robert F. Kennedy Jr. has recently toned down his public criticism of vaccines, following orders from the White House. However, within his department, a large-scale research initiative on vaccines remains a top priority. This research is significant as it could impact public trust in vaccines and future public health policies. Despite his outward silence, Kennedy's actions may spark widespread discussion and controversy in the vaccine arena."
+          "analysis_zh": "健康部长罗伯特·F·肯尼迪 Jr. 在白宫的指示下，减少了对疫苗的公开批评。然而，在他的部门内部，一项广泛的研究工作仍然是首要任务。这一变化表明，尽管表面上态度有所缓和，但政府仍在积极调查疫苗相关问题。这可能会影响公众对疫苗的信任以及未来的公共卫生政策。",
+          "analysis_en": "Health Secretary Robert F. Kennedy Jr. has reduced his public criticism of vaccines under orders from the White House. However, within his department, a large-scale research initiative remains a top priority. This shift indicates that, despite a more subdued public stance, the government is still actively investigating vaccine-related issues. This could affect public trust in vaccines and future public health policies."
         },
         {
           "rank": 3,
@@ -132,8 +132,8 @@
           "link": "https://www.nytimes.com/2026/05/11/world/europe/hantavirus-cruise-ship-canary-islands.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-11 19:54 UTC",
-          "analysis_zh": "一艘邮轮因汉坦病毒疫情而离开加那利群岛，驶向荷兰。最后一批撤离的乘客已经在加那利群岛下船，邮轮上只剩下少量船员。此事件引发了公众对邮轮卫生和安全的关注，尤其是在疫情频发的背景下。邮轮抵达鹿特丹后，将进行全面消毒，以确保乘客和船员的健康安全。",
-          "analysis_en": "A cruise ship affected by a hantavirus outbreak has left the Canary Islands and is heading to the Netherlands. The last group of evacuees has disembarked in the Canary Islands, leaving only a small crew on board. This incident raises public concern about hygiene and safety on cruise ships, especially in the context of ongoing health crises. Upon arrival in Rotterdam, the ship will undergo thorough disinfection to ensure the health and safety of passengers and crew."
+          "analysis_zh": "一艘邮轮因感染汉坦病毒而离开加那利群岛，正驶向荷兰。最后一批撤离人员已在加那利群岛下船，船上现有较少的工作人员。此事件引起了公众对邮轮安全和卫生标准的关注，可能会影响未来邮轮旅行的选择和相关政策的制定。",
+          "analysis_en": "A cruise ship infected with hantavirus has left the Canary Islands and is heading towards the Netherlands. The last evacuees have disembarked in the Canary Islands, and a smaller crew remains on board. This incident raises public concerns about cruise ship safety and hygiene standards, which may influence future travel choices and the formulation of related policies."
         },
         {
           "rank": 4,
@@ -141,8 +141,8 @@
           "link": "https://www.nytimes.com/2026/05/11/health/hiv-infusion-immunotherapy.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-11 15:11 UTC",
-          "analysis_zh": "一项研究显示，单次输注治疗可能在未来几年内抑制HIV病毒。这项研究的结果将在本周公布，初步结果对一种已经治愈某些血液癌症的疗法展现出希望。这一发现的重要性在于，它可能为HIV感染者提供一种新的长期治疗选择，改变他们的生活质量和健康前景。",
-          "analysis_en": "A study suggests that a single infusion treatment could suppress HIV for several years. The results, which will be presented this week, show promise for a therapy that has already been successful in curing certain blood cancers. This finding is significant as it may offer a new long-term treatment option for HIV patients, potentially improving their quality of life and health outcomes."
+          "analysis_zh": "一项新的研究显示，单次输注治疗可能在多年内抑制H.I.V.病毒。这项研究的结果将在本周公布，初步结果对一些患者显示出积极的疗效。这项治疗方法已经在某些血癌患者中取得了治愈效果，因此其在H.I.V.治疗中的潜力引起了广泛关注。如果进一步验证其有效性，这种治疗可能会改变H.I.V.患者的生活质量，并为未来的治疗方案提供新的方向。",
+          "analysis_en": "A new study suggests that a single infusion therapy could suppress H.I.V. for years. The results, which will be presented this week, have shown promising effects in a few patients. This therapy has already cured some blood cancers, making its potential application in H.I.V. treatment particularly noteworthy. If its effectiveness is confirmed, this treatment could significantly improve the quality of life for H.I.V. patients and pave the way for new therapeutic approaches in the future."
         },
         {
           "rank": 5,
@@ -150,8 +150,8 @@
           "link": "https://www.nytimes.com/2026/05/08/us/trump-fda-commissioner-makary.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-11 13:29 UTC",
-          "analysis_zh": "特朗普计划解雇食品药品监督管理局局长马提·马卡里。马卡里博士一直支持“让美国再次健康”的运动，但因其在电子烟、堕胎药和新药审批方面的立场，与政府内部产生了一些冲突。这一决定可能会影响美国公共健康政策的走向，尤其是在药物审批和健康倡导方面。特朗普政府的这一举动引发了对未来健康政策的广泛关注。",
-          "analysis_en": "Trump plans to fire FDA Commissioner Marty Makary, who has been a supporter of the \"Make American Healthy Again\" movement. However, he has made some enemies within the administration due to his stances on vaping, abortion pills, and the rejection of new drugs. This decision could significantly impact the direction of public health policy in the U.S., particularly regarding drug approvals and health advocacy. The move has sparked widespread concern about the future of health policies under the Trump administration."
+          "analysis_zh": "特朗普计划解雇食品药品监督管理局局长马尔蒂·马卡里。马卡里支持“让美国重新健康起来”运动，但因对电子烟、堕胎药和新药的拒绝而在政府内部树敌。这一决定可能会影响FDA的政策方向，尤其是在公共健康和药物审批方面。特朗普的举动引发了对政府在健康事务管理上透明度和科学依据的担忧。",
+          "analysis_en": "Trump plans to fire FDA Commissioner Marty Makary, who has been a supporter of the \"Make American Healthy Again\" movement. However, he has made enemies within the administration due to his stances on vaping, the abortion pill, and the rejection of new drugs. This decision could impact the FDA's policy direction, particularly regarding public health and drug approvals. Trump's actions raise concerns about the government's transparency and scientific basis in managing health issues."
         },
         {
           "rank": 6,
@@ -159,8 +159,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260510234726.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-11 12:28 UTC",
-          "analysis_zh": "研究人员发现，果糖不仅仅是“空卡路里”，它可能会促使身体向脂肪储存和代谢疾病发展。最新的研究表明，果糖与葡萄糖的作用不同，能够干扰正常的能量调节，增加与肥胖、胰岛素抵抗和心血管问题相关的风险。这一发现引发了对果糖在代谢疾病中作用的重新审视，可能会影响人们对糖分摄入的看法和饮食选择。",
-          "analysis_en": "Researchers have found that fructose is not just \"empty calories\"; it may actively drive the body towards fat storage and metabolic diseases. The latest study indicates that fructose affects the body differently than glucose, disrupting normal energy regulation and increasing the risk of obesity, insulin resistance, and cardiovascular issues. This discovery prompts a reevaluation of fructose's role in metabolic diseases, which could influence public perceptions of sugar consumption and dietary choices."
+          "analysis_zh": "研究人员发现，果糖不仅仅是“空热量”，它可能会促使身体向脂肪储存和代谢疾病发展。最新的综述指出，果糖对身体的影响与葡萄糖不同，能够干扰正常的能量调节，并促进与肥胖、胰岛素抵抗和心血管问题相关的过程。这一发现引发了人们对果糖在肥胖和代谢疾病中潜在作用的重新审视，可能会影响公众对常见甜味剂的消费态度和健康政策的制定。",
+          "analysis_en": "Researchers have found that fructose is not just \"empty calories\"; it may actively push the body toward fat storage and metabolic diseases. The latest review highlights that fructose affects the body differently from glucose, disrupting normal energy regulation and promoting processes linked to obesity, insulin resistance, and cardiovascular issues. This finding prompts a reevaluation of fructose's potential role in obesity and metabolic diseases, which could influence public attitudes towards common sweeteners and inform health policy decisions."
         },
         {
           "rank": 7,
@@ -168,8 +168,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260510234655.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-11 05:36 UTC",
-          "analysis_zh": "一项新的国际分析显示，保持每天步行约8500步可能是减肥后防止体重反弹的简单秘诀。研究发现，在减肥计划中将日常步数增加到这一水平并坚持下去的人，能够更有效地避免体重反弹的困扰。这项研究凸显了肥胖治疗中的一个重大挑战，因为大多数人在减肥后的几年内会重新获得失去的体重。了解这一策略的临床价值，将有助于改善肥胖患者的长期管理。",
-          "analysis_en": "A new international analysis suggests that walking about 8,500 steps a day may be a surprisingly simple secret to preventing weight regain after dieting. Researchers found that individuals who increased their daily steps to this level during a weight-loss program and maintained it afterward were significantly more successful in avoiding the frustrating cycle of regaining lost weight. This study highlights a major challenge in obesity treatment, as most people tend to regain much of the weight they lose within a few years. Understanding this strategy's clinical value could greatly improve long-term management for individuals struggling with obesity."
+          "analysis_zh": "一项新的国际分析表明，保持体重的关键可能是每天步行约8500步。研究发现，在减肥期间将每日步数增加到这一水平并坚持下去的人，能够更有效地避免体重反弹。这项研究突显了肥胖治疗中的一个主要挑战，因为大多数人在减肥后几年内会重新增加体重。了解这一策略对临床实践具有重要意义，可能会帮助更多人维持减肥成果。",
+          "analysis_en": "A new international analysis suggests that walking about 8,500 steps a day may be key to maintaining weight loss. Researchers found that individuals who increased their daily steps to this level during a weight-loss program and continued afterward were significantly more successful at preventing weight regain. This study highlights a major challenge in obesity treatment, as many people tend to regain weight within a few years after losing it. Understanding this strategy could have significant clinical implications, potentially aiding more individuals in sustaining their weight loss."
         },
         {
           "rank": 8,
@@ -177,8 +177,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260510234654.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-11 04:57 UTC",
-          "analysis_zh": "一项新的研究分析显示，药物赛美特（Ozempic，Wegovy）在65岁以上的成年人中表现出显著的减重效果，许多人不仅成功减轻了体重，还改善了心脏和代谢健康。参与者平均减重超过15%，远超接受安慰剂治疗的患者。这项研究的重要性在于，它为老年人群体提供了新的减重和健康管理方案，可能会改变他们的生活质量和健康预期。",
-          "analysis_en": "A new analysis reveals that the drug semaglutide (Ozempic, Wegovy) is highly effective for adults over 65, helping many lose significant weight while also improving heart and metabolic health. Participants lost an average of over 15% of their body weight, which is considerably more than those receiving placebo treatment. This study is significant as it offers a new weight loss and health management option for the elderly, potentially enhancing their quality of life and health outcomes."
+          "analysis_zh": "一项新的分析显示，药物塞马鲁肽（Ozempic和Wegovy）在65岁及以上的成年人中效果显著，帮助许多人显著减轻体重，同时改善心脏和代谢健康。参与者平均减重超过15%，远高于接受安慰剂治疗的患者。此研究结果为老年人提供了新的减肥和健康管理希望，可能会影响未来对老年肥胖症治疗的策略和药物使用。",
+          "analysis_en": "A new analysis indicates that the drug semaglutide (Ozempic, Wegovy) works remarkably well in adults over 65, helping many achieve significant weight loss while improving heart and metabolic health. Participants lost an average of over 15% of their body weight, which is significantly more than those receiving placebo treatment. These findings offer new hope for weight management and health improvement in older adults, potentially influencing future treatment strategies and medication use for obesity in this age group."
         },
         {
           "rank": 9,
@@ -186,8 +186,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260509210652.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-05-11 04:13 UTC",
-          "analysis_zh": "一项新的研究表明，人工智能聊天机器人不仅会传播错误信息，还可能加深用户的虚假信念。由于对话式人工智能常常会验证并扩展用户所说的内容，这使得扭曲的记忆、阴谋论或妄想变得更加可信和情感上真实。研究人员警告说，对于寻求安慰和联系的孤立或脆弱人群，AI伴侣可能尤其危险。这一发现引发了人们对AI在心理健康领域影响的担忧，可能会影响人们的认知和社交行为。",
-          "analysis_en": "A new study suggests that AI chatbots may do more than just spread misinformation; they can also deepen users' false beliefs. Since conversational AI often validates and builds upon what users say, it can make distorted memories, conspiracy theories, or delusions feel more credible and emotionally real. Researchers warn that AI companions could be particularly risky for isolated or vulnerable individuals seeking reassurance and connection. This finding raises concerns about the impact of AI on mental health, potentially affecting people's cognition and social behaviors."
+          "analysis_zh": "一项新的研究表明，人工智能聊天机器人不仅会传播错误信息，还可能加深用户的虚假信念。由于对话式人工智能通常会验证并扩展用户所说的内容，这可能使扭曲的记忆、阴谋论或妄想变得更加可信和情感真实。研究人员警告，AI伴侣对于寻求安慰和联系的孤立或脆弱人群尤其具有风险。这一发现提醒我们，在日益依赖AI的时代，如何维护心理健康和真实感知变得至关重要。",
+          "analysis_en": "A new study suggests that AI chatbots may not only spread misinformation but also deepen users' false beliefs. Since conversational AI often validates and builds upon what users say, it can make distorted memories, conspiracy theories, or delusions feel more credible and emotionally real. Researchers warn that AI companions may pose particular risks to isolated or vulnerable individuals seeking reassurance and connection. This finding highlights the importance of maintaining mental health and a sense of reality in an age increasingly reliant on AI."
         },
         {
           "rank": 10,
@@ -195,8 +195,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260510234724.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-11 03:47 UTC",
-          "analysis_zh": "一项研究发现，八段锦这项已有800年历史的中国传统运动，能够像每天快走一样有效地降低血压。参与者在三个月内显著降低了血压，并且这种效果持续了一整年。高血压是导致心脏病的重要可预防因素，而八段锦的简单性和安全性使其成为一种易于长期坚持的运动方式。这项研究的结果不仅为高血压患者提供了新的管理方案，也可能促进传统运动在现代健康管理中的应用。",
-          "analysis_en": "A recent study revealed that Baduanjin, an ancient Chinese exercise practiced for 800 years, can lower blood pressure as effectively as a daily brisk walk. Participants experienced significant reductions in blood pressure within three months, and these benefits lasted for an entire year. High blood pressure is a major preventable contributor to heart disease, and the simplicity and safety of Baduanjin make it an accessible option for long-term exercise. The findings not only offer a new management strategy for individuals with hypertension but may also encourage the integration of traditional exercises into modern health practices."
+          "analysis_zh": "一项新的研究表明，八段锦这一古老的中国运动可以像快走一样有效地降低血压。参与者在三个月内经历了显著的血压下降，并且这种效果持续了一整年。这项研究的重要性在于高血压是导致心脏病的主要可预防因素，而八段锦作为一种简单、安全且无需设备的锻炼方式，能够帮助更多人养成长期锻炼的习惯。这可能会改变人们对高血压管理的看法，提供一种更易于实施的生活方式干预。",
+          "analysis_en": "A recent study has shown that Baduanjin, an ancient Chinese exercise, can lower blood pressure as effectively as brisk walking. Participants experienced significant drops in blood pressure within three months, and these benefits lasted for an entire year. This research is important because high blood pressure is a major preventable contributor to heart disease, and Baduanjin offers a simple, safe, and equipment-free way for more people to adopt long-term exercise habits. This could change perceptions of hypertension management and provide a more accessible lifestyle intervention."
         }
       ]
     },
@@ -210,8 +210,8 @@
           "link": "https://aeon.co/videos/the-historian-who-brings-lessons-on-us-prisons-inside-their-walls",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-05-11 10:01 UTC",
-          "analysis_zh": "在这部获奖短片《教室4》中，囚犯和大学生们共同探讨了美国监禁历史。这一项目的重要性在于，它不仅揭示了监狱系统的复杂性，还促进了不同背景人群之间的对话与理解。通过这样的互动，观众能够更深入地思考监禁对个人和社会的影响，并可能激发对监狱改革的关注与讨论。",
-          "analysis_en": "In the award-winning short film \"Classroom 4,\" inmates and college students come together to explore the history of incarceration in the United States. This project is significant as it highlights the complexities of the prison system and fosters dialogue and understanding between diverse groups. Through this interaction, viewers are encouraged to reflect on the impacts of incarceration on individuals and society, potentially sparking interest in prison reform discussions."
+          "analysis_zh": "在这部获奖短片《课堂4》中，监狱囚犯与大学生共同探讨了美国监禁历史。这一作品的重要性在于，它不仅揭示了监禁制度的复杂性，还促进了不同社会群体之间的对话与理解。通过这种互动，观众能够更深入地思考监禁对个体和社会的影响，进而引发对刑事司法改革的关注。",
+          "analysis_en": "In the award-winning short film \"Classroom 4,\" inmates and college students explore the history of incarceration in a U.S. prison. This work is significant as it reveals the complexities of the prison system while fostering dialogue and understanding between different social groups. Through this interaction, viewers are encouraged to think more deeply about the impacts of incarceration on individuals and society, potentially sparking interest in criminal justice reform."
         },
         {
           "rank": 2,
@@ -219,8 +219,8 @@
           "link": "https://aeon.co/essays/children-need-stress-and-discomfort-in-order-to-grow-up",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-05-11 10:00 UTC",
-          "analysis_zh": "这篇文章探讨了儿童在成长过程中如何通过适当的压力和不适感来学习成年人的情感和实用技能。作者认为，这种经历对于孩子们的心理发展至关重要，因为它们帮助孩子们培养应对挑战的能力。理解这一点对教育者和家长来说非常重要，因为他们可以更好地支持孩子们在面对困难时的成长。这样的学习过程可能会影响孩子们未来的适应能力和心理健康。",
-          "analysis_en": "This article discusses how children learn the emotional and practical skills of adulthood through appropriate levels of discomfort and stress. The authors argue that such experiences are crucial for children's psychological development, as they help foster resilience in facing challenges. Understanding this is important for educators and parents, as it enables them to better support children's growth when encountering difficulties. This learning process may significantly impact children's future adaptability and mental health."
+          "analysis_zh": "这篇文章探讨了儿童在成长过程中如何通过适度的不适和压力来学习成年人的情感和实用技能。作者认为，适当的挑战能够帮助孩子们培养应对未来生活的能力。这一观点的重要性在于，它提醒家长和教育者在培养孩子时，应该适度引入一些困难，以促进他们的成长和独立性。这可能会影响教育方法和家庭养育方式，促使人们重新思考如何平衡保护与挑战之间的关系。",
+          "analysis_en": "This article discusses how children learn the emotional and practical skills of adulthood through appropriate levels of discomfort and stress. The authors argue that facing suitable challenges helps children develop the abilities needed to navigate future life. This perspective is significant as it encourages parents and educators to introduce manageable difficulties in order to foster growth and independence in children. It may influence educational approaches and parenting styles, prompting a reevaluation of the balance between protection and challenge."
         },
         {
           "rank": 3,
@@ -228,8 +228,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260509210652.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-05-11 04:13 UTC",
-          "analysis_zh": "一项新的研究表明，人工智能聊天机器人不仅可能传播错误信息，还可能加深用户的错误信念。由于对话式人工智能常常验证并扩展用户所说的内容，它可能使扭曲的记忆、阴谋论或妄想变得更加可信和情感真实。研究人员警告，AI伴侣对寻求安慰和联系的孤立或脆弱人群尤其危险。这一发现提醒我们，随着技术的发展，人与AI的互动可能会对我们的现实感知产生深远影响。",
-          "analysis_en": "A new study suggests that AI chatbots may not only spread misinformation but also deepen users' false beliefs. Because conversational AI often validates and builds upon what users say, it can make distorted memories, conspiracy theories, or delusions feel more credible and emotionally real. Researchers warn that AI companions could be particularly risky for isolated or vulnerable individuals seeking reassurance and connection. This finding highlights the potential for interactions with technology to significantly impact our perception of reality as it evolves."
+          "analysis_zh": "一项新的研究表明，人工智能聊天机器人不仅可能传播错误信息，还可能加深用户的虚假信念。由于对话式人工智能常常验证并扩展用户所说的内容，这使得扭曲的记忆、阴谋论或妄想变得更加可信和情感真实。研究人员警告，AI伴侣对那些寻求安慰和联系的孤立或脆弱人群尤其具有风险。这一发现引发了对AI在心理健康领域潜在影响的关注，尤其是在社交孤立日益严重的背景下。",
+          "analysis_en": "A new study suggests that AI chatbots may do more than just spread misinformation; they can also deepen users' false beliefs. Because conversational AI often validates and builds upon what users say, it can make distorted memories, conspiracy theories, or delusions feel more credible and emotionally real. Researchers warn that AI companions could be particularly risky for isolated or vulnerable individuals seeking reassurance and connection. This finding raises concerns about the potential impact of AI on mental health, especially in a context where social isolation is becoming increasingly prevalent."
         },
         {
           "rank": 4,
@@ -237,8 +237,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260510234724.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-05-11 03:47 UTC",
-          "analysis_zh": "一项新的临床试验显示，古老的中国运动“八段锦”在降低血压方面的效果与每日快走相当。这项研究发现，患有一级高血压的成年人在练习八段锦三个月后，血压显著下降，并且这种效果可以持续一年。这一发现具有重要意义，因为高血压是导致心脏病的主要可预防因素之一，许多人在保持长期锻炼习惯方面面临挑战。八段锦的简单性和安全性使其成为一种易于实施的生活方式干预措施，能够帮助更多人管理血压。",
-          "analysis_en": "A new clinical trial has shown that the ancient Chinese exercise \"Baduanjin\" is as effective as daily brisk walking in lowering blood pressure. The study found that adults with stage 1 hypertension who practiced Baduanjin experienced significant drops in blood pressure within three months, with effects lasting for a year. This finding is important because high blood pressure is one of the leading preventable contributors to heart disease, and many people struggle to maintain long-term exercise habits. The simplicity and safety of Baduanjin make it an accessible lifestyle intervention that can help more individuals manage their blood pressure effectively."
+          "analysis_zh": "一项关于八段锦的研究显示，这种已有800年历史的中国传统运动能够有效降低血压，效果与每天快走相似。参与者在三个月内血压显著下降，并且这种改善效果持续了一整年。高血压是导致心脏病的重要可预防因素，而八段锦的简单性和安全性使其成为一种易于长期坚持的生活方式干预措施。这项发现不仅为高血压患者提供了新的管理方法，也为推广传统运动在现代健康管理中的应用提供了依据。",
+          "analysis_en": "A study on Baduanjin, an ancient Chinese exercise, has shown that it can effectively lower blood pressure, comparable to the effects of daily brisk walking. Participants experienced significant drops in blood pressure within three months, and these benefits lasted for an entire year. High blood pressure is a major preventable contributor to heart disease, and the simplicity and safety of Baduanjin make it an accessible lifestyle intervention for long-term adherence. This finding not only offers a new management option for hypertension patients but also supports the integration of traditional exercises into modern health practices."
         }
       ]
     },
@@ -248,93 +248,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Microsoft’s C.E.O. Intervened When OpenAI Fired Sam Altman, Musk’s Lawyer Claims",
-          "link": "https://www.nytimes.com/2026/05/11/technology/satya-nadella-openai-sam-altman.html",
-          "source": "NYT > Technology",
-          "published_utc": "2026-05-11 21:50 UTC",
-          "analysis_zh": "在2023年，OpenAI的首席执行官萨姆·阿尔特曼因某种原因被解雇，但后来又被重新聘用。埃隆·马斯克的律师声称，微软首席执行官萨提亚·纳德拉在这一过程中发挥了重要作用。这一事件不仅引发了对科技公司内部权力斗争的关注，也可能影响OpenAI的未来决策和微软与OpenAI的合作关系。",
-          "analysis_en": "In 2023, Sam Altman, the CEO of OpenAI, was briefly fired but later reinstated. Elon Musk's lawyer claimed that Microsoft's CEO, Satya Nadella, played a significant role in Altman's return. This incident has drawn attention to the internal power struggles within tech companies and may impact OpenAI's future decisions as well as the partnership between Microsoft and OpenAI."
+          "title": "Here’s what Mira Murati’s AI company is up to",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+          "source": "The Verge",
+          "published_utc": "2026-05-11 22:19 UTC",
+          "analysis_zh": "前OpenAI首席技术官米拉·穆拉提创办的人工智能公司Thinking Machines于周一宣布，他们正在研发一种名为“交互模型”的新技术。这种交互模型的目的是让人们能够像自然交流一样与人工智能进行合作，实时接收音频、视频和文本信息。这一进展非常重要，因为它有可能改变人机互动的方式，使得AI能够更好地理解用户的意图和情感，从而提升合作的效率和效果。",
+          "analysis_en": "Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced on Monday that it is developing a new technology called \"interaction models.\" The goal of these interaction models is to enable people to collaborate with AI in a way that mimics natural human communication, continuously processing audio, video, and text in real time. This development is significant as it could transform the way humans interact with AI, allowing for a better understanding of user intent and emotions, thereby enhancing the efficiency and effectiveness of collaboration."
         },
         {
           "rank": 2,
+          "title": "Microsoft’s C.E.O. Intervened When OpenAI Fired Sam Altman, Musk’s Lawyer Claims",
+          "link": "https://www.nytimes.com/2026/05/11/technology/satya-nadella-openai-sam-altman.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-05-11 22:15 UTC",
+          "analysis_zh": "在2023年，OpenAI的首席执行官萨姆·阿尔特曼被短暂解雇，随后微软首席执行官萨提亚·纳德拉介入，帮助阿尔特曼恢复了职务。这一事件引发了广泛关注，因为它不仅涉及到科技行业的高管权力斗争，还反映了大型科技公司在人工智能领域的影响力。阿尔特曼的回归可能会影响OpenAI的未来发展方向，并进一步加深微软与OpenAI之间的合作关系。",
+          "analysis_en": "In 2023, Sam Altman, the CEO of OpenAI, was briefly fired, after which Microsoft CEO Satya Nadella intervened to help him regain his position. This incident has garnered significant attention as it highlights power struggles among executives in the tech industry and reflects the influence of large tech companies in the field of artificial intelligence. Altman's return could impact the future direction of OpenAI and further strengthen the partnership between Microsoft and OpenAI."
+        },
+        {
+          "rank": 3,
           "title": "Govee’s new portable smart lamp is on sale for the first time",
           "link": "https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale",
           "source": "The Verge",
           "published_utc": "2026-05-11 19:56 UTC",
-          "analysis_zh": "Govee最近推出了一款便携式智能灯——Govee Table Lamp Classic，首次降价至63.99美元，较原价便宜了16美元。这款灯具是对Philips Hue Go的经济实惠替代品，适合那些希望享受智能照明但又不想花费过多的人。它的内置电池可支持最长30小时的使用时间，虽然在使用更亮的白光时续航会缩短。此产品的推出可能会吸引更多消费者关注智能家居产品，促进市场竞争。",
-          "analysis_en": "Govee has recently launched a portable smart lamp, the Govee Table Lamp Classic, which is now on sale for the first time at $63.99, a $16 discount. This lamp serves as an affordable alternative to the Philips Hue Go, appealing to those who want smart lighting without the high price tag. It features a built-in battery that can last up to 30 hours, although the duration decreases when using brighter white light. The introduction of this product may attract more consumers to smart home devices, thereby increasing competition in the market."
+          "analysis_zh": "Govee最近推出了一款名为Govee Table Lamp Classic的便携式智能灯，首次降价至63.99美元，较原价优惠16美元。这款灯的价格远低于知名品牌Philips Hue Go，吸引了许多消费者的关注。它不仅具备多种色彩灯光效果，还支持Matter协议，电池续航时间可达30小时。此款灯的推出可能会对智能家居市场产生影响，尤其是在价格敏感的消费者群体中。",
+          "analysis_en": "Govee has recently launched a portable smart lamp called the Govee Table Lamp Classic, which is now on sale for $63.99, a $16 discount from its original price. This price point is significantly lower than that of the well-known Philips Hue Go, making it appealing to many consumers. The lamp offers various colorful lighting effects, supports Matter protocol, and has a battery life of up to 30 hours. The introduction of this lamp may impact the smart home market, particularly among price-sensitive consumers."
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Palantir’s true believers are wearing this jacket",
           "link": "https://www.theverge.com/report/928026/palantir-chore-coat",
           "source": "The Verge",
           "published_utc": "2026-05-11 18:26 UTC",
-          "analysis_zh": "在四月底，Palantir这家软件公司宣布将向其商品商店添加新产品，其中包括一款售价239美元的棉质工作外套。这款外套的设计灵感来源于19世纪的法国工作服，外观上与传统的男士服装相似，但胸口却印有Palantir的标志。这一举动引发了广泛的讨论，有人批评其为“无聊的法国工作服”，也有人质疑为何Palantir不选择更具美国特色的设计。这一事件不仅展示了Palantir尝试转型为生活方式品牌的努力，也可能影响其在公众形象和市场定位上的认知。",
-          "analysis_en": "In late April, Palantir announced that it would be adding new products to its merchandise store, including a cotton chore coat priced at $239. The design of this coat is inspired by 19th-century French workwear, resembling traditional menswear but featuring a Palantir logo on the breast pocket. This move sparked considerable discussion, with some critics labeling it as \"boring French workwear\" and questioning why Palantir didn't opt for something more reflective of American design. This incident not only highlights Palantir's attempt to pivot towards a lifestyle brand but may also impact its public image and market positioning."
+          "analysis_zh": "在四月底，软件公司Palantir宣布将向其商品商店添加新产品，其中包括一款售价239美元的棉质工作外套。这款外套的设计灵感源自19世纪的法国工装，外观上与传统的男装相似，胸口则印有Palantir的标志。这一举动引发了公众的广泛讨论，许多人质疑Palantir为何不推出更具美国特色的工作服。尽管如此，这款外套在上市当天仍然售出了420件，显示出品牌的影响力和市场需求。",
+          "analysis_en": "In late April, the software company Palantir announced the addition of new products to its merchandise store, including a cotton chore coat priced at $239. The design of this coat is inspired by 19th-century French workwear, resembling traditional menswear, with a Palantir logo on the breast pocket. This move sparked widespread discussion, with many questioning why Palantir didn't create something more reflective of American workwear. Nonetheless, the coat sold 420 units on its launch day, demonstrating the brand's influence and market demand."
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Inside the Elon Musk-OpenAI Trial Courtroom",
           "link": "https://www.nytimes.com/2026/05/11/technology/courtroom-circus-elon-musk-sam-altman.html",
           "source": "NYT > Technology",
           "published_utc": "2026-05-11 18:22 UTC",
-          "analysis_zh": "在最近的法庭审理中，埃隆·马斯克与OpenAI之间的法律争端进入了关键阶段。这场纠纷涉及两位科技巨头，他们的总资产超过6700亿美元。此事件引发了广泛关注，因为它不仅关系到两位行业领袖的未来，还可能对人工智能领域的竞争格局产生深远影响。随着案件的发展，公众对科技伦理和企业责任的讨论也愈发激烈。",
-          "analysis_en": "In a recent court hearing, the legal dispute between Elon Musk and OpenAI reached a critical point. This conflict involves two tech giants with a combined net worth exceeding $670 billion. The situation has garnered significant attention, as it not only impacts the futures of these industry leaders but may also have far-reaching effects on the competitive landscape of artificial intelligence. As the case unfolds, public discussions around tech ethics and corporate responsibility are becoming increasingly intense."
+          "analysis_zh": "在最近的法庭审理中，埃隆·马斯克与OpenAI之间的法律争端进入了关键阶段。两位科技领袖的总资产超过6700亿美元，他们在法庭上互相对视，气氛紧张。此事件的重要性在于，它不仅涉及到两位行业巨头的利益，还可能对人工智能领域的未来发展产生深远影响。随着法律问题的解决，可能会影响到相关公司的合作模式和市场竞争格局。",
+          "analysis_en": "In a recent court hearing, the legal dispute between Elon Musk and OpenAI reached a critical stage. The two tech leaders, with a combined net worth exceeding $670 billion, exchanged icy glares in a tense atmosphere. This event is significant as it involves the interests of two industry giants and could have far-reaching implications for the future of artificial intelligence. As the legal issues are resolved, it may affect the collaboration models and competitive landscape of related companies."
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Apple brings encrypted RCS chats to iPhone",
           "link": "https://www.theverge.com/tech/928141/apple-ios-26-5-rcs-messages-iphone-google-android",
           "source": "The Verge",
           "published_utc": "2026-05-11 17:57 UTC",
-          "analysis_zh": "苹果公司在最新发布的iOS 26.5中，允许用户通过信息应用与安卓用户进行加密的RCS聊天。这一功能的推出意味着苹果和谷歌无法查看用户的消息，增强了用户的隐私保护。此举不仅提升了iPhone与安卓设备之间的沟通安全性，也可能促使更多用户选择使用RCS消息服务，从而影响整个消息传递市场的竞争格局。",
-          "analysis_en": "Apple has introduced encrypted RCS chats for iPhone users in the latest iOS 26.5 update, allowing secure conversations with Android users through the Messages app. This feature ensures that neither Apple nor Google can access users' messages, significantly enhancing privacy protection. This move not only improves the security of communication between iPhone and Android devices but may also encourage more users to adopt RCS messaging, potentially reshaping the competitive landscape of the messaging market."
+          "analysis_zh": "苹果公司最近在其iOS 26.5更新中推出了与安卓用户进行加密RCS聊天的功能。这一功能的推出意味着用户在发送消息时，苹果和谷歌都无法查看内容，增强了用户的隐私保护。这项新功能的重要性在于，它不仅提升了跨平台通信的安全性，还可能促使更多用户选择使用RCS消息服务，从而影响传统短信服务的使用率。此外，这也可能加剧苹果与谷歌在消息服务领域的竞争。",
+          "analysis_en": "Apple recently introduced the ability to have encrypted RCS chats with Android users in its iOS 26.5 update. This feature ensures that neither Apple nor Google can see the content of messages sent, enhancing user privacy. The significance of this development lies in its potential to improve security for cross-platform communication, which may encourage more users to adopt RCS messaging and affect the usage of traditional SMS services. Additionally, this could intensify the competition between Apple and Google in the messaging service sector."
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Three things in AI to watch, according to a Nobel-winning economist",
           "link": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
           "source": "MIT Technology Review",
           "published_utc": "2026-05-11 17:35 UTC",
-          "analysis_zh": "诺贝尔经济学奖得主达龙·阿西莫格鲁在获得奖项前几个月发表了一篇引发硅谷争议的论文。他的观点与大型科技公司的主流看法相悖，强调了人工智能技术在社会和经济中的潜在风险。这一论点的重要性在于，它可能促使政策制定者重新审视AI的发展方向，并考虑如何平衡技术进步与社会福祉之间的关系。",
-          "analysis_en": "A few months before winning the Nobel Prize in economics, Daron Acemoglu published a paper that sparked controversy in Silicon Valley. His views contradict the mainstream opinions of major tech companies, highlighting the potential risks that artificial intelligence poses to society and the economy. This argument is significant as it may encourage policymakers to reconsider the trajectory of AI development and how to balance technological advancement with social welfare."
+          "analysis_zh": "诺贝尔经济学奖得主达龙·阿西莫格鲁在获奖前几个月发表了一篇论文，提出了对硅谷不太受欢迎的观点。他认为，人工智能的发展可能会加剧社会不平等，并对劳动市场产生负面影响。这一观点引发了广泛关注，因为它挑战了许多科技公司对人工智能的乐观预期。如果不加以解决，可能会导致更大的经济和社会分裂。",
+          "analysis_en": "A few months before winning the Nobel Prize in economics, Daron Acemoglu published a paper that presented unpopular views in Silicon Valley. He argued that the advancement of artificial intelligence could exacerbate social inequality and negatively impact the labor market. This perspective has garnered significant attention as it challenges the optimistic expectations many tech companies have about AI. If these issues are not addressed, it could lead to greater economic and social divides."
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Texas sues Netflix for advertising ‘bait and switch’ and spying",
           "link": "https://www.theverge.com/streaming/928071/texas-netflix-lawsuit-privacy",
           "source": "The Verge",
           "published_utc": "2026-05-11 17:04 UTC",
-          "analysis_zh": "德克萨斯州总检察长肯·帕克斯顿对Netflix提起诉讼，指控该公司背弃了其承诺，未能保持无广告和儿童安全的环境。诉讼称，Netflix在2022年推出广告支持的流媒体计划后，开始利用用户数据，这与其之前批评大型广告科技公司的立场相悖。这一事件引发了公众对流媒体平台隐私保护的关注，可能会影响Netflix的用户信任和未来的商业模式。",
-          "analysis_en": "Texas Attorney General Ken Paxton has filed a lawsuit against Netflix, accusing the company of breaking its promise to remain ad-free and safe for children. The lawsuit claims that after Netflix introduced an ad-supported streaming plan in 2022, it began exploiting user data, contradicting its previous stance against Big Ad Tech. This situation raises public concern over privacy protection on streaming platforms and may impact Netflix's user trust and future business model."
+          "analysis_zh": "德克萨斯州总检察长肯·帕克斯顿对Netflix提起诉讼，指控该公司背弃了不插播广告和保护儿童安全的承诺。诉讼称，Netflix在2022年推出了支持广告的流媒体计划，违反了共同创始人里德·哈斯廷斯的承诺，导致用户数据被大广告科技公司监视。此案的提出引发了对Netflix隐私政策的广泛关注，可能会影响其用户信任度和未来的商业模式。",
+          "analysis_en": "Texas Attorney General Ken Paxton has filed a lawsuit against Netflix, accusing the company of breaking its promise to remain ad-free and safe for children. The lawsuit claims that Netflix violated co-founder Reed Hastings' commitment by introducing an ad-supported streaming plan in 2022, which allowed Big Ad Tech companies to surveil user data. This lawsuit raises significant concerns about Netflix's privacy policies and could impact user trust and the company's future business model."
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Can the U.S. Rein in Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Producer Goes to Attention School",
           "link": "https://www.nytimes.com/2026/05/08/podcasts/hardfork-prediction-markets.html",
           "source": "NYT > Technology",
           "published_utc": "2026-05-11 16:17 UTC",
-          "analysis_zh": "最近，美国对预测市场的监管引发了广泛关注。预测市场是一种利用集体智慧进行未来事件预测的工具，但其潜在的内幕交易风险让监管机构感到担忧。这一问题的重要性在于，如果不加以规范，可能会导致市场的不公平竞争，影响投资者的信心和市场的稳定性。此外，随着人工智能技术的迅速发展，这一领域的监管挑战也愈发复杂。",
-          "analysis_en": "Recently, there has been significant attention on the regulation of prediction markets in the U.S. These markets use collective intelligence to forecast future events, but the potential risks of insider trading have raised concerns among regulators. This issue matters because, if left unchecked, it could lead to unfair competition, undermining investor confidence and market stability. Furthermore, as artificial intelligence technology rapidly evolves, the regulatory challenges in this area are becoming increasingly complex."
+          "analysis_zh": "最近，美国对预测市场的监管问题引发了广泛关注。随着内幕交易丑闻频频曝光，公众对市场透明度和公平性的担忧加剧。这一问题不仅影响投资者的信心，也可能对整个金融市场的稳定性产生深远影响。政府如何应对这一挑战，将直接关系到未来市场的健康发展。",
+          "analysis_en": "Recently, the issue of regulating prediction markets in the U.S. has garnered significant attention. With frequent reports of insider trading scandals, public concern over market transparency and fairness has intensified. This issue not only affects investor confidence but could also have far-reaching implications for the stability of the entire financial market. How the government addresses this challenge will directly impact the healthy development of markets in the future."
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Google stopped a zero-day hack that it says was developed with AI",
           "link": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
           "source": "The Verge",
           "published_utc": "2026-05-11 16:09 UTC",
-          "analysis_zh": "谷歌首次发现并阻止了一起利用人工智能开发的零日漏洞攻击。根据谷歌威胁情报组的报告，这些网络犯罪分子计划利用该漏洞进行大规模攻击，从而绕过某个未公开的开源网络管理工具的双重身份验证。这一事件凸显了人工智能在网络安全领域的潜在威胁，可能会促使企业和安全专家重新审视他们的防护措施，以应对日益复杂的网络攻击手段。",
-          "analysis_en": "Google has identified and stopped a zero-day exploit developed using artificial intelligence for the first time. According to a report from the Google Threat Intelligence Group, cybercriminals were planning to use this vulnerability to conduct a mass exploitation event that would allow them to bypass two-factor authentication on an unnamed open-source web administration tool. This incident highlights the potential threats posed by AI in the cybersecurity landscape and may prompt businesses and security experts to reassess their protective measures in response to increasingly sophisticated cyberattack methods."
-        },
-        {
-          "rank": 10,
-          "title": "A million baby monitors and security cameras were easily viewable by hackers",
-          "link": "https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera",
-          "source": "The Verge",
-          "published_utc": "2026-05-11 16:00 UTC",
-          "analysis_zh": "最近，有报道称，约一百万台婴儿监视器和安全摄像头因安全漏洞而被黑客轻易访问。这一事件引发了广泛关注，因为这些设备的安全性直接关系到家庭隐私和儿童安全。黑客能够随意查看这些摄像头的画面，可能导致严重的隐私泄露和安全风险。此事件提醒消费者在选择智能家居设备时，必须更加关注其安全性，以防止类似事件再次发生。",
-          "analysis_en": "Recently, it was reported that around one million baby monitors and security cameras were easily accessible to hackers due to security vulnerabilities. This incident has raised significant concerns, as the safety of these devices directly impacts family privacy and child safety. Hackers could freely view the footage from these cameras, posing serious risks of privacy breaches and security threats. This event serves as a reminder for consumers to pay closer attention to the security of smart home devices to prevent similar incidents in the future."
+          "analysis_zh": "谷歌首次发现并阻止了一起由人工智能开发的零日漏洞攻击。根据谷歌威胁情报小组的报告，一些网络犯罪分子计划利用这一漏洞进行大规模攻击，绕过某个未公开的系统的双重身份验证。这一事件的重要性在于，它揭示了人工智能在网络安全领域的潜在威胁，也引发了对AI技术在黑客攻击中应用的广泛关注。未来，这可能促使科技公司加强对AI技术的监管和安全防护措施。",
+          "analysis_en": "Google has identified and stopped a zero-day exploit developed with artificial intelligence for the first time. According to a report from Google's Threat Intelligence Group, prominent cybercriminals were planning to use this vulnerability to conduct a mass exploitation event that would bypass two-factor authentication on an unnamed system. This incident is significant as it highlights the potential threats posed by AI in the cybersecurity landscape and raises concerns about the use of AI in hacking activities. Moving forward, this may lead tech companies to enhance regulations and security measures related to AI technologies."
         }
       ]
     },
@@ -348,8 +348,8 @@
           "link": "https://www.artnews.com/art-news/news/ancient-roman-estate-found-near-shopping-mall-croatia-1234785028/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-05-11 21:37 UTC",
-          "analysis_zh": "考古学家在克罗地亚的一处购物中心附近发现了一处古罗马乡村庄园，面积约为6500平方英尺。这个庄园曾用于生产橄榄油，这一发现不仅为我们提供了关于古罗马农业和生活方式的新见解，也为该地区的历史研究增添了重要的实物证据。此发现可能会吸引更多的游客和研究者前来探索这一历史遗址，从而推动当地经济和文化旅游的发展。",
-          "analysis_en": "Archaeologists have discovered an ancient Roman country estate near a shopping mall in Croatia, covering approximately 6,500 square feet. This estate was used for olive oil production, and the find offers new insights into ancient Roman agriculture and lifestyle, adding significant material evidence to the region's historical research. This discovery may attract more tourists and researchers to explore the site, potentially boosting the local economy and cultural tourism."
+          "analysis_zh": "考古学家在克罗地亚的一处购物中心附近发现了一座古罗马乡村庄园，面积约为6500平方英尺。这座庄园曾用于生产橄榄油，揭示了古罗马时期的农业和生活方式。这一发现不仅为研究古罗马的经济活动提供了新的证据，也可能吸引更多游客前来参观，促进当地经济发展。",
+          "analysis_en": "Archaeologists have discovered an ancient Roman country estate near a shopping mall in Croatia, covering approximately 6,500 square feet. This estate was used for olive oil production, shedding light on agricultural practices and lifestyles during the Roman era. This finding not only provides new evidence for understanding Roman economic activities but may also attract more tourists, boosting the local economy."
         },
         {
           "rank": 2,
@@ -357,8 +357,8 @@
           "link": "https://www.nytimes.com/2026/05/11/arts/music/gustavo-dudamel-ny-philharmonic-spanish-harlem-orchestra.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-11 21:05 UTC",
-          "analysis_zh": "古斯塔沃·杜达梅尔首次将纽约爱乐乐团与西班牙哈莱姆乐团在林肯中心和上城地区联合演出。这一合作不仅展示了两种不同音乐风格的融合，也为多元文化的交流提供了平台。这场演出的重要性在于它促进了社区之间的联系，可能会激励更多类似的跨文化合作。",
-          "analysis_en": "Gustavo Dudamel brought the New York Philharmonic and the Spanish Harlem Orchestra together for their first collaboration at Lincoln Center and uptown. This partnership showcases the fusion of two distinct musical styles and provides a platform for multicultural exchange. The significance of this performance lies in its ability to strengthen community ties, potentially inspiring more similar cross-cultural collaborations in the future."
+          "analysis_zh": "古斯塔沃·杜达梅尔首次将纽约爱乐乐团与西班牙哈莱姆乐团在林肯中心及其周边地区联合演出。这一合作不仅展示了两支乐团的音乐才华，也强调了文化交流的重要性。通过这样的演出，观众能够感受到不同音乐风格的融合，促进了社区之间的理解与联系。这一事件可能会激励更多类似的跨文化合作，进一步丰富纽约的音乐景观。",
+          "analysis_en": "Gustavo Dudamel brought the New York Philharmonic and the Spanish Harlem Orchestra together for their first collaboration at Lincoln Center and in the surrounding areas. This partnership not only showcases the musical talents of both ensembles but also highlights the importance of cultural exchange. Such performances allow audiences to experience the fusion of different musical styles, fostering understanding and connection within the community. This event may inspire more similar cross-cultural collaborations, further enriching New York's musical landscape."
         },
         {
           "rank": 3,
@@ -366,8 +366,8 @@
           "link": "https://www.designboom.com/design/iris-van-herpen-brooklyn-museum-sculpting-senses-exhibition-new-york/",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-05-11 21:00 UTC",
-          "analysis_zh": "荷兰著名设计师艾瑞斯·范·赫本（Iris van Herpen）在布鲁克林博物馆展出了她的一系列复杂作品。此次展览将高定时装与工艺、科技以及自然的相互联系进行了对话，展示了设计与自然界之间的深刻联系。这一展览不仅突显了当代时尚设计的创新性，也可能影响未来设计师在创作中对可持续性和技术的思考。",
-          "analysis_en": "Renowned Dutch designer Iris van Herpen is showcasing a series of intricate works at the Brooklyn Museum. This exhibition engages haute couture in a dialogue with craft, technology, and the interconnected systems of nature, highlighting the profound relationship between design and the natural world. The exhibition not only emphasizes the innovation in contemporary fashion design but may also influence how future designers approach sustainability and technology in their creations."
+          "analysis_zh": "著名荷兰设计师伊丽莎白·范·赫尔彭（Iris van Herpen）在布鲁克林博物馆展出了她的大型复杂作品。这次展览将高定时装与工艺、科技以及自然的相互联系进行了对话，展示了设计与自然界之间的深刻关系。这一展览不仅吸引了时尚界的关注，也为观众提供了思考现代设计如何与环境相结合的机会，可能会影响未来设计师在创作时对可持续性和技术的考虑。",
+          "analysis_en": "Renowned Dutch designer Iris van Herpen is showcasing her colossal body of intricate work at the Brooklyn Museum. This exhibition engages haute couture in a dialogue with craft, technology, and the interconnected systems of nature, highlighting the profound relationship between design and the natural world. The exhibition not only draws attention from the fashion industry but also offers viewers a chance to reflect on how modern design can integrate with the environment, potentially influencing future designers' considerations of sustainability and technology in their work."
         },
         {
           "rank": 4,
@@ -375,8 +375,8 @@
           "link": "https://www.artnews.com/art-news/news/ancient-greek-roman-statues-coins-pottery-bathhouse-excavated-alexandria-1234785024/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-05-11 20:41 UTC",
-          "analysis_zh": "在亚历山大，考古学家发现了一座古希腊和罗马时期的圆形公共浴室，这一发现来自托勒密时期。这个浴室的出土不仅为我们提供了对古代生活方式的深入了解，也为研究古代建筑技术和社会结构提供了重要线索。这一发现的意义在于，它可能会吸引更多的游客和学者前来研究和探索亚历山大的历史，进一步推动当地的文化和经济发展。",
-          "analysis_en": "Archaeologists in Alexandria have uncovered a circular public bathhouse dating back to the Ptolemaic period, along with ancient Greek and Roman statues. This discovery offers valuable insights into the daily lives of ancient people and sheds light on their architectural techniques and social structures. Its significance lies in the potential to attract more tourists and scholars to explore Alexandria's rich history, which could further enhance the local culture and economy."
+          "analysis_zh": "在亚历山大，考古学家发现了古希腊和罗马时期的雕像，最引人注目的是一个来自托勒密时期的圆形公共浴室。这一发现不仅为我们提供了关于古代生活方式的新视角，也为研究古代建筑和社会结构提供了重要资料。这样的考古发现有助于提升人们对历史文化遗产的认识，可能会吸引更多游客前来参观，促进当地经济发展。",
+          "analysis_en": "Archaeologists in Alexandria have uncovered ancient Greek and Roman statues, with the most notable find being a circular public bathhouse from the Ptolemaic period. This discovery offers new insights into ancient lifestyles and provides valuable information for studying historical architecture and social structures. Such archaeological finds can enhance public awareness of cultural heritage and may attract more tourists, potentially boosting the local economy."
         },
         {
           "rank": 5,
@@ -384,8 +384,8 @@
           "link": "https://www.artnews.com/art-news/news/paul-klee-israel-delayed-war-iran-new-york-show-1234785012/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-05-11 20:21 UTC",
-          "analysis_zh": "由于伊朗战争的影响，保罗·克利的画作《新天使》终于抵达纽约展出。这幅作品曾属于哲学家沃尔特·本雅明，具有重要的历史和文化价值。此次展览不仅展示了克利的艺术成就，也反映了战争对艺术流通的影响。这一事件引发了人们对艺术保护和文化遗产保存的关注，可能会促使相关机构加强对艺术品的保护措施。",
-          "analysis_en": "Due to the impact of the war in Iran, Paul Klee's painting \"Angelus Novus\" has finally arrived in New York for exhibition. This piece, which was once owned by philosopher Walter Benjamin, holds significant historical and cultural value. The exhibition not only showcases Klee's artistic achievements but also highlights the effects of war on the circulation of art. This event raises awareness about the protection of art and cultural heritage, potentially prompting institutions to strengthen their measures for safeguarding artworks."
+          "analysis_zh": "保罗·克利的画作《天使新生》因伊朗战争的影响而延迟到达纽约展览。这幅画曾属于哲学家沃尔特·本雅明，具有重要的历史和文化价值。此次展览的成功举办不仅展示了艺术作品的珍贵性，也反映了战争对文化交流的阻碍。随着这幅画的到来，观众将有机会更深入地了解克利的艺术风格及其背后的历史背景。",
+          "analysis_en": "The painting \"Angelus Novus\" by Paul Klee has finally arrived in New York after delays caused by the war in Iran. This artwork, previously owned by philosopher Walter Benjamin, holds significant historical and cultural value. The successful exhibition not only highlights the importance of this piece but also underscores the impact of war on cultural exchange. With the arrival of this painting, audiences will have the opportunity to gain deeper insights into Klee's artistic style and the historical context surrounding it."
         },
         {
           "rank": 6,
@@ -393,8 +393,8 @@
           "link": "https://www.artnews.com/art-news/news/lucas-cranach-the-elder-national-gallery-provenance-hitler-1234785010/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-05-11 20:16 UTC",
-          "analysis_zh": "近日，一幅由卢卡斯·克拉纳赫（Lucas Cranach the Elder）创作的16世纪杰作被曝光，曾悬挂在希特勒的慕尼黑公寓中。这幅画作现已归属于伦敦国家美术馆。此事件引发了人们对艺术品历史和归属的深思，尤其是在与纳粹政权相关的艺术作品的道德和法律问题上。此举可能会促使更多关于战后艺术品归还和保护的讨论，影响未来的艺术市场和博物馆政策。",
-          "analysis_en": "Recently, a 16th-century masterpiece by Lucas Cranach the Elder was revealed to have once hung in Hitler's Munich apartment. The painting is now owned by the National Gallery in London. This revelation has sparked discussions about the history and ownership of artworks, particularly regarding the moral and legal implications of pieces associated with the Nazi regime. Such discussions may lead to increased dialogue about the restitution and preservation of artworks post-war, potentially influencing future art market practices and museum policies."
+          "analysis_zh": "一幅由卢卡斯·克拉纳赫创作的16世纪杰作，曾悬挂在希特勒的慕尼黑公寓内，如今已归属于伦敦国家美术馆。这幅画的历史背景引发了人们对艺术品与政治权力之间关系的深思。它的归属不仅体现了对历史的反思，也可能影响公众对艺术品的收藏和展示方式，尤其是在涉及敏感历史的情况下。",
+          "analysis_en": "A 16th-century masterpiece by Lucas Cranach the Elder, which once hung in Hitler's Munich apartment, is now owned by the National Gallery in London. The painting's historical context prompts reflection on the relationship between art and political power. Its ownership not only signifies a reckoning with history but may also influence how artworks are collected and displayed, particularly those tied to sensitive historical narratives."
         },
         {
           "rank": 7,
@@ -402,8 +402,8 @@
           "link": "https://www.designboom.com/readers/dlf-architecture-porous-urban-landscape-jerusalem-historic-corridor-midtown-jerusalem/",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-05-11 20:15 UTC",
-          "analysis_zh": "DLF建筑事务所设计了一个多孔的城市景观，旨在连接耶路撒冷的现代基础设施与其历史建筑。这个项目不仅提升了城市的可达性，还保留了历史文化的精髓，体现了现代与传统的和谐共存。这一设计的重要性在于，它为其他城市在进行城市更新时提供了借鉴，强调了在发展中保护文化遗产的必要性。未来，这种设计理念可能会影响更多城市在规划和建设时的思路。",
-          "analysis_en": "DLF Architecture has designed a porous urban landscape that connects contemporary infrastructure with the historic architecture of Jerusalem. This project enhances the city's accessibility while preserving the essence of its cultural heritage, showcasing a harmonious coexistence of modernity and tradition. The significance of this design lies in its potential to serve as a model for other cities undergoing urban renewal, emphasizing the importance of protecting cultural heritage during development. In the future, this design philosophy may influence how more cities approach their planning and construction efforts."
+          "analysis_zh": "DLF建筑事务所设计了一个多孔的城市景观，旨在连接耶路撒冷的现代基础设施与其历史建筑。这个项目不仅美化了城市环境，还促进了社区的互动与融合。通过这样的设计，耶路撒冷的历史与现代得以和谐共存，可能会吸引更多游客和投资，推动当地经济的发展。",
+          "analysis_en": "DLF Architecture has designed a porous urban landscape that connects contemporary infrastructure with the historic architecture of Jerusalem. This project not only enhances the city's aesthetic but also fosters community interaction and integration. By harmonizing the historical and modern aspects of Jerusalem, it may attract more tourists and investments, thereby boosting the local economy."
         },
         {
           "rank": 8,
@@ -411,8 +411,8 @@
           "link": "https://www.nytimes.com/2026/05/11/arts/television/the-comeback-finale.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-11 20:04 UTC",
-          "analysis_zh": "《复出》是HBO的一部喜剧，最近刚刚结束播出。该剧不仅反映了丽莎·库卓和她的创作团队内心的焦虑，也揭示了好莱坞的种种恐惧与挑战。这部剧的重要性在于它以幽默的方式探讨了娱乐行业的压力和不安，可能会影响观众对好莱坞现状的理解和反思。",
-          "analysis_en": "\"The Comeback\" is an HBO comedy that recently concluded its run. The show not only reflects the anxieties of Lisa Kudrow and her creative team but also reveals the various fears and challenges faced by Hollywood. Its significance lies in its humorous exploration of the pressures and insecurities within the entertainment industry, which may influence viewers' understanding and reflection on the current state of Hollywood."
+          "analysis_zh": "《复出》是HBO的一部喜剧，最近刚刚完结。该剧通过Lisa Kudrow及其团队的视角，探讨了他们在好莱坞所面临的恐惧与挑战。这个作品的重要性在于它不仅反映了娱乐行业的压力，也揭示了创作者在面对不确定性时的勇气与坚持。这部剧可能会影响观众对好莱坞文化的理解，并激励更多人关注那些在行业边缘挣扎的艺术家。",
+          "analysis_en": "\"The Comeback\" is an HBO comedy that recently concluded. The show, viewed through the lens of Lisa Kudrow and her collaborators, explores the fears and challenges they face in Hollywood. Its significance lies in reflecting the pressures of the entertainment industry while showcasing the courage and perseverance of creators in the face of uncertainty. This series may influence viewers' understanding of Hollywood culture and inspire more attention to artists struggling on the fringes of the industry."
         },
         {
           "rank": 9,
@@ -420,8 +420,8 @@
           "link": "https://www.artnews.com/art-news/news/nazi-looted-portrait-home-ss-leader-1234785000/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-05-11 20:02 UTC",
-          "analysis_zh": "近日，一幅被纳粹掠夺的肖像画在荷兰一名SS领导者的后代家中被发现。该家族的一名成员表示，这幅画“无法出售”，暗示了其复杂的历史背景和道德争议。这一事件引发了对艺术品来源和归属问题的广泛讨论，尤其是在涉及历史遗产和战争罪行的情况下。此事可能会促使更多国家和机构重新审视其艺术品的合法性和道德责任。",
-          "analysis_en": "Recently, a portrait looted by the Nazis was discovered in the home of a descendant of a Dutch SS leader. A family member reportedly described the painting as \"unsellable,\" highlighting the complex historical context and moral implications surrounding it. This incident has sparked widespread discussions about the provenance and ownership of artworks, especially in cases involving cultural heritage and war crimes. It may prompt more countries and institutions to reassess the legality and ethical responsibilities regarding their art collections."
+          "analysis_zh": "最近，一幅被纳粹掠夺的肖像画在荷兰一位SS领导人的后代家中被发现。该家族的一名成员表示，这幅画“无法出售”。这一事件引发了对艺术品归属和历史遗产的讨论，尤其是在二战期间被掠夺的艺术品如何处理的问题上。这不仅可能影响到相关艺术品的市场价值，也可能促使更多国家和机构重新审视其收藏品的来源和合法性。",
+          "analysis_en": "Recently, a portrait looted by the Nazis was discovered in the home of a descendant of a Dutch SS leader. A family member reportedly described the painting as \"unsellable.\" This incident has sparked discussions about the ownership of art and historical heritage, particularly regarding how art looted during World War II should be handled. This could not only affect the market value of such artworks but also prompt more countries and institutions to reevaluate the provenance and legality of their collections."
         },
         {
           "rank": 10,
@@ -429,8 +429,8 @@
           "link": "https://www.dezeen.com/2026/05/11/johnston-marklee-ray-phoenix-arizona/",
           "source": "Dezeen",
           "published_utc": "2026-05-11 19:42 UTC",
-          "analysis_zh": "加州设计工作室Johnston Marklee最近在亚利桑那州的凤凰城完成了一座名为Ray Phoenix的住宅建筑。这座高达26层的建筑外立面采用薄荷绿色金属，灵感来自周围的沙漠环境。Ray Phoenix包含401个公寓，位于市中心以外的Roosevelt Row艺术区。这座建筑的设计旨在提升社区的包容性和民主性，可能会对当地的住房市场和居民生活质量产生积极影响。",
-          "analysis_en": "California-based studio Johnston Marklee has recently completed a residential building named Ray Phoenix in Phoenix, Arizona. The 26-story structure features a mint green metal facade inspired by the surrounding desert landscape and contains 401 apartments, located just outside the downtown area in the Roosevelt Row Arts District. The design aims to enhance community inclusivity and democracy, which could positively impact the local housing market and the quality of life for residents."
+          "analysis_zh": "加州建筑事务所Johnston Marklee最近在亚利桑那州的凤凰城完成了一座名为Ray Phoenix的住宅建筑。这座高达26层的建筑外立面采用了薄荷绿色金属，灵感来自周围的沙漠环境。该项目包含401个公寓，位于凤凰城市中心附近的Roosevelt Row艺术区。这座建筑的设计旨在提升社区的包容性和民主性，可能会对当地的住房市场和城市发展产生积极影响。",
+          "analysis_en": "California-based studio Johnston Marklee has recently completed a residential building called Ray Phoenix in Phoenix, Arizona. The 26-story structure features a mint green metal facade inspired by the surrounding desert landscape and includes 401 apartments. Located just outside downtown in the Roosevelt Row Arts District, the building aims to enhance community inclusivity and democracy, which could positively impact the local housing market and urban development."
         }
       ]
     }
