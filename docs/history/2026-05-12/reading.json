@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-12 16:25:24 UTC",
-  "generated_at_unix": 1778603124,
+  "generated_at": "2026-05-12 21:52:30 UTC",
+  "generated_at_unix": 1778622750,
   "window": {
-    "from_utc": "2026-05-11 16:25:24 UTC",
-    "to_utc": "2026-05-12 16:25:24 UTC",
+    "from_utc": "2026-05-11 21:52:30 UTC",
+    "to_utc": "2026-05-12 21:52:30 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,189 +14,171 @@
       "items": [
         {
           "rank": 1,
-          "title": "Google AI legend raises big money for startup targeting this cutting-edge goal",
-          "link": "https://www.marketwatch.com/story/google-ai-legend-raises-big-money-for-startup-targeting-this-cutting-edge-goal-27699b0c?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-05-12 16:17 UTC",
-          "analysis_zh": "谷歌人工智能领域的传奇人物德米斯·哈萨比斯，近日为其新创公司Isomorphic Labs筹集了大量资金。该公司旨在利用人工智能加速新药的研发，这一目标在当前医药行业中具有重要意义。随着AI技术的不断进步，Isomorphic Labs的成功可能会改变制药行业的格局，提升药物开发的效率和成功率。",
-          "analysis_en": "Demis Hassabis, a legend in Google's artificial intelligence sector, has recently raised significant funding for his new startup, Isomorphic Labs. The company aims to leverage AI to accelerate the development of new drugs, which is a crucial goal in today's pharmaceutical industry. As AI technology continues to advance, the success of Isomorphic Labs could transform the landscape of drug development, enhancing both the efficiency and success rates of creating new medications."
+          "title": "Embecta downgraded by S&P on demand weakness, market share loss",
+          "link": "https://www.investing.com/news/stock-market-news/embecta-downgraded-by-sp-on-demand-weakness-market-share-loss-93CH-4682830",
+          "source": "Stock Market News",
+          "published_utc": "2026-05-12 21:44 UTC",
+          "analysis_zh": "投资公司Embecta因需求疲软和市场份额下降被标准普尔下调评级。这一举措反映了公司在竞争激烈的市场环境中面临的挑战，可能会影响其股价和投资者信心。评级下调不仅会影响Embecta的融资成本，还可能导致其他投资者重新评估其在该行业的地位。",
+          "analysis_en": "Embecta has been downgraded by S&P due to weak demand and a loss of market share. This action highlights the challenges the company faces in a competitive market, which could impact its stock price and investor confidence. The downgrade may not only affect Embecta's cost of financing but could also lead other investors to reassess its position in the industry."
         },
         {
           "rank": 2,
-          "title": "Why is Philip Morris International stock rallying today?",
-          "link": "https://www.investing.com/news/stock-market-news/why-is-philip-morris-international-stock-rallying-today-93CH-4681517",
-          "source": "Stock Market News",
-          "published_utc": "2026-05-12 16:14 UTC",
-          "analysis_zh": "菲利普·莫里斯国际公司的股票今天大幅上涨，主要是由于市场对其未来增长潜力的乐观预期。投资者对该公司在新兴市场的扩展以及其产品多样化战略表示认可。这一股价上涨不仅反映了市场对烟草行业的信心，也可能影响其他相关企业的股价走势。",
-          "analysis_en": "Philip Morris International's stock has surged today, primarily due to optimistic market expectations regarding its future growth potential. Investors have shown confidence in the company's expansion into emerging markets and its product diversification strategy. This increase in stock price not only reflects market confidence in the tobacco industry but may also influence the stock performance of other related companies."
+          "title": "Copper prices are now at their highest level on record. AI is only part of the story.",
+          "link": "https://www.marketwatch.com/story/copper-prices-are-now-at-their-highest-level-on-record-ai-is-only-part-of-the-story-9b269443?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-05-12 21:43 UTC",
+          "analysis_zh": "近期，铜价达到了历史最高水平，这一现象引发了市场的广泛关注。铜的需求激增，部分原因是人工智能技术的发展，但这并不是唯一的因素。霍尔木兹海峡的局势也影响了铜的精炼过程，导致供应链紧张。铜价的上涨可能会对建筑和电气行业产生深远影响，进一步推高相关产品的成本。",
+          "analysis_en": "Recently, copper prices have reached an all-time high, drawing significant attention from the market. The surge in demand for copper is partly driven by advancements in artificial intelligence, but this is not the only factor at play. The situation in the Strait of Hormuz is also affecting the refining process of copper, leading to supply chain disruptions. The rise in copper prices could have far-reaching effects on the construction and electrical industries, potentially increasing the costs of related products."
         },
         {
           "rank": 3,
-          "title": "Stocks wilt as oil rallies; Iran ceasefire ’on life support’",
-          "link": "https://www.investing.com/news/stock-market-news/ai-rally-pauses-as-middle-east-ceasefire-goes-on-life-support-4678932",
+          "title": "Fitch upgrades Canadian bank debt ratings on resolution buffers",
+          "link": "https://www.investing.com/news/stock-market-news/fitch-upgrades-canadian-bank-debt-ratings-on-resolution-buffers-93CH-4682820",
           "source": "Stock Market News",
-          "published_utc": "2026-05-12 16:13 UTC",
-          "analysis_zh": "近期股市表现疲软，主要受到油价上涨的影响。同时，伊朗的停火协议面临严峻挑战，似乎处于“生命支持”状态。这一局势引发了市场对能源价格波动和地缘政治风险的担忧，可能会对投资者的信心产生负面影响。若局势持续恶化，可能导致市场进一步动荡，影响全球经济复苏的步伐。",
-          "analysis_en": "Recently, the stock market has shown weakness, primarily due to rising oil prices. At the same time, the ceasefire agreement in Iran is facing significant challenges and appears to be \"on life support.\" This situation has raised concerns in the market about energy price volatility and geopolitical risks, which could negatively impact investor confidence. If the situation continues to deteriorate, it may lead to further market turmoil and affect the pace of global economic recovery."
+          "published_utc": "2026-05-12 21:40 UTC",
+          "analysis_zh": "惠誉评级近日上调了加拿大银行的债务评级，原因是这些银行在应对经济波动时的缓冲能力得到了改善。这一举措表明，加拿大银行的财务健康状况正在增强，可能会吸引更多的投资者关注其债务工具。此评级提升不仅有助于降低借贷成本，还可能增强市场对加拿大金融体系的信心。",
+          "analysis_en": "Fitch recently upgraded the debt ratings of Canadian banks due to improved resolution buffers that help these institutions manage economic fluctuations. This move indicates a strengthening of the financial health of Canadian banks, which may attract more investors to their debt instruments. The rating upgrade not only helps lower borrowing costs but also potentially boosts market confidence in the Canadian financial system."
         },
         {
           "rank": 4,
-          "title": "US agency says Chinese drones and routers can get software updates through 2028",
-          "link": "https://www.investing.com/news/stock-market-news/us-agency-says-chinese-drones-and-routers-can-get-software-updates-through-2028-4681510",
-          "source": "Stock Market News",
-          "published_utc": "2026-05-12 16:13 UTC",
-          "analysis_zh": "美国一家机构近日表示，中国制造的无人机和路由器将在2028年前能够进行软件更新。这一消息引发了广泛关注，因为这意味着这些设备可能会继续在技术上保持竞争力，尤其是在快速发展的科技领域。这对全球市场的影响可能是深远的，尤其是在网络安全和国际贸易方面，各国可能会重新评估与中国科技产品的合作关系。",
-          "analysis_en": "A U.S. agency recently announced that Chinese-made drones and routers will be able to receive software updates until 2028. This news has garnered significant attention as it suggests that these devices may remain competitive in the rapidly evolving tech landscape. The implications for global markets could be profound, particularly concerning cybersecurity and international trade, as countries may reassess their partnerships with Chinese technology products."
+          "title": "Trump wants gas tax relief. But slim driver savings could strain a key federal fund",
+          "link": "https://www.cnbc.com/2026/05/12/trump-gas-tax-suspension.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-05-12 21:40 UTC",
+          "analysis_zh": "特朗普总统提议暂停联邦汽油税，这一举措可能会影响消费者的支出。虽然这一政策可能会在短期内为司机带来一些经济上的缓解，但长期来看，这可能会对联邦公路信托基金造成压力。汽油税是用于维护和修建基础设施的重要资金来源，若收入减少，可能导致基础设施项目的延误或削减。因此，这一提议不仅关乎消费者的直接利益，也关系到国家交通系统的可持续发展。",
+          "analysis_en": "President Trump has proposed a suspension of the federal gas tax, which could have implications for consumer spending. While this policy might provide some short-term relief for drivers, it could strain the federal Highway Trust Fund in the long run. The gas tax is a crucial source of funding for maintaining and building infrastructure, and a decrease in revenue may lead to delays or cuts in infrastructure projects. Therefore, this proposal not only affects consumers directly but also raises concerns about the sustainability of the nation's transportation system."
         },
         {
           "rank": 5,
-          "title": "Google in talks with SpaceX for rocket launch deal - WSJ",
-          "link": "https://www.investing.com/news/stock-market-news/google-in-talks-with-spacex-for-rocket-launch-deal--wsj-93CH-4681506",
-          "source": "Stock Market News",
-          "published_utc": "2026-05-12 16:11 UTC",
-          "analysis_zh": "谷歌正在与SpaceX进行谈判，商讨火箭发射协议。这一合作可能会对太空探索和商业航天产业产生深远影响。通过与SpaceX的合作，谷歌可以利用其先进的火箭技术，推动自身在卫星互联网和数据传输领域的发展。这不仅有助于提升谷歌的市场竞争力，还可能促进整个行业的技术进步。",
-          "analysis_en": "Google is in talks with SpaceX to discuss a rocket launch deal. This collaboration could have significant implications for space exploration and the commercial space industry. By partnering with SpaceX, Google can leverage its advanced rocket technology to enhance its capabilities in satellite internet and data transmission. This not only boosts Google's competitive edge but may also drive technological advancements across the industry."
+          "title": "Waymo recalls 3,800 robotaxis after glitch allowed some vehicles to 'drive into standing water'",
+          "link": "https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-05-12 21:38 UTC",
+          "analysis_zh": "Waymo最近宣布自愿召回约3,800辆机器人出租车，以修复软件问题。这些问题可能导致车辆驶入积水的道路，这对乘客的安全构成了潜在威胁。此举不仅显示了Waymo对安全的重视，也可能影响公众对自动驾驶技术的信心。随着自动驾驶技术的不断发展，类似的事件可能会引发更广泛的监管讨论和技术改进。",
+          "analysis_en": "Waymo recently announced a voluntary recall of approximately 3,800 robotaxis to address software issues. These issues could potentially allow the vehicles to drive into flooded roadways, posing a safety risk to passengers. This move not only demonstrates Waymo's commitment to safety but may also impact public confidence in autonomous driving technology. As the development of self-driving technology continues, such incidents could lead to broader discussions on regulation and technological improvements."
         },
         {
           "rank": 6,
-          "title": "Why is Vertex Pharmaceuticals stock rallying today?",
-          "link": "https://www.investing.com/news/stock-market-news/why-is-vertex-pharmaceuticals-stock-rallying-today-93CH-4681505",
+          "title": "SpaceX eyes global spaceports as Starship launch ambitions grow ahead of IPO",
+          "link": "https://www.investing.com/news/stock-market-news/spacex-eyes-global-spaceports-as-starship-launch-ambitions-grow-ahead-of-ipo-4682812",
           "source": "Stock Market News",
-          "published_utc": "2026-05-12 16:11 UTC",
-          "analysis_zh": "今天，Vertex Pharmaceuticals的股票大幅上涨，投资者对该公司的新药研发进展感到乐观。这一涨幅表明市场对生物制药行业的信心正在恢复，尤其是在新药获得批准的情况下。此事件可能会吸引更多投资者关注该公司及其未来的产品线，从而进一步推动股价上涨。",
-          "analysis_en": "Today, Vertex Pharmaceuticals' stock has surged significantly, as investors are optimistic about the company's progress in drug development. This increase indicates a recovering market confidence in the biopharmaceutical sector, particularly when new drugs are approved. This event may attract more investors to focus on the company and its future product pipeline, potentially driving the stock price even higher."
+          "published_utc": "2026-05-12 21:37 UTC",
+          "analysis_zh": "SpaceX正在考虑全球范围内建立太空港，以支持其星舰发射计划的扩展。这一举措不仅显示了SpaceX对未来太空探索的雄心，也可能为全球航天产业带来新的机遇。随着公司计划首次公开募股（IPO），建立更多的发射基地将有助于提升其市场竞争力和投资吸引力。这一发展可能会推动相关产业链的发展，促进技术创新和经济增长。",
+          "analysis_en": "SpaceX is considering establishing global spaceports to support the expansion of its Starship launch plans. This move not only demonstrates SpaceX's ambitions for future space exploration but could also create new opportunities for the global aerospace industry. As the company prepares for its initial public offering (IPO), the establishment of additional launch sites will enhance its market competitiveness and attractiveness to investors. This development may drive growth in related industries, fostering technological innovation and economic expansion."
         },
         {
           "rank": 7,
-          "title": "Qualcomm drops 13% as chip stocks pull back from record AI-driven rally",
-          "link": "https://www.cnbc.com/2026/05/12/qualcomm-chip-stocks-record-ai.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-05-12 16:10 UTC",
-          "analysis_zh": "高通公司的股价下跌了13%，这是由于芯片股在经历了由人工智能驱动的强劲反弹后出现回调。这一变化表明，尽管AI相关的投资热潮正在扩大，但市场仍然存在波动性。高通的下跌可能会影响投资者对整个半导体行业的信心，尤其是在AI技术不断发展的背景下。未来，市场可能会更加关注芯片制造商的财务表现和技术创新，以评估其在AI领域的竞争力。",
-          "analysis_en": "Qualcomm's stock price dropped by 13% as chip stocks pulled back after a strong rally driven by artificial intelligence. This shift indicates that while the AI investment trend is broadening, the market remains volatile. Qualcomm's decline may affect investor confidence in the entire semiconductor sector, particularly as AI technology continues to evolve. Moving forward, the market may focus more on the financial performance and technological innovations of chip manufacturers to assess their competitiveness in the AI space."
+          "title": "Bitcoin slips to around $80.5k after hot CPI data boosts rate hike bets",
+          "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-81k-with-iran-tensions-us-cpi-in-focus-4678972",
+          "source": "Cryptocurrency News",
+          "published_utc": "2026-05-12 21:37 UTC",
+          "analysis_zh": "比特币价格在最新的消费者物价指数（CPI）数据公布后下滑至约80,500美元。这一数据超出市场预期，导致投资者对加息的预期增强。此事件对加密货币市场产生了重要影响，因为加息可能会抑制投资者的风险偏好，进而影响比特币及其他数字资产的需求。",
+          "analysis_en": "Bitcoin's price has dropped to around $80,500 following the release of the latest Consumer Price Index (CPI) data, which exceeded market expectations and heightened bets on interest rate hikes. This situation is significant for the cryptocurrency market, as rising interest rates could dampen investors' risk appetite, potentially affecting the demand for Bitcoin and other digital assets."
         },
         {
           "rank": 8,
-          "title": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.07%",
-          "link": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-007-4681485",
+          "title": "JBS posts 56% drop in Q1 net profit amid challenges in North American operations",
+          "link": "https://www.investing.com/news/stock-market-news/jbs-posts-56-drop-in-q1-net-profit-amid-challenges-in-north-american-operations-4682771",
           "source": "Stock Market News",
-          "published_utc": "2026-05-12 16:09 UTC",
-          "analysis_zh": "英国股市在交易结束时下跌，投资者对市场前景感到谨慎。尤其是英国100指数下跌了0.07%，反映出投资者对经济增长放缓的担忧。这一趋势可能会影响到未来的投资决策，尤其是在不确定性增加的情况下。市场的波动性可能导致更多投资者选择观望，等待更明确的经济信号。",
-          "analysis_en": "The U.K. stock market closed lower, with investors expressing caution about the market outlook. The United Kingdom 100 index fell by 0.07%, reflecting concerns over slowing economic growth. This trend may influence future investment decisions, particularly as uncertainty increases. The volatility in the market could lead more investors to adopt a wait-and-see approach, looking for clearer economic signals before committing their capital."
+          "published_utc": "2026-05-12 21:30 UTC",
+          "analysis_zh": "JBS在第一季度的净利润下降了56%，主要受到北美业务挑战的影响。这一显著的利润下滑反映了公司在该地区面临的运营困难，包括供应链问题和市场需求疲软。这一情况不仅对JBS自身的财务状况构成压力，也可能影响到其在全球市场的竞争力，进而影响投资者的信心。",
+          "analysis_en": "JBS reported a 56% drop in net profit for the first quarter, primarily due to challenges in its North American operations. This significant decline in profit highlights the operational difficulties the company is facing in the region, including supply chain issues and weak market demand. This situation not only puts pressure on JBS's financial health but may also affect its competitiveness in the global market, potentially impacting investor confidence."
         },
         {
           "rank": 9,
-          "title": "Sweden stocks lower at close of trade; OMX Stockholm 30 down 1.06%",
-          "link": "https://www.investing.com/news/stock-market-news/sweden-stocks-lower-at-close-of-trade-omx-stockholm-30-down-106-4681483",
+          "title": "Anthropic targets $900 billion valuation in massive new funding round - Bloomberg",
+          "link": "https://www.investing.com/news/stock-market-news/anthropic-targets-900-billion-valuation-in-massive-new-funding-round--bloomberg-4682767",
           "source": "Stock Market News",
-          "published_utc": "2026-05-12 16:08 UTC",
-          "analysis_zh": "瑞典股市在交易结束时出现下跌，OMX斯德哥尔摩30指数下跌了1.06%。这一变化反映了市场对经济前景的担忧，尤其是在全球经济不确定性加剧的背景下。投资者可能会因此重新评估他们的投资策略，导致市场波动加剧。",
-          "analysis_en": "Sweden's stock market closed lower, with the OMX Stockholm 30 index down by 1.06%. This decline reflects growing concerns among investors about the economic outlook, particularly amid increasing global economic uncertainties. As a result, investors may reassess their investment strategies, potentially leading to heightened market volatility."
+          "published_utc": "2026-05-12 21:30 UTC",
+          "analysis_zh": "人工智能公司Anthropic正在进行一轮新的融资，目标估值高达9000亿美元。这一巨额融资不仅显示了市场对人工智能技术的强烈兴趣，也反映出投资者对该公司的未来发展的信心。这一事件可能会影响整个行业的投资趋势，吸引更多资金流入人工智能领域，推动相关技术的进一步发展。",
+          "analysis_en": "AI company Anthropic is pursuing a new funding round with a target valuation of $900 billion. This massive funding effort not only demonstrates the strong market interest in AI technology but also reflects investors' confidence in the company's future growth. This event could influence investment trends across the industry, attracting more capital into the AI sector and driving further advancements in related technologies."
         },
         {
           "rank": 10,
-          "title": "Spain stocks lower at close of trade; IBEX 35 down 1.56%",
-          "link": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-156-4681482",
+          "title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.30%",
+          "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-030-4682766",
           "source": "Stock Market News",
-          "published_utc": "2026-05-12 16:08 UTC",
-          "analysis_zh": "西班牙股市在交易结束时下跌，IBEX 35指数下跌了1.56%。这一走势反映出市场对经济前景的担忧，尤其是在全球经济不确定性加大的背景下。投资者可能会因此重新评估他们的投资策略，导致短期内市场波动加剧。",
-          "analysis_en": "Spain's stock market closed lower, with the IBEX 35 index falling by 1.56%. This decline reflects concerns about the economic outlook, particularly amid increasing global economic uncertainty. Investors may reassess their investment strategies as a result, potentially leading to heightened market volatility in the short term."
+          "published_utc": "2026-05-12 21:30 UTC",
+          "analysis_zh": "墨西哥股市在交易结束时下跌，S&P/BMV IPC指数下跌了0.30%。这一走势反映了市场对经济前景的担忧，投资者可能对未来的政策变化感到不安。股市的波动不仅影响投资者的信心，也可能对经济增长产生连锁反应，特别是在外资流入方面。",
+          "analysis_en": "Mexican stocks closed lower, with the S&P/BMV IPC index down 0.30%. This trend reflects market concerns about the economic outlook, as investors may be uneasy about potential policy changes. The fluctuations in the stock market not only affect investor confidence but could also have a ripple effect on economic growth, particularly regarding foreign investment inflows."
         }
       ]
     },
     "健康": {
       "description": "医学、营养、抗衰老、代谢与公共健康",
-      "count": 10,
+      "count": 8,
       "items": [
         {
           "rank": 1,
+          "title": "Marty Makary, Trump’s F.D.A. Commissioner, Resigns After Weeks of Pressure",
+          "link": "https://www.nytimes.com/2026/05/12/us/politics/trump-fires-fda-commissioner-makary.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-05-12 18:56 UTC",
+          "analysis_zh": "特朗普政府的食品药品监督管理局局长马提·马卡里因受到持续压力而辞职。他在私下里表示反对政府批准香味电子烟的决定，这一立场引发了广泛关注。这一辞职事件不仅反映了政府内部的分歧，也可能影响到未来电子烟政策的制定和监管，尤其是在公众健康和青少年保护方面。",
+          "analysis_en": "Marty Makary, the commissioner of the Food and Drug Administration under the Trump administration, has resigned after facing weeks of pressure. He privately expressed his opposition to the administration's decision to approve flavored vapes, a stance that has garnered significant attention. This resignation highlights internal divisions within the government and may influence future policies and regulations regarding vaping, particularly in relation to public health and youth protection."
+        },
+        {
+          "rank": 2,
           "title": "How an ‘Impossible’ Idea Led to a Pancreatic Cancer Breakthrough",
           "link": "https://www.nytimes.com/2026/05/12/health/pancreatic-cancer-daraxonrasib-kras.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-12 14:34 UTC",
-          "analysis_zh": "最近，科学家们在胰腺癌研究中取得了突破性进展，采用了一种原本被认为“不可行”的新策略。这一发现不仅对胰腺癌的治疗具有重要意义，还可能为肺癌和结肠癌等其他肿瘤的治疗提供新的思路。此项研究的成功，可能会改变癌症治疗的现状，提升患者的生存率。",
-          "analysis_en": "Recently, scientists made a breakthrough in pancreatic cancer research by employing a new strategy that was previously deemed \"impossible.\" This discovery is significant not only for the treatment of pancreatic cancer but also holds potential for new approaches to lung and colon cancers. The success of this research could change the landscape of cancer treatment and improve survival rates for patients."
+          "analysis_zh": "科学家们最近在胰腺癌研究中取得了突破性进展，提出了一种“看似不可能”的新策略。这一方法不仅对胰腺癌有效，还有望应用于肺癌和结肠癌的治疗。这项发现的重要性在于，胰腺癌通常被认为难以治疗，新的治疗方案可能为患者带来新的希望，并改变现有的治疗模式。未来，这一研究成果可能会推动更多针对其他癌症类型的创新治疗方法。",
+          "analysis_en": "Researchers have recently made a groundbreaking advancement in pancreatic cancer by introducing a new strategy that seemed \"impossible.\" This approach not only shows promise for pancreatic cancer but could also be applied to lung and colon cancers. The significance of this discovery lies in the fact that pancreatic cancer is often considered difficult to treat, and this new treatment option may offer renewed hope for patients and alter existing treatment paradigms. In the future, these findings could drive innovative therapies for other types of cancer as well."
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Scientists reversed biological age in older adults with a 4-week diet change",
           "link": "https://www.sciencedaily.com/releases/2026/05/260511213144.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-12 12:44 UTC",
-          "analysis_zh": "悉尼大学的一项新研究发现，仅通过为期四周的饮食改变，一些老年人的生物年龄得以逆转。参与者通过减少脂肪摄入或增加植物性蛋白质的比例，改善了与衰老相关的健康生物标志物。研究结果显示，低脂高碳水化合物的饮食效果最为显著，而那些饮食习惯未发生太大变化的人几乎没有改善。这项研究的重要性在于，它提示我们即使在晚年，饮食调整也可能迅速改善健康状况，未来可能影响老年人的生活质量和疾病风险。",
-          "analysis_en": "A new study from the University of Sydney found that a four-week diet change was enough to reverse biological age in some older adults. Participants who reduced their fat intake or increased plant-based protein showed improvements in health biomarkers associated with aging. The most significant results came from a lower-fat, higher-carb diet, while those who maintained their usual eating habits saw little to no change. This research is important as it suggests that dietary adjustments in later life can quickly enhance health, potentially impacting the quality of life and disease risk for older adults in the future."
+          "analysis_zh": "悉尼大学的一项新研究表明，仅仅通过为期四周的饮食改变，一些老年人的生物年龄就能显著降低。参与者通过减少脂肪摄入或增加植物性蛋白的摄入，改善了与衰老相关的健康生物标志物。研究结果显示，低脂高碳水化合物的饮食效果最为显著，而那些饮食习惯变化不大的参与者几乎没有变化。这项研究提示，晚年时期的饮食调整可能会迅速改善健康状况，尽管研究人员强调这只是初步结果，仍需更大规模的长期研究来验证这些发现的长期影响。",
+          "analysis_en": "A new study from the University of Sydney indicates that a simple four-week dietary change can significantly reduce the biological age of some older adults. Participants who lowered their fat intake or increased their consumption of plant-based proteins showed improvements in health biomarkers associated with aging. The most notable results came from a lower-fat, higher-carbohydrate diet, while those who maintained their usual eating habits saw little to no change. This research suggests that dietary adjustments later in life may quickly enhance health outcomes, although the scientists caution that these findings are preliminary and larger, long-term studies are needed to confirm the lasting effects."
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Scientists discover hidden fat-burning switch that could strengthen bones",
           "link": "https://www.sciencedaily.com/releases/2026/05/260511213141.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-12 11:58 UTC",
-          "analysis_zh": "麦吉尔大学的科学家们发现了一种隐藏的分子“开关”，可以激活棕色脂肪中的强大卡路里燃烧系统。这个发现与甘油有关，甘油是在寒冷环境中脂肪分解时释放的分子，它能激活一种名为TNAP的酶，从而触发一个科学家们多年未能解释的替代热产生途径。这一突破不仅为理解棕色脂肪的功能提供了新视角，还可能为骨骼疾病的治疗开辟新的方向。",
-          "analysis_en": "Scientists at McGill University have discovered a hidden molecular \"switch\" that activates a powerful calorie-burning system in brown fat. This discovery revolves around glycerol, a molecule released during fat breakdown in cold conditions, which activates an enzyme called TNAP and triggers an alternative heat-producing pathway that researchers have struggled to explain for years. This breakthrough not only enhances our understanding of how brown fat functions but may also pave the way for new treatments for bone diseases."
+          "analysis_zh": "麦吉尔大学的科学家们发现了一种隐藏的分子“开关”，能够激活棕色脂肪中的强效燃烧卡路里系统。这一发现与甘油分子有关，甘油在脂肪被分解时释放，能够激活一种名为TNAP的酶，从而触发一个科学家们多年来难以解释的替代热产生途径。这项研究不仅为理解棕色脂肪的功能提供了新视角，还可能为骨病的治疗开辟新的方向。",
+          "analysis_en": "Scientists at McGill University have discovered a hidden molecular \"switch\" that activates a powerful calorie-burning system in brown fat. This breakthrough revolves around glycerol, a molecule released during fat breakdown, which activates an enzyme called TNAP and triggers an alternative heat-producing pathway that researchers have struggled to explain for years. This research not only offers new insights into the function of brown fat but could also pave the way for new treatments for bone diseases."
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "‘Trimester Zero’: What to Expect When You’re Expecting to Expect",
           "link": "https://www.nytimes.com/2026/05/12/magazine/trimester-zero-pregnancy-preconception-influencers.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-12 09:01 UTC",
-          "analysis_zh": "在“零孕期”期间，许多网红和健康专家开始提供有关怀孕的建议和解决方案。这一阶段是女性在尝试怀孕的初期，关注此时的健康和生活方式变得尤为重要。这一趋势不仅反映了现代社会对生育的重视，也可能影响女性在怀孕前的准备和选择。通过获取相关信息，女性能够更好地为怀孕做好准备，从而提高怀孕的成功率。",
-          "analysis_en": "During \"trimester zero,\" many influencers and health experts are offering advice and solutions for women trying to conceive. This phase is crucial as it focuses on the health and lifestyle choices women make before pregnancy. This trend highlights the growing societal emphasis on fertility and may influence how women prepare for conception. By accessing this information, women can better equip themselves for pregnancy, potentially increasing their chances of successful conception."
+          "analysis_zh": "“零孕期”是指女性在尝试怀孕的阶段，许多影响者和健康专家正在提供相关的怀孕建议。这一现象引发了广泛关注，因为越来越多的女性开始重视在怀孕前的准备工作。通过分享营养、心理健康和生活方式的建议，这些影响者希望帮助女性提高受孕的成功率。这种趋势可能会改变女性对怀孕的看法，并促使更多人关注生育健康。",
+          "analysis_en": "\"Trimester Zero\" refers to the period when women are trying to conceive, and many influencers and health experts are offering pregnancy-related advice during this time. This trend has garnered significant attention as more women focus on preparation before pregnancy. By sharing tips on nutrition, mental health, and lifestyle, these influencers aim to help women increase their chances of conception. This movement may shift how women perceive pregnancy and encourage a greater emphasis on reproductive health."
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Why So Many Guys Are Obsessed With Testosterone",
           "link": "https://www.nytimes.com/2026/05/12/magazine/testosterone-masculinity-trump-rfk.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-12 09:01 UTC",
-          "analysis_zh": "近年来，男性对睾酮的关注不断增加，从特朗普政府到网络影响者，这种激素被视为实现新男性理想的关键。这一现象反映了社会对男性形象的变化，以及对男性健康和活力的重视。睾酮水平的提高可能会影响男性的自信心和身体表现，但也可能引发健康风险和不必要的竞争压力。",
-          "analysis_en": "In recent years, there has been a growing obsession with testosterone among men, influenced by figures from the Trump administration to online influencers. This trend reflects a shift in societal expectations regarding masculinity and an increasing focus on male health and vitality. While higher testosterone levels may boost confidence and physical performance, they could also lead to health risks and unnecessary competitive pressures."
+          "analysis_zh": "近年来，男性对睾酮的关注显著增加，从特朗普政府到网络影响者，这种激素被视为实现新男性理想的关键。这种趋势反映了社会对男性形象的不断变化，男性在追求力量和活力的同时，也面临着心理健康的挑战。睾酮的使用可能会影响男性的身体健康和心理状态，值得引起广泛关注。",
+          "analysis_en": "In recent years, there has been a significant rise in men's obsession with testosterone, with figures from the Trump administration to online influencers promoting it as essential for achieving a new male ideal. This trend highlights the evolving societal expectations of masculinity, where men are not only pursuing strength and vitality but also facing challenges related to mental health. The use of testosterone could have implications for men's physical health and psychological well-being, making it a topic worthy of broader discussion."
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "American Factories Lag in Adopting A.I. This Drugmaker Is an Exception.",
           "link": "https://www.nytimes.com/2026/05/06/business/ai-bristol-myers-squibb-drugs.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-12 04:17 UTC",
-          "analysis_zh": "美国的工厂在人工智能的应用上普遍滞后，但布里斯托尔-迈尔斯·斯奎布（Bristol Myers Squibb）的一家癌症药物生产厂却成为了一个例外。今年，该工厂被世界经济论坛认可为创新的代表。这一成就不仅突显了该公司在药物生产中的技术进步，也可能推动其他制药公司加速采用新技术，以提升生产效率和竞争力。",
-          "analysis_en": "American factories have generally lagged in adopting artificial intelligence, but a Bristol Myers Squibb plant that produces cancer drugs stands out as an exception. This year, the plant was recognized by the World Economic Forum for its innovation. This achievement highlights the company's technological advancements in drug manufacturing and may encourage other pharmaceutical companies to accelerate the adoption of new technologies to enhance production efficiency and competitiveness."
+          "analysis_zh": "布里斯托尔-迈尔斯·斯奎布公司的一家癌症药物生产工厂在今年被世界经济论坛认定为美国唯一一家在创新方面表现突出的制造商。这一认可凸显了该公司在人工智能应用方面的领先地位，尤其是在医疗行业中。随着科技的不断进步，药品生产的效率和质量可能会得到显著提升，这对患者和整个医疗体系都具有重要意义。",
+          "analysis_en": "A Bristol Myers Squibb plant that produces cancer drugs was recognized this year by the World Economic Forum as the only manufacturer in the U.S. noted for innovation. This recognition highlights the company's leadership in adopting artificial intelligence, particularly within the healthcare sector. As technology continues to advance, the efficiency and quality of drug production may significantly improve, which is crucial for patients and the healthcare system as a whole."
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "This simple strength test could predict how long you live",
           "link": "https://www.sciencedaily.com/releases/2026/05/260510234722.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-12 01:13 UTC",
-          "analysis_zh": "一项针对超过5000名女性的重大研究发现，肌肉力量与寿命之间存在显著关联，尤其是在老年女性中。研究表明，握力强和能够快速从椅子上站起的能力与未来八年内的死亡风险降低密切相关。这一发现强调了保持肌肉力量的重要性，可能会影响老年人的健康管理和生活方式选择。",
-          "analysis_en": "A significant study involving over 5,000 women has found a strong link between muscle strength and longevity, particularly in older women. The research indicates that a firm grip and the ability to quickly stand up from a chair are associated with a lower risk of death over the next eight years. This finding underscores the importance of maintaining muscle strength, which could influence health management and lifestyle choices for older adults."
-        },
-        {
-          "rank": 8,
-          "title": "Supreme Court Continues Access to Abortion Pill by Mail, for a Few Days",
-          "link": "https://www.nytimes.com/2026/05/11/us/politics/supreme-court-abortion-pill-mifepristone.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-05-11 20:03 UTC",
-          "analysis_zh": "美国最高法院暂时允许通过邮件获取堕胎药物米非司酮，直到至少周四。这一决定是在联邦上诉法院对食品药品监督管理局的裁决进行暂停后作出的。此举对许多女性来说至关重要，因为它确保了她们在获取堕胎药物时不会受到限制。此事件可能会影响未来有关堕胎权利的法律争议，尤其是在一些州对堕胎的限制日益严格的背景下。",
-          "analysis_en": "The U.S. Supreme Court has temporarily allowed access to the abortion pill mifepristone by mail until at least Thursday. This decision comes after a federal appeals court ruling that would have restricted access was paused. This move is crucial for many women, as it ensures they can obtain the abortion medication without limitations. The situation may influence future legal debates surrounding abortion rights, particularly in light of increasing restrictions in certain states."
-        },
-        {
-          "rank": 9,
-          "title": "RFK Jr. Is Driving a Vast Inquiry Into Vaccines, Despite His Public Silence",
-          "link": "https://www.nytimes.com/2026/05/11/health/kennedy-vaccine-safety.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-05-11 20:02 UTC",
-          "analysis_zh": "健康部长罗伯特·F·肯尼迪 Jr. 在白宫的指示下，减少了对疫苗的公开批评。然而，在他的部门内部，一项大规模的研究工作仍然是首要任务。这一变化表明，尽管表面上保持沉默，但对疫苗的调查仍在继续，可能会影响公众对疫苗的信任和政策的制定。此举也反映出政府在疫苗问题上的复杂立场，可能会引发更广泛的讨论和争议。",
-          "analysis_en": "Health Secretary Robert F. Kennedy Jr. has reduced his public criticism of vaccines under orders from the White House. However, within his department, a large-scale research initiative remains a top priority. This shift indicates that, despite his silence, investigations into vaccines are ongoing, which could affect public trust in vaccines and influence policy decisions. This move also highlights the government's complex stance on vaccination issues, potentially sparking broader discussions and controversies."
-        },
-        {
-          "rank": 10,
-          "title": "Cruise Ship Hit by Hantavirus Leaves Canary Islands and Sails Toward Netherlands",
-          "link": "https://www.nytimes.com/2026/05/11/world/europe/hantavirus-cruise-ship-canary-islands.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-05-11 19:54 UTC",
-          "analysis_zh": "一艘邮轮因汉坦病毒疫情而离开加那利群岛，驶向荷兰。最后一批撤离人员已经在加那利群岛下船，船上只剩下少量工作人员。此次事件引发了公众对邮轮安全和卫生的关注，尤其是在疫情频发的背景下。邮轮抵达鹿特丹后，将进行全面消毒，这可能会影响未来邮轮旅游的安排和乘客的信心。",
-          "analysis_en": "A cruise ship affected by a hantavirus outbreak has departed from the Canary Islands and is heading toward the Netherlands. The last evacuees have disembarked in the Canary Islands, leaving only a small crew on board. This incident has raised public concern about the safety and hygiene of cruise ships, especially in the context of ongoing health crises. Upon arrival in Rotterdam, the ship will undergo thorough disinfection, which may impact future cruise travel arrangements and passenger confidence."
+          "analysis_zh": "一项新的研究表明，肌肉力量可能是健康老龄化的重要因素，尤其对于年长女性而言。研究发现，握力强和能够快速从椅子上站起的能力与死亡风险显著降低相关。这项研究涉及超过5000名年龄在63至99岁之间的女性，结果显示，肌肉力量的提升与更长的寿命密切相关。这一发现不仅强调了力量训练的重要性，也可能影响未来老年人健康管理的策略。",
+          "analysis_en": "A new study suggests that muscle strength may be a crucial factor for healthy aging, particularly for older women. The research found that a strong grip and the ability to quickly stand up from a chair were significantly linked to a lower risk of death. Involving over 5,000 women aged between 63 and 99, the results indicate that increased muscle strength is closely associated with longer life expectancy. This finding not only highlights the importance of strength training but may also influence future strategies for managing health in the elderly."
         }
       ]
     },
@@ -210,8 +192,8 @@
           "link": "https://aeon.co/essays/how-does-the-deep-earth-see-humanity",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-05-12 10:00 UTC",
-          "analysis_zh": "这篇文章探讨了人类对地球的理解，强调我们需要一种新的想象力，将深层地球的力量与表面生命的活力联系起来。这一观点的重要性在于，它促使我们重新审视人与自然的关系，认识到深层生态系统对表层生命的影响。这样的思考可能会影响我们在环境保护和可持续发展方面的政策和行动。",
-          "analysis_en": "This article discusses our understanding of Earth, emphasizing the need for a new imagination that connects the power of the deep planet with the vitality of the surface. This perspective is significant as it encourages us to reevaluate the relationship between humanity and nature, recognizing the impact of deep ecosystems on surface life. Such reflections may influence our policies and actions regarding environmental protection and sustainable development."
+          "analysis_zh": "这篇文章探讨了人类与地球深层和表层之间的关系，呼吁我们需要一种新的想象力来理解整个地球。作者詹姆斯·迪宁指出，深层地球的力量与表层的活力之间存在重要的联系。这一观点的重要性在于，它促使我们重新思考人类在生态系统中的角色，以及如何更好地保护和利用地球资源。这样的思考可能会影响未来的环境政策和人类与自然的关系。",
+          "analysis_en": "This article explores the relationship between humanity and the deep and surface layers of the Earth, calling for a new imagination to understand the whole planet. The author, James Dinneen, emphasizes the significant connection between the power of the deep Earth and the vitality of the surface. This perspective is important as it encourages us to rethink humanity's role within the ecosystem and how we can better protect and utilize Earth's resources. Such reflections could influence future environmental policies and the relationship between humans and nature."
         }
       ]
     },
@@ -221,93 +203,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Here’s the latest.",
-          "link": "https://www.nytimes.com/live/2026/05/12/technology/openai-trial-sam-altman-elon-musk/heres-the-latest",
+          "title": "Musk Lawyer’s Question for Sam Altman on the Stand: Are You Trustworthy?",
+          "link": "https://www.nytimes.com/2026/05/12/technology/sam-altman-openai-trial-elon-musk-lawyers.html",
           "source": "NYT > Technology",
-          "published_utc": "2026-05-12 16:10 UTC",
-          "analysis_zh": "最近，人工智能技术的发展引起了广泛关注。许多公司正在加大对AI研发的投资，以提高生产效率和创新能力。这一趋势不仅改变了行业格局，还可能对就业市场产生深远影响，促使人们重新思考未来的职业选择和技能需求。",
-          "analysis_en": "Recently, the rapid advancement of artificial intelligence technology has garnered significant attention. Many companies are increasing their investments in AI research and development to enhance productivity and foster innovation. This trend is not only reshaping industry dynamics but may also have profound implications for the job market, prompting a reevaluation of future career choices and skill requirements."
+          "published_utc": "2026-05-12 21:25 UTC",
+          "analysis_zh": "OpenAI的首席执行官萨姆·阿尔特曼在法庭上表示，他担心埃隆·马斯克想要控制这家人工智能实验室。这一言论引发了广泛关注，因为马斯克作为科技界的领军人物，对人工智能的发展有着重要影响。此事件不仅可能影响OpenAI的未来方向，也可能对整个人工智能行业的监管和治理产生深远的影响。",
+          "analysis_en": "Sam Altman, the CEO of OpenAI, expressed concerns in court that Elon Musk might seek control over the AI lab. This statement has garnered significant attention, as Musk is a prominent figure in the tech industry with considerable influence over AI development. The incident could not only affect the future direction of OpenAI but also have far-reaching implications for the regulation and governance of the entire AI sector."
         },
         {
           "rank": 2,
-          "title": "Sam Altman takes the stand in trial against Elon Musk",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/916975/altman-takes-stand-elon-musk-openai-trial",
+          "title": "Meta won’t let you block its AI account on Threads",
+          "link": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
           "source": "The Verge",
-          "published_utc": "2026-05-12 16:05 UTC",
-          "analysis_zh": "OpenAI首席执行官萨姆·阿尔特曼在加利福尼亚联邦法院的高调陪审团审判中开始作证，指控埃隆·马斯克。阿尔特曼与OpenAI总裁格雷格·布罗克曼是马斯克提起诉讼的主要被告。三人曾是OpenAI的创始团队成员，但随着时间推移，马斯克与其他创始人之间的关系逐渐恶化，最终他选择退出公司并创办了直接竞争对手xAI。这场审判不仅涉及个人之间的争执，也可能对AI行业的未来发展产生深远影响。",
-          "analysis_en": "OpenAI CEO Sam Altman has begun his testimony in a high-profile jury trial against Elon Musk in a California federal courtroom. Altman and OpenAI president Greg Brockman are primary defendants in the lawsuit brought by Musk. The three were part of the founding team of OpenAI, but over time, Musk's relationship with the other founders soured, leading him to leave the company and establish his own competitor, xAI. This trial not only highlights personal conflicts but may also have significant implications for the future of the AI industry."
+          "published_utc": "2026-05-12 20:35 UTC",
+          "analysis_zh": "Meta最近宣布正在测试一项新功能，允许用户在Threads平台上标记Meta AI账户，以获取问题的答案或对话的背景信息。然而，用户发现无法屏蔽这个Meta AI账户，这引发了不满。这项功能的推出表明Meta在人工智能领域的持续投资，旨在与OpenAI和谷歌等竞争对手保持同步。此举可能会影响用户对Threads的使用体验，尤其是在隐私和控制权方面的担忧。",
+          "analysis_en": "Meta recently announced that it is testing a new feature on Threads that allows users to tag a Meta AI account for answers to questions or context about conversations. However, users have discovered that they cannot block this Meta AI account, which has led to dissatisfaction. The introduction of this feature highlights Meta's ongoing investment in artificial intelligence, aiming to keep pace with competitors like OpenAI and Google. This move could affect users' experience on Threads, particularly concerning concerns about privacy and control."
         },
         {
           "rank": 3,
-          "title": "Is Anthropic’s Claude Mythos Really a Cybersecurity Risk?",
-          "link": "https://www.nytimes.com/2026/05/12/technology/anthropic-claude-mythos.html",
+          "title": "Here’s the latest.",
+          "link": "https://www.nytimes.com/live/2026/05/12/technology/openai-trial-sam-altman-elon-musk/heres-the-latest",
           "source": "NYT > Technology",
-          "published_utc": "2026-05-12 16:01 UTC",
-          "analysis_zh": "Anthropic公司表示，其人工智能系统Claude Mythos过于危险，不适合公开发布。这一声明引发了关于网络安全的旧辩论，许多人开始质疑人工智能技术的潜在风险和安全性。这一事件的重要性在于，它不仅影响了公众对AI技术的信任，也可能促使更多企业在开发新技术时更加谨慎，确保安全性和合规性。",
-          "analysis_en": "Anthropic has stated that its AI system, Claude Mythos, is too dangerous to be released to the public. This claim has reignited an old debate about cybersecurity, raising concerns about the potential risks and safety of AI technologies. The significance of this event lies in its impact on public trust in AI, and it may encourage more companies to adopt a cautious approach in developing new technologies, ensuring safety and compliance."
+          "published_utc": "2026-05-12 20:01 UTC",
+          "analysis_zh": "最近，人工智能技术的迅速发展引发了广泛关注。许多企业正在积极投资于AI，以提高生产效率和创新能力。这一趋势不仅改变了商业模式，还可能对就业市场产生深远影响，尤其是在传统行业中。随着AI的普及，社会需要重新审视教育和职业培训，以适应新的技术环境。",
+          "analysis_en": "Recently, the rapid advancement of artificial intelligence technology has garnered significant attention. Many companies are actively investing in AI to enhance productivity and foster innovation. This trend is not only transforming business models but may also have profound implications for the job market, particularly in traditional industries. As AI becomes more widespread, society needs to reassess education and vocational training to adapt to the new technological landscape."
         },
         {
           "rank": 4,
-          "title": "A.I. and Humans Battle It Out in a Cybersecurity Showdown",
-          "link": "https://www.nytimes.com/2026/05/12/technology/ai-cybersecurity-competition.html",
-          "source": "NYT > Technology",
-          "published_utc": "2026-05-12 16:00 UTC",
-          "analysis_zh": "在一场全国性的比赛中，专家和大学生们利用人工智能代理进行网络入侵和防御的对抗。这场比赛展示了人工智能在网络安全领域的潜力和应用价值。随着网络攻击日益猖獗，提升网络防御能力显得尤为重要。这项竞赛不仅推动了技术的发展，也为未来的网络安全人才培养提供了新的思路。",
-          "analysis_en": "In a national competition, experts and college students used AI agents to engage in a showdown of hacking and defending computer networks. This event highlighted the potential and value of AI in the field of cybersecurity. As cyberattacks become increasingly rampant, enhancing network defense capabilities is crucial. The competition not only advances technological development but also offers new insights into training future cybersecurity professionals."
+          "title": "Meta will tell parents when their teens add new interests to their Instagram algorithm",
+          "link": "https://www.theverge.com/tech/929009/meta-teen-accounts-algorithm-parental-controls",
+          "source": "The Verge",
+          "published_utc": "2026-05-12 19:56 UTC",
+          "analysis_zh": "Meta 最近在 Instagram 上推出了一项新功能，允许家长查看他们青少年账户中的兴趣主题。这个功能将帮助家长了解青少年在平台上关注的内容，例如篮球或时尚。此外，Meta 还表示，家长将会收到通知，当他们的孩子添加新的兴趣时。这项措施旨在增强家长对青少年社交媒体使用的监督，可能会影响青少年对内容的选择和社交互动方式。",
+          "analysis_en": "Meta recently introduced a new feature on Instagram that allows parents to see the interest topics in their teens' accounts. This feature will help parents understand what their teens are engaging with on the platform, such as basketball or fashion. Additionally, Meta announced that parents will be notified when their teens add new interests. This initiative aims to enhance parental oversight of teens' social media usage and may influence the way teens choose content and interact socially."
         },
         {
           "rank": 5,
-          "title": "George Clooney, Tom Hanks, and Meryl Streep back new ‘Human Consent Standard’ for AI licensing",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/928534/rsl-media-human-consent-standard",
-          "source": "The Verge",
-          "published_utc": "2026-05-12 16:00 UTC",
-          "analysis_zh": "好莱坞演员和制作人们支持一项新的人工智能许可标准，旨在明确AI系统在使用个人肖像、创作作品、角色和设计时是否需要支付费用。这个“人类同意标准”允许人们为他们的作品或肖像设定使用条款，包括完全授权AI系统使用他们的内容，或在特定条件下允许访问，甚至完全限制访问。这项标准的推出对创作者的权益保护具有重要意义，可能会影响未来AI技术在娱乐行业的应用和发展。",
-          "analysis_en": "Hollywood actors and producers are backing a new AI licensing standard that will clarify whether AI systems need to pay to use a person's likeness, creative works, characters, and designs. The \"Human Consent Standard\" allows individuals to set terms for how their work or likeness can be used, including granting full permission for AI systems to use their content, allowing access under certain conditions, or completely restricting access. This new standard is significant for protecting creators' rights and may influence the future application and development of AI technology in the entertainment industry."
+          "title": "Sam Altman has been targeted in a backlash against A.I.",
+          "link": "https://www.nytimes.com/live/2026/05/12/technology/openai-trial-sam-altman-elon-musk/sam-altman-has-been-targeted-in-a-backlash-against-ai",
+          "source": "NYT > Technology",
+          "published_utc": "2026-05-12 19:00 UTC",
+          "analysis_zh": "最近，OpenAI的首席执行官山姆·阿尔特曼因人工智能技术引发的公众反弹而受到关注。这一事件凸显了社会对人工智能潜在风险的担忧，尤其是在隐私和安全方面。阿尔特曼的处境不仅影响了他个人的职业生涯，也可能对整个AI行业的监管政策产生深远影响。",
+          "analysis_en": "Recently, Sam Altman, the CEO of OpenAI, has come under scrutiny due to a backlash against artificial intelligence technology. This situation highlights societal concerns regarding the potential risks of AI, particularly in terms of privacy and security. Altman's predicament could not only affect his personal career but also have significant implications for regulatory policies across the entire AI industry."
         },
         {
           "rank": 6,
-          "title": "Rivian’s AI-powered voice assistant is ready to roll",
-          "link": "https://www.theverge.com/transportation/928651/rivian-ai-voice-assistant-r1-r2",
+          "title": "Sam Altman says Elon Musk’s mind games were damaging OpenAI",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
           "source": "The Verge",
-          "published_utc": "2026-05-12 15:51 UTC",
-          "analysis_zh": "Rivian今天正式推出了其人工智能驱动的语音助手，适用于公司的所有兼容车型。该助手通过软件更新提供给所有订阅了Connect Plus服务的Rivian Gen 1和Gen 2车主，该服务每月收费15美元或每年150美元。这一助手的推出标志着Rivian在智能汽车领域的进一步发展，能够提升用户的驾驶体验，并与第三方应用如Google日历进行配合。随着技术的不断进步，这种集成可能会改变未来汽车的交互方式，推动智能汽车市场的竞争。",
-          "analysis_en": "Rivian has officially launched its AI-powered voice assistant today, which will be available for all compatible vehicles in its fleet. The assistant is accessible through a software update for Rivian Gen 1 and Gen 2 vehicle owners who subscribe to the Connect Plus service, costing $15 per month or $150 per year. The introduction of this assistant signifies Rivian's advancement in the smart vehicle sector, enhancing the user driving experience and integrating with third-party applications like Google Calendar. As technology continues to evolve, this integration may transform the way we interact with vehicles in the future, intensifying competition in the smart car market."
+          "published_utc": "2026-05-12 17:34 UTC",
+          "analysis_zh": "OpenAI首席执行官萨姆·阿尔特曼在证词中表示，埃隆·马斯克对这家人工智能初创公司的文化造成了“巨大损害”。他提到，马斯克要求OpenAI的总裁格雷格·布罗克曼和前首席科学家伊利亚·苏茨克维尔根据研究人员的成就进行排名，并“用链锯砍掉一部分”。阿尔特曼指出，这种管理风格与OpenAI的研究环境不相容，影响了团队的士气和创新能力。马斯克的离开被认为是对团队士气的提升，这表明他在公司内部的管理方式可能不适合科研团队的需求。",
+          "analysis_en": "OpenAI CEO Sam Altman stated in his testimony that Elon Musk caused \"huge damage\" to the culture of the AI startup. He mentioned that Musk required OpenAI's president Greg Brockman and former chief scientist Ilya Sutskever to rank researchers based on their achievements and \"take a chainsaw through a bunch.\" Altman emphasized that this management style was incompatible with the research environment at OpenAI, negatively impacting team morale and innovation. Musk's departure is seen as a morale boost for the team, indicating that his management approach may not have suited the needs of a research-focused organization."
         },
         {
           "rank": 7,
-          "title": "China Sought Access to Anthropic’s Newest A.I. The Answer Was No.",
-          "link": "https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html",
+          "title": "This is Sam Altman’s first time testifying in court.",
+          "link": "https://www.nytimes.com/live/2026/05/12/technology/openai-trial-sam-altman-elon-musk/this-is-sam-altmans-first-time-testifying-in-court",
           "source": "NYT > Technology",
-          "published_utc": "2026-05-12 15:36 UTC",
-          "analysis_zh": "中国试图获取Anthropic最新人工智能技术的访问权限，但遭到拒绝。这一事件凸显了美国在人工智能领域的领先地位，进一步加剧了中美之间的竞争。随着人工智能技术的快速发展，这种竞争可能会影响全球科技格局和经济实力，尤其是在创新和安全领域。",
-          "analysis_en": "China sought access to Anthropic's latest artificial intelligence technology but was denied. This incident highlights the United States' leading position in the AI sector and intensifies the rivalry between the two countries. As AI technology continues to evolve rapidly, this competition could impact the global tech landscape and economic power, particularly in areas of innovation and security."
+          "published_utc": "2026-05-12 17:08 UTC",
+          "analysis_zh": "OpenAI的首席执行官山姆·阿尔特曼首次在法庭上作证，涉及人工智能技术的法律和伦理问题。这次听证会的重要性在于，它可能会影响未来人工智能的监管框架，尤其是在数据隐私和安全方面。公众和立法者对人工智能的潜在风险越来越关注，因此这次证词可能会推动相关法律的制定和修订。",
+          "analysis_en": "Sam Altman, the CEO of OpenAI, testified in court for the first time regarding legal and ethical issues surrounding artificial intelligence technology. This hearing is significant as it could influence the future regulatory framework for AI, particularly concerning data privacy and security. With growing public and legislative concern over the potential risks of AI, this testimony may lead to the development and revision of relevant laws."
         },
         {
           "rank": 8,
-          "title": "EBay Rejects GameStop’s $55 Billion Takeover Bid",
-          "link": "https://www.nytimes.com/2026/05/12/business/ebay-gamestop-takeover.html",
-          "source": "NYT > Technology",
-          "published_utc": "2026-05-12 15:32 UTC",
-          "analysis_zh": "电子商务平台eBay拒绝了GameStop提出的550亿美元收购提案，称该现金和股票的方案“既不可信也不具吸引力”。这一决定对GameStop来说是一个重大挫折，因为它试图通过收购扩大其业务范围。eBay的拒绝可能会影响GameStop的股价和未来的收购策略，同时也反映了市场对其收购能力的怀疑。",
-          "analysis_en": "The online marketplace eBay has rejected GameStop's $55 billion takeover bid, stating that the cash-and-stock proposal is \"neither credible nor attractive.\" This decision represents a significant setback for GameStop as it seeks to expand its business through acquisitions. eBay's rejection may impact GameStop's stock price and future acquisition strategies, while also reflecting skepticism in the market regarding its acquisition capabilities."
+          "title": "Android Auto is now one (screen) size fits all",
+          "link": "https://www.theverge.com/tech/927759/android-auto-is-now-one-screen-size-fits-all",
+          "source": "The Verge",
+          "published_utc": "2026-05-12 17:00 UTC",
+          "analysis_zh": "本周在I/O大会上，谷歌推出了一系列针对Android Auto的重大更新。这些更新包括对不规则形状屏幕的更好适配、YouTube视频流播放、支持小部件以及更多基于AI的Gemini功能。这一更新标志着Android Auto十年来的最大变革，尤其是在屏幕尺寸的适应性上，谷歌能够更好地满足不同车型的需求。这一变化不仅提升了用户体验，也可能推动汽车行业在智能化和个性化方面的发展。",
+          "analysis_en": "This week at the I/O conference, Google announced a series of significant updates for Android Auto. These updates include better adaptation for unconventionally shaped screens, video streaming through YouTube, widget support, and more AI-powered Gemini features. This update represents the biggest change in Android Auto's ten-year history, particularly in terms of screen size adaptability, allowing Google to better meet the needs of various vehicle models. This change not only enhances user experience but may also drive advancements in smart and personalized features within the automotive industry."
         },
         {
           "rank": 9,
-          "title": "Anker’s fast, foldable 3-in-1 charging station is back to its best price yet",
-          "link": "https://www.theverge.com/gadgets/928600/anker-prime-wireless-charging-station-jbl-flip-7-deal-sale",
+          "title": "Google announces its Chromebook successor: the Googlebook",
+          "link": "https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook",
           "source": "The Verge",
-          "published_utc": "2026-05-12 15:23 UTC",
-          "analysis_zh": "安克（Anker）推出的Prime无线充电站再次回到了历史最低价，现售价为104.99美元，优惠幅度达到45美元。这款小巧而强大的3合1充电器可以同时为iPhone、Apple Watch和耳机充电。此次降价对于消费者来说是一个难得的机会，尤其是在节假日购物季即将来临之际，可能会吸引更多用户选择这款产品。",
-          "analysis_en": "Anker's Prime Wireless Charging Station is back at its best price yet, now available for $104.99, which is a $45 discount. This compact yet powerful 3-in-1 charger can charge an iPhone, Apple Watch, and earbuds simultaneously. The price drop presents a great opportunity for consumers, especially with the holiday shopping season approaching, which may lead to increased interest in this product."
+          "published_utc": "2026-05-12 17:00 UTC",
+          "analysis_zh": "谷歌宣布将在秋季推出一款新系列笔记本电脑，名为Googlebook。这一消息是在谷歌的Android发布会上透露的，尽管目前关于产品的细节还很有限，但这标志着谷歌在笔记本电脑市场的一项重大新举措。新设备将取代Chromebook，搭载一种新的操作系统，预计将结合Android和ChromeOS的特点。此举可能会影响笔记本电脑行业的竞争格局，尤其是在教育和轻办公市场。",
+          "analysis_en": "Google has announced a new line of laptops called Googlebooks, set to launch this fall. This announcement was made during Google's Android Show, although details about the product are still limited. This move represents a significant new initiative for Google in the laptop market, aiming to succeed the Chromebook with a new operating system that is rumored to combine features of Android and ChromeOS. This development could impact the competitive landscape of the laptop industry, particularly in the education and lightweight office sectors."
         },
         {
           "rank": 10,
-          "title": "Google’s Aluminium OS revealed in 16-minute leaked video",
-          "link": "https://www.theverge.com/tech/928598/google-aluminium-os-mystic-leaks-video",
+          "title": "The 9 biggest new features in Android 17",
+          "link": "https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io",
           "source": "The Verge",
-          "published_utc": "2026-05-12 14:52 UTC",
-          "analysis_zh": "谷歌即将推出的Aluminium OS在谷歌的Android Show发布前几小时泄露，泄露者Mystic Leaks在其Telegram频道上分享了一段长达16分钟的视频，展示了这一新操作系统的演示。该系统是谷歌为PC开发的Android新版本，视频中显示的界面和设置过程与传统Android相似，但经过调整以适应笔记本电脑的使用。此次泄露不仅引发了对新系统的关注，也可能影响谷歌在PC市场的竞争力，尤其是在与其他操作系统的比较中。",
-          "analysis_en": "Google's upcoming Aluminium OS leaked just hours before the company's Android Show presentation, with leaker Mystic Leaks sharing a 16-minute video on their Telegram channel that showcases a hands-on demo of the new operating system. This OS is a new version of Android designed for PCs, and the video reveals an interface and setup process that closely resemble traditional Android, but adapted for laptop use. This leak not only generates interest in the new system but may also impact Google's competitiveness in the PC market, particularly in comparison to other operating systems."
+          "published_utc": "2026-05-12 17:00 UTC",
+          "analysis_zh": "谷歌最近在其Android Show上发布了Android 17的重大更新，推出了许多新功能，包括增强的语音输入和基于情绪的部件。这些新特性不仅提升了用户体验，还引入了全新的表情符号和屏幕时间管理工具，帮助用户避免分心的应用程序。这些更新的重要性在于，它们展示了谷歌在人工智能和用户界面设计方面的持续创新，可能会吸引更多用户使用Android系统，并推动市场竞争。",
+          "analysis_en": "Google recently unveiled significant updates for Android 17 during its Android Show, introducing a variety of new features such as improved dictation and vibe-coded widgets. These enhancements not only improve user experience but also include a complete overhaul of emojis and a new screentime management tool to help users avoid distracting apps. The importance of these updates lies in their demonstration of Google's ongoing innovation in artificial intelligence and user interface design, which may attract more users to the Android system and drive competition in the market."
         }
       ]
     },
@@ -317,93 +299,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Rex Reed, Film Critic Known for Acerbic Reviews, Dies at 87",
-          "link": "https://www.nytimes.com/2026/05/12/movies/rex-reed-dead.html",
+          "title": "Claire Maurier, the Narcissistic Mother in ‘400 Blows,’ Dies at 97",
+          "link": "https://www.nytimes.com/2026/05/12/movies/claire-maurier-dead.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-05-12 16:21 UTC",
-          "analysis_zh": "著名影评人雷克斯·里德于87岁去世，他以尖锐的评论风格而闻名。里德不仅热爱旧好莱坞的明星，还与弗兰克·辛纳特拉等人展开过激烈的争论。他的去世标志着一个时代的结束，对影评界产生了深远的影响。里德的独特视角和犀利的语言将激励未来的影评人，继续探索电影艺术的深度与广度。",
-          "analysis_en": "Renowned film critic Rex Reed passed away at the age of 87, known for his acerbic review style. Reed had a deep admiration for Old Hollywood stars and engaged in fierce debates with figures like Frank Sinatra. His death marks the end of an era and will have a profound impact on the world of film criticism. Reed's unique perspective and sharp language will inspire future critics to continue exploring the depths and breadth of cinematic art."
+          "published_utc": "2026-05-12 21:15 UTC",
+          "analysis_zh": "克莱尔·莫里耶，这位在《四百下》中的自恋母亲，近日去世，享年97岁。作为新浪潮电影的标志性人物，她在全球范围内获得了持久的关注。她的演艺生涯不仅限于此，还曾在《鸟笼》和《天使爱美丽》中有出色表现。她的离世标志着一个时代的结束，也让人们重新审视她在电影史上的重要地位。",
+          "analysis_en": "Claire Maurier, who played the narcissistic mother in \"The 400 Blows,\" has passed away at the age of 97. As a landmark figure in New Wave cinema, she gained lasting global recognition through her role. Her career extended beyond this film, with notable performances in \"La Cage Aux Folles\" and \"Amélie.\" Her death marks the end of an era and prompts a reevaluation of her significant contributions to film history."
         },
         {
           "rank": 2,
-          "title": "jongjin park turns folded paper into porcelain for LOEWE craft prize 2026 winning work",
-          "link": "https://www.designboom.com/design/jongjin-park-folded-paper-porcelain-loewe-craft-prize-2026/",
+          "title": "yuko mohri tunes into the unseen energies connecting people and objects",
+          "link": "https://www.designboom.com/art/yuko-mohri-unseen-energies-people-objects-entanglements-centro-botin-interview/",
           "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-05-12 16:08 UTC",
-          "analysis_zh": "韩国艺术家朴钟仁凭借其作品《幻影的层次》赢得了2026年LOEWE工艺奖。这件作品结合了瓷器、纸张、染料和釉料，展现了艺术家对材料和形式的独特理解。这一获奖不仅提升了朴钟仁的国际声誉，也为当代陶瓷艺术注入了新的活力，可能会激励更多艺术家探索跨界创作的可能性。",
-          "analysis_en": "South Korean artist Jongjin Park has won the LOEWE Craft Prize 2026 with his work titled \"Strata of Illusion.\" This piece combines porcelain, paper, stain, and glaze, showcasing the artist's unique understanding of materials and forms. This award not only enhances Park's international reputation but also injects new vitality into contemporary ceramic art, potentially inspiring more artists to explore cross-disciplinary creation."
+          "published_utc": "2026-05-12 21:00 UTC",
+          "analysis_zh": "艺术家毛利优子在Centro Botín展出了她的作品，探索人和物体之间看不见的能量。她的展览包括动态环境、即兴声景和受空气、湿度、碎片及偶然性影响的互动装置。这一展览不仅展示了艺术与科技的结合，还引发了观众对人与物体关系的深刻思考，可能会影响未来艺术创作的方向。",
+          "analysis_en": "Artist Yuko Mohri presented her work at Centro Botín, exploring the unseen energies connecting people and objects. The exhibition features kinetic environments, improvised soundscapes, and interactive installations shaped by air, humidity, debris, and chance. This exhibition not only showcases the intersection of art and technology but also prompts deep reflections on the relationship between humans and objects, potentially influencing the direction of future artistic creations."
         },
         {
           "rank": 3,
-          "title": "Art and Cultural Engagement Can Slow the Pace of Aging: Report",
-          "link": "https://www.artnews.com/art-news/news/art-cultural-engagement-slow-down-aging-1234785102/",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-05-12 15:54 UTC",
-          "analysis_zh": "一项来自英国的研究表明，艺术和文化参与能够减缓衰老的速度。研究结果显示，参与艺术活动不仅有助于心理健康，还可能在生物学上影响衰老过程。这一发现的重要性在于，它为老年人提供了新的生活方式选择，可能会改善他们的生活质量和幸福感。此外，这也为政策制定者提供了依据，鼓励更多的艺术和文化项目投入到老年人群体中。",
-          "analysis_en": "A UK-based study has found that engagement in art and culture can slow the aging process. The results indicate that participating in artistic activities not only benefits mental health but may also have biological effects on aging. This finding is significant as it offers new lifestyle options for older adults, potentially enhancing their quality of life and overall well-being. Furthermore, it provides policymakers with a rationale to invest more in arts and cultural programs targeting the elderly population."
+          "title": "Drawings Dominate at a Chicago de Kooning Exhibit",
+          "link": "https://www.nytimes.com/2026/05/12/arts/design/willem-de-kooning-drawings-chicago-art-institute.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-05-12 20:27 UTC",
+          "analysis_zh": "在芝加哥艺术学院，威廉·德库宁的绘画作品展览中，素描作品首次成为焦点，这与以往以油画为主的展览形成鲜明对比。这一展览展示了德库宁的素描技巧，突显了他在艺术创作中的独特视角。这一变化不仅丰富了观众对德库宁艺术的理解，也可能影响未来艺术展览的策划方向，鼓励更多关注绘画以外的艺术形式。",
+          "analysis_en": "The Art Institute of Chicago is showcasing the masterful drawings of Willem de Kooning, marking a departure from the usual focus on paintings in blockbuster exhibitions. This exhibition highlights de Kooning's drawing skills, offering a unique perspective on his artistic process. This shift not only enhances the audience's understanding of de Kooning's work but may also influence the planning of future art exhibitions, encouraging a greater emphasis on art forms beyond painting."
         },
         {
           "rank": 4,
-          "title": "Venice Biennale’s Russian Pavilion and Pussy Riot Spar Over Usage of Protest Footage",
-          "link": "https://www.artnews.com/art-news/news/russian-pavilion-pussy-riot-protest-footage-censorship-claim-1234785093/",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-05-12 15:50 UTC",
-          "analysis_zh": "在威尼斯双年展上，俄罗斯展馆与朋克艺术团Pussy Riot之间发生了争议。Pussy Riot要求俄罗斯展馆从其项目的纪录片中移除包含他们的抗议影像，俄罗斯展馆则指责他们进行“自我审查”。这一事件引发了对艺术表达自由和政治审查的广泛讨论，尤其是在当前国际政治紧张的背景下。此事可能会影响未来艺术展览中对敏感内容的处理方式，以及艺术家与展览机构之间的合作关系。",
-          "analysis_en": "At the Venice Biennale, a controversy erupted between the Russian Pavilion and the punk art group Pussy Riot. Pussy Riot requested the removal of footage featuring them from a documentary about the project, while the Russian Pavilion accused them of \"self-censorship.\" This incident has sparked a broader discussion about artistic freedom and political censorship, particularly against the backdrop of current international tensions. The situation may influence how sensitive content is handled in future art exhibitions and the dynamics of collaboration between artists and exhibition institutions."
+          "title": "In Tuscany, an Artistic Sculpture Hub Thrives",
+          "link": "https://www.nytimes.com/2026/05/12/arts/design/pietrasanta-italy-marble.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-05-12 20:26 UTC",
+          "analysis_zh": "意大利托斯卡纳地区的皮特拉桑塔已发展成为一个国际雕塑中心，尤其在夏季活动频繁。这一变化不仅吸引了众多艺术家和游客，也为当地经济注入了活力。皮特拉桑塔的艺术氛围和丰富的资源使其成为雕塑创作的重要基地，可能会进一步推动艺术交流和文化旅游的发展。",
+          "analysis_en": "Pietrasanta, located in the Tuscan region of Italy, has emerged as an international sculpture hub, particularly bustling during the summer months. This transformation not only attracts numerous artists and tourists but also invigorates the local economy. The artistic atmosphere and abundant resources in Pietrasanta position it as a significant base for sculpture creation, which may further enhance artistic exchange and cultural tourism."
         },
         {
           "rank": 5,
-          "title": "How Much Art Is Too Much? A Guide to the New York Fairs.",
-          "link": "https://www.nytimes.com/2026/05/11/arts/design/new-york-art-fairs-frieze-preview.html",
+          "title": "A Photographer of Newark’s People Gets a Show Among the People",
+          "link": "https://www.nytimes.com/2026/05/12/arts/design/photographer-newark-wards-manuel-acevedo.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-05-12 15:47 UTC",
-          "analysis_zh": "本周，纽约将迎来一系列艺术博览会，吸引了众多拉丁美洲画廊、世界级摄影作品以及再生设计的参与。这些艺术展览不仅展示了多样的艺术风格，还为艺术爱好者提供了丰富的选择。艺术博览会的举办不仅提升了纽约作为全球艺术中心的地位，也为当地经济带来了积极影响。随着艺术市场的不断发展，这些活动可能会吸引更多的国际艺术家和收藏家前来参与。",
-          "analysis_en": "This week, New York will host a series of art fairs featuring numerous Latin American galleries, world-class photography, and upcycled design. These exhibitions not only showcase a variety of artistic styles but also offer art enthusiasts a wealth of options. The art fairs enhance New York's status as a global art hub and positively impact the local economy. As the art market continues to grow, these events may attract more international artists and collectors to participate."
+          "published_utc": "2026-05-12 20:25 UTC",
+          "analysis_zh": "摄影师曼努埃尔·阿塞维多的作品在纽瓦克市的多个户外场所展出，这些作品的灵感来源于当地居民。这一展览不仅让艺术走进了社区，也为居民提供了一个与自己文化和身份对话的机会。这种展示方式使得艺术更加贴近生活，增强了社区的凝聚力，并可能激发更多人参与艺术创作和欣赏。",
+          "analysis_en": "Photographer Manuel Acevedo's works are being exhibited in various outdoor locations throughout Newark, inspired by the local residents. This exhibition brings art into the community, providing residents with an opportunity to engage with their culture and identity. Such a display makes art more accessible and relevant to everyday life, potentially fostering a stronger sense of community and encouraging more people to participate in artistic creation and appreciation."
         },
         {
           "rank": 6,
-          "title": "Leigh Magar, High-End Milliner Turned Indigo Artist, Dies at 57",
-          "link": "https://www.nytimes.com/2026/05/12/arts/design/leigh-magar-dead.html",
+          "title": "The Swiss Collector Building a Massive Trove of Chinese Art",
+          "link": "https://www.nytimes.com/2026/05/12/arts/design/uli-sigg-chinese-art-collection.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-05-12 15:26 UTC",
-          "analysis_zh": "莱伊·马加尔，这位曾以定制高端帽子而闻名的艺术家，近日在57岁时去世。她的帽子吸引了众多名人追捧，成为时尚界的一部分。离开查尔斯顿后，她在南卡罗来纳州的一座岛屿上开始了靛蓝染料的创作。这一转变不仅展示了她的艺术才华，也反映了她对自然和传统工艺的热爱。她的去世对时尚界和艺术界都是一大损失。",
-          "analysis_en": "Leigh Magar, a renowned artist known for her bespoke high-end hats, has passed away at the age of 57. Her creations gained a celebrity following, making a significant mark in the fashion world. After leaving Charleston, she began cultivating indigo on an island off South Carolina, showcasing her artistic talents and love for nature and traditional crafts. Her death is a considerable loss to both the fashion and art communities."
+          "published_utc": "2026-05-12 20:23 UTC",
+          "analysis_zh": "瑞士商人和前外交官西格（Sigg）在三十多年的时间里，积累了数千件当代中国艺术作品。他的收藏不仅展示了中国艺术的多样性，也反映了中国社会的变迁。著名艺术家艾未未称他为“我的造物主”，这表明西格在推动中国当代艺术国际化方面的重要角色。这一收藏的存在可能会吸引更多国际关注，促进中西文化的交流与理解。",
+          "analysis_en": "Sigg, a Swiss businessman and former diplomat, has spent over three decades amassing thousands of contemporary Chinese artworks. His collection not only showcases the diversity of Chinese art but also reflects the changes in Chinese society. Renowned artist Ai Weiwei refers to him as \"my maker,\" highlighting Sigg's significant role in promoting contemporary Chinese art on the international stage. The existence of this collection could attract more global attention and foster cultural exchange and understanding between China and the West."
         },
         {
           "rank": 7,
-          "title": "Our Favorite Moments From This Year’s Tony-Nominated Broadway Shows",
-          "link": "https://www.nytimes.com/2026/05/12/theater/broadway-scene-stealers-tonys.html",
+          "title": "The Dance Quotes and Callbacks in ‘Schmigadoon’ and ‘The Jellicle Ball’",
+          "link": "https://www.nytimes.com/2026/05/11/arts/dance/schmigadoon-cats-jellicle-ball-dance-quotations.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-05-12 15:07 UTC",
-          "analysis_zh": "今年的托尼奖提名百老汇剧目中，有许多精彩瞬间让人难以忘怀。评论员们分享了他们最喜欢的时刻，这些时刻不仅展示了演员的才华，也反映了剧作的深刻主题。这些提名作品的重要性在于它们推动了戏剧艺术的发展，并吸引了更多观众关注百老汇。未来，这些优秀的作品可能会激励更多创作者，推动新的艺术潮流。",
-          "analysis_en": "This year’s batch of Tony-nominated Broadway shows featured many unforgettable moments. Critics shared their favorite highlights, showcasing not only the talent of the performers but also the profound themes of the productions. The significance of these nominated works lies in their contribution to the evolution of theatrical art and their ability to draw more audiences to Broadway. In the future, these outstanding productions may inspire more creators and drive new artistic trends."
+          "published_utc": "2026-05-12 20:22 UTC",
+          "analysis_zh": "《Schmigadoon!》和《Cats: The Jellicle Ball》是两部备受瞩目的音乐剧，均获得了托尼奖提名。它们在舞蹈编排中引用了许多经典的舞蹈元素，展现了对舞蹈历史的致敬。这种对经典的回归不仅丰富了观众的观赏体验，也为现代舞蹈创作提供了新的灵感。通过这些舞蹈引用，观众能够更深刻地理解作品的文化背景和艺术价值。",
+          "analysis_en": "“Schmigadoon!” and “Cats: The Jellicle Ball” are two highly acclaimed musicals that have received Tony nominations. Both shows incorporate numerous classic dance elements in their choreography, paying homage to dance history. This return to the classics not only enhances the viewing experience for audiences but also provides fresh inspiration for contemporary dance creation. Through these dance references, viewers can gain a deeper understanding of the cultural context and artistic value of the works."
         },
         {
           "rank": 8,
-          "title": "Arching motion-informed amphitheatre among projects from University of Dundee",
-          "link": "https://www.dezeen.com/2026/05/12/dance-informed-amphitheatre-university-of-dundee-schoolshows/",
-          "source": "Dezeen",
-          "published_utc": "2026-05-12 15:00 UTC",
-          "analysis_zh": "邓迪大学的学生们展示了一项以舞蹈为灵感的创意设计，重新构思了一个圆形剧场。这一项目不仅展示了学生们的创新能力，也强调了艺术与建筑之间的联系。这样的设计不仅可以提升观众的体验，还可能影响未来公共空间的设计理念，促进人们对艺术和文化活动的参与。",
-          "analysis_en": "Students from the University of Dundee showcased a creative redesign of an amphitheatre inspired by dance. This project highlights the innovative capabilities of the students and emphasizes the connection between art and architecture. Such designs can enhance audience experiences and may influence future public space design concepts, encouraging greater participation in arts and cultural activities."
+          "title": "In Cleveland, Smokers Are Helping to Keep the Arts Alive",
+          "link": "https://www.nytimes.com/2026/05/12/arts/cigarette-tax-cleveland-cuyahoga-county.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-05-12 20:21 UTC",
+          "analysis_zh": "克利夫兰地区通过一项新颖的香烟税收政策，为文化组织筹集了2.7亿美元的资金。这一举措在吸烟率下降的背景下显得尤为重要，因为这意味着未来的资金来源可能会受到影响。尽管吸烟率降低是公共健康的积极发展，但这也使得依赖香烟税的艺术和文化项目面临挑战。此政策的成功与否将直接影响当地艺术界的生存和发展。",
+          "analysis_en": "In Cleveland, a novel cigarette tax has raised $270 million for cultural organizations. This initiative is particularly significant against the backdrop of declining smoking rates, as it suggests that future funding sources may be at risk. While the decrease in smoking rates is a positive public health development, it poses challenges for arts and cultural programs that rely on cigarette tax revenue. The success of this policy will directly impact the survival and growth of the local arts scene."
         },
         {
           "rank": 9,
-          "title": "ceramsite panels by bentu transform aquaculture waste into circular building material",
-          "link": "https://www.designboom.com/design/ceramsite-panels-bentu-design-aquaculture-waste-circular-building-material-metamorphosis-of-mud/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-05-12 14:30 UTC",
-          "analysis_zh": "Bentu公司利用地聚合物技术将水产养殖废物转化为未烧结的陶粒板。这一创新不仅有效解决了水产养殖过程中产生的污泥问题，还为建筑材料的循环利用提供了新的可能性。这种材料的应用可能会减少建筑行业对传统资源的依赖，从而推动可持续发展。",
-          "analysis_en": "Bentu has transformed aquaculture waste into unfired ceramsite panels using geopolymer technology. This innovation addresses the issue of sludge generated in aquaculture while offering a new avenue for circular building materials. The use of such materials could reduce the construction industry's reliance on traditional resources, thereby promoting sustainability."
+          "title": "Spotlighting the Woman Who Brought European Modernism to California",
+          "link": "https://www.nytimes.com/2026/05/12/arts/design/norton-simon-museum-galka-scheyer.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-05-12 20:20 UTC",
+          "analysis_zh": "虽然加尔卡·谢耶尔这个名字可能对许多人来说并不熟悉，但她所支持的艺术家们已经声名显赫。最近在帕萨迪纳举办的一场展览将她的贡献推向了公众视野。这次展览不仅让人们重新认识了谢耶尔，也强调了她在将欧洲现代主义引入加州艺术界中的重要角色。这一事件可能会激发更多人对现代艺术的兴趣，并促使对艺术史中被忽视人物的重新审视。",
+          "analysis_en": "Although the name Galka Scheyer may be unfamiliar to many, the artists she championed have gained significant recognition. A recent exhibition in Pasadena brings her contributions to the forefront. This event not only reintroduces Scheyer but also highlights her crucial role in bringing European modernism to the California art scene. It may inspire greater interest in modern art and encourage a reevaluation of overlooked figures in art history."
         },
         {
           "rank": 10,
-          "title": "Man Arrested for Allegedly Planning Terrorist Attack at Louvre",
-          "link": "https://www.artnews.com/art-news/news/man-arrested-alleged-terrorist-attack-plans-louvre-1234785071/",
+          "title": "Leading French Gallery Air de Paris Is Declaring Bankruptcy and Closing After 36 Years",
+          "link": "https://www.artnews.com/art-news/news/french-gallery-air-de-paris-declaring-bankruptcy-closing-1234785172/",
           "source": "News – ARTnews.com",
-          "published_utc": "2026-05-12 14:23 UTC",
-          "analysis_zh": "一名男子因涉嫌策划在卢浮宫进行恐怖袭击而被捕，并于周一出庭接受指控。这一事件引发了公众对安全问题的关注，尤其是在著名旅游景点的安全保障方面。此案不仅可能影响卢浮宫的游客流量，还可能促使法国政府加强相关场所的安全措施，以防止类似事件的发生。",
-          "analysis_en": "A man was arrested for allegedly planning a terrorist attack at the Louvre and was brought before a judge on Monday to face charges. This incident raises public concern about security, particularly at major tourist attractions. The case could not only affect visitor numbers at the Louvre but may also prompt the French government to enhance security measures at such sites to prevent similar incidents in the future."
+          "published_utc": "2026-05-12 20:01 UTC",
+          "analysis_zh": "法国著名画廊Air de Paris宣布破产并将关闭，结束了其36年的历史。创始人因健康问题决定结束画廊的运营，这一消息对艺术界产生了深远影响。Air de Paris在当代艺术领域享有盛誉，关闭后将影响许多艺术家的展示和销售渠道。尽管如此，其中一位创始人将继续作为策展人，代表一些艺术家的遗产，这为艺术界带来了一丝希望。",
+          "analysis_en": "The renowned French gallery Air de Paris has declared bankruptcy and will close after 36 years of operation. The founders decided to end the gallery due to health issues, and this news has significant implications for the art world. Air de Paris has been influential in contemporary art, and its closure will affect the exhibition and sales opportunities for many artists. However, one of the founders will continue her work as a curator, representing some artists' estates, which offers a glimmer of hope for the art community."
         }
       ]
     }
