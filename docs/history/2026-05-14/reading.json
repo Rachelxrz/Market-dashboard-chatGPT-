@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-14 16:11:39 UTC",
-  "generated_at_unix": 1778775099,
+  "generated_at": "2026-05-14 21:47:01 UTC",
+  "generated_at_unix": 1778795221,
   "window": {
-    "from_utc": "2026-05-13 16:11:39 UTC",
-    "to_utc": "2026-05-14 16:11:39 UTC",
+    "from_utc": "2026-05-13 21:47:01 UTC",
+    "to_utc": "2026-05-14 21:47:01 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,180 +14,171 @@
       "items": [
         {
           "rank": 1,
-          "title": "China will work behind the scenes to help reopen the Strait of Hormuz, Bessent says",
-          "link": "https://www.cnbc.com/2026/05/14/china-xi-trump-iran-war-oil-strait-hormuz-bessent.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-05-14 16:01 UTC",
-          "analysis_zh": "特朗普总统与习近平主席在北京举行了为期两天的峰会，期间讨论了多项重要议题，包括如何在霍尔木兹海峡重启航运。此次会谈的背景是霍尔木兹海峡的地缘政治紧张局势，影响着全球能源供应。中国在此过程中扮演了关键角色，可能会通过外交手段促进地区稳定，从而影响国际市场和能源价格。",
-          "analysis_en": "President Trump held a two-day summit with President Xi in Beijing, during which they discussed several important issues, including the reopening of shipping in the Strait of Hormuz. This discussion comes amid geopolitical tensions in the Strait, which affect global energy supplies. China plays a crucial role in this process and may use diplomatic efforts to promote regional stability, which could impact international markets and energy prices."
+          "title": "US Supreme Court lets abortion pill mail delivery continue",
+          "link": "https://www.investing.com/news/stock-market-news/deadline-passes-for-us-supreme-court-to-extend-order-ensuring-abortion-pill-mail-delivery-4690659",
+          "source": "Stock Market News",
+          "published_utc": "2026-05-14 21:42 UTC",
+          "analysis_zh": "美国最高法院决定允许继续邮寄堕胎药，这一裁决对女性的生育权利具有重要意义。此举确保了那些需要堕胎药的女性可以更方便地获取所需的医疗服务。这一决定可能会影响各州在堕胎药物分发方面的法律，进一步引发关于生育权的辩论。",
+          "analysis_en": "The U.S. Supreme Court has ruled to allow the continued mail delivery of abortion pills, which is significant for women's reproductive rights. This decision ensures that women who need abortion medication can access necessary healthcare services more easily. It may also influence state laws regarding the distribution of abortion drugs, sparking further debate about reproductive rights."
         },
         {
           "rank": 2,
-          "title": "Citadel denies report linking Hong Kong staff moves to data security",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/citadel-denies-report-linking-hong-155947826.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-05-14 15:59 UTC",
-          "analysis_zh": "最近，Citadel公司否认了一则关于其在香港员工调动与数据安全问题相关的报道。这一声明的重要性在于，Citadel作为一家全球知名的金融机构，其数据安全措施直接影响到投资者的信心和市场稳定。若该报道属实，可能会引发对公司内部管理和数据保护的广泛关注，进而影响其声誉和业务运营。",
-          "analysis_en": "Recently, Citadel denied a report linking its staff movements in Hong Kong to data security issues. This denial is significant because Citadel, as a prominent financial institution, directly influences investor confidence and market stability through its data security measures. If the report were true, it could raise widespread concerns about the company's internal management and data protection, potentially impacting its reputation and business operations."
+          "title": "Trump revamps portfolio, adding Nvidia and other AI names",
+          "link": "https://www.investing.com/news/stock-market-news/trump-revamps-stock-portfolio-adding-nvidia-and-other-ai-names-4689461",
+          "source": "Stock Market News",
+          "published_utc": "2026-05-14 21:42 UTC",
+          "analysis_zh": "特朗普重新调整了他的投资组合，新增了英伟达等人工智能相关公司的股票。这一举动引起了市场的广泛关注，因为特朗普的投资选择可能会影响投资者的信心和市场趋势。随着人工智能行业的快速发展，投资者对相关公司的兴趣也在不断增加，这可能会推动这些公司的股价上涨。",
+          "analysis_en": "Trump has revamped his investment portfolio by adding stocks from AI-related companies, including Nvidia. This move has garnered significant attention in the market, as Trump's investment choices could influence investor confidence and market trends. With the rapid growth of the AI industry, investor interest in related companies is also increasing, which may drive up the stock prices of these firms."
         },
         {
           "rank": 3,
-          "title": "Versant stock jumps after company's Q1 report shows bright spots in licensing, platforms",
-          "link": "https://www.cnbc.com/2026/05/14/versant-vsnt-earnings-q1-2026.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-05-14 15:59 UTC",
-          "analysis_zh": "Versant公司发布了独立后的第一季度财报，显示出在许可和平台方面的亮点，导致其股票大幅上涨。这一财报的重要性在于，它表明Versant在市场上的表现正在改善，可能吸引更多投资者的关注。随着公司逐步稳定，未来的增长潜力也将受到更多期待，这可能会影响其在媒体行业的竞争力。",
-          "analysis_en": "Versant released its first-quarter earnings report as an independent company, highlighting positive developments in licensing and platforms, which led to a significant jump in its stock price. This report is important as it indicates that Versant's market performance is improving, potentially attracting more investor interest. As the company stabilizes, expectations for future growth will likely increase, which could impact its competitiveness in the media industry."
+          "title": "From war shock to fragile recovery: Why investors are still nervous?",
+          "link": "https://www.investing.com/news/stock-market-news/from-war-shock-to-fragile-recovery-why-investors-are-still-nervous-4690737",
+          "source": "Stock Market News",
+          "published_utc": "2026-05-14 21:34 UTC",
+          "analysis_zh": "近期，全球股市因战争冲突而受到严重冲击，尽管市场出现了一些脆弱的复苏迹象，投资者的情绪依然紧张。这种不安源于地缘政治的不确定性以及经济复苏的缓慢进展。投资者担心未来的市场波动可能会影响他们的投资决策和资产配置，尤其是在全球经济尚未完全恢复的情况下。",
+          "analysis_en": "Recently, global stock markets have faced significant shocks due to war conflicts, and although there are signs of a fragile recovery, investor sentiment remains tense. This anxiety stems from geopolitical uncertainties and the slow pace of economic recovery. Investors are concerned that future market volatility could impact their investment decisions and asset allocation, especially as the global economy has not fully recovered yet."
         },
         {
           "rank": 4,
-          "title": "White House scrambles for gas-price relief as Iran war drags on",
-          "link": "https://www.investing.com/news/stock-market-news/white-house-has-few-tools-for-gasprice-relief-as-iran-war-drags-on-4687589",
+          "title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 1.40%",
+          "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-140-4690686",
           "source": "Stock Market News",
-          "published_utc": "2026-05-14 15:55 UTC",
-          "analysis_zh": "美国白宫正在积极寻求降低油价的措施，因为伊朗战争的持续导致全球能源市场的不稳定。油价的上涨不仅影响了消费者的日常生活，也对经济复苏带来了压力。政府的应对策略可能会影响到未来的能源政策和国际关系，尤其是在中东地区的局势变化上。",
-          "analysis_en": "The White House is actively seeking measures to lower gas prices as the ongoing war in Iran continues to destabilize global energy markets. Rising fuel costs are affecting consumers' daily lives and putting pressure on economic recovery. The government's response strategies may influence future energy policies and international relations, particularly regarding changes in the situation in the Middle East."
+          "published_utc": "2026-05-14 21:30 UTC",
+          "analysis_zh": "墨西哥股市在交易结束时下跌，S&P/BMV IPC指数下跌了1.40%。这一下跌反映了市场对经济前景的担忧，投资者可能对未来的政策变化感到不安。股市的波动可能会影响投资者的信心，进而影响到墨西哥的经济增长和外资流入。",
+          "analysis_en": "Mexico's stock market closed lower, with the S&P/BMV IPC index down by 1.40%. This decline reflects concerns among investors regarding the economic outlook, possibly due to uncertainties about future policy changes. Such market fluctuations may affect investor confidence, which in turn could impact Mexico's economic growth and foreign investment inflows."
         },
         {
           "rank": 5,
-          "title": "Nvidia vs Sandisk: Which Soaring Tech Stock Is the Better Buy Today?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-sandisk-soaring-tech-155000755.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-05-14 15:50 UTC",
-          "analysis_zh": "近期，英伟达和闪迪这两家科技公司的股票表现引起了投资者的关注。英伟达凭借其在人工智能和图形处理领域的领先地位，股价持续上涨，而闪迪则在存储解决方案市场中占据重要位置。投资者需要考虑这两家公司在未来技术发展中的潜力，以及它们各自的市场竞争力。这一分析不仅有助于投资者做出明智的投资决策，也可能影响整个科技股市场的走势。",
-          "analysis_en": "Recently, the stock performance of Nvidia and Sandisk has attracted the attention of investors. Nvidia has seen a continuous rise in its stock price due to its leading position in artificial intelligence and graphics processing, while Sandisk holds a significant place in the storage solutions market. Investors need to assess the potential of both companies in future technological developments and their respective market competitiveness. This analysis not only aids investors in making informed decisions but could also influence the overall trend of the tech stock market."
+          "title": "‘Several days have passed’: The restaurant failed to process my 20% tip. Is it cheating the staff?",
+          "link": "https://www.marketwatch.com/story/several-days-have-passed-the-restaurant-failed-to-process-my-20-tip-is-it-cheating-the-staff-e4338e82?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-05-14 21:30 UTC",
+          "analysis_zh": "最近，一位顾客在餐厅用信用卡支付时发现，自己的20%小费并没有被及时处理。这一事件引发了对餐厅是否在欺骗员工的讨论。小费通常是服务行业员工的重要收入来源，延迟处理可能会影响他们的收入和士气。此事不仅关系到顾客与餐厅之间的信任，也可能影响餐厅的声誉和顾客的回头率。",
+          "analysis_en": "Recently, a customer discovered that their 20% tip was not processed immediately when paying with a credit card at a restaurant. This incident has sparked discussions about whether the restaurant is cheating its staff. Tips are a crucial part of income for employees in the service industry, and delays in processing can affect their earnings and morale. This issue not only concerns the trust between customers and the restaurant but may also impact the establishment's reputation and customer loyalty."
         },
         {
           "rank": 6,
-          "title": "Mine restarts support West Africa’s gold recovery in 2026",
-          "link": "https://finance.yahoo.com/markets/commodities/articles/mine-restarts-support-west-africa-154759566.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-05-14 15:47 UTC",
-          "analysis_zh": "西非的一座金矿将在2026年重新启动，这一消息对该地区的黄金产业复苏至关重要。金矿的恢复不仅将增加当地的黄金产量，还可能为周边社区创造就业机会，促进经济发展。随着全球对黄金需求的持续增长，这一举措可能会提升西非在国际市场上的竞争力，并吸引更多的投资。",
-          "analysis_en": "A gold mine in West Africa is set to restart operations in 2026, which is crucial for the region's gold recovery. The reopening of the mine is expected to increase local gold production and create job opportunities for surrounding communities, thereby boosting economic development. As global demand for gold continues to rise, this initiative may enhance West Africa's competitiveness in the international market and attract more investments."
+          "title": "‘I nearly made a major misstep’: I claimed my Social Security benefits at 64 instead of 70. Here’s why.",
+          "link": "https://www.marketwatch.com/story/i-nearly-made-a-major-misstep-i-claimed-my-social-security-benefits-at-64-instead-of-70-heres-why-e0d0edfe?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-05-14 21:27 UTC",
+          "analysis_zh": "一位投资者分享了他的经历，他在64岁时领取了社会保障福利，而不是等到70岁。这一决定让他意识到，许多人对自己的财务状况缺乏关注，这不仅令人惊讶，也令人沮丧。此事件提醒我们，了解和规划个人财务是多么重要，尤其是在退休时。若不加以重视，可能会对未来的经济状况产生负面影响。",
+          "analysis_en": "An investor shared his experience of claiming Social Security benefits at 64 instead of waiting until 70. This decision made him realize how many people are disengaged from their financial lives, which is both surprising and discouraging. This incident serves as a reminder of the importance of understanding and planning personal finances, especially during retirement. If neglected, it could negatively impact one's financial situation in the future."
         },
         {
           "rank": 7,
-          "title": "Deere shares may move 5.2% on May 21 earnings release",
-          "link": "https://www.investing.com/news/stock-market-news/deere-shares-may-move-52-on-may-21-earnings-release-93CH-4689382",
+          "title": "Colombia stocks higher at close of trade; COLCAP up 2.34%",
+          "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-234-4690662",
           "source": "Stock Market News",
-          "published_utc": "2026-05-14 15:46 UTC",
-          "analysis_zh": "德尔公司（Deere & Company）预计将在5月21日发布财报，分析师预测其股价可能会波动5.2%。这一财报将对投资者的信心产生重要影响，因为它将揭示公司的财务健康状况和未来展望。如果业绩超出预期，可能会吸引更多投资者关注，从而推动股价上涨；反之，若业绩不佳，则可能导致股价下跌，影响市场情绪。",
-          "analysis_en": "Deere & Company is set to release its earnings report on May 21, with analysts predicting a potential 5.2% fluctuation in its stock price. This earnings report is significant as it will provide insights into the company's financial health and future outlook, which can greatly influence investor confidence. If the results exceed expectations, it may attract more investor interest and drive the stock price up; conversely, disappointing results could lead to a decline in stock price and affect overall market sentiment."
+          "published_utc": "2026-05-14 21:25 UTC",
+          "analysis_zh": "哥伦比亚股市在交易结束时上涨，COLCAP指数上涨了2.34%。这一上涨反映了投资者对市场前景的乐观情绪，可能受到国际经济形势改善的推动。股市的上涨不仅有助于提升投资者信心，还可能吸引更多外资流入，进一步促进经济增长。",
+          "analysis_en": "Colombia's stock market closed higher, with the COLCAP index rising by 2.34%. This increase reflects investors' optimistic sentiment towards the market, likely driven by improvements in the international economic situation. The rise in the stock market not only boosts investor confidence but may also attract more foreign investment, further promoting economic growth."
         },
         {
           "rank": 8,
-          "title": "Retail investors make a surprising move on Palantir, Microsoft, and other software stocks",
-          "link": "https://finance.yahoo.com/markets/article/retail-investors-make-a-surprising-move-on-palantir-microsoft-and-other-software-stocks-154536207.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-05-14 15:45 UTC",
-          "analysis_zh": "近期，零售投资者对Palantir、微软及其他软件股票的投资行为引发了市场的广泛关注。这一现象表明，零售投资者在选择投资标的时，开始更加关注科技股的潜力，尤其是在当前经济环境下。此举可能会影响这些公司的股价走势，并进一步推动市场对科技行业的信心。随着零售投资者的参与度上升，市场的动态也可能发生变化，投资者需密切关注这一趋势。",
-          "analysis_en": "Recently, retail investors have made notable investments in Palantir, Microsoft, and other software stocks, capturing significant market attention. This trend indicates that retail investors are increasingly focusing on the potential of tech stocks, particularly in the current economic climate. Such actions could influence the stock prices of these companies and further boost market confidence in the tech sector. As retail investor participation rises, the dynamics of the market may shift, prompting investors to closely monitor this trend."
+          "title": "Glimpse Group stock surges on Physical AI pivot, capital raise",
+          "link": "https://www.investing.com/news/stock-market-news/glimpse-group-stock-surges-on-physical-ai-pivot-capital-raise-93CH-4690660",
+          "source": "Stock Market News",
+          "published_utc": "2026-05-14 21:24 UTC",
+          "analysis_zh": "近日，Glimpse Group的股票因其向物理人工智能（Physical AI）转型而大幅上涨，同时公司还进行了资本筹集。这一变化表明公司正在积极寻求在快速发展的AI领域中占据一席之地。此举不仅可能提升公司的市场竞争力，还可能吸引更多投资者的关注，进而推动股价进一步上涨。投资者对AI技术的热情不断高涨，这一趋势可能会影响整个行业的投资格局。",
+          "analysis_en": "Recently, Glimpse Group's stock surged due to its pivot towards Physical AI and a capital raise. This shift indicates that the company is actively seeking to establish a presence in the rapidly growing AI sector. Such a move may enhance the company's market competitiveness and attract more investor interest, potentially driving the stock price even higher. The increasing enthusiasm for AI technology among investors could influence the investment landscape across the entire industry."
         },
         {
           "rank": 9,
-          "title": "AT&T, Verizon, T-Mobile Form Satellite-To-Phone Joint Venture Amid Musk SpaceX Worries",
-          "link": "https://www.investors.com/news/technology/musk-starlink-att-verizon-tmobile-wireless-satellite-phone-joint-venture/?src=A00220&yptr=yahoo",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-05-14 15:45 UTC",
-          "analysis_zh": "AT&T、Verizon和T-Mobile近日联合成立了一项卫星到手机的合资企业，此举是为了应对人们对马斯克的SpaceX可能带来的影响。这一合作将使得用户在偏远地区也能享受到更好的通信服务，具有重要的市场意义。随着人们对网络覆盖的需求不断增加，这项新业务可能会改变行业格局，并推动更多创新。",
-          "analysis_en": "AT&T, Verizon, and T-Mobile have recently formed a joint venture focused on satellite-to-phone technology, in response to concerns regarding Elon Musk's SpaceX. This collaboration aims to provide better communication services to users in remote areas, which is significant for the market. As the demand for network coverage continues to grow, this new venture could reshape the industry landscape and drive further innovation."
+          "title": "Russia stocks lower at close of trade; MOEX Russia Index down 1.36%",
+          "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-136-4690631",
+          "source": "Stock Market News",
+          "published_utc": "2026-05-14 21:20 UTC",
+          "analysis_zh": "俄罗斯股市在交易结束时下跌，MOEX俄罗斯指数下跌了1.36%。这一下跌反映了市场对经济前景的担忧，尤其是在国际制裁和地缘政治紧张局势加剧的背景下。这一趋势可能会影响投资者的信心，导致资金流出，进一步加剧市场的不稳定性。",
+          "analysis_en": "Russian stocks closed lower, with the MOEX Russia Index down by 1.36%. This decline reflects market concerns over the economic outlook, particularly amid increasing international sanctions and geopolitical tensions. This trend may affect investor confidence, leading to capital outflows and further exacerbating market instability."
         },
         {
           "rank": 10,
-          "title": "Jim Cramer on HawkEye 360: “The Valuation’s Justifiable Even If the Stock’s Not Dirt Cheap”",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-hawkeye-360-valuation-154040938.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-05-14 15:40 UTC",
-          "analysis_zh": "投资者Jim Cramer最近对HawkEye 360的估值进行了分析，认为尽管该股票的价格并不便宜，但其估值是合理的。这一观点引发了市场的关注，因为HawkEye 360是一家专注于卫星数据和分析的公司，随着对空间技术需求的增加，其潜在价值可能会进一步上升。Cramer的评论可能会影响投资者的信心，促使更多人关注这一领域的投资机会。",
-          "analysis_en": "Investor Jim Cramer recently analyzed the valuation of HawkEye 360, stating that while the stock may not be cheap, its valuation is justifiable. This perspective has garnered market attention, as HawkEye 360 focuses on satellite data and analytics, which could see increased demand due to the growing interest in space technology. Cramer's comments may influence investor confidence and encourage more interest in investment opportunities within this sector."
+          "title": "Cerebras IPO mints two billionaires, sets stage for potential AI wave",
+          "link": "https://www.cnbc.com/2026/05/14/cerebras-ipo-mints-two-billionaires-sets-stage-for-potential-ai-wave.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-05-14 21:19 UTC",
+          "analysis_zh": "Cerebras在首次公开募股（IPO）中表现出色，首日交易结束时市值接近1000亿美元，使两位联合创始人成为亿万富翁。这一事件不仅标志着Cerebras在人工智能领域的重要地位，也可能引发更多投资者对AI技术的关注和投入。随着市场对AI解决方案需求的增加，Cerebras的成功可能会激励更多公司追求类似的创新，从而推动整个行业的发展。",
+          "analysis_en": "Cerebras had a remarkable debut in its initial public offering (IPO), closing its first day of trading with a market cap nearing $100 billion, which turned two co-founders into billionaires. This event not only highlights Cerebras' significant position in the artificial intelligence sector but may also attract more investors' attention and investment in AI technologies. As the demand for AI solutions grows, Cerebras' success could inspire more companies to pursue similar innovations, potentially driving the entire industry forward."
         }
       ]
     },
     "健康": {
       "description": "医学、营养、抗衰老、代谢与公共健康",
-      "count": 9,
+      "count": 8,
       "items": [
         {
           "rank": 1,
-          "title": "Hantavirus Doesn’t Spread Easily but Officials May Be Downplaying Risks",
-          "link": "https://www.nytimes.com/2026/05/14/health/hantavirus-spread-risk.html",
+          "title": "16 More People in the U.S. Are Being Monitored for Hantavirus, C.D.C. Says",
+          "link": "https://www.nytimes.com/2026/05/14/health/hantavirus-outbreak-quarantine.html",
           "source": "NYT > Health",
-          "published_utc": "2026-05-14 15:55 UTC",
-          "analysis_zh": "汉坦病毒的传播性明显低于新冠病毒，科学家们对此达成共识。然而，研究人员发现，在某些情况下，汉坦病毒可以在没有直接接触的情况下在人与人之间传播。这一发现引发了对公共卫生政策的关注，尤其是在疫情后人们对病毒传播的敏感性增加。尽管汉坦病毒的传播风险较低，但相关部门可能低估了其潜在威胁，值得引起重视。",
-          "analysis_en": "Scientists agree that hantavirus is much less contagious than the coronavirus. However, they have identified cases where it has spread between people without direct contact. This finding raises concerns regarding public health policies, especially as people have become more sensitive to virus transmission in the aftermath of the pandemic. Although the risk of hantavirus transmission is low, officials may be downplaying its potential threat, which warrants attention."
+          "published_utc": "2026-05-14 21:09 UTC",
+          "analysis_zh": "美国疾病控制与预防中心（C.D.C.）近日宣布，因一名感染汉坦病毒的荷兰女性乘客去世，16名与她同机前往约翰内斯堡的旅客正在接受监测。这一事件引起了公众的关注，因为汉坦病毒可能导致严重的健康问题，尤其是呼吸系统疾病。监测这些乘客对于防止病毒传播至关重要，同时也提醒人们在旅行时保持警惕，关注潜在的健康风险。",
+          "analysis_en": "The Centers for Disease Control and Prevention (C.D.C.) recently announced that 16 passengers on a flight to Johannesburg are being monitored after a Dutch woman, who was infected with hantavirus, passed away. This incident has raised public concern, as hantavirus can lead to serious health issues, particularly respiratory diseases. Monitoring these passengers is crucial to preventing the spread of the virus and serves as a reminder for travelers to stay vigilant about potential health risks."
         },
         {
           "rank": 2,
+          "title": "Hantavirus Doesn’t Spread Easily, but Officials May Be Downplaying Risks",
+          "link": "https://www.nytimes.com/2026/05/14/health/hantavirus-spread-risk.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-05-14 19:53 UTC",
+          "analysis_zh": "汉坦病毒的传播性明显低于新冠病毒，科学家们对此达成共识。然而，研究表明在某些情况下，病毒可以在没有直接接触的情况下在人与人之间传播。这一发现引发了人们对公共卫生政策的关注，特别是在防控措施和公众意识方面。尽管汉坦病毒的传播风险较低，但其潜在的传播方式仍需引起重视，以确保有效的预防和应对策略。",
+          "analysis_en": "Scientists agree that hantavirus is significantly less contagious than the coronavirus. However, they have identified instances where it has spread between people without direct contact. This finding raises concerns about public health policies, particularly regarding prevention measures and public awareness. While the risk of hantavirus transmission is low, its potential modes of spread warrant attention to ensure effective prevention and response strategies."
+        },
+        {
+          "rank": 3,
           "title": "Will Her Daughter Be Safe at Pali High as It Rebuilds From LA Wildfires?",
           "link": "https://www.nytimes.com/2026/05/14/us/palisades-high-school-la-wildfires.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-14 15:54 UTC",
-          "analysis_zh": "洛杉矶的家庭面临着一个噩梦般的现实：在野火烟雾将有毒化学物质覆盖在家园、学校和办公室后，何时才是安全的回归时机？这一问题不仅关乎学生的健康，也影响到家长的心理安宁。随着重建工作的展开，家长们对学校的安全性表示担忧，这可能会影响学生的出勤率和学习效果。",
-          "analysis_en": "Families in Los Angeles are facing a nightmare: after wildfire smoke blanketed homes, schools, and offices with toxic chemicals, when is it safe to return? This issue not only concerns the health of students but also affects the peace of mind of parents. As rebuilding efforts begin, parents are expressing concerns about the safety of schools, which may impact student attendance and learning outcomes."
+          "analysis_zh": "洛杉矶的家庭面临着一个噩梦：在野火烟雾覆盖了家园、学校和办公室后，何时才是安全的回归时机？这不仅关乎学生的健康，也影响到家长的心理安宁。随着重建工作的展开，家长们对学校环境的安全性表示担忧，这可能会影响他们的选择和孩子的教育。确保学校的安全和健康将是社区重建的重要任务。",
+          "analysis_en": "Families in Los Angeles are facing a nightmare: after wildfire smoke enveloped homes, schools, and offices with toxic chemicals, when is it safe to return? This issue not only concerns the health of students but also affects the peace of mind of parents. As rebuilding efforts commence, parents are expressing concerns about the safety of school environments, which may influence their choices regarding their children's education. Ensuring the safety and health of schools will be a crucial task in the community's rebuilding process."
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Scientists say a daily multivitamin may help slow aging",
           "link": "https://www.sciencedaily.com/releases/2026/05/260512202345.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-14 14:22 UTC",
-          "analysis_zh": "研究人员发现，服用每日复合维生素可能有助于减缓生物老化，尤其是在那些生物年龄高于实际年龄的老年人中。这项研究基于一项大型临床试验，结果显示，参与者在两年内的生物老化速度减缓，相当于减少约四个月的生物年龄。这一发现表明，简单的补充剂可能在促进健康老化方面发挥重要作用，尤其是在当前人们越来越关注如何提高生活质量的背景下。",
-          "analysis_en": "Researchers have found that taking a daily multivitamin may help slow biological aging, particularly in older adults whose biological age exceeds their chronological age. This conclusion comes from a large clinical trial, which indicated that participants experienced a slower rate of biological aging over two years, equivalent to about four months less biological aging. This finding suggests that a simple supplement could play a significant role in promoting healthier aging, especially as there is growing interest in improving quality of life in today's society."
+          "analysis_zh": "研究人员发现，每天服用复合维生素可能有助于减缓生物老化。在一项针对老年人的大型临床试验中，参与者在两年后显示出多种DNA基础的“表观遗传时钟”老化速度减缓，相当于生物年龄减少了约四个月。特别是那些起初生物年龄高于实际年龄的人受益最大。这一发现表明，简单的补充剂可能在促进健康老化方面发挥重要作用。",
+          "analysis_en": "Researchers have found that taking a daily multivitamin may help slow biological aging. In a large clinical trial involving older adults, participants showed a slower aging process in several DNA-based \"epigenetic clocks\" after two years, equivalent to about four months less biological aging. Those who started with a biological age older than their actual age appeared to benefit the most. This finding suggests that a simple supplement could play a significant role in promoting healthier aging."
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "How Worried Should We Be About Hantavirus?",
           "link": "https://www.nytimes.com/video/health/100000010896688/how-worried-should-we-be-about-hantavirus.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-14 14:10 UTC",
-          "analysis_zh": "近期关于汉坦病毒的报道引发了公众的关注。尽管全球健康记者指出，目前没有迹象表明汉坦病毒疫情会演变成大流行，但公众可能并未获得所有相关信息。这一情况的重要性在于，透明的信息传播对于公众健康意识的提升至关重要。如果人们对汉坦病毒的潜在风险缺乏了解，可能会影响他们的防范措施和健康决策。",
-          "analysis_en": "Recent reports about hantavirus have raised public concern. Although global health reporters indicate that there is currently no evidence suggesting that the hantavirus outbreak could escalate into a pandemic, the public may not be receiving all the necessary information. The significance of this situation lies in the fact that transparent communication is crucial for enhancing public health awareness. If people lack understanding of the potential risks associated with hantavirus, it could affect their preventive measures and health decisions."
+          "analysis_zh": "最近，关于汉坦病毒的讨论引起了公众的关注。虽然目前没有迹象表明此次疫情会演变成全球大流行，但人们对相关信息的获取似乎并不充分。这一情况引发了对公共卫生沟通的担忧，尤其是在疫情期间，透明的信息传播至关重要。汉坦病毒的传播可能影响到人们的健康意识和防疫措施，因此了解其真实情况显得尤为重要。",
+          "analysis_en": "Recently, discussions about hantavirus have garnered public attention. While there is currently no indication that this outbreak will escalate into a global pandemic, it appears that the public may not be receiving all the necessary information. This situation raises concerns about public health communication, especially during a pandemic when transparent information dissemination is crucial. The potential spread of hantavirus could affect people's health awareness and preventive measures, making it essential to understand the true situation."
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Who are the Japanese? Huge DNA discovery rewrites history",
           "link": "https://www.sciencedaily.com/releases/2026/05/260514003314.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-14 05:00 UTC",
-          "analysis_zh": "日本科学家对数千人的基因组进行分析，发现了一个被忽视的第三个祖先群体，这一发现挑战了长期以来被接受的“双重起源”理论。新识别的祖先似乎与日本东北部的古代蝦夷人有关。这项研究不仅揭示了日本人群的复杂性，还发现了与糖尿病、心脏病和癌症等健康问题相关的尼安德特人和丹尼索瓦人DNA。这一发现可能会影响我们对日本人历史的理解，并为未来的医学研究提供新的视角。",
-          "analysis_en": "Japanese scientists analyzed the genomes of thousands of individuals and discovered a previously overlooked third ancestral group, challenging the long-accepted \"dual origins\" theory. This newly identified ancestry appears to be linked to the ancient Emishi people of northeastern Japan. The research not only reveals the complexity of the Japanese population but also uncovers inherited Neanderthal and Denisovan DNA associated with health issues like diabetes, heart disease, and cancer. This finding could reshape our understanding of Japanese history and provide new insights for future medical research."
+          "analysis_zh": "科学家对日本数千人的基因组进行分析，发现了一个被忽视的第三个祖先群体，这一发现挑战了长期以来被接受的“双重起源”理论。新的祖先群体似乎与日本东北部的古代蝦夷人有关。该研究还揭示了与糖尿病、心脏病和癌症等疾病相关的尼安德特人和丹尼索瓦人DNA的遗传信息。这项研究的重要性在于，它不仅重新定义了日本人的遗传历史，还可能影响我们对日本人群体多样性的理解。",
+          "analysis_en": "Scientists analyzing the genomes of thousands of individuals across Japan have discovered evidence of a previously overlooked third ancestral group, challenging the long-accepted \"dual origins\" theory. This newly identified ancestry appears to be linked to the ancient Emishi people from northeastern Japan. The research also uncovered inherited Neanderthal and Denisovan DNA associated with conditions such as diabetes, heart disease, and cancer. This study is significant as it not only redefines the genetic history of the Japanese people but may also influence our understanding of the diversity within the Japanese population."
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "New psychedelic-like drugs could treat depression without making you trip",
           "link": "https://www.sciencedaily.com/releases/2026/05/260512202325.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-14 01:07 UTC",
-          "analysis_zh": "加州大学戴维斯分校的研究人员通过紫外线照射氨基酸分子，创造了一类全新的类迷幻药物。这些化合物能够激活与大脑可塑性和心理健康相关的关键血清素受体，但在动物实验中却没有引发幻觉行为。这一发现可能为抑郁症、创伤后应激障碍和成瘾等疾病提供新的治疗方法，而无需经历传统迷幻药物带来的强烈体验。这项研究的成果为未来的药物开发开辟了新的方向，可能会带来更安全有效的治疗选择。",
-          "analysis_en": "Researchers at UC Davis have developed a new class of psychedelic-like compounds by shining UV light on amino acids. These compounds activate key serotonin receptors associated with brain plasticity and mental health benefits, yet surprisingly do not induce hallucinations in animal tests. This discovery could pave the way for new treatments for depression, PTSD, and addiction without the intense experiences typically associated with traditional psychedelics. The findings suggest a promising direction for future drug development, potentially leading to safer and more effective therapeutic options."
+          "analysis_zh": "加州大学戴维斯分校的研究人员通过紫外光照射氨基酸分子，创造了一类全新的类迷幻化合物。这些化合物能够激活与大脑可塑性和心理健康相关的关键血清素受体，但在动物实验中却没有引发幻觉行为。这一发现具有重要意义，因为它可能为抑郁症、创伤后应激障碍和成瘾等疾病提供新的治疗方法，而无需经历传统迷幻药物带来的强烈体验。",
+          "analysis_en": "Researchers at the University of California, Davis, have developed a new class of psychedelic-like compounds by shining UV light on amino acid molecules. These compounds activate key serotonin receptors associated with brain plasticity and mental health benefits, yet surprisingly do not induce hallucination-like behaviors in animal tests. This discovery is significant as it could lead to new treatments for depression, PTSD, and addiction without the intense experiences typically associated with traditional psychedelics."
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Trump Administration Will Withhold $1.3 Billion in Medicaid Payments to California",
           "link": "https://www.nytimes.com/2026/05/13/us/politics/vance-medicaid-fraud-california.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-13 22:35 UTC",
-          "analysis_zh": "特朗普政府决定暂停加利福尼亚州13亿美元的医疗补助款项，副总统JD·范斯表示，该州在打击公共医疗保险项目中的欺诈行为方面做得不够。这一决定可能会对加州的医疗服务产生重大影响，尤其是在疫情后，许多依赖医疗补助的低收入居民将面临更大的医疗负担。此举也可能引发其他州对联邦资金使用的审查，进一步加剧州与联邦政府之间的紧张关系。",
-          "analysis_en": "The Trump administration has decided to withhold $1.3 billion in Medicaid payments to California, with Vice President JD Vance stating that the state has not done enough to combat fraud in the public health insurance program. This decision could significantly impact healthcare services in California, especially for low-income residents who rely on Medicaid, potentially increasing their medical burdens post-pandemic. Additionally, this move may prompt other states to scrutinize their use of federal funds, further straining the relationship between state and federal governments."
-        },
-        {
-          "rank": 8,
-          "title": "Nancy Cox, Who Worked to Conquer the Wily Flu, Dies at 77",
-          "link": "https://www.nytimes.com/2026/05/13/health/nancy-cox-dead.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-05-13 19:43 UTC",
-          "analysis_zh": "南希·考克斯（Nancy Cox）在77岁时去世，她曾担任美国疾病控制与预防中心（CDC）流感部门的负责人。她致力于应对不断变化的流感病毒，建立了一个全球研究人员和预测者的网络。她的工作不仅提高了我们对流感的理解，也为公共卫生政策的制定提供了重要依据。考克斯的去世对流感研究领域是一个巨大的损失，可能会影响未来的流感防控工作。",
-          "analysis_en": "Nancy Cox passed away at the age of 77, having served as the head of the CDC's influenza division. She worked tirelessly to combat the ever-evolving flu virus and established a global network of researchers and forecasters. Her contributions significantly enhanced our understanding of influenza and informed public health policies. Her death represents a substantial loss for the field of flu research and may impact future efforts in flu prevention and control."
-        },
-        {
-          "rank": 9,
-          "title": "Rich Danker, RFK Jr.’s Top Spokesman, Resigns in Protest Over New Vaping Policy",
-          "link": "https://www.nytimes.com/2026/05/13/us/politics/rich-danker-resigns-vaping.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-05-13 17:10 UTC",
-          "analysis_zh": "RFK Jr.的首席发言人Rich Danker因对新电子烟政策表示抗议而辞职。他在给特朗普总统的信中指出，允许销售调味电子烟将增加其对儿童的吸引力。这一事件引发了对青少年健康的关注，尤其是在电子烟使用日益普遍的背景下。Danker的辞职可能会促使更多人关注电子烟政策的制定，并推动相关的公共健康讨论。",
-          "analysis_en": "Rich Danker, the top spokesman for RFK Jr., resigned in protest over the new vaping policy. In a letter to President Trump, he expressed concern that allowing the sale of flavored e-cigarettes would make them more appealing to children. This incident raises significant awareness about youth health, especially given the increasing prevalence of e-cigarette use. Danker's resignation may lead to heightened scrutiny of vaping policies and stimulate discussions around public health."
+          "analysis_zh": "特朗普政府宣布将暂停向加利福尼亚州支付13亿美元的医疗补助款项，副总统JD·范斯表示该州在打击公共医疗保险项目中的欺诈行为方面做得不够。这一决定引发了广泛关注，因为医疗补助对许多低收入居民的健康保障至关重要。暂停支付可能会影响加州的医疗服务，导致一些弱势群体面临更大的医疗风险。",
+          "analysis_en": "The Trump administration has announced it will withhold $1.3 billion in Medicaid payments to California, with Vice President JD Vance stating that the state has not done enough to combat fraud in the public health insurance program. This decision has garnered significant attention, as Medicaid is crucial for the health coverage of many low-income residents. The withholding of funds may impact healthcare services in California, potentially putting vulnerable populations at greater medical risk."
         }
       ]
     },
@@ -201,8 +192,8 @@
           "link": "https://aeon.co/videos/the-swiss-tradition-thats-a-mystery-even-to-those-who-celebrate-it",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-05-14 10:01 UTC",
-          "analysis_zh": "瑞士的“Silvesterchlausen”是一种神秘的传统仪式，至今已有几个世纪的历史。尽管人们对其起源和意义仍然不甚了解，但这一仪式在当地文化中占据着重要地位。它不仅展示了瑞士丰富的民俗传统，还吸引了众多游客前来体验。随着全球对文化多样性的关注增加，这种独特的仪式可能会在未来得到更广泛的认可和保护。",
-          "analysis_en": "The \"Silvesterchlausen\" is an enigmatic traditional ritual in Switzerland that has existed for centuries. Although its origins and meanings remain unclear, it holds significant importance in local culture. This ritual not only showcases Switzerland's rich folklore but also attracts many tourists eager to experience it. As global interest in cultural diversity grows, this unique ritual may gain broader recognition and protection in the future."
+          "analysis_zh": "瑞士的“Silvesterchlausen”是一种神秘的传统仪式，至今已经存在了几个世纪。尽管人们对其起源和意义仍然不甚了解，但这一仪式在当地文化中占据着重要地位。它不仅反映了瑞士独特的民俗传统，也吸引了外界对瑞士文化的关注。这样的仪式可能会影响旅游业的发展，并促使人们对传统文化的重新审视。",
+          "analysis_en": "The \"Silvesterchlausen\" is an enigmatic ritual in Switzerland that has existed for centuries. Although its origins and meaning remain unclear, it holds significant importance in local culture. This tradition not only reflects Switzerland's unique folklore but also draws attention from outsiders interested in Swiss culture. Such rituals may impact the development of tourism and encourage a reevaluation of traditional cultural practices."
         },
         {
           "rank": 2,
@@ -210,8 +201,8 @@
           "link": "https://aeon.co/essays/to-fund-human-rights-we-need-a-global-fair-tax-convention",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-05-14 10:00 UTC",
-          "analysis_zh": "这篇文章探讨了人权与全球金融体系之间的关系。作者指出，尽管人们不断讨论人权问题，但在没有对全球金融架构进行改革的情况下，这些讨论不会带来实质性的变化。这一观点强调了经济因素在推动人权实现中的重要性，可能会促使政策制定者重新审视现有的金融体系，以促进更公平的资源分配和人权保障。",
-          "analysis_en": "This article discusses the relationship between human rights and the global financial system. The author argues that despite ongoing discussions about human rights, meaningful change cannot occur without reforming the architecture of global finance. This perspective highlights the importance of economic factors in advancing human rights, potentially prompting policymakers to reevaluate the current financial system to promote fairer resource distribution and protection of rights."
+          "analysis_zh": "文章探讨了人权与全球金融体系之间的关系，指出在没有改革全球金融架构的情况下，关于人权的讨论将毫无意义。这一观点强调了经济因素在实现人权中的重要性，表明仅靠口头承诺无法带来实质性的改变。如果不解决资金分配和金融不平等的问题，许多国家和地区的人权状况可能会继续恶化。",
+          "analysis_en": "The article discusses the relationship between human rights and the global financial system, arguing that discussions about human rights will be meaningless without reforming the architecture of global finance. This perspective highlights the significance of economic factors in achieving human rights, indicating that mere verbal commitments will not lead to substantial change. Without addressing issues of financial distribution and inequality, the human rights situation in many countries and regions may continue to deteriorate."
         },
         {
           "rank": 3,
@@ -219,8 +210,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260512202325.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-05-14 01:07 UTC",
-          "analysis_zh": "加州大学戴维斯分校的研究人员通过紫外光照射氨基酸分子，创造了一种全新的类迷幻药物。这些化合物能够激活与大脑可塑性和心理健康相关的关键血清素受体，但在动物实验中却没有引发幻觉行为。这一发现具有重要意义，因为它可能为抑郁症、创伤后应激障碍和成瘾等疾病提供新的治疗方案，而无需经历强烈的迷幻体验。",
-          "analysis_en": "Researchers at UC Davis have developed a new class of psychedelic-like compounds by shining UV light on amino acid molecules. These compounds activate key serotonin receptors associated with brain plasticity and mental health benefits, yet surprisingly do not induce hallucinations in animal tests. This discovery is significant as it could lead to new treatments for depression, PTSD, and addiction without the intense psychedelic experiences typically associated with traditional psychedelics."
+          "analysis_zh": "加州大学戴维斯分校的研究人员通过紫外线照射氨基酸分子，创造了一类全新的类迷幻药物。这些化合物激活了与大脑可塑性和心理健康相关的关键血清素受体，但在动物实验中并未引起幻觉行为。这一发现具有重要意义，可能为抑郁症、创伤后应激障碍和成瘾等疾病提供新的治疗方法，而无需经历传统迷幻药物带来的强烈体验。",
+          "analysis_en": "Researchers at UC Davis have developed a new class of psychedelic-like compounds by shining UV light on amino acid molecules. These compounds activate key serotonin receptors associated with brain plasticity and mental health benefits, yet surprisingly, they do not induce hallucinations in animal tests. This discovery is significant as it could lead to new treatments for depression, PTSD, and addiction, without the intense experiences typically associated with traditional psychedelics."
         }
       ]
     },
@@ -230,93 +221,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Here’s the latest.",
-          "link": "https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/heres-the-latest",
-          "source": "NYT > Technology",
-          "published_utc": "2026-05-14 16:06 UTC",
-          "analysis_zh": "最近，人工智能技术的快速发展引起了广泛关注。许多公司正在积极投资于AI研究，以提升其产品和服务的智能化水平。这一趋势不仅推动了科技行业的创新，也可能对劳动市场产生深远影响，改变人们的工作方式和生活习惯。因此，了解AI技术的进展及其潜在影响变得尤为重要。",
-          "analysis_en": "Recently, the rapid advancement of artificial intelligence technology has garnered significant attention. Many companies are actively investing in AI research to enhance the intelligence of their products and services. This trend is not only driving innovation in the tech industry but could also have profound effects on the labor market, altering how people work and live. Therefore, understanding the developments in AI technology and its potential impacts has become increasingly important."
+          "title": "Metroid Prime 4: Beyond got its first big discount",
+          "link": "https://www.theverge.com/gadgets/930875/metroid-prime-4-beyond-nintendo-switch-deal-sale",
+          "source": "The Verge",
+          "published_utc": "2026-05-14 21:38 UTC",
+          "analysis_zh": "《银河战士：原生4：超越》在Best Buy首次大幅降价，价格下调20美元，现售39.99美元。这款游戏在2017年的硬件上表现出色，但在Switch 2上运行效果更佳，玩家可以通过额外10美元的升级包解锁更高分辨率的纹理和更快的加载时间。这一降价对于希望体验最新游戏的玩家来说是个好机会，同时也可能影响到Switch 2的销售，因为搭配升级包的价格相较于正常售价更具吸引力。",
+          "analysis_en": "\"Metroid Prime 4: Beyond\" has received its first significant discount at Best Buy, now priced at $39.99 after a $20 reduction. The game performs impressively on the 2017 hardware, but it runs even better on the Switch 2, where players can purchase an additional $10 upgrade pack to unlock higher-resolution textures and faster loading times. This discount presents a great opportunity for gamers looking to experience the latest title, and it may also influence Switch 2 sales, as the bundled upgrade pack offers a more attractive price compared to the standard retail price."
         },
         {
           "rank": 2,
-          "title": "Leaked images show Microsoft’s new Xbox Cloud Gaming controller",
-          "link": "https://www.theverge.com/news/930502/microsoft-xbox-cloud-gaming-controller-leak",
+          "title": "Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses",
+          "link": "https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer",
           "source": "The Verge",
-          "published_utc": "2026-05-14 15:49 UTC",
-          "analysis_zh": "最近，巴西的监管机构Anatel泄露了微软新款Xbox云游戏控制器的图片。这款控制器将支持Wi-Fi直接连接到Xbox云游戏服务器，标志着微软在游戏设备上的进一步创新。新控制器的设计更小巧，可能会吸引更多玩家的关注，同时也可能改变市场上对游戏控制器的需求。随着云游戏的普及，这种新设备的推出可能会推动更多用户体验云游戏服务。",
-          "analysis_en": "Recently, leaked images from Brazil's Anatel regulator revealed Microsoft's new Xbox Cloud Gaming controller. This controller will support Wi-Fi connectivity directly to Xbox Cloud Gaming servers, showcasing Microsoft's continued innovation in gaming devices. Its smaller design may attract more players and could shift market demand for gaming controllers. As cloud gaming becomes more popular, the release of this new device may encourage more users to try out cloud gaming services."
+          "published_utc": "2026-05-14 21:08 UTC",
+          "analysis_zh": "Meta最近为其Ray-Ban Display智能眼镜推出了一项新功能，允许用户通过手势来撰写信息。这项功能适用于WhatsApp、Messenger、Instagram以及其他安卓和iOS消息应用。此功能的推出不仅提升了用户体验，还展示了Meta在增强现实和可穿戴技术领域的创新能力。随着这一功能的普及，可能会改变人们的沟通方式，并推动更多开发者为该设备创造应用。",
+          "analysis_en": "Meta has recently introduced a new feature for its Ray-Ban Display smart glasses that allows users to write messages using hand gestures. This feature will be available on WhatsApp, Messenger, Instagram, and other native Android and iOS messaging apps. The launch of this functionality not only enhances user experience but also showcases Meta's innovative capabilities in augmented reality and wearable technology. As this feature becomes more widespread, it could change the way people communicate and encourage more developers to create applications for the device."
         },
         {
           "rank": 3,
-          "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-          "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+          "title": "Behold, the Elon Musk jackass trophy",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
           "source": "The Verge",
-          "published_utc": "2026-05-14 15:46 UTC",
-          "analysis_zh": "埃隆·马斯克和山姆·奥特曼正在进行一场高风险的法庭对决，这场审判可能会改变OpenAI及其知名产品ChatGPT的未来。马斯克在2024年提起诉讼，指控OpenAI背弃了其最初旨在造福人类的使命，转而追求利润最大化。这一案件的结果不仅关系到OpenAI的运营方向，也可能影响整个人工智能行业的伦理和发展模式。",
-          "analysis_en": "Elon Musk and Sam Altman are engaged in a high-stakes court battle that could reshape the future of OpenAI and its flagship product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its original mission to benefit humanity and instead focusing on profit maximization. The outcome of this trial is significant, as it could influence not only OpenAI's operational direction but also the ethical standards and development trends across the entire AI industry."
+          "published_utc": "2026-05-14 20:59 UTC",
+          "analysis_zh": "在最近的穆斯克与奥特曼的诉讼中，奥特曼的团队展示了一座看似小联盟奖杯的物品，实际上是为了纪念一位研究科学家而制作的“杰克逊奖杯”。这一奖杯的铭文是“永远不要停止做个杰克逊”，引发了媒体的关注。这一事件不仅突显了穆斯克与OpenAI之间的紧张关系，也反映了AI安全问题在科技界的重要性。穆斯克的诉讼被解读为他试图避免AI带来的严重危害，而这与他早期对AI的态度形成鲜明对比。",
+          "analysis_en": "In the recent trial between Musk and Altman, Altman's team presented an item that looked like a little league trophy, which was actually a \"jackass trophy\" created to commemorate a research scientist. The trophy bore the inscription \"Never stop being a jackass,\" drawing media attention. This incident highlights the tension between Musk and OpenAI, as well as the significance of AI safety issues in the tech industry. Musk's lawsuit is interpreted as an attempt to prevent serious harm from AI, contrasting sharply with his earlier attitudes towards AI."
         },
         {
           "rank": 4,
-          "title": "Netflix is building an AI animation studio",
-          "link": "https://www.theverge.com/column/930118/netflix-gen-ai-animation-inkubator",
+          "title": "Leaked images reveal Xbox Elite 3 controller with mysterious new buttons",
+          "link": "https://www.theverge.com/news/930902/microsoft-xbox-elite-3-controller-leak-images",
           "source": "The Verge",
-          "published_utc": "2026-05-14 15:30 UTC",
-          "analysis_zh": "Netflix 正在建立一个名为 INKubator 的内部动画工作室，旨在利用人工智能制作短篇动画内容。该平台正在招聘多种职位，包括制作人、软件工程师和计算机图形艺术家，以支持这一新项目。此举标志着 Netflix 在动画制作领域的进一步探索，可能会推动行业内对 AI 技术的更多应用和创新。随着 AI 技术的不断进步，这种新形式的内容生产可能会改变观众的观看体验和行业的创作方式。",
-          "analysis_en": "Netflix is establishing an internal animation studio called INKubator, which aims to use artificial intelligence to produce short-form animated content. The platform is hiring for various roles, including producers, software engineers, and CG artists, to support this new initiative. This move signifies Netflix's further exploration into the animation sector and may drive more applications and innovations of AI technology within the industry. As AI technology continues to evolve, this new form of content production could transform viewer experiences and the creative processes in the industry."
+          "published_utc": "2026-05-14 20:52 UTC",
+          "analysis_zh": "近日，巴西的安atel监管机构意外发布了微软即将推出的Xbox Elite 3控制器的图片。这款控制器是Elite 2的继任者，配备了可更换的十字键、踏板以及两个新按钮。此次泄露的设计显示，Elite 3控制器在外观上更加精致，并新增了两个滚轮按钮，可能与控制器的调整或游戏输入方式有关。这一消息对游戏玩家来说意义重大，因为新控制器的功能可能会提升游戏体验，并吸引更多用户关注Xbox平台。",
+          "analysis_en": "Recently, Brazil's Anatel regulator accidentally published images of Microsoft's upcoming Xbox Elite 3 controller. This controller is the successor to the Elite 2 and features an interchangeable D-Pad, paddles, and two new buttons. The leaked design indicates that the Elite 3 controller is more refined, with the addition of two scroll wheel buttons that may relate to controller adjustments or new input methods for games. This news is significant for gamers, as the new controller's features could enhance the gaming experience and attract more users to the Xbox platform."
         },
         {
           "rank": 5,
-          "title": "Americans do not want AI data centers in their backyards",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/930477/ai-data-centers-gallup-survey-70-percent-opposition",
-          "source": "The Verge",
-          "published_utc": "2026-05-14 15:24 UTC",
-          "analysis_zh": "根据最新的盖洛普调查，超过70%的美国人反对在自己居住地区建设人工智能数据中心，仅有7%的人表示“强烈支持”。调查显示，数据中心的建设受到如此强烈的反对，以至于许多人宁愿住在核电站附近，也不愿意住在数据中心旁边。这一现象反映了公众对水和电资源使用的担忧，尤其是在能源成本不断上升的背景下。未来，这种反对声音可能会影响政策制定，导致数据中心的建设受到更严格的限制。",
-          "analysis_en": "According to a recent Gallup survey, over 70% of Americans oppose the construction of AI data centers in their neighborhoods, with only 7% expressing strong support. The survey indicates that the dislike for data centers is so intense that many would prefer living near a nuclear power plant instead. This reflects public concerns about the use of water and electricity, especially as energy costs continue to rise. In the future, this opposition may influence policy decisions, potentially leading to stricter regulations on data center construction."
+          "title": "An Engineer’s Post Protesting Laptop Surveillance Is Going Viral Inside Meta",
+          "link": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/",
+          "source": "Feed: Artificial Intelligence Latest",
+          "published_utc": "2026-05-14 20:27 UTC",
+          "analysis_zh": "Meta公司的员工在美国和英国发起抗议，反对公司使用监控软件追踪员工的键盘输入和鼠标活动。这一事件引发了广泛关注，显示出员工对隐私权的重视以及对公司政策的不满。随着越来越多的员工参与抗议，这可能会促使Meta重新考虑其监控措施，并可能影响其他科技公司在员工隐私保护方面的做法。",
+          "analysis_en": "Employees at Meta in the US and UK are organizing protests against corporate software that tracks their keystrokes and mouse activity. This incident has gained significant attention, highlighting employees' concerns about privacy and dissatisfaction with company policies. As more employees join the protests, it could lead Meta to reconsider its surveillance practices and may influence other tech companies regarding employee privacy protections."
         },
         {
           "rank": 6,
-          "title": "Elon Musk’s lawyer asked Sam Altman on the stand: Are you trustworthy?",
-          "link": "https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/elon-musks-lawyer-asks-sam-altman-on-the-stand-are-you-trustworthy",
+          "title": "Cerebras, A.I. Chip Maker, Rises 89% in Market Debut as Tech IPOs Ramp Up",
+          "link": "https://www.nytimes.com/2026/05/14/technology/cerebras-ipo-ai.html",
           "source": "NYT > Technology",
-          "published_utc": "2026-05-14 15:18 UTC",
-          "analysis_zh": "在最近的法庭审讯中，埃隆·马斯克的律师质疑了OpenAI首席执行官山姆·阿尔特曼的可信度。这一事件引发了对人工智能行业领导者之间信任问题的广泛讨论。信任是科技公司成功的关键，尤其是在快速发展的AI领域。此事件可能会影响公众对AI技术的接受度以及相关公司的声誉。",
-          "analysis_en": "During a recent court hearing, Elon Musk's lawyer questioned the trustworthiness of Sam Altman, the CEO of OpenAI. This incident has sparked widespread discussion about trust issues among leaders in the artificial intelligence industry. Trust is crucial for the success of tech companies, especially in the rapidly evolving AI sector. This event may affect public acceptance of AI technologies and the reputation of the companies involved."
+          "published_utc": "2026-05-14 20:23 UTC",
+          "analysis_zh": "Cerebras是一家位于硅谷的人工智能芯片制造商，最近在股市上首次亮相，股价上涨了89%。这一事件标志着科技行业首次公开募股（IPO）的活动正在加速，尤其是在SpaceX、OpenAI和Anthropic等公司也在筹备上市的背景下。Cerebras的成功上市不仅提升了投资者对AI技术的信心，也可能为其他科技公司提供了更多的融资机会，进一步推动行业的发展。",
+          "analysis_en": "Cerebras, a Silicon Valley maker of artificial intelligence chips, recently made its market debut, with its stock rising by 89%. This event signifies an acceleration in the activity of tech initial public offerings (IPOs), especially as companies like SpaceX, OpenAI, and Anthropic are also preparing to go public. The successful listing of Cerebras not only boosts investor confidence in AI technology but may also provide more financing opportunities for other tech companies, further driving the industry's growth."
         },
         {
           "rank": 7,
-          "title": "The Beats Solo 4 have returned to their best price of the year",
-          "link": "https://www.theverge.com/gadgets/930213/beats-solo-4-headphones-anker-nano-travel-adapter-deal-sale",
+          "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
           "source": "The Verge",
-          "published_utc": "2026-05-14 15:13 UTC",
-          "analysis_zh": "Beats Solo 4耳机目前在亚马逊、百思买和塔吉特的售价降至129.95美元，优惠幅度达到70美元，这一价格是今年以来的最低点。这款耳机不仅兼容iOS设备，也能与Android设备良好配合，吸引了广泛的消费者关注。此次降价不仅让更多用户能够体验到高品质的音效，也可能推动其他品牌的耳机进行价格调整，以应对市场竞争。",
-          "analysis_en": "The Beats Solo 4 headphones are currently priced at $129.95 on Amazon, Best Buy, and Target, marking a $70 discount and the lowest price seen this year. These headphones are compatible with both iOS and Android devices, making them appealing to a wide range of consumers. This price drop not only allows more users to enjoy high-quality sound but may also prompt other brands to adjust their prices in response to increased market competition."
+          "published_utc": "2026-05-14 20:00 UTC",
+          "analysis_zh": "OpenAI 宣布将其桌面 AI 工具 Codex 集成到 ChatGPT 手机应用中，用户可以通过手机访问这一功能。此举是在 Anthropic 的 Claude Code 迅速走红后，OpenAI 为了追赶竞争对手而采取的措施。Codex 的移动版允许用户在手机上指挥电脑执行任务，这将极大提升用户的工作效率。随着 Codex 的更新，OpenAI 还计划将其发展为一个桌面“超级应用”，这可能会改变用户与技术的互动方式。",
+          "analysis_en": "OpenAI has announced the integration of its desktop AI tool Codex into the ChatGPT mobile app, allowing users to access this feature from their phones. This move comes as OpenAI seeks to catch up with competitors following the rapid rise of Anthropic's Claude Code. The mobile version of Codex enables users to command their computers to perform tasks directly from their phones, significantly enhancing productivity. With the updates to Codex, OpenAI also aims to evolve it into a desktop \"superapp,\" which could transform how users interact with technology."
         },
         {
           "rank": 8,
-          "title": "Razer’s Blade 18 is getting a $500 price hike and a new Intel chip",
-          "link": "https://www.theverge.com/gadgets/930343/razers-blade-18-is-getting-a-500-price-hike-and-a-new-intel-chip",
-          "source": "The Verge",
-          "published_utc": "2026-05-14 15:00 UTC",
-          "analysis_zh": "Razer最近发布了新款Blade 18游戏笔记本电脑，搭载Intel Core Ultra 9 290HX Plus处理器。该旗舰笔记本的起售价为3999.99美元，比2025年型号上涨了500美元。这一价格上涨反映了市场对高性能游戏设备的持续需求，同时也可能影响消费者的购买决策，尤其是在经济压力加大的背景下。新款Blade 18的显示屏亮度提高了20%，并保持了多种连接选项，这使其在竞争激烈的市场中仍具吸引力。",
-          "analysis_en": "Razer has recently announced its new Blade 18 gaming laptop, featuring the Intel Core Ultra 9 290HX Plus chip. The flagship model starts at $3,999.99, which is a $500 increase compared to the 2025 model. This price hike reflects the ongoing demand for high-performance gaming devices and may influence consumer purchasing decisions, especially amid economic pressures. The new Blade 18 boasts a 20% brighter display and maintains a variety of connectivity options, making it still appealing in a competitive market."
+          "title": "Here’s the latest.",
+          "link": "https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/heres-the-latest",
+          "source": "NYT > Technology",
+          "published_utc": "2026-05-14 19:59 UTC",
+          "analysis_zh": "最近，人工智能技术的快速发展引起了广泛关注。许多公司正在加大对AI研究和应用的投资，这不仅推动了科技进步，也改变了各行各业的运作方式。这一趋势的重要性在于，它可能会影响就业市场和社会结构，带来新的挑战和机遇。随着AI的普及，企业和个人都需要适应这一变化，以保持竞争力。",
+          "analysis_en": "Recently, the rapid advancement of artificial intelligence technology has garnered significant attention. Many companies are increasing their investments in AI research and applications, which not only drives technological progress but also transforms the operations of various industries. The importance of this trend lies in its potential to impact the job market and social structures, presenting both new challenges and opportunities. As AI becomes more widespread, businesses and individuals must adapt to these changes to remain competitive."
         },
         {
           "rank": 9,
-          "title": "How companies weaponize the terms of service against you",
-          "link": "https://www.theverge.com/podcast/930342/brendan-ballou-companies-courts-forced-arbitration-lawsuits-scalia",
+          "title": "Meta’s summer sale drops Ray-Ban’s new smart glasses to record-low prices",
+          "link": "https://www.theverge.com/gadgets/930785/meta-smart-glasses-gen-1-2-deal-sale",
           "source": "The Verge",
-          "published_utc": "2026-05-14 14:30 UTC",
-          "analysis_zh": "最近，布伦丹·巴卢（Brendan Ballou）在一档节目中讨论了他的新书《当公司掌控法庭》（When Companies Run the Courts），重点讲述了强制仲裁条款的兴起及其对消费者权益的影响。强制仲裁条款通常隐藏在用户协议中，消费者在购买产品或使用服务时往往被迫放弃集体诉讼的权利，转而接受仲裁。这一现象引发了广泛关注，因为它使得消费者在面对不公时几乎没有法律救济的途径。随着越来越多的案例曝光，这种不公正的条款可能会促使公众对法律和商业实践的重新审视。",
-          "analysis_en": "Recently, Brendan Ballou discussed his new book, \"When Companies Run the Courts,\" on a podcast, focusing on the rise of forced arbitration clauses and their impact on consumer rights. These clauses are often buried in user agreements, requiring consumers to give up their right to join class-action lawsuits when purchasing products or services, forcing them instead into arbitration. This issue has garnered significant attention as it leaves consumers with little recourse against unfair practices. With more high-profile cases coming to light, this injustice may lead to a public re-evaluation of legal and business practices."
+          "published_utc": "2026-05-14 19:44 UTC",
+          "analysis_zh": "Meta公司正在进行夏季促销活动，Ray-Ban的智能眼镜价格降至历史最低。这款第一代智能眼镜的售价为224.25美元，第二代的售价为322.15美元，分别享受74美元和57美元的折扣。这一促销活动不仅吸引了消费者的关注，也为Meta在智能穿戴设备市场的竞争提供了助力。随着智能眼镜的价格降低，预计会有更多用户尝试这一新兴科技，进一步推动市场的增长。",
+          "analysis_en": "Meta is currently running a summer sale, bringing the price of Ray-Ban's smart glasses down to record lows. The first-generation model is priced at $224.25, while the second-generation model is available for $322.15, with discounts of $74 and $57, respectively. This promotion not only captures consumer interest but also strengthens Meta's position in the competitive wearable tech market. As the prices of smart glasses decrease, more users are likely to try this emerging technology, potentially driving further market growth."
         },
         {
           "rank": 10,
-          "title": "AMD’s FSR 4.1 upscaling tech is coming to older graphics cards",
-          "link": "https://www.theverge.com/tech/930376/amd-fsr-4-expansion",
-          "source": "The Verge",
-          "published_utc": "2026-05-14 14:06 UTC",
-          "analysis_zh": "AMD宣布将其FSR 4.1超分辨率技术扩展到旧款显卡，这一消息对游戏玩家来说意义重大。根据AMD计算与图形部门负责人Jack Huynh的说法，FSR 4.1将在七月首先推出给RDNA 3显卡，随后在2027年初支持RDNA 2芯片。这项技术的更新将使拥有Radeon RX 7000系列显卡的用户能够在超过300款游戏中体验到更好的性能和画质。此举不仅提升了旧款显卡的使用价值，也可能吸引更多玩家选择AMD的产品。",
-          "analysis_en": "AMD has announced that its FSR 4.1 upscaling technology will be available for older graphics cards, which is significant for gamers. According to Jack Huynh, head of AMD's computing and graphics division, FSR 4.1 will first roll out to RDNA 3 GPUs in July, followed by support for RDNA 2 chips in early 2027. This update will allow users with Radeon RX 7000 series graphics cards to experience improved performance and visuals in over 300 supported games. This move not only enhances the value of older graphics cards but may also attract more gamers to choose AMD products."
+          "title": "Microsoft’s C.E.O. testified about the company’s OpenAI investments.",
+          "link": "https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/microsofts-ceo-testified-about-the-companys-openai-investments",
+          "source": "NYT > Technology",
+          "published_utc": "2026-05-14 19:42 UTC",
+          "analysis_zh": "微软首席执行官在听证会上就公司对OpenAI的投资进行了作证。这一事件引发了广泛关注，因为它涉及到人工智能技术的未来发展及其对市场的影响。微软的投资不仅可能推动OpenAI的技术进步，还可能改变科技行业的竞争格局。这一举动也可能引发其他科技公司对人工智能领域的更多投资和创新。",
+          "analysis_en": "Microsoft's CEO testified about the company's investments in OpenAI during a hearing. This event has garnered significant attention as it relates to the future development of artificial intelligence technology and its impact on the market. Microsoft's investment could not only advance OpenAI's technological progress but also alter the competitive landscape of the tech industry. Additionally, this move may prompt other tech companies to increase their investments and innovation in the field of artificial intelligence."
         }
       ]
     },
@@ -326,93 +317,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "At TEFAF New York, Lesser-Known Artists Delight",
-          "link": "https://www.nytimes.com/2026/05/14/arts/design/tefaf-nyc-2026-artists-review.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-05-14 16:01 UTC",
-          "analysis_zh": "在纽约的TEFAF艺术博览会上，一些不太知名的艺术家吸引了评论家的注意。这场艺术博览会在公园大道军械库举行，展现了欧洲艺术的深厚根基。这些艺术家的作品突破了明星效应，展示了独特的创意和视角。这一现象不仅丰富了艺术市场，也为新兴艺术家提供了更多曝光的机会，可能会改变观众对艺术价值的看法。",
-          "analysis_en": "At the TEFAF art fair in New York, several lesser-known artists caught the critic's attention. Held at the Park Avenue Armory, the fair showcases a deep-rooted connection to European art. These artists' works break through the star system, offering unique creativity and perspectives. This trend not only enriches the art market but also provides emerging artists with increased visibility, potentially shifting the audience's perception of artistic value."
+          "title": "Peter Doig, Tracey Emin, and More Sign Letter Defending Southbank Centre Chair",
+          "link": "https://www.artnews.com/art-news/news/celebrities-sign-letter-defending-southbank-centre-chair-1234785626/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-05-14 21:43 UTC",
+          "analysis_zh": "近期，彼得·多伊格、特雷西·艾敏等知名艺术家签署了一封信，公开支持南岸中心主席米桑·哈里曼。信中指出，哈里曼是一个“ dishonest smear campaign”的受害者，呼吁公众对其进行公正的评判。这一事件引发了广泛关注，因为南岸中心是伦敦重要的文化机构，哈里曼的领导对其未来发展至关重要。如果这种抹黑行为得不到遏制，可能会对艺术界的声誉和文化机构的运作产生负面影响。",
+          "analysis_en": "Recently, renowned artists such as Peter Doig and Tracey Emin signed a letter publicly supporting Misan Harriman, the chair of the Southbank Centre. The letter claims that Harriman is a victim of a \"dishonest smear campaign,\" urging the public to judge him fairly. This incident has garnered significant attention as the Southbank Centre is a vital cultural institution in London, and Harriman's leadership is crucial for its future development. If such smear tactics are not addressed, it could negatively impact the reputation of the art community and the operations of cultural institutions."
         },
         {
           "rank": 2,
-          "title": "Rose Byrne and Kelli O’Hara in ‘Fallen Angels,’ and More Theater to Stream",
-          "link": "https://www.nytimes.com/2026/05/14/theater/suffs-othello-theater-streaming.html",
+          "title": "Frank Stack, Painter Who Secretly Drew ‘The Adventures of Jesus,’ Dies at 88",
+          "link": "https://www.nytimes.com/2026/05/14/books/frank-stack-dead.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-05-14 15:58 UTC",
-          "analysis_zh": "在诺埃尔·科沃德1925年的喜剧《堕落天使》中，罗斯·拜恩和凯莉·欧哈拉因其精彩的表演获得了托尼奖提名。这一消息对于戏剧界来说意义重大，因为它不仅展示了这两位女演员的才华，也引发了人们对经典剧作的关注。此外，观众还可以欣赏到本·普拉特和瑞秋·泽格勒在《过去五年》中的精彩演出，这可能会吸引更多人参与到剧场艺术中来。",
-          "analysis_en": "In Noël Coward's 1925 farce \"Fallen Angels,\" actresses Rose Byrne and Kelli O'Hara received Tony nominations for their outstanding performances. This is significant for the theater community as it highlights the talent of these two actresses and draws attention to classic works. Additionally, audiences can also enjoy Ben Platt and Rachel Zegler in \"The Last Five Years,\" which may encourage more people to engage with theatrical arts."
+          "published_utc": "2026-05-14 21:33 UTC",
+          "analysis_zh": "弗兰克·斯塔克，这位以笔名“愚人鱼”创作的画家，近日去世，享年88岁。他在过去20年中，以漫画的形式记录了耶稣与现代伪善者的遭遇，展现了对社会现象的深刻反思。这一作品不仅引发了人们对宗教与现代社会关系的思考，也让更多人关注到艺术在表达信仰和批判现实中的重要性。斯塔克的离世意味着这一独特视角的艺术表达将不再继续，可能会影响未来对宗教题材艺术创作的探索。",
+          "analysis_en": "Frank Stack, the painter known by his pen name Foolbert Sturgeon, passed away at the age of 88. For the past 20 years, he used comic books to depict Christ's encounters with modern-day hypocrites, offering a profound commentary on societal issues. His work has sparked discussions about the relationship between religion and contemporary society, highlighting the significance of art in expressing faith and critiquing reality. With Stack's passing, this unique artistic perspective will no longer be present, which may influence future explorations of religious themes in art."
         },
         {
           "rank": 3,
-          "title": "The Met Will Expand by Merging With the Nearby Neue Galerie",
-          "link": "https://www.nytimes.com/2026/05/14/arts/design/met-museum-neue-galerie-merger-lauder.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-05-14 15:53 UTC",
-          "analysis_zh": "大都会艺术博物馆将于2028年开始合并附近的Neue Galerie，届时将拥有这座位于第五大道的建筑及由罗纳德·S·劳德所建立的20世纪奥地利和德国艺术珍藏。这一合并不仅将扩大大都会艺术博物馆的展览空间，还将丰富其艺术收藏，提升博物馆的国际声誉。这一举措可能会吸引更多游客，进一步推动纽约的文化旅游产业发展。",
-          "analysis_en": "The Metropolitan Museum of Art will merge with the nearby Neue Galerie starting in 2028, acquiring its Fifth Avenue location and the prestigious collection of 20th-century Austrian and German art assembled by Ronald S. Lauder. This merger will not only expand the Met's exhibition space but also enhance its art collection, boosting the museum's international reputation. This move is likely to attract more visitors, further promoting the cultural tourism industry in New York."
-        },
-        {
-          "rank": 4,
-          "title": "Trial Begins in Brent Sikkema Murder-For-Hire Case",
-          "link": "https://www.artnews.com/art-news/news/trial-begins-brent-sikkema-murder-case-1234785483/",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-05-14 15:53 UTC",
-          "analysis_zh": "布伦特·西克马（Brent Sikkema）的谋杀雇佣案审判已正式开始，证人包括被告在内的多位证人已出庭作证。这起案件引起了公众的广泛关注，因为它涉及到谋杀与金钱交易的复杂关系，反映了社会中潜在的暴力和道德问题。审判的结果不仅会影响案件相关人员的命运，也可能对公众对类似案件的看法产生深远影响。",
-          "analysis_en": "The trial of Brent Sikkema's murder-for-hire case has officially begun, with witnesses, including the accused, taking the stand. This case has garnered significant public attention as it involves the intricate relationship between murder and financial transactions, highlighting underlying issues of violence and morality in society. The outcome of the trial will not only determine the fate of those involved but may also have a lasting impact on public perceptions of similar cases."
-        },
-        {
-          "rank": 5,
-          "title": "Six Unforgettable Artists at the Biggest Independent Fair",
-          "link": "https://www.nytimes.com/2026/05/14/arts/design/independent-art-fair-review.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-05-14 15:52 UTC",
-          "analysis_zh": "在中国城的另一侧，一场备受期待的独立艺术博览会重新亮相，吸引了众多艺术爱好者的目光。这场博览会汇聚了六位令人难忘的艺术家，展示了他们的独特风格和创作理念。这一活动不仅为艺术界注入了新鲜活力，也为当地社区提供了一个欣赏和交流艺术的平台。这样的展览可能会促进艺术市场的发展，并吸引更多的观众和投资者关注独立艺术。",
-          "analysis_en": "A highly anticipated independent art fair has reemerged on the other side of Chinatown, drawing the attention of many art enthusiasts. This fair features six unforgettable artists, showcasing their unique styles and creative concepts. The event not only revitalizes the art scene but also provides a platform for the local community to appreciate and engage with art. Such exhibitions could stimulate the growth of the art market and attract more viewers and investors to independent art."
-        },
-        {
-          "rank": 6,
-          "title": "‘Is God Is’ Review: The Fires This Time",
-          "link": "https://www.nytimes.com/2026/05/14/movies/is-god-is-review.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-05-14 15:28 UTC",
-          "analysis_zh": "在阿莱希亚·哈里斯的电影处女作《神在》评审中，卡拉·杨和马洛里·约翰逊饰演的双胞胎姐妹为了复仇而展开了一场激烈的斗争。这部影片不仅展示了强烈的情感和复杂的人物关系，还探讨了复仇对个体和家庭的深远影响。该作品的重要性在于它反映了当代社会中对正义和复仇的思考，可能会引发观众对自身道德观的反思。",
-          "analysis_en": "In the review of Aleshea Harris's film debut \"Is God Is,\" Kara Young and Mallori Johnson portray twin sisters on a fierce quest for revenge. The film not only showcases intense emotions and complex character dynamics but also delves into the profound effects of revenge on individuals and families. Its significance lies in reflecting contemporary societal thoughts on justice and vengeance, potentially prompting viewers to reconsider their own moral beliefs."
-        },
-        {
-          "rank": 7,
           "title": "In Venice, the Passion of Life and the Ghost of Art",
           "link": "https://www.nytimes.com/2026/05/14/arts/venice-biennale-artworks.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-05-14 14:58 UTC",
-          "analysis_zh": "在威尼斯，2026年世界上最古老的艺术展览即将举行，主题围绕着生命的热情。这次展览不仅展示了艺术的活力，也反映了当今社会的复杂性。这一活动的重要性在于它不仅是艺术的庆典，还可能影响观众对生命和艺术关系的思考。随着展览的临近，艺术界和公众的期待也在不断升温。",
-          "analysis_en": "In Venice, the 2026 edition of the world's oldest art exhibition is set to focus on the passion of life. This exhibition highlights the vitality of art while also reflecting the complexities of contemporary society. Its significance lies in the fact that it serves not only as a celebration of art but also as a catalyst for audiences to contemplate the relationship between life and art. As the event approaches, anticipation within the art community and the public continues to grow."
+          "published_utc": "2026-05-14 21:26 UTC",
+          "analysis_zh": "在2026年，世界上最古老的艺术展览将在威尼斯举行，主题围绕生命的热情展开。这次展览不仅展示了艺术的活力，也反映了当今社会面临的挑战。这一活动的重要性在于它为艺术家提供了一个平台，促进了文化交流和创意表达。展览的影响可能会激励更多人关注艺术与生活之间的关系，推动社会对艺术价值的重新思考。",
+          "analysis_en": "The 2026 edition of the world’s oldest art exhibition will take place in Venice, focusing on the passion of life. This event not only showcases the vitality of art but also highlights the challenges faced by society today. Its significance lies in providing artists with a platform that fosters cultural exchange and creative expression. The exhibition may inspire more people to reflect on the relationship between art and life, prompting a reevaluation of the value of art in society."
+        },
+        {
+          "rank": 4,
+          "title": "Clarence Carter, Singer of Lust-Filled Soul Hits, Dies at 90",
+          "link": "https://www.nytimes.com/2026/05/14/arts/music/clarence-carter-dead.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-05-14 21:07 UTC",
+          "analysis_zh": "克拉伦斯·卡特，这位以充满欲望的灵魂乐而闻名的歌手，近日去世，享年90岁。他的代表作《Slip Away》和《Back Door Santa》展现了他如同乡村传教士般的热情和酒吧幽默。这位艺术家的离世不仅是音乐界的损失，也让人们重新审视他在灵魂乐历史中的重要地位。他的作品影响了无数后来的音乐人，未来的音乐创作可能会受到他的风格和主题的启发。",
+          "analysis_en": "Clarence Carter, the renowned singer known for his lust-filled soul music, has passed away at the age of 90. His iconic songs like \"Slip Away\" and \"Back Door Santa\" showcased his fervent delivery akin to that of a country preacher, combined with the bawdy humor typical of juke joints. His death marks a significant loss for the music community and prompts a reevaluation of his important role in the history of soul music. Carter's influence on countless musicians may inspire future music creation, reflecting his distinctive style and themes."
+        },
+        {
+          "rank": 5,
+          "title": "Melbourne Design Week to highlight how powerful design can \"shape the way we live\"",
+          "link": "https://www.dezeen.com/2026/05/14/melbourne-design-week-powerful-design-shape-live/",
+          "source": "Dezeen",
+          "published_utc": "2026-05-14 20:00 UTC",
+          "analysis_zh": "墨尔本设计周将于5月14日至24日举行，庆祝其第十届活动。这一盛会由维多利亚国家美术馆主办，旨在展示最新的设计创新如何影响澳大利亚及国际的现代生活。此次活动包括超过400个展览和讲座，强调设计在塑造我们生活方式中的重要性。这不仅是一个展示创意的平台，也为设计师和公众提供了交流的机会，可能会推动设计行业的进一步发展。",
+          "analysis_en": "Melbourne Design Week will take place from May 14 to 24, celebrating its tenth edition. Organized by the National Gallery of Victoria, the event aims to showcase how the latest design innovations impact contemporary life in Australia and internationally. With over 400 exhibitions and talks, it emphasizes the significance of design in shaping our way of living. This event not only serves as a platform for creative expression but also provides opportunities for designers and the public to engage, potentially driving further growth in the design industry."
+        },
+        {
+          "rank": 6,
+          "title": "‘to honor the little plants’ artist jasmin sian cuts intricate, overgrown worlds from deli bags",
+          "link": "https://www.designboom.com/art/artist-jasmin-sian-cuts-intricate-worlds-deli-bags-whitney-biennial/",
+          "source": "designboom | architecture & design magazine",
+          "published_utc": "2026-05-14 20:00 UTC",
+          "analysis_zh": "纽约艺术家贾斯敏·西安（Jasmin Sian）在惠特尼双年展上展出了她的最新作品，利用废弃的纸袋创作出精致的、仿佛自然生长的艺术品。这些作品不仅展示了她对自然的敬意，也反映了对可持续性的关注。通过将日常物品转变为艺术，西安挑战了我们对废物的传统看法，促使观众思考环境保护的重要性。这一展览可能会激励更多艺术家关注环保主题，并在创作中融入可持续的材料。",
+          "analysis_en": "New York-based artist Jasmin Sian showcased her latest works at the Whitney Biennial, transforming discarded paper bags into intricate, nature-inspired artworks. These pieces not only honor nature but also highlight the importance of sustainability. By turning everyday items into art, Sian challenges conventional views on waste and encourages viewers to consider the significance of environmental protection. This exhibition may inspire more artists to focus on eco-friendly themes and incorporate sustainable materials into their work."
+        },
+        {
+          "rank": 7,
+          "title": "The Best Booths at 1-54 Contemporary African Art Fair, From Surrealist Fantasias to Afro-Brazilian Imaginings",
+          "link": "https://www.artnews.com/list/art-news/news/1-54-african-art-fair-best-booths-1234785535/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-05-14 19:34 UTC",
+          "analysis_zh": "第1-54届当代非洲艺术博览会在纽约重新开幕，特别聚焦于非洲巴西艺术。这一博览会汇聚了来自不同背景的艺术家，展示了他们的独特创作。此次活动不仅为艺术爱好者提供了一个欣赏和购买艺术作品的平台，也促进了对非洲及其文化的更深入理解。随着非洲艺术在全球艺术市场中的影响力不断上升，这样的展览将可能吸引更多的关注和投资。",
+          "analysis_en": "The 1-54 Contemporary African Art Fair has reopened in New York, with a special focus on Afro-Brazilian art. This fair brings together artists from diverse backgrounds to showcase their unique creations. The event not only provides a platform for art enthusiasts to appreciate and purchase artworks but also fosters a deeper understanding of African culture. As African art continues to gain influence in the global art market, such exhibitions may attract increased attention and investment."
         },
         {
           "rank": 8,
-          "title": "How an Image of Washington at Prayer Became a Touchstone for the Right",
-          "link": "https://www.nytimes.com/2026/05/14/arts/design/george-washington-praying-trump-right-wing.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-05-14 14:56 UTC",
-          "analysis_zh": "在特朗普执政期间，华盛顿祈祷的形象逐渐成为右派的重要象征。这一场景灵感来源于华盛顿在冬季福吉谷的经历，反映出对美国作为基督教国家的主张的强化。这一现象不仅影响了政治话语，还可能在社会文化层面引发更广泛的讨论，尤其是在宗教与国家关系方面。",
-          "analysis_en": "During the Trump administration, the image of Washington at prayer has increasingly become a significant symbol for the right. This scene, inspired by Washington's experiences during the winter at Valley Forge, reflects a strengthened narrative that the United States was founded as a Christian nation. This trend not only impacts political discourse but may also spark broader discussions in the social and cultural realms, particularly regarding the relationship between religion and state."
+          "title": "Frick Inks Three-Year Partnership with Louis Vuitton, with Support for Exhibitions and Free Fridays",
+          "link": "https://www.artnews.com/art-news/news/frick-collection-louis-vuitton-sponsorship-exhibitions-1234785574/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-05-14 19:30 UTC",
+          "analysis_zh": "弗里克收藏馆与路易威登达成为期三年的合作伙伴关系，首个活动将展示路易威登2027年度假系列。这一合作不仅将提升弗里克的展览质量，还将为公众提供免费的参观机会。此举有助于吸引更多观众，尤其是年轻一代，从而增强弗里克在艺术界的影响力。",
+          "analysis_en": "The Frick Collection has entered into a three-year partnership with Louis Vuitton, kicking off with the presentation of the Cruise 2027 collection. This collaboration aims to enhance the quality of exhibitions at the Frick while also providing free admission opportunities for the public. Such initiatives are likely to attract a larger audience, particularly among younger generations, thereby strengthening the Frick's influence in the art world."
         },
         {
           "rank": 9,
-          "title": "New York’s Neue Galerie to Merge with Metropolitan Museum of Art in Major Expansion",
-          "link": "https://www.artnews.com/art-news/news/neue-galerie-met-museum-merger-ronald-lauder-1234785465/",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-05-14 14:54 UTC",
-          "analysis_zh": "纽约的Neue Galerie将与大都会艺术博物馆合并，以实现重大扩展。这一举措不仅将增强大都会艺术博物馆的展览空间，还将使其收藏更加丰富，因为Neue Galerie的创始人罗纳德·劳德和他的女儿将向大都会捐赠13件德国和奥地利现代艺术作品。这一合并对于提升纽约的艺术文化地位具有重要意义，同时也可能吸引更多游客和艺术爱好者前来参观。",
-          "analysis_en": "New York's Neue Galerie is set to merge with the Metropolitan Museum of Art in a significant expansion. This move will not only enhance the Met's exhibition space but also enrich its collection, as founder Ronald Lauder and his daughter will donate 13 works of German and Austrian modern art to the museum. This merger is significant for elevating New York's cultural status in the art world and may attract more visitors and art enthusiasts to the city."
+          "title": "Six Unforgettable Artists at the Biggest Independent Fair",
+          "link": "https://www.nytimes.com/2026/05/14/arts/design/independent-art-fair-review.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-05-14 19:20 UTC",
+          "analysis_zh": "在华埠的另一边，一个备受期待的独立艺术博览会重新开幕，吸引了众多艺术爱好者的目光。这次博览会汇聚了六位令人难忘的艺术家，展示了他们的独特风格和创作理念。这一活动不仅为艺术家提供了展示的平台，也为观众带来了丰富的艺术体验，促进了文化交流。这样的博览会能够提升当地艺术市场的活力，吸引更多人关注和参与艺术活动。",
+          "analysis_en": "A highly anticipated independent art fair has reopened on the other side of Chinatown, drawing the attention of many art enthusiasts. This fair features six unforgettable artists, showcasing their unique styles and creative concepts. The event not only provides a platform for artists to display their work but also offers a rich artistic experience for the audience, fostering cultural exchange. Such fairs can invigorate the local art market and attract more people to engage with and participate in art activities."
         },
         {
           "rank": 10,
-          "title": "Best Booths at Frieze, the Workhorse of Contemporary Art",
-          "link": "https://www.nytimes.com/2026/05/14/arts/design/frieze-new-york-contemporary-art-fair.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-05-14 14:49 UTC",
-          "analysis_zh": "在弗里兹艺术展上，共有65个画廊参展，展出了大量绘画作品以及一些令人惊喜的小型雕塑。这一展览不仅展示了当代艺术的多样性，也为艺术爱好者提供了丰富的视觉体验。这样的活动对于推动艺术市场的发展具有重要意义，同时也可能影响未来艺术创作的方向和趋势。",
-          "analysis_en": "At the Frieze Art Fair, 65 galleries are showcasing a plethora of paintings along with a surprising collection of small sculptures. This exhibition highlights the diversity of contemporary art and offers art enthusiasts a rich visual experience. Such events are significant for the growth of the art market and may also influence the direction and trends of future artistic creations."
+          "title": "Dutch Designer Iris van Herpen’s High-Tech Garments Are On View in a Mid-Career Retrospective at the Brooklyn Museum",
+          "link": "https://www.artnews.com/art-news/news/dutch-designer-iris-van-herpen-high-tech-garments-retrospective-brooklyn-museum-1234785529/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-05-14 19:16 UTC",
+          "analysis_zh": "荷兰设计师伊莉丝·范·赫彭（Iris van Herpen）的高科技服装在布鲁克林博物馆举行的中期回顾展上展出。展览中包括了许多她的名人客户所穿的作品，如Lady Gaga、比约克（Björk）和碧昂丝（Beyoncé）。这一展览不仅展示了她的创新设计，也反映了时尚与科技的结合，吸引了众多观众的关注。这样的展览有助于提升公众对现代设计的理解，并可能影响未来时尚界对科技元素的进一步探索。",
+          "analysis_en": "Dutch designer Iris van Herpen's high-tech garments are on display in a mid-career retrospective at the Brooklyn Museum. The exhibition features many pieces worn by her celebrity clients, including Lady Gaga, Björk, and Beyoncé. This showcase not only highlights her innovative designs but also reflects the fusion of fashion and technology, drawing significant public interest. Such exhibitions enhance the public's understanding of modern design and may influence future explorations of technological elements in the fashion industry."
         }
       ]
     }
