@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-18 16:32:38 UTC",
-  "generated_at_unix": 1779121958,
+  "generated_at": "2026-05-18 16:49:52 UTC",
+  "generated_at_unix": 1779122992,
   "window": {
-    "from_utc": "2026-05-17 16:32:38 UTC",
-    "to_utc": "2026-05-18 16:32:38 UTC",
+    "from_utc": "2026-05-17 16:49:52 UTC",
+    "to_utc": "2026-05-18 16:49:52 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,93 +14,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Warren Buffett teased to CNBC he made a ‘tiny purchase’ in March. Berkshire filing may have revealed it",
-          "link": "https://www.cnbc.com/2026/05/18/warren-buffett-teased-to-cnbc-a-tiny-purchase-in-march-berkshire-filing-may-have-revealed-it.html",
+          "title": "10-year Treasury yield touches highest in a year, Japan's 30-year yield rises to a record",
+          "link": "https://www.cnbc.com/2026/05/18/treasury-yields-inflation-bond-rout-oil.html",
           "source": "US Top News and Analysis",
-          "published_utc": "2026-05-18 16:32 UTC",
-          "analysis_zh": "沃伦·巴菲特在接受CNBC采访时透露，伯克希尔·哈撒韦在三月份进行了“一笔小额购买”。这一消息引发了市场的关注，因为巴菲特的投资决策通常会影响投资者的信心和市场走势。这笔小额投资可能表明伯克希尔对某些行业或公司的看好，尽管具体细节尚未披露。投资者将密切关注伯克希尔的后续动向，以判断其未来的投资策略和市场趋势。",
-          "analysis_en": "Warren Buffett revealed in an interview with CNBC that Berkshire Hathaway made \"one tiny purchase\" in March. This news has drawn market attention, as Buffett's investment decisions often influence investor confidence and market trends. This small investment may indicate Berkshire's optimism about certain industries or companies, although specific details have not yet been disclosed. Investors will closely monitor Berkshire's future moves to assess its investment strategy and market outlook."
+          "published_utc": "2026-05-18 16:48 UTC",
+          "analysis_zh": "周一，全球债券收益率上升，10年期美国国债收益率达到了过去一年的最高点，而日本30年期国债收益率也创下了新高。这一现象反映出市场对通货膨胀复苏的担忧加剧。债券收益率的上升可能会导致借贷成本增加，从而影响企业投资和消费者支出，进而对经济增长产生潜在影响。",
+          "analysis_en": "On Monday, global bond yields rose, with the 10-year U.S. Treasury yield reaching its highest level in a year, while Japan's 30-year yield also hit a record high. This trend indicates growing concerns in the market about a resurgence of inflation. The increase in bond yields could lead to higher borrowing costs, which may affect corporate investments and consumer spending, potentially impacting economic growth."
         },
         {
           "rank": 2,
-          "title": "Judge blocks evidence from Luigi Mangione backpack in UnitedHealthcare CEO murder case",
-          "link": "https://www.cnbc.com/2026/05/18/luigi-mangione-backpack-evidence-unitedhealthcare-murder.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-05-18 16:29 UTC",
-          "analysis_zh": "在宾夕法尼亚州阿尔图纳的一家麦当劳，警方逮捕了路易吉·曼吉奥内，他被指控与联合健康公司首席执行官布莱恩·汤普森的谋杀案有关。法官近期裁定，曼吉奥内背包中的证据不能作为法庭证据，这一决定可能对案件的审理产生重大影响。此案引发了公众对企业高管安全和法律程序的广泛关注，可能会影响未来类似案件的证据采纳标准。",
-          "analysis_en": "Luigi Mangione was arrested by police in a McDonald's in Altoona, Pennsylvania, in connection with the murder of UnitedHealthcare CEO Brian Thompson. A judge recently ruled that evidence found in Mangione's backpack cannot be used in court, which could significantly impact the proceedings of the case. This ruling has sparked public concern over the safety of corporate executives and the legal processes involved, potentially influencing the standards for evidence admissibility in similar cases in the future."
+          "title": "Judge grants accused CEO killer Mangione’s bid to suppress evidence due to unlawful search",
+          "link": "https://www.investing.com/news/stock-market-news/luigi-mangione-due-in-court-for-ruling-on-backpack-evidence-in-ceo-killing-case-4694989",
+          "source": "Stock Market News",
+          "published_utc": "2026-05-18 16:37 UTC",
+          "analysis_zh": "一名法官批准了被控谋杀首席执行官的曼吉奥内（Mangione）请求，决定抑制因非法搜查而获得的证据。这一裁决对案件的进展至关重要，因为如果关键证据被排除，可能会影响检方的起诉力度和案件的最终结果。这也引发了对执法程序合法性的讨论，可能会对未来类似案件的审理产生深远影响。",
+          "analysis_en": "A judge has granted accused CEO killer Mangione's request to suppress evidence obtained through an unlawful search. This ruling is significant for the case's progression, as the exclusion of key evidence may weaken the prosecution's case and impact the final outcome. It also raises concerns about the legality of law enforcement procedures, which could have far-reaching implications for the handling of similar cases in the future."
         },
         {
           "rank": 3,
-          "title": "NextEra plans to buy Dominion Energy for $66.8 billion, form biggest US power company as AI demand booms",
-          "link": "https://www.investing.com/news/stock-market-news/nextera-energy-to-buy-dominion-in-668-billion-us-power-deal-4695477",
+          "title": "FAA says it failed to address warning signals before fatal collision",
+          "link": "https://www.investing.com/news/stock-market-news/faa-says-it-failed-to-address-warning-signals-before-fatal-collision-4696485",
           "source": "Stock Market News",
-          "published_utc": "2026-05-18 16:19 UTC",
-          "analysis_zh": "NextEra能源公司计划以668亿美元收购多米尼ion能源公司，这将使其成为美国最大的电力公司。此次收购反映了对可再生能源和人工智能需求的日益增长。这样的合并不仅会重塑美国电力市场，还可能对其他能源公司产生重大影响，促使它们加快转型步伐，以适应新的市场环境。",
-          "analysis_en": "NextEra Energy plans to acquire Dominion Energy for $66.8 billion, which will create the largest power company in the U.S. This acquisition highlights the increasing demand for renewable energy and artificial intelligence. Such a merger will not only reshape the U.S. electricity market but may also significantly impact other energy companies, prompting them to accelerate their transformation to adapt to the new market landscape."
+          "published_utc": "2026-05-18 16:36 UTC",
+          "analysis_zh": "美国联邦航空局（FAA）承认，在一起致命的航空碰撞事件发生之前，未能及时处理警告信号。这一失误引发了对航空安全管理的广泛关注，可能导致对FAA的监管政策进行重新评估。此事件不仅影响了公众对航空安全的信任，也可能促使相关机构加强对航空公司和飞行员的培训与监督。",
+          "analysis_en": "The Federal Aviation Administration (FAA) has acknowledged that it failed to address warning signals prior to a fatal aviation collision. This oversight has raised significant concerns regarding aviation safety management and may lead to a reevaluation of FAA's regulatory policies. The incident not only affects public trust in aviation safety but could also prompt relevant agencies to enhance training and oversight for airlines and pilots."
         },
         {
           "rank": 4,
-          "title": "FAA chief to tell Congress agency failed to act on warnings before fatal crash",
-          "link": "https://www.investing.com/news/stock-market-news/faa-chief-to-tell-congress-agency-failed-to-act-on-warnings-before-fatal-crash-93CH-4696496",
+          "title": "BYD unveils upgraded flagship Denza SUV to bolster premium market push",
+          "link": "https://www.investing.com/news/stock-market-news/byd-unveils-upgraded-flagship-denza-suv-to-bolster-premium-market-push-4696519",
           "source": "Stock Market News",
-          "published_utc": "2026-05-18 16:17 UTC",
-          "analysis_zh": "美国联邦航空局（FAA）负责人将在国会作证，承认该机构未能在致命空难发生前采取必要的行动。此事件引发了对FAA监管能力的广泛关注，尤其是在航空安全方面。由于未能及时响应警告，可能会导致公众对航空旅行的信任下降，并促使立法机构重新审视航空安全法规。",
-          "analysis_en": "The head of the Federal Aviation Administration (FAA) is set to testify before Congress, admitting that the agency failed to take necessary actions before a fatal crash occurred. This incident has raised significant concerns about the FAA's regulatory capabilities, particularly regarding aviation safety. The inability to respond promptly to warnings could lead to a decline in public trust in air travel and may prompt lawmakers to reevaluate aviation safety regulations."
+          "published_utc": "2026-05-18 16:36 UTC",
+          "analysis_zh": "比亚迪近日推出了升级版的旗舰车型——腾势SUV，以进一步巩固其在高端市场的地位。这一新车型的发布不仅展示了比亚迪在电动汽车领域的技术进步，也表明其对高端市场的重视。随着消费者对高端电动车需求的增加，这款SUV可能会吸引更多的高端客户，从而提升比亚迪的市场份额和品牌形象。",
+          "analysis_en": "BYD recently unveiled an upgraded version of its flagship Denza SUV to strengthen its position in the premium market. The launch of this new model not only highlights BYD's technological advancements in the electric vehicle sector but also underscores its commitment to the high-end market. As consumer demand for premium electric vehicles rises, this SUV may attract more high-end customers, potentially boosting BYD's market share and brand image."
         },
         {
           "rank": 5,
-          "title": "History says AI is likely to widen the gap between corporate giants and everyone else: Goldman Sachs",
-          "link": "https://finance.yahoo.com/markets/article/history-says-ai-is-likely-to-widen-the-gap-between-corporate-giants-and-everyone-else-goldman-sachs-161724815.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-05-18 16:17 UTC",
-          "analysis_zh": "高盛近期发布报告指出，人工智能的发展可能会加大企业巨头与其他公司的差距。随着AI技术的不断进步，大型企业能够更有效地利用这些工具，从而在市场竞争中占据优势。这一现象不仅可能导致中小企业面临更大的生存压力，还可能影响整个行业的创新能力和多样性。未来，政策制定者和行业领导者需要关注这一趋势，以确保公平竞争和经济的健康发展。",
-          "analysis_en": "Goldman Sachs recently released a report indicating that the advancement of artificial intelligence is likely to widen the gap between corporate giants and smaller companies. As AI technology continues to evolve, larger firms can leverage these tools more effectively, gaining a competitive edge in the market. This trend could not only put more pressure on small and medium-sized enterprises but also impact the overall innovation and diversity within industries. In the future, policymakers and industry leaders will need to address this trend to ensure fair competition and a healthy economic environment."
+          "title": "Aéroports de Paris traffic falls in April as Middle East disruption weighs",
+          "link": "https://www.investing.com/news/stock-market-news/aeroports-de-paris-traffic-falls-in-april-as-middle-east-disruption-weighs-4696517",
+          "source": "Stock Market News",
+          "published_utc": "2026-05-18 16:34 UTC",
+          "analysis_zh": "巴黎机场在四月份的客流量下降，主要受到中东地区动荡的影响。这一变化不仅反映了全球航空业面临的挑战，也可能对相关经济体产生负面影响。随着旅行需求的减少，航空公司和相关服务行业可能会受到冲击，进而影响到就业和投资信心。",
+          "analysis_en": "Aéroports de Paris experienced a decline in traffic in April, primarily due to disruptions in the Middle East. This change highlights the challenges facing the global aviation industry and could negatively impact related economies. With a decrease in travel demand, airlines and associated service sectors may suffer, potentially affecting employment and investor confidence."
         },
         {
           "rank": 6,
-          "title": "Why is Boston Scientific stock rallying today?",
-          "link": "https://www.investing.com/news/stock-market-news/why-is-boston-scientific-stock-rallying-today-93CH-4696492",
-          "source": "Stock Market News",
-          "published_utc": "2026-05-18 16:15 UTC",
-          "analysis_zh": "波士顿科学公司的股票今天出现了显著上涨。这一涨幅主要是由于公司发布了积极的财报，显示出其医疗设备销售的强劲增长。这一消息不仅提升了投资者的信心，也可能吸引更多的资金流入该公司，进一步推动其股价上涨。随着医疗行业的持续发展，波士顿科学的表现可能会对整个行业产生积极影响。",
-          "analysis_en": "Boston Scientific's stock has seen a significant rally today. This increase is primarily due to the company releasing a positive earnings report, indicating strong growth in its medical device sales. This news not only boosts investor confidence but may also attract more capital into the company, further driving up its stock price. As the healthcare sector continues to evolve, Boston Scientific's performance could have a positive impact on the entire industry."
+          "title": "Meta layoffs starting this week stress harsh AI reality inside Zuckerberg’s company",
+          "link": "https://www.cnbc.com/2026/05/18/metas-layoffs-starting-this-week-underscore-zuckerbergs-ai-reality-.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-05-18 16:33 UTC",
+          "analysis_zh": "Meta公司本周开始裁员，预计将裁减8,000个职位，员工们正在为人工智能时代的到来做好准备。这一举措反映了公司在面对快速变化的科技环境时的艰难选择。裁员不仅影响了员工的生活，也可能对Meta的创新能力和市场竞争力产生深远影响，尤其是在AI领域的竞争愈发激烈的背景下。",
+          "analysis_en": "Meta is beginning layoffs this week, with around 8,000 jobs expected to be cut as employees prepare for a new era dominated by artificial intelligence. This decision highlights the tough choices the company faces in a rapidly evolving tech landscape. The layoffs will not only affect the lives of the employees but could also have significant implications for Meta's innovation capacity and market competitiveness, especially given the intensifying competition in the AI sector."
         },
         {
           "rank": 7,
-          "title": "Bonds Used to Be the Income Answer for Retirees. Then Came the Covered-Call ETF That Pays Over 7%.",
-          "link": "https://finance.yahoo.com/markets/options/articles/bonds-used-income-answer-retirees-161325802.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-05-18 16:13 UTC",
-          "analysis_zh": "退休人员曾经依赖债券作为收入来源，但现在覆盖式认购ETF的出现改变了这一局面。这种ETF的收益率超过7%，为投资者提供了更高的回报。此变化对退休人员的财务规划至关重要，因为它可能使他们在退休后拥有更多的收入选择，减少对传统债券的依赖。随着市场环境的变化，这种新型投资工具可能会吸引更多的投资者，进一步影响金融市场的动态。",
-          "analysis_en": "Retirees used to rely on bonds as their primary source of income, but the introduction of covered-call ETFs has changed that landscape. These ETFs offer yields exceeding 7%, providing investors with higher returns. This shift is significant for retirees' financial planning, as it may give them more income options in retirement and reduce their dependence on traditional bonds. As market conditions evolve, this new investment tool could attract more investors and further influence the dynamics of the financial markets."
+          "title": "Warren Buffett teased to CNBC a ‘tiny purchase’ in March. Berkshire filing may have revealed it",
+          "link": "https://www.cnbc.com/2026/05/18/warren-buffett-teased-to-cnbc-a-tiny-purchase-in-march-berkshire-filing-may-have-revealed-it.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-05-18 16:32 UTC",
+          "analysis_zh": "沃伦·巴菲特在接受CNBC采访时提到，伯克希尔哈撒韦在三月份进行了“一笔小额购买”。这一消息引发了市场的关注，因为巴菲特的投资决策往往被视为市场风向标。这次小额投资可能表明，尽管市场波动，伯克希尔仍在寻找投资机会，可能会影响投资者对市场的信心。",
+          "analysis_en": "Warren Buffett mentioned in an interview with CNBC that Berkshire Hathaway made \"one tiny purchase\" in March. This news has captured market attention, as Buffett's investment decisions are often seen as indicators of market trends. This small investment may suggest that despite market volatility, Berkshire is still seeking investment opportunities, which could influence investor confidence in the market."
         },
         {
           "rank": 8,
-          "title": "Construction spending in US increased in March 2026",
-          "link": "https://finance.yahoo.com/economy/articles/construction-spending-us-increased-march-161314729.html",
+          "title": "Nvidia Investors Hold Their Breath Ahead Of Q1 Report. Here's What To Expect.",
+          "link": "https://www.investors.com/news/technology/nvidia-stock-investors-hold-their-breath-q1-report/?src=A00220&yptr=yahoo",
           "source": "Yahoo Finance",
-          "published_utc": "2026-05-18 16:13 UTC",
-          "analysis_zh": "2026年3月，美国的建筑支出出现了增长。这一增长表明，建筑行业正在恢复活力，可能会对经济复苏产生积极影响。建筑支出的增加不仅能够创造更多的就业机会，还可能刺激相关行业的发展，如建筑材料和设备制造。随着基础设施投资的加大，预计未来几个月内，整体经济增长将得到进一步推动。",
-          "analysis_en": "In March 2026, construction spending in the United States saw an increase. This growth indicates a revitalization in the construction sector, which could have a positive impact on the economic recovery. An increase in construction spending not only creates more job opportunities but may also stimulate growth in related industries, such as building materials and equipment manufacturing. With increased investment in infrastructure, overall economic growth is expected to be further supported in the coming months."
+          "published_utc": "2026-05-18 16:32 UTC",
+          "analysis_zh": "英伟达的投资者们在即将发布的第一季度财报前感到紧张。此次财报将揭示公司在人工智能和图形处理领域的表现，这对投资者来说至关重要。市场普遍关注英伟达的营收和利润增长情况，因为这将影响公司的股价和未来的投资决策。如果财报表现强劲，可能会进一步推动股价上涨，反之则可能引发市场波动。",
+          "analysis_en": "Nvidia investors are feeling anxious ahead of the upcoming Q1 earnings report. This report will reveal the company's performance in the fields of artificial intelligence and graphics processing, which is crucial for investors. The market is particularly focused on Nvidia's revenue and profit growth, as this will impact the company's stock price and future investment decisions. A strong earnings report could further boost the stock price, while a disappointing one might lead to market volatility."
         },
         {
           "rank": 9,
-          "title": "Is Baidu Stock Finally Changing Before Our Eyes?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/baidu-stock-finally-changing-eyes-161300048.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-05-18 16:13 UTC",
-          "analysis_zh": "百度的股票近期出现了显著变化，市场对其未来的表现充满期待。这一变化可能与公司在人工智能和云计算领域的持续投资有关。百度的股价上涨不仅反映了投资者对其业务转型的信心，也可能影响整个科技行业的投资趋势。若百度能够成功实现其战略目标，其他科技公司可能会受到启发，进一步推动行业创新。",
-          "analysis_en": "Baidu's stock has recently shown significant changes, and the market is optimistic about its future performance. This shift may be linked to the company's ongoing investments in artificial intelligence and cloud computing. The rise in Baidu's stock price not only reflects investor confidence in its business transformation but could also influence investment trends across the tech industry. If Baidu successfully achieves its strategic goals, it may inspire other tech companies to innovate further."
+          "title": "I inherited a house. My CPA says I should sell within a year to avoid capital gains. Is he right?",
+          "link": "https://www.marketwatch.com/story/i-inherited-a-house-my-cpa-says-i-should-sell-within-a-year-to-avoid-capital-gains-is-he-right-d0909486?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-05-18 16:32 UTC",
+          "analysis_zh": "最近有一位继承了房产的人咨询了他的注册会计师（CPA），关于在一年内出售房屋以避免资本利得税的问题。注册会计师建议他尽快出售，以减少潜在的税务负担。这一建议的重要性在于，资本利得税可能会显著影响继承财产的净收益，尤其是在房地产市场波动的情况下。如果他选择将房屋以评估价值出售给家庭成员，这可能会影响家庭财务安排和未来的遗产规划。",
+          "analysis_en": "Recently, an individual who inherited a house sought advice from their CPA regarding the need to sell the property within a year to avoid capital gains tax. The CPA recommended selling it quickly to minimize potential tax liabilities. This advice is significant because capital gains tax can greatly affect the net proceeds from inherited property, especially in a fluctuating real estate market. If the individual opts to sell the house to a family member at appraised value, it may influence family financial arrangements and future estate planning."
         },
         {
           "rank": 10,
-          "title": "5 money moves that made this 32-year-old dad a millionaire in just 9 years",
-          "link": "https://www.marketwatch.com/story/5-money-moves-that-made-this-32-year-old-dad-a-millionaire-in-just-9-years-3725c0ed?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-05-18 16:13 UTC",
-          "analysis_zh": "布莱克·爱德华兹和他的妻子在短短九年内成为百万富翁，尽管他们面临低起薪、全球疫情、无法承受的住房市场、研究生学习和两个孩子的压力。这一成功故事突显了即使在逆境中，通过明智的投资和财务规划，依然可以实现财富积累。这样的案例不仅激励了许多年轻家庭，也可能影响他们对财务管理和投资决策的看法。",
-          "analysis_en": "Blake Edwards and his wife became millionaires in just nine years, despite facing challenges such as a low starting salary, a global pandemic, an unaffordable housing market, graduate school, and raising two children. This success story highlights that it is possible to build wealth through smart investments and financial planning, even in difficult circumstances. Such examples not only inspire many young families but may also influence their perspectives on financial management and investment decisions."
+          "title": "France’s Publicis to buy US data firm LiveRamp for $2.2 billion",
+          "link": "https://www.investing.com/news/stock-market-news/frances-publicis-to-buy-us-data-firm-liveramp-in-22-billion-4694550",
+          "source": "Stock Market News",
+          "published_utc": "2026-05-18 16:30 UTC",
+          "analysis_zh": "法国公共事务公司Publicis宣布将以22亿美元收购美国数据公司LiveRamp。这一交易标志着Publicis在数字广告和数据分析领域的进一步扩张，显示出公司对数据驱动营销的重视。此举不仅可能增强Publicis的市场竞争力，还可能影响整个广告行业的数据整合和使用方式。",
+          "analysis_en": "France's Publicis has announced its acquisition of the US data firm LiveRamp for $2.2 billion. This deal signifies Publicis's continued expansion in the digital advertising and data analytics sectors, highlighting the company's commitment to data-driven marketing. This move could not only enhance Publicis's competitive edge in the market but also potentially influence the data integration and usage practices across the advertising industry."
         }
       ]
     },
@@ -114,8 +114,8 @@
           "link": "https://www.nytimes.com/2026/05/18/science/anxiety-mental-health-children-increases-study.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-18 15:01 UTC",
-          "analysis_zh": "一项针对近两百万儿童的研究显示，儿童因焦虑而就医的次数在十年内增长了超过250%。这一现象引发了广泛关注，因为儿童心理健康问题的增加可能与社会压力、家庭环境和学业负担等因素密切相关。了解这一趋势的重要性在于，它不仅影响儿童的健康和发展，还可能对家庭和社会造成长期影响。",
-          "analysis_en": "A study involving nearly two million children found that doctor visits for anxiety among children increased by more than 250% over the past decade. This trend raises significant concerns, as the rise in mental health issues among children may be linked to factors such as social pressures, family dynamics, and academic stress. Understanding this trend is crucial, as it not only affects the health and development of children but may also have long-term implications for families and society as a whole."
+          "analysis_zh": "根据一项针对近两百万儿童的研究，儿童因焦虑而就医的次数在十年内增长了超过250%。这一现象引起了广泛关注，因为它反映了儿童心理健康问题的日益严重。随着社会压力和生活方式的变化，儿童的心理健康状况可能会进一步恶化，这对家庭和教育系统都将产生深远影响。",
+          "analysis_en": "A study involving nearly two million children found that doctor visits for anxiety among children have increased by over 250% in the past decade. This trend raises significant concerns as it highlights the growing severity of mental health issues among children. With societal pressures and lifestyle changes, the mental well-being of children may continue to deteriorate, potentially impacting families and educational systems in profound ways."
         },
         {
           "rank": 2,
@@ -123,8 +123,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260517211451.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-18 09:59 UTC",
-          "analysis_zh": "韩国科学家发现，泡菜中的一种益生菌可能有助于清除体内的微塑料颗粒。这项研究表明，这种益生菌能够在模拟人类肠道的条件下紧紧附着在纳米塑料上，从而帮助身体通过排泄将其排出。这一发现具有重要意义，因为微塑料可能会在器官中积累，对健康造成潜在威胁。随着人们对微塑料危害的关注加剧，这项研究可能会推动开发新的食品或补充剂，以减少微塑料对人体的影响。",
-          "analysis_en": "Scientists in South Korea have discovered that a probiotic bacterium found in kimchi may help eliminate microplastic particles from the body. This research indicates that the probiotic can tightly adhere to nanoplastics under conditions that mimic the human intestine, aiding in their removal through waste. This finding is significant because microplastics can accumulate in organs, posing potential health risks. As concerns about the dangers of microplastics grow, this study may lead to the development of new foods or supplements aimed at reducing their impact on human health."
+          "analysis_zh": "韩国科学家发现，泡菜中的一种益生菌可能有助于清除体内的微塑料颗粒。这项研究表明，这种益生菌能够在模拟人肠道的条件下紧紧附着在纳米塑料上，从而帮助身体排出这些有害物质。微塑料是极小的塑料颗粒，可能通过食物和饮水进入人体，长期积累可能对健康造成威胁。这项发现不仅为微塑料的清除提供了新的生物学途径，也可能推动相关食品的开发和健康研究。",
+          "analysis_en": "Scientists in South Korea have discovered that a probiotic bacterium found in kimchi may help remove microplastics from the body. This research indicates that the probiotic can tightly adhere to nanoplastics under conditions mimicking the human intestine, aiding in their elimination. Microplastics, which can enter the body through food and drinking water, pose potential health risks due to their accumulation. This finding not only offers a new biological approach to tackling microplastic removal but may also influence the development of related foods and health research."
         },
         {
           "rank": 3,
@@ -132,8 +132,8 @@
           "link": "https://www.nytimes.com/2026/05/18/business/health-insurance-delays-denials.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-18 09:01 UTC",
-          "analysis_zh": "尽管保险公司曾承诺改善医疗服务的审批流程，但医生和患者仍然抱怨，事先授权的做法依然普遍。这种延迟不仅影响了患者的治疗时机，也可能导致健康状况的恶化。医疗保险的审批过程若继续如此繁琐，将使得患者在获得必要的医疗服务时面临更多障碍，进而影响整体医疗系统的效率。",
-          "analysis_en": "Despite promises from insurance companies to improve the approval process for medical care, doctors and patients continue to complain that prior authorization remains widespread. These delays not only affect the timing of patient treatment but may also lead to deteriorating health conditions. If the approval process for medical insurance remains this cumbersome, patients will face more barriers in accessing necessary medical services, which could ultimately impact the efficiency of the overall healthcare system."
+          "analysis_zh": "尽管保险公司曾承诺改善医疗服务的审批流程，但医生和患者仍然抱怨，事先授权的做法依然普遍。这种延迟不仅影响了患者的治疗进程，还可能导致健康状况的恶化。此问题的持续存在反映了医疗保险体系中的结构性缺陷，可能会引发更广泛的政策讨论和改革。",
+          "analysis_en": "Despite promises from insurers to improve the approval process for medical services, doctors and patients continue to complain about the widespread practice of prior authorization. These delays not only hinder patients' access to timely treatment but may also worsen their health conditions. The ongoing nature of this issue highlights structural flaws within the healthcare insurance system, which could lead to broader discussions and reforms in policy."
         },
         {
           "rank": 4,
@@ -141,8 +141,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260517211429.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-05-18 08:15 UTC",
-          "analysis_zh": "一项新的研究表明，人类的右手偏好可能源于两个主要的进化转变：直立行走和大脑的显著增大。研究人员发现，随着人类祖先的演化，右手的使用逐渐增强，最终形成了人类最显著的特征之一。这一发现不仅有助于我们理解人类的进化历程，也可能影响我们对手性和大脑功能之间关系的认识。",
-          "analysis_en": "A new study suggests that human right-handedness may stem from two major evolutionary shifts: upright walking and significant brain enlargement. Researchers found that as human ancestors evolved, their preference for using the right hand intensified, ultimately becoming one of humanity's most distinctive traits. This discovery not only enhances our understanding of human evolutionary history but may also influence how we perceive the relationship between handedness and brain function."
+          "analysis_zh": "一项新的研究表明，人类的右手偏好与两个重要的进化转变密切相关：直立行走和大脑的显著增大。研究人员发现，随着人类祖先的进化，右手的使用倾向逐渐增强，最终形成了人类最显著的特征之一。这项研究的重要性在于，它不仅揭示了人类独特的右手偏好背后的原因，还可能影响我们对人类进化过程的理解，特别是在手部使用和大脑发展的关系上。",
+          "analysis_en": "A new study suggests that the preference for right-handedness in humans is closely linked to two significant evolutionary shifts: upright walking and the substantial increase in brain size. Researchers found that as human ancestors evolved, their tendency to use their right hand intensified, ultimately becoming one of humanity's most distinctive traits. This study is important because it not only uncovers the reasons behind the unique right-handedness of humans but may also influence our understanding of the evolutionary process, particularly regarding the relationship between hand usage and brain development."
         },
         {
           "rank": 5,
@@ -150,8 +150,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260515233343.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-18 00:53 UTC",
-          "analysis_zh": "科学家们揭示了咖啡与血压之间的意外真相。研究表明，咖啡因确实会暂时提高血压，尤其是在不常喝咖啡的人群中，但这并不意味着咖啡会对心脏造成长期伤害。大规模研究显示，适量饮用咖啡并不会显著增加高血压的风险，反而咖啡中还含有一些天然成分，可能有助于改善血管功能。这一发现对人们的饮食习惯和心血管健康有重要影响，提醒大家适量饮用咖啡并不需要过于担心。",
-          "analysis_en": "Scientists have revealed a surprising truth about coffee and blood pressure. Research indicates that while caffeine can temporarily raise blood pressure, particularly in those who do not regularly consume coffee, it does not necessarily harm heart health in the long term. Large studies have shown that moderate coffee consumption does not significantly increase the risk of developing hypertension; in fact, coffee contains natural compounds that may help improve vascular function. This finding is important for dietary habits and cardiovascular health, suggesting that moderate coffee drinking should not be a major concern for most people."
+          "analysis_zh": "科学家们揭示了咖啡与血压之间的惊人真相。研究表明，虽然咖啡因可能会暂时提高血压，但这并不意味着它会对心脏造成长期损害。尤其是对于那些不常喝咖啡的人，咖啡因会刺激心脏并收缩血管。然而，大规模研究显示，适量饮用咖啡并不会显著增加高血压的风险。这一发现对公众健康具有重要意义，因为它可能改变人们对咖啡与心脏健康关系的看法。",
+          "analysis_en": "Scientists have revealed surprising truths about coffee and blood pressure. While caffeine can temporarily raise blood pressure, it does not necessarily mean that it harms the heart in the long term. This effect is particularly noticeable in individuals who do not regularly consume coffee, as caffeine stimulates the heart and constricts blood vessels. However, large studies indicate that moderate coffee consumption does not significantly increase the risk of developing hypertension. This finding is important for public health, as it may change perceptions regarding the relationship between coffee and heart health."
         }
       ]
     },
@@ -165,8 +165,8 @@
           "link": "https://aeon.co/videos/the-celestial-affair-that-made-us-mortal-an-animated-indian-myth",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-05-18 10:01 UTC",
-          "analysis_zh": "根据一则古老的印度民间故事，死亡是通过一段不幸的爱情故事首次降临地球的。这一故事探讨了人类为何必须面对死亡这一终极命运。理解死亡的意义不仅关乎个人的生命观，也影响着社会对生与死的态度。这种文化背景可能会引发人们对生命价值的重新思考，并促使人们更加珍惜当下的生活。",
-          "analysis_en": "According to an ancient Indian folktale, death first came to Earth through an ill-fated love affair. This story explores why humans must confront the ultimate fate of death. Understanding the significance of death is not only relevant to individual perspectives on life but also affects societal attitudes toward life and death. This cultural context may provoke a reevaluation of the value of life, encouraging people to cherish their present experiences more deeply."
+          "analysis_zh": "根据一则古老的印度民间故事，死亡是通过一段不幸的爱情故事首次降临地球的。这一故事探讨了人类为何必须面对死亡的问题，揭示了生命的脆弱与无常。这个主题不仅引发了人们对生死的深刻思考，还可能影响我们对生活意义的理解和对待生命的态度。",
+          "analysis_en": "According to an ancient Indian folktale, death first came to Earth through an ill-fated love affair. This story explores the question of why humans must confront death, revealing the fragility and transience of life. The theme prompts deep reflection on life and death, potentially influencing our understanding of life's meaning and our attitudes toward existence."
         },
         {
           "rank": 2,
@@ -174,8 +174,8 @@
           "link": "https://aeon.co/essays/for-sergiu-klainerman-maths-is-a-fact-to-be-divined",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-05-18 10:00 UTC",
-          "analysis_zh": "塞尔吉乌·克莱内曼花费多年时间证明黑洞不会分裂，并提出数学并非人类的发明。这一发现不仅深化了我们对宇宙的理解，也挑战了我们对数学本质的传统观念。数学作为一种普遍存在的语言，可能在宇宙的其他地方也同样适用，这对科学研究和哲学思考都具有重要意义。",
-          "analysis_en": "Sergiu Klainerman spent years proving that black holes do not fly apart and arguing that mathematics is not a human invention. This finding deepens our understanding of the universe and challenges traditional views on the nature of mathematics. The idea that mathematics is a universal language applicable in other parts of the cosmos has significant implications for scientific research and philosophical inquiry."
+          "analysis_zh": "塞尔吉乌·克莱内曼花费多年时间证明黑洞不会分裂，并提出数学并非人类的发明。这一发现对物理学和数学的理解具有重要意义，因为它挑战了我们对数学本质的传统看法。如果数学被视为宇宙的基本组成部分，那么它可能会影响我们对科学和自然法则的理解，甚至可能改变我们在其他领域的思维方式。",
+          "analysis_en": "Sergiu Klainerman spent years proving that black holes do not fly apart and argued that mathematics is not a human invention. This finding is significant for our understanding of physics and mathematics, as it challenges traditional views on the nature of mathematics. If mathematics is seen as a fundamental aspect of the universe, it could affect our understanding of science and natural laws, potentially altering our thinking in other fields as well."
         },
         {
           "rank": 3,
@@ -183,8 +183,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260517211429.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-05-18 08:15 UTC",
-          "analysis_zh": "一项新的研究表明，人类的右撇子倾向与两个主要的进化转变密切相关：直立行走和大脑的显著增大。研究人员发现，随着人类祖先的进化，他们对右手的偏好逐渐增强，最终形成了人类最显著的特征之一。这项研究的重要性在于，它为理解人类独特的手性提供了新的视角，可能对我们认识人类行为和大脑功能的演变有深远影响。",
-          "analysis_en": "A new study suggests that the human preference for right-handedness is closely linked to two major evolutionary shifts: upright walking and significant brain enlargement. Researchers found that as human ancestors evolved, their preference for using the right hand intensified, ultimately becoming one of humanity's most distinctive traits. This study is significant as it offers new insights into the understanding of human handedness, which may have profound implications for our comprehension of human behavior and the evolution of brain functions."
+          "analysis_zh": "一项新的研究表明，人类之所以普遍是右撇子，主要是由于两个重大的进化转变：直立行走和大脑的显著增大。研究人员发现，随着人类祖先的进化，他们对右手的偏好逐渐增强，最终形成了人类最显著的特征之一。这一发现不仅解答了人类为何如此偏好右手的问题，也可能对理解人类的认知发展和社会行为产生深远影响。",
+          "analysis_en": "A new study suggests that humans became predominantly right-handed due to two significant evolutionary changes: walking upright and the substantial increase in brain size. Researchers found that as human ancestors evolved, their preference for the right hand intensified, ultimately becoming one of humanity's most distinctive traits. This finding not only answers the question of why humans favor their right hand but may also have profound implications for understanding human cognitive development and social behavior."
         }
       ]
     },
@@ -194,93 +194,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "Did You Mean to Share That Selfie? What to Know About Instagram Instants.",
+          "link": "https://www.nytimes.com/2026/05/16/technology/instagram-instants-feature.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-05-18 16:41 UTC",
+          "analysis_zh": "Instagram 最近推出了一项名为“Instants”的新功能，允许用户立即将照片分享给互相关注的朋友或亲密好友。这项功能的推出引发了人们对隐私和社交媒体使用方式的讨论，因为不小心分享的照片可能会导致尴尬的局面。此举可能会影响用户在平台上的互动方式，促使他们更加谨慎地选择分享内容。",
+          "analysis_en": "Instagram has recently launched a new feature called \"Instants,\" which allows users to instantly share photos with their mutual followers or close friends. This rollout has sparked discussions about privacy and the way social media is used, as accidentally shared photos could lead to embarrassing situations. This move may affect how users interact on the platform, encouraging them to be more careful about what they choose to share."
+        },
+        {
+          "rank": 2,
           "title": "Google is rolling out its redesigned Workspace app icons",
           "link": "https://www.theverge.com/tech/932417/google-gmail-docs-cal-sheets-workspace-icon-redesign",
           "source": "The Verge",
           "published_utc": "2026-05-18 16:29 UTC",
-          "analysis_zh": "谷歌正在推出重新设计的Workspace应用图标，这一变化在用户中引起了广泛关注。新的图标采用了渐变色设计，从浅色逐渐过渡到深色，与之前的平面设计形成鲜明对比。这一更新不仅使应用图标更具视觉吸引力，也可能影响用户的使用体验和品牌识别。随着谷歌不断优化其产品界面，用户可能会对这些变化产生不同的反应，进而影响他们对谷歌生态系统的整体满意度。",
-          "analysis_en": "Google is rolling out redesigned Workspace app icons, which has garnered significant attention among users. The new icons feature a gradient design that transitions from lighter to darker shades, contrasting sharply with the previous flat design. This update not only enhances the visual appeal of the app icons but may also affect user experience and brand recognition. As Google continues to refine its product interfaces, user reactions to these changes could vary, potentially influencing their overall satisfaction with the Google ecosystem."
+          "analysis_zh": "谷歌正在推出重新设计的Workspace应用图标，这一变化在用户中引起了广泛关注。新图标采用了渐变色设计，从浅色到深色过渡，这与之前的平面风格截然不同。这一更新不仅提升了视觉效果，还有助于用户更好地区分不同的应用程序。随着这一变化的实施，谷歌希望进一步增强用户体验，并可能影响用户对其产品的整体满意度。",
+          "analysis_en": "Google is rolling out redesigned Workspace app icons, which has garnered significant attention from users. The new icons feature a gradient design that transitions from lighter to darker shades, marking a departure from the previous flat style. This update not only enhances the visual appeal but also helps users better distinguish between different applications. As this change is implemented, Google aims to further improve user experience, which may impact overall user satisfaction with its products."
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Sony is raising short-subscription prices for PlayStation Plus",
           "link": "https://www.theverge.com/games/932430/sony-playstation-plus-subscription-price-raise",
           "source": "The Verge",
           "published_utc": "2026-05-18 16:24 UTC",
-          "analysis_zh": "索尼宣布将在“特定地区”提高PlayStation Plus的短期订阅价格，原因是“持续的市场状况”。从5月20日起，一个月的订阅价格将上涨至10.99美元，三个月的订阅价格将为27.99美元。这一价格调整对玩家来说意义重大，可能会导致一些用户重新考虑他们的订阅选择，尤其是在经济压力加大的情况下。此外，这也可能影响索尼在竞争激烈的游戏市场中的用户留存率。",
-          "analysis_en": "Sony has announced a price increase for short-term PlayStation Plus subscriptions in \"select regions,\" citing \"ongoing market conditions.\" Starting May 20th, the price for a one-month subscription will rise to $10.99, while a three-month subscription will cost $27.99. This price change is significant for gamers, as it may lead some users to reconsider their subscription choices, especially amid increasing economic pressures. Additionally, it could affect Sony's user retention in a highly competitive gaming market."
+          "analysis_zh": "索尼宣布将在“特定地区”提高PlayStation Plus的短期订阅价格，原因是“持续的市场条件”。从5月20日起，一个月的订阅价格将上涨至10.99美元，三个月的订阅价格将上涨至27.99美元。这一调整对玩家来说意味着额外的经济负担，尤其是在当前经济形势下，可能会影响他们的订阅决策。此外，虽然现有用户的价格暂时不变，但如果他们更改订阅等级或让订阅失效，未来也可能面临涨价。",
+          "analysis_en": "Sony has announced a price increase for short-term PlayStation Plus subscriptions in \"select regions,\" citing \"ongoing market conditions.\" Starting May 20th, the price for a one-month subscription will rise to $10.99, while a three-month subscription will cost $27.99. This change represents an additional financial burden for gamers, particularly in the current economic climate, and may influence their subscription choices. Furthermore, while existing subscribers will not see immediate price changes, they could face higher costs if they alter their subscription tier or allow their subscription to lapse."
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
           "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
           "source": "The Verge",
           "published_utc": "2026-05-18 16:24 UTC",
-          "analysis_zh": "埃隆·马斯克与山姆·阿尔特曼之间的高风险审判正在进行中，这场诉讼可能会改变OpenAI及其知名产品ChatGPT的未来。马斯克在2024年提起诉讼，指控OpenAI放弃了其最初旨在造福人类的使命，转而追求利润最大化。这一案件的重要性在于，它不仅涉及到人工智能的发展方向，还可能影响到未来科技公司的伦理和责任。审判的结果可能会对OpenAI的运营模式和行业标准产生深远影响。",
-          "analysis_en": "Elon Musk and Sam Altman are currently embroiled in a high-stakes trial that could significantly impact the future of OpenAI and its flagship product, ChatGPT. Musk filed a lawsuit in 2024, accusing OpenAI of abandoning its original mission of benefiting humanity in favor of profit maximization. The importance of this case lies in its implications for the direction of artificial intelligence and the ethical responsibilities of tech companies. The outcome of the trial could have far-reaching effects on OpenAI's operational model and industry standards."
+          "analysis_zh": "埃隆·马斯克与山姆·阿尔特曼之间的法庭对决正在进行，这场高风险的审判可能会改变OpenAI及其知名产品ChatGPT的未来。马斯克在2024年提起诉讼，指控OpenAI放弃了其最初旨在造福人类的使命，而转向追求利润。这一案件引发了广泛关注，因为它不仅涉及科技伦理，还可能影响AI行业的未来发展方向。",
+          "analysis_en": "Elon Musk and Sam Altman are currently engaged in a courtroom battle that could significantly impact the future of OpenAI and its flagship product, ChatGPT. Musk filed a lawsuit in 2024, accusing OpenAI of abandoning its original mission of benefiting humanity in favor of profit maximization. This case has garnered considerable attention, as it raises important ethical questions in technology and may influence the future trajectory of the AI industry."
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
           "link": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
           "source": "MIT Technology Review",
           "published_utc": "2026-05-18 16:01 UTC",
-          "analysis_zh": "安杜里尔公司与Meta合作开发的增强现实军用头戴设备近日披露了新细节。这款设备将允许用户通过眼动追踪和语音命令来发起无人机攻击。安杜里尔的副总裁奎·巴尼特表示，这项技术的开发旨在提升军事行动的效率和反应速度。这一进展不仅可能改变战场上的作战方式，也引发了对未来军事技术伦理的讨论。",
-          "analysis_en": "Anduril has recently revealed new details about its augmented reality military headset developed in collaboration with Meta. This device will enable users to initiate drone strikes using eye-tracking and voice commands. Quay Barnett, a vice president at Anduril, stated that the technology aims to enhance the efficiency and responsiveness of military operations. This development could not only transform combat strategies on the battlefield but also raise ethical discussions regarding the future of military technology."
+          "analysis_zh": "国防科技公司Anduril与Meta合作，正在研发一种增强现实头戴设备，旨在为军事用途提供支持。该设备的功能包括通过眼动追踪和语音指令下达无人机攻击命令。Anduril的副总裁Quay Barnett表示，这项技术的开发将改变战场上的决策方式，可能会提高作战效率。然而，这种技术的应用也引发了关于伦理和安全的广泛讨论，可能会影响未来军事行动的规则和国际关系。",
+          "analysis_en": "The defense technology company Anduril is collaborating with Meta to develop an augmented reality headset designed for military applications. This device will enable users to order drone strikes through eye-tracking and voice commands. Quay Barnett, a vice president at Anduril, emphasizes that this technology could transform decision-making on the battlefield and enhance operational efficiency. However, its implementation raises significant ethical and security concerns, potentially affecting the rules of engagement and international relations in the future."
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Amazon Alexa Plus can now create AI-generated podcasts",
           "link": "https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts",
           "source": "The Verge",
           "published_utc": "2026-05-18 15:55 UTC",
-          "analysis_zh": "亚马逊的升级版AI助手Alexa Plus现在可以生成关于“几乎任何主题”的播客。这一更新使得用户可以指定主题，Alexa Plus会提供AI主持人计划讨论的概述，用户还可以在生成播客之前调整内容的长度。这一功能的推出不仅丰富了用户的娱乐选择，也可能改变播客制作的方式，降低了内容创作的门槛。随着AI技术的不断发展，类似的功能可能会在其他平台上普及，进一步推动播客行业的创新。",
-          "analysis_en": "Amazon's upgraded AI assistant, Alexa Plus, can now generate podcasts on \"virtually any topic.\" This update allows users to specify a topic, and Alexa Plus will provide an overview of what its AI hosts plan to discuss, enabling users to adjust the content's length before the podcast is generated. The introduction of this feature not only enhances entertainment options for users but may also change the way podcasts are produced, lowering the barriers to content creation. As AI technology continues to evolve, similar functionalities could become widespread on other platforms, further driving innovation in the podcasting industry."
+          "analysis_zh": "亚马逊的升级版人工智能助手Alexa Plus现在可以生成关于“几乎任何主题”的播客。这一新功能的推出使用户能够提供主题，Alexa Plus将生成相关内容的概述，并允许用户在生成播客之前调整对话的长度和方向。这项技术的推出不仅丰富了用户的娱乐选择，也可能改变人们获取信息和学习新知识的方式，尤其是在教育和媒体领域。",
+          "analysis_en": "Amazon's upgraded AI assistant, Alexa Plus, can now generate podcasts on \"virtually any topic.\" With this new feature, users can provide a topic, and Alexa Plus will create an overview of the content, allowing users to adjust the conversation's length and direction before the podcast is generated. This technology not only enhances entertainment options for users but may also transform how people access information and learn new things, particularly in the education and media sectors."
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Peter G. Neumann, Who Warned of Computer Security Risks, Dies at 93",
           "link": "https://www.nytimes.com/2026/05/17/obituaries/peter-g-neumann-dead.html",
           "source": "NYT > Technology",
           "published_utc": "2026-05-18 15:50 UTC",
-          "analysis_zh": "彼得·G·纽曼（Peter G. Neumann）于93岁时去世，他长期以来对计算机安全风险发出了警告，并批评了行业对计算机安全和个人数字隐私的松懈态度。他不仅指出了这些问题，还提出了解决方案。这一事件引发了人们对计算机安全和隐私保护的重新关注，可能会促使行业采取更严格的安全措施，以保护用户的信息安全。",
-          "analysis_en": "Peter G. Neumann passed away at the age of 93, having spent decades warning about the risks associated with computer security and criticizing the industry's lax attitudes towards both security and individual digital privacy. He not only highlighted these issues but also developed solutions to address them. His death has reignited discussions about the importance of computer security and privacy protection, potentially prompting the industry to adopt stricter measures to safeguard user information."
+          "analysis_zh": "彼得·G·纽曼，著名的计算机安全专家，近日去世，享年93岁。他在数十年间一直批评行业对计算机安全和个人数字隐私的松懈态度，并提出了相应的解决方案。他的去世不仅是科技界的损失，也让人们重新审视数字安全的重要性，可能会促使行业更加重视保护用户隐私和数据安全。",
+          "analysis_en": "Peter G. Neumann, a renowned computer security expert, has passed away at the age of 93. For decades, he criticized the industry's lax attitudes towards computer security and individual digital privacy, while also developing solutions to address these issues. His death represents a significant loss for the tech community and may prompt a renewed focus on the importance of digital security, potentially leading the industry to prioritize user privacy and data protection more seriously."
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Philips Hue smart lights and a whole lot more are over 20 percent off",
           "link": "https://www.theverge.com/gadgets/932276/philips-hue-amazon-scribe-super-mario-rpg-deal-sale",
           "source": "The Verge",
           "published_utc": "2026-05-18 15:03 UTC",
-          "analysis_zh": "Woot正在进行为期一天的科技产品促销活动，包括新款和开箱的Philips Hue智能灯具。通过在结账时输入代码SAVETWENTY，消费者可以享受更低的折扣，这一活动至中央时间午夜结束。此次促销不仅让消费者以更实惠的价格体验智能照明，还为那些希望深入了解智能家居的人提供了良好的入门机会。特别是Philips Hue Bridge Gen 2的价格降至25.60美元，成为操作多个Hue产品的必备设备。",
-          "analysis_en": "Woot is hosting a one-day sale on various tech products, including new and open-box Philips Hue smart lighting. By entering the code SAVETWENTY at checkout, consumers can enjoy even lower prices until midnight Central Time. This promotion not only allows customers to experience smart lighting at a more affordable price but also serves as a great introduction for those looking to delve deeper into smart home technology. Notably, the Philips Hue Bridge Gen 2 is priced at $25.60, making it an essential device for operating multiple Hue products."
+          "analysis_zh": "Woot今天正在进行为期一天的促销活动，推出多款科技产品的折扣，其中包括新的和开箱的Philips Hue智能灯具。消费者在结账时输入代码SAVETWENTY，可以享受更低的价格，这一活动一直持续到中央时间午夜。这些产品为用户提供了一个很好的机会，帮助他们入门智能照明的设置，或者进一步探索智能家居的可能性。",
+          "analysis_en": "Woot is holding a one-day sale on a variety of tech products, including new and open-box Philips Hue smart lighting. Customers can enter the code SAVETWENTY at checkout to receive even lower prices, valid until midnight Central Time. This sale offers a great opportunity for users to get started with smart lighting setup or to explore deeper into smart home possibilities."
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "The Verge’s 2026 college graduation gift guide",
           "link": "https://www.theverge.com/gadgets/927121/best-college-graduation-gift-ideas",
           "source": "The Verge",
           "published_utc": "2026-05-18 15:00 UTC",
-          "analysis_zh": "大学毕业是一件令人兴奋但也略显恐慌的事情。毕业生在庆祝这一重大成就的同时，往往会立即投入到找工作的行列中，甚至还可能面临搬入新公寓的挑战，这意味着更多的责任。因此，选择合适的毕业礼物显得尤为重要，这不仅是庆祝的象征，还能帮助他们更顺利地过渡到成年生活。本文汇总了多款实用的毕业礼物，包括衣物蒸汽机、厨房必需品和机器人吸尘器等，旨在减轻毕业生的压力，同时也提供了一些娱乐选择，如便携式音响和游戏显示器。",
-          "analysis_en": "Graduating from college is an exciting yet somewhat daunting experience. As graduates celebrate this significant achievement, many immediately dive into job hunting, and some may also be facing the challenges of moving into their first apartment, which brings additional responsibilities. This is why selecting the right graduation gift is crucial; it serves not only as a celebration but also helps ease their transition into adulthood. The article compiles a variety of practical graduation gifts, such as clothing steamers, kitchen essentials, and robot vacuums, aimed at reducing the stress of new responsibilities, while also offering fun options like portable speakers and gaming monitors."
+          "analysis_zh": "大学毕业是一个令人兴奋但又略显紧张的时刻。毕业生们在庆祝这一重大成就的同时，往往需要迅速投入求职，甚至开始寻找自己的第一套公寓，这意味着他们面临着全新的责任。因此，选择合适的毕业礼物显得尤为重要，这不仅是庆祝的象征，还能帮助他们更顺利地过渡到成年生活。《The Verge》整理了一系列实用的毕业礼物推荐，既包括帮助毕业生应对新生活的实用工具，也有助于他们在闲暇时享受乐趣。",
+          "analysis_en": "Graduating from college is an exciting yet somewhat daunting experience. As graduates celebrate this significant achievement, they often need to jump straight into job hunting and may also be looking for their first apartment, which brings new responsibilities. This is why choosing the right graduation gift is crucial; it serves not only as a celebration but also helps ease their transition into adulthood. The Verge has compiled a list of practical graduation gift ideas that include items to help graduates navigate their new lives, as well as fun gadgets for their leisure time."
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Linus Torvalds says Linux security list is becoming ‘unmanageable’ due to AI bug reports",
           "link": "https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs",
           "source": "The Verge",
           "published_utc": "2026-05-18 14:21 UTC",
-          "analysis_zh": "Linux创始人林纳斯·托瓦兹在最近的内核状态报告中表示，AI生成的安全漏洞报告数量激增，导致Linux安全列表几乎变得无法管理。他指出，由于不同的人使用相同的工具发现相同的问题，重复报告的情况非常严重。这一现象不仅浪费了开发者的时间，也可能影响到Linux系统的安全性，因为重要的漏洞可能被淹没在大量无效的报告中。",
-          "analysis_en": "Linux founder Linus Torvalds recently stated in his kernel status report that the surge in AI-generated security bug reports has made the Linux security list nearly unmanageable. He highlighted that the duplication of reports is significant, as different individuals are finding the same issues using the same tools. This situation not only wastes developers' time but could also impact the security of Linux systems, as critical vulnerabilities may get lost among the overwhelming number of irrelevant reports."
-        },
-        {
-          "rank": 10,
-          "title": "Exclusive: Jonah Peretti explains why he sold BuzzFeed",
-          "link": "https://www.theverge.com/podcast/932154/peretti-allen-buzzfeed-ai-slop-social-media",
-          "source": "The Verge",
-          "published_utc": "2026-05-18 14:15 UTC",
-          "analysis_zh": "乔纳·佩雷蒂（Jonah Peretti）最近决定将BuzzFeed的52%股份以1.2亿美元的价格出售给拜伦·艾伦（Byron Allen），这标志着BuzzFeed的重大转折。佩雷蒂将辞去首席执行官职务，转而担任BuzzFeed AI的总裁，而艾伦将接任首席执行官。这一交易不仅为BuzzFeed带来了新的资金支持，也为其未来的发展方向提供了新的可能性，尤其是在人工智能领域的转型。随着数字媒体环境的变化，这一变动可能会影响BuzzFeed在竞争激烈的市场中的生存和发展。",
-          "analysis_en": "Jonah Peretti recently decided to sell 52% of BuzzFeed for $120 million to Byron Allen, marking a significant turning point for the company. Peretti will step down as CEO and take on the role of president of BuzzFeed AI, while Allen will assume the CEO position. This deal not only provides BuzzFeed with new financial backing but also opens up new possibilities for its future direction, particularly in the realm of artificial intelligence. Given the changing landscape of digital media, this shift could significantly impact BuzzFeed's survival and growth in a highly competitive market."
+          "analysis_zh": "Linux创始人林纳斯·托瓦兹在最近的内核状态更新中表示，AI报告的激增使得Linux安全列表几乎变得无法管理。他指出，由于不同的人使用相同的工具发现相同的问题，导致了大量重复的报告。这一现象不仅浪费了开发者的时间，也可能影响Linux的安全性，因为重要的漏洞可能被淹没在无关的报告中。托瓦兹强调，使用AI工具发现的漏洞并不意味着这些问题是秘密的，处理这些重复报告只会加剧混乱。",
+          "analysis_en": "Linux founder Linus Torvalds recently stated in his kernel update that the overwhelming number of AI-generated bug reports has rendered the Linux security list nearly unmanageable. He pointed out that the duplication occurs because different individuals are using the same tools to identify the same issues. This situation not only wastes developers' time but may also impact the overall security of Linux, as critical vulnerabilities could be overlooked amidst irrelevant reports. Torvalds emphasized that bugs discovered using AI tools are not secret, and managing these duplicate reports only exacerbates the confusion."
         }
       ]
     },
@@ -290,93 +290,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "Pace Gallery Takes Representation of Brâncuși Estate Ahead of $100 M. Sculpture Coming to Auction",
+          "link": "https://www.artnews.com/art-news/news/pace-gallery-constantin-brancusi-estate-representation-1234785860/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-05-18 16:50 UTC",
+          "analysis_zh": "佩斯画廊近期宣布获得布朗库西遗产的代理权，预计将有一件价值1亿美元的雕塑即将拍卖。这一消息引发了艺术界的关注，因为布朗库西的作品在他去世后仍然在制作后期铸造，这引发了一些批评声音。此举不仅可能影响布朗库西作品的市场价值，还可能引发关于艺术家遗产管理的更广泛讨论，尤其是在如何平衡艺术创作与商业利益之间的关系。",
+          "analysis_en": "Pace Gallery has recently announced that it will represent the estate of Constantin Brâncuși, with a sculpture expected to be auctioned for $100 million. This news has garnered attention in the art world, particularly because some critics have raised concerns about the posthumous casts of Brâncuși's works. This development could not only impact the market value of Brâncuși's art but also spark broader discussions about the management of an artist's legacy, especially regarding the balance between artistic integrity and commercial interests."
+        },
+        {
+          "rank": 2,
+          "title": "Best Enemies-to-Lovers Romance Books, According to Emily Henry",
+          "link": "https://www.nytimes.com/2026/05/18/books/enemies-to-lovers-romance-emily-henry.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-05-18 16:31 UTC",
+          "analysis_zh": "畅销书作家艾米莉·亨利推荐了一些最佳的“敌人变情人”浪漫小说，包括莎莉·索恩和贾斯敏·吉洛里的作品。这些书籍探讨了敌人和灵魂伴侣之间模糊的界限，吸引了许多读者的关注。这类故事不仅富有趣味性，还能引发人们对爱情和关系的深思，可能会影响读者对浪漫关系的看法和期待。",
+          "analysis_en": "Best-selling author Emily Henry has recommended a selection of the best \"enemies-to-lovers\" romance novels, featuring works by Sally Thorne and Jasmine Guillory. These books delve into the blurry line between adversaries and soulmates, capturing the interest of many readers. Such stories are not only entertaining but also provoke deeper reflections on love and relationships, potentially influencing readers' perceptions and expectations of romantic connections."
+        },
+        {
+          "rank": 3,
           "title": "How the Music of ‘Schmigadoon!’ Echoes Broadway’s Past",
           "link": "https://www.nytimes.com/2026/05/18/theater/schmigadoon-broadway-music.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-18 16:25 UTC",
-          "analysis_zh": "在新的百老汇音乐剧《Schmigadoon!》中，作曲家辛科·保罗探讨了他如何巧妙地融入经典音乐剧的元素。这部作品不仅向过去的音乐剧致敬，还通过音乐和歌词展示了丰富的文化遗产。这一创作的重要性在于它不仅吸引了老一辈观众，也让年轻观众对经典作品产生兴趣，可能会影响未来音乐剧的创作方向。",
-          "analysis_en": "In the new Broadway musical \"Schmigadoon!\", composer Cinco Paul explores how he cleverly incorporates elements from classic musicals. This work not only pays homage to past musicals but also showcases a rich cultural heritage through its music and lyrics. Its significance lies in its ability to attract both older audiences and spark interest in classic works among younger viewers, potentially influencing the direction of future musical theater creations."
+          "analysis_zh": "在新的百老汇音乐剧《Schmigadoon!》中，作曲家辛科·保罗探讨了剧中对经典音乐剧的巧妙致敬。这部作品通过音乐和歌词，向过去的百老汇致敬，展现了音乐剧的历史和魅力。这不仅吸引了老一辈观众的怀旧情感，也为年轻观众提供了了解音乐剧传统的机会。这种跨时代的连接可能会影响观众对音乐剧的接受度和欣赏方式。",
+          "analysis_en": "In the new Broadway musical \"Schmigadoon!\", composer Cinco Paul explores the clever tributes to classic musicals embedded throughout the show. By using music and lyrics that pay homage to Broadway's history, the production captures the charm of musical theater. This not only appeals to older audiences with a sense of nostalgia but also offers younger viewers a chance to appreciate the traditions of musical theater. Such a cross-generational connection may influence how audiences engage with and appreciate musicals in the future."
         },
         {
-          "rank": 2,
+          "rank": 4,
           "title": "Inside the Met Opera: Does Peter Gelb Have ‘the Most Difficult Job on Earth’?",
           "link": "https://www.nytimes.com/2026/05/17/arts/music/metropolitan-opera-general-manager-peter-gelb.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-18 16:16 UTC",
-          "analysis_zh": "大都会歌剧院的总经理彼得·盖尔表示，他不会离开这个岗位，尽管他面临着财务危机以及歌剧在不断变化的艺术环境中的地位问题。这一声明引发了关注，因为歌剧艺术的未来正受到多种因素的挑战，包括观众的减少和资金的紧张。盖尔的坚持不仅关系到歌剧院的运营，也可能影响整个艺术界的生态，尤其是在如何吸引新观众和维持艺术价值方面。",
-          "analysis_en": "Peter Gelb, the general manager of the Metropolitan Opera, stated that he is not planning to leave his position despite facing financial crises and challenges regarding opera's role in a changing arts landscape. This statement has drawn attention, as the future of opera is being challenged by various factors, including a decline in audiences and financial constraints. Gelb's commitment is significant not only for the operation of the opera house but may also impact the broader arts community, particularly in terms of attracting new audiences and maintaining artistic value."
+          "analysis_zh": "大都会歌剧院的总经理彼得·盖尔布表示，他不会离开这个岗位，尽管他正面临财务危机以及歌剧在不断变化的艺术环境中的地位问题。这一声明凸显了当今艺术界面临的挑战，尤其是在资金短缺和观众兴趣变化的背景下。盖尔布的坚持不仅关乎他个人的职业生涯，也可能影响到歌剧的未来发展和艺术界的整体生态。",
+          "analysis_en": "Peter Gelb, the general manager of the Metropolitan Opera, stated that he is not planning to leave his position despite facing financial crises and the changing role of opera in the arts landscape. This statement highlights the challenges currently faced by the arts community, particularly regarding funding shortages and shifts in audience interest. Gelb's commitment is significant not just for his career but also for the future of opera and the overall ecosystem of the arts."
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "Artist Outraged After His Conservationist Mural in Dallas Is Painted Over to Allow for FIFA Promo",
           "link": "https://www.artnews.com/art-news/news/artist-outraged-conservationist-mural-dallas-fifa-promo-1234785846/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-05-18 16:09 UTC",
-          "analysis_zh": "达拉斯的一位艺术家罗伯特·怀兰对他的环保壁画被涂掉表示愤怒，原因是市政府为了FIFA的宣传活动决定覆盖这幅作品。市政府声称在此之前已通知怀兰这一决定。这一事件不仅引发了艺术界的关注，也引发了对公共艺术保护和商业活动之间关系的讨论。艺术家们担心，类似事件可能会影响未来公共艺术项目的创作和保护。",
-          "analysis_en": "Artist Robert Wyland expressed outrage after his conservationist mural in Dallas was painted over to make way for a FIFA promotional event. The city claimed it had informed Wyland about this decision beforehand. This incident has sparked attention in the art community and raised discussions about the relationship between public art preservation and commercial activities. Artists are concerned that similar events could impact the creation and protection of future public art projects."
+          "analysis_zh": "达拉斯的一位艺术家罗伯特·怀兰对他的环保壁画被涂掉表示愤怒，原因是市政府决定为国际足联的宣传活动腾出空间。市政府表示，他们在涂掉壁画之前已通知怀兰这一决定。这一事件引发了公众对艺术保护与商业活动之间关系的广泛讨论，尤其是在大型活动如世界杯期间。艺术家的愤怒不仅反映了个人创作的价值，也引发了对城市文化遗产保护的关注。",
+          "analysis_en": "Artist Robert Wyland expressed outrage after his conservationist mural in Dallas was painted over to make way for a FIFA promotional event. The city claimed it had informed Wyland about the decision to cover the mural. This incident has sparked widespread public discussion about the relationship between art preservation and commercial activities, particularly during major events like the World Cup. The artist's anger highlights not only the value of individual creativity but also raises concerns about the protection of urban cultural heritage."
         },
         {
-          "rank": 4,
+          "rank": 6,
           "title": "Billionaire Collector Fred Eychaner Sued Over Chicago Museum Expansion",
           "link": "https://www.artnews.com/art-news/news/fred-eychaner-sued-wrightwood-659-expansion-1234785843/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-05-18 16:07 UTC",
-          "analysis_zh": "亿万富翁收藏家弗雷德·艾汉纳因芝加哥博物馆扩建项目被一位公寓业主起诉。该业主表示，扩建将影响他公寓的景观，感到非常失望。这一事件引发了公众对城市发展与居民权益之间平衡的关注。此案可能会影响未来城市规划和博物馆扩建项目的审批流程，尤其是在涉及居民利益时。",
-          "analysis_en": "Billionaire collector Fred Eychaner has been sued by a condo owner over the expansion of a Chicago museum. The condo owner expressed his disappointment, stating that the expansion would obstruct his penthouse view. This incident highlights the ongoing tension between urban development and residents' rights. The lawsuit could influence future city planning and the approval processes for museum expansions, particularly when they impact local residents."
+          "analysis_zh": "亿万富翁收藏家弗雷德·艾汉纳（Fred Eychaner）因芝加哥博物馆扩建项目而被一名公寓业主起诉。这位业主表示，扩建将影响他公寓的景观，令他感到非常不安。这起诉讼不仅涉及个人利益，也引发了对城市发展与居民生活质量之间平衡的讨论。此事件可能会影响未来类似项目的审批流程，促使开发商更加关注社区居民的意见和需求。",
+          "analysis_en": "Billionaire collector Fred Eychaner has been sued by a condo owner over the expansion of a Chicago museum. The condo owner expressed distress over how the expansion would obstruct his penthouse view. This lawsuit raises important questions about the balance between urban development and the quality of life for residents. The outcome may influence the approval processes for future projects, encouraging developers to pay more attention to the concerns and needs of local communities."
         },
         {
-          "rank": 5,
+          "rank": 7,
           "title": "Bulgaria Hopes Eurovision Win Will Show Its Strength as a Continental Player",
           "link": "https://www.nytimes.com/2026/05/18/arts/music/bulgaria-eurovision-europe.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-18 16:04 UTC",
-          "analysis_zh": "保加利亚最近经历了一系列重要变化，包括刚刚采用欧元以及因大规模抗议而迫使政府辞职。这些事件标志着保加利亚在东欧地区的政治和经济转型，显示出其作为一个重要大陆参与者的潜力。赢得欧洲歌唱大赛的胜利将进一步提升国家的国际形象，并可能吸引更多的投资和旅游，促进经济复苏。",
-          "analysis_en": "Bulgaria has recently undergone significant changes, including the adoption of the euro and the resignation of its government due to major protests. These events signify a political and economic transformation in Eastern Europe, highlighting Bulgaria's potential as a key player on the continent. Winning the Eurovision Song Contest could enhance the country's international image and potentially attract more investment and tourism, aiding in economic recovery."
+          "analysis_zh": "保加利亚最近经历了一系列重大变化，包括刚刚采用欧元和因大规模抗议而迫使政府辞职。这些变化使得保加利亚希望通过在欧洲歌唱大赛中的胜利来展示其作为一个重要大陆参与者的实力。这不仅有助于提升国家形象，还可能吸引更多的投资和旅游，进一步推动经济发展。",
+          "analysis_en": "Bulgaria has recently undergone significant changes, including the adoption of the euro and the resignation of its government due to major protests. These developments have led the country to hope that a victory in the Eurovision Song Contest will showcase its strength as an important player on the continent. This could not only enhance the nation's image but also attract more investment and tourism, further boosting economic growth."
         },
         {
-          "rank": 6,
+          "rank": 8,
           "title": "Trump Picks Park for Planned Sculpture Garden in D.C.",
           "link": "https://www.artnews.com/art-news/news/trump-sculpture-garden-potomac-park-1234785838/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-05-18 16:03 UTC",
-          "analysis_zh": "特朗普选择了西波托马克公园作为计划中的“美国英雄国家花园”的地点。这一提议旨在通过雕塑展示美国历史上的重要人物，旨在增强国家认同感和文化自豪感。此举不仅反映了特朗普政府对国家历史的重视，也可能引发对雕塑内容和选址的争议，尤其是在当前社会对历史人物的重新审视背景下。",
-          "analysis_en": "Trump has selected West Potomac Park as the site for the proposed \"National Garden of American Heroes.\" This initiative aims to showcase significant figures in American history through sculptures, intending to enhance national identity and cultural pride. This move reflects the Trump administration's emphasis on historical significance, but it may also spark debates regarding the content of the sculptures and the choice of location, especially in the context of today's reassessment of historical figures."
+          "analysis_zh": "特朗普提议在华盛顿特区的西波托马克公园建立“美国英雄国家花园”。这一计划旨在通过雕塑展示美国历史上的英雄人物，具有重要的文化和教育意义。此举不仅可能吸引游客，还可能激发公众对国家历史的思考和讨论。未来，这个雕塑花园可能成为一个重要的文化地标，影响人们对美国价值观的理解和认同。",
+          "analysis_en": "Trump has proposed to establish the \"National Garden of American Heroes\" at West Potomac Park in Washington, D.C. This initiative aims to showcase sculptures of historical American heroes, holding significant cultural and educational value. The project could attract tourists and stimulate public reflection and discussion about the nation's history. In the future, this sculpture garden may become an important cultural landmark, influencing people's understanding and appreciation of American values."
         },
         {
-          "rank": 7,
+          "rank": 9,
           "title": "Bobby Darin Musical Reaches a Rare Broadway Milestone: Profit",
           "link": "https://www.nytimes.com/2026/05/18/theater/just-in-time-broadway-profit.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-18 15:38 UTC",
-          "analysis_zh": "音乐剧《恰到好处》在百老汇取得了罕见的里程碑，成为去年新剧中首个为投资者带来利润的作品。这一成就不仅标志着该剧的成功，也为百老汇的复苏注入了信心。随着观众逐渐回归，成功的音乐剧可能会吸引更多投资，推动整个行业的发展。",
-          "analysis_en": "The musical \"Just in Time\" has reached a rare milestone on Broadway by becoming the first new show from last season to generate profit for its investors. This achievement not only highlights the success of the production but also instills confidence in the recovery of Broadway. As audiences continue to return, successful musicals may attract more investment, fostering growth across the industry."
+          "analysis_zh": "音乐剧《及时行乐》在百老汇取得了罕见的里程碑：盈利。这部音乐剧在过去一年中由乔纳森·格罗夫主演，成为上个季度首部为投资者带来利润的新音乐剧。这一成就不仅表明了该剧的市场吸引力，也反映了百老汇在疫情后的复苏潜力。随着更多投资者的信心恢复，这可能会刺激新作品的创作和上演。",
+          "analysis_en": "The musical \"Just in Time\" has reached a rare milestone on Broadway: it has turned a profit. Starring Jonathan Groff for the past year, it is the first new musical from last season to generate earnings for investors. This achievement not only highlights the show's market appeal but also indicates the potential for Broadway's recovery post-pandemic. As investor confidence grows, it may encourage the creation and staging of more new works."
         },
         {
-          "rank": 8,
+          "rank": 10,
           "title": "Review: Tyshawn Sorey Unveils a Wondrous New Piano Concerto",
           "link": "https://www.nytimes.com/2026/05/18/arts/music/tyshawn-sorey-piano-concerto-philadelphia-orchestra-review.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-18 15:33 UTC",
-          "analysis_zh": "在费城交响乐团的演出中，泰肖恩·索瑞的新钢琴协奏曲《献给玛丽琳·克里斯佩尔》与布鲁克纳的第三交响曲同台演出。这场独特的音乐会不仅展示了索瑞的创新才华，也让观众领略到了两位作曲家的不同风格。此类跨界演出有助于推动当代音乐的发展，并吸引更多人关注现代作曲家的作品。这样的组合可能会影响未来音乐会的编排，鼓励更多的实验性合作。",
-          "analysis_en": "In a performance by the Philadelphia Orchestra, Tyshawn Sorey's new piano concerto \"For Marilyn Crispell\" was paired with Bruckner's Third Symphony. This unusual concert not only highlighted Sorey's innovative talent but also allowed the audience to appreciate the contrasting styles of both composers. Such cross-genre performances help promote the development of contemporary music and attract more attention to the works of modern composers. This kind of pairing may influence future concert programming, encouraging more experimental collaborations."
-        },
-        {
-          "rank": 9,
-          "title": "Dezeen teams up with Villeroy & Boch, Bisley, Andreu World and more during Clerkenwell Design Week",
-          "link": "https://www.dezeen.com/2026/05/18/clerkenwell-design-week-2026-talks-dezeen-villeroy-boch-andreu-world/",
-          "source": "Dezeen",
-          "published_utc": "2026-05-18 15:00 UTC",
-          "analysis_zh": "Dezeen与全球知名品牌Villeroy & Boch、Bisley、Andreu World及Johnstone's Trade合作，在伦敦的Clerkenwell设计周期间举办了一系列讲座。Clerkenwell设计周是一个重要的设计盛会，汇聚了展览、装置、产品发布、开放展厅、工作坊和派对等多种活动。这次合作不仅提升了Dezeen在设计界的影响力，也为参与品牌提供了展示其创新设计的机会，可能会吸引更多的设计爱好者和专业人士参与。",
-          "analysis_en": "Dezeen has partnered with global brands such as Villeroy & Boch, Bisley, Andreu World, and Johnstone's Trade to host a series of talks during Clerkenwell Design Week in London. This event is a significant design festival that features exhibitions, installations, product launches, open showrooms, workshops, and parties. This collaboration not only enhances Dezeen's influence in the design community but also provides participating brands with a platform to showcase their innovative designs, potentially attracting more design enthusiasts and professionals."
-        },
-        {
-          "rank": 10,
-          "title": "layered transparent walls transform former railway warehouse in shenzhen",
-          "link": "https://www.designboom.com/architecture/layered-transparent-walls-former-railway-warehouse-shenzhen-apelron-contemporary-aether-architects-archigress/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-05-18 15:00 UTC",
-          "analysis_zh": "深圳的一座前铁路仓库经过改造，采用了分层透明墙体设计，轻巧的结构在原有工业屋顶下方安置。这一改造不仅提升了建筑的美观性，也为城市空间的再利用提供了新的思路。透明墙体的使用使得室内外的光线和视野得以自然流通，可能会吸引更多的商业活动和游客，推动当地经济发展。",
-          "analysis_en": "A former railway warehouse in Shenzhen has been transformed with layered transparent walls, featuring lightweight structures beneath the original industrial roof. This renovation enhances the aesthetic appeal of the building and offers new ideas for urban space reuse. The use of transparent walls allows natural light and views to flow freely between indoors and outdoors, which may attract more commercial activities and tourists, ultimately boosting the local economy."
+          "analysis_zh": "费城交响乐团将Tyshawn Sorey的新作品《献给玛丽莲·克里斯佩尔》与布鲁克纳的第三交响曲搭配演出，这一不寻常的节目安排使得两位作曲家的作品都得到了很好的展示。Sorey的钢琴协奏曲展现了其独特的音乐风格，吸引了观众的关注。这次演出不仅为Sorey赢得了更多的认可，也让人们重新审视布鲁克纳的经典作品。这样的跨界演出可能会激励更多的音乐家探索不同风格的融合。",
+          "analysis_en": "The Philadelphia Orchestra paired Tyshawn Sorey's new work \"For Marilyn Crispell\" with Bruckner's Third Symphony, creating an unusual program that showcased both composers effectively. Sorey's piano concerto reveals his unique musical style, capturing the audience's attention. This performance not only enhances Sorey's recognition but also prompts a reevaluation of Bruckner's classic work. Such cross-genre performances may inspire more musicians to explore the fusion of different styles."
         }
       ]
     }
