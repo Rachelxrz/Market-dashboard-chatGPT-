@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23 15:06:29 UTC",
-  "generated_at_unix": 1779548789,
+  "generated_at": "2026-05-23 21:30:03 UTC",
+  "generated_at_unix": 1779571803,
   "window": {
-    "from_utc": "2026-05-22 15:06:29 UTC",
-    "to_utc": "2026-05-23 15:06:29 UTC",
-    "hours": 24,
-    "run_mode": "morning"
+    "from_utc": "2026-05-22 21:30:03 UTC",
+    "to_utc": "2026-05-23 21:30:03 UTC",
+    "hours": 12,
+    "run_mode": "close"
   },
   "sections": {
     "投资": {
@@ -14,93 +14,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "The oil shock meets the Fed ‘curse’: What Kevin Warsh’s swearing-in means for your portfolio",
-          "link": "https://www.marketwatch.com/story/the-new-fed-chair-curse-and-100-plus-oil-are-already-testing-kevin-warsh-and-the-stock-market-718b919d?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-05-23 15:05 UTC",
-          "analysis_zh": "近期，市场对新任美联储理事凯文·沃什的任命产生了关注。沃什面临着艰难的抉择：他需要在抑制需求和维持牛市之间找到平衡。此时，油价的波动也给市场带来了额外压力。这一局势可能会影响投资者的信心，并导致市场的不确定性加剧。",
-          "analysis_en": "Recently, the market has been paying close attention to the appointment of Kevin Warsh as a new Federal Reserve governor. Warsh faces a tough decision in balancing the need to curb demand against the desire to maintain a bull market. The fluctuations in oil prices add further pressure to the market at this time. This situation could affect investor confidence and lead to increased uncertainty in the markets."
+          "title": "Trump says Iran deal reopening Strait of Hormuz 'largely negotiated' and will be announced soon",
+          "link": "https://www.cnbc.com/2026/05/23/us-iran-war-talks.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-05-23 21:29 UTC",
+          "analysis_zh": "特朗普表示，伊朗协议的重启以及霍尔木兹海峡的局势“基本谈妥”，并将很快宣布。这一消息在美国与伊朗之间的脆弱停火状态下发布，双方在霍尔木兹海峡的冲突时有发生。此事的重要性在于，霍尔木兹海峡是全球重要的石油运输通道，任何局势的变化都可能影响国际油价和全球能源市场的稳定。",
+          "analysis_en": "Trump announced that the reopening of the Iran deal and the situation in the Strait of Hormuz have been \"largely negotiated\" and will be announced soon. This news comes amid a fragile ceasefire between the U.S. and Iran, with skirmishes occurring in the Strait of Hormuz. The significance of this development lies in the fact that the Strait of Hormuz is a crucial oil transport route, and any changes in the situation could impact international oil prices and the stability of the global energy market."
         },
         {
           "rank": 2,
-          "title": "‘We have longevity in the family’: My sister is turning 67. Should she wait until 70 to claim Social Security?",
-          "link": "https://www.marketwatch.com/story/we-have-longevity-in-the-family-my-sister-is-turning-67-should-she-wait-until-70-to-claim-social-security-812087a4?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-05-23 14:57 UTC",
-          "analysis_zh": "最近有讨论关于社会保障领取年龄的问题，尤其是针对即将67岁的女性。有人建议她应该等到70岁再申请，以便获得更高的福利，而另一些人则认为她可以在达到法定退休年龄时就开始领取。这一问题的重要性在于，选择何时领取社会保障会直接影响她的财务状况和退休生活质量。随着人们寿命的延长，合理规划退休金的领取时间变得愈发重要。",
-          "analysis_en": "There has been a discussion regarding the age at which to claim Social Security, particularly for a woman who is about to turn 67. Some suggest she should wait until 70 to receive higher benefits, while others believe she can start claiming at her full retirement age. This issue is significant because the timing of Social Security claims can directly impact her financial situation and quality of life in retirement. As life expectancy increases, planning the timing of retirement benefits becomes increasingly important."
+          "title": "Dow Jones Futures: Trump Says Iran Deal Announcement 'Shortly,' Hormuz 'Will Be Opened'; Tesla, AI Stocks Near Buy Points",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/?src=A00220&yptr=yahoo",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-05-23 21:07 UTC",
+          "analysis_zh": "特朗普表示伊朗协议将在“短期内”宣布，并强调霍尔木兹海峡将保持开放。这一消息可能会对全球市场产生重要影响，尤其是在能源和投资领域。若伊朗协议达成，可能会导致油价波动，从而影响相关公司的股票表现。此外，特斯拉和人工智能股票接近买入点，投资者需密切关注这些动态。",
+          "analysis_en": "Trump announced that the Iran deal will be revealed \"shortly\" and emphasized that the Strait of Hormuz will remain open. This news could significantly impact global markets, particularly in the energy and investment sectors. If the Iran deal is finalized, it may lead to fluctuations in oil prices, affecting the stock performance of related companies. Additionally, Tesla and AI stocks are nearing buy points, prompting investors to closely monitor these developments."
         },
         {
           "rank": 3,
-          "title": "Jim Cramer on Equinix: “It’s a Great Way to Play the Data Center”",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-equinix-great-way-145549268.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-05-23 14:55 UTC",
-          "analysis_zh": "吉姆·克莱默在谈到Equinix时表示，这是一个很好的投资数据中心的方式。Equinix是一家全球领先的数据中心和网络服务提供商，随着数字化转型加速，数据中心的需求日益增长。投资于Equinix不仅可以抓住这一趋势，还可能带来可观的回报。这一消息对投资者尤其重要，因为它可能影响他们的投资决策，并推动对数据基础设施的进一步关注。",
-          "analysis_en": "Jim Cramer remarked that Equinix is a great way to invest in the data center sector. As a leading global provider of data centers and network services, Equinix stands to benefit from the increasing demand for data centers driven by digital transformation. Investing in Equinix allows investors to capitalize on this trend and potentially achieve significant returns. This news is particularly relevant for investors as it may influence their investment decisions and lead to greater focus on data infrastructure."
+          "title": "Embodied AI bullish or bearish for markets? Barclays answers",
+          "link": "https://www.investing.com/news/stock-market-news/embodied-ai-bullish-or-bearish-for-markets-barclays-answers-4708084",
+          "source": "Stock Market News",
+          "published_utc": "2026-05-23 20:21 UTC",
+          "analysis_zh": "巴克莱银行最近发布了一份报告，分析了具身人工智能对市场的潜在影响。报告指出，具身人工智能的兴起可能会改变投资者对科技公司的看法，并影响相关行业的股票表现。这一趋势的重要性在于，它可能会引发资金流向新兴科技领域，从而改变市场格局。投资者需要密切关注这一变化，以便抓住潜在的投资机会。",
+          "analysis_en": "Barclays recently released a report analyzing the potential impact of embodied AI on the markets. The report suggests that the rise of embodied AI could alter investors' perceptions of technology companies and affect the stock performance of related industries. The significance of this trend lies in its potential to shift capital towards emerging tech sectors, thereby changing the market landscape. Investors should closely monitor this development to seize potential investment opportunities."
         },
         {
           "rank": 4,
-          "title": "Jim Cramer on Astera Labs: “I Say You Hold On”",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-astera-labs-hold-145545082.html",
+          "title": "Why Advanced Micro Devices (AMD) Remains One of the Most Traded Stocks",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/why-advanced-micro-devices-amd-201200295.html",
           "source": "Yahoo Finance",
-          "published_utc": "2026-05-23 14:55 UTC",
-          "analysis_zh": "投资分析师吉姆·克莱默近日对阿斯特拉实验室（Astera Labs）发表了看法，他建议投资者继续持有该公司的股票。他认为，阿斯特拉实验室在半导体行业中的地位将继续增强，尤其是在数据中心和5G技术的需求不断增长的背景下。这一建议对投资者来说至关重要，因为它可能影响他们的投资决策，尤其是在当前市场波动的情况下。",
-          "analysis_en": "Investment analyst Jim Cramer recently shared his views on Astera Labs, advising investors to hold onto the company's stock. He believes that Astera Labs' position in the semiconductor industry will continue to strengthen, particularly with the growing demand for data centers and 5G technology. This recommendation is crucial for investors as it may influence their investment decisions, especially amid the current market volatility."
+          "published_utc": "2026-05-23 20:12 UTC",
+          "analysis_zh": "先进微电子公司（AMD）继续成为交易量最大的股票之一，这引起了投资者的广泛关注。AMD在半导体行业的持续创新和强劲的财务表现使其在市场上保持了竞争力。这一现象不仅反映了投资者对科技股的热情，也可能影响到整个半导体行业的投资趋势，吸引更多资金流入这一领域。",
+          "analysis_en": "Advanced Micro Devices (AMD) remains one of the most traded stocks, drawing significant attention from investors. The company's ongoing innovations and strong financial performance in the semiconductor industry have kept it competitive in the market. This trend not only reflects investor enthusiasm for tech stocks but may also influence investment patterns across the entire semiconductor sector, potentially attracting more capital into this area."
         },
         {
           "rank": 5,
-          "title": "Wall Street Stays Cautious on Snap Inc. (SNAP) After Earnings, Here’s Why",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-stays-cautious-snap-145201509.html",
+          "title": "Norway Doubles Down on Oil and Gas as Europe Scrambles for Supply",
+          "link": "https://finance.yahoo.com/sectors/energy/articles/norway-doubles-down-oil-gas-190000261.html",
           "source": "Yahoo Finance",
-          "published_utc": "2026-05-23 14:52 UTC",
-          "analysis_zh": "在Snap Inc.发布财报后，华尔街对其前景保持谨慎。尽管公司报告了用户增长，但市场对其盈利能力和未来增长的担忧依然存在。这一情况表明，投资者对社交媒体行业的信心正在减弱，可能会影响Snap及其竞争对手的股价表现。分析师们将密切关注Snap的下一步战略，以评估其能否在竞争激烈的市场中保持优势。",
-          "analysis_en": "After Snap Inc. released its earnings report, Wall Street is remaining cautious about its outlook. While the company reported user growth, concerns about its profitability and future growth persist in the market. This situation indicates a waning confidence among investors in the social media sector, which may affect the stock performance of Snap and its competitors. Analysts will closely monitor Snap's next strategic moves to assess whether it can maintain an edge in a highly competitive market."
+          "published_utc": "2026-05-23 19:00 UTC",
+          "analysis_zh": "挪威在欧洲能源供应紧张的背景下，决定加大对石油和天然气的投资。这一举措不仅反映了挪威对能源市场的信心，也显示出在全球能源转型的过程中，传统能源仍然扮演着重要角色。挪威的这一政策可能会影响欧洲其他国家的能源战略，尤其是在寻求稳定供应的情况下，可能会导致更多国家重新考虑对化石燃料的依赖。",
+          "analysis_en": "Norway has decided to increase its investment in oil and gas as Europe faces a tight energy supply situation. This move not only reflects Norway's confidence in the energy market but also highlights the continued importance of traditional energy sources during the global energy transition. Norway's policy may influence the energy strategies of other European countries, particularly as they seek stable supplies, potentially leading more nations to reconsider their reliance on fossil fuels."
         },
         {
           "rank": 6,
-          "title": "Apple Inc. (AAPL)’s Durable Growth Narrative Keeps Getting Stronger",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/apple-inc-aapl-durable-growth-145158335.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-05-23 14:51 UTC",
-          "analysis_zh": "苹果公司（Apple Inc.）的增长故事持续增强，显示出其在市场中的强大韧性。尽管面临激烈的竞争和经济不确定性，苹果依然保持了稳定的销售和利润增长。这一现象不仅反映了消费者对苹果品牌的忠诚度，也可能影响投资者对科技股的信心，进一步推动市场对苹果的投资热情。",
-          "analysis_en": "Apple Inc.'s growth narrative continues to strengthen, showcasing its resilience in the market. Despite facing fierce competition and economic uncertainties, Apple has maintained steady sales and profit growth. This trend not only reflects consumer loyalty to the Apple brand but may also influence investor confidence in tech stocks, potentially driving increased investment interest in Apple."
+          "title": "This bond strategy can protect your portfolio even if interest rates go up",
+          "link": "https://www.marketwatch.com/story/this-bond-strategy-can-protect-your-portfolio-even-if-interest-rates-go-up-9e9418cb?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-05-23 18:31 UTC",
+          "analysis_zh": "最近，一种鲜为人知的投资公式被提出，能够帮助投资者在利率上升的情况下保护他们的投资组合。该策略通过确定持有债券的最佳时长，来抵消利率上涨带来的影响。这一发现对投资者尤为重要，因为在当前经济环境中，利率波动可能会对债券市场造成显著影响。如果投资者能够有效运用这一策略，将有助于他们在不确定的市场中保持稳定的收益。",
+          "analysis_en": "Recently, a little-known investing formula has been introduced that can help investors protect their portfolios even when interest rates rise. This strategy identifies the optimal duration for holding bonds to counteract the effects of increasing interest rates. This finding is particularly significant for investors, as fluctuations in interest rates can have a substantial impact on the bond market in the current economic climate. If investors can effectively apply this strategy, it will help them maintain stable returns in an uncertain market."
         },
         {
           "rank": 7,
-          "title": "SoFi Technologies, Inc. (SOFI): Solid Quarter, Softer Forecasts",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/sofi-technologies-inc-sofi-solid-145153897.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-05-23 14:51 UTC",
-          "analysis_zh": "SoFi科技公司（SOFI）最近公布了其季度财报，尽管业绩表现稳健，但对未来的预测却显得较为保守。这一情况引发了市场的关注，因为投资者通常会对公司的前景持谨慎态度。若公司无法实现预期的增长，可能会影响其股价和投资者信心，进而影响整体市场情绪。",
-          "analysis_en": "SoFi Technologies, Inc. (SOFI) recently released its quarterly earnings report, showing solid performance but offering a softer outlook for the future. This situation has drawn market attention, as investors tend to be cautious about a company's prospects. If the company fails to meet growth expectations, it could impact its stock price and investor confidence, potentially affecting overall market sentiment."
+          "title": "Nvidia can deliver chips — but it can’t buy Big Tech out of its credit and power-grid crisis",
+          "link": "https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-05-23 18:17 UTC",
+          "analysis_zh": "英伟达虽然能够生产芯片，但却无法解决大型科技公司面临的信贷危机和电网问题。当前的贸易战加剧了企业的利润压力，同时信贷成本上升和人工智能基础设施的限制也让情况更加复杂。这一局势不仅影响了科技公司的财务健康，还可能对整个行业的创新能力和市场竞争力产生深远影响。",
+          "analysis_en": "Nvidia can produce chips, but it cannot resolve the credit crisis and power grid issues facing major tech companies. The ongoing trade war has intensified profit pressures on businesses, while rising credit costs and limitations in AI infrastructure complicate the situation further. This scenario not only affects the financial health of tech companies but may also have profound implications for the industry's innovation capacity and market competitiveness."
         },
         {
           "rank": 8,
-          "title": "Here’s Why Plug Power Inc. (PLUG) Is Among the Most Traded US Stocks",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/why-plug-power-inc-plug-145152867.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-05-23 14:51 UTC",
-          "analysis_zh": "Plug Power Inc.（PLUG）最近成为美国交易量最高的股票之一，这引起了市场的广泛关注。该公司的氢能技术在可再生能源领域的应用前景被看好，吸引了大量投资者的目光。随着全球对清洁能源的需求不断增加，Plug Power的表现可能会影响整个氢能市场的发展趋势，并推动相关企业的投资热情。",
-          "analysis_en": "Plug Power Inc. (PLUG) has recently emerged as one of the most traded stocks in the U.S., drawing significant market attention. The company's hydrogen technology is seen as promising in the renewable energy sector, attracting a large number of investors. As global demand for clean energy continues to rise, Plug Power's performance could influence the development trends of the entire hydrogen market and encourage investment enthusiasm in related companies."
+          "title": "Kevin Warsh walks into a trap where the Fed can’t cut rates even if it wants to",
+          "link": "https://www.marketwatch.com/story/kevin-warsh-walks-into-a-trap-where-the-fed-cant-cut-rates-even-if-it-wants-to-8475e97c?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-05-23 18:13 UTC",
+          "analysis_zh": "凯文·沃什在美国经济的关键时刻成为联邦储备委员会主席，这使他不得不放弃他原本希望成为的颠覆者角色。当前经济形势复杂，联储面临着无法降息的困境，这可能会对未来的货币政策产生深远影响。沃什的任命不仅关乎他个人的职业生涯，也可能影响到整个金融市场的稳定性和投资者的信心。",
+          "analysis_en": "Kevin Warsh has taken on the role of Federal Reserve chair at a critical juncture for the U.S. economy, which forces him to abandon the disruptive approach he initially envisioned. Given the current economic complexities, the Fed is facing a situation where it cannot cut rates even if it wishes to, which could have significant implications for future monetary policy. Warsh's appointment is not only pivotal for his own career but may also impact the stability of financial markets and investor confidence."
         },
         {
           "rank": 9,
-          "title": "Why BofA Says to “Ignore the Noise” on NVIDIA Corporation (NVDA)",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/why-bofa-says-ignore-noise-145150982.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-05-23 14:51 UTC",
-          "analysis_zh": "美国银行（BofA）最近发布报告，建议投资者对英伟达（NVIDIA Corporation）保持冷静，忽视市场上的噪音。该公司指出，尽管市场对英伟达的股价波动存在担忧，但其基本面依然强劲，未来增长潜力巨大。这一观点对于投资者来说非常重要，因为它可能影响他们的投资决策，尤其是在当前经济环境不确定的情况下。通过关注公司的长期价值而非短期波动，投资者能够更好地把握市场机会。",
-          "analysis_en": "Bank of America (BofA) recently released a report advising investors to stay calm about NVIDIA Corporation and to ignore the noise in the market. The company highlighted that despite concerns over NVIDIA's stock price volatility, its fundamentals remain strong, and there is significant growth potential ahead. This perspective is crucial for investors as it may influence their investment decisions, especially in the current uncertain economic environment. By focusing on the company's long-term value rather than short-term fluctuations, investors can better seize market opportunities."
+          "title": "Your bond portfolio is facing a ‘termite’ infestation far worse than Jamie Dimon’s ‘cockroaches’",
+          "link": "https://www.marketwatch.com/story/credit-termites-are-lurking-in-the-bond-market-and-eating-away-at-your-portfolio-3f6be6e9?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-05-23 17:58 UTC",
+          "analysis_zh": "摩根大通首席执行官杰米·戴蒙警告称，信贷市场面临“蟑螂”问题，但更严重的是，模糊的人工智能贷款和过度的杠杆正在侵蚀经济，形成了“白蚁”危机。这一警告引发了对金融市场稳定性的担忧，尤其是在当前经济环境下，信贷风险可能会加剧。若不采取措施，可能会对投资者信心和整体经济增长产生负面影响。",
+          "analysis_en": "JP Morgan Chase CEO Jamie Dimon has warned that the credit market is facing a \"cockroach\" problem, but even more concerning are the \"credit termites\" created by opaque AI loans and excessive leverage that are hollowing out the economy. This warning raises concerns about the stability of financial markets, especially in the current economic climate where credit risks may escalate. If left unaddressed, this could negatively impact investor confidence and overall economic growth."
         },
         {
           "rank": 10,
-          "title": "Is Intel Corporation (INTC) the Most Traded US Stocks So Far in 2026?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/intel-corporation-intc-most-traded-145148981.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-05-23 14:51 UTC",
-          "analysis_zh": "英特尔公司（Intel Corporation）在2026年成为美国交易量最大的股票之一，这一现象引起了市场的广泛关注。这表明投资者对该公司的信心正在增强，可能与其新产品发布和技术创新有关。这样的趋势不仅可能影响英特尔的股价，还可能对整个科技行业的投资热情产生积极影响，吸引更多资金流入相关领域。",
-          "analysis_en": "Intel Corporation has emerged as one of the most traded stocks in the U.S. in 2026, drawing significant market attention. This suggests that investor confidence in the company is growing, likely due to new product launches and technological innovations. Such a trend could not only impact Intel's stock price but also positively influence investment enthusiasm across the tech sector, attracting more capital into related areas."
+          "title": "The surprising cost of caring for aging parents: Divorce",
+          "link": "https://www.marketwatch.com/story/the-surprising-cost-of-caring-for-aging-parents-divorce-2ff83fce?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-05-23 17:44 UTC",
+          "analysis_zh": "最近的研究显示，照顾年迈父母的心理和经济压力可能导致离婚。这一现象引发了人们对家庭关系的关注，尤其是在老龄化社会背景下，子女的责任感和压力不断增加。这不仅影响了家庭的稳定性，也可能对下一代的心理健康产生深远影响。因此，社会需要更加关注如何支持这些家庭，减轻他们的负担。",
+          "analysis_en": "Recent research indicates that the mental and financial pressures of caring for aging parents can lead to divorce. This phenomenon has raised concerns about family dynamics, especially in the context of an aging society where the responsibilities and stress on children are increasing. Not only does this affect family stability, but it may also have lasting impacts on the mental health of the next generation. Therefore, society needs to pay more attention to how to support these families and alleviate their burdens."
         }
       ]
     },
@@ -110,39 +110,39 @@
       "items": [
         {
           "rank": 1,
+          "title": "U.S. Ebola Travel Ban Faces Criticism From Congo Health Officials",
+          "link": "https://www.nytimes.com/2026/05/23/world/africa/ebola-outbreak-congo-shrug.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-05-23 19:46 UTC",
+          "analysis_zh": "美国对刚果的埃博拉旅行禁令遭到卫生官员的批评。尽管国际社会对病毒传播的担忧日益加剧，金沙萨的居民仍然在市场、酒吧和公共交通上聚集。这一现象表明，当地人对疫情的警惕性不足，可能导致病毒进一步传播。此外，这种情况也可能影响到全球对埃博拉疫情的应对措施，增加其他国家的风险。",
+          "analysis_en": "The U.S. travel ban on Ebola from Congo has faced criticism from health officials. Despite growing international concerns about the spread of the virus, residents in Kinshasa continue to gather in markets, bars, and public transportation. This indicates a lack of awareness among locals regarding the severity of the outbreak, which could lead to further transmission of the virus. Additionally, this situation may impact global responses to the Ebola crisis, increasing the risk for other countries."
+        },
+        {
+          "rank": 2,
           "title": "Scientists warn popular vitamin D supplement may have a “previously unknown” downside",
           "link": "https://www.sciencedaily.com/releases/2026/05/260523021820.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-23 14:38 UTC",
-          "analysis_zh": "一项新的研究发现，常见的维生素D2补充剂可能会降低体内更有效的维生素D3水平。研究表明，维生素D3不仅能够更有效地提升维生素D状态，还可能在免疫系统抵御病毒和细菌方面发挥独特作用。这一发现促使科学家重新考虑是否应优先推荐维生素D3作为补充剂。此研究的结果对公众健康建议和补充剂的选择具有重要影响，尤其是在冬季，许多人依赖维生素D补充剂来支持骨骼和免疫健康。",
-          "analysis_en": "A new study has found that the commonly used vitamin D2 supplements may actually reduce the levels of the more effective vitamin D3 in the body. Researchers discovered that vitamin D3 not only raises vitamin D status more efficiently but also plays a unique role in helping the immune system combat viruses and bacteria. This finding is prompting scientists to reconsider whether vitamin D3 should be the preferred choice for supplementation. The implications of this research are significant for public health recommendations and the choice of supplements, especially during winter months when many rely on vitamin D to support bone and immune health."
+          "analysis_zh": "一项新的研究发现，常见的维生素D2补充剂可能会降低身体内更有效的维生素D3水平。研究表明，维生素D3不仅能更有效地提升维生素D状态，还有助于增强免疫系统抵御病毒和细菌的能力。这一发现引发了科学家们对维生素D补充剂选择的重新思考，可能促使更多人转向维生素D3补充剂，以获得更好的健康效果。",
+          "analysis_en": "A new study has revealed that the popular vitamin D2 supplements may actually lower the levels of the more effective vitamin D3 in the body. Researchers found that D3 not only raises vitamin D status more efficiently but also plays a crucial role in helping the immune system combat viruses and bacteria. This discovery is prompting scientists to reconsider their recommendations for vitamin D supplementation, potentially leading to a shift towards vitamin D3 as the preferred choice for better health outcomes."
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Wegovy linked to rare “eye stroke” that can cause sudden blindness",
           "link": "https://www.sciencedaily.com/releases/2026/05/260522023134.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-23 13:23 UTC",
-          "analysis_zh": "最近的一项研究引发了对减肥药Wegovy的关注，研究者发现它可能与一种罕见的“眼中风”有较高的关联性，这种情况可能导致突然失明。根据对数百万份FDA副作用报告的分析，Wegovy的风险信号比Ozempic高出近五倍，尽管两者都含有相同的成分semaglutide。这一发现对Wegovy的使用安全性提出了重要质疑，尤其是在GLP-1类药物使用日益普及的背景下，可能会影响医生的处方决策和患者的用药选择。",
-          "analysis_en": "A recent study has raised concerns about Wegovy, a popular weight-loss drug, after researchers found it may be linked to a rare condition known as \"eye stroke,\" which can lead to sudden blindness. The analysis of millions of FDA side-effect reports indicated that the risk associated with Wegovy was nearly five times greater than that of Ozempic, despite both drugs containing the same active ingredient, semaglutide. This finding raises significant safety questions regarding the use of Wegovy, especially as GLP-1 medications become more widely used, potentially influencing prescribing practices and patient choices."
+          "analysis_zh": "最近的一项研究引发了对减肥药物Wegovy的关注，研究发现该药物可能与一种罕见的“眼中风”有较强关联，这种病症可能导致突然失明。根据对数百万份FDA副作用报告的分析，Wegovy的风险信号比Ozempic高出近五倍，尽管两者均含有相同的成分semaglutide。这一发现对Wegovy的安全性提出了重要质疑，尤其是在GLP-1类药物使用日益普及的背景下，可能会影响患者的用药选择和医生的处方决策。",
+          "analysis_en": "A recent study has raised concerns about the weight-loss drug Wegovy, revealing a strong association with a rare condition known as \"eye stroke,\" which can lead to sudden blindness. The analysis of millions of FDA side-effect reports indicated that the risk signal for Wegovy was nearly five times higher than that for Ozempic, despite both medications containing the same active ingredient, semaglutide. This finding raises significant safety questions regarding Wegovy, particularly as the use of GLP-1 medications continues to grow, potentially affecting patient choices and prescribing practices among healthcare providers."
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "New AI body map reveals obesity’s hidden attack on facial nerves",
           "link": "https://www.sciencedaily.com/releases/2026/05/260522023308.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-23 12:34 UTC",
-          "analysis_zh": "科学家们开发了一种基于人工智能的系统，能够详细扫描和绘制整个小鼠的身体，并发现肥胖对面部神经的影响。研究表明，肥胖不仅会干扰新陈代谢，还可能损害与触觉和感觉相关的面部感觉神经，同时引发全身性炎症。这一发现具有重要意义，因为它揭示了肥胖对神经系统的潜在危害，可能会影响人类的健康，尤其是与肥胖相关的疾病，如糖尿病和心血管疾病。",
-          "analysis_en": "Scientists have developed an AI-powered system capable of scanning and mapping an entire mouse body in detail, uncovering the effects of obesity on facial nerves. The research indicates that obesity not only disrupts metabolism but may also damage facial sensory nerves associated with touch and sensation, while triggering widespread inflammation throughout the body. This finding is significant as it reveals the potential harm obesity can inflict on the nervous system, which may impact human health, particularly concerning obesity-related diseases like diabetes and cardiovascular conditions."
-        },
-        {
-          "rank": 4,
-          "title": "U.S. Ebola Travel Ban Faces Criticism From Congo Health Officials",
-          "link": "https://www.nytimes.com/2026/05/23/world/africa/ebola-outbreak-congo-shrug.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-05-23 12:33 UTC",
-          "analysis_zh": "美国对埃博拉疫情实施的旅行禁令遭到刚果卫生官员的批评。尽管国际社会对病毒传播的担忧日益加剧，金沙萨的居民仍然在市场、酒吧和公共交通上聚集。这一现象反映了当地人对疫情的警惕性不足，可能会加剧病毒的传播风险。此外，旅行禁令可能会影响刚果的经济和国际关系，进一步加深当地的卫生危机。",
-          "analysis_en": "The U.S. travel ban related to the Ebola outbreak has faced criticism from health officials in Congo. Despite growing international concerns about the spread of the virus, residents in Kinshasa continue to gather in markets, bars, and on public transportation. This situation indicates a lack of awareness about the seriousness of the outbreak, which could increase the risk of transmission. Furthermore, the travel ban may impact Congo's economy and international relations, potentially exacerbating the local health crisis."
+          "analysis_zh": "科学家们开发了一种新型的人工智能系统，能够详细扫描和绘制整个小鼠的身体，并揭示了肥胖对面部神经的潜在影响。研究发现，肥胖不仅会干扰新陈代谢，还可能损害与触觉和感觉相关的面部感觉神经，并引发全身性炎症。这项研究的重要性在于，它不仅为我们理解肥胖的影响提供了新的视角，还可能对人类健康产生深远影响，尤其是在与肥胖相关的疾病如糖尿病和心血管疾病的研究中。",
+          "analysis_en": "Scientists have developed a new AI system capable of scanning and mapping an entire mouse body in detail, revealing the hidden impact of obesity on facial nerves. The research indicates that obesity disrupts not only metabolism but also damages facial sensory nerves associated with touch and sensation, while triggering widespread inflammation throughout the body. This study is significant as it provides new insights into the effects of obesity and may have far-reaching implications for human health, particularly in the context of diseases related to obesity, such as diabetes and cardiovascular issues."
         },
         {
           "rank": 5,
@@ -150,8 +150,8 @@
           "link": "https://www.nytimes.com/2026/05/23/health/autisim-clinics-investigation.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-23 09:00 UTC",
-          "analysis_zh": "最近，《纽约时报》对自闭症治疗诊所进行了调查，揭示了这个快速增长的行业存在过度开处方的现象。许多自闭症儿童每周在这些诊所接受多达40小时的治疗，这引发了对治疗效果和儿童福祉的担忧。这一问题不仅影响了家庭的经济负担，也可能对儿童的身心发展产生负面影响。因此，监管机构可能需要加强对这一行业的监督，以确保治疗的合理性和有效性。",
-          "analysis_en": "Recently, an investigation by The New York Times revealed that the rapidly growing industry of autism therapy clinics often overprescribes treatments. Many children with autism spend up to 40 hours a week at these facilities, raising concerns about the effectiveness of the treatments and the well-being of the children. This issue not only affects the financial burden on families but may also have negative implications for the children's physical and mental development. Consequently, regulatory bodies may need to enhance oversight of this industry to ensure the appropriateness and effectiveness of the treatments provided."
+          "analysis_zh": "最近，《纽约时报》对自闭症治疗诊所进行了调查，揭示了这一快速增长的行业存在过度开处方的现象。许多自闭症儿童每周在这些诊所接受多达40小时的治疗，这引发了对治疗效果和儿童福祉的担忧。这一问题的重要性在于，过度治疗可能对儿童的身心健康产生负面影响，同时也可能导致家庭经济负担加重。未来，监管机构可能会加强对这一行业的审查，以确保治疗的合理性和有效性。",
+          "analysis_en": "Recently, an investigation by The New York Times revealed that the rapidly growing industry of autism therapy clinics often overprescribes treatments. Many children with autism spend up to 40 hours a week at these facilities, raising concerns about the effectiveness of the treatments and the well-being of the children. This issue is significant because excessive treatment could negatively impact children's physical and mental health, while also increasing financial burdens on families. In the future, regulatory bodies may enhance scrutiny of this industry to ensure the appropriateness and effectiveness of the treatments provided."
         },
         {
           "rank": 6,
@@ -159,8 +159,8 @@
           "link": "https://www.nytimes.com/video/health/100000010889107/how-profit-seeking-autism-clinics-can-harm-kids.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-23 09:00 UTC",
-          "analysis_zh": "近期的一项调查揭示了以盈利为目的的自闭症治疗机构可能对儿童造成的伤害。这些机构在追求利润的过程中，可能会牺牲儿童的最佳利益，导致治疗效果不佳或甚至有害。这一问题引发了公众对自闭症治疗行业的关注，可能促使监管机构加强对这些机构的监督，以确保儿童能够接受到安全和有效的治疗。",
-          "analysis_en": "A recent investigation has revealed that profit-driven autism clinics may harm children. In their pursuit of profit, these clinics might compromise the best interests of children, leading to ineffective or even harmful treatments. This issue has raised public concern about the autism therapy industry and may prompt regulatory bodies to enhance oversight of these clinics to ensure that children receive safe and effective care."
+          "analysis_zh": "最近的调查显示，追求利润的自闭症治疗机构正在影响儿童的护理质量。这些机构在扩张过程中，可能导致一些儿童受到伤害，尤其是在治疗方法和服务质量上存在不足。这一现象引发了广泛关注，因为它不仅影响了自闭症患者的康复效果，也可能对家庭和社会造成更大的负担。了解这一问题的根源，有助于推动行业改革，确保儿童能够获得更安全和有效的治疗。",
+          "analysis_en": "A recent investigation reveals that profit-seeking autism clinics are impacting the quality of care for children. As these facilities expand, they may create conditions that harm some children, particularly in terms of inadequate treatment methods and service quality. This issue has raised significant concerns, as it not only affects the recovery outcomes for autistic patients but may also impose greater burdens on families and society. Understanding the root causes of this problem can help drive industry reforms to ensure that children receive safer and more effective treatments."
         },
         {
           "rank": 7,
@@ -168,8 +168,8 @@
           "link": "https://www.nytimes.com/2026/05/23/health/autism-therapy-clinics.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-23 09:00 UTC",
-          "analysis_zh": "最近，关于自闭症诊所如何通过幼儿的医疗补助金获利的报道引发了广泛关注。随着这一行业的快速发展，许多州的预算面临压力，导致了过度收费、欺诈行为，甚至对儿童造成伤害。这一现象不仅影响了医疗资源的分配，也可能导致对自闭症儿童的治疗质量下降，进而影响他们的成长和发展。",
-          "analysis_en": "Recently, reports have drawn significant attention to how autism clinics are profiting from Medicaid dollars allocated for preschoolers. The rapid growth of this industry has put pressure on state budgets, resulting in overbilling, fraudulent practices, and even harm to children. This situation not only affects the allocation of medical resources but may also lead to a decline in the quality of care for autistic children, ultimately impacting their growth and development."
+          "analysis_zh": "最近，一些自闭症诊所通过短暂的午睡和长时间的治疗来挤压医疗补助资金，这一现象引起了广泛关注。随着这一行业的快速增长，州政府的预算面临着巨大的压力。财务利益的驱动导致了过度收费、欺诈行为，甚至对儿童的伤害。这不仅影响了医疗资源的分配，也可能对自闭症儿童的治疗效果产生负面影响。",
+          "analysis_en": "Recently, some autism clinics have been drawing Medicaid funds by implementing short naps and lengthy treatment sessions, raising significant concerns. The rapid growth of this industry has put immense pressure on state budgets. The focus on financial gain has led to overbilling, fraudulent practices, and even harm to children. This situation not only affects the allocation of medical resources but may also negatively impact the treatment outcomes for children with autism."
         },
         {
           "rank": 8,
@@ -177,8 +177,8 @@
           "link": "https://www.nytimes.com/2026/05/22/us/politics/trump-cdc-noncitizens-ebola.html",
           "source": "NYT > Health",
           "published_utc": "2026-05-22 23:01 UTC",
-          "analysis_zh": "美国特朗普政府宣布将扩大对某些非公民的入境禁令，特别是那些曾在刚果民主共和国、乌干达或南苏丹逗留的人。这一决定旨在防止埃博拉病毒的传播，保护国内公众健康。此举可能会影响到许多合法永久居民的旅行计划，并引发关于公共卫生与移民政策之间平衡的讨论。",
-          "analysis_en": "The Trump administration announced plans to expand the entry ban for certain noncitizens, particularly those who had been in the Democratic Republic of Congo, Uganda, or South Sudan. This decision aims to prevent the spread of the Ebola virus and protect public health in the U.S. It may affect the travel plans of many legal permanent residents and spark discussions about the balance between public health and immigration policy."
+          "analysis_zh": "美国特朗普政府宣布将扩大对某些非公民的入境禁令，特别是那些曾在刚果民主共和国、乌干达或南苏丹逗留的人。这一措施旨在防止埃博拉病毒的传播，确保公众健康安全。此举可能会影响到这些国家的合法永久居民，限制他们的旅行自由，并引发对移民政策的进一步讨论。",
+          "analysis_en": "The Trump administration announced plans to expand the entry ban for certain noncitizens, particularly those who have been in the Democratic Republic of Congo, Uganda, or South Sudan. This measure aims to prevent the spread of the Ebola virus and ensure public health safety. It may affect the travel freedoms of legal permanent residents from these countries and spark further discussions on immigration policy."
         }
       ]
     },
@@ -189,7 +189,7 @@
     },
     "AI 科技": {
       "description": "AI、芯片、软件、科技产业与研究进展",
-      "count": 10,
+      "count": 5,
       "items": [
         {
           "rank": 1,
@@ -197,8 +197,8 @@
           "link": "https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech",
           "source": "The Verge",
           "published_utc": "2026-05-23 15:00 UTC",
-          "analysis_zh": "罗杰·林恩是音乐器材界的传奇人物，他在音乐科技领域活跃了数十年。他创造了LM-1，这是第一款使用采样的鼓机，其后续产品LinnDrum更是成为了历史上最具标志性的鼓机之一。这些设备在1980年代的无数经典专辑中被广泛使用，影响了许多音乐风格。林恩与Akai合作开发的MPC系列采样器，成为了嘻哈和电子音乐制作人的首选工具，对音乐制作产生了深远的影响。",
-          "analysis_en": "Roger Linn is a legendary figure in the world of musical instruments, having been at the forefront of music technology for decades. He created the LM-1, the first drum machine to use samples, and its successor, the LinnDrum, which became one of the most iconic drum machines in history. These devices were widely used in countless classic albums during the 1980s, influencing various music styles. Linn's collaboration with Akai to develop the MPC series of samplers has made it the go-to tool for hip-hop and electronic music producers, significantly impacting music production."
+          "analysis_zh": "罗杰·林是音乐器材界的传奇人物，他在音乐科技领域活跃了数十年。他发明了LM-1，这是第一款使用采样的鼓机，其后续产品LinnDrum更是成为了历史上最具标志性的鼓机之一。这些设备在1980年代的无数经典专辑中都有出现，深刻影响了音乐制作。尤其是与Akai合作推出的MPC系列，更是成为嘻哈和电子音乐制作的必备工具，改变了音乐创作的方式。林的贡献不仅在于他所创造的乐器，更在于他推动了音乐技术的发展。",
+          "analysis_en": "Roger Linn is a legendary figure in the world of musical instruments, having been at the forefront of music technology for decades. He created the LM-1, the first drum machine to utilize samples, and its successor, the LinnDrum, which became one of the most iconic drum machines in history. These devices appeared on countless classic albums in the 1980s, significantly influencing music production. Notably, the MPC series, developed in collaboration with Akai, became an essential tool for hip-hop and electronic music producers, transforming the way music is created. Linn's contributions extend beyond the instruments he invented; he has played a crucial role in advancing music technology as a whole."
         },
         {
           "rank": 2,
@@ -206,8 +206,8 @@
           "link": "https://www.theverge.com/gadgets/935751/memorial-day-2026-best-cheap-tech-deals-under-50",
           "source": "The Verge",
           "published_utc": "2026-05-23 14:00 UTC",
-          "analysis_zh": "在即将到来的阵亡将士纪念日，虽然大型OLED电视和Sonos音响备受瞩目，但实际上还有许多价格低于50美元的优质产品值得关注。这些产品包括便携式充电器、4K流媒体设备以及户外装备，适合计划在夏季露营或远足的人们。通过整理大量优惠信息，The Verge为消费者推荐了一系列经过验证的折扣商品，帮助大家在节日购物中做出明智选择。",
-          "analysis_en": "As Memorial Day approaches, while massive OLED TVs and Sonos speakers are in the spotlight, there are also many quality products available for under $50 that deserve attention. These items include portable chargers, 4K streaming devices, and outdoor gear, perfect for those planning to camp or hike this summer. By sifting through numerous deals, The Verge has curated a list of verified discounted products to help consumers make informed choices during the holiday shopping season."
+          "analysis_zh": "在即将到来的阵亡将士纪念日，虽然大型OLED电视和Sonos音响备受关注，但实际上还有许多价格低于50美元的优质科技产品值得关注。这些折扣产品包括便携式充电器、4K流媒体设备以及户外装备等，适合计划在夏季露营或徒步旅行的人们。这样的优惠不仅能帮助消费者节省开支，还能让更多人体验到科技产品的便利和乐趣。",
+          "analysis_en": "As Memorial Day approaches, while massive OLED TVs and Sonos speakers are grabbing attention, there are also many quality tech products available for under $50. These discounted items include portable chargers, 4K streaming devices, and outdoor gear, perfect for those planning to camp or hike this summer. Such deals not only help consumers save money but also allow more people to enjoy the convenience and fun of tech products."
         },
         {
           "rank": 3,
@@ -215,8 +215,8 @@
           "link": "https://www.theverge.com/entertainment/936278/coffee-talk-tokyo-review-switch-xbox-ps5-steam",
           "source": "The Verge",
           "published_utc": "2026-05-23 13:00 UTC",
-          "analysis_zh": "在东京的虚拟咖啡店中放松身心的体验令人愉悦。游戏《Coffee Talk Tokyo》是这一系列的延续，玩家在游戏中扮演咖啡师，除了调制饮品，还需倾听顾客的烦恼并给予建议。这款游戏不仅提供了放松的环境，也让人们在繁忙的生活中找到一种情感的寄托。随着游戏的推出，越来越多的人可能会选择这种虚拟社交方式，尤其是在现实生活中难以找到舒适空间的情况下。",
-          "analysis_en": "Relaxing in a virtual coffee shop in Tokyo offers a delightful experience. The game \"Coffee Talk Tokyo\" continues the series, where players take on the role of a barista who not only brews drinks but also listens to customers' troubles and provides advice. This game not only creates a relaxing environment but also serves as an emotional refuge for people amidst their busy lives. With the release of such games, more individuals may opt for virtual social interactions, especially when they struggle to find comfortable spaces in real life."
+          "analysis_zh": "在东京的虚拟咖啡馆中放松的体验引起了人们的关注。这款名为《Coffee Talk Tokyo》的游戏是“Coffee Talk”系列的延续，玩家在游戏中扮演咖啡师，除了调制饮品，还要倾听顾客的烦恼，提供情感支持。这款游戏不仅为玩家提供了一个放松的环境，还让人们在忙碌的生活中找到了一种新的社交方式。随着虚拟现实技术的发展，这类游戏可能会改变人们的社交习惯和休闲方式。",
+          "analysis_en": "The experience of relaxing in a virtual coffee shop in Tokyo has garnered attention. The game titled \"Coffee Talk Tokyo\" is a continuation of the \"Coffee Talk\" series, where players take on the role of a barista who not only brews drinks but also listens to customers' problems and provides emotional support. This game not only offers players a relaxing environment but also introduces a new way for people to socialize amidst their busy lives. As virtual reality technology advances, such games may alter social habits and leisure activities."
         },
         {
           "rank": 4,
@@ -224,8 +224,8 @@
           "link": "https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer",
           "source": "The Verge",
           "published_utc": "2026-05-23 12:00 UTC",
-          "analysis_zh": "最近，Vivaldi 8.0 浏览器成为了我的新宠。这个浏览器以其独特的功能和灵活的界面设计吸引了许多用户，尤其是在个性化设置方面表现出色。随着越来越多的人开始关注网络隐私和浏览体验，Vivaldi 的崛起可能会影响其他浏览器的市场竞争格局。它的成功不仅为用户提供了更多选择，也促使其他浏览器开发者改进产品，以满足用户的需求。",
-          "analysis_en": "Recently, Vivaldi 8.0 has become my new favorite browser. This browser stands out with its unique features and flexible interface design, particularly excelling in personalization options. As more users focus on online privacy and browsing experience, Vivaldi's rise may impact the competitive landscape among other browsers. Its success not only provides users with more choices but also encourages other browser developers to enhance their products to meet user demands."
+          "analysis_zh": "最近，《The Verge》发布了一篇关于Vivaldi 8.0浏览器的文章，作者David Pierce表示这是他的新首选浏览器。文章提到，尽管作者近期身体不适，但他仍然在测试新技术和阅读相关内容。Vivaldi 8.0的推出可能会影响用户对浏览器的选择，尤其是在功能和个性化方面，这对于追求高效和个性化体验的用户来说尤为重要。",
+          "analysis_en": "Recently, The Verge published an article by David Pierce announcing Vivaldi 8.0 as his new go-to browser. Despite feeling unwell, the author continued to explore new technologies and read related content. The release of Vivaldi 8.0 could influence users' browser choices, particularly in terms of functionality and personalization, which is especially significant for users seeking efficiency and a tailored experience."
         },
         {
           "rank": 5,
@@ -233,53 +233,8 @@
           "link": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
           "source": "The Verge",
           "published_utc": "2026-05-23 11:00 UTC",
-          "analysis_zh": "谷歌推出了一种全新的AI模型，名为Omni Flash，该模型能够将任何类型的输入（如照片、视频和文本）转化为其他形式的内容。目前，该模型主要用于生成视频。Omni Flash的推出标志着生成式AI技术的进一步发展，使得制作逼真的视频变得更加简单和高效。这一技术的进步可能会对内容创作、广告和娱乐行业产生深远影响，同时也引发了对深度伪造技术潜在滥用的担忧。",
-          "analysis_en": "Google has launched a new AI model called Omni Flash, which can transform any type of input—such as photos, videos, and text—into other forms of content. Currently, the model is primarily focused on video generation. The introduction of Omni Flash signifies a significant advancement in generative AI technology, making it easier and more efficient to create realistic videos. This technological progress could have profound implications for content creation, advertising, and the entertainment industry, while also raising concerns about the potential misuse of deepfake technology."
-        },
-        {
-          "rank": 6,
-          "title": "Waymo Suspends Service in Six Cities After Cars Drove Into Flooded Roads",
-          "link": "https://www.nytimes.com/2026/05/22/us/waymo-taxi-suspended-atlanta.html",
-          "source": "NYT > Technology",
-          "published_utc": "2026-05-22 21:24 UTC",
-          "analysis_zh": "Waymo在六个城市暂停了服务，因为其自动驾驶汽车在亚特兰大被拍到驶入淹水的道路。这一事件引发了公众对自动驾驶技术安全性的担忧，尤其是在极端天气条件下。暂停服务不仅影响了用户的出行选择，也可能对Waymo的声誉和未来发展造成负面影响。",
-          "analysis_en": "Waymo has suspended services in six cities after videos showed its self-driving cars navigating flooded streets in Atlanta. This incident raises public concerns about the safety of autonomous driving technology, particularly in extreme weather conditions. The service suspension not only affects users' transportation options but may also have negative implications for Waymo's reputation and future development."
-        },
-        {
-          "rank": 7,
-          "title": "Google’s AI search is so broken it can ‘disregard’ what you’re looking for",
-          "link": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
-          "source": "The Verge",
-          "published_utc": "2026-05-22 20:39 UTC",
-          "analysis_zh": "谷歌的人工智能搜索系统近期出现了一个有趣的问题。当用户搜索“disregard”这个词时，AI概述部分的回应更像是传统聊天机器人的回答，而不是通常的AI摘要。这个问题引发了人们对谷歌AI搜索准确性的担忧，因为它可能会导致用户无法获得所需的信息。谷歌已经意识到这个问题，并表示正在进行修复，这可能会影响用户对其搜索引擎的信任度。",
-          "analysis_en": "Google's AI search system has encountered an interesting issue recently. When users searched for the term \"disregard,\" the AI Overview section provided responses resembling those of traditional chatbots rather than the usual AI summaries. This raises concerns about the accuracy of Google's AI search, as it may prevent users from obtaining the information they need. Google has acknowledged the problem and stated that a fix is in progress, which could affect user trust in its search engine."
-        },
-        {
-          "rank": 8,
-          "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
-          "link": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
-          "source": "Biz & IT - Ars Technica",
-          "published_utc": "2026-05-22 18:13 UTC",
-          "analysis_zh": "德克萨斯州总检察长对Meta提起诉讼，声称WhatsApp并未提供端到端加密。这一诉讼引发了广泛关注，因为它涉及到用户隐私和数据安全的核心问题。尽管一些批评者指出诉讼缺乏实质性证据，但此案可能会对社交媒体平台的加密技术和用户信任产生深远影响。",
-          "analysis_en": "The Texas Attorney General has filed a lawsuit against Meta, claiming that WhatsApp does not provide end-to-end encryption. This lawsuit has garnered significant attention as it touches on critical issues of user privacy and data security. Although some critics have noted a lack of substantial evidence in the lawsuit, the case could have profound implications for encryption technologies on social media platforms and user trust."
-        },
-        {
-          "rank": 9,
-          "title": "Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel",
-          "link": "https://www.theverge.com/gadgets/936200/twelve-south-airfly-pro-2-memorial-day-deal-sale",
-          "source": "The Verge",
-          "published_utc": "2026-05-22 18:00 UTC",
-          "analysis_zh": "随着阵亡将士纪念日周末的到来，旅行季节正式开启，许多旅行小工具的优惠活动也随之而来。Twelve South的AirFly Pro 2蓝牙适配器目前以49.99美元的价格出售，较之前优惠10美元。这款适配器可以让用户在飞行时使用自己的无线耳机，提升了飞行娱乐体验。这样的优惠不仅吸引了旅行者，也可能推动更多人选择无线耳机，改变他们的飞行习惯。",
-          "analysis_en": "With the Memorial Day weekend marking the start of the travel season, many deals on travel gadgets are emerging. The Twelve South AirFly Pro 2 Bluetooth adapter is currently available for $49.99, which is a $10 discount. This adapter allows users to connect their wireless headphones to in-flight entertainment systems, enhancing the overall flying experience. Such discounts not only attract travelers but may also encourage more people to opt for wireless headphones, potentially changing their flying habits."
-        },
-        {
-          "rank": 10,
-          "title": "Google Appeals Landmark Ruling Declaring It a Monopolist in Search",
-          "link": "https://www.nytimes.com/2026/05/22/technology/google-appeals-search-case.html",
-          "source": "NYT > Technology",
-          "published_utc": "2026-05-22 17:59 UTC",
-          "analysis_zh": "谷歌于周五向联邦上诉法院提出上诉，要求推翻一项裁决，该裁决认定其在搜索市场中存在垄断行为，并要求其与竞争对手共享部分数据。这一裁决对谷歌的商业模式构成了重大挑战，因为如果维持原判，可能会迫使公司改变其运营方式。此案的结果不仅将影响谷歌自身，还可能对整个科技行业的竞争格局产生深远影响。",
-          "analysis_en": "On Friday, Google appealed to a federal appeals court, seeking to overturn a ruling that declared it a monopolist in the search market and mandated it to share certain data with competitors. This ruling poses a significant challenge to Google's business model, as upholding it could force the company to alter its operational practices. The outcome of this case will not only impact Google itself but could also have far-reaching effects on the competitive landscape of the entire tech industry."
+          "analysis_zh": "谷歌最近推出了一种新的AI模型，名为Omni Flash，该模型能够将任何类型的输入（如照片、视频或文本）转化为其他形式的内容。这个技术的推出标志着生成式AI的又一次重大进步，使得制作逼真的视频变得更加简单。随着这种技术的发展，可能会对内容创作、娱乐行业以及个人隐私产生深远的影响，尤其是在深度伪造技术日益普及的背景下。",
+          "analysis_en": "Google recently launched a new AI model called Omni Flash, which can transform any type of input—such as photos, videos, or text—into other forms of content. This technology represents a significant advancement in generative AI, making it easier to create realistic videos. As this technology evolves, it could have profound implications for content creation, the entertainment industry, and personal privacy, especially given the increasing prevalence of deepfake technology."
         }
       ]
     },
@@ -289,93 +244,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Letting Her Art (and Birds) Do the Talking",
-          "link": "https://www.nytimes.com/2026/05/23/arts/design/yiadom-boakye-shainman-art.html",
+          "title": "Grizz Chapman, Actor Known for His Role on ’30 Rock,’ Dies at 52",
+          "link": "https://www.nytimes.com/2026/05/23/arts/television/grizz-chapman-dead.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-05-23 13:10 UTC",
-          "analysis_zh": "艺术家林内特·亚亚多姆-博阿基选择保持低调，但她的新画作、素描和文字却传达了丰富的信息。这些作品不仅展示了她独特的艺术风格，也反映了她对社会和文化的深刻思考。这一展览的重要性在于，它挑战了观众对艺术家的传统认知，并鼓励人们关注艺术作品本身而非创作者的身份。这可能会影响未来艺术界对艺术创作和艺术家身份的讨论。",
-          "analysis_en": "Artist Lynette Yiadom-Boakye prefers to stay out of the spotlight, yet her new paintings, drawings, and writings convey a wealth of meaning. These works not only showcase her unique artistic style but also reflect her deep reflections on society and culture. The significance of this exhibition lies in its challenge to traditional perceptions of artists, encouraging viewers to focus on the artwork itself rather than the identity of the creator. This could influence future discussions in the art world regarding artistic creation and the identity of artists."
+          "published_utc": "2026-05-23 20:46 UTC",
+          "analysis_zh": "演员格里兹·查普曼因在电视剧《30 Rock》中饰演特雷西·摩根的随行人员而广为人知，他于上周五去世，享年52岁。查普曼的去世引发了对他在喜剧界贡献的怀念，许多观众和同行纷纷表达了哀悼之情。这一事件不仅让人们回顾他的职业生涯，也让人关注到娱乐行业中演员的健康与生活问题。",
+          "analysis_en": "Grizz Chapman, known for his role as a member of Tracy Morgan's entourage on the show \"30 Rock,\" passed away on Friday at the age of 52. His death has prompted reflections on his contributions to the comedy world, with many fans and colleagues expressing their condolences. This event not only highlights his career but also raises awareness about the health and well-being of actors in the entertainment industry."
         },
         {
           "rank": 2,
+          "title": "Colbert’s Sudden Return to Late Night? It Happened on Public Access.",
+          "link": "https://www.nytimes.com/2026/05/23/arts/television/stephen-colbert-michigan-public-access.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-05-23 20:44 UTC",
+          "analysis_zh": "喜剧演员斯蒂芬·科尔伯特在CBS的《斯蒂芬·科尔伯特晚间秀》结束后的第二天，出现在密歇根州门罗市的社区节目《仅在门罗》中。这一突然的回归引发了观众的关注，显示了他对地方文化的支持和参与。科尔伯特的这一举动不仅为当地社区带来了欢乐，也可能激励其他名人参与类似的地方活动，促进社区之间的联系。",
+          "analysis_en": "Comedian Stephen Colbert made a surprise appearance on a community access program called \"Only in Monroe\" in Monroe, Michigan, just a day after hosting the final episode of \"The Late Show With Stephen Colbert\" on CBS. This unexpected return has captured the attention of viewers, highlighting his support and involvement in local culture. Colbert's actions not only brought joy to the local community but may also inspire other celebrities to engage in similar local initiatives, fostering connections between communities."
+        },
+        {
+          "rank": 3,
+          "title": "clouds evoke hope in delicate drawing and sculpture series by mario trimarchi",
+          "link": "https://www.designboom.com/art/clouds-hope-delicate-drawing-sculpture-series-mario-trimarchi/",
+          "source": "designboom | architecture & design magazine",
+          "published_utc": "2026-05-23 20:30 UTC",
+          "analysis_zh": "意大利艺术家马里奥·特里马基（Mario Trimarchi）推出了一系列以云朵为灵感的抽象绘画和雕塑作品。这些作品通过细腻的艺术手法，将云的形态转化为富有表现力的艺术创作，传达出希望的情感。这一系列作品的重要性在于，它不仅展示了自然元素如何激发艺术创作，还反映了人们在动荡时代对美好未来的渴望。这些作品可能会影响观众对自然与艺术之间关系的理解，并激励更多艺术家探索类似主题。",
+          "analysis_en": "Italian artist Mario Trimarchi has launched a series of abstract drawings and sculptures inspired by cloud formations. Through delicate artistic techniques, these works transform the shapes of clouds into expressive creations that convey a sense of hope. The significance of this series lies in its demonstration of how natural elements can inspire artistic expression, reflecting a collective yearning for a brighter future in turbulent times. These works may influence viewers' understanding of the relationship between nature and art, encouraging more artists to explore similar themes."
+        },
+        {
+          "rank": 4,
+          "title": "Ansel Adams Trust Slams Gallery for AI-Generated Work at AIPAD Photography Show",
+          "link": "https://www.artnews.com/art-news/news/ansel-adams-trust-danziger-gallery-ai-artwork-aipad-1234787113/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-05-23 19:30 UTC",
+          "analysis_zh": "安塞尔·亚当斯信托基金近日对丹齐格画廊在AIPAD摄影展上展出的AI生成作品表示强烈不满，指责该画廊“利用了亚当斯的名声”。这一事件引发了关于艺术创作与人工智能之间界限的讨论，尤其是在如何尊重艺术家遗产方面。此事不仅影响了公众对AI艺术的看法，也可能促使艺术界重新审视与新技术的关系，确保艺术创作的原创性和真实性。",
+          "analysis_en": "The Ansel Adams Trust recently expressed strong disapproval of the Danziger Gallery for showcasing AI-generated works at the AIPAD Photography Show, accusing the gallery of \"exploiting Adams' name.\" This incident has sparked discussions about the boundaries between artistic creation and artificial intelligence, particularly regarding the respect for an artist's legacy. The situation not only affects public perception of AI art but may also prompt the art community to reevaluate its relationship with new technologies, ensuring the originality and authenticity of artistic creation."
+        },
+        {
+          "rank": 5,
+          "title": "Husband of Prominent New York Gallerist Convicted in Murder-for-Hire Plot",
+          "link": "https://www.nytimes.com/2026/05/23/arts/design/brent-sikkema-murder-guilty.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-05-23 17:13 UTC",
+          "analysis_zh": "纽约著名画廊主的丈夫布伦特·西克马在巴西的公寓内被发现刺死，案件发生在他与妻子的离婚诉讼期间。此事件引起了广泛关注，因为西克马在艺术界的影响力以及他支持的艺术家如卡拉·沃克都备受瞩目。这起谋杀案不仅对艺术界造成了冲击，也可能对离婚诉讼的进程产生影响，进一步揭示了个人生活与职业生涯之间的复杂关系。",
+          "analysis_en": "Brent Sikkema, the husband of a prominent New York gallerist, was found stabbed to death in his apartment in Brazil during divorce proceedings with his spouse. This incident has garnered significant attention due to Sikkema's influence in the art world and his support for artists like Kara Walker. The murder not only shocks the art community but may also impact the ongoing divorce case, highlighting the complex interplay between personal lives and professional careers."
+        },
+        {
+          "rank": 6,
+          "title": "Mixed-use building by Barde vanVoltt reflects \"slower rhythm\" of Baja California",
+          "link": "https://www.dezeen.com/2026/05/23/barde-vanvoltt-estero-residences-gamba-cafe-san-jose-del-cabo-mexico/",
+          "source": "Dezeen",
+          "published_utc": "2026-05-23 17:00 UTC",
+          "analysis_zh": "荷兰设计工作室Barde vanVoltt在墨西哥圣何塞德尔卡波完成了一座新建筑，建筑底层设有一个社区咖啡馆，楼上则是住宅。这座名为Estero的综合体项目旨在反映巴哈加利福尼亚地区的“慢节奏”生活方式。此项目不仅为当地居民提供了社交空间，还增强了社区的凝聚力，可能会吸引更多游客和居民前来体验这种独特的生活方式。",
+          "analysis_en": "Dutch design studio Barde vanVoltt has completed a new building in San José del Cabo, Mexico, featuring a community cafe at street level and residences above. This mixed-use project, named Estero, aims to reflect the \"slower rhythm\" of life in Baja California. By providing a social space for locals, it enhances community cohesion and may attract more visitors and residents to experience this unique lifestyle."
+        },
+        {
+          "rank": 7,
+          "title": "Letting Her Art (and Birds) Do the Talking",
+          "link": "https://www.nytimes.com/2026/05/23/arts/design/yiadom-boakye-shainman-art.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-05-23 16:51 UTC",
+          "analysis_zh": "林内特·雅伊多姆-博阿基（Lynette Yiadom-Boakye）选择在艺术创作中保持低调，但她的新画作、素描和文字却传达了丰富的情感和思想。这位艺术家的作品以其独特的美学和深刻的主题引起了广泛关注。她的艺术不仅展示了个人的内心世界，也反映了更广泛的社会和文化议题。这种艺术表达方式可能会激发观众对身份和存在的深思。",
+          "analysis_en": "Lynette Yiadom-Boakye prefers to stay out of the spotlight, yet her new paintings, drawings, and writings convey a wealth of emotion and thought. The artist's work has garnered significant attention for its unique aesthetics and profound themes. Her art not only showcases her personal inner world but also reflects broader social and cultural issues. This mode of artistic expression may inspire viewers to reflect deeply on identity and existence."
+        },
+        {
+          "rank": 8,
           "title": "Atelier Backlar wraps Portuguese clifftop house in recycled ocean plastic",
           "link": "https://www.dezeen.com/2026/05/23/atelier-backlar-blue-house-azores-portugal-recycled-ocean-plastic/",
           "source": "Dezeen",
           "published_utc": "2026-05-23 10:00 UTC",
-          "analysis_zh": "葡萄牙建筑工作室Atelier Backlar在亚速尔群岛的圣米格尔岛上，利用回收的海洋塑料和当地木材，设计了名为“蓝色之家”的建筑。这座房屋坐落在悬崖顶上，俯瞰着传统的捕鲸湾Capelas。此项目不仅展示了可持续建筑的可能性，还将历史遗迹与现代设计相结合，强调了环保和创新的重要性。这样的设计可能会激励更多建筑师在未来的项目中考虑使用可再生材料和保护环境。",
-          "analysis_en": "Portuguese architecture studio Atelier Backlar has designed a building called \"The Blue House\" on São Miguel Island in the Azores, using recycled ocean plastic and locally sourced timber. The house is situated on a clifftop overlooking the traditional whaling bay of Capelas. This project not only showcases the potential of sustainable architecture but also combines historical elements with modern design, highlighting the importance of environmental protection and innovation. Such designs may inspire more architects to consider using renewable materials and prioritizing environmental conservation in future projects."
+          "analysis_zh": "葡萄牙建筑工作室Atelier Backlar在亚速尔群岛的圣米格尔岛上，利用回收的海洋塑料和当地木材建造了名为“蓝屋”的房子。这座房子坐落在悬崖顶上，俯瞰着传统的捕鲸港湾Capelas。该项目结合了旧与新的设计元素，体现了可持续建筑的理念。这一创新的建筑方式不仅有助于保护环境，还可能激励其他建筑师在设计中更多地考虑使用可再生材料。",
+          "analysis_en": "Portuguese architecture studio Atelier Backlar has created a house called \"The Blue House\" on São Miguel Island in the Azores, using recycled ocean plastic and locally sourced timber. The house is situated on a clifftop overlooking the traditional whaling bay of Capelas. This project combines old and new design elements, showcasing the concept of sustainable architecture. This innovative approach not only helps protect the environment but may also inspire other architects to consider using renewable materials in their designs."
         },
         {
-          "rank": 3,
+          "rank": 9,
           "title": "In ‘Ask E. Jean,’ a Trump Adversary Examines Her Decision to Speak Out",
           "link": "https://www.nytimes.com/2026/05/22/movies/ask-e-jean-carroll-trump-documentary.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-23 09:20 UTC",
-          "analysis_zh": "E. Jean Carroll在与特朗普的法律斗争中赢得了两场胜诉，但她花了几十年才决定公开发声。这部电影深入探讨了她犹豫不决的原因，揭示了许多女性在面对权力时的复杂心理。这一事件不仅关乎个人的勇气，也反映了社会对性别不平等和权力滥用的广泛关注。通过她的故事，观众能够更好地理解那些选择沉默的女性所面临的挑战。",
-          "analysis_en": "E. Jean Carroll won two court cases against Donald Trump, but it took her decades to decide to speak out. The film explores the reasons behind her hesitation, shedding light on the complex psychology many women face when confronting power. This event is significant not only for its personal courage but also for its reflection of broader societal concerns regarding gender inequality and abuse of power. Through her story, viewers gain a deeper understanding of the challenges faced by women who choose to remain silent."
+          "analysis_zh": "E. Jean Carroll在与特朗普的法律斗争中取得了两次胜利，但她花了几十年才决定站出来发声。她的犹豫反映了许多女性在面对权力时的复杂心理和社会压力。这部电影深入探讨了她的经历，揭示了她为何选择在如此长时间后才公开自己的故事。这不仅是个人的勇气，也是对社会不公的有力回应，可能会激励更多人勇敢发声，推动社会对性别不平等问题的关注。",
+          "analysis_en": "E. Jean Carroll won two legal battles against Trump, but it took her decades to come forward with her story. Her hesitation reflects the complex psychology and societal pressures many women face when confronting power. The film delves into her experiences, revealing why she chose to speak out after such a long time. This is not just a personal act of courage; it serves as a powerful response to social injustice and may inspire others to speak up, increasing awareness of gender inequality issues."
         },
         {
-          "rank": 4,
+          "rank": 10,
           "title": "As Draco Malfoy on Broadway, Tom Felton Draws a Crowd",
           "link": "https://www.nytimes.com/2026/05/23/arts/harry-potter-cursed-child-stage-door.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-23 09:02 UTC",
-          "analysis_zh": "汤姆·费尔顿在百老汇的《哈利·波特与被诅咒的孩子》中复活了成年德拉科·马尔福，吸引了众多粉丝前来观看。粉丝们不惜千里迢迢，只为一睹这位演员的风采并与他互动。这一现象不仅反映了《哈利·波特》系列的持久魅力，也显示了费尔顿在角色塑造上的成功。这样的热情可能会进一步推动百老汇的票房，吸引更多观众关注这一经典作品。",
-          "analysis_en": "Tom Felton's portrayal of an adult Draco Malfoy in Broadway's \"Harry Potter and The Cursed Child\" has drawn large crowds of fans eager to see him perform. Many fans are traveling significant distances for the opportunity to meet the actor and engage with him. This phenomenon highlights the enduring appeal of the \"Harry Potter\" series and showcases Felton's successful embodiment of the character. Such enthusiasm may further boost Broadway ticket sales and attract more audiences to this classic production."
-        },
-        {
-          "rank": 5,
-          "title": "Shooting Stars at the amfAR Cannes Gala",
-          "link": "https://www.nytimes.com/2026/05/23/movies/amfar-cannes-gala-photographs.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-05-23 09:02 UTC",
-          "analysis_zh": "在法国安提布举行的amfAR戛纳晚会上，众多嘉宾聚集一堂，欣赏艺术与时尚的结合，同时为艾滋病研究筹集资金。这一活动不仅展示了明星们的风采，也强调了对艾滋病研究的支持和关注。通过这样的盛会，公众对艾滋病问题的认识得以提升，可能会激励更多人参与相关的慈善活动。",
-          "analysis_en": "At the amfAR Cannes Gala in Antibes, France, numerous guests gathered to appreciate the blend of art and fashion while raising funds for AIDS research. This event not only showcased the glamour of celebrities but also highlighted the importance of supporting and addressing AIDS-related issues. Such gatherings can enhance public awareness of the AIDS crisis and may encourage more individuals to engage in charitable efforts related to this cause."
-        },
-        {
-          "rank": 6,
-          "title": "Which Cannes Films Could Become Oscar Contenders?",
-          "link": "https://www.nytimes.com/2026/05/23/movies/cannes-film-festival-oscar-contenders.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-05-23 09:02 UTC",
-          "analysis_zh": "在戛纳电影节上，美国影片《俱乐部小子》和西班牙影片《黑球》被认为是最有可能吸引奥斯卡评委的作品。这些电影的表现引起了广泛关注，尤其是斯嘉丽·约翰逊和哈维尔·巴登的出色演出。戛纳电影节是全球最重要的电影盛会之一，其获奖作品往往会影响奥斯卡的提名和评选，可能改变观众对这些影片的期待和评价。",
-          "analysis_en": "At the Cannes Film Festival, the American film \"Club Kid\" and the Spanish film \"Black Ball\" are seen as strong contenders for impressing Oscar voters. These films have garnered significant attention, particularly for the standout performances by Scarlett Johansson and Javier Bardem. As one of the most prestigious film festivals in the world, Cannes often influences Oscar nominations and selections, potentially shaping audience expectations and perceptions of these films."
-        },
-        {
-          "rank": 7,
-          "title": "John Marion, the ‘God of Auctioneers in America,’ Dies at 92",
-          "link": "https://www.nytimes.com/2026/05/23/arts/john-marion-dead.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-05-23 09:02 UTC",
-          "analysis_zh": "约翰·马里昂，这位被誉为“美国拍卖师之神”的人物，于92岁时去世。他在三十年的时间里，成为了苏富比拍卖行的代言人，见证了艺术从热情的对象转变为商品的时代。这一变化不仅影响了艺术市场的运作模式，也改变了人们对艺术价值的理解。马里昂的去世标志着一个时代的结束，可能会对未来的拍卖行业产生深远的影响。",
-          "analysis_en": "John Marion, known as the \"God of Auctioneers in America,\" has passed away at the age of 92. For three decades, he was the face of Sotheby's, overseeing a transformation in which art shifted from being a passion to a commodity. This change not only impacted the operations of the art market but also altered people's perceptions of artistic value. Marion's death signifies the end of an era and may have profound implications for the future of the auction industry."
-        },
-        {
-          "rank": 8,
-          "title": "Olivia Rodrigo, Vince Staples: 8 Songs We’re Talking About This Week",
-          "link": "https://www.nytimes.com/2026/05/23/arts/music/olivia-rodrigo-charli-xcx-songs.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-05-23 09:01 UTC",
-          "analysis_zh": "本周，流行音乐界引起热议的歌曲包括Olivia Rodrigo的交响乐风格作品、Charli XCX的时尚危机以及Vince Staples的挫败感唱跳结合。这些作品不仅展示了艺术家的多样性和创新能力，也反映了当代年轻人面临的情感和社会挑战。特别是Olivia Rodrigo的音乐，深刻表达了青春期的焦虑与挣扎，可能会引发更多关于青少年心理健康的讨论。",
-          "analysis_en": "This week, notable songs in the pop music scene include Olivia Rodrigo's orchestral piece, Charli XCX's fashion crisis, and Vince Staples's frustrated blend of singing and rapping. These works not only showcase the diversity and creativity of the artists but also reflect the emotional and social challenges faced by contemporary youth. In particular, Olivia Rodrigo's music profoundly expresses the anxieties and struggles of adolescence, which may spark further discussions about mental health among teenagers."
-        },
-        {
-          "rank": 9,
-          "title": "Seven sensitive interventions to ancient structures and historic ruins",
-          "link": "https://www.dezeen.com/2026/05/23/interventions-ancient-structures-ruins-roundup/",
-          "source": "Dezeen",
-          "published_utc": "2026-05-23 09:00 UTC",
-          "analysis_zh": "近日，设计师们对全球多个历史遗址进行了敏感的干预设计，包括罗马的斗兽场、英国的一座城堡遗址以及冰岛的维京考古遗址。这些干预不仅提升了古老建筑的功能性，还尊重了其历史和文化价值。此类设计的重要性在于，它们能够在保护遗产的同时，吸引更多游客，促进当地经济的发展。未来，这些成功的案例可能会激励更多的历史遗址进行类似的改造与保护。",
-          "analysis_en": "Recently, designers have implemented sensitive interventions at various historic sites around the world, including the Colosseum in Rome, a castle ruin in England, and a Viking archaeological site in Iceland. These interventions not only enhance the functionality of ancient structures but also respect their historical and cultural significance. The importance of such designs lies in their ability to protect heritage while attracting more visitors, thus boosting local economies. In the future, these successful examples may inspire similar renovations and conservation efforts at more historic sites."
-        },
-        {
-          "rank": 10,
-          "title": "a sculptural side table inspired by handwritten love letters and the letter M",
-          "link": "https://www.designboom.com/design/sculptural-side-table-handwritten-love-letters-letter-m-maja-stamenkovic/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-05-23 08:30 UTC",
-          "analysis_zh": "一款灵感来源于手写情书和字母“M”的雕塑侧桌近日亮相。这款家具通过几何构图重新诠释了信封的形态，形成了一个三维的艺术作品。这一设计不仅展示了创意与实用性的结合，还可能影响未来家具设计的趋势，鼓励更多设计师探索情感与功能之间的平衡。",
-          "analysis_en": "A sculptural side table inspired by handwritten love letters and the letter \"M\" has recently been unveiled. This piece of furniture reinterprets the form of an envelope through a geometric composition, creating a three-dimensional work of art. This design not only showcases the blend of creativity and functionality but may also influence future furniture design trends, encouraging more designers to explore the balance between emotion and utility."
+          "analysis_zh": "汤姆·费尔顿在百老汇复活了成年德拉科·马尔福，吸引了众多粉丝前来观看和见面。这一现象不仅反映了《哈利·波特》系列的持久魅力，也显示了费尔顿作为演员的影响力。粉丝们愿意长途跋涉，只为一睹偶像风采，这可能会进一步推动百老汇的票房和相关商品的销售。",
+          "analysis_en": "Tom Felton's portrayal of an adult Draco Malfoy on Broadway has drawn a large crowd of fans eager to meet him. This phenomenon highlights the enduring appeal of the Harry Potter series and showcases Felton's influence as an actor. Fans are willing to travel great distances just to catch a glimpse of their idol, which could further boost Broadway ticket sales and merchandise related to the show."
         }
       ]
     }
