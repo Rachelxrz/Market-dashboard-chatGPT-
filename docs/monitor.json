@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23 22:30:11 UTC",
-  "run_mode": "close",
+  "generated_at": "2026-05-24 14:42:05 UTC",
+  "run_mode": "morning",
   "regime": "Neutral / Defensive",
   "risk_score": 3,
   "internal_score": 10,
@@ -639,8 +639,8 @@
     }
   },
   "actions": {
-    "one_liner_zh": "当前结构为 Neutral / Defensive，风险等级 3/4；VIX 16.70，MOVE 78.43，QQQ +0.89%，GLD -4.60%，VLCC 3天 -1.25%。 当前为收盘版。",
-    "one_liner_en": "The current regime is Neutral / Defensive with a risk score of 3/4; VIX 16.70, MOVE 78.43, QQQ +0.89%, GLD -4.60%, VLCC 3d -1.25%. Current mode: Close Edition.",
+    "one_liner_zh": "当前结构为 Neutral / Defensive，风险等级 3/4；VIX 16.70，MOVE 78.43，QQQ +0.89%，GLD -4.60%，VLCC 3天 -1.25%。 当前为早间版。",
+    "one_liner_en": "The current regime is Neutral / Defensive with a risk score of 3/4; VIX 16.70, MOVE 78.43, QQQ +0.89%, GLD -4.60%, VLCC 3d -1.25%. Current mode: Morning Edition.",
     "core_zh": "核心仓仍以稳定为主，但要降低进攻性，优先保留确定性更高的资产。",
     "core_en": "Core positions should remain stability-focused, with reduced aggressiveness and priority given to more certain assets.",
     "trend_zh": "趋势仓应缩小战线，避免在结构不明时追逐短线弹性。",
