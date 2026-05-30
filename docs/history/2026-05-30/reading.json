@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-30 15:14:40 UTC",
-  "generated_at_unix": 1780154080,
+  "generated_at": "2026-05-30 21:35:58 UTC",
+  "generated_at_unix": 1780176958,
   "window": {
-    "from_utc": "2026-05-29 15:14:40 UTC",
-    "to_utc": "2026-05-30 15:14:40 UTC",
+    "from_utc": "2026-05-29 21:35:58 UTC",
+    "to_utc": "2026-05-30 21:35:58 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,144 +14,135 @@
       "items": [
         {
           "rank": 1,
-          "title": "My husband took out a $100,000 Parent PLUS loan for his daughter. She dropped out, citing mental-health issues. Should we refinance?",
-          "link": "https://www.marketwatch.com/story/my-husband-took-out-a-100-000-parent-plus-loan-for-his-daughter-she-dropped-out-should-we-refinance-bea7dc6e?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-05-30 15:10 UTC",
-          "analysis_zh": "一名父亲为女儿申请了一笔10万美元的Parent PLUS贷款，但女儿因心理健康问题退学。这个事件引发了对教育贷款偿还能力的担忧，尤其是在学生因健康原因无法完成学业的情况下。此事不仅影响了家庭的经济状况，也可能引发更广泛的讨论，关于教育贷款政策和心理健康支持的必要性。",
-          "analysis_en": "A father took out a $100,000 Parent PLUS loan for his daughter, who later dropped out due to mental health issues. This situation raises concerns about the ability to repay educational loans, especially when students cannot complete their studies for health-related reasons. It not only affects the family's financial situation but may also spark broader discussions about the need for educational loan policies and mental health support."
+          "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+          "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4717785",
+          "source": "Stock Market News",
+          "published_utc": "2026-05-30 21:20 UTC",
+          "analysis_zh": "俄罗斯股市在交易结束时出现下跌，MOEX俄罗斯指数保持不变。这一现象反映了市场对经济前景的不确定性，投资者对未来的信心受到影响。尽管指数没有大幅波动，但股市的疲软可能会影响外国投资者的信心，进而影响俄罗斯的经济增长。",
+          "analysis_en": "Russian stocks closed lower, while the MOEX Russia Index remained unchanged. This situation reflects uncertainty in the market regarding the economic outlook, which has affected investor confidence. Although the index did not experience significant fluctuations, the weakness in the stock market could impact foreign investor sentiment and, consequently, Russia's economic growth."
         },
         {
           "rank": 2,
-          "title": "The Vanguard ETF Investors Overlook Because It Sounds Boring, But Actually Isn't",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/vanguard-etf-investors-overlook-because-150400380.html",
+          "title": "QQQ’s Hidden Risk: Why the Fund’s Top 5 Holdings Move Together",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/qqq-hidden-risk-why-fund-211826854.html",
           "source": "Yahoo Finance",
-          "published_utc": "2026-05-30 15:04 UTC",
-          "analysis_zh": "最近，投资者们开始关注一个被认为乏味的先锋ETF，然而实际上它的表现却相当出色。这只ETF的投资组合多样化，能够有效分散风险，吸引了越来越多的投资者。它的重要性在于，尽管其名称可能不够吸引眼球，但其潜在的收益和稳定性可能会改变投资者的看法，促使他们重新考虑投资策略。",
-          "analysis_en": "Recently, investors have started to pay attention to a Vanguard ETF that is often considered boring, yet it has shown impressive performance. This ETF features a diversified portfolio that effectively mitigates risks, attracting more and more investors. Its significance lies in the fact that, despite its unexciting name, its potential returns and stability could change investors' perceptions and encourage them to rethink their investment strategies."
+          "published_utc": "2026-05-30 21:18 UTC",
+          "analysis_zh": "最近的分析显示，QQQ基金的前五大持股之间存在隐性风险，这些股票的价格往往会一起波动。这一现象引发了投资者的关注，因为如果这些主要股票同时下跌，可能会对整个基金的表现产生重大影响。这种风险的存在提醒投资者在选择投资组合时要更加谨慎，尤其是在市场波动加剧的情况下。",
+          "analysis_en": "Recent analyses have revealed a hidden risk in the QQQ fund, where the top five holdings tend to move in tandem. This phenomenon has raised concerns among investors, as a simultaneous decline in these major stocks could significantly impact the overall performance of the fund. The existence of this risk serves as a reminder for investors to be more cautious when selecting their portfolios, especially during periods of heightened market volatility."
         },
         {
           "rank": 3,
-          "title": "The $200,000 Social Security Mistake Couples Make at 64 Without Realizing It",
-          "link": "https://finance.yahoo.com/markets/options/articles/200-000-social-security-mistake-150026892.html",
+          "title": "What to Know About This New $83 Million Virtu Financial Position",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/know-83-million-virtu-financial-211127676.html",
           "source": "Yahoo Finance",
-          "published_utc": "2026-05-30 15:00 UTC",
-          "analysis_zh": "一项新的研究指出，许多夫妇在64岁时可能会犯一个价值20万美元的社会保障错误。这一错误主要源于对社会保障领取时间的误解，可能导致他们在退休后获得的福利大幅减少。了解这一点非常重要，因为这不仅影响到他们的财务安全，还可能对他们的生活质量产生深远的影响。通过提前规划和正确选择领取时间，夫妇们可以避免这一损失，确保在退休后拥有更稳定的经济支持。",
-          "analysis_en": "A recent study highlights that many couples may make a $200,000 Social Security mistake at age 64. This error primarily arises from misunderstandings about when to claim Social Security benefits, potentially leading to significantly reduced payouts in retirement. Understanding this issue is crucial, as it not only affects their financial security but can also have a profound impact on their quality of life. By planning ahead and making informed decisions about when to claim, couples can avoid this loss and ensure more stable economic support in retirement."
+          "published_utc": "2026-05-30 21:11 UTC",
+          "analysis_zh": "Virtu Financial 最近宣布了一项新的8300万美元的投资，这一举措引起了市场的广泛关注。这笔资金将用于增强公司的技术平台和交易能力，进一步巩固其在金融科技领域的领导地位。这项投资不仅表明了公司对未来增长的信心，也可能会对整个行业的竞争格局产生深远影响，促使其他公司加大技术投入以保持竞争力。",
+          "analysis_en": "Virtu Financial recently announced a new investment of $83 million, which has garnered significant attention in the market. This funding will be used to enhance the company's technology platform and trading capabilities, further solidifying its leadership position in the fintech sector. This investment not only reflects the company's confidence in future growth but may also have a profound impact on the competitive landscape of the industry, prompting other firms to increase their technological investments to remain competitive."
         },
         {
           "rank": 4,
-          "title": "The number of 401(k) millionaires just fell — but workers hit record savings rates. What’s going on?",
-          "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-just-fell-but-workers-hit-record-savings-rates-whats-going-on-8fab657b?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-05-30 15:00 UTC",
-          "analysis_zh": "根据富达第一季度的数据，401(k)账户的余额出现下降，这一现象引发了人们的关注。然而，值得注意的是，工人的储蓄率却创下了新高。这表明尽管账户余额减少，员工们在储蓄方面的努力并没有减弱。此情况可能影响到未来的退休规划和投资策略，尤其是在经济波动的背景下。",
-          "analysis_en": "According to Fidelity's first-quarter data, 401(k) balances have declined, raising concerns among investors. However, it's important to note that workers have achieved record savings rates during this time. This indicates that despite the drop in account balances, employees are still committed to saving for their future. This situation could potentially impact retirement planning and investment strategies, especially in the context of economic fluctuations."
+          "title": "Cathie Wood buys $6.5 million of megacap tech stock",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-6-5-211003324.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-05-30 21:10 UTC",
+          "analysis_zh": "著名投资者凯西·伍德最近以650万美元的价格购买了大型科技股。这一举动引起了市场的广泛关注，因为伍德的投资策略通常被视为对未来科技趋势的指引。她的投资可能会影响其他投资者的决策，尤其是在当前经济环境下，科技股的表现备受关注。这笔交易不仅反映了伍德对科技行业的信心，也可能推动相关股票的价格上涨。",
+          "analysis_en": "Renowned investor Cathie Wood recently purchased $6.5 million worth of megacap tech stocks. This move has garnered significant attention in the market, as Wood's investment strategies are often seen as indicators of future tech trends. Her investment could influence the decisions of other investors, especially given the current economic climate where tech stock performance is under scrutiny. This transaction not only reflects Wood's confidence in the tech sector but may also drive up the prices of the related stocks."
         },
         {
           "rank": 5,
-          "title": "The stock index you invest in isn’t always the most important decision. Here’s what matters even more.",
-          "link": "https://www.marketwatch.com/story/investing-in-the-dow-or-s-p-500-doesnt-matter-heres-what-actually-does-757aa571?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-05-30 14:58 UTC",
-          "analysis_zh": "在股市投资中，选择哪个指数并不是最重要的决策。根据道琼斯指数130年的历史，投资者在市场中的时间更为关键。这一发现强调了长期投资的重要性，可能会改变投资者的策略，使他们更加注重持有时间而非短期波动。了解这一点有助于投资者在面对市场波动时保持冷静，从而实现更好的投资回报。",
-          "analysis_en": "In stock market investing, the choice of which index to invest in is not the most crucial decision. According to the 130-year history of the Dow Jones, the time spent in the market is far more important. This finding highlights the significance of long-term investing, which may lead investors to adjust their strategies to focus more on holding periods rather than short-term fluctuations. Understanding this can help investors remain calm during market volatility, ultimately leading to better investment returns."
+          "title": "Nio's Battery Swap Network Just Delivered 16% of All EV Energy in China in 5 Days. Is the Market Sleeping on This?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/nios-battery-swap-network-just-210500362.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-05-30 21:05 UTC",
+          "analysis_zh": "蔚来汽车的电池更换网络在短短五天内提供了中国所有电动汽车能源的16%。这一成就表明，蔚来在电池更换技术方面的领先地位可能会对电动汽车市场产生深远影响。随着电动汽车的普及，电池更换网络的效率和便利性将成为消费者选择品牌的重要因素。此举不仅提升了蔚来的市场竞争力，也可能推动其他汽车制造商加速布局电池更换基础设施。",
+          "analysis_en": "Nio's battery swap network has delivered 16% of all electric vehicle energy in China within just five days. This achievement highlights Nio's leading position in battery swapping technology, which could have significant implications for the electric vehicle market. As electric vehicles become more popular, the efficiency and convenience of battery swapping will be crucial factors for consumers when choosing a brand. This development not only enhances Nio's competitive edge but may also encourage other automakers to accelerate their investments in battery swapping infrastructure."
         },
         {
           "rank": 6,
-          "title": "67 million kids haven’t signed up for ‘Trump accounts.’ Here’s what they could be missing out on.",
-          "link": "https://www.marketwatch.com/story/67-million-kids-havent-signed-up-for-trump-accounts-heres-what-they-could-be-missing-out-on-ea56dff9?mod=mw_rss_topstories",
+          "title": "‘It is such a fine line’: I am a CFP and see nothing wrong with networking on the golf course. Am I wrong?",
+          "link": "https://www.marketwatch.com/story/it-is-such-a-fine-line-i-am-a-cfp-and-see-nothing-wrong-with-networking-on-the-golf-course-am-i-wrong-50a698e8?mod=mw_rss_topstories",
           "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-05-30 14:54 UTC",
-          "analysis_zh": "最近，美国有近600万儿童注册了“特朗普账户”，但仍有6700万儿童尚未参与。这一现象引发了广泛关注，因为未注册的儿童可能错失了获得免费资金的机会。这不仅影响到家庭的经济状况，也可能加剧社会不平等。若更多家庭意识到这一点，可能会促使他们积极参与，从而改善儿童的未来发展。",
-          "analysis_en": "Recently, nearly 6 million American children have signed up for \"Trump accounts,\" but there are still 67 million children who have not participated. This situation has raised significant concern, as unregistered children may be missing out on free money. This could not only affect the financial well-being of families but also exacerbate social inequalities. If more families become aware of this opportunity, it could encourage them to engage, potentially improving the future prospects for their children."
+          "published_utc": "2026-05-30 20:58 UTC",
+          "analysis_zh": "一名注册财务规划师在高尔夫球场上建立人际关系的做法引发了讨论。他认为在休闲场合中进行网络交流是合理的，这种观点在行业内并不罕见。这一现象反映了金融行业中人脉关系的重要性，尤其是在建立信任和合作方面。这样的做法可能会影响客户的选择和行业的竞争格局。",
+          "analysis_en": "A certified financial planner's approach to networking on the golf course has sparked a discussion. He believes that developing professional relationships in a casual setting is acceptable, a view not uncommon in the industry. This phenomenon highlights the significance of personal connections in finance, particularly in building trust and collaboration. Such practices may influence client choices and the competitive landscape within the industry."
         },
         {
           "rank": 7,
-          "title": "Will Verisk's Valuable Data Moat Hold, or Will AI Commoditize It?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/verisks-valuable-data-moat-hold-145000548.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-05-30 14:50 UTC",
-          "analysis_zh": "Verisk公司面临着一个重要的挑战，即其宝贵的数据护城河是否能够抵御人工智能的冲击。随着AI技术的快速发展，数据的获取和处理变得更加普遍，可能导致Verisk的独特数据优势被稀释。这一变化不仅影响Verisk的市场地位，也可能对整个行业的数据价值产生深远影响，促使公司重新审视其商业模式和竞争策略。",
-          "analysis_en": "Verisk is facing a significant challenge regarding whether its valuable data moat can withstand the impact of artificial intelligence. As AI technology rapidly evolves, the accessibility and processing of data have become more widespread, potentially diluting Verisk's unique data advantage. This shift not only affects Verisk's market position but may also have far-reaching implications for the data value across the industry, prompting companies to reassess their business models and competitive strategies."
+          "title": "‘I have no preexisting conditions’: I’m 56, earn $198,000 and want to retire early. Can I afford private healthcare?",
+          "link": "https://www.marketwatch.com/story/i-have-no-preexisting-conditions-im-56-earn-198-000-and-want-to-retire-early-can-i-afford-private-healthcare-e80cdd26?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-05-30 20:55 UTC",
+          "analysis_zh": "一名56岁的高收入者希望提前退休，并正在考虑私人医疗保险的可行性。他的年收入为198,000美元，且没有任何既往病史。这一问题引发了关于财务独立和提前退休（FIRE）运动的讨论。随着越来越多的人追求更早的退休生活，私人医疗保险的成本和可得性将成为影响他们决策的重要因素。",
+          "analysis_en": "A 56-year-old high earner is contemplating early retirement and the feasibility of private healthcare. With an annual income of $198,000 and no preexisting conditions, he is questioning whether pursuing Financial Independence, Retire Early (FIRE) is worthwhile. This inquiry highlights the growing trend of individuals seeking earlier retirement, where the costs and accessibility of private healthcare will play a crucial role in their decision-making process."
         },
         {
           "rank": 8,
-          "title": "This mutual fund lets you buy SpaceX stock before the IPO — but what are you actually getting?",
-          "link": "https://www.marketwatch.com/story/this-mutual-fund-lets-you-buy-spacex-stock-before-the-ipo-but-what-are-you-actually-getting-907b96d1?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-05-30 14:50 UTC",
-          "analysis_zh": "一只共同基金允许投资者在SpaceX首次公开募股（IPO）之前购买其股票，这引发了广泛关注。SpaceX的雄心壮志和市场热度将推动IPO期间对其股票的短期需求。这一现象不仅影响了投资者的决策，也可能改变市场对太空产业的整体看法。随着越来越多的投资者参与，SpaceX的成功与否将对未来太空投资的信心产生深远影响。",
-          "analysis_en": "A mutual fund is allowing investors to buy SpaceX stock before its initial public offering (IPO), which has generated significant interest. The ambitious goals of SpaceX and the hype surrounding it are likely to drive short-term demand for its shares during the IPO. This situation not only affects investors' decisions but may also shift the overall market perception of the space industry. As more investors get involved, the success or failure of SpaceX could have a profound impact on future confidence in space investments."
+          "title": "SoftBank to invest up to €75 bln in French AI data centers",
+          "link": "https://www.investing.com/news/stock-market-news/softbank-to-invest-up-to-75-bln-in-french-ai-data-centers-4717783",
+          "source": "Stock Market News",
+          "published_utc": "2026-05-30 20:42 UTC",
+          "analysis_zh": "软银宣布将投资高达750亿欧元于法国的人工智能数据中心。这一举措不仅显示了软银对人工智能领域的信心，也反映出法国在全球科技产业中的重要地位。此项投资可能会推动当地经济发展，并吸引更多科技公司在法国设立基地，从而进一步促进创新和就业机会。",
+          "analysis_en": "SoftBank has announced plans to invest up to €75 billion in artificial intelligence data centers in France. This move not only demonstrates SoftBank's confidence in the AI sector but also highlights France's significant position in the global tech industry. The investment could stimulate local economic growth and attract more tech companies to establish a presence in France, thereby fostering innovation and job opportunities."
         },
         {
           "rank": 9,
-          "title": "History Says the S&P 500’s 9-Week Rally Is Rare. It May Be Even Rarer Than You Think",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-p-500-9-144854257.html",
+          "title": "Galaxy Digital (GLXY): Leopold Aschenbrenner Is Bearish on This Stock",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/galaxy-digital-glxy-leopold-aschenbrenner-195727813.html",
           "source": "Yahoo Finance",
-          "published_utc": "2026-05-30 14:48 UTC",
-          "analysis_zh": "标准普尔500指数最近经历了为期九周的罕见上涨，这一现象在历史上并不常见。这样的持续上涨不仅反映了市场的强劲表现，也可能预示着未来经济走势的变化。投资者对此应保持关注，因为这可能影响他们的投资决策和市场信心。此外，若这种趋势持续，可能会引发更广泛的经济活动和消费增长。",
-          "analysis_en": "The S&P 500 has recently experienced a rare nine-week rally, a phenomenon that is not commonly seen in history. This sustained increase not only reflects strong market performance but may also indicate shifts in future economic trends. Investors should pay close attention to this, as it could influence their investment decisions and market confidence. Furthermore, if this trend continues, it may lead to broader economic activity and increased consumer spending."
+          "published_utc": "2026-05-30 19:57 UTC",
+          "analysis_zh": "Galaxy Digital的分析师Leopold Aschenbrenner对该公司的股票持悲观态度。他认为，当前市场环境对Galaxy Digital的未来表现构成挑战，尤其是在加密货币市场波动加剧的背景下。这一观点可能会影响投资者的信心，导致该股票的交易量下降。此外，市场对加密资产的整体情绪也可能受到此分析师观点的影响，进而影响其他相关公司的股价。",
+          "analysis_en": "Analyst Leopold Aschenbrenner from Galaxy Digital has expressed a bearish outlook on the company's stock. He believes that the current market conditions pose challenges for Galaxy Digital's future performance, particularly amid increased volatility in the cryptocurrency market. This perspective may affect investor confidence, potentially leading to a decline in trading volume for the stock. Additionally, the overall sentiment towards crypto assets could be influenced by this analyst's viewpoint, which may, in turn, impact the stock prices of other related companies."
         },
         {
           "rank": 10,
-          "title": "Even the Ronald Reagan Institute doesn’t believe the ‘waste, fraud and abuse’ baloney",
-          "link": "https://www.marketwatch.com/story/even-the-ronald-reagan-institute-doesnt-believe-the-waste-fraud-and-abuse-baloney-629a6447?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-05-30 14:47 UTC",
-          "analysis_zh": "即使是罗纳德·里根研究所也不再相信“浪费、欺诈和滥用”的说法。这一问题可能是当今美国民主面临的最重要挑战之一。随着公众对政府透明度和问责制的要求不断上升，这一话题的讨论将影响未来政策的制定和公众信任的恢复。",
-          "analysis_en": "Even the Ronald Reagan Institute no longer believes in the rhetoric of \"waste, fraud, and abuse.\" This issue may be one of the most significant challenges facing U.S. democracy today. As public demands for government transparency and accountability grow, discussions around this topic will likely influence future policy-making and the restoration of public trust."
+          "title": "Liberty Energy Inc. (LBRT): Leopold Aschenbrenner Sells Position",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/liberty-energy-inc-lbrt-leopold-195548949.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-05-30 19:55 UTC",
+          "analysis_zh": "Liberty Energy Inc.的Leopold Aschenbrenner近期出售了其在公司的股份。这一举动引发了市场的关注，因为大股东的减持可能会影响投资者对公司未来发展的信心。此事件可能导致股价波动，并引发其他投资者对该公司的重新评估，尤其是在能源行业面临不确定性的大背景下。",
+          "analysis_en": "Leopold Aschenbrenner recently sold his stake in Liberty Energy Inc., which has drawn attention in the market. This move is significant because the reduction of shares by a major shareholder can impact investor confidence in the company's future prospects. The event may lead to stock price fluctuations and prompt other investors to reassess their positions in the company, especially given the uncertainties facing the energy sector."
         }
       ]
     },
     "健康": {
       "description": "医学、营养、抗衰老、代谢与公共健康",
-      "count": 5,
+      "count": 4,
       "items": [
         {
           "rank": 1,
+          "title": "China’s Rise in Drug Development Looms Over U.S.",
+          "link": "https://www.nytimes.com/2026/05/30/business/china-lung-cancer-drugs-asco.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-05-30 15:21 UTC",
+          "analysis_zh": "在芝加哥举行的国际肿瘤大会上，中国的临床试验引起了广泛关注。随着中国生物技术行业的迅猛发展，许多人开始担心美国在这一领域的主导地位正在减弱。这一变化不仅可能影响全球药物开发的格局，还可能对国际合作与竞争产生深远的影响。",
+          "analysis_en": "At an international oncology gathering in Chicago, China's clinical trials have garnered significant attention. The rapid growth of China's biotechnology industry has raised concerns that the U.S. is losing its dominance in this field. This shift could not only alter the landscape of global drug development but also have profound implications for international collaboration and competition."
+        },
+        {
+          "rank": 2,
           "title": "Repairing DNA damage: Scientists discover a surprising new benefit of melatonin",
           "link": "https://www.sciencedaily.com/releases/2026/05/260530004618.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-30 09:11 UTC",
-          "analysis_zh": "一项新的研究表明，褪黑激素补充剂可能有助于夜班工人增强身体的DNA修复过程，从而抵消与夜间工作相关的一些损伤。这项研究的结果虽然初步，但为减少夜班工作者长期健康风险提供了一种简单的策略。夜班工作对身体的生物钟、睡眠模式和激素信号产生影响，因此，了解褪黑激素的潜在益处具有重要意义。未来需要进行更大规模的研究，以确认褪黑激素作为减少癌症风险的长期策略的有效性。",
-          "analysis_en": "A new study suggests that melatonin supplements may help night shift workers enhance their body's DNA repair processes, potentially offsetting some of the damage associated with overnight work. While the findings are preliminary, they offer a straightforward strategy for reducing long-term health risks faced by night shift workers. Night shift work disrupts the body's internal clock, sleep patterns, and hormone signaling, making the potential benefits of melatonin particularly significant. Larger studies will be necessary to confirm the effectiveness of melatonin as a long-term strategy for reducing cancer risk."
+          "analysis_zh": "一项新的研究表明，褪黑激素补充剂可能有助于夜班工人增强身体的DNA修复过程，从而抵消与夜间工作相关的一些损害。这项研究的结果虽然仍处于初步阶段，但为夜班工作者提供了一种简单的策略，以降低与长期夜班工作相关的健康风险。夜班工作对身体的内在时钟、睡眠模式和激素信号产生影响，因此，进一步的研究将有助于确认褪黑激素在减少癌症风险方面的潜力。",
+          "analysis_en": "A new study suggests that melatonin supplements may help night shift workers enhance their body's DNA repair processes, potentially offsetting some of the damage associated with overnight work. Although the findings are still preliminary, they offer a simple strategy for night shift workers to reduce long-term health risks. Night shift work affects the body's internal clock, sleep patterns, and hormone signaling, making further research essential to confirm the potential of melatonin in reducing cancer risk."
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "This tomato-soy juice reduced inflammation in just four weeks",
           "link": "https://www.sciencedaily.com/releases/2026/05/260529043644.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-05-30 05:53 UTC",
-          "analysis_zh": "一项新的临床研究表明，特别配制的番茄大豆汁能够有效降低与肥胖相关的炎症。参与研究的健康肥胖成年人在连续四周每天饮用这种果汁后，体内几种关键炎症蛋白的水平显著下降，而对照组饮用的普通番茄汁则没有产生相同效果。这一发现的重要性在于，慢性炎症与多种长期健康问题密切相关，因此这种饮品有可能成为控制慢性炎症的功能性食品。研究团队计划进一步测试这种果汁在胰腺炎患者中的效果，以期为更多慢性疾病患者提供帮助。",
-          "analysis_en": "A new clinical study has shown that a specially formulated tomato-soy juice can effectively reduce inflammation associated with obesity. Healthy adults with obesity who drank this juice daily for four weeks experienced significant reductions in several key inflammatory proteins in their blood, while those who consumed regular tomato juice did not see the same results. This finding is important because chronic inflammation is linked to various long-term health issues, suggesting that this beverage could serve as a functional food for managing chronic inflammation. The research team plans to further investigate the effects of this juice on patients with pancreatitis, potentially offering new solutions for individuals with chronic diseases."
+          "analysis_zh": "一项新的临床研究表明，特制的番茄大豆汁能够在四周内显著降低与肥胖相关的炎症。这项研究发现，健康的肥胖成年人每天饮用这种富含植物化合物的饮料后，血液中的几种关键炎症蛋白水平显著下降，而对照组饮用的普通番茄汁则没有产生相同效果。这一发现具有重要意义，因为慢性炎症与多种长期健康问题密切相关，若能通过饮食干预来调节炎症，将可能为慢性病患者提供新的治疗思路。",
+          "analysis_en": "A new clinical study has shown that a specially formulated tomato-soy juice can significantly reduce inflammation associated with obesity within just four weeks. The research found that healthy adults with obesity who consumed this plant compound-rich beverage daily experienced notable decreases in several key inflammatory proteins in their blood, while those drinking regular tomato juice did not see the same results. This finding is significant because chronic inflammation is linked to various long-term health issues, and using dietary interventions to modulate inflammation could offer new treatment options for patients with chronic diseases."
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Caffeine reversed memory problems caused by sleep deprivation",
           "link": "https://www.sciencedaily.com/releases/2026/05/260529043654.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-05-30 05:27 UTC",
-          "analysis_zh": "新加坡国立大学的研究人员发现，咖啡因能够逆转因睡眠不足导致的记忆问题。研究表明，睡眠不足会损害大脑中负责社交记忆的关键神经通路，使得人们难以识别熟悉的面孔。通过实验，科学家们发现咖啡因能够恢复这一通路中神经元之间的通讯，从而改善因缺乏睡眠而造成的记忆缺陷。这一发现不仅揭示了睡眠不足对大脑的影响，还表明咖啡因的益处可能超出了单纯提高警觉性的范围。",
-          "analysis_en": "Researchers at the National University of Singapore have found that caffeine can reverse memory problems caused by sleep deprivation. The study revealed that lack of sleep damages a crucial brain circuit responsible for social memory, making it difficult to recognize familiar faces. In laboratory experiments, caffeine restored communication between neurons in this pathway, improving memory deficits associated with sleep loss. This discovery not only highlights the impact of sleep deprivation on the brain but also suggests that the benefits of caffeine may extend beyond merely increasing alertness."
-        },
-        {
-          "rank": 4,
-          "title": "China’s Rise in Drug Development Looms Over U.S.",
-          "link": "https://www.nytimes.com/2026/05/30/business/china-lung-cancer-drugs-asco.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-05-30 04:00 UTC",
-          "analysis_zh": "在芝加哥举行的国际肿瘤学大会上，中国的临床试验引起了广泛关注。中国生物技术产业的迅猛发展让人们担忧美国在该领域的主导地位正在减弱。这一变化可能会影响全球药物开发的格局，促使各国加大对创新药物的投资和研发力度。此外，中国的崛起可能会加剧国际竞争，推动美国和其他国家加快技术进步。",
-          "analysis_en": "At an international oncology gathering in Chicago, clinical trials in China have garnered significant attention. The rapid growth of China's biotechnology industry raises concerns that the U.S. is losing its dominance in this field. This shift could alter the global landscape of drug development, prompting countries to increase their investments and efforts in innovative drug research. Furthermore, China's rise may intensify international competition, encouraging the U.S. and other nations to accelerate technological advancements."
-        },
-        {
-          "rank": 5,
-          "title": "Suit Says Black Infants Were Subjected to Experimental Vaccine Without Consent",
-          "link": "https://www.nytimes.com/2026/05/28/us/rsv-vaccine-testing-lawsuit.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-05-29 17:19 UTC",
-          "analysis_zh": "一项诉讼指控在1960年代，黑人婴儿在未经同意的情况下参与了一项针对呼吸道病毒的实验性疫苗试验，并且这些婴儿在试验后不久便去世。此事件引发了对医学伦理和知情同意的重要讨论，尤其是在历史上对少数族裔的医疗实验中。此案可能会促使对类似实验的审查和更严格的伦理规范，以保护未来的受试者。",
-          "analysis_en": "A lawsuit claims that Black infants were subjected to an experimental vaccine trial for a respiratory virus in the 1960s without their families' consent, and that these infants died shortly after the trial. This incident raises significant ethical concerns regarding informed consent, particularly in the context of medical experiments on minority groups throughout history. The case may lead to increased scrutiny of similar trials and the establishment of stricter ethical guidelines to protect future participants."
+          "analysis_zh": "科学家发现，睡眠不足会损害大脑中一个关键的社交记忆回路，使得识别熟悉个体变得更加困难。在实验室研究中，咖啡因能够恢复这一回路中神经元之间的沟通，逆转因缺乏睡眠而导致的记忆缺陷。这一发现不仅揭示了睡眠不足对大脑的影响，也表明咖啡因的益处可能超出了单纯提高警觉性的范围，未来可能为改善睡眠不足引发的认知问题提供新的解决方案。",
+          "analysis_en": "Scientists have discovered that sleep deprivation damages a crucial brain circuit responsible for social memory, making it harder to recognize familiar individuals. In laboratory studies, caffeine was shown to restore communication between neurons in this pathway, reversing the memory deficits caused by lack of sleep. This finding not only highlights the impact of sleep loss on the brain but also suggests that the benefits of caffeine may extend beyond merely increasing alertness, potentially offering new solutions for cognitive issues stemming from sleep deprivation in the future."
         }
       ]
     },
@@ -165,8 +156,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/05/260529043654.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-05-30 05:27 UTC",
-          "analysis_zh": "新加坡国立大学的研究人员发现，咖啡因能够帮助恢复因睡眠不足而受损的社交记忆。研究表明，睡眠不足会损害大脑中一个关键的神经通路，使得人们难以识别熟悉的个体。通过实验，咖啡因成功恢复了这一通路中神经元之间的沟通，逆转了因缺乏睡眠造成的记忆缺陷。这一发现不仅揭示了睡眠不足对大脑的影响，也暗示咖啡因的益处可能超越了单纯的提神作用。",
-          "analysis_en": "Researchers at the National University of Singapore have found that caffeine can help restore social memory impaired by sleep deprivation. The study revealed that lack of sleep damages a crucial brain circuit, making it difficult to recognize familiar individuals. In laboratory experiments, caffeine successfully restored communication between neurons in this pathway, reversing the memory deficits caused by sleep loss. This discovery not only highlights the impact of sleep deprivation on the brain but also suggests that caffeine's benefits may extend beyond merely increasing alertness."
+          "analysis_zh": "新加坡国立大学的研究人员发现，咖啡因能够逆转因睡眠不足导致的记忆问题。研究表明，睡眠剥夺损害了大脑中一个关键的社交记忆回路，使得人们难以识别熟悉的个体。通过实验，咖啡因恢复了该回路中神经元之间的交流，显著改善了记忆功能。这一发现不仅揭示了睡眠不足对大脑的影响，还表明咖啡因的益处可能超出了单纯提神的作用。",
+          "analysis_en": "Researchers at the National University of Singapore have found that caffeine can reverse memory problems caused by sleep deprivation. The study revealed that lack of sleep damages a crucial brain circuit responsible for social memory, making it difficult to recognize familiar individuals. In laboratory experiments, caffeine restored communication between neurons in this circuit, significantly improving memory function. This discovery not only highlights the effects of sleep loss on the brain but also suggests that the benefits of caffeine may extend beyond merely enhancing alertness."
         }
       ]
     },
@@ -176,93 +167,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Some of our favorite art TVs are more than 40 percent off this weekend",
-          "link": "https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal",
+          "title": "Backrooms is a certified blockbuster with a $38 million opening day",
+          "link": "https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening",
           "source": "The Verge",
-          "published_utc": "2026-05-30 15:00 UTC",
-          "analysis_zh": "最近，Woot推出了一项引人注目的促销活动，部分艺术电视的折扣超过了40%。这次促销包括三星2025款的Frame电视和海信2025款的CanvasTV，价格分别降至587.99美元和779.99美元。特别是65英寸的CanvasTV降价520美元，成为今年最佳价格。这一活动不仅使高端电视变得更加可负担，也可能推动更多消费者选择艺术电视，改变他们的家居装饰方式。",
-          "analysis_en": "Recently, Woot launched a notable promotion with discounts exceeding 40% on some art TVs. This sale includes Samsung's 2025 Frame TV and Hisense's 2025 CanvasTV, with prices dropping to $587.99 and $779.99, respectively. Notably, the 65-inch CanvasTV is now $520 off, marking its best price of the year. This promotion not only makes high-end TVs more affordable but may also encourage more consumers to opt for art TVs, potentially changing their home decor choices."
+          "published_utc": "2026-05-30 16:58 UTC",
+          "analysis_zh": "凯恩·帕森斯执导的电影《Backrooms》在首日票房达到了3800万美元，预计整个开幕周末的票房将达到9000万美元。这一成绩不仅超出了预期，还打破了A24公司之前的开幕周末纪录，后者是亚历克斯·加兰的《内战》创造的2550万美元。如此强劲的表现显示了该片的盈利潜力，制作预算仅为1000万美元。尽管《Backrooms》的评价没有同类低成本恐怖片《Obsession》那么高，但仍然获得了较为积极的反馈。",
+          "analysis_en": "Kane Parsons' film \"Backrooms\" achieved a remarkable opening day box office of $38 million, with projections suggesting it could reach $90 million over the opening weekend. This performance not only exceeded expectations but also shattered A24's previous opening weekend record of $25.5 million set by Alex Garland's \"Civil War.\" The film's strong showing indicates its profitability, given its modest budget of $10 million. While \"Backrooms\" hasn't received as much acclaim as the similarly low-budget horror hit \"Obsession,\" it is still garnering generally positive reviews."
         },
         {
           "rank": 2,
+          "title": "Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves",
+          "link": "https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves",
+          "source": "The Verge",
+          "published_utc": "2026-05-30 16:00 UTC",
+          "analysis_zh": "欢迎来到《夜谷》的主持人塞西尔·鲍德温分享了他对科技的一些不满。他在采访中提到，尽管他在多个项目中都有出色表现，但他希望在使用手机时能够避免一些烦恼，比如在开车时无法手动发送短信。这一观点引发了人们对科技使用安全性的关注，尤其是在驾驶时的分心问题。鲍德温的看法可能会促使更多人反思他们的科技使用习惯，并推动相关安全措施的改进。",
+          "analysis_en": "Cecil Baldwin, the host of Welcome to Night Vale, shared his tech pet peeves in a recent interview. He expressed a desire for phones to prevent users from manually texting while driving, highlighting concerns about safety and distractions. This perspective raises awareness about the importance of responsible technology use, particularly in driving situations. Baldwin's comments may encourage individuals to reconsider their tech habits and could lead to improvements in safety measures related to mobile device usage."
+        },
+        {
+          "rank": 3,
+          "title": "Microsoft is threatening legal action for disclosing exploits",
+          "link": "https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability",
+          "source": "The Verge",
+          "published_utc": "2026-05-30 15:19 UTC",
+          "analysis_zh": "微软因其对零日漏洞的处理而受到批评。一位名为“Nightmare Eclipse”的人公开与公司对峙，发布了漏洞的概念证明代码。此事件引发了对微软处理安全研究者的方式的质疑，尤其是在微软威胁采取法律行动的背景下。此事可能会影响安全研究者与大型科技公司之间的信任关系，未来的漏洞报告可能会变得更加困难。",
+          "analysis_en": "Microsoft is facing criticism for its handling of zero-day exploits. A person known as \"Nightmare Eclipse\" has publicly feuded with the company, posting proof-of-concept exploit code. This situation raises questions about how Microsoft treats security researchers, especially in light of its threats of legal action. The incident could impact the trust between security researchers and large tech companies, making future vulnerability reporting more challenging."
+        },
+        {
+          "rank": 4,
+          "title": "Two of our favorite art TVs are more than 40 percent off this weekend",
+          "link": "https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal",
+          "source": "The Verge",
+          "published_utc": "2026-05-30 15:00 UTC",
+          "analysis_zh": "Woot最近推出了一项引人注目的促销活动，销售三星2025年的Frame电视和海信2025年的CanvasTV，折扣幅度超过40%。这次促销活动持续到6月26日，65英寸的CanvasTV降至779.99美元，创下今年最低价，而三星的Frame电视也有多种尺寸的优惠，起价为587.99美元。这一促销活动对消费者来说非常重要，因为艺术电视通常价格不菲，折扣将使更多人能够享受高品质的视听体验。",
+          "analysis_en": "Woot has launched a notable promotion, offering over 40% off on Samsung's 2025 Frame TV and Hisense's 2025 CanvasTV. This sale runs until June 26, with the 65-inch CanvasTV priced at $779.99, marking its lowest price of the year, while Samsung's Frame TV is available in various sizes starting at $587.99. This promotion is significant for consumers, as art TVs are typically expensive, and these discounts will enable more people to enjoy high-quality viewing experiences."
+        },
+        {
+          "rank": 5,
           "title": "Powerful A.I. Super PACs Duel Over the Midterms: ‘This Is a War’",
           "link": "https://www.nytimes.com/2026/05/30/us/politics/anthropic-openai-super-pacs-midterms.html",
           "source": "NYT > Technology",
           "published_utc": "2026-05-30 14:09 UTC",
-          "analysis_zh": "近期，两大超级政治行动委员会（PAC）在即将到来的中期选举中展开激烈竞争，其中一个与人工智能公司Anthropic结盟，另一个则与OpenAI相关联。这场竞赛不仅涉及巨额资金的投入，还可能对选民的投票行为产生深远影响。随着人工智能在政治宣传中的应用日益增加，这场“战争”将可能改变未来选举的格局。",
-          "analysis_en": "Recently, two major super PACs have engaged in fierce competition ahead of the upcoming midterm elections, with one allied to the AI company Anthropic and the other linked to OpenAI. This battle involves significant financial investments and could have a profound impact on voter behavior. As the use of artificial intelligence in political campaigning grows, this \"war\" may reshape the landscape of future elections."
+          "analysis_zh": "近期，两大超级政治行动委员会（PAC）在美国中期选举中展开激烈竞争，其中一个与人工智能公司Anthropic结盟，另一个则与OpenAI相关联。它们各自投入数百万美元，旨在影响选民的决策。这一现象引发了对人工智能在政治领域影响力的广泛关注，尤其是在选举期间，科技巨头的资金和资源可能会改变选举结果。未来，这种趋势可能会导致更多科技公司参与政治活动，从而对民主进程产生深远影响。",
+          "analysis_en": "Recently, two major super PACs have engaged in fierce competition in the U.S. midterm elections, with one allied to the AI company Anthropic and the other connected to OpenAI. Both are spending millions of dollars to sway voter decisions. This situation has sparked widespread concern about the influence of artificial intelligence in politics, particularly during elections, as the resources and funding from tech giants could potentially alter outcomes. Moving forward, this trend may lead to increased involvement of tech companies in political activities, significantly impacting the democratic process."
         },
         {
-          "rank": 3,
+          "rank": 6,
           "title": "Listen to the new Steam Controller buzz to the tune of Doom",
           "link": "https://www.theverge.com/games/940157/valve-steam-controller-singing-music-doom",
           "source": "The Verge",
           "published_utc": "2026-05-30 14:02 UTC",
-          "analysis_zh": "Valve的新款Steam控制器不仅可以发出电话铃声或威尔海姆尖叫声，还能演奏音乐。通过用户开发的程序，这款控制器利用其触觉马达实现了这一功能。这一创新不仅提升了游戏体验，也为玩家提供了更多的互动方式，可能会吸引更多的用户尝试这款设备。随着技术的进步，未来的游戏控制器或许会有更多类似的功能，改变我们与游戏的互动方式。",
-          "analysis_en": "Valve's new Steam Controller can do more than just ring like a phone or produce the Wilhelm scream; it can also play music. Thanks to programs developed by users, the controller utilizes its haptic motors to create sound. This innovation enhances the gaming experience and offers players new ways to interact, potentially attracting more users to the device. As technology advances, future gaming controllers may feature similar capabilities, changing how we engage with games."
+          "analysis_zh": "最近，Valve推出了新一代Steam控制器，除了能够发出电话铃声和威尔海姆尖叫声外，它还可以演奏音乐。这一功能是通过控制器触控板下的触觉马达实现的，用户们利用开源程序让控制器“唱歌”。这一创新不仅提升了游戏体验，也为玩家提供了更多的创作空间，可能会激发更多开发者探索控制器的潜力。",
+          "analysis_en": "Recently, Valve launched its new generation of Steam Controller, which can not only ring like a telephone and produce the Wilhelm scream but also play music. This feature is made possible through the haptic motors located under the controller's trackpads, with users utilizing open-source programs to make the controller \"sing.\" This innovation enhances the gaming experience and offers players more creative opportunities, potentially inspiring more developers to explore the controller's capabilities."
         },
         {
-          "rank": 4,
+          "rank": 7,
           "title": "Pebblebee’s Halo watches my back and my belongings",
           "link": "https://www.theverge.com/gadgets/938254/pebblebee-halo-bluetooth-tracker-personal-safety-hands-on-review",
           "source": "The Verge",
           "published_utc": "2026-05-30 14:00 UTC",
-          "analysis_zh": "Pebblebee推出的Halo蓝牙追踪器为个人安全提供了新的解决方案。该设备不仅可以追踪物品，还配备了130分贝的警报和LED闪烁灯，能够在紧急情况下迅速引起注意。用户只需拉动盖子，就能触发这些安全功能，并向最多五个信任的联系人发送警报信息。这种创新的设计在提高个人安全感的同时，也为用户提供了更大的便利，尤其是在法律限制携带防身工具的情况下。",
-          "analysis_en": "Pebblebee has introduced the Halo Bluetooth tracker as a new solution for personal safety. This device not only tracks belongings but also features a 130dB siren and strobe lights that can quickly draw attention in emergencies. By simply pulling the cap, users can activate these safety features and send alerts to up to five trusted contacts. This innovative design enhances personal security while providing greater convenience, especially in situations where carrying self-defense tools is legally restricted."
+          "analysis_zh": "Pebblebee推出的Halo蓝牙追踪器在个人安全方面提供了新的解决方案。该设备不仅可以追踪物品，还配备了130分贝的警报和紧急联系人提醒功能，用户只需拉动盖子即可激活这些安全特性。这一产品的推出对于那些在外出时感到不安的人来说尤为重要，因为它提供了一种便捷的方式来增强个人安全。随着人们对安全设备需求的增加，Halo的出现可能会影响市场上其他类似产品的竞争格局。",
+          "analysis_en": "Pebblebee has introduced the Halo Bluetooth tracker, offering a new solution for personal safety. This device not only tracks belongings but also features a 130dB siren and emergency contact alerts, activated simply by pulling its cap. The launch of this product is particularly significant for individuals who feel uneasy when out and about, as it provides a convenient way to enhance personal security. With the growing demand for safety devices, the Halo's introduction may influence the competitive landscape of similar products in the market."
         },
         {
-          "rank": 5,
+          "rank": 8,
           "title": "The Arduboy FX-C is an excellent time killer you might forget you’re carrying",
           "link": "https://www.theverge.com/tech/939782/arduboy-fx-c-arduino-handheld-hands-on",
           "source": "The Verge",
           "published_utc": "2026-05-30 14:00 UTC",
-          "analysis_zh": "Arduboy FX-C 是一款便携式游戏机，凭借其小巧的设计和丰富的游戏库，成为了消磨时间的绝佳选择。这款设备结合了以往型号的最佳特点，并进行了升级，尽管其体积与几张信用卡相当。它的推出不仅吸引了游戏爱好者，也为希望学习编程的开发者提供了一个有趣的平台。随着便携式游戏机市场的不断发展，Arduboy FX-C 的成功可能会激励更多创新产品的出现。",
-          "analysis_en": "The Arduboy FX-C is a compact handheld console that offers an excellent way to pass the time with its extensive game library. This device combines the best features of previous models with some upgrades, all while maintaining a size comparable to a few credit cards. Its release not only appeals to gamers but also provides an engaging platform for aspiring developers looking to learn coding. As the handheld gaming market continues to evolve, the success of the Arduboy FX-C may inspire further innovative products in the future."
+          "analysis_zh": "Arduboy FX-C 是一款便携式游戏机，凭借其小巧的设计和丰富的游戏库，成为了消磨时间的理想选择。这款设备在保留了前几代产品的优点的同时，增加了一些令人期待的升级，尽管其中一些功能尚未完全成熟。随着手持游戏机市场的不断发展，Arduboy FX-C 的推出不仅吸引了游戏爱好者的关注，也为开发者提供了一个学习编程的新平台。这款设备的成功可能会推动更多类似产品的创新，进一步丰富游戏体验。",
+          "analysis_en": "The Arduboy FX-C is a portable gaming console that serves as an excellent time-killer, thanks to its compact design and extensive game library. This device retains the best features of previous models while introducing some exciting upgrades, although some of these features are not yet fully developed. As the handheld gaming market continues to evolve, the release of the Arduboy FX-C not only captures the interest of gamers but also offers a new platform for developers to learn programming. Its success could inspire further innovation in similar products, enhancing the overall gaming experience."
         },
         {
-          "rank": 6,
+          "rank": 9,
           "title": "How one founder’s bet on ‘the old school web’ is paying off",
           "link": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
           "source": "The Verge",
           "published_utc": "2026-05-30 13:00 UTC",
-          "analysis_zh": "克雷格·坎贝尔（Craig Campbell）选择在2022年人工智能热潮中放弃投资者的资金，转而创建一个网站，这一决定引起了广泛关注。他的项目“过去地图”（Past Maps）通过提供历史地图与现代地图的叠加视图，成功吸引了用户。尽管在大多数人都不愿意进入网站业务的情况下，坎贝尔却通过有机搜索将其发展成为一个可持续的商业模式。这一举动不仅展示了他对传统网络的信心，也可能影响其他创业者对技术趋势的看法。",
-          "analysis_en": "Craig Campbell chose to walk away from the influx of investor money into AI in 2022 to create a website, a decision that has garnered significant attention. His project, Past Maps, successfully attracts users by offering a layered view of historical maps over modern maps. Despite most people shying away from the website business, Campbell has managed to grow it into a sustainable model through organic search. This move not only reflects his confidence in the old-school web but may also influence other entrepreneurs' perspectives on technology trends."
+          "analysis_zh": "克雷格·坎贝尔选择放弃涌向人工智能的投资资金，转而创建一个网站，这一决定引起了广泛关注。作为前Meta工程师，他在2022年出售了自己的电商工具后，决定探索“旧学校网络”的潜力。尽管许多人认为网站业务已经不再有吸引力，但坎贝尔的“过去地图”项目却成功地吸引了用户，并实现了可持续发展。这一现象表明，在AI热潮之下，传统互联网业务依然有其生存空间，可能会影响未来创业者的选择和投资方向。",
+          "analysis_en": "Craig Campbell chose to walk away from the influx of investment money into AI to create a website, a decision that has garnered significant attention. As a former engineer at Meta, he decided to explore the potential of the \"old school web\" after selling his e-commerce tool in 2022. While many believe that the website business has lost its appeal, Campbell's \"Past Maps\" project has successfully attracted users and achieved sustainability. This phenomenon suggests that there is still room for traditional internet businesses amidst the AI boom, which may influence the choices and investment directions of future entrepreneurs."
         },
         {
-          "rank": 7,
+          "rank": 10,
           "title": "AI grifters are creating fake Black people to sell Shein junk",
           "link": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
           "source": "The Verge",
           "published_utc": "2026-05-30 13:00 UTC",
-          "analysis_zh": "最近，一些利用人工智能技术的诈骗者开始创造虚假的黑人形象，以在社交媒体平台上销售廉价商品。这些虚构的角色，如名为Aliyah的“黑人女性”，通过情感化的视频吸引观众，试图提高产品的销量。然而，这些角色和她们所推销的手工艺品实际上都是虚构的，背后是大规模生产的廉价商品。这一现象不仅反映了社交媒体营销的伦理问题，也可能对真实的创作者和消费者造成影响，造成信任危机。",
-          "analysis_en": "Recently, some scammers using artificial intelligence have started creating fake Black personas to sell cheap products on social media platforms. These fictional characters, like a \"Black woman\" named Aliyah, use emotional videos to attract viewers and boost sales. However, both the characters and the handmade products they promote are fabricated, with mass-produced items behind them. This trend highlights ethical issues in social media marketing and could potentially harm genuine creators and consumers, leading to a crisis of trust."
-        },
-        {
-          "rank": 8,
-          "title": "Sometimes, a short game hits the spot",
-          "link": "https://www.theverge.com/games/937499/slots-and-daggers-review-nintendo-switch-ps5-xbox-series-x-s-pc",
-          "source": "The Verge",
-          "published_utc": "2026-05-30 12:00 UTC",
-          "analysis_zh": "《Slots & Daggers》是一款低调的幻想主题老虎机类 roguelike 游戏，最近在多个平台上发布。这款游戏将卡牌构建 roguelike 的元素与老虎机结合，创造出引人入胜的游戏循环。游戏的短小精悍使得玩家可以在短时间内完成，单人开发者 Friedemann 表示，玩家可以在不到六小时内完成所有成就。这款游戏的推出不仅为玩家提供了新的娱乐选择，也可能影响未来类似游戏的设计方向。",
-          "analysis_en": "\"Slots & Daggers\" is a low-key fantasy-themed slot machine roguelike that has recently been released on multiple platforms. The game combines elements of deckbuilding roguelikes with slot machines, creating an engaging gameplay loop. Its brevity allows players to complete it in under six hours, with solo developer Friedemann noting that all achievements can be unlocked in that time. The release of this game not only offers players a new entertainment option but may also influence the design direction of similar games in the future."
-        },
-        {
-          "rank": 9,
-          "title": "The SpaceX IPO is great for Elon Musk and terrible for you",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai",
-          "source": "The Verge",
-          "published_utc": "2026-05-30 12:00 UTC",
-          "analysis_zh": "近日，埃隆·马斯克申请将SpaceX上市的消息引发了广泛关注。这一举动不仅让人想起了WeWork的上市文件，后者曾被认为是个笑话，而SpaceX则被视为潜在威胁。尽管SpaceX去年亏损近50亿美元，但其估值却传闻超过1万亿美元，这一数字显得极为荒谬。马斯克的这一举动可能会影响投资者的信心，尤其是在他与银行家们的合作下，普通投资者可能会成为最终的“接盘侠”。",
-          "analysis_en": "Recently, Elon Musk's application to take SpaceX public has garnered significant attention. This move not only recalls the WeWork IPO document, which was considered a joke, but also positions SpaceX as a potential threat. Despite SpaceX reporting nearly $5 billion in losses last year, rumors suggest its valuation could exceed $1 trillion, a figure that seems absurd. This action could impact investor confidence, especially as Musk and his bankers may leave ordinary investors holding the bag in the end."
-        },
-        {
-          "rank": 10,
-          "title": "This is the James Bond game we’ve been waiting for",
-          "link": "https://www.theverge.com/tech/940092/007-first-light-oura-ring-5-installer",
-          "source": "The Verge",
-          "published_utc": "2026-05-30 12:00 UTC",
-          "analysis_zh": "最近，《007：第一缕光》这款备受期待的詹姆斯·邦德游戏终于发布了。这款游戏的推出不仅让影迷和游戏玩家兴奋，也为邦德系列的未来发展带来了新的可能性。随着游戏技术的不断进步，这款游戏可能会吸引更多年轻玩家，进一步扩大邦德品牌的影响力。",
-          "analysis_en": "Recently, the highly anticipated game \"007: First Light\" has finally been released. Its launch excites both fans of the franchise and gamers, while also opening up new possibilities for the future of the Bond series. With advancements in gaming technology, this game may attract a younger audience, further expanding the influence of the Bond brand."
+          "analysis_zh": "最近，一些利用人工智能技术的欺诈者开始创造虚假的黑人形象，以在社交媒体上销售廉价商品。这些虚构的角色，例如一位名叫Aliyah的浅肤色黑人女性，试图通过感人的视频吸引观众购买她所谓的手工制作的金属扣，但实际上这些产品都是从快时尚网站Shein上批量生产的。此现象引发了对种族、道德和消费行为的讨论，尤其是在社交媒体平台上，如何利用种族身份来操控消费者的同情心。这样的做法不仅影响了真实创作者的生存空间，也可能加剧对种族问题的误解和商业伦理的争议。",
+          "analysis_en": "Recently, some fraudsters have started creating fake Black personas using artificial intelligence to sell cheap products on social media. One such character, a light-skinned Black woman named Aliyah, attempts to attract viewers with emotional videos pleading for support to buy her supposedly handmade metal buckles, which are actually mass-produced items from the fast-fashion site Shein. This phenomenon raises discussions about race, ethics, and consumer behavior, particularly regarding how racial identity can be exploited to manipulate consumer empathy on social media platforms. Such practices not only threaten the livelihoods of genuine creators but may also exacerbate misunderstandings around racial issues and commercial ethics."
         }
       ]
     },
@@ -272,93 +263,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "Trump Suggests He’ll Headline Freedom 250 Concerts After Artists Drop Off",
+          "link": "https://www.nytimes.com/2026/05/30/arts/music/trump-freedom-250-concert-cancellations.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-05-30 21:17 UTC",
+          "analysis_zh": "特朗普在社交媒体上表示，他应该取代那些“高薪、三流的艺术家”，并称自己是“能吸引比猫王更大观众的人”。这一言论引发了广泛关注，因为许多艺术家因政治原因选择退出即将举行的“自由250”音乐会。特朗普的发言不仅反映了他对艺术界的看法，也可能影响公众对音乐会的参与度和舆论反应。",
+          "analysis_en": "Trump stated on social media that he should replace \"these highly paid, third-rate artists,\" claiming he is \"the man who draws much larger audiences than Elvis.\" This remark has garnered significant attention, especially as many artists have chosen to withdraw from the upcoming \"Freedom 250\" concert for political reasons. Trump's comments not only reveal his perspective on the arts but may also affect public participation and the overall reception of the concert."
+        },
+        {
+          "rank": 2,
+          "title": "FGMF Arquitetos completes pixelated skyscraper in Brazil",
+          "link": "https://www.dezeen.com/2026/05/30/fgmf-arquitetos-valente-skyscraper-sao-paulo-brazil/",
+          "source": "Dezeen",
+          "published_utc": "2026-05-30 17:00 UTC",
+          "analysis_zh": "巴西圣保罗的FGMF Arquitetos建筑事务所完成了一座混合用途的摩天大楼，名为Valente大楼。这座高达21层的建筑由多个“突出的矩形体块”堆叠而成，底层为多层办公空间，顶层则为住宅。这一项目不仅展示了独特的建筑美学，还为城市提供了新的办公和居住空间，可能会吸引更多的企业和居民进驻，从而推动当地经济的发展。",
+          "analysis_en": "FGMF Arquitetos has completed a mixed-use skyscraper in São Paulo called the Valente building. Standing at 21 stories, the structure features stacked \"protruding rectangular volumes,\" with multi-level office spaces on the lower floors and residences on the top. This project showcases a unique architectural aesthetic and provides new office and living spaces for the city, which may attract more businesses and residents, thereby boosting the local economy."
+        },
+        {
+          "rank": 3,
+          "title": "In ‘Fallen Angels,’ Kelli O’Hara and Rose Byrne Get Laughs Getting Sloshed",
+          "link": "https://www.nytimes.com/2026/05/29/theater/kelli-ohara-rose-byrne-fallen-angels-broadway.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-05-30 15:31 UTC",
+          "analysis_zh": "在舞台剧《堕落天使》中，凯莉·欧哈拉和罗斯·拜恩展现了如何在舞台上表演醉酒的状态，并且通过幽默的方式描绘了宿醉的情景。这部剧的成功不仅展示了两位演员的出色演技，也为观众带来了欢乐的体验。这样的表演方式让人们重新思考戏剧中的幽默元素，可能会吸引更多观众走进剧院，提升戏剧的观赏价值。",
+          "analysis_en": "In the play \"Fallen Angels,\" Kelli O'Hara and Rose Byrne showcase how to convincingly portray drunkenness on stage, humorously depicting the aftermath of a hangover. The success of this performance highlights the impressive skills of both actors while providing an entertaining experience for the audience. This approach to humor in theater may encourage more people to attend performances, potentially increasing the overall appreciation for live theater."
+        },
+        {
+          "rank": 4,
+          "title": "mirrored interiors and sculptural canyon-like forms shape skin1004’s soho flagship by LMTLS",
+          "link": "https://www.designboom.com/architecture/mirrored-interiors-sculptural-canyon-forms-skin1004-soho-flagship-lmtls/",
+          "source": "designboom | architecture & design magazine",
+          "published_utc": "2026-05-30 15:30 UTC",
+          "analysis_zh": "skin1004在Soho的旗舰店由LMTLS设计，采用了镜面内饰和雕塑般的峡谷形态，创造出一种模糊商店、画廊和展览空间界限的感官环境。这种设计不仅提升了购物体验，还为顾客提供了一个独特的视觉享受，吸引了更多的访客。这样的空间设计可能会影响未来零售店的布局和风格，推动更多品牌探索创新的店面设计。",
+          "analysis_en": "skin1004's flagship store in Soho, designed by LMTLS, features mirrored interiors and sculptural canyon-like forms that create a sensory environment blurring the lines between a store, gallery, and exhibition space. This design enhances the shopping experience and offers customers a unique visual delight, potentially attracting more visitors. Such innovative spatial designs may influence the layout and style of future retail stores, encouraging more brands to explore creative store concepts."
+        },
+        {
+          "rank": 5,
           "title": "50 Years of Skateboarding at London’s Southbank Undercroft",
           "link": "https://www.nytimes.com/2026/05/30/arts/london-southbank-undercroft-skate-park.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-30 11:56 UTC",
-          "analysis_zh": "伦敦南岸的滑板地下室庆祝了五十年的滑板文化。这个地方因一场草根运动而得以保留，吸引了来自世界各地的滑板爱好者前来朝圣。这一事件不仅彰显了滑板文化的重要性，也反映了社区对公共空间保护的热情。未来，这种草根运动可能会激励更多城市保护类似的文化场所，以维护多样性与创造力。",
-          "analysis_en": "The Southbank Undercroft in London celebrates fifty years of skateboarding culture. This space was preserved thanks to a grassroots campaign, drawing skateboard enthusiasts from around the world. This event highlights the significance of skateboarding culture and reflects the community's passion for protecting public spaces. In the future, such grassroots movements may inspire more cities to safeguard similar cultural sites, promoting diversity and creativity."
+          "analysis_zh": "伦敦南岸地下室的滑板场所庆祝了50年的历史，这里吸引了来自世界各地的滑板爱好者。由于一场草根运动的努力，这个地方得以免于重建，成为滑板文化的重要象征。这一事件不仅彰显了社区对文化遗产的保护意识，也反映了滑板运动在全球范围内的影响力和吸引力。未来，这种文化空间的保护可能会激励其他城市采取类似的措施，维护本地的文化特色。",
+          "analysis_en": "The Southbank Undercroft in London celebrates its 50-year history as a significant space for skateboarders, attracting enthusiasts from around the world. Thanks to a grassroots campaign, this area was saved from redevelopment, highlighting the community's commitment to preserving cultural heritage. This event not only underscores the importance of such cultural spaces but also reflects the global influence and appeal of skateboarding. In the future, the preservation of such cultural spaces may inspire other cities to take similar actions to maintain their local cultural identities."
         },
         {
-          "rank": 2,
+          "rank": 6,
           "title": "the hague becomes an open-air museum of inflatable art during blowup jubilee",
           "link": "https://www.designboom.com/art/the-hague-becomes-an-open-air-museum-of-inflatable-art-during-blowup-jubilee/",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-05-30 10:45 UTC",
-          "analysis_zh": "海牙在“充气艺术节”期间，变身为一个露天博物馆，展出了一系列巨型充气艺术品，包括粉色贝壳和反光蛋。这些艺术作品与这座荷兰城市的历史建筑形成了鲜明的对比，吸引了众多游客前来观赏。此次活动不仅丰富了城市的文化氛围，也为当地经济注入了活力，可能会激发更多类似的艺术展览和活动。",
-          "analysis_en": "During the \"Blowup Jubilee,\" The Hague transformed into an open-air museum showcasing monumental inflatable artworks, including pink shells and reflective eggs. These installations create a striking contrast with the city's historic architecture, drawing many visitors. This event not only enhances the cultural atmosphere of the city but also injects vitality into the local economy, potentially inspiring more similar art exhibitions and events in the future."
+          "analysis_zh": "海牙在“充气艺术节”期间变身为一个露天博物馆，展出了一系列巨型充气艺术品，包括粉色贝壳和反射卵。这些艺术装置与这座荷兰城市的历史建筑形成鲜明对比，吸引了众多游客前来观赏。此活动不仅丰富了城市的文化生活，也为当地经济注入了活力，可能会激励更多类似的艺术展览和活动在未来举办。",
+          "analysis_en": "During the \"Blowup Jubilee,\" The Hague transformed into an open-air museum showcasing a variety of monumental inflatable artworks, including pink shells and reflective eggs. These installations create a striking contrast with the city's historic architecture, drawing many visitors to the area. This event not only enhances the cultural life of the city but also boosts the local economy, potentially encouraging more similar art exhibitions and events in the future."
         },
         {
-          "rank": 3,
+          "rank": 7,
           "title": "Studio Weave creates stone toilet block in London to \"express democracy\"",
           "link": "https://www.dezeen.com/2026/05/30/studio-weave-maida-hill-toilet-block/",
           "source": "Dezeen",
           "published_utc": "2026-05-30 10:00 UTC",
-          "analysis_zh": "伦敦的Studio Weave设计了一座用拆除办公楼的石材建造的公共厕所，以“表达民主”。这座厕所位于北帕丁顿，由威斯敏斯特市议会委托建造，取代了一个难以进入且存在反社会行为的地下厕所。这一项目不仅改善了公共设施的可及性，还旨在提升社区的整体形象和安全感。",
-          "analysis_en": "Studio Weave has designed a public toilet in London using stone salvaged from a demolished office building to \"express democracy.\" Commissioned by the Westminster City Council, this toilet block replaces an existing underground facility in North Paddington that was difficult to access and had attracted antisocial behavior. This project not only improves accessibility to public amenities but also aims to enhance the overall image and safety of the community."
+          "analysis_zh": "伦敦的Studio Weave设计了一座用拆除办公楼的石材建造的公共厕所，以“表达民主”。这座厕所位于北帕丁顿，由威斯敏斯特市议会委托建造，旨在取代原有的地下厕所，该厕所因难以进入而受到不良行为的困扰。这一新设施不仅改善了公共卫生条件，也为当地居民提供了更安全的使用环境，体现了社区对公共空间的重视。",
+          "analysis_en": "Studio Weave has designed a public toilet block in London using stone salvaged from a demolished office building to \"express democracy.\" Commissioned by Westminster City Council, this facility replaces an existing underground toilet in the Maida Hill area that was difficult to access and had attracted antisocial behavior. The new structure not only enhances public hygiene but also provides a safer environment for local residents, reflecting the community's commitment to improving public spaces."
         },
         {
-          "rank": 4,
+          "rank": 8,
           "title": "5 Takeaways From a Kennedy Center Ruling That Angered Trump",
           "link": "https://www.nytimes.com/2026/05/30/arts/kennedy-center-trump-name-takeaways.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-30 09:02 UTC",
-          "analysis_zh": "一名联邦法官裁定肯尼迪中心必须将特朗普总统的名字从建筑上移除。这一裁决引发了特朗普及其支持者的不满，因为特朗普在任期间曾为文化艺术做出贡献。此事件不仅影响了特朗普的个人形象，也可能对未来的文化机构命名政策产生深远影响，尤其是在政治与艺术交汇的背景下。",
-          "analysis_en": "A federal judge has ordered the Kennedy Center to remove President Trump's name from the building. This ruling has sparked anger among Trump and his supporters, as they believe he made significant contributions to arts and culture during his presidency. This event not only affects Trump's personal legacy but may also have broader implications for naming policies at cultural institutions, particularly in the context of the intersection between politics and the arts."
+          "analysis_zh": "一名联邦法官裁定肯尼迪中心必须将特朗普总统的名字从建筑上移除。这一裁决引发了特朗普及其支持者的不满，反映出对公共艺术机构与政治人物关系的复杂性。这一决定不仅影响了肯尼迪中心的声誉，也可能对其他类似机构在处理政治捐赠和命名权问题上产生深远影响。",
+          "analysis_en": "A federal judge ruled that the Kennedy Center must remove President Trump's name from the building. This decision has angered Trump and his supporters, highlighting the complex relationship between public arts institutions and political figures. The ruling not only affects the reputation of the Kennedy Center but may also have significant implications for how other similar institutions handle political donations and naming rights in the future."
         },
         {
-          "rank": 5,
+          "rank": 9,
           "title": "Ariana Grande, Ravyn Lenae: 7 Songs We’re Talking About This Week",
           "link": "https://www.nytimes.com/2026/05/30/arts/music/ariana-grande-ravyn-lenae-songs.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-30 09:02 UTC",
-          "analysis_zh": "本周，Ariana Grande重返流行音乐，发布了新单曲，标志着她在音乐风格上的转变。同时，乐队Iceage也推出了新作品，展现了他们对宇宙主题的探索。此外，Ravyn Lenae的音乐则向1980年代致敬，带来复古的氛围。这些新歌不仅丰富了音乐市场的多样性，也可能影响听众对流行音乐的期待和审美取向。",
-          "analysis_en": "This week, Ariana Grande made a return to pop music with a new single, signaling a shift in her musical style. Meanwhile, the band Iceage released new work that explores cosmic themes. Additionally, Ravyn Lenae's music pays homage to the 1980s, bringing a retro vibe. These new songs not only enrich the diversity of the music market but may also influence listeners' expectations and aesthetic preferences in pop music."
+          "analysis_zh": "本周，Ariana Grande重返流行音乐，发布了新的单曲，标志着她音乐风格的转变。同时，Iceage乐队的最新作品也展现了他们对宇宙主题的探索，而Ravyn Lenae则通过她的音乐向1980年代致敬。这些新歌不仅丰富了当代音乐的多样性，也反映了艺术家们在不同文化和时代之间的交融。这一趋势可能会影响未来音乐创作的方向，激励更多艺术家探索不同风格和主题。",
+          "analysis_en": "This week, Ariana Grande returns to pop music with a new single, marking a shift in her musical style. Meanwhile, Iceage's latest work explores cosmic themes, and Ravyn Lenae pays homage to the 1980s through her music. These new songs not only enhance the diversity of contemporary music but also reflect how artists are blending influences from various cultures and eras. This trend may influence the direction of future music creation, inspiring more artists to explore different styles and themes."
         },
         {
-          "rank": 6,
+          "rank": 10,
           "title": "‘Spider-Noir’ Review: Your Friendly Neighborhood Nicolas Cage",
           "link": "https://www.nytimes.com/2026/05/30/arts/television/spider-noir-review.html",
           "source": "NYT > Arts",
           "published_utc": "2026-05-30 09:02 UTC",
-          "analysis_zh": "在亚马逊Prime视频上，尼古拉斯·凯奇在《蜘蛛侠：平行宇宙》中饰演了一位变种人，这部影片将超级英雄与黑色电影元素结合在一起。这部作品展示了凯奇作为演员的多样性和创造力，吸引了许多观众的关注。它的重要性在于，不仅丰富了超级英雄电影的类型，还为观众提供了全新的视角，可能会影响未来类似作品的创作方向。",
-          "analysis_en": "In Amazon Prime Video's \"Spider-Man: Into the Spider-Verse,\" Nicolas Cage plays a mutant in a film that blends superhero and film noir elements. This role showcases Cage's versatility and creativity as an actor, drawing significant attention from audiences. Its importance lies in how it enriches the superhero genre and offers a fresh perspective, which may influence the direction of future similar projects."
-        },
-        {
-          "rank": 7,
-          "title": "On ‘Euphoria’ and Elsewhere, TV Is Having a Sex Cam Spring",
-          "link": "https://www.nytimes.com/2026/05/30/arts/television/euphoria-sex-cam.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-05-30 09:01 UTC",
-          "analysis_zh": "近年来，虚拟性工作在电视节目中并不陌生，但今年这一主题变得更加显眼，成为《狂喜》、《玛戈的金钱烦恼》和《最大快乐保证》等剧集的核心内容。这一趋势反映了社会对性和性工作的开放态度，也引发了关于性别、权力和消费文化的讨论。随着这些剧集的流行，观众可能会重新思考性与情感之间的关系，以及虚拟世界对现实生活的影响。",
-          "analysis_en": "In recent years, virtual sex work has not been unfamiliar in television, but this year it has become more prominent, central to series like \"Euphoria,\" \"Margo's Got Money Troubles,\" and \"Maximum Pleasure Guaranteed.\" This trend reflects a growing societal openness towards sex and sex work, sparking discussions about gender, power, and consumer culture. As these shows gain popularity, viewers may reconsider the relationship between sex and emotions, as well as the impact of the virtual world on real life."
-        },
-        {
-          "rank": 8,
-          "title": "7 Podcasts About the Joys of Bird-Watching",
-          "link": "https://www.nytimes.com/2026/05/30/arts/bird-watching-podcasts-sean-bean.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-05-30 09:01 UTC",
-          "analysis_zh": "最近，《纽约时报》发布了一篇关于七个鸟类观察播客的文章。这些播客不仅提供了专业的建议，还分享了许多有趣的事实，旨在帮助初学者和爱好者更好地欣赏鸟类的世界。这一话题的重要性在于，随着人们对自然的关注增加，鸟类观察作为一种放松和享受自然的方式，正在受到越来越多的青睐。这些播客可能会激励更多人参与到这一活动中，从而促进对环境保护的关注。",
-          "analysis_en": "Recently, The New York Times published an article about seven podcasts focused on bird-watching. These shows provide expert advice and interesting facts to help both beginners and enthusiasts appreciate the world of birds more fully. This topic is significant as interest in nature is growing, and bird-watching is becoming an increasingly popular way to relax and enjoy the outdoors. These podcasts may inspire more people to engage in this activity, potentially raising awareness for environmental conservation."
-        },
-        {
-          "rank": 9,
-          "title": "Dezeen's favourite furniture and lighting from May",
-          "link": "https://www.dezeen.com/2026/05/30/dezeen-favourite-furniture-and-lighting-may/",
-          "source": "Dezeen",
-          "published_utc": "2026-05-30 09:00 UTC",
-          "analysis_zh": "在最近的设计回顾中，Dezeen展示了一些创意十足的家具和照明作品，其中包括一款既可以作为咖啡桌又能玩桌游的设计，以及一款灵感来源于心理治疗师沙发的作品。这些设计不仅展现了功能与美学的结合，也反映了当代设计师对生活方式的独特理解。这些作品的出现可能会影响未来家具设计的趋势，鼓励更多设计师探索多功能和趣味性的可能性。",
-          "analysis_en": "In a recent design roundup, Dezeen highlighted several playful furniture and lighting pieces, including a coffee table that also serves as a board game and a design inspired by a psychotherapist's couch. These creations not only showcase the blend of functionality and aesthetics but also reflect contemporary designers' unique interpretations of lifestyle. The emergence of such pieces may influence future furniture design trends, encouraging more designers to explore multifunctionality and whimsy in their work."
-        },
-        {
-          "rank": 10,
-          "title": "fragmented timber volumes compose forested mountain housing by arup in albania",
-          "link": "https://www.designboom.com/architecture/fragmented-timber-volumes-forested-mountain-housing-arup-albania-dajti-village/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-05-30 05:15 UTC",
-          "analysis_zh": "阿尔巴尼亚的建筑公司Arup设计了一组分散的木质建筑，位于森林覆盖的山地上。这些建筑的梯田式木质外立面为倾斜的场地增添了纹理和节奏感。这一设计不仅提升了当地的美学价值，还可能吸引更多游客前来体验自然与建筑的和谐共存。",
-          "analysis_en": "The architectural firm Arup has designed a series of fragmented timber structures in a forested mountainous area of Albania. The terraced timber facades introduce texture and rhythm to the sloping site. This design not only enhances the aesthetic appeal of the region but may also attract more visitors to experience the harmony between nature and architecture."
+          "analysis_zh": "在亚马逊Prime视频上，尼古拉斯·凯奇在《蜘蛛侠：平行宇宙》中饰演了一位突变体，展现了他在超级英雄与黑色电影结合中的独特魅力。这部影片不仅为观众提供了新鲜的视听体验，还突显了凯奇作为演员的多面性。这样的作品在当前的影视市场中尤为重要，因为它吸引了不同类型的观众，并可能推动更多类似的创新项目。",
+          "analysis_en": "In Amazon Prime Video's \"Spider-Man: Noir,\" Nicolas Cage plays a mutant character, showcasing his unique charm in a blend of superhero and film noir genres. This film not only offers viewers a fresh audiovisual experience but also highlights Cage's versatility as an actor. Such works are particularly significant in today's entertainment market, as they attract diverse audiences and may encourage the development of more innovative projects."
         }
       ]
     }
