@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-03 18:24:10 UTC",
-  "generated_at_unix": 1780511050,
+  "generated_at": "2026-06-03 22:39:10 UTC",
+  "generated_at_unix": 1780526350,
   "window": {
-    "from_utc": "2026-06-02 18:24:10 UTC",
-    "to_utc": "2026-06-03 18:24:10 UTC",
+    "from_utc": "2026-06-02 22:39:10 UTC",
+    "to_utc": "2026-06-03 22:39:10 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,153 +14,162 @@
       "items": [
         {
           "rank": 1,
-          "title": "Bessent says he is performing IRS commissioner duties amid Trump tax settlement scrutiny",
-          "link": "https://www.cnbc.com/2026/06/03/bessent-irs-commissioner-trump-tax-settlement-doj-fund.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-06-03 18:19 UTC",
-          "analysis_zh": "美国财政部长在特朗普税务和解的审查中受到民主党人的质询，特别是关于泄露的税务信息是否会影响其他纳税人的待遇。此事件引发了对税务透明度和公平性的广泛关注。若其他纳税人也因类似情况受到不公正对待，可能会导致公众对税务系统的信任下降，并引发更广泛的政治争论。",
-          "analysis_en": "The U.S. Treasury Secretary faced questioning from Democrats regarding the treatment of other taxpayers affected by the leak of Trump's tax information. This incident has raised significant concerns about tax transparency and fairness. If other taxpayers are treated unfairly due to similar circumstances, it could lead to a decline in public trust in the tax system and spark broader political debates."
+          "title": "How single-stock turbulence presents ‘asymmetric’ downside risk for a rather calm S&P 500",
+          "link": "https://www.marketwatch.com/story/how-single-stock-turbulence-presents-asymmetric-downside-risk-for-a-rather-calm-s-p-500-9748b2d8?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-06-03 22:26 UTC",
+          "analysis_zh": "近期，个别股票的波动性上升，而整体市场的波动性却在下降，这导致了所谓的“分散交易”现象。这种情况表明，尽管标准普尔500指数相对平稳，但个别股票的抛售风险正在增加。这一趋势可能会影响投资者的决策，促使他们更加关注个股的表现，而非整体市场的走势。",
+          "analysis_en": "Recently, individual stocks have experienced rising volatility while overall market volatility has decreased, leading to a phenomenon known as \"dispersion trading.\" This situation indicates that, despite the relative calm of the S&P 500 index, the risk of sell-offs in individual stocks is increasing. This trend may influence investors' decisions, prompting them to pay more attention to the performance of individual stocks rather than the broader market movements."
         },
         {
           "rank": 2,
-          "title": "About 95% of day traders lose money, but a new rule will make it easier to do so anyway",
-          "link": "https://www.marketwatch.com/story/about-95-of-day-traders-lose-money-but-a-new-rule-will-make-it-easier-to-do-so-anyway-b576498b?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-06-03 18:18 UTC",
-          "analysis_zh": "根据市场观察，日内交易者的损失率高达95%，而新的规则将在6月4日生效，可能使得零售投资者更容易亏损。尽管这一规则的取消可能会吸引更多的散户参与日内交易，但他们仍需意识到其中的风险。此举可能导致更多人因缺乏经验而遭受重大财务损失，从而影响整个市场的稳定性。",
-          "analysis_en": "According to MarketWatch, about 95% of day traders lose money, and a new rule set to take effect on June 4 may make it easier for retail investors to incur losses. While the removal of this rule could attract more individual traders into day trading, they must remain aware of the associated risks. This change could lead to significant financial losses for inexperienced traders, potentially affecting the overall stability of the market."
+          "title": "Broadcom’s revenue misses estimates as AI chip race heats up, shares tumble",
+          "link": "https://www.investing.com/news/stock-market-news/broadcom-forecasts-quarterly-revenue-above-estimates-4725166",
+          "source": "Stock Market News",
+          "published_utc": "2026-06-03 22:18 UTC",
+          "analysis_zh": "博通公司在最新财报中公布的收入未能达到市场预期，这引发了投资者的担忧，导致其股价大幅下跌。随着人工智能芯片市场竞争的加剧，博通面临着来自其他公司的压力，这使得其未来的增长前景变得更加不确定。这一事件不仅影响了博通自身的市场表现，也可能对整个半导体行业产生连锁反应，投资者需密切关注相关公司的表现。",
+          "analysis_en": "Broadcom recently reported that its revenue fell short of market expectations, causing significant concern among investors and a sharp decline in its stock price. As competition in the AI chip market intensifies, Broadcom is facing pressure from rival companies, making its future growth prospects more uncertain. This event not only affects Broadcom's market performance but may also have a ripple effect on the entire semiconductor industry, prompting investors to closely monitor the performance of related companies."
         },
         {
           "rank": 3,
-          "title": "Social Security benefit cuts could average $500 a month for retirees if trust fund runs dry, report finds",
-          "link": "https://www.cnbc.com/2026/06/03/social-security-benefit-cuts-trust-fund-shortfall.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-06-03 18:12 UTC",
-          "analysis_zh": "美国社会保障局的退休信托基金面临即将枯竭的风险，最新报告显示，如果信托基金耗尽，退休人员的福利可能平均减少500美元每月。这一情况引发了广泛关注，因为社会保障是许多退休人员的主要收入来源。福利的削减将直接影响到数百万人的生活水平，可能导致经济压力加剧，尤其是在通货膨胀和生活成本上升的背景下。",
-          "analysis_en": "The U.S. Social Security Administration's retirement trust fund is at risk of depletion, with a new report indicating that retirees could see their benefits cut by an average of $500 per month if the fund runs dry. This issue is significant as Social Security is a primary source of income for many retirees. Reductions in benefits could directly impact the living standards of millions, potentially exacerbating economic pressures, especially against the backdrop of rising inflation and living costs."
+          "title": "The Fed can’t protect consumers from supply shocks and price gouging — but Congress can",
+          "link": "https://www.marketwatch.com/story/the-2-types-of-inflation-the-fed-cant-control-and-how-congress-must-protect-your-wallet-7ac2079a?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-06-03 22:14 UTC",
+          "analysis_zh": "由于全球性干扰导致美国的食品和汽油价格上涨，消费者面临着供应冲击和价格操纵的问题。虽然美联储无法有效保护消费者，但国会可以采取措施来应对这一挑战。这一情况凸显了立法者在维护民众利益方面的重要性，尤其是在经济不稳定时期。如果国会能够采取有效的政策，可能会减轻消费者的负担，促进经济复苏。",
+          "analysis_en": "Global disruptions have led to rising grocery and gasoline prices for Americans, creating challenges related to supply shocks and price gouging. While the Federal Reserve is unable to effectively protect consumers, Congress has the opportunity to take action to address these issues. This situation highlights the importance of lawmakers in safeguarding public interests, especially during times of economic instability. If Congress can implement effective policies, it may alleviate the burden on consumers and support economic recovery."
         },
         {
           "rank": 4,
-          "title": "Khanna and China committee press Blanche for report on Chinese manufacturing in U.S.",
-          "link": "https://www.cnbc.com/2026/06/03/china-blanche-khanna-labor-manufacturing.html",
+          "title": "Broadcom stock plunges on weak software sales, unchanged AI chip forecast for the year",
+          "link": "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html",
           "source": "US Top News and Analysis",
-          "published_utc": "2026-06-03 18:07 UTC",
-          "analysis_zh": "美国国会代表Khanna和中国委员会正在施压，要求司法部尽快提交关于中国制造业在美国的报告。该报告原定于5月发布，主要涉及美国汽车行业中非法中国劳工的问题。这一事件引起了广泛关注，因为它不仅关系到美国的就业市场，还可能影响中美之间的贸易关系。若报告揭示了严重的劳动违规行为，可能导致更严格的监管措施和政策调整。",
-          "analysis_en": "Congressman Khanna and the China committee are pressing the Justice Department for a report on Chinese manufacturing in the U.S., which was originally due in May. This report focuses on illegal Chinese labor in the American auto industry. The situation is significant as it pertains to the U.S. job market and could impact trade relations between the U.S. and China. If the report reveals serious labor violations, it may lead to stricter regulatory measures and policy changes."
+          "published_utc": "2026-06-03 22:13 UTC",
+          "analysis_zh": "博通公司在周三发布的第二季度财报中，营收未能达到市场预期，导致其股票大幅下跌。此次财报显示，软件销售疲软，尽管公司对人工智能芯片的年度预测保持不变。这一情况引发了投资者的担忧，可能影响到博通在未来的市场表现及其与客户的关系，尤其是在竞争激烈的科技行业中。",
+          "analysis_en": "Broadcom reported its fiscal second-quarter results on Wednesday, missing revenue estimates, which led to a significant drop in its stock price. The report highlighted weak software sales, although the company maintained its annual forecast for AI chips. This situation has raised concerns among investors, potentially impacting Broadcom's market performance and its relationships with clients, especially in the highly competitive tech industry."
         },
         {
           "rank": 5,
-          "title": "I want to give my brother and his kids $5,000 each. My financial adviser is reluctant. Who’s right?",
-          "link": "https://www.marketwatch.com/story/i-want-to-give-my-brother-and-his-kids-5-000-each-my-financial-adviser-is-reluctant-whos-right-47cbb74e?mod=mw_rss_topstories",
+          "title": "I am 71. Would it be foolish to sell $10,000 in stock to visit my grandchildren in Thailand?",
+          "link": "https://www.marketwatch.com/story/i-am-71-and-comfortable-should-i-sell-10-000-in-stock-to-visit-my-grandkids-in-thailand-or-dip-into-my-50-000-savings-16230c6a?mod=mw_rss_topstories",
           "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-06-03 18:00 UTC",
-          "analysis_zh": "一位投资者希望给他的兄弟和侄子每人赠送5000美元，但他的财务顾问对此表示犹豫。这位投资者曾经借给兄弟超过12000美元，但他认为这笔钱可能再也无法收回。这一事件引发了对家庭财务支持的讨论，尤其是在借贷和赠与之间的界限。财务顾问的担忧可能源于对未来财务安全的考虑，这可能会影响投资者的决策和家庭关系。",
-          "analysis_en": "An investor wants to give his brother and his nephews $5,000 each, but his financial adviser is hesitant about the decision. The investor has previously loaned his brother over $12,000, which he doubts he will ever recover. This situation raises questions about financial support within families, particularly the distinction between lending and gifting. The adviser's concerns may stem from considerations about future financial security, which could influence the investor's choices and family dynamics."
+          "published_utc": "2026-06-03 22:09 UTC",
+          "analysis_zh": "一位71岁的投资者正在考虑是否应该出售价值10,000美元的股票，以便前往泰国探望孙子孙女。他表示自己对依靠社会保障和养老金收入的生活感到满意。这一决定不仅涉及个人财务管理，还反映了老年人在享受家庭生活与投资回报之间的权衡。出售股票可能会影响他的投资组合，但也可能为他带来珍贵的家庭时光。",
+          "analysis_en": "A 71-year-old investor is contemplating whether to sell $10,000 in stock to visit his grandchildren in Thailand. He feels comfortable living on his Social Security and pension income. This decision involves not only personal financial management but also highlights the balance seniors must strike between enjoying family time and maintaining investment returns. Selling the stock could impact his investment portfolio, but it may also provide him with invaluable family experiences."
         },
         {
           "rank": 6,
-          "title": "Why is Circle Internet stock sliding today?",
-          "link": "https://www.investing.com/news/stock-market-news/why-is-circle-internet-stock-sliding-today-93CH-4724971",
+          "title": "US tariff doubling cut EU steel exports by 34%, steel body says",
+          "link": "https://www.investing.com/news/stock-market-news/us-tariff-doubling-cut-eu-steel-exports-by-34-steel-body-says-4725412",
           "source": "Stock Market News",
-          "published_utc": "2026-06-03 17:58 UTC",
-          "analysis_zh": "今天，Circle Internet的股票出现下滑，投资者对公司未来的盈利能力表示担忧。这一变化可能与市场对加密货币行业的整体情绪有关，尤其是在监管政策不确定的情况下。股票的下跌不仅影响了公司的市值，也可能对投资者的信心产生负面影响，进而影响到整个行业的投资动态。",
-          "analysis_en": "Today, Circle Internet's stock has declined, raising concerns among investors regarding the company's future profitability. This shift may be linked to the overall sentiment in the cryptocurrency sector, particularly amid uncertainty surrounding regulatory policies. The drop in stock price not only affects the company's market value but could also negatively impact investor confidence, potentially influencing investment trends across the entire industry."
+          "published_utc": "2026-06-03 22:06 UTC",
+          "analysis_zh": "美国对欧盟钢铁的关税翻倍，导致欧盟钢铁出口减少了34%。这一政策的实施不仅影响了欧盟的钢铁产业，也可能对全球钢铁市场产生连锁反应。随着出口量的下降，欧盟钢铁生产商面临更大的经济压力，可能导致裁员和企业倒闭。此外，这一变化可能会加剧美欧之间的贸易紧张关系，影响未来的贸易谈判。",
+          "analysis_en": "The U.S. has doubled tariffs on European steel, resulting in a 34% decrease in exports from the EU. This policy not only impacts the European steel industry but may also have ripple effects on the global steel market. With the decline in export volume, EU steel producers are facing increased economic pressure, which could lead to layoffs and business closures. Furthermore, this change may exacerbate trade tensions between the U.S. and Europe, affecting future trade negotiations."
         },
         {
           "rank": 7,
-          "title": "I’m 73 and living 100% off dividends from my stocks. How can I create even more income?",
-          "link": "https://www.marketwatch.com/story/im-73-and-living-100-off-dividends-from-my-stocks-how-can-i-create-even-more-income-74b372f1?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-06-03 17:58 UTC",
-          "analysis_zh": "一位73岁的投资者表示，他完全依靠股票的股息生活，并希望找到增加收入的方法。虽然“防弹”投资组合可能难以实现，但如果有足够的资金投入，接近这一目标是有可能的。这一话题引发了对退休生活质量的关注，尤其是在经济不确定性增加的背景下。投资者需要考虑如何优化资产配置，以确保稳定的现金流和未来的财务安全。",
-          "analysis_en": "A 73-year-old investor has stated that he lives entirely off the dividends from his stocks and is looking for ways to increase his income. While a \"bulletproof\" portfolio may be difficult to achieve, it is possible to get close if one has sufficient funds invested. This topic highlights concerns about the quality of retirement living, especially amid rising economic uncertainties. Investors need to consider how to optimize their asset allocation to ensure stable cash flow and future financial security."
+          "title": "OpenAI CEO Sam Altman meets with lawmakers, Trump officials in DC",
+          "link": "https://www.cnbc.com/2026/06/03/open-ai-altman-congress-trump-eo.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-06-03 22:05 UTC",
+          "analysis_zh": "OpenAI首席执行官山姆·阿尔特曼最近在华盛顿与立法者和特朗普政府官员会面，讨论人工智能相关的政策。特朗普总统本周签署了一项关于人工智能的行政命令，阿尔特曼对此表示支持。这一事件的重要性在于，人工智能的政策制定将直接影响技术的发展方向和行业的监管环境，可能会促进更多的投资和创新。",
+          "analysis_en": "OpenAI CEO Sam Altman recently met with lawmakers and officials from the Trump administration in Washington to discuss policies related to artificial intelligence. President Trump signed an executive order regarding AI this week, which Altman expressed support for. This event is significant because the formulation of AI policies will directly influence the direction of technology development and the regulatory environment in the industry, potentially leading to increased investment and innovation."
         },
         {
           "rank": 8,
-          "title": "Automakers, retailers warn US memory-chip shortage is impacting prices",
-          "link": "https://www.investing.com/news/stock-market-news/automakers-retailers-warn-memory-chip-shortage-impacting-prices-4724897",
+          "title": "D.E. Shaw extends investor exit time to four years for flagship fund - Bloomberg",
+          "link": "https://www.investing.com/news/stock-market-news/de-shaw-extends-investor-exit-time-to-four-years-for-flagship-fund--bloomberg-93CH-4725407",
           "source": "Stock Market News",
-          "published_utc": "2026-06-03 17:54 UTC",
-          "analysis_zh": "美国汽车制造商和零售商近日警告称，内存芯片短缺正在影响产品价格。这一问题的出现主要是由于全球供应链的中断，导致芯片生产无法满足市场需求。内存芯片是现代电子设备的关键组件，其短缺可能会导致汽车和电子产品的生产延迟，从而影响消费者的购买决策和市场整体经济。随着价格上涨，消费者可能会面临更高的支出，这对经济复苏构成挑战。",
-          "analysis_en": "U.S. automakers and retailers have recently warned that the shortage of memory chips is affecting product prices. This issue has arisen mainly due to disruptions in the global supply chain, which have hindered chip production from meeting market demand. Memory chips are essential components in modern electronic devices, and their scarcity could lead to delays in the production of cars and electronics, impacting consumer purchasing decisions and the overall economy. As prices rise, consumers may face higher expenses, posing a challenge to economic recovery."
+          "published_utc": "2026-06-03 22:02 UTC",
+          "analysis_zh": "D.E. Shaw最近宣布将其旗舰基金的投资者退出时间延长至四年。这一决定意味着投资者在未来四年内将无法轻易撤回资金，这可能会影响他们的流动性选择。此举反映了市场的不确定性，可能会导致更多投资者重新评估他们的投资策略，尤其是在当前经济环境下。",
+          "analysis_en": "D.E. Shaw has recently announced an extension of the investor exit time for its flagship fund to four years. This decision means that investors will not be able to easily withdraw their funds for the next four years, which may affect their liquidity options. This move reflects the uncertainty in the market and could lead more investors to reassess their investment strategies, especially in the current economic climate."
         },
         {
           "rank": 9,
-          "title": "Here’s advice on how to pick a doctor — from a doctor",
-          "link": "https://www.marketwatch.com/story/do-ask-a-friend-dont-pay-attention-to-ads-heres-advice-on-how-to-pick-a-doctor-from-a-doctor-93bbdaf2?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-06-03 17:50 UTC",
-          "analysis_zh": "一位心脏病专家提供了选择医生的最佳建议，包括在寻找医生时应问自己的问题。这一建议对于患者来说尤为重要，因为选择合适的医生直接关系到医疗效果和健康管理。了解如何评估医生的专业背景和沟通能力，可以帮助患者做出更明智的决策，从而提高就医体验和治疗效果。",
-          "analysis_en": "A cardiologist has provided valuable advice on how to choose a doctor, including key questions patients should ask themselves during the process. This guidance is particularly significant for patients, as selecting the right doctor can directly impact medical outcomes and health management. By understanding how to evaluate a doctor's qualifications and communication skills, patients can make more informed decisions, ultimately enhancing their healthcare experience and treatment effectiveness."
+          "title": "TransAlta to buy Blackstone-backed Colorado gas-fired plants for $1 billion",
+          "link": "https://www.investing.com/news/stock-market-news/transalta-to-buy-blackstonebacked-colorado-peaking-plants-for-1-billion-4725240",
+          "source": "Stock Market News",
+          "published_utc": "2026-06-03 22:00 UTC",
+          "analysis_zh": "加拿大的TransAlta公司宣布将以10亿美元收购由黑石集团支持的科罗拉多州燃气发电厂。这笔交易不仅将扩大TransAlta在美国的业务规模，还可能影响该地区的能源市场格局。随着可再生能源的崛起，传统燃气发电的角色也在不断变化，这笔收购可能会加速这一转型。投资者和行业观察者都在关注这笔交易的后续发展。",
+          "analysis_en": "TransAlta, a Canadian company, has announced its acquisition of Blackstone-backed gas-fired plants in Colorado for $1 billion. This deal will not only expand TransAlta's presence in the U.S. market but may also impact the energy landscape in the region. As renewable energy continues to rise, the role of traditional gas-fired power is evolving, and this acquisition could accelerate that transition. Investors and industry observers are closely watching the developments following this transaction."
         },
         {
           "rank": 10,
-          "title": "Citi Ranks Top Nuclear Stocks as SMR Development Gains Momentum",
-          "link": "https://www.investing.com/news/stock-market-news/citi-ranks-top-nuclear-stocks-as-smr-development-gains-momentum-93CH-4724970",
-          "source": "Stock Market News",
-          "published_utc": "2026-06-03 17:48 UTC",
-          "analysis_zh": "花旗集团近日发布报告，将小型模块化反应堆（SMR）相关股票列为投资优选。随着全球对清洁能源需求的增加，SMR技术的开发正逐渐加速。这一趋势不仅可能改变能源行业的格局，还可能吸引更多投资者关注核能领域，推动相关公司的股价上涨。",
-          "analysis_en": "Citi recently released a report ranking stocks related to small modular reactors (SMRs) as top investment choices. As global demand for clean energy rises, the development of SMR technology is gaining momentum. This trend could not only reshape the energy sector but also attract more investors to the nuclear energy field, potentially driving up the stock prices of related companies."
+          "title": "You’re going to pay tax on RMDs — there’s no way around it. Or is there?",
+          "link": "https://www.marketwatch.com/story/youre-going-to-pay-tax-on-rmds-theres-no-way-around-it-or-is-there-26e864cf?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-06-03 21:57 UTC",
+          "analysis_zh": "根据最新报道，退休账户的最低分配要求（RMDs）将会被征税，这意味着退休人员在提取资金时需要支付税款。这一变化对许多依赖这些资金维持生活的退休人士来说至关重要，因为这可能会影响他们的财务规划和现金流。了解如何有效管理这些税务问题，将帮助退休人员更好地保护他们的退休资金。",
+          "analysis_en": "According to recent reports, required minimum distributions (RMDs) from retirement accounts will be subject to taxation, meaning retirees will need to pay taxes when withdrawing these funds. This change is significant for many retirees who rely on this money for their living expenses, as it could impact their financial planning and cash flow. Understanding how to effectively manage these tax implications will help retirees better protect their retirement savings."
         }
       ]
     },
     "健康": {
       "description": "医学、营养、抗衰老、代谢与公共健康",
-      "count": 6,
+      "count": 7,
       "items": [
         {
           "rank": 1,
+          "title": "Rubio Suggests U.S. Return to Global Vaccine Program in Rebuke of Kennedy",
+          "link": "https://www.nytimes.com/2026/06/02/us/politics/rubio-kennedy-vaccines-gavi.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-06-03 20:15 UTC",
+          "analysis_zh": "美国国务卿马尔科·鲁比奥在向参议员的证词中表示，他正在重新掌控美国与国际疫苗联盟Gavi的关系。这一表态的重要性在于，全球疫苗计划对于应对疫情和提高疫苗接种率至关重要。鲁比奥的发言可能会影响美国在全球公共卫生事务中的角色，并促进国际合作以应对未来的健康危机。",
+          "analysis_en": "Secretary of State Marco Rubio indicated in his testimony to senators that he is reclaiming control over the U.S. relationship with Gavi, the international vaccine alliance. This statement is significant because global vaccine programs are crucial for addressing pandemics and increasing vaccination rates. Rubio's remarks may influence the U.S.'s role in global public health and promote international cooperation to tackle future health crises."
+        },
+        {
+          "rank": 2,
+          "title": "An Uncertain Path for Americans Exposed to Ebola",
+          "link": "https://www.nytimes.com/2026/06/03/us/politics/trump-administration-ebola-response.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-06-03 19:39 UTC",
+          "analysis_zh": "美国政府在处理埃博拉病毒暴露者的回国问题上态度不明，尽管已有成熟的程序来监测和治疗这些人。特朗普政府尚未表态是否允许潜在感染者返回美国，这引发了公众的担忧。这一决定不仅影响到被暴露者的健康安全，也可能对美国的公共卫生政策和应急响应产生深远影响。",
+          "analysis_en": "The U.S. government's unclear stance on allowing Americans exposed to Ebola to return home raises significant concerns, despite established procedures for monitoring and treatment. The Trump administration has not yet indicated whether it will permit those at risk to come back to the country, which has sparked public anxiety. This decision could not only affect the health and safety of those exposed but also have lasting implications for U.S. public health policy and emergency response strategies."
+        },
+        {
+          "rank": 3,
           "title": "Popular GLP-1 weight-loss drugs linked to lower risks of addiction and overdose",
           "link": "https://www.sciencedaily.com/releases/2026/06/260603023919.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-03 14:04 UTC",
-          "analysis_zh": "一项针对超过60万名美国退伍军人的大规模研究发现，流行的GLP-1药物如赛美特肽不仅有助于控制糖尿病和减肥，还可能对抗成瘾问题。研究表明，使用这些药物的人群在酒精、尼古丁、大麻、可卡因和阿片类药物等成瘾物质的使用障碍发生率上显著降低。此外，已经面临成瘾问题的患者在使用这些药物后，过量、住院和急救就诊的次数也减少了。这项研究的发现可能会改变我们对GLP-1药物的认识，推动其在成瘾治疗中的应用。",
-          "analysis_en": "A large-scale study involving over 600,000 U.S. veterans has revealed that popular GLP-1 drugs, such as semaglutide, may do more than just assist with diabetes management and weight loss; they could also combat addiction. The research indicates that individuals taking these medications are significantly less likely to develop substance use disorders related to alcohol, nicotine, cannabis, cocaine, and opioids. Furthermore, those already struggling with addiction experienced fewer overdoses, hospitalizations, and emergency visits after starting the treatment. These findings could reshape our understanding of GLP-1 drugs and encourage their use in addiction treatment."
+          "analysis_zh": "一项针对超过60万名美国退伍军人的大规模研究表明，流行的GLP-1减肥药物如赛美特肽不仅有助于控制糖尿病和减轻体重，还可能在对抗成瘾方面发挥重要作用。研究发现，服用这些药物的人在发展成瘾性疾病的风险上显著降低，包括酒精、尼古丁、大麻、可卡因和阿片类药物等。同时，已经面临成瘾问题的人群在过量服药、住院和急诊就医的情况也有所减少。这项研究的发现可能会改变我们对GLP-1药物的认知，并为成瘾治疗提供新的思路。",
+          "analysis_en": "A large-scale study involving over 600,000 U.S. veterans has revealed that popular GLP-1 weight-loss medications, such as semaglutide, may do more than just assist with diabetes management and weight loss; they could also play a significant role in combating addiction. The research indicated that individuals taking these medications had a notably lower risk of developing substance use disorders related to alcohol, nicotine, cannabis, cocaine, and opioids. Additionally, those already struggling with addiction experienced fewer overdoses, hospitalizations, and emergency visits. These findings could reshape our understanding of GLP-1 drugs and open new avenues for addiction treatment."
         },
         {
-          "rank": 2,
+          "rank": 4,
           "title": "This new diabetes pill burns fat without the downsides of Ozempic",
           "link": "https://www.sciencedaily.com/releases/2026/06/260603015541.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-03 13:27 UTC",
-          "analysis_zh": "科学家们开发了一种新的实验性糖尿病和肥胖药物，这种药物与现有的Ozempic等药物有着截然不同的作用机制。它通过激活骨骼肌的代谢来帮助降低血糖和增加脂肪燃烧，而不是简单地减少食欲。早期的临床结果表明，这种治疗方法安全且耐受性良好。这一发现可能会改变糖尿病和肥胖的治疗方式，尤其是对于那些担心肌肉流失和食欲抑制副作用的患者。",
-          "analysis_en": "Scientists have developed a new experimental pill for diabetes and obesity that operates in a completely different way from existing drugs like Ozempic. Instead of merely reducing appetite, this medication activates metabolism in skeletal muscle, aiding in lowering blood sugar and increasing fat burning. Early clinical results indicate that the treatment is safe and well-tolerated. This discovery could potentially transform the treatment landscape for diabetes and obesity, particularly for patients concerned about side effects such as muscle loss and appetite suppression."
+          "analysis_zh": "科学家们研发出一种新的实验性糖尿病和肥胖药物，这种药物的作用机制与现有的Ozempic等药物截然不同。它通过激活骨骼肌的代谢来降低血糖和增加脂肪燃烧，而不是通过减少食欲。这一发现具有重要意义，因为它可能在不造成肌肉流失的情况下改善代谢健康，尤其对2型糖尿病和肥胖患者有积极影响。早期临床试验结果显示，该药物安全性良好，耐受性强，未来有望成为治疗糖尿病的新选择。",
+          "analysis_en": "Scientists have developed a new experimental drug for diabetes and obesity that operates in a fundamentally different way than existing medications like Ozempic. Instead of reducing appetite, this drug activates metabolism in skeletal muscle to lower blood sugar and enhance fat burning. This finding is significant as it may improve metabolic health without causing muscle loss, which is particularly beneficial for individuals with type 2 diabetes and obesity. Early clinical trial results indicate that the drug is safe and well-tolerated, suggesting it could become a new treatment option for diabetes in the future."
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "Scientists reverse anxiety by fixing a tiny brain circuit",
           "link": "https://www.sciencedaily.com/releases/2026/06/260603015356.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-03 12:16 UTC",
-          "analysis_zh": "科学家们发现了一种特定的脑回路，与焦虑、抑郁行为和社交退缩密切相关。通过恢复该回路的正常活动，研究人员成功逆转了小鼠的焦虑和社交缺陷。这一发现不仅揭示了情绪障碍的潜在机制，还为未来的治疗提供了新的靶点，可能会改变我们对焦虑症和相关疾病的治疗方法。",
-          "analysis_en": "Scientists have identified a specific brain circuit that is closely linked to anxiety, depression-like behaviors, and social withdrawal. By restoring normal activity in this circuit, researchers successfully reversed anxiety and social deficits in mice. This discovery not only reveals potential mechanisms behind emotional disorders but also provides a new target for future treatments, which could change how we approach the treatment of anxiety disorders and related conditions."
+          "analysis_zh": "科学家们发现了一种特定的大脑回路，与焦虑和社交行为密切相关。通过恢复这一微小回路的正常活动，研究人员成功逆转了小鼠的焦虑和社交缺陷。这一发现不仅为理解情绪障碍提供了新的视角，也为未来的治疗方法开辟了新的方向。若能在人类中实现类似的效果，将可能改善许多心理健康问题的治疗。",
+          "analysis_en": "Scientists have identified a specific brain circuit that is closely linked to anxiety and social behavior. By restoring normal activity in this tiny circuit, researchers were able to reverse anxiety and social deficits in mice. This discovery not only offers new insights into emotional disorders but also opens up new avenues for future treatments. If similar effects can be achieved in humans, it could significantly improve the treatment of various mental health issues."
         },
         {
-          "rank": 4,
+          "rank": 6,
           "title": "Scientists discovered something surprising about french fries and diabetes",
           "link": "https://www.sciencedaily.com/releases/2026/06/260603015218.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-03 06:14 UTC",
-          "analysis_zh": "一项大规模研究发现，食用每周三份薯条与2型糖尿病风险增加20%相关，而其他形式的土豆如烤、煮或捣碎的土豆则没有显著增加风险。这项研究的重要性在于，它揭示了薯条可能是导致土豆不良声誉的主要原因。研究还发现，用全谷物替代土豆可以降低糖尿病风险，而用白米饭替代则会增加风险。这些发现可能会影响人们的饮食选择，促使更多人关注食物的烹饪方式和替代品的选择。",
-          "analysis_en": "A large-scale study has found that consuming three servings of French fries per week is associated with a 20% higher risk of developing type 2 diabetes, while other forms of potatoes, such as baked, boiled, or mashed, do not show a significant increase in risk. This research is significant as it suggests that French fries may be the main culprit behind the negative reputation of potatoes. Additionally, the study found that replacing potatoes with whole grains can lower diabetes risk, whereas substituting them with white rice increases it. These findings could influence dietary choices, encouraging people to pay more attention to cooking methods and the alternatives they choose."
+          "analysis_zh": "一项大规模研究发现，食用每周三份薯条与2型糖尿病风险增加20%相关，而用其他方式烹饪的土豆（如烤、煮或捣碎）则没有显著的风险增加。这项研究的重要性在于，它揭示了薯条可能是导致土豆负面声誉的主要原因。研究还发现，用全谷物替代土豆可以降低糖尿病风险，而用白米替代则会增加风险。这些发现可能会影响人们的饮食选择，促使更多人关注健康的碳水化合物来源。",
+          "analysis_en": "A large study found that consuming three servings of French fries per week is associated with a 20% increased risk of developing type 2 diabetes, while other forms of potatoes, such as baked, boiled, or mashed, showed no significant risk increase. This research is significant as it suggests that French fries may be the main contributor to the negative reputation of potatoes. Additionally, the study found that replacing potatoes with whole grains can lower diabetes risk, whereas substituting them with white rice increases the risk. These findings may influence dietary choices, encouraging people to pay more attention to healthier carbohydrate sources."
         },
         {
-          "rank": 5,
+          "rank": 7,
           "title": "Brain scans reveal two distinct types of autism",
           "link": "https://www.sciencedaily.com/releases/2026/06/260602021634.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-03 04:46 UTC",
-          "analysis_zh": "科学家们发现自闭症可能包含至少两种生物学上不同的亚型，这一发现为未来的个性化治疗提供了新的可能性。研究表明，一种亚型表现为大脑区域之间的连接性异常增强，而另一种则表现为连接性降低。这项研究的成果不仅有助于更准确地诊断自闭症，还可能推动针对不同亚型的治疗方法的发展，从而改善患者的生活质量。",
-          "analysis_en": "Scientists have discovered that autism may consist of at least two biologically distinct subtypes, which opens up new possibilities for personalized treatment. One subtype is characterized by unusually high connectivity between brain regions, while the other shows reduced connectivity. This research not only aids in more accurate autism diagnosis but may also promote the development of tailored treatment approaches for different subtypes, ultimately improving the quality of life for patients."
-        },
-        {
-          "rank": 6,
-          "title": "Rubio Suggests U.S. Return to Global Vaccine Program in Rebuke of Kennedy",
-          "link": "https://www.nytimes.com/2026/06/02/us/politics/rubio-kennedy-vaccines-gavi.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-06-02 21:57 UTC",
-          "analysis_zh": "美国国务卿马尔科·鲁比奥在向参议员作证时表示，他正在重新掌控美国与全球疫苗联盟Gavi的关系。这一表态不仅反映了美国在全球疫苗分配中的重要角色，也显示出对疫苗政策的重新审视。此举可能会影响美国在国际卫生事务中的领导地位，并对全球疫苗接种的公平性产生深远影响。",
-          "analysis_en": "Secretary of State Marco Rubio indicated in his testimony to senators that he is reclaiming control of the U.S. relationship with Gavi, the international vaccine alliance. This statement highlights the significant role the U.S. plays in global vaccine distribution and suggests a reassessment of vaccine policies. This move could impact the U.S.'s leadership in international health matters and have far-reaching effects on the fairness of global vaccination efforts."
+          "analysis_zh": "科学家们发现自闭症可能包含至少两种生物学上不同的亚型，这一发现为未来的个性化治疗提供了新的方向。研究表明，一种亚型表现为大脑区域之间的连接性异常增强，而另一种则表现为连接性降低。这一研究的重要性在于，它可能帮助医生根据患者的具体生物特征制定更有效的诊断和治疗方案。通过结合近千名自闭症患者的脑部扫描数据与20种基因工程小鼠模型的研究，科学家们首次系统性地揭示了人类大脑成像与其生物学基础之间的联系。",
+          "analysis_en": "Scientists have discovered that autism may consist of at least two biologically distinct subtypes, which opens new avenues for personalized treatment approaches. One subtype is characterized by unusually high connectivity between brain regions, while the other shows reduced connectivity. This finding is significant as it may enable healthcare providers to develop more effective diagnostic and treatment strategies tailored to the individual biological characteristics of patients. By combining brain scans from nearly 1,000 individuals with autism with insights from 20 genetically engineered mouse models, researchers have systematically linked human brain imaging patterns to their biological underpinnings for the first time."
         }
       ]
     },
@@ -174,8 +183,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260603015356.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-06-03 12:16 UTC",
-          "analysis_zh": "科学家们发现了一个与焦虑和社交行为密切相关的小脑回路，并通过恢复其正常活动成功逆转了小鼠的焦虑和社交缺陷。这项研究揭示了杏仁核中特定神经元群体在情绪调节中的重要作用，表明针对这一小脑回路的治疗方法可能为未来的焦虑症治疗提供新的方向。这项发现不仅为理解焦虑的生物基础提供了新的视角，也可能影响到相关心理疾病的治疗策略。",
-          "analysis_en": "Scientists have identified a small brain circuit that is closely linked to anxiety and social behavior, successfully reversing anxiety and social deficits in mice by restoring its normal activity. This research highlights the crucial role of specific neuron groups in the amygdala in regulating emotions, suggesting that targeting this tiny brain circuit could lead to new treatment approaches for anxiety disorders. This finding not only offers new insights into the biological basis of anxiety but may also influence treatment strategies for related psychological conditions."
+          "analysis_zh": "科学家们发现了一组新的杏仁核神经元，这些神经元在焦虑和社交行为中扮演着重要角色。通过恢复这一微小脑回路的正常活动，研究人员成功逆转了小鼠的焦虑和社交缺陷。这一发现不仅为理解情绪障碍提供了新的视角，也为未来开发针对焦虑症的治疗方法提供了潜在的靶点。",
+          "analysis_en": "Scientists have identified a new group of neurons in the amygdala that play a crucial role in anxiety and social behavior. By restoring normal activity in this tiny brain circuit, researchers were able to reverse anxiety and social deficits in mice. This discovery not only offers new insights into emotional disorders but also presents a promising target for future treatments for anxiety-related conditions."
         },
         {
           "rank": 2,
@@ -183,8 +192,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260602021634.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-06-03 04:46 UTC",
-          "analysis_zh": "科学家们发现自闭症可能包含至少两种生物学上不同的亚型，每种亚型在大脑沟通模式上存在差异。一种亚型表现为大脑区域之间的连接性异常增强，而另一种则显示连接性降低。这一发现具有重要意义，因为它可能为未来的自闭症诊断、护理和治疗提供更个性化的方法。通过将人类大脑成像与小鼠模型的生物学基础相结合，研究为精准医学策略奠定了基础。",
-          "analysis_en": "Scientists have discovered that autism may consist of at least two biologically distinct subtypes, each characterized by different patterns of brain communication. One subtype shows unusually high connectivity between brain regions, while the other exhibits reduced connectivity. This finding is significant as it could lead to more personalized approaches to autism diagnosis, care, and treatment in the future. By linking human brain imaging with biological underpinnings from mouse models, the research lays the groundwork for precision medicine strategies in autism."
+          "analysis_zh": "科学家们发现自闭症可能包括至少两种生物学上不同的亚型，这一发现为未来的个性化治疗提供了新的可能性。研究表明，一种亚型表现为大脑区域之间的“超连接”，而另一种则表现为连接减少。这项研究的意义在于，它能够帮助医生根据患者的具体生物特征制定更有效的诊断和治疗方案。随着对自闭症理解的深入，这一发现可能会改变我们对该疾病的看法，并推动相关研究和治疗的发展。",
+          "analysis_en": "Scientists have discovered that autism may consist of at least two biologically distinct subtypes, which opens new possibilities for personalized treatment approaches. One subtype is characterized by \"hyperconnectivity\" between brain regions, while the other shows reduced connectivity. This research is significant because it could help clinicians develop more effective diagnostic and treatment strategies tailored to the biological characteristics of each patient. As our understanding of autism deepens, this finding may change how we perceive the disorder and drive advancements in related research and therapies."
         }
       ]
     },
@@ -194,93 +203,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "SpaceX IPO to Be Largest Ever at $135 Share Price",
+          "link": "https://www.nytimes.com/2026/06/03/technology/spacex-ipo-pricing.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-06-03 22:04 UTC",
+          "analysis_zh": "SpaceX的首次公开募股（IPO）定价为每股135美元，这使得该公司有望在估值和筹集资金方面超越2019年沙特阿美的IPO。这一消息不仅标志着SpaceX在航天科技领域的重要里程碑，也意味着埃隆·马斯克的公司将在资本市场上获得更大的影响力。随着SpaceX的成功上市，可能会吸引更多投资者关注航天产业，推动相关技术和市场的发展。",
+          "analysis_en": "SpaceX's initial public offering (IPO) is priced at $135 per share, positioning the company to surpass Saudi Aramco's 2019 IPO in both valuation and funds raised. This development marks a significant milestone for SpaceX in the aerospace technology sector and indicates that Elon Musk's company will gain greater influence in the capital markets. With SpaceX's successful listing, it may attract more investors to the aerospace industry, potentially driving advancements in related technologies and markets."
+        },
+        {
+          "rank": 2,
+          "title": "Apple is bringing age verification to Texas this week",
+          "link": "https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store",
+          "source": "The Verge",
+          "published_utc": "2026-06-03 21:49 UTC",
+          "analysis_zh": "苹果将在德克萨斯州推出年龄验证功能，预计于6月4日生效。这一举措是在联邦上诉法院允许德克萨斯州的应用商店问责法案生效后不久做出的。新规定要求在德克萨斯州创建新Apple账户的用户需通过信用卡或政府身份证明验证年龄，未满18岁的用户则需加入家庭共享组，由父母或监护人提供下载和内购的同意。这一变化将影响德克萨斯州的用户体验，同时也可能引发其他州对类似政策的关注和实施。",
+          "analysis_en": "Apple will introduce age verification in Texas starting June 4th. This decision comes shortly after a federal appeals court allowed the state's App Store Accountability Act to take effect. Users creating new Apple accounts in Texas will need to verify their age using a credit card or government ID, while those under 18 must join a Family Sharing group where a parent or guardian must consent to downloads and in-app purchases. This change will affect the user experience in Texas and may prompt other states to consider implementing similar policies."
+        },
+        {
+          "rank": 3,
+          "title": "WiiM expands its whole-home ecosystem with a new soundbar",
+          "link": "https://www.theverge.com/tech/942748/wiim-releases-first-soundbar",
+          "source": "The Verge",
+          "published_utc": "2026-06-03 21:12 UTC",
+          "analysis_zh": "WiiM 公司近日宣布推出其首款家庭影院音响——WiiM Bar，计划于七月上市。这款音响支持多种流媒体选项，并以合理的价格提供高品质音效，售价为479美元。WiiM Bar 配备了先进的3.0.2 Atmos配置，具备八个驱动单元，能够提供出色的音质和扩展性。这一新产品的推出，不仅丰富了WiiM的产品线，也可能对家庭音响市场的竞争格局产生影响，吸引更多消费者关注高性价比的音响设备。",
+          "analysis_en": "WiiM has recently announced the launch of its first home theater speaker, the WiiM Bar, which is set to release in July. This soundbar supports various streaming options and offers high-quality audio at an affordable price of $479. The WiiM Bar features an advanced 3.0.2 Atmos configuration with eight drivers, providing excellent sound quality and expandability. The introduction of this new product not only enhances WiiM's product lineup but may also impact the competitive landscape of the home audio market, drawing more consumers' attention to high-value audio equipment."
+        },
+        {
+          "rank": 4,
+          "title": "Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer",
+          "link": "https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan",
+          "source": "The Verge",
+          "published_utc": "2026-06-03 20:03 UTC",
+          "analysis_zh": "英伟达在2026年台北的Computex展会上宣布，计划推出N2X和N3X两代新芯片，目标是实现类似《星际迷航》中的计算机。公司首席执行官黄仁勋表示，RTX Spark并非一次性产品，而是希望通过这些新芯片，推动语音交互技术的发展，让用户能够像与R2-D2对话一样与电脑交流。这一计划不仅可能改变个人电脑的使用方式，还可能影响整个科技行业对人工智能和人机交互的理解与应用。",
+          "analysis_en": "At Computex 2026 in Taipei, Nvidia announced plans for two new chip generations, N2X and N3X, aiming to create computers reminiscent of those in Star Trek. CEO Jensen Huang emphasized that the RTX Spark is not a one-off product, but part of a broader vision to enhance voice interaction technology, allowing users to communicate with their computers as if they were speaking to R2-D2. This initiative could transform how personal computers are used and may influence the tech industry's approach to artificial intelligence and human-computer interaction."
+        },
+        {
+          "rank": 5,
+          "title": "Dashlane issues opaque advisory warning 20 encrypted vaults were stolen",
+          "link": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
+          "source": "Biz & IT - Ars Technica",
+          "published_utc": "2026-06-03 19:53 UTC",
+          "analysis_zh": "Dashlane 最近发布了一项安全警告，称有20个加密保险库被盗，但该警告缺乏关键细节。此事件引发了用户对其数据安全性的担忧，尤其是在网络安全日益重要的背景下。Dashlane 的沉默可能会导致用户对其信任度下降，并可能影响其市场竞争力。",
+          "analysis_en": "Dashlane recently issued a security advisory warning that 20 encrypted vaults were stolen, but the advisory lacks key details. This incident raises concerns among users regarding the security of their data, especially as cybersecurity becomes increasingly important. Dashlane's silence may lead to a decline in user trust and could impact its competitiveness in the market."
+        },
+        {
+          "rank": 6,
+          "title": "The best Bluetooth trackers for Apple and Android phones",
+          "link": "https://www.theverge.com/23769840/best-bluetooth-trackers",
+          "source": "The Verge",
+          "published_utc": "2026-06-03 19:00 UTC",
+          "analysis_zh": "最近，关于蓝牙追踪器的讨论再次引起关注，这些设备可以帮助用户定位丢失的物品。蓝牙追踪器通过与手机配对，用户可以在应用程序中找到丢失的物品，甚至一些新款设备还具备精准定位的功能。这项技术的重要性在于，它不仅能减少因丢失物品而带来的烦恼，还能提升人们的生活便利性。随着越来越多的人依赖这些设备，市场对蓝牙追踪器的需求也将持续增长。",
+          "analysis_en": "Recently, discussions about Bluetooth trackers have gained attention as these devices help users locate lost items. By pairing with a smartphone, users can find misplaced belongings through an app, and some new models even offer precision tracking features. The significance of this technology lies in its ability to reduce the frustration of losing items and enhance convenience in daily life. As more people rely on these devices, the demand for Bluetooth trackers in the market is expected to continue growing."
+        },
+        {
+          "rank": 7,
+          "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
+          "link": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
+          "source": "Feed: Artificial Intelligence Latest",
+          "published_utc": "2026-06-03 18:49 UTC",
+          "analysis_zh": "xAI公司请求法院剥夺四名因深度伪造色情图像而起诉埃隆·马斯克的受害者的匿名权。这些受害者因担心身份被曝光而选择使用化名提起诉讼。此案的重要性在于，若法院支持xAI的请求，受害者将面临一个艰难的选择：要么公开真实姓名，要么放弃诉讼。这可能会对其他类似案件产生影响，进一步影响公众对深度伪造技术的法律保护和隐私权的看法。",
+          "analysis_en": "xAI has asked the court to strip four victims, who are suing Elon Musk's company over deepfake nude images, of their anonymity. These victims chose to file their lawsuits under pseudonyms due to concerns about being identified. The significance of this case lies in the potential consequences; if the court sides with xAI, the victims will face a tough choice: reveal their real names or drop the lawsuit. This could set a precedent for similar cases and influence public perceptions regarding legal protections and privacy rights related to deepfake technology."
+        },
+        {
+          "rank": 8,
           "title": "European Union Outlines Plan to Reduce Dependence on American Tech",
           "link": "https://www.nytimes.com/2026/06/03/technology/european-union-tech-sovereignty.html",
           "source": "NYT > Technology",
           "published_utc": "2026-06-03 18:00 UTC",
-          "analysis_zh": "欧盟近日提出了一项计划，旨在减少对美国科技的依赖。该计划包括扩大地区的数据中心、半导体和云计算能力。这一举措不仅有助于提升欧洲的科技自主性，还可能在全球科技竞争中增强其地位。随着科技领域的快速发展，欧盟的这一战略将对未来的经济和创新产生深远影响。",
-          "analysis_en": "The European Union recently outlined a plan to reduce its dependence on American technology. This initiative includes expanding the region's data centers, semiconductor production, and cloud computing capabilities. This move is significant as it aims to enhance Europe's technological autonomy and may strengthen its position in the global tech competition. Given the rapid advancements in the tech sector, this strategy could have a profound impact on the future of the economy and innovation in Europe."
+          "analysis_zh": "欧盟近日公布了一项计划，旨在减少对美国科技的依赖。该计划包括扩大地区的数据中心、半导体和云计算能力。这一举措不仅关乎欧盟在全球科技竞争中的地位，也可能影响到未来的科技投资和合作模式。通过增强自主技术能力，欧盟希望提升其在数字经济中的竞争力，减少外部风险。",
+          "analysis_en": "The European Union recently announced a plan to reduce its dependence on American technology. This initiative includes expanding the region's data centers, semiconductor production, and cloud computing capabilities. This move is significant as it relates to the EU's position in global tech competition and may influence future technology investments and collaborations. By enhancing its own technological capabilities, the EU aims to strengthen its competitiveness in the digital economy and mitigate external risks."
         },
         {
-          "rank": 2,
+          "rank": 9,
           "title": "The best Qi2 batteries for iPhone and Pixel",
           "link": "https://www.theverge.com/gadgets/939362/best-magsafe-qi2-2-batteries-power-banks",
           "source": "The Verge",
           "published_utc": "2026-06-03 18:00 UTC",
-          "analysis_zh": "最近，紧凑型移动电源的充电速度有了显著提升，尤其是最新的Qi2.2认证型号，可以以高达25W的功率为iPhone 16及以后的机型无线充电。这一进展不仅提升了充电效率，还通过MagSafe技术实现了磁性连接，使得用户在外出时更为便利。这项技术的普及可能会影响消费者对移动电源的选择，推动更多品牌推出兼容Qi2.2的产品。",
-          "analysis_en": "Recently, compact power banks have seen significant improvements in charging speeds, particularly with the latest Qi2.2-certified models that can wirelessly charge iPhone 16 and later at up to 25W. This advancement not only enhances charging efficiency but also allows for magnetic attachment via MagSafe, making it more convenient for users on the go. The widespread adoption of this technology may influence consumer choices in power banks, encouraging more brands to release Qi2.2 compatible products."
+          "analysis_zh": "最近，紧凑型移动电源的充电速度有了显著提升，尤其是支持Qi2.2认证的新款设备。这些移动电源能够以高达25W的功率为iPhone 16及以后的型号进行无线充电，并且可以通过MagSafe磁性吸附轻松连接。这一进展不仅提升了用户的充电体验，也为移动设备的使用提供了更大的便利，尤其是在外出时。随着越来越多的设备支持这一技术，未来的无线充电市场将会更加繁荣。",
+          "analysis_en": "Recently, compact power banks have seen a significant boost in charging speeds, particularly with the introduction of new Qi2.2-certified models. These power banks can wirelessly charge iPhone 16 and later models at up to 25W and can easily snap on via MagSafe. This advancement enhances the user charging experience and provides greater convenience for mobile device usage, especially when on the go. As more devices support this technology, the future of the wireless charging market looks promising."
         },
         {
-          "rank": 3,
+          "rank": 10,
           "title": "The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain",
           "link": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/",
           "source": "Feed: Artificial Intelligence Latest",
           "published_utc": "2026-06-03 18:00 UTC",
-          "analysis_zh": "近日，英伟达的机器人负责人斯宾塞·黄在《连线》杂志上表示，他们最新研发的人形机器人结合了中国的身体结构和美国的智能技术。这一创新不仅展示了中美科技合作的潜力，也可能在未来改变人类与机器的互动方式。随着机器人技术的不断进步，这种跨国合作有望推动更高效的生产力和更智能的服务，影响多个行业的发展。",
-          "analysis_en": "Recently, Spencer Huang, Nvidia's robotics lead, stated in WIRED that their latest humanoid robot combines a Chinese body structure with American intelligence technology. This innovation not only showcases the potential for Sino-American technological collaboration but may also change the way humans interact with machines in the future. As robotics technology continues to advance, this cross-national partnership could drive greater productivity and smarter services, impacting the development of various industries."
-        },
-        {
-          "rank": 4,
-          "title": "As AI gets better, it reveals an empty promise",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
-          "source": "The Verge",
-          "published_utc": "2026-06-03 17:45 UTC",
-          "analysis_zh": "本周，谷歌的新AI代理——Gemini AI的Spark进行了首次体验，评测者发现其效果令人惊讶。Spark能够识别用户的私人信息，比如知道David的狗叫Frida，甚至Jay妻子的名字，这让人感到不安。这一现象引发了对“生产力”未来的思考，尽管AI在某种程度上提升了效率，但它并未解决我们社会中真正需要面对的问题。这种对生产力的追求可能会掩盖我们生活中更深层次的道德和社会挑战。",
-          "analysis_en": "This week, hands-on experiences with Google's new AI agent, Gemini AI's Spark, revealed its surprisingly effective capabilities. Spark was able to recognize personal details, such as knowing David's dog is named Frida and Jay's wife's first name, which raises concerns. This phenomenon prompts reflection on the future of \"productivity\"; while AI may enhance efficiency, it fails to address the deeper issues our society faces. The relentless pursuit of productivity could overshadow more significant moral and social challenges in our lives."
-        },
-        {
-          "rank": 5,
-          "title": "How virtual power plants could provide energy for data centers",
-          "link": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
-          "source": "MIT Technology Review",
-          "published_utc": "2026-06-03 16:51 UTC",
-          "analysis_zh": "谷歌最近与Voltus签署了一项协议，旨在支持美国最大电网中的虚拟电厂（VPP）。这一协议允许用户在需要时减少电力使用，以帮助为当地数据中心提供能源。此举不仅有助于缓解电力需求，还可能推动可再生能源的使用，促进更可持续的能源管理。随着数据中心对电力的需求不断增长，这种创新的解决方案可能会对未来的能源供应和管理模式产生深远影响。",
-          "analysis_en": "Google has recently signed an agreement with Voltus to support a virtual power plant (VPP) in the largest power grid in the U.S. This deal allows users to reduce their electricity consumption when needed to help power local data centers. This initiative not only helps alleviate electricity demand but may also promote the use of renewable energy and foster more sustainable energy management practices. As the demand for power from data centers continues to rise, this innovative solution could have significant implications for future energy supply and management strategies."
-        },
-        {
-          "rank": 6,
-          "title": "Amazon’s search bar will invent AI-generated products you can’t buy",
-          "link": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
-          "source": "The Verge",
-          "published_utc": "2026-06-03 16:07 UTC",
-          "analysis_zh": "亚马逊最近更新了其搜索栏，新增了一项功能，可以根据用户的描述生成AI图像，展示服装和家居用品。目前，该功能仅限于这些类别，用户可以点击最符合自己需求的图像，搜索类似的商品。这一创新有助于用户在无法准确描述商品时找到所需物品，尤其是在记不清具体名称或风格时。随着AI技术的不断发展，这种功能可能会改变消费者的购物体验，并推动在线零售商在产品搜索和推荐方面的进一步创新。",
-          "analysis_en": "Amazon recently updated its search bar to include a feature that generates AI images of clothing and home goods based on user descriptions. Currently, this feature is limited to these categories, allowing users to click on the image that best matches their needs and search for similar items. This innovation helps users find what they need when they can't accurately describe a product, especially when they forget specific names or styles. As AI technology continues to evolve, this feature could transform the shopping experience for consumers and drive further innovation in product search and recommendations among online retailers."
-        },
-        {
-          "rank": 7,
-          "title": "This Is How Trump Finally Signed the AI Executive Order",
-          "link": "https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/",
-          "source": "Feed: Artificial Intelligence Latest",
-          "published_utc": "2026-06-03 15:46 UTC",
-          "analysis_zh": "唐纳德·特朗普在上周搁置了原定的行政命令后，于周一晚上终于签署了关于人工智能的行政命令。这一举动标志着美国政府在人工智能领域政策制定上的重要进展，可能会影响未来的科技发展和相关行业的监管。此命令的实施可能会推动AI技术的创新，同时也引发对其潜在风险的关注，尤其是在伦理和隐私方面。",
-          "analysis_en": "Donald Trump finally signed an executive order on artificial intelligence on Monday night, after shelving the original plan last week. This move signifies a crucial step in the U.S. government's policy-making regarding AI, which could impact future technological advancements and industry regulations. The implementation of this order may foster innovation in AI technology while also raising concerns about potential risks, particularly in areas related to ethics and privacy."
-        },
-        {
-          "rank": 8,
-          "title": "PlayStation is getting back to what it’s good at",
-          "link": "https://www.theverge.com/games/942520/playstation-wolverine-god-of-war-laufey-state-of-play-june-2026",
-          "source": "The Verge",
-          "published_utc": "2026-06-03 15:30 UTC",
-          "analysis_zh": "在最近的“State of Play”展示中，PlayStation明确表示将重心转向高品质的单人叙事游戏，放弃之前的多次失败的在线服务尝试。展示开始时以《漫威的金刚狼》为亮点，展示了超过七分钟的激烈游戏画面，展现了主角在拯救变种人时的战斗场景。此举不仅表明了PlayStation对单人游戏的重视，也可能影响其未来的游戏开发方向，吸引更多喜欢故事驱动游戏的玩家。",
-          "analysis_en": "In its recent \"State of Play\" showcase, PlayStation made it clear that it is shifting its focus back to high-quality, narrative-driven single-player games, moving away from its previous costly attempts at live-service games. The showcase kicked off with an extended look at gameplay from Marvel's Wolverine, featuring over seven minutes of intense action as the protagonist fought to rescue mutants. This move not only highlights PlayStation's commitment to single-player experiences but may also influence its future game development direction, attracting more players who enjoy story-driven titles."
-        },
-        {
-          "rank": 9,
-          "title": "Supernatural isn’t dead after all",
-          "link": "https://www.theverge.com/news/941816/supernatural-health-meta-quest-vr",
-          "source": "The Verge",
-          "published_utc": "2026-06-03 15:00 UTC",
-          "analysis_zh": "几个月前，Meta宣布将受欢迎的虚拟现实健身游戏《Supernatural》停更，这一决定令其忠实社区感到愤怒。然而，近日Meta宣布将《Supernatural》独立出来，成立新公司“Supernatural Health”，并将在今年秋季推出新内容。这一变化不仅为游戏带来了新的生机，也可能影响到Meta在虚拟现实领域的整体战略。随着新公司的成立，玩家们期待能看到更多创新的健身体验。",
-          "analysis_en": "A few months ago, Meta announced that it would stop updating the popular VR fitness game Supernatural, which angered its dedicated community. However, Meta has now revealed that Supernatural will be spun off into a new company called Supernatural Health, set to launch new content later this fall. This shift not only revitalizes the game but may also impact Meta's overall strategy in the virtual reality sector. With the establishment of the new company, players are looking forward to more innovative fitness experiences."
-        },
-        {
-          "rank": 10,
-          "title": "Dreame’s L20 Ultra robovac is an unbeatable deal for $280",
-          "link": "https://www.theverge.com/gadgets/942184/dreame-l20-ultra-audible-bose-soundlink-flex-deal-sale",
-          "source": "The Verge",
-          "published_utc": "2026-06-03 14:53 UTC",
-          "analysis_zh": "Dreame L20 Ultra是一款出色的扫地机器人和拖地机的混合产品，尽管不是最新型号，但其性能依然强劲。现在，这款产品的价格降至280美元，吸引了许多消费者的关注。它的优势在于配备了自动清空垃圾箱和AI障碍物避让功能，日常维护几乎不需要太多精力。这一价格的降低可能会刺激更多家庭选择智能家居设备，从而推动整个市场的发展。",
-          "analysis_en": "The Dreame L20 Ultra is an impressive hybrid of a robovac and mop, and although it isn't the newest model, it still delivers strong performance. Currently, the price has dropped to $280, capturing the attention of many consumers. Its key features include an automatic dustbin emptying system and AI obstacle avoidance, which require minimal daily maintenance. This price reduction may encourage more households to opt for smart home devices, potentially boosting the growth of the entire market."
+          "analysis_zh": "近日，Nvidia的机器人负责人斯宾塞·黄在接受《连线》杂志采访时透露，未来的人形机器人将结合中国的身体结构和美国的智能技术。这一创新不仅展示了中美科技合作的潜力，也可能在机器人领域引发新的竞争与合作模式。随着技术的不断进步，这种机器人有望在医疗、服务等多个行业中发挥重要作用，改变人们的生活方式。",
+          "analysis_en": "Recently, Spencer Huang, Nvidia's robotics lead, revealed in an interview with WIRED that the humanoid robot of the future will combine a Chinese body structure with American intelligence technology. This innovation not only highlights the potential for Sino-American technological collaboration but may also spark new competitive and cooperative dynamics in the robotics field. As technology continues to advance, such robots are expected to play significant roles in various industries, including healthcare and services, potentially transforming people's daily lives."
         }
       ]
     },
@@ -290,93 +299,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "A New Play, ‘Kenrex,’ Revisits the Story of a Bully’s Unsolved Murder",
-          "link": "https://www.nytimes.com/2026/06/03/theater/kenrex-play-murder-ken-mcelroy.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-06-03 17:51 UTC",
-          "analysis_zh": "一部新剧《肯雷克斯》重新探讨了一起发生在密苏里州斯基德莫尔的未解谋杀案。尽管当时有目击者在场，但凶手却从未受到起诉。这起事件引发的私刑正义激发了剧作家的创作灵感，反映了社会对暴力和正义的复杂看法。这部剧的推出不仅让人们重新审视这一悲剧事件，也可能引发关于法律和道德的深刻讨论。",
-          "analysis_en": "A new play titled \"Kenrex\" revisits an unsolved murder case that took place in Skidmore, Missouri, where a man was shot dead in front of witnesses, yet no one was ever prosecuted. This act of vigilante justice has inspired the playwright, highlighting the complex societal views on violence and justice. The release of this play not only prompts a reevaluation of the tragic event but may also spark profound discussions about law and morality."
+          "title": "francesco faccin transforms overlooked pedestals into sculptural protagonists",
+          "link": "https://www.designboom.com/design/francesco-faccin-overlooked-pedestals-sculptural-protagonists/",
+          "source": "designboom | architecture & design magazine",
+          "published_utc": "2026-06-03 20:30 UTC",
+          "analysis_zh": "意大利设计师弗朗切斯科·法奇尼（Francesco Faccin）将传统的展示台转变为艺术作品的主角，采用钢材、耐热玻璃和木材等材料进行创作。这一创新设计不仅重新定义了展示空间的功能，也引发了人们对美学和实用性的思考。法奇尼的作品强调了展示台在艺术展示中的重要性，可能会影响未来的展览设计和艺术品的呈现方式。",
+          "analysis_en": "Italian designer Francesco Faccin has transformed traditional pedestals into sculptural protagonists using materials such as steel, Pyrex, and wood. This innovative design redefines the function of display spaces and prompts a reconsideration of aesthetics and practicality. Faccin's work highlights the significance of pedestals in art exhibitions, which may influence future exhibition designs and the presentation of artworks."
         },
         {
           "rank": 2,
+          "title": "The Good List: 6 Things to Bring Delight to Your Day",
+          "link": "https://www.nytimes.com/2026/06/03/briefing/03-the-good-list-knicks-rothko.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-06-03 19:44 UTC",
+          "analysis_zh": "《纽约时报》最近发布了一份“好事清单”，列出了六件可以为人们的日常生活带来快乐的事物。这份清单提到了一些有趣的话题，比如对蝙蝠的提问、罗斯科的天气以及尼克斯队的热情。这些内容不仅让人们感受到生活中的小确幸，也反映了当下社会对艺术和体育的关注。这样的清单能够激励人们寻找生活中的美好，从而提升整体的生活质量。",
+          "analysis_en": "The New York Times recently published a \"Good List\" featuring six things that can bring joy to people's daily lives. The list touches on interesting topics such as questions about bats, Rothko's weather, and the excitement surrounding the Knicks. These elements not only provide a sense of delight but also reflect society's current interest in art and sports. Such lists can inspire individuals to seek out the beauty in life, ultimately enhancing their overall quality of life."
+        },
+        {
+          "rank": 3,
+          "title": "TO and Palma design museum as \"climatic infrastructure for Panama City\"",
+          "link": "https://www.dezeen.com/2026/06/03/palma-taller-to-panama-art-museum-design/",
+          "source": "Dezeen",
+          "published_utc": "2026-06-03 19:35 UTC",
+          "analysis_zh": "墨西哥城的设计工作室TO和Palma为巴拿马的当代艺术博物馆设计了一项扩建项目，旨在反映该国作为交流中心的地位。这一扩展概念围绕一个阴凉的广场区域展开，将巴拿马城的商业核心与邻近的住宅区Boca La Caja重新连接起来。这一项目的重要性在于，它不仅提升了城市的公共空间，还促进了社区之间的互动，可能会对当地的文化和经济发展产生积极影响。",
+          "analysis_en": "The Mexico City-based studios TO and Palma have designed an extension for the Museo de Arte Contemporáneo de Panamá, reflecting the country's role as a hub of exchange. The expansion focuses on a shaded plaza area, reconnecting the downtown commercial core of Panama City with the adjacent residential neighborhood of Boca La Caja. This project is significant as it enhances public space and fosters interaction among communities, potentially leading to positive impacts on local cultural and economic development."
+        },
+        {
+          "rank": 4,
+          "title": "Colorado Governor Signs Artist Corporation Bill into State Law",
+          "link": "https://www.artnews.com/art-news/news/colorado-passes-artist-corporation-bill-1234788275/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-06-03 19:14 UTC",
+          "analysis_zh": "科罗拉多州州长签署了一项新的艺术家公司法案，创建了一种新的有限责任公司类型，称为艺术家公司（A-Corp）。这一法案的通过意味着艺术家们可以以公司形式运营，从而享有更好的法律保护和财务管理。这项法律的重要性在于，它为艺术家提供了更多的商业灵活性，可能会吸引更多的创意人才来到科罗拉多州发展。同时，这也可能推动当地艺术产业的增长，促进经济发展。",
+          "analysis_en": "The Governor of Colorado has signed a new bill that establishes a type of limited liability company called an Artist Company, or A-Corp. This legislation allows artists to operate under a corporate structure, providing them with better legal protections and financial management options. The significance of this law lies in its potential to offer artists greater business flexibility, which may attract more creative talent to Colorado. Additionally, this could stimulate growth in the local arts industry and contribute to economic development."
+        },
+        {
+          "rank": 5,
+          "title": "A New Play, ‘Kenrex,’ Revisits the Story of a Bully’s Unsolved Murder",
+          "link": "https://www.nytimes.com/2026/06/03/theater/kenrex-play-murder-ken-mcelroy.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-06-03 18:29 UTC",
+          "analysis_zh": "新剧《肯瑞克》重新审视了一起发生在密苏里州斯基德莫尔的未解谋杀案。尽管当时有目击者在场，这名男子却未能得到正义，导致社会对暴力和正义的讨论。该剧的创作引发了人们对暴力后果和社会责任的深思，可能会影响观众对类似事件的看法和反应。",
+          "analysis_en": "The new play \"Kenrex\" revisits an unsolved murder case that occurred in Skidmore, Missouri, where a man was shot dead in front of witnesses without any prosecution. This lack of justice has sparked discussions about violence and accountability in society. The play encourages audiences to reflect on the consequences of violence and the responsibilities we hold, potentially influencing their perspectives and reactions to similar events."
+        },
+        {
+          "rank": 6,
+          "title": "Follower of Hieronymus Bosch Painting Sells for Over 10 Times High Estimate in Strong Week for Old Masters in New York",
+          "link": "https://www.artnews.com/art-news/news/hieronymus-bosch-painting-old-masters-sales-sothebys-christies-1234788254/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-06-03 18:26 UTC",
+          "analysis_zh": "近日，在纽约的古典大师和19世纪绘画拍卖会上，一幅希罗尼穆斯·博斯的追随者作品以超过十倍的高估价成交，显示出古典艺术市场的强劲表现。佳士得的拍卖总额接近700万美元，而苏富比的类似拍卖也达到了640万美元。这一结果不仅反映了收藏家对古典艺术的持续兴趣，也可能推动未来拍卖市场的价格上涨。",
+          "analysis_en": "Recently, a painting by a follower of Hieronymus Bosch sold for over ten times its high estimate during the Old Masters and 19th Century Paintings auction in New York, highlighting the strong performance of the classical art market. Christie's auction totaled nearly $7 million, while Sotheby's similar sale reached $6.4 million. This outcome not only reflects collectors' ongoing interest in classical art but may also drive prices higher in future auctions."
+        },
+        {
+          "rank": 7,
           "title": "Christo-Inspired Public Artwork in Paris By French Artist JR Delayed Because of Storm",
           "link": "https://www.artnews.com/art-news/news/jr-christo-wrapped-bridge-paris-1234788242/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-06-03 17:12 UTC",
-          "analysis_zh": "法国艺术家JR受克里斯托启发的公共艺术作品在巴黎的开幕仪式因暴风雨推迟，原定于6月6日举行。这一事件引发了公众的关注，因为这项艺术作品旨在提升城市空间的美学和互动性。推迟的开幕可能会影响到观众的期待和参与度，同时也可能对艺术家及其团队的后续计划造成影响。",
-          "analysis_en": "The public artwork inspired by Christo, created by French artist JR, has had its opening in Paris postponed due to a storm, which was originally scheduled for June 6. This event has garnered public attention as the artwork aims to enhance the aesthetics and interactivity of urban spaces. The delay in the opening may affect audience expectations and participation, and it could also impact the artist and their team's subsequent plans."
+          "analysis_zh": "法国艺术家JR以克里斯托为灵感创作的公共艺术作品原定于6月6日揭幕，但因暴风雨的影响而推迟。这一作品的延迟不仅影响了艺术家与公众的互动，也可能对巴黎的文化活动产生一定的影响。随着天气状况的改善，新的开幕日期将成为人们关注的焦点，艺术界也期待这一作品能够如期展现其独特的艺术魅力。",
+          "analysis_en": "The public artwork by French artist JR, inspired by Christo, was scheduled to open on June 6 but has been postponed due to a storm. This delay affects not only the interaction between the artist and the public but may also impact cultural activities in Paris. As weather conditions improve, the new opening date will become a focal point of interest, and the art community looks forward to the unveiling of this unique piece."
         },
         {
-          "rank": 3,
+          "rank": 8,
           "title": "‘The Fantasticks’ and ‘Gloria’ Will Head to Broadway This Season",
           "link": "https://www.nytimes.com/2026/06/03/theater/fantasticks-gloria-broadway-second-stage.html",
           "source": "NYT > Arts",
           "published_utc": "2026-06-03 17:00 UTC",
-          "analysis_zh": "非营利组织第二阶段剧院宣布将在海伦·海斯剧院上演重新构想的《梦幻曲》和普利策奖决赛作品《格洛丽亚》。这两部作品的回归不仅丰富了百老汇的剧目选择，也为观众提供了新的视角和体验。随着这些经典作品的重新演绎，可能会吸引更多年轻观众的关注，并推动剧院行业的创新与发展。",
-          "analysis_en": "The nonprofit Second Stage Theater announced that it will present a reimagined version of \"The Fantasticks\" and the Pulitzer finalist \"Gloria\" at the Helen Hayes Theater. The return of these works not only enriches the offerings on Broadway but also provides audiences with fresh perspectives and experiences. With these classic pieces being reinterpreted, it may attract more young viewers and foster innovation and growth within the theater industry."
+          "analysis_zh": "非营利组织第二阶段剧院宣布将在海伦·海斯剧院上演重新构想的《梦幻者》和普利策奖提名剧《格洛丽亚》。这两部作品的回归不仅丰富了百老汇的剧目选择，也为观众提供了新的视角和体验。随着这些经典剧目的重新演绎，观众有机会重新审视其主题和情感，可能会引发更广泛的讨论和关注。",
+          "analysis_en": "The nonprofit Second Stage Theater announced that it will present a reimagined version of \"The Fantasticks\" and the Pulitzer finalist \"Gloria\" at the Helen Hayes Theater. The return of these productions not only enriches the offerings on Broadway but also provides audiences with new perspectives and experiences. With these classic plays being reinterpreted, viewers will have the opportunity to reassess their themes and emotions, potentially sparking broader discussions and interest."
         },
         {
-          "rank": 4,
+          "rank": 9,
           "title": "Felipe Caboclo Arquitectura creates \"sublime path\" at undulating private chapel in São Paulo",
           "link": "https://www.dezeen.com/2026/06/03/nest-chapel-felipe-caboclo-arquitectura-sao-paulo/",
           "source": "Dezeen",
           "published_utc": "2026-06-03 16:59 UTC",
-          "analysis_zh": "巴西圣保罗的本地设计工作室Felipe Caboclo Arquitectura完成了一座名为“巢穴教堂”的小型长方形教堂，采用木材和玻璃建造，并以弯曲的混凝土墙围绕。这个10平方米的宗教空间受到勒·柯布西耶、日本建筑师安藤忠雄的混凝土教堂以及美国艺术家的影响。此项目的重要性在于它展示了现代建筑与自然环境的和谐共存，可能会激励其他建筑师在设计中更加关注可持续性和美学。",
-          "analysis_en": "Local studio Felipe Caboclo Arquitectura has completed a small, oblong chapel called \"Nest Chapel\" in São Paulo, Brazil, constructed from wood and glass and surrounded by sinuous concrete walls. This 10-square-meter religious space draws inspiration from Le Corbusier, Japanese architect Tadao Ando's concrete chapels, and American artists. The significance of this project lies in its demonstration of the harmonious coexistence of modern architecture with the natural environment, which may inspire other architects to focus more on sustainability and aesthetics in their designs."
+          "analysis_zh": "巴西圣保罗的本地建筑事务所Felipe Caboclo Arquitectura完成了一座名为“巢穴教堂”的小型长方形教堂。这座教堂由木材和玻璃建成，周围环绕着流线型的混凝土墙，整体设计灵感来源于勒·柯布西耶和日本建筑师安藤忠雄的混凝土教堂。这一项目不仅展示了现代建筑与自然环境的和谐融合，也为当地居民提供了一个独特的宗教空间，可能会吸引更多人关注当代建筑的美学与功能性。",
+          "analysis_en": "Local studio Felipe Caboclo Arquitectura has completed a small, elongated chapel called \"Nest Chapel\" in São Paulo, Brazil. Constructed from wood and glass, it is flanked by sinuous concrete walls, drawing inspiration from Le Corbusier and Tadao Ando's concrete chapels. This project not only showcases a harmonious blend of modern architecture with the natural environment but also provides a unique religious space for local residents, potentially drawing more attention to contemporary architecture's aesthetics and functionality."
         },
         {
-          "rank": 5,
+          "rank": 10,
           "title": "John McClain, Who Helped Keep Michael Jackson’s Profits Flowing, Dies at 72",
           "link": "https://www.nytimes.com/2026/06/03/arts/music/john-mcclain-dead.html",
           "source": "NYT > Arts",
           "published_utc": "2026-06-03 16:35 UTC",
-          "analysis_zh": "约翰·麦克莱恩，这位与杰克逊家族有着深厚联系的音乐高管，近日去世，享年72岁。他在音乐行业的影响力不仅帮助珍妮特·杰克逊成名，还使迈克尔·杰克逊在去世后依然保持着强大的商业影响力。这一事件引发了对他在音乐产业贡献的反思，也可能影响到杰克逊家族未来的商业运作和遗产管理。",
-          "analysis_en": "John McClain, a music executive with deep ties to the Jackson family, has passed away at the age of 72. His influence in the music industry not only helped Janet Jackson rise to fame but also ensured that Michael Jackson remained a powerful commercial force even after his death. This event prompts reflection on his contributions to the music industry and may impact the Jackson family's future business operations and legacy management."
-        },
-        {
-          "rank": 6,
-          "title": "Venice Biennale Artists Threaten Legal Action Against Organizers For Disregarding Requests to Be Withdrawn from ‘Visitors’ Lions’ Awards",
-          "link": "https://www.artnews.com/art-news/news/artists-threaten-sue-venice-biennale-organizers-awards-1234788244/",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-06-03 16:23 UTC",
-          "analysis_zh": "威尼斯双年展的艺术家们对主办方提出了法律行动的威胁，原因是主办方无视了他们要求退出“访客狮子奖”的请求。这一事件引发了广泛关注，因为艺术家们的权益和声音在艺术展览中至关重要。若法律行动得以实施，可能会对未来的艺术展览组织和艺术家与主办方之间的关系产生深远影响。",
-          "analysis_en": "Artists at the Venice Biennale have threatened legal action against the organizers for ignoring their requests to withdraw from the 'Visitors' Lions' awards. This situation has garnered significant attention, as the rights and voices of artists are crucial in the context of art exhibitions. If the legal action proceeds, it could have profound implications for the organization of future art events and the relationship between artists and organizers."
-        },
-        {
-          "rank": 7,
-          "title": "The architecture of 13 presidential libraries from Hoover to Bush",
-          "link": "https://www.dezeen.com/2026/06/03/the-architecture-of-13-presidential-libraries-from-hoover-to-bush/",
-          "source": "Dezeen",
-          "published_utc": "2026-06-03 15:56 UTC",
-          "analysis_zh": "在下周即将开幕的奥巴马总统中心之前，我们回顾了美国13座已完成的总统图书馆。这些图书馆不仅是对总统生平和遗产的纪念，也是展示美国历史和文化的重要场所。了解这些建筑的设计和功能，能够帮助我们更好地理解总统们在任期结束后的影响力和贡献。这一系列图书馆的建筑风格各异，反映了不同总统的个性与时代背景，值得我们深入探讨。",
-          "analysis_en": "Ahead of the opening of the Obama Presidential Center next week, we take a look at 13 completed presidential libraries in the U.S. These libraries serve not only as memorials to the lives and legacies of presidents but also as significant venues for showcasing American history and culture. Exploring the design and functions of these buildings helps us understand the influence and contributions of presidents after their terms. The diverse architectural styles of these libraries reflect the personalities and historical contexts of different presidents, making them worthy of further examination."
-        },
-        {
-          "rank": 8,
-          "title": "Caissie Levy, Tony Awards Contender and ‘Ragtime’ Star, Is Having a Moment",
-          "link": "https://www.nytimes.com/2026/06/03/theater/caissie-levy-broadway-tonys-ragtime.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-06-03 15:38 UTC",
-          "analysis_zh": "Caissie Levy在百老汇的表现备受瞩目，她是《冰雪奇缘》中第一位扮演艾莎的演员，并曾在《发胶》和《幽灵》中大放异彩。如今，她因在《拉格泰姆》中的出色演出，被广泛看好有望赢得托尼奖。这一成就不仅展示了她的才华，也为她的职业生涯带来了新的机遇。随着她在百老汇的影响力不断扩大，Levy的成功可能会激励更多年轻演员追求自己的梦想。",
-          "analysis_en": "Caissie Levy is gaining significant attention on Broadway, having been the first actress to portray Elsa in \"Frozen\" and shining in productions like \"Hair\" and \"Ghost.\" Now, her outstanding performance in \"Ragtime\" has made her a strong contender for a Tony Award. This achievement not only highlights her talent but also opens new opportunities for her career. As her influence on Broadway grows, Levy's success may inspire more young actors to pursue their dreams."
-        },
-        {
-          "rank": 9,
-          "title": "‘quiet luxury is utterly boring’: stuart semple’s happywatch shows a squished smiley face",
-          "link": "https://www.designboom.com/design/quiet-luxury-boring-stuart-semple-happywatch-squished-smiley-face-d1-milano/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-06-03 15:30 UTC",
-          "analysis_zh": "斯图尔特·塞姆普尔（Stuart Semple）推出了一款名为“快乐手表”（happywatch）的新作品，表盘上刻有一个扭曲的笑脸，搭配粉色硅胶表带，旨在为佩戴者带来快乐。这款手表反映了设计师对“安静奢华”概念的反思，认为这种风格过于乏味。此作品不仅是一个时尚配件，更是一件可穿戴的艺术品，可能会影响人们对奢侈品的看法，鼓励更多的设计师关注情感表达和个性化。",
-          "analysis_en": "Stuart Semple has launched a new piece called \"happywatch,\" featuring a squished smiley face on the dial and a pink silicone strap, designed to bring joy to its wearer. This watch reflects the designer's critique of the concept of \"quiet luxury,\" which he finds to be utterly boring. More than just a fashion accessory, this piece serves as a wearable artwork that may influence people's perceptions of luxury goods, encouraging designers to focus more on emotional expression and individuality."
-        },
-        {
-          "rank": 10,
-          "title": "Urban forest surrounding stadium among projects from Manchester School of Architecture",
-          "link": "https://www.dezeen.com/2026/06/03/urban-forest-manchester-united-stadium-manchester-school-of-architecture-schoolshows/",
-          "source": "Dezeen",
-          "published_utc": "2026-06-03 15:00 UTC",
-          "analysis_zh": "曼彻斯特建筑学院提出了一个计划，计划在曼联足球场周围打造一个城市森林。这一项目不仅旨在美化环境，还希望提升周边区域的生态质量。这种创新的设计理念对于城市可持续发展具有重要意义，可能会激励其他城市在绿化和空间利用方面进行类似的探索。",
-          "analysis_en": "The Manchester School of Architecture has proposed a plan to create an urban forest surrounding the Manchester United football stadium. This project aims to enhance the aesthetic appeal and ecological quality of the area. Such innovative design concepts are significant for urban sustainability and may inspire other cities to explore similar green initiatives and spatial utilization strategies."
+          "analysis_zh": "约翰·麦克莱恩，这位与杰克逊家族有着深厚联系的音乐高管，近日去世，享年72岁。他在音乐行业的影响力不仅帮助珍妮特·杰克逊成名，还使已故的迈克尔·杰克逊在去世后继续保持商业成功。这一事件引发了对他在音乐产业中贡献的广泛反思，也可能影响杰克逊家族的未来商业运作和遗产管理。",
+          "analysis_en": "John McClain, a music executive with deep ties to the Jackson family, has passed away at the age of 72. His influence in the music industry not only helped Janet Jackson rise to fame but also ensured that Michael Jackson remained a commercial success even after his death. This event has sparked widespread reflection on his contributions to the music industry and may impact the future business operations and legacy management of the Jackson family."
         }
       ]
     }
