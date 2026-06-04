@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-04 16:56:39 UTC",
-  "generated_at_unix": 1780592199,
+  "generated_at": "2026-06-04 22:07:23 UTC",
+  "generated_at_unix": 1780610843,
   "window": {
-    "from_utc": "2026-06-03 16:56:39 UTC",
-    "to_utc": "2026-06-04 16:56:39 UTC",
+    "from_utc": "2026-06-03 22:07:23 UTC",
+    "to_utc": "2026-06-04 22:07:23 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,162 +14,171 @@
       "items": [
         {
           "rank": 1,
-          "title": "Some singles now expect their dates to pay for their Ubers while gas prices are so high",
-          "link": "https://www.marketwatch.com/story/high-gas-prices-are-limiting-how-far-singles-will-go-for-love-literally-53e760ad?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-06-04 16:52 UTC",
-          "analysis_zh": "随着油价的飙升，约会成本进一步增加，许多单身人士开始期待约会对象为他们支付Uber费用。这一现象反映了经济压力对人际关系的影响，尤其是在约会文化中。高油价迫使人们缩小使用约会应用程序的范围，可能导致约会选择的减少和社交活动的下降。",
-          "analysis_en": "With rising gas prices, the cost of dating has become even more burdensome, leading many singles to expect their dates to cover their Uber fares. This trend highlights the impact of economic pressures on personal relationships, particularly within dating culture. High gas prices are forcing individuals to narrow their dating app radius, which may result in fewer dating options and a decline in social activities."
+          "title": "Exclusive-SpaceX tells banks it won’t move its $135-a-share IPO price",
+          "link": "https://www.investing.com/news/stock-market-news/exclusivespacex-tells-banks-it-wont-move-its-135ashare-ipo-price-4727657",
+          "source": "Stock Market News",
+          "published_utc": "2026-06-04 21:55 UTC",
+          "analysis_zh": "SpaceX最近通知银行，该公司不会调整其每股135美元的首次公开募股（IPO）价格。这一决定对投资者和市场来说意义重大，因为它表明SpaceX对其估值的信心。保持这一价格可能会影响投资者的购买决策，并在未来的融资活动中影响公司的市场表现。",
+          "analysis_en": "SpaceX recently informed banks that it will not change its initial public offering (IPO) price of $135 per share. This decision is significant for investors and the market as it reflects SpaceX's confidence in its valuation. Maintaining this price could influence investors' purchasing decisions and affect the company's market performance in future fundraising activities."
         },
         {
           "rank": 2,
-          "title": "Here’s how SpaceX is pitching its IPO to everyday investors",
-          "link": "https://www.marketwatch.com/story/heres-how-spacex-is-pitching-its-ipo-to-everyday-investors-4aea097b?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-06-04 16:51 UTC",
-          "analysis_zh": "SpaceX的首席财务官布雷特·约翰森在给股东的视频信息中表示，SpaceX有能力“实现别人认为不可能的事情”。这次发言标志着SpaceX正在积极向普通投资者推介其首次公开募股（IPO）。这不仅显示了公司对未来发展的信心，也可能吸引更多投资者关注太空产业，推动相关市场的增长。",
-          "analysis_en": "SpaceX's CFO Bret Johnsen stated in a video message to shareholders that the company has the ability to \"achieve what others think is really the impossible.\" This announcement indicates that SpaceX is actively pitching its initial public offering (IPO) to everyday investors. This not only reflects the company's confidence in its future growth but may also attract more investors to the space industry, potentially boosting the related market."
+          "title": "S&P DJI holds firm on index rules despite megacap IPO anticipation",
+          "link": "https://www.investing.com/news/stock-market-news/sp-dji-holds-firm-on-index-rules-despite-megacap-ipo-anticipation-4727662",
+          "source": "Stock Market News",
+          "published_utc": "2026-06-04 21:54 UTC",
+          "analysis_zh": "标准普尔道琼斯指数公司在面对大型IPO预期时，依然坚持其指数规则。这一决定表明，尽管市场对新上市公司的热情高涨，监管机构仍然重视维持指数的稳定性和一致性。这可能会影响投资者的决策，尤其是在选择投资于新兴公司的时候，投资者需要更加谨慎。",
+          "analysis_en": "S&P Dow Jones Indices has maintained its index rules despite the anticipation surrounding large IPOs. This decision indicates that, even with the market's excitement for new listings, regulators prioritize the stability and consistency of the indices. This may influence investors' decisions, particularly as they consider investments in emerging companies, prompting them to exercise greater caution."
         },
         {
           "rank": 3,
-          "title": "The job market is actually getting a boost from AI: Turns out human workers are cheaper",
-          "link": "https://www.marketwatch.com/story/the-job-market-is-actually-getting-a-boost-from-ai-turns-out-human-workers-are-cheaper-35b03640?mod=mw_rss_topstories",
+          "title": "‘This is a tricky subject’: We’re in our 70s and our only child is 40. Do we reveal that we’re leaving her everything?",
+          "link": "https://www.marketwatch.com/story/it-makes-us-feel-uncomfortable-were-in-our-70s-and-our-only-child-is-40-do-we-tell-her-were-leaving-her-everything-28421776?mod=mw_rss_topstories",
           "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-06-04 16:49 UTC",
-          "analysis_zh": "最近的研究表明，人工智能的应用实际上正在推动就业市场的增长。尽管许多公司在AI上的投资未能达到预期效果，但这反而使得人类劳动力变得更具成本效益。这一现象可能会导致更多企业重新考虑其招聘策略，从而刺激经济增长和就业机会的增加。",
-          "analysis_en": "Recent studies indicate that the application of artificial intelligence is actually boosting the job market. Despite many companies' investments in AI not meeting expectations, this has made human labor more cost-effective. This phenomenon may lead more businesses to reconsider their hiring strategies, potentially stimulating economic growth and increasing job opportunities."
+          "published_utc": "2026-06-04 21:49 UTC",
+          "analysis_zh": "最近，一对年过七旬的父母面临一个棘手的问题：他们的独生女已经40岁，是否应该告诉她他们将把所有遗产留给她。这个问题引发了他们的困惑，因为他们担心这样的决定可能会影响家庭关系。透明度和沟通在家庭财务管理中至关重要，这种情况可能会影响其他家庭在处理遗产时的态度和做法。",
+          "analysis_en": "Recently, a couple in their 70s is facing a tricky dilemma: their only child, who is 40, may not be aware that they plan to leave her everything in their will. This situation has caused them discomfort, as they worry about how this decision might impact their family dynamics. Transparency and communication are crucial in managing family finances, and this case could influence how other families approach inheritance discussions."
         },
         {
           "rank": 4,
-          "title": "Soaring stocks created 2 million new millionaires around the world last year",
-          "link": "https://www.cnbc.com/2026/06/04/stocks-new-millionaires.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-06-04 16:48 UTC",
-          "analysis_zh": "根据凯捷的《全球财富报告》，2025年全球百万富翁人数激增7.9%，达到了2530万人。这一增长主要是由于股市的强劲表现，创造了200万新的百万富翁。这一现象不仅反映了经济复苏的趋势，也可能导致财富分配的不平等加剧，影响社会的稳定性。",
-          "analysis_en": "According to the Capgemini World Wealth Report, the number of millionaires worldwide surged by 7.9% to reach 25.3 million in 2025. This increase was primarily driven by strong stock market performance, which created 2 million new millionaires. This trend not only reflects the recovery of the economy but may also exacerbate wealth inequality, potentially impacting social stability."
+          "title": "CME Group’s CEO, Duffy, warns of systemic risk from new crypto ’perps’",
+          "link": "https://www.investing.com/news/stock-market-news/cme-groups-ceo-duffy-warns-of-systemic-risk-from-new-crypto-perps-4727658",
+          "source": "Stock Market News",
+          "published_utc": "2026-06-04 21:48 UTC",
+          "analysis_zh": "CME集团首席执行官达菲警告称，新推出的加密货币永久合约可能会带来系统性风险。这一警告引起了市场的广泛关注，因为加密货币市场的波动性本就很高，新的金融工具可能会加剧这种不稳定性。这一情况可能会影响投资者的信心，导致更多的监管措施出台，从而改变整个加密货币市场的格局。",
+          "analysis_en": "CME Group's CEO, Duffy, has warned that the newly launched perpetual contracts for cryptocurrencies could pose systemic risks. This warning has garnered significant attention in the market, as the inherent volatility of the crypto market could be exacerbated by these new financial instruments. This situation may affect investor confidence and lead to increased regulatory measures, potentially reshaping the entire landscape of the cryptocurrency market."
         },
         {
           "rank": 5,
-          "title": "A war-weary Treasury market faces a fresh test with Friday’s jobs report",
-          "link": "https://www.marketwatch.com/story/a-war-weary-treasury-market-faces-a-fresh-test-with-fridays-jobs-report-73789d8a?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-06-04 16:46 UTC",
-          "analysis_zh": "华尔街的新担忧是，投资者对美国政府借贷的耐心正在减弱，要求更高的回报。这一变化可能会影响国债市场的稳定性，尤其是在即将公布的就业报告前夕。若报告显示就业数据不佳，可能进一步加剧投资者的焦虑，导致借贷成本上升。这不仅会影响政府的融资能力，还可能对整体经济产生连锁反应。",
-          "analysis_en": "A new concern on Wall Street is that investors are losing patience and are demanding higher returns for lending money to the U.S. government. This shift could impact the stability of the Treasury market, especially with the upcoming jobs report. If the report reveals disappointing employment figures, it may heighten investor anxiety and lead to increased borrowing costs. This situation could not only affect the government's ability to finance itself but also have wider repercussions for the overall economy."
+          "title": "AmperCap Acquisition raises $125 million in NASDAQ IPO",
+          "link": "https://www.investing.com/news/stock-market-news/ampercap-acquisition-raises-125-million-in-nasdaq-ipo-432SI-4727650",
+          "source": "Stock Market News",
+          "published_utc": "2026-06-04 21:45 UTC",
+          "analysis_zh": "AmperCap最近在纳斯达克成功进行了首次公开募股（IPO），筹集了1.25亿美元的资金。这一融资对于公司未来的发展至关重要，能够帮助其扩大业务规模和投资新项目。此次IPO不仅提升了AmperCap的市场知名度，也可能吸引更多投资者关注该领域，从而推动行业的整体发展。",
+          "analysis_en": "AmperCap recently completed its initial public offering (IPO) on NASDAQ, raising $125 million in funding. This financing is crucial for the company's future growth, enabling it to expand its operations and invest in new projects. The IPO not only enhances AmperCap's visibility in the market but may also attract more investors to the sector, potentially driving overall industry growth."
         },
         {
           "rank": 6,
-          "title": "Walmart’s stock was once a market darling. Now its tech-fueled valuation faces a reality check.",
-          "link": "https://www.marketwatch.com/story/walmarts-stock-was-once-a-market-darling-now-its-tech-fueled-valuation-faces-a-reality-check-6bccfbcd?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-06-04 16:40 UTC",
-          "analysis_zh": "沃尔玛的股票曾经备受市场青睐，但今年以来，其表现却落后于同行和标准普尔500指数。一些分析师指出，沃尔玛的业务仍然主要依赖低利润的食品销售，这使得其估值面临现实考验。这一情况不仅影响了投资者对沃尔玛的信心，也可能导致公司在未来的战略调整，尤其是在技术和高利润产品领域的投资。",
-          "analysis_en": "Walmart's stock was once a favorite in the market, but this year it has underperformed compared to its peers and the S&P 500. Some analysts have noted that the company's business is still heavily reliant on low-margin grocery sales, which puts its valuation under scrutiny. This situation not only affects investor confidence in Walmart but may also lead the company to rethink its strategies, particularly regarding investments in technology and higher-margin products."
+          "title": "Warren invites Nvidia CEO Jensen Huang to Senate hearing on China AI chip sales",
+          "link": "https://www.cnbc.com/2026/06/04/nvidia-ceo-jensen-huang-warren-senate-hearing-china-ai-chips.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-06-04 21:43 UTC",
+          "analysis_zh": "美国参议员伊丽莎白·沃伦邀请了英伟达首席执行官黄仁勋参加国会听证会，讨论与中国的人工智能芯片销售相关的出口管制问题。此举反映了国会对AI芯片行业的关注，尤其是在技术与国家安全之间的复杂关系日益突显的背景下。通过对英伟达的审查，立法者希望确保美国技术不会被用于潜在的军事用途，这可能会影响未来的出口政策和国际市场的竞争格局。",
+          "analysis_en": "Senator Elizabeth Warren has invited Nvidia CEO Jensen Huang to a congressional hearing to discuss export controls related to AI chip sales to China. This move highlights Congress's growing concern over the AI chip industry, particularly as the complex relationship between technology and national security becomes more pronounced. By scrutinizing Nvidia, lawmakers aim to ensure that American technology is not used for potential military purposes, which could impact future export policies and the competitive landscape in international markets."
         },
         {
           "rank": 7,
-          "title": "Broadcom's sell-off just entered megacap history",
-          "link": "https://finance.yahoo.com/markets/stocks/article/broadcoms-sell-off-just-entered-megacap-history-163942663.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-06-04 16:39 UTC",
-          "analysis_zh": "博通公司的股票抛售事件已经成为了大型科技公司历史上的一部分。这一事件的发生引发了市场的广泛关注，因为博通作为半导体行业的重要参与者，其股价波动可能会对整个科技板块产生影响。投资者们需要密切关注这一动态，因为它可能会影响到其他相关公司的股价和投资决策。",
-          "analysis_en": "Broadcom's recent stock sell-off has entered the history of megacap companies, drawing significant market attention. As a key player in the semiconductor industry, fluctuations in Broadcom's stock price could impact the entire tech sector. Investors should closely monitor this situation, as it may influence the stock prices and investment decisions of other related companies."
+          "title": "Moody’s downgrades RadNet first lien debt after $200M loan",
+          "link": "https://www.investing.com/news/stock-market-news/moodys-downgrades-radnet-first-lien-debt-after-200m-loan-93CH-4727633",
+          "source": "Stock Market News",
+          "published_utc": "2026-06-04 21:36 UTC",
+          "analysis_zh": "穆迪近期将RadNet的首要债务评级下调，原因是该公司获得了一笔2亿美元的贷款。这一举措可能会影响RadNet的融资成本和市场信心。评级下调通常意味着投资者对公司的未来前景持谨慎态度，这可能导致其股票价格下跌。对于依赖债务融资的公司而言，这种评级变化尤为重要，可能会限制其未来的资本获取能力。",
+          "analysis_en": "Moody's has recently downgraded RadNet's first lien debt following the company's acquisition of a $200 million loan. This action could impact RadNet's borrowing costs and market confidence. A downgrade typically signals that investors are wary of the company's future prospects, which may lead to a decline in its stock price. For companies reliant on debt financing, such rating changes are particularly significant and may restrict their ability to raise capital in the future."
         },
         {
           "rank": 8,
-          "title": "Netflix Stock Under Pressure Sets Up This Trade To Profit From Weakness",
-          "link": "https://www.investors.com/research/options/netflix-stock-nflx-streaming-trading-options-income-investing-markets/?src=A00220&yptr=yahoo",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-06-04 16:37 UTC",
-          "analysis_zh": "最近，Netflix的股票面临压力，市场对其未来表现的担忧加剧。这一情况引发了投资者的关注，因为Netflix在流媒体行业的竞争日益激烈，可能影响其盈利能力。投资者可能会考虑采取相应的交易策略，以利用股票价格的下跌。这种市场波动不仅影响Netflix自身，也可能对整个科技股板块产生连锁反应。",
-          "analysis_en": "Recently, Netflix's stock has come under pressure as concerns about its future performance have intensified. This situation has caught the attention of investors, as increasing competition in the streaming industry may impact its profitability. Investors might consider implementing trading strategies to capitalize on the stock's decline. Such market fluctuations could not only affect Netflix itself but also have a ripple effect across the entire tech sector."
+          "title": "Trump says Pulte won't be permanent national intelligence director",
+          "link": "https://www.cnbc.com/2026/06/04/pulte-intelligence-trump-dni-temporary.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-06-04 21:35 UTC",
+          "analysis_zh": "特朗普最近表示，比尔·普尔特不会担任永久的国家情报总监。此言论是在他任命普尔特为代理国家情报总监的两天后发表的，普尔特接替了图尔西·加巴德的职位。这一决定引发了广泛关注，因为国家情报总监在国家安全和情报工作中扮演着至关重要的角色。特朗普的表态可能会影响政府对情报机构的信任度和稳定性。",
+          "analysis_en": "Trump recently stated that Bill Pulte will not serve as the permanent Director of National Intelligence. This comment came just two days after he appointed Pulte as the acting DNI to replace Tulsi Gabbard. The decision has drawn significant attention, as the DNI plays a crucial role in national security and intelligence operations. Trump's remarks could potentially impact the trust and stability of the government regarding its intelligence agencies."
         },
         {
           "rank": 9,
-          "title": "Inside the $850 million Obama Presidential Center ahead of its Juneteenth opening",
-          "link": "https://www.cnbc.com/2026/06/04/barack-obama-presidential-library-opening-chicago.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-06-04 16:37 UTC",
-          "analysis_zh": "奥巴马总统图书馆的建设耗资8.5亿美元，预计将在“解放日”开幕，成为现代历史上最昂贵的总统博物馆或图书馆，参观费用为30美元。这一项目不仅是对奥巴马总统遗产的纪念，也为社区提供了教育和文化交流的空间。高昂的门票价格可能会引发公众对博物馆可及性的讨论，尤其是在经济不平等加剧的背景下。",
-          "analysis_en": "The Obama Presidential Center, costing $850 million, is set to open on Juneteenth, making it the most expensive presidential museum or library in modern history with an entry fee of $30. This project serves as a tribute to President Obama's legacy while providing a space for education and cultural exchange within the community. The high ticket price may spark discussions about the accessibility of museums, especially amid growing economic inequality."
+          "title": "Bitcoin slides to four-month low as Strategy sale, ETF outflows continue to weigh",
+          "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slides-to-4mth-low-at-61k-as-iran-tensions-weigh-etf-outflows-continue-4725700",
+          "source": "Cryptocurrency News",
+          "published_utc": "2026-06-04 21:35 UTC",
+          "analysis_zh": "比特币价格跌至四个月来的最低点，主要受到策略销售和ETF资金流出的影响。这一趋势引发了投资者的广泛关注，因为比特币的价格波动可能会影响整个加密货币市场的稳定性。随着投资者对市场前景的担忧加剧，可能会导致更多资金撤出，加剧价格下跌的趋势。",
+          "analysis_en": "Bitcoin's price has fallen to a four-month low, primarily due to ongoing strategy sales and outflows from ETFs. This trend has raised significant concerns among investors, as the volatility in Bitcoin's price could impact the overall stability of the cryptocurrency market. As worries about the market outlook grow, it may lead to further capital withdrawals, exacerbating the downward pressure on prices."
         },
         {
           "rank": 10,
-          "title": "Walmart investors reject AI workplace report as automation expands in the US",
-          "link": "https://www.investing.com/news/stock-market-news/walmart-investors-reject-ai-workplace-report-as-automation-expands-in-the-us-4727161",
+          "title": "Wall Street giants tout SpaceX in glitzy pre-IPO investor events",
+          "link": "https://www.investing.com/news/stock-market-news/wall-street-banks-and-ceos-promote-spacexin-flashy-events-with-bofa-morgan-stanley-jpm-events-planned-4727204",
           "source": "Stock Market News",
-          "published_utc": "2026-06-04 16:36 UTC",
-          "analysis_zh": "沃尔玛的投资者拒绝了一份关于人工智能工作场所的报告，反映出在美国自动化进程加速的背景下，投资者对公司未来的方向存在分歧。这一事件表明，尽管自动化技术日益普及，但投资者对其潜在影响仍持谨慎态度。这可能会影响沃尔玛在技术投资和人力资源管理方面的决策，进而影响其市场竞争力。",
-          "analysis_en": "Walmart investors have rejected a report on AI in the workplace, highlighting a divide among investors regarding the company's future direction amid the rapid expansion of automation in the U.S. This incident shows that, despite the increasing prevalence of automation technologies, investors remain cautious about their potential impacts. This could affect Walmart's decisions regarding technology investments and human resource management, ultimately influencing its competitiveness in the market."
+          "published_utc": "2026-06-04 21:31 UTC",
+          "analysis_zh": "华尔街的一些大型投资公司在豪华的首次公开募股（IPO）投资者活动中大力宣传SpaceX。这一举动表明，投资者对SpaceX的未来发展充满信心，尤其是在航天和卫星互联网领域的潜力。此举可能会吸引更多的资金流入该公司，并进一步推动其技术创新和市场扩展。",
+          "analysis_en": "Major Wall Street investment firms are heavily promoting SpaceX at lavish pre-IPO investor events. This move indicates that investors are optimistic about SpaceX's future, particularly regarding its potential in the aerospace and satellite internet sectors. Such actions may attract more capital to the company, further driving its technological innovations and market expansion."
         }
       ]
     },
     "健康": {
       "description": "医学、营养、抗衰老、代谢与公共健康",
-      "count": 7,
+      "count": 8,
       "items": [
         {
           "rank": 1,
-          "title": "Bernard Roizman, Virologist Who Demystified Herpes, Dies at 96",
-          "link": "https://www.nytimes.com/2026/06/04/science/bernard-roizman-dead.html",
+          "title": "As Ebola Spreads, Scientists Race to Find Vaccines and Treatments",
+          "link": "https://www.nytimes.com/2026/06/01/science/ebola-vaccines-treatments.html",
           "source": "NYT > Health",
-          "published_utc": "2026-06-04 15:30 UTC",
-          "analysis_zh": "著名病毒学家伯纳德·罗伊兹曼于96岁去世，他的研究揭示了单纯疱疹病毒的基因组，并阐明了病毒如何侵入细胞。他的工作不仅增进了我们对这一病毒的理解，还为未来疫苗和基因治疗的开发奠定了基础。这一成就对公共健康领域具有重要意义，可能会影响未来对疱疹及相关疾病的治疗策略。",
-          "analysis_en": "Renowned virologist Bernard Roizman passed away at the age of 96. He mapped the genome of the herpes simplex virus, providing insights into how the virus invades cells. His research not only enhanced our understanding of this virus but also laid the groundwork for the development of future vaccines and gene therapies. This achievement is significant for public health and may influence treatment strategies for herpes and related diseases in the future."
+          "published_utc": "2026-06-04 21:08 UTC",
+          "analysis_zh": "随着埃博拉病毒的传播，科学家们正加紧研发疫苗和治疗方法。Bundibugyo病毒，这种鲜为人知的病毒，过去仅引发过两次小规模疫情，但如今却成为非洲迅速扩散的流行病的中心。这一疫情的加剧不仅对公共卫生构成威胁，也可能影响到地区经济和国际旅行。科学家们的紧急努力将决定未来几个月内疫情的走向。",
+          "analysis_en": "As the Ebola virus spreads, scientists are racing to develop vaccines and treatments. The Bundibugyo virus, which is relatively unknown, had previously caused only two small outbreaks, but it is now at the center of a rapidly expanding epidemic in Africa. The escalation of this outbreak poses significant threats to public health and could impact regional economies and international travel. The urgent efforts of scientists will determine the course of the epidemic in the coming months."
         },
         {
           "rank": 2,
+          "title": "Bernard Roizman, Virologist Who Demystified Herpes, Dies at 96",
+          "link": "https://www.nytimes.com/2026/06/04/science/bernard-roizman-dead.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-06-04 17:55 UTC",
+          "analysis_zh": "著名病毒学家伯纳德·罗伊兹曼于96岁时去世，他的研究揭示了单纯疱疹病毒的基因组，并阐明了病毒如何侵入细胞。这一发现不仅加深了我们对该病毒的理解，也为未来疫苗和基因疗法的研发奠定了基础。罗伊兹曼的贡献将对公共健康产生深远影响，尤其是在对抗病毒感染方面。",
+          "analysis_en": "Renowned virologist Bernard Roizman passed away at the age of 96. His research mapped the genome of the herpes simplex virus, revealing how the virus invades cells. This discovery not only enhanced our understanding of the virus but also laid the groundwork for the development of potential vaccines and gene therapies. Roizman's contributions will have a lasting impact on public health, particularly in the fight against viral infections."
+        },
+        {
+          "rank": 3,
           "title": "A study of 8,300 older adults revealed a surprising salt habit",
           "link": "https://www.sciencedaily.com/releases/2026/06/260604044304.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-04 14:05 UTC",
-          "analysis_zh": "一项针对8300名巴西老年人的研究发现，许多人在餐桌上仍然习惯性地添加额外的盐，尤其是男性。这一现象值得关注，因为过量摄入盐与高血压、心脏病和认知能力下降等健康问题密切相关。研究还发现，女性的加盐习惯与她们的生活方式和饮食习惯有更紧密的联系。这项研究不仅揭示了不同性别在饮食习惯上的差异，也可能对公共健康政策的制定产生影响，尤其是在老年人群体中。",
-          "analysis_en": "A study involving 8,300 older adults in Brazil revealed that many people still have the habit of adding extra salt at the table, particularly among men. This is significant because excessive salt intake is linked to serious health issues such as high blood pressure, heart disease, and cognitive decline. The research also found that women's salt usage is more closely related to their lifestyle and dietary habits. This study not only highlights the differences in eating habits between genders but may also influence public health policies, especially concerning the elderly population."
+          "analysis_zh": "一项针对8300名巴西老年人的研究发现，餐桌上加盐的习惯仍然普遍，尤其是在男性中。尽管过量摄入盐与高血压、心脏病和认知能力下降等健康问题密切相关，但研究发现女性的加盐习惯与她们的生活方式和饮食习惯更为相关。这项研究的重要性在于，它揭示了不同性别在饮食习惯上的差异，可能会影响公共健康政策的制定，尤其是在老年人群体中。",
+          "analysis_en": "A study involving 8,300 older adults in Brazil revealed that the habit of adding salt at the table is still common, particularly among men. While excessive salt intake is linked to serious health issues such as high blood pressure, heart disease, and cognitive decline, the research found that women's salt-adding habits are more closely connected to their lifestyle and dietary choices. This study is significant as it highlights the differences in dietary habits between genders, which could influence the development of public health policies, especially for the elderly population."
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Scientists finally crack an “undruggable” pancreatic cancer target and nearly double survival",
           "link": "https://www.sciencedaily.com/releases/2026/06/260604044247.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-04 13:18 UTC",
-          "analysis_zh": "科学家们成功攻克了一个长期被认为无法治疗的胰腺癌靶点，并在一项重要的临床试验中使患者的生存率几乎翻倍。这种新药daraxonrasib针对的是大多数胰腺肿瘤的KRAS突变，这一突破意味着治疗选择的显著增加。胰腺癌一直以来都是致死率极高的癌症，新的治疗方法可能会改变患者的预后，降低死亡风险达60%。这一进展不仅为患者带来了希望，也为未来的癌症研究提供了新的方向。",
-          "analysis_en": "Scientists have successfully targeted a long-considered \"undruggable\" pancreatic cancer target, nearly doubling survival rates in a significant clinical trial. The new drug, daraxonrasib, specifically targets the KRAS mutation that drives most pancreatic tumors, marking a major advancement in treatment options. Pancreatic cancer has historically had a very high mortality rate, and this new therapy could significantly improve patient outcomes by reducing the risk of death by 60%. This breakthrough not only offers hope to patients but also paves the way for future cancer research."
+          "analysis_zh": "科学家们成功攻克了一个被认为“无法药物化”的胰腺癌靶点，并在一项重要的临床试验中几乎将患者的生存率翻倍。新药daraxonrasib专门针对大多数胰腺肿瘤中存在的KRAS突变，这一突破为长期以来缺乏有效治疗选择的胰腺癌患者带来了新的希望。这项研究的结果显示，接受该治疗的晚期患者死亡风险降低了60%。这一进展不仅可能改变胰腺癌的治疗方式，还可能激励更多针对其他“无法药物化”靶点的研究。",
+          "analysis_en": "Scientists have successfully tackled a target in pancreatic cancer that was once deemed \"undruggable,\" nearly doubling survival rates in a significant clinical trial. The new drug, daraxonrasib, specifically targets the KRAS mutation found in most pancreatic tumors, offering new hope to patients who have long faced limited treatment options. The study revealed that patients receiving this treatment experienced a 60% reduction in the risk of death. This advancement could not only transform the treatment landscape for pancreatic cancer but also inspire further research into other \"undruggable\" targets."
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Rubio Suggests U.S. Return to Global Vaccine Program in Rebuke of Kennedy",
           "link": "https://www.nytimes.com/2026/06/02/us/politics/rubio-kennedy-vaccines-gavi.html",
           "source": "NYT > Health",
           "published_utc": "2026-06-04 13:08 UTC",
-          "analysis_zh": "美国国务卿马尔科·鲁比奥在向参议员作证时表示，他正在重新掌控美国与全球疫苗联盟Gavi的关系。这一表态不仅反映了美国在全球疫苗分配中的角色，也显示出对前总统候选人肯尼迪的批评。此举可能会影响美国在国际公共卫生事务中的领导地位，并重塑全球疫苗合作的格局。",
-          "analysis_en": "Secretary of State Marco Rubio stated in his testimony to senators that he is reclaiming control over the U.S. relationship with Gavi, the international vaccine alliance. This statement not only highlights the U.S. role in global vaccine distribution but also serves as a rebuke to former presidential candidate Kennedy. This move could impact the U.S.'s leadership position in international public health and reshape the dynamics of global vaccine cooperation."
+          "analysis_zh": "美国国务卿马尔科·鲁比奥在向参议员的证词中表示，他正在重新掌控美国与全球疫苗联盟Gavi的关系。这一表态意味着美国可能会重新参与全球疫苗计划，这在当前全球公共卫生危机中显得尤为重要。鲁比奥的发言不仅反映了对疫苗分配公平性的关注，也可能影响美国在国际卫生事务中的领导地位。",
+          "analysis_en": "Secretary of State Marco Rubio indicated in his testimony to senators that he is reclaiming control of the U.S. relationship with Gavi, the global vaccine alliance. This statement suggests that the U.S. may re-engage with global vaccine programs, which is particularly significant in the context of the ongoing global public health crisis. Rubio's remarks not only highlight concerns about equitable vaccine distribution but may also impact the U.S.'s leadership role in international health matters."
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Scientists discover the master clock that controls biological growth and development",
           "link": "https://www.sciencedaily.com/releases/2026/06/260604044236.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-04 09:36 UTC",
-          "analysis_zh": "科学家们发现了一种新的基因时钟，它作为生物体发育的主控时钟，协调了线虫生长过程中的关键基因活动。当这个时钟受到干扰时，发育会停止，这为我们理解与生长相关的疾病提供了新的线索。这一发现不仅揭示了细胞如何保持生长和发育的时间安排，还可能对未来治疗生长障碍的策略产生深远影响。",
-          "analysis_en": "Scientists have discovered a new genetic clock that acts as the master timekeeper for biological development, coordinating crucial gene activity during the growth of worms. When this clock is disrupted, development halts, offering new insights into how growth-related disorders may arise. This discovery not only reveals how cells maintain the timing of growth and development but could also have significant implications for future treatments of growth disorders."
+          "analysis_zh": "科学家们发现了一种新的基因时钟，它在小虫子秀丽隐杆线虫的生长和发育过程中充当主时间管理者。这种时钟通过协调基因活动的关键爆发，确保每个发育阶段的准确时机和持续时间。当这个时钟受到干扰时，发育会停止，这为我们理解与生长相关的疾病提供了新的线索。这一发现不仅有助于深入了解生物发育的机制，还可能对治疗生长障碍提供新的思路。",
+          "analysis_en": "Researchers have discovered a new genetic clock that acts as the master timekeeper for growth and development in the tiny worm C. elegans. This clock coordinates crucial bursts of gene activity, ensuring that each developmental stage occurs at the right time and lasts for the appropriate duration. When this clock is disrupted, development halts, offering fresh insights into how growth-related disorders may arise. This discovery not only enhances our understanding of biological development mechanisms but may also provide new avenues for treating growth disorders."
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Cancer’s favorite escape trick may actually make it easier to kill",
           "link": "https://www.sciencedaily.com/releases/2026/06/260603023911.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-04 05:30 UTC",
-          "analysis_zh": "科学家们发现了一种新的免疫系统对抗癌症的方式，这一发现颠覆了数十年来指导免疫学的核心信念。研究表明，当癌细胞关闭一种名为MHC I的免疫识别分子时，它们实际上会变得更容易受到另一类免疫细胞——CD4+“辅助”T细胞的攻击。这一发现不仅挑战了传统的免疫学观念，还可能为癌症治疗和骨髓移植提供新的思路，改变我们对癌症免疫治疗的理解。",
-          "analysis_en": "Scientists have uncovered a new way the immune system fights cancer, challenging a long-held belief in immunology. The research indicates that when cancer cells shut down a key immune-recognition molecule called MHC I, they can actually become more susceptible to attack by a different group of immune cells known as CD4+ \"helper\" T cells. This finding not only challenges traditional views in immunology but may also lead to new strategies for cancer treatment and bone marrow transplantation, potentially transforming our understanding of cancer immunotherapy."
+          "analysis_zh": "科学家们发现了一种新的免疫系统对抗癌症的方式，这一发现颠覆了数十年来指导免疫学的核心信念。研究表明，当癌细胞关闭一种名为MHC I的关键免疫识别分子时，它们实际上会变得更容易受到另一类免疫细胞——CD4+“辅助”T细胞的攻击。这一发现不仅挑战了传统的免疫学观点，还可能为癌症治疗和骨髓移植开辟新的研究方向。",
+          "analysis_en": "Scientists have uncovered a new way the immune system fights cancer, challenging a long-held belief in immunology. The research indicates that when cancer cells shut down a key immune recognition molecule called MHC I, they can become more vulnerable to attack by a different group of immune cells known as CD4+ \"helper\" T cells. This finding not only challenges traditional views in immunology but may also open new avenues for cancer treatment and bone marrow transplantation."
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "As Ebola Outbreak Widens, Trump Has Yet to Outline a Plan",
           "link": "https://www.nytimes.com/2026/06/03/us/politics/trump-administration-ebola-response.html",
           "source": "NYT > Health",
           "published_utc": "2026-06-03 23:31 UTC",
-          "analysis_zh": "近期，埃博拉疫情不断扩大，但特朗普政府尚未提出相关应对计划。尽管美国有成熟的程序来处理可能感染埃博拉的公民，但政府仍未表态允许这些人返回美国进行监测和治疗。这一决定引发了公众的广泛关注，因为它可能影响到美国民众的健康安全和疫情的控制。若不及时采取措施，疫情的蔓延可能对国家的公共卫生构成更大威胁。",
-          "analysis_en": "Recently, the Ebola outbreak has been expanding, yet the Trump administration has not outlined a response plan. Despite established procedures for bringing Americans at risk of Ebola back for monitoring and treatment, the government has not indicated that it will allow these individuals to return. This decision has raised significant public concern, as it could impact the health safety of American citizens and the control of the outbreak. If measures are not taken promptly, the spread of the virus could pose a greater threat to public health in the country."
+          "analysis_zh": "最近，埃博拉疫情正在扩大，但特朗普政府尚未提出相关应对计划。尽管美国有长期的程序来确保在疫情期间将有风险的美国公民带回国内进行监测和治疗，政府仍未明确表示将允许这些人返回。这一决定可能会影响公众的健康安全和对政府应对疫情能力的信任。",
+          "analysis_en": "Recently, the Ebola outbreak has been widening, yet the Trump administration has not outlined a response plan. Despite established procedures for bringing Americans at risk back home for monitoring and treatment during such crises, the government has not indicated it will allow these individuals to return. This decision could impact public health safety and trust in the government's ability to handle the outbreak."
         }
       ]
     },
@@ -184,93 +193,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "Wary of U.S., Carney Bets on AI Strategy for Canada",
+          "link": "https://www.nytimes.com/2026/06/04/world/canada/canada-national-ai-strategy.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-06-04 20:32 UTC",
+          "analysis_zh": "加拿大于周四发布了一项国家人工智能战略，旨在增强其自主能力并保护消费者。这一举措反映出该国对美国在人工智能领域的主导地位的警惕。通过建立自己的AI战略，加拿大希望在全球科技竞争中占据一席之地，同时确保其公民在技术发展中的权益得到保障。这一战略的实施可能会影响到加拿大的科技产业发展和国际合作。",
+          "analysis_en": "On Thursday, Canada unveiled a national artificial intelligence strategy aimed at enhancing its sovereign capabilities and protecting consumers. This move highlights the country's wariness of the United States' dominance in the AI sector. By establishing its own AI framework, Canada seeks to secure a position in the global tech competition while ensuring that its citizens' rights are safeguarded in the face of technological advancements. The implementation of this strategy could significantly impact the development of Canada's tech industry and its international collaborations."
+        },
+        {
+          "rank": 2,
+          "title": "Cyberdecks used to look like little laptops, but now they’re getting more personal",
+          "link": "https://www.theverge.com/tech/943445/cyberdeck-tiktok",
+          "source": "The Verge",
+          "published_utc": "2026-06-04 20:07 UTC",
+          "analysis_zh": "最近，TikTok用户Annike Tan展示了她的“网络甲板”，这是一种看起来并不像电脑的个人设备。她的作品以美人鱼为主题，使用旧手袋制作而成，迅速在社交媒体上走红。如今，越来越多的DIY爱好者开始将个人电脑隐藏在手袋、首饰盒和玩具中，这种趋势不仅展示了创意，也可能改变我们对科技产品的传统认知。",
+          "analysis_en": "Recently, TikTok user Annike Tan showcased her \"cyberdeck,\" a personal device that doesn't resemble a computer at all. Her mermaid-themed creation, made from an old purse, quickly went viral on social media. More and more DIY enthusiasts are now hiding personal computers inside bags, jewelry boxes, and toys, a trend that not only highlights creativity but may also change our traditional perceptions of tech products."
+        },
+        {
+          "rank": 3,
+          "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
+          "link": "https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/",
+          "source": "Feed: Artificial Intelligence Latest",
+          "published_utc": "2026-06-04 18:44 UTC",
+          "analysis_zh": "近期，人工智能公司纷纷准备上市，市场热度不断攀升，甚至有房地产项目开始寻求以人工智能公司的股票作为交易方式。这一现象反映了投资者对人工智能领域的强烈信心和期待。随着更多公司进入IPO阶段，可能会加剧市场竞争，并推动相关技术的进一步发展和应用。",
+          "analysis_en": "Recently, AI companies are gearing up for IPOs, leading to a surge in market interest, with some real estate projects even seeking to transact using AI company stocks. This trend reflects strong investor confidence and anticipation in the AI sector. As more companies enter the IPO phase, it could intensify market competition and further drive the development and application of related technologies."
+        },
+        {
+          "rank": 4,
+          "title": "Kevin O’Leary agrees to downsize massive Utah data center",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
+          "source": "The Verge",
+          "published_utc": "2026-06-04 18:38 UTC",
+          "analysis_zh": "凯文·欧莱瑞同意将他在犹他州计划建设的40,000英亩数据中心规模减半，此举是在居民和活动人士的压力下做出的。欧莱瑞在给犹他州参议院院长J.斯图尔特·亚当斯的信中表示，将从项目中移除19,430英亩的土地。这一决定反映了当地社区对大型项目的关注，可能会影响未来类似项目的审批和建设方式。",
+          "analysis_en": "Kevin O’Leary has agreed to halve the size of his planned 40,000-acre data center in Utah due to mounting pressure from residents and activists. In a letter to Utah Senate President J. Stuart Adams, O’Leary stated that he would remove 19,430 acres from the project. This decision highlights the community's concerns regarding large-scale developments and may influence the approval and construction processes for similar projects in the future."
+        },
+        {
+          "rank": 5,
+          "title": "Google is letting social media stars customize their search result page",
+          "link": "https://www.theverge.com/tech/943233/google-search-profiles-custom-page",
+          "source": "The Verge",
+          "published_utc": "2026-06-04 18:32 UTC",
+          "analysis_zh": "谷歌最近推出了一项新功能，允许美国的社交媒体明星和大型创作者在搜索结果页面上自定义个人资料，以便突出显示他们的视频、文章和其他在线资料。此功能仅限于拥有至少10万名YouTube订阅者、10万名Instagram或X平台粉丝，或30万名TikTok粉丝的人士。这一举措不仅能提升这些创作者的在线可见度，也可能改变用户在搜索引擎中获取信息的方式，进一步推动社交媒体与搜索引擎的融合。",
+          "analysis_en": "Google has recently introduced a new feature that allows social media stars and major creators in the U.S. to customize their search result pages to showcase their videos, articles, and other online profiles. This feature is limited to individuals with at least 100,000 YouTube subscribers, 100,000 followers on Instagram or X, or 300,000 followers on TikTok. This move not only enhances the online visibility of these creators but may also change how users access information through search engines, further integrating social media with search functionalities."
+        },
+        {
+          "rank": 6,
+          "title": "Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand",
+          "link": "https://www.nytimes.com/2026/06/04/technology/gwynne-shotwell-spacex.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-06-04 17:32 UTC",
+          "analysis_zh": "格温·肖特威尔是SpaceX的总裁兼首席运营官，她在公司中扮演着关键角色，尤其是在埃隆·马斯克的领导下。随着SpaceX准备进行首次公开募股，肖特威尔的稳重和专业能力显得尤为重要。她的存在为公司提供了必要的平衡，帮助确保在快速发展的科技行业中保持稳定。此举不仅可能影响SpaceX的市场表现，也可能对整个航天行业的投资信心产生深远影响。",
+          "analysis_en": "Gwynne Shotwell serves as the president and chief operating officer of SpaceX, playing a crucial role, especially alongside Elon Musk's leadership. As the company prepares for its initial public offering, Shotwell's steadiness and professionalism are particularly significant. Her presence provides essential balance, helping to ensure stability in the rapidly evolving tech industry. This move could not only impact SpaceX's market performance but also have far-reaching effects on investor confidence in the entire aerospace sector."
+        },
+        {
+          "rank": 7,
+          "title": "How LinkedIn Found Its Social Platform Era",
+          "link": "https://www.nytimes.com/2026/06/04/business/linkedin-social-media-influencers.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-06-04 17:23 UTC",
+          "analysis_zh": "LinkedIn 最近经历了显著的变化，名人和付费影响者的加入使这个以职业为中心的平台发生了转型。对于某些用户来说，LinkedIn 不再仅仅是求职工具，而是成为了一种新的职业角色。这一变化不仅影响了用户的职业发展方式，也可能改变企业在招聘和品牌推广方面的策略。随着社交媒体的影响力不断增强，LinkedIn 的未来发展将值得关注。",
+          "analysis_en": "LinkedIn has recently undergone significant changes, with the introduction of celebrities and paid influencers transforming the career-focused platform. For some users, LinkedIn has evolved from merely a job-seeking tool into a new professional role. This shift not only affects how users approach their career development but may also alter how companies strategize in recruitment and brand promotion. As the influence of social media continues to grow, the future development of LinkedIn will be worth watching."
+        },
+        {
+          "rank": 8,
+          "title": "Amazon’s new plan for games: James Bond and AI Snoop Dogg",
+          "link": "https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna",
+          "source": "The Verge",
+          "published_utc": "2026-06-04 17:01 UTC",
+          "analysis_zh": "亚马逊最近公布了其新的游戏策略，计划推出以詹姆斯·邦德和人工智能角色Snoop Dogg为主题的游戏。这一变化标志着亚马逊在游戏领域的重大转型，尤其是在其Luna云游戏服务的重新定位上。此举不仅反映了亚马逊对游戏市场的持续投资，也可能影响到其与其他游戏开发商的合作关系，进一步推动公司在娱乐行业的多元化发展。",
+          "analysis_en": "Amazon recently unveiled its new gaming strategy, which includes games themed around James Bond and an AI character, Snoop Dogg. This shift represents a significant transformation in Amazon's approach to gaming, particularly with the relaunch of its Luna cloud gaming service. This move not only highlights Amazon's ongoing investment in the gaming market but may also affect its partnerships with other game developers, further driving the company's diversification in the entertainment industry."
+        },
+        {
+          "rank": 9,
           "title": "What Are A.I. Agents Actually Doing?",
           "link": "https://www.nytimes.com/2026/06/04/technology/ai-agents-arena.html",
           "source": "NYT > Technology",
           "published_utc": "2026-06-04 16:00 UTC",
-          "analysis_zh": "一家位于旧金山的初创公司Arena发现，尤其是在科技行业，人们在工作中最有可能使用人工智能代理。这一发现表明，人工智能在职场中的应用正在逐渐普及，可能会改变工作流程和效率。随着越来越多的企业采用这些技术，未来的工作环境可能会更加依赖于智能工具，从而影响员工的角色和技能需求。",
-          "analysis_en": "A San Francisco start-up called Arena found that people are most likely to use A.I. agents at work, particularly in the tech industry. This finding indicates that the use of A.I. in the workplace is becoming more widespread, potentially transforming workflows and efficiency. As more companies adopt these technologies, the future work environment may increasingly rely on intelligent tools, affecting employee roles and skill requirements."
+          "analysis_zh": "位于旧金山的初创公司Arena发现，人工智能代理在工作场所的使用率较高，尤其是在科技行业。这一发现表明，越来越多的企业开始依赖人工智能来提升工作效率和生产力。这不仅可能改变员工的工作方式，还可能影响整个行业的就业结构和技能需求。",
+          "analysis_en": "A San Francisco start-up called Arena has found that the use of AI agents is most prevalent in the workplace, particularly within the tech industry. This finding indicates that more companies are beginning to rely on artificial intelligence to enhance efficiency and productivity. This shift could not only change the way employees work but also impact the job structure and skill requirements across the industry."
         },
         {
-          "rank": 2,
+          "rank": 10,
           "title": "Belkin’s new Joy-Con grips also boost the Switch 2’s battery life",
           "link": "https://www.theverge.com/tech/942617/belkin-gaming-charging-grip-nintendo-switch-2-joy-con-controller",
           "source": "The Verge",
           "published_utc": "2026-06-04 16:00 UTC",
-          "analysis_zh": "Belkin最近推出了一款新的Joy-Con握把，旨在提升任天堂Switch 2的电池续航能力。这款握把配备了一个10,000mAh的电池，可以为玩家提供额外三到四小时的游戏时间，同时改善了Joy-Con控制器的握持舒适度。这一创新不仅增强了Switch 2的使用体验，也为游戏玩家提供了更长时间的娱乐选择。随着游戏设备对续航能力的需求日益增加，这款产品可能会受到广泛关注。",
-          "analysis_en": "Belkin has recently launched a new Joy-Con grip designed to enhance the battery life of the Nintendo Switch 2. This grip features a 10,000mAh battery that can provide an additional three to four hours of gameplay while improving the comfort of holding the Joy-Con controllers. This innovation not only enhances the user experience of the Switch 2 but also offers gamers extended entertainment options. As the demand for battery life in gaming devices continues to grow, this product is likely to attract significant attention."
-        },
-        {
-          "rank": 3,
-          "title": "Cash App made a magic wand for contactless payments",
-          "link": "https://www.theverge.com/tech/942897/cash-app-tags-magic-wand-contactless-payments-price-launch",
-          "source": "The Verge",
-          "published_utc": "2026-06-04 16:00 UTC",
-          "analysis_zh": "Cash App 最近推出了一款名为“Cash App Wand”的新配件，这是一种支持 NFC 的魔法棒，用户可以在不拿出手机或卡片的情况下进行无接触支付。这款魔法棒的设计灵感来源于社交媒体上流行的 DIY 趋势，许多人正在制作自己独特的无接触支付卡外壳。此举不仅提升了支付的便利性，也可能影响到消费者对支付方式的偏好，尤其是在快餐店和便利店等场合。",
-          "analysis_en": "Cash App has recently launched a new accessory called the \"Cash App Wand,\" which is an NFC-enabled magic wand that allows users to make contactless payments without pulling out their phone or card. The design is inspired by a popular DIY trend on social media, where people are creating their own unique cases for contactless payment cards. This move not only enhances the convenience of payments but may also influence consumer preferences for payment methods, especially in fast-food and convenience store settings."
-        },
-        {
-          "rank": 4,
-          "title": "Windows is back on the Microsoft menu",
-          "link": "https://www.theverge.com/tech/943108/microsoft-build-2026-windows-love-notepad",
-          "source": "The Verge",
-          "published_utc": "2026-06-04 16:00 UTC",
-          "analysis_zh": "微软在本周的Build开发者大会上将Windows重新置于焦点之中，CEO纳德拉在开幕演讲中展示了新款Surface RTX Spark开发工具包，而没有提及Windows 11存在的问题。这一举动表明，微软希望通过新硬件来吸引开发者的关注，并强调Windows在其人工智能战略中的重要性。随着Nvidia新RTX Spark芯片的发布，微软和Nvidia正在共同推动PC市场的变革，旨在为用户提供更强大的本地AI处理能力。这不仅可能改变用户对Windows的看法，也可能影响未来PC的使用模式和定价策略。",
-          "analysis_en": "At this week's Build developer conference, Microsoft put Windows back in the spotlight, with CEO Satya Nadella showcasing the new Surface RTX Spark Dev Kit while avoiding discussion of the issues with Windows 11. This move indicates that Microsoft aims to attract developers' attention through new hardware and emphasizes the significance of Windows in its AI strategy. With Nvidia's release of the new RTX Spark chips, both companies are working together to transform the PC market, aiming to provide users with enhanced local AI processing capabilities. This could not only change users' perceptions of Windows but also impact future usage patterns and pricing strategies for PCs."
-        },
-        {
-          "rank": 5,
-          "title": "Remarkable’s refurbished Paper Pro bundle is hundreds off",
-          "link": "https://www.theverge.com/gadgets/942999/remarkable-paper-pro-vizio-soundbar-marathon-deal-sale",
-          "source": "The Verge",
-          "published_utc": "2026-06-04 15:46 UTC",
-          "analysis_zh": "Remarkable推出的翻新版Paper Pro平板电脑正在进行大幅折扣促销，价格从原价629美元降至509美元。这个价格对于一款色彩电子墨水平板来说相当吸引人，尤其是它还包含了139美元的新配件。此促销不仅让消费者能够以更低的价格体验到Remarkable的产品，还可能影响到市场上其他电子产品的定价策略。此外，虽然翻新产品的保修期为90天，但与Remarkable自家提供的一年保修相比，消费者在购买时仍需谨慎考虑。",
-          "analysis_en": "Remarkable is offering a significant discount on its refurbished Paper Pro tablet, bringing the price down from the original $629 to $509. This price is quite appealing for a color E Ink tablet, especially since it includes $139 worth of new accessories. This promotion not only allows consumers to experience Remarkable's products at a lower price but may also influence pricing strategies for other electronic products in the market. Additionally, while the refurbished product comes with a 90-day warranty, consumers should be cautious as it is less than the one-year warranty offered by Remarkable itself."
-        },
-        {
-          "rank": 6,
-          "title": "How LinkedIn Found Its Social Platform Era",
-          "link": "https://www.nytimes.com/2026/06/04/business/linkedin-social-media-influencers.html",
-          "source": "NYT > Technology",
-          "published_utc": "2026-06-04 14:59 UTC",
-          "analysis_zh": "LinkedIn 最近经历了显著的变化，许多名人和付费影响者的加入使这个以职业为中心的平台转变为一个社交平台。对一些用户而言，使用 LinkedIn 已成为一项全职工作。这一转变不仅改变了用户的互动方式，也影响了平台的商业模式，可能会吸引更多的用户和广告商。随着社交元素的增强，LinkedIn 可能会面临新的竞争挑战。",
-          "analysis_en": "LinkedIn has recently undergone significant changes, with the influx of celebrities and paid influencers transforming the career-focused platform into a social network. For some users, engaging on LinkedIn has become a full-time job. This shift not only alters how users interact but also impacts the platform's business model, potentially attracting more users and advertisers. As social elements increase, LinkedIn may face new competitive challenges."
-        },
-        {
-          "rank": 7,
-          "title": "SpaceX IPO to Be Largest Ever at $135 Share Price",
-          "link": "https://www.nytimes.com/2026/06/03/technology/spacex-ipo-pricing.html",
-          "source": "NYT > Technology",
-          "published_utc": "2026-06-04 14:56 UTC",
-          "analysis_zh": "SpaceX的首次公开募股（IPO）定价为每股135美元，这意味着该公司的估值和筹资金额将超过2019年沙特阿美的IPO。这一事件不仅标志着太空科技行业的快速发展，也显示出投资者对航天事业的信心。SpaceX的成功上市可能会吸引更多资本流入这一领域，推动相关技术的进一步创新和发展。",
-          "analysis_en": "SpaceX's initial public offering (IPO) is priced at $135 per share, indicating that the company's valuation and funds raised will surpass those of Saudi Aramco's IPO in 2019. This event not only highlights the rapid growth of the space technology sector but also reflects investor confidence in the aerospace industry. SpaceX's successful listing may attract more capital into this field, fostering further innovation and development of related technologies."
-        },
-        {
-          "rank": 8,
-          "title": "Can These ChatGPT Ads Make You Love A.I.?",
-          "link": "https://www.nytimes.com/2026/06/04/style/chatgpt-advertising-campaign-artificial-intelligence.html",
-          "source": "NYT > Technology",
-          "published_utc": "2026-06-04 14:50 UTC",
-          "analysis_zh": "最近，一项针对ChatGPT的广告活动通过怀旧的温馨氛围来推广这一产品。尽管ChatGPT在技术上取得了显著进展，但它也引发了许多美国人的担忧。这项广告活动的重要性在于，它试图改变公众对人工智能的看法，强调其积极的一面。成功与否将影响未来人工智能产品的接受度和市场表现。",
-          "analysis_en": "Recently, an advertising campaign for ChatGPT has been launched, using heartwarming retro vibes to promote the product. While ChatGPT has made significant advancements in technology, it has also raised concerns among many Americans. The importance of this campaign lies in its attempt to shift public perception of artificial intelligence, highlighting its positive aspects. The success or failure of this campaign could affect the acceptance and market performance of future AI products."
-        },
-        {
-          "rank": 9,
-          "title": "TSMC struggles to keep up with AI demand: ‘We can only support so much’",
-          "link": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
-          "source": "The Verge",
-          "published_utc": "2026-06-04 14:15 UTC",
-          "analysis_zh": "台湾半导体制造公司（TSMC）在满足美国客户对人工智能（AI）芯片的需求方面面临困难，尽管其在美国的工厂正在建设中。TSMC首席执行官魏哲家在股东大会后表示：“客户需求如此之高，我们只能支持有限的量。”这一情况不仅影响了TSMC的生产能力，也可能对整个半导体行业造成压力，尤其是在内存和闪存短缺的背景下。预计到2027年，半导体行业的市场规模将达到1万亿美元，这使得满足需求变得尤为重要。",
-          "analysis_en": "Taiwan Semiconductor Manufacturing Company (TSMC) is struggling to meet the high demand for AI chips from American customers, despite its ongoing factory construction in the U.S. TSMC's CEO, C.C. Wei, stated after a shareholder meeting that \"customer demand is so high, and we can only support so much.\" This situation not only impacts TSMC's production capacity but may also put pressure on the entire semiconductor industry, particularly against the backdrop of shortages in memory and flash storage. With projections indicating that the semiconductor market could reach $1 trillion by 2027, fulfilling this demand is becoming increasingly critical."
-        },
-        {
-          "rank": 10,
-          "title": "Who’s Excited for SpaceX’s I.P.O.? Space Nerds.",
-          "link": "https://www.nytimes.com/2026/06/04/technology/space-nerds-spacex-ipo.html",
-          "source": "NYT > Technology",
-          "published_utc": "2026-06-04 14:08 UTC",
-          "analysis_zh": "SpaceX即将上市的消息让许多太空爱好者感到兴奋。这一事件不仅标志着SpaceX在商业航天领域的重要里程碑，也可能为未来的太空探索和技术创新带来更多资金支持。随着公众对太空探索的兴趣增加，这次上市可能会吸引更多投资者关注相关行业的发展。",
-          "analysis_en": "The news of SpaceX's upcoming IPO has thrilled many space enthusiasts. This event not only marks a significant milestone for SpaceX in the commercial space sector but could also provide more financial support for future space exploration and technological innovations. As public interest in space exploration grows, this IPO may attract more investors to focus on the development of related industries."
+          "analysis_zh": "贝尔金推出的新款Joy-Con握把不仅提升了Switch 2的电池续航，还改善了手柄的握持体验。这款多功能充电握把配备了一个10,000mAh的电池，可以为玩家提供额外三到四小时的游戏时间。此举不仅增强了Switch 2的实用性，也为玩家的游戏体验带来了更大的便利。随着游戏设备对续航能力的要求不断提高，这款配件的推出将可能影响市场上其他配件的设计和功能。",
+          "analysis_en": "Belkin has launched a new Joy-Con grip that enhances the battery life of the Switch 2 while also improving the ergonomics of the controllers. This multitasking Charging Grip features a 10,000mAh battery, providing players with an additional three to four hours of gameplay. This development not only increases the practicality of the Switch 2 but also enhances the overall gaming experience for users. As the demand for longer battery life in gaming devices continues to grow, this accessory could influence the design and functionality of other products in the market."
         }
       ]
     },
@@ -280,93 +289,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Amid Kennedy Center Strife, the National Symphony Faces a Cloudy Future",
-          "link": "https://www.nytimes.com/2026/06/04/arts/kennedy-center-national-symphony.html",
+          "title": "Alan Gribben, Twain Scholar Who Excised Slur From ‘Huck Finn,’ Dies at 84",
+          "link": "https://www.nytimes.com/2026/06/04/books/alan-gribben-dead.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-06-04 16:50 UTC",
-          "analysis_zh": "在肯尼迪中心的纷争中，国家交响乐团面临着不确定的未来。由于缺乏批准的预算和确定的演出场地，这支乐团无法安排下一个演出季。此事件不仅影响乐团的运营，也可能对其艺术创作和观众的参与度产生深远的影响。乐团的未来发展将取决于如何解决这些财政和场地问题。",
-          "analysis_en": "Amid the strife at the Kennedy Center, the National Symphony Orchestra is facing an uncertain future. Without an approved budget or a secured venue, the orchestra has been unable to schedule its next season. This situation not only affects the orchestra's operations but may also have a lasting impact on its artistic endeavors and audience engagement. The future of the orchestra will depend on how these financial and venue issues are resolved."
+          "published_utc": "2026-06-04 21:57 UTC",
+          "analysis_zh": "艾伦·格里本，著名的马克·吐温学者，因将《哈克贝里·费恩》中的种族歧视词汇删去而闻名，近日去世，享年84岁。他致力于寻找马克·吐温所拥有的每一本书，并试图修正他认为妨碍学校教授这位作家经典作品的缺陷。这一举动引发了对文学教育中如何处理敏感内容的广泛讨论，可能会影响未来教材的编写和教学方式。",
+          "analysis_en": "Alan Gribben, a renowned Mark Twain scholar known for excising racial slurs from \"Huckleberry Finn,\" has passed away at the age of 84. He dedicated his efforts to locating every book owned by Twain and aimed to correct what he perceived as flaws that hindered schools from teaching the author's classic works. This initiative sparked widespread discussions about how sensitive content should be handled in literary education, which may influence the development of future curricula and teaching methods."
         },
         {
           "rank": 2,
-          "title": "‘the future belongs to dreamers’: how creators prototype temporary dreamscapes for future",
-          "link": "https://www.designboom.com/design/amo-solidnature-la-marzocco-paf-atelier-room-for-dreams-milan-design-week-talk/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-06-04 16:30 UTC",
-          "analysis_zh": "最近的报道探讨了创作者如何通过原型设计临时梦境，展现未来的可能性。这一过程不仅挑战了我们的创造性反应，还激励我们以新的视角看待未来。这样的创新对于设计领域尤为重要，因为它们可能引领新的趋势和思维方式，推动我们在环境和材料使用上的变革。未来的设计将更加注重沉浸式体验，可能会改变我们与空间的互动方式。",
-          "analysis_en": "Recent reports discuss how creators prototype temporary dreamscapes to showcase possibilities for the future. This process not only challenges our creative reflexes but also inspires us to view the future from new perspectives. Such innovations are particularly significant in the design field, as they may lead to new trends and ways of thinking, driving changes in our use of environments and materials. Future designs will likely emphasize immersive experiences, potentially altering how we interact with spaces."
+          "title": "‘The Little Sister’ Review: Learning to Love",
+          "link": "https://www.nytimes.com/2026/06/04/movies/the-little-sister-review.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-06-04 21:49 UTC",
+          "analysis_zh": "《小妹妹》是一部关于一位法籍阿尔及利亚青少年在成长过程中探索性取向与信仰的温情故事。这部影片通过细腻的情感描绘，展现了年轻人在面对自我认同时的挣扎与成长。该片的重要性在于它不仅反映了文化和宗教背景对个人身份的影响，还引发了对性别与信仰之间关系的深思。这种探讨可能会影响观众对类似主题的理解与接受，促进更广泛的社会对话。",
+          "analysis_en": "\"The Little Sister\" is a tender coming-of-age drama about a French Algerian teenager grappling with her sexuality and faith. The film delicately portrays the struggles and growth of youth as they confront their identities. Its significance lies in reflecting how cultural and religious backgrounds can shape personal identity, prompting deeper reflections on the relationship between gender and faith. This exploration may influence viewers' understanding and acceptance of similar themes, fostering broader social dialogue."
         },
         {
           "rank": 3,
-          "title": "Wim Wenders Pulls Film With Teenage Nudity After Pleas by Nastassja Kinski",
-          "link": "https://www.nytimes.com/2026/06/04/movies/wim-wenders-nastassja-kinski-nudity-topless-wrong-move.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-06-04 15:53 UTC",
-          "analysis_zh": "著名导演维姆·文德斯在纳塔莎·金斯基的请求下，决定撤回其1975年拍摄的电影《错误的举动》。金斯基在片中以裸露上身的形象出现，当时她只有13岁。金斯基在接受德国媒体采访时表示，她当时就意识到这种表现是不合适的。这一事件引发了对青少年在影视作品中表现的伦理讨论，可能会促使行业对类似内容的审查更加严格。",
-          "analysis_en": "Renowned director Wim Wenders has decided to withdraw his 1975 film \"Wrong Move\" following a request from Nastassja Kinski. Kinski, who appeared topless in the film at the age of 13, stated in a German newspaper that she felt uncomfortable with that portrayal even at the time. This incident has sparked ethical discussions regarding the depiction of minors in film, which may lead to stricter scrutiny of similar content in the industry."
+          "title": "Trump To Divert $90 M. in National Park Revenue to D.C. Construction Projects",
+          "link": "https://www.artnews.com/art-news/news/trump-to-divert-90-m-in-national-park-revenue-to-d-c-projects-1234788366/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-06-04 21:12 UTC",
+          "analysis_zh": "特朗普决定将9000万美元的国家公园收入转用于华盛顿特区的建设项目，包括一项价值160万美元的烟火表演。这一举措引发了广泛关注，因为国家公园的收入本应用于保护和维护这些重要的自然资源。此举可能会影响国家公园的管理和资金分配，进而影响游客体验和生态保护工作。",
+          "analysis_en": "Trump has decided to divert $90 million in national park revenue to construction projects in Washington, D.C., including a $1.6 million fireworks display. This move has drawn significant attention, as the revenue from national parks is typically intended for the preservation and maintenance of these vital natural resources. This decision may impact the management and funding of national parks, potentially affecting visitor experiences and ecological conservation efforts."
         },
         {
           "rank": 4,
-          "title": "Lego reveals Sagrada Familia set to celebrate Gaudí centenary",
-          "link": "https://www.dezeen.com/2026/06/04/lego-sagrada-familia-largest-set-antoni-gaudi/",
-          "source": "Dezeen",
-          "published_utc": "2026-06-04 15:48 UTC",
-          "analysis_zh": "乐高公司推出了一款以圣家堂为主题的模型，以纪念著名建筑师安东尼·高迪去世一百周年。这款模型是乐高有史以来制作的最大规模的建筑系列产品，包含了12,060个零件。圣家堂是高迪设计的最重要建筑之一，此次推出的模型不仅展示了其独特的建筑美学，也让更多人了解高迪的艺术成就。这一举动可能会吸引更多建筑爱好者和乐高迷的关注，进一步推动乐高品牌在文化领域的影响力。",
-          "analysis_en": "Lego has launched a model of the Sagrada Familia to commemorate the centenary of renowned architect Antoni Gaudí's death. This model is the largest ever created by Lego in its architecture series, consisting of 12,060 pieces. The Sagrada Familia is one of Gaudí's most significant works, and this release not only showcases its unique architectural beauty but also raises awareness of Gaudí's artistic achievements. This initiative may attract more architecture enthusiasts and Lego fans, further enhancing Lego's influence in the cultural sector."
+          "title": "Art Gallery Shows to See in June",
+          "link": "https://www.nytimes.com/2026/06/04/arts/design/art-gallery-shows-to-see-in-june.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-06-04 21:12 UTC",
+          "analysis_zh": "本周的《新评》栏目中，威尔·海因里希从洛杉矶发回报道，介绍了查尔斯·雷的逼真雕塑、詹姆斯·哈里森的花卉作品以及一场群展。这些艺术展览展示了当代艺术家在表现形式和主题上的创新，吸引了众多艺术爱好者的关注。这样的展览不仅丰富了洛杉矶的艺术氛围，也可能影响未来艺术创作的方向。",
+          "analysis_en": "In this week's \"Newly Reviewed,\" Will Heinrich reports from Los Angeles, highlighting Charles Ray's lifelike sculptures, James Harrison's floral works, and a group exhibition. These art shows showcase the innovative approaches of contemporary artists in both form and theme, drawing the attention of many art enthusiasts. Such exhibitions not only enrich the artistic atmosphere in Los Angeles but may also influence the direction of future artistic creations."
         },
         {
           "rank": 5,
-          "title": "Where Sky Meets Water, Sanford Biggers Sees Life’s ‘Drift’",
-          "link": "https://www.nytimes.com/2026/06/04/arts/design/sanford-biggers-drift-long-island.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-06-04 15:10 UTC",
-          "analysis_zh": "在长岛举行的首次大型个人展览中，艺术家桑福德·比格斯通过纺织作品、版画、雕塑和装置艺术，探讨了他与东端自然环境和文化的联系。这次展览不仅展示了比格斯的艺术创作，也反映了他对当地生态和文化的深刻理解。这一活动的重要性在于，它促进了人们对艺术与自然之间关系的思考，并可能激发更多艺术家关注环境主题。",
-          "analysis_en": "In his first major solo exhibition on Long Island, artist Sanford Biggers explores his connection to the East End's natural environment and culture through textile works, prints, sculptures, and installations. This exhibition not only showcases Biggers' artistic creations but also reflects his deep understanding of the local ecology and culture. Its significance lies in encouraging a dialogue about the relationship between art and nature, potentially inspiring more artists to focus on environmental themes."
+          "title": "New School Lays Off 15 Percent of Staff and Faculty As It Attemps to Plug $48 M. Deficit",
+          "link": "https://www.artnews.com/art-news/news/new-school-lays-off-15-percent-of-staff-and-faculty-1234788357/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-06-04 21:11 UTC",
+          "analysis_zh": "新学校最近宣布裁员15%，以应对4800万美元的财政赤字。这次裁员涉及19名全职教职员工，其中10人是终身教授。此外，还有许多员工选择提前退休或接受买断方案。这一举措反映了高等教育机构在经济压力下的困境，可能会影响学校的教学质量和师生关系。",
+          "analysis_en": "The New School recently announced a 15% staff layoff in an effort to address a $48 million budget deficit. This layoff affects 19 full-time faculty members, including 10 who were tenured, and many more staff are opting for early retirement or buyout offers. This move highlights the challenges faced by higher education institutions under financial strain, which could impact the quality of education and the relationships between faculty and students."
         },
         {
           "rank": 6,
-          "title": "Limmie Pulliam, Tenor Who Overcame the Stigma of His Size, Dies at 50",
-          "link": "https://www.nytimes.com/2026/06/04/arts/music/limmie-pulliam-dead.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-06-04 15:01 UTC",
-          "analysis_zh": "利米·普利亚姆，这位因体型受到偏见而退出歌唱事业的男高音，近日去世，享年50岁。尽管他在20多岁时因外貌问题被歌剧公司拒绝，但在经历了12年的沉寂后，他重新复出并赢得了广泛赞誉。这一事件不仅让人们关注到艺术界对外貌的偏见，也引发了对多样性和包容性的讨论。普利亚姆的故事激励了许多艺术家，表明才华和努力可以超越外在的限制。",
-          "analysis_en": "Limmie Pulliam, a tenor who faced stigma due to his size, has passed away at the age of 50. He left the singing world in his early 20s after opera companies rejected him based on his appearance, but after a 12-year hiatus, he made a successful comeback and received widespread acclaim. This event highlights the biases present in the arts regarding appearance and sparks discussions about diversity and inclusion. Pulliam's story serves as an inspiration for many artists, demonstrating that talent and perseverance can overcome external limitations."
+          "title": "MVRDV shapes bordeaux’s ‘la vallée verte’ with suncut roofs and a hidden garden",
+          "link": "https://www.designboom.com/architecture/mvrdv-bordeaux-la-vallee-verte-suncut-roofs-hidden-garden-france/",
+          "source": "designboom | architecture & design magazine",
+          "published_utc": "2026-06-04 20:45 UTC",
+          "analysis_zh": "MVRDV设计的“绿色山谷”项目在法国波尔多落成，采用了切割阳光的屋顶和隐秘花园。这种住宅建筑的设计向内展开，形成了一个种植庭院，旨在最大化阳光照射和提高洪水抵御能力。这一项目不仅提升了居住环境的美观性，还为应对气候变化提供了新的解决方案，可能会影响未来的城市住宅设计理念。",
+          "analysis_en": "The \"La Vallée Verte\" project designed by MVRDV has been completed in Bordeaux, featuring suncut roofs and a hidden garden. This residential architecture turns inward, creating a planted courtyard that maximizes sunlight and enhances flood resilience. This project not only improves the aesthetic quality of the living environment but also offers new solutions for climate change adaptation, potentially influencing future urban residential design concepts."
         },
         {
           "rank": 7,
-          "title": "Ferrari unveils supercar-informed laptop that \"transcends traditional boundaries of PC design\"",
-          "link": "https://www.dezeen.com/2026/06/04/ferrari-laptop-hp/",
-          "source": "Dezeen",
-          "published_utc": "2026-06-04 15:01 UTC",
-          "analysis_zh": "法拉利与科技公司惠普合作，推出了一款受超级跑车设计启发的笔记本电脑，名为HP限量版斯库德里亚法拉利AI PC。这款笔记本是两家公司持续合作的首个产品，惠普在2024年成为法拉利的技术合作伙伴。这一创新不仅展示了汽车设计与科技的结合，也可能影响未来笔记本电脑的设计方向，吸引更多追求高性能与美学的消费者。",
-          "analysis_en": "Ferrari has collaborated with technology company HP to launch a laptop inspired by the design of supercars, called the HP Limited Edition Scuderia Ferrari AI PC. This laptop is the first product resulting from their ongoing partnership, which began when HP became Ferrari's technology partner in 2024. This innovation not only showcases the fusion of automotive design and technology but may also influence the future direction of laptop design, appealing to consumers who seek high performance and aesthetics."
+          "title": "Mister Rogers: Now on YouTube",
+          "link": "https://www.nytimes.com/2026/06/04/arts/television/mister-rogers-neighborhood-youtube.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-06-04 20:08 UTC",
+          "analysis_zh": "周四，弗雷德·罗杰斯制作公司在YouTube上启动了一个专门频道，致力于这位备受喜爱的儿童节目主持人。这个频道将逐步成为完整剧集、幕后花絮和精彩片段的汇聚地。这一举措不仅让新一代观众能够接触到罗杰斯的经典节目，也为老一辈观众提供了重温童年记忆的机会。随着内容的不断增加，这个频道可能会对儿童教育和娱乐领域产生积极影响。",
+          "analysis_en": "On Thursday, Fred Rogers Productions launched a dedicated YouTube channel for the beloved children's host. This channel will eventually serve as a repository for full episodes, behind-the-scenes footage, and compilations. This initiative allows a new generation of viewers to access Rogers' classic programs while also giving older audiences a chance to revisit their childhood memories. As more content is added, the channel could have a positive impact on the fields of children's education and entertainment."
         },
         {
           "rank": 8,
-          "title": "Ecological repair site among projects from Manchester School of Architecture",
-          "link": "https://www.dezeen.com/2026/06/04/ecological-repair-site-manchester-school-of-architecture-schoolshows/",
-          "source": "Dezeen",
-          "published_utc": "2026-06-04 15:00 UTC",
-          "analysis_zh": "曼彻斯特建筑学院的学生们展示了多个项目，其中包括一个位于后工业区的生态修复场所。这一项目旨在改善该地区的环境质量，并促进社会福祉。通过将生态设计与社区需求相结合，这些项目不仅关注建筑本身，还考虑到其对周边环境和居民生活的影响。这些创新的设计理念可能会为未来的城市规划提供新的思路，推动可持续发展的实践。",
-          "analysis_en": "Students from the Manchester School of Architecture showcased several projects, including an ecological repair site in a post-industrial area. This project aims to enhance the environmental quality of the area while promoting social wellbeing. By integrating ecological design with community needs, these projects focus not only on the buildings themselves but also on their impact on the surrounding environment and residents' lives. These innovative design concepts may offer new insights for future urban planning and promote sustainable practices."
+          "title": "A New French Study Says It Is Safe to Ship the Bayeux Tapestry to the British Museum",
+          "link": "https://www.artnews.com/art-news/news/french-study-says-safe-ship-bayeux-tapestry-british-museum-1234788355/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-06-04 20:05 UTC",
+          "analysis_zh": "一项新的法国研究表明，将拜约挂毯运送到大英博物馆是安全的。尽管运输过程中存在振动和处理等潜在威胁，但此次搬运的每一个细节都经过精心安排。这一决定不仅有助于保护这一重要的文化遗产，还可能促进英法两国在文化交流方面的进一步合作。拜约挂毯作为历史的见证，其展出将吸引更多游客，提升文化旅游的价值。",
+          "analysis_en": "A new French study has confirmed that it is safe to ship the Bayeux Tapestry to the British Museum. While there are potential threats such as vibrations and handling during transport, every detail of the move has been meticulously planned. This decision not only helps preserve this important cultural artifact but may also foster further cultural exchange between France and the UK. As a historical testament, the display of the Bayeux Tapestry is expected to attract more visitors and enhance the value of cultural tourism."
         },
         {
           "rank": 9,
-          "title": "Pommelien Thijs, a Pop Star for Half a Country",
-          "link": "https://www.nytimes.com/2026/06/04/arts/music/pommelien-thijs-belgium-pop.html",
+          "title": "Kennedy Center Tells Staff to Immediately Remove Trump’s Name From Documents",
+          "link": "https://www.nytimes.com/2026/06/04/arts/music/kennedy-center-trump-name-memo.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-06-04 14:44 UTC",
-          "analysis_zh": "比利时的流行歌手Pommelien Thijs以其朗朗上口的旋律在荷兰语区赢得了众多粉丝。她的音乐不仅在当地广受欢迎，也反映了该地区独特的文化和音乐品味。这一现象凸显了比利时在语言和文化上的多样性，可能会影响未来艺术家的创作方向和市场策略。",
-          "analysis_en": "Belgian pop star Pommelien Thijs has gained a large following in the Dutch-speaking region of Belgium with her catchy tunes. Her music resonates not only locally but also highlights the unique cultural and musical tastes of the area. This phenomenon underscores Belgium's linguistic and cultural diversity, which may influence the creative directions and marketing strategies of future artists."
+          "published_utc": "2026-06-04 20:01 UTC",
+          "analysis_zh": "肯尼迪中心的法律顾问近日表示，必须立即从所有文件中删除特朗普的名字。这一决定是基于联邦法官的命令，要求在6月12日之前将特朗普的名字从室内和室外的标识中移除。这一举措不仅反映了对特朗普争议性言论的反应，也可能影响到未来公共机构对政治人物的态度和处理方式。",
+          "analysis_en": "The Kennedy Center's general counsel recently announced that Trump's name must be removed from all documents immediately. This decision stems from a federal judge's order requiring that Trump's name be taken off both indoor and outdoor signage by June 12. This move not only reflects a response to the controversies surrounding Trump but may also influence how public institutions handle associations with political figures in the future."
         },
         {
           "rank": 10,
-          "title": "Pace Gallery Cuts 50 Artists and 50 Staff Amid Art Market Challenges",
-          "link": "https://www.nytimes.com/2026/06/03/arts/design/pace-gallery-artist-cuts.html",
+          "title": "Kiyon Ross Wants Dancers at the School of American Ballet on the Edge of Danger",
+          "link": "https://www.nytimes.com/2026/06/04/arts/dance/school-of-american-ballet-kiyon-ross.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-06-04 14:33 UTC",
-          "analysis_zh": "在艺术市场面临挑战的背景下，佩斯画廊决定裁减50名艺术家和50名员工。这一举措反映了即使是知名的艺术机构也无法逃避市场的压力。此举不仅影响了画廊的运营模式，也可能对与其合作的艺术家和整个艺术生态系统产生深远影响。",
-          "analysis_en": "Pace Gallery has decided to cut 50 artists and 50 staff members in response to the challenging art market. This move highlights that even established art institutions are not immune to market pressures. The decision will not only affect the gallery's operational model but could also have significant repercussions for the artists it collaborates with and the broader art ecosystem."
+          "published_utc": "2026-06-04 19:22 UTC",
+          "analysis_zh": "基永·罗斯希望通过他的作品《光之证明》让美国芭蕾舞学校感到自豪，同时也让舞者们感受到特别的存在。这一举动不仅展示了他对母校的深厚情感，也反映了他对舞蹈艺术的独特理解。罗斯的创作可能会激励更多的年轻舞者追求自己的艺术梦想，并推动芭蕾舞的发展。",
+          "analysis_en": "Kiyon Ross aims to make his alma mater, the School of American Ballet, proud with his work \"Proof of Light,\" while also making the dancers feel special. This initiative not only showcases his deep connection to his school but also reflects his unique understanding of the art of dance. Ross's creation may inspire more young dancers to pursue their artistic dreams and contribute to the evolution of ballet."
         }
       ]
     }
