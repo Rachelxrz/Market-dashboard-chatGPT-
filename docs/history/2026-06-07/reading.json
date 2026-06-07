@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-07 21:47:27 UTC",
-  "generated_at_unix": 1780868847,
+  "generated_at": "2026-06-07 22:40:17 UTC",
+  "generated_at_unix": 1780872017,
   "window": {
-    "from_utc": "2026-06-06 21:47:27 UTC",
-    "to_utc": "2026-06-07 21:47:27 UTC",
+    "from_utc": "2026-06-06 22:40:17 UTC",
+    "to_utc": "2026-06-07 22:40:17 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,117 +14,126 @@
       "items": [
         {
           "rank": 1,
+          "title": "U.S. stock futures dip, oil prices surge as new attacks threaten the cease-fire with Iran",
+          "link": "https://www.marketwatch.com/story/u-s-stock-futures-slide-oil-prices-surge-as-new-attacks-threaten-the-cease-fire-with-iran-6e433c90?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-06-07 22:36 UTC",
+          "analysis_zh": "美国股指期货在周日回升，尽管周五的科技股大幅抛售打断了华尔街两个月的上涨趋势。与此同时，伊朗战争中的新攻击威胁到脆弱的停火协议，这使得市场情绪变得紧张。投资者对未来局势的担忧可能会导致市场波动加剧，尤其是在能源价格飙升的背景下。",
+          "analysis_en": "U.S. stock-index futures rebounded on Sunday, following a significant selloff in tech stocks on Friday that interrupted Wall Street's two-month rally. Meanwhile, new attacks in the Iran conflict are jeopardizing the fragile cease-fire, creating a tense atmosphere in the market. Investor concerns about the future situation may lead to increased market volatility, particularly against the backdrop of surging energy prices."
+        },
+        {
+          "rank": 2,
+          "title": "Fragile ceasefire in jeopardy as Iran reportedly fires missiles at Israel",
+          "link": "https://www.cnbc.com/2026/06/07/iran-fires-missiles-israel-ceasefire-strains.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-06-07 22:22 UTC",
+          "analysis_zh": "伊朗最近向以色列发射导弹，这使得脆弱的美国与伊朗之间的停火协议面临严重威胁。这一事件不仅加剧了中东地区的紧张局势，也可能导致更广泛的军事冲突。停火协议自四月初以来一直在维持，但此次袭击可能会使各方重新评估自己的战略和立场，影响未来的外交谈判。",
+          "analysis_en": "Iran recently fired missiles at Israel, putting the fragile ceasefire between the U.S. and Iran at serious risk. This incident not only escalates tensions in the Middle East but could also lead to broader military conflicts. The ceasefire has been in place since early April, but this attack may prompt all parties to reassess their strategies and positions, affecting future diplomatic negotiations."
+        },
+        {
+          "rank": 3,
+          "title": "Dow Jones Futures Fall As Trump Says This After Iran Attacks Israel; Market Rally Faces First Real Test",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-06-07 22:17 UTC",
+          "analysis_zh": "道琼斯期货下跌，原因是特朗普在伊朗袭击以色列后发表了相关言论。这一事件引发了市场的不安，投资者对未来局势的担忧加剧。特朗普的评论可能会影响投资者的信心，并导致市场波动加剧。整体来看，这一局势的发展可能会对全球金融市场产生深远影响。",
+          "analysis_en": "Dow Jones futures have fallen following comments made by Trump after Iran attacked Israel. This incident has created unease in the market, increasing investors' concerns about the future situation. Trump's remarks could undermine investor confidence and lead to heightened market volatility. Overall, the developments in this situation may have significant implications for global financial markets."
+        },
+        {
+          "rank": 4,
+          "title": "Is Visa Stock a Smart Way to Invest in the Cashless Economy?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/visa-stock-smart-way-invest-220400191.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-06-07 22:04 UTC",
+          "analysis_zh": "最近，Visa的股票引起了投资者的关注，尤其是在无现金经济日益普及的背景下。随着越来越多的人选择使用电子支付，Visa作为领先的支付处理公司，其市场地位显得尤为重要。这一趋势不仅可能推动Visa的股价上涨，还可能影响整个金融科技行业的发展方向。投资者需要关注这一变化，以便在未来的市场中做出明智的决策。",
+          "analysis_en": "Recently, Visa's stock has garnered attention from investors, particularly in the context of the growing cashless economy. As more people opt for electronic payments, Visa's position as a leading payment processing company becomes increasingly significant. This trend could not only drive up Visa's stock price but also influence the development trajectory of the entire fintech industry. Investors should pay close attention to this shift to make informed decisions in the future market."
+        },
+        {
+          "rank": 5,
+          "title": "Airbus notifies A320neo series customers of delays on jets due in 2027 and 2028, Bloomberg News reports",
+          "link": "https://www.investing.com/news/stock-market-news/airbus-notifies-a320neo-series-customers-of-delays-on-jets-due-in-2027-and-2028-bloomberg-news-reports-4729699",
+          "source": "Stock Market News",
+          "published_utc": "2026-06-07 21:36 UTC",
+          "analysis_zh": "空客公司近日通知A320neo系列的客户，预计2027年和2028年交付的飞机将出现延迟。这一消息对航空公司和投资者来说都具有重要意义，因为交付延迟可能影响航空公司的运营计划和财务状况。此外，这也可能对空客的股价产生负面影响，进而影响整个航空制造业的信心。",
+          "analysis_en": "Airbus has recently informed customers of the A320neo series that there will be delays in the delivery of jets scheduled for 2027 and 2028. This news is significant for both airlines and investors, as the delays could disrupt operational plans and financial stability for the airlines. Furthermore, this may negatively impact Airbus's stock price and, in turn, affect confidence in the entire aerospace manufacturing industry."
+        },
+        {
+          "rank": 6,
+          "title": "3 Reasons to Buy SpaceX Stock at Its IPO -- and 2 Reasons to Wait",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-buy-spacex-stock-213500979.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-06-07 21:35 UTC",
+          "analysis_zh": "近日，有分析师提出了在SpaceX首次公开募股（IPO）时购买其股票的三个理由，同时也列出了两个等待的理由。这一事件引发了广泛关注，因为SpaceX作为航天领域的领军企业，其IPO将可能改变投资者对太空产业的看法。投资者需要考虑公司的未来潜力与市场风险，以便做出明智的投资决策。",
+          "analysis_en": "Recently, analysts have presented three reasons to buy SpaceX stock at its initial public offering (IPO), along with two reasons to wait. This event has garnered significant attention, as SpaceX, a leader in the aerospace sector, could reshape investors' perceptions of the space industry with its IPO. Investors must weigh the company's future potential against market risks to make informed investment choices."
+        },
+        {
+          "rank": 7,
           "title": "Is SoundHound AI, Inc. (SOUN) A Good Stock To Buy Now?",
           "link": "https://finance.yahoo.com/markets/stocks/articles/soundhound-ai-inc-soun-good-212738180.html",
           "source": "Yahoo Finance",
           "published_utc": "2026-06-07 21:27 UTC",
-          "analysis_zh": "SoundHound AI, Inc.（SOUN）最近引起了投资者的关注，许多人在考虑是否现在是购买该股票的好时机。该公司的人工智能技术在语音识别和音乐识别领域表现出色，随着市场对智能助手和语音交互技术的需求增加，SoundHound的前景被看好。这一现象不仅可能影响公司股价的波动，也可能对整个科技行业的投资趋势产生影响。",
-          "analysis_en": "SoundHound AI, Inc. (SOUN) has recently garnered attention from investors, with many contemplating whether now is a good time to buy the stock. The company's artificial intelligence technology excels in voice recognition and music identification, and as the demand for smart assistants and voice interaction technology grows, SoundHound's prospects appear promising. This trend could not only impact the company's stock price fluctuations but also influence investment trends across the tech industry."
+          "analysis_zh": "SoundHound AI, Inc.（SOUN）近期引起了投资者的关注，许多人在考虑是否现在是购买该股票的好时机。该公司专注于语音识别和人工智能技术，随着市场对智能助手和语音交互的需求不断增长，其前景备受期待。投资者需要关注公司的财务表现和市场竞争情况，以评估其长期投资价值。若SoundHound能够持续创新并扩大市场份额，可能会对其股价产生积极影响。",
+          "analysis_en": "SoundHound AI, Inc. (SOUN) has recently garnered attention from investors as many are contemplating whether now is a good time to buy the stock. The company specializes in voice recognition and artificial intelligence technology, and its prospects are promising given the growing demand for smart assistants and voice interaction in the market. Investors should monitor the company's financial performance and competitive landscape to assess its long-term investment value. If SoundHound continues to innovate and expand its market share, it could have a positive impact on its stock price."
         },
         {
-          "rank": 2,
+          "rank": 8,
           "title": "Is VICI Properties Inc. (VICI) A Good Stock To Buy Now?",
           "link": "https://finance.yahoo.com/markets/stocks/articles/vici-properties-inc-vici-good-212722352.html",
           "source": "Yahoo Finance",
           "published_utc": "2026-06-07 21:27 UTC",
-          "analysis_zh": "VICI Properties Inc. 最近引起了投资者的关注，许多人在考虑是否现在是购买该股票的好时机。该公司专注于房地产投资信托，尤其是在娱乐和休闲行业的资产。随着经济复苏和消费者支出的增加，VICI的表现可能会受到积极影响。这一趋势不仅可能提升其股价，还可能吸引更多投资者关注该领域的机会。",
-          "analysis_en": "VICI Properties Inc. has recently garnered attention from investors, with many contemplating whether now is a good time to buy the stock. The company focuses on real estate investment trusts, particularly in the entertainment and leisure sectors. As the economy recovers and consumer spending increases, VICI's performance may be positively impacted. This trend could not only boost its stock price but also attract more investors to explore opportunities in this sector."
+          "analysis_zh": "VICI Properties Inc. 最近引起了投资者的关注，许多人在考虑是否应该购买该公司的股票。该公司专注于房地产投资信托（REIT），其资产主要包括娱乐场所和酒店等。投资者之所以关注VICI，是因为其稳定的收益和潜在的增长机会，尤其是在经济复苏的背景下。这可能会影响市场对房地产投资的整体信心，并吸引更多资金流入这一领域。",
+          "analysis_en": "VICI Properties Inc. has recently garnered attention from investors, many of whom are contemplating whether to buy its stock. The company focuses on real estate investment trusts (REITs), primarily holding assets like entertainment venues and hotels. Investors are interested in VICI due to its stable income and potential growth opportunities, especially in the context of economic recovery. This could influence overall market confidence in real estate investments and attract more capital into the sector."
         },
         {
-          "rank": 3,
+          "rank": 9,
           "title": "Is Western Digital Corporation (WDC) A Good Stock To Buy Now?",
           "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-corporation-wdc-good-212709268.html",
           "source": "Yahoo Finance",
           "published_utc": "2026-06-07 21:27 UTC",
-          "analysis_zh": "西部数据公司（Western Digital Corporation）近期引发了投资者的关注，许多人在评估其是否值得购买。该公司的股票表现受到市场波动和技术行业变化的影响，投资者需要仔细考虑这些因素。此事件的重要性在于，西部数据作为存储解决方案的主要供应商，其业绩可能会影响整个行业的投资信心。如果投资者对其未来前景持乐观态度，可能会推动更多资金流入相关领域。",
-          "analysis_en": "Western Digital Corporation has recently attracted the attention of investors as many are evaluating whether it is a good stock to buy. The company's stock performance is influenced by market fluctuations and changes in the tech industry, prompting investors to carefully consider these factors. The significance of this event lies in the fact that as a major supplier of storage solutions, Western Digital's performance could impact investor confidence across the entire industry. If investors maintain an optimistic outlook on its future prospects, it may lead to increased capital flowing into related sectors."
+          "analysis_zh": "西部数据公司（Western Digital Corporation）近期受到市场关注，投资者在评估其股票是否值得购买。该公司的财务表现和市场前景将直接影响其股价走势。随着数据存储需求的增加，西部数据在行业中的地位可能会进一步巩固。这一趋势不仅关系到公司的未来发展，也可能影响整个科技行业的投资信心。",
+          "analysis_en": "Western Digital Corporation has recently garnered attention from investors who are evaluating whether its stock is a good buy. The company's financial performance and market outlook will directly impact its stock price movements. As the demand for data storage continues to rise, Western Digital's position in the industry may strengthen further. This trend not only relates to the company's future development but could also affect investor confidence across the entire technology sector."
         },
         {
-          "rank": 4,
+          "rank": 10,
           "title": "Here's the 1 Crypto I'd Buy if I Could Only Pick 1",
           "link": "https://finance.yahoo.com/markets/crypto/articles/heres-1-crypto-id-buy-212700280.html",
           "source": "Yahoo Finance",
           "published_utc": "2026-06-07 21:27 UTC",
-          "analysis_zh": "最近，有分析师推荐了一种加密货币，认为如果只能选择一种投资，这种货币是最佳选择。这一推荐引起了投资者的关注，因为加密货币市场波动性大，选择合适的投资标的至关重要。该分析师的观点可能会影响投资者的决策，尤其是在当前经济环境不确定的情况下。",
-          "analysis_en": "Recently, an analyst recommended a specific cryptocurrency as the best option if one could only choose one for investment. This recommendation has garnered attention from investors, as the cryptocurrency market is highly volatile and selecting the right asset is crucial. The analyst's viewpoint may influence investors' decisions, particularly in the context of the current uncertain economic environment."
-        },
-        {
-          "rank": 5,
-          "title": "Is Autodesk, Inc. (ADSK) A Good Stock To Buy Now?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/autodesk-inc-adsk-good-stock-212655292.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-06-07 21:26 UTC",
-          "analysis_zh": "近日，Autodesk公司（ADSK）成为投资者关注的焦点，许多人在讨论其是否值得购买。该公司的软件在建筑、工程和制造行业中占据重要地位，因此其股价的波动可能会影响相关行业的投资决策。投资者需要关注Autodesk的财务表现和市场趋势，以评估其未来的增长潜力。若该公司表现良好，可能会吸引更多资金流入，从而推动整体市场的上涨。",
-          "analysis_en": "Recently, Autodesk, Inc. (ADSK) has become a focal point for investors as discussions arise about whether it is a good stock to buy. The company's software plays a crucial role in the architecture, engineering, and manufacturing sectors, meaning its stock price fluctuations could impact investment decisions in these related industries. Investors should monitor Autodesk's financial performance and market trends to assess its future growth potential. If the company performs well, it may attract more capital, potentially driving an overall market uptrend."
-        },
-        {
-          "rank": 6,
-          "title": "Is DNOW Inc. (DNOW) A Good Stock To Buy Now?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/dnow-inc-dnow-good-stock-212640363.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-06-07 21:26 UTC",
-          "analysis_zh": "DNOW公司（DNOW）近期引起了投资者的关注，市场对其股票的表现产生了不同的看法。分析人士认为，该公司的财务状况和市场前景可能会影响其股价的波动。投资者需要关注行业趋势和公司战略，以评估是否值得投资。此类分析不仅影响短期交易决策，也可能对长期投资者的信心产生影响。",
-          "analysis_en": "DNOW Inc. (DNOW) has recently attracted attention from investors, with varying opinions on its stock performance. Analysts suggest that the company's financial health and market outlook could influence its stock price fluctuations. Investors should pay attention to industry trends and the company's strategies to assess whether it is a worthwhile investment. Such analyses not only affect short-term trading decisions but may also impact the confidence of long-term investors."
-        },
-        {
-          "rank": 7,
-          "title": "Is DigitalOcean Holdings, Inc. (DOCN) A Good Stock To Buy Now?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/digitalocean-holdings-inc-docn-good-212626053.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-06-07 21:26 UTC",
-          "analysis_zh": "DigitalOcean Holdings, Inc.（DOCN）最近引起了投资者的关注，许多人在讨论这只股票是否值得购买。作为一家云基础设施提供商，DigitalOcean的业务模式和市场定位使其在竞争激烈的科技行业中占有一席之地。投资者需要关注其财务表现和未来增长潜力，因为这将直接影响其股价和市场信心。若公司能够持续创新并扩大客户基础，可能会吸引更多投资者的青睐。",
-          "analysis_en": "DigitalOcean Holdings, Inc. (DOCN) has recently garnered attention from investors, with many debating whether it is a good stock to buy. As a cloud infrastructure provider, DigitalOcean's business model and market positioning allow it to hold a significant place in the competitive tech industry. Investors should pay close attention to its financial performance and future growth potential, as these factors will directly impact its stock price and market confidence. If the company can continue to innovate and expand its customer base, it may attract even more investor interest."
-        },
-        {
-          "rank": 8,
-          "title": "Is FinVolution Group (FINV) A Good Stock To Buy Now?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/finvolution-group-finv-good-stock-212612068.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-06-07 21:26 UTC",
-          "analysis_zh": "FinVolution集团（FINV）最近引起了投资者的关注，许多人在考虑是否现在是购买该股票的好时机。该公司的财务表现和市场前景都受到分析师的密切关注，尤其是在当前经济环境下，投资者对金融科技公司的兴趣日益增加。若FinVolution能够持续增长并改善盈利能力，可能会吸引更多的投资者，从而推动其股价上涨。",
-          "analysis_en": "FinVolution Group (FINV) has recently caught the attention of investors, with many considering whether now is a good time to buy the stock. The company's financial performance and market outlook are under close scrutiny by analysts, especially given the increasing interest in fintech companies in the current economic climate. If FinVolution can continue to grow and improve its profitability, it may attract more investors, potentially driving its stock price higher."
-        },
-        {
-          "rank": 9,
-          "title": "Is Global Ship Lease, Inc. (GSL) A Good Stock To Buy Now?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/global-ship-lease-inc-gsl-212558171.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-06-07 21:25 UTC",
-          "analysis_zh": "全球船舶租赁公司（Global Ship Lease, Inc.）近期引发了投资者的关注，市场对其股票的投资价值进行了热烈讨论。这家公司在全球航运行业中扮演着重要角色，尤其是在当前供应链紧张的背景下，船舶租赁需求可能会持续增长。这一现象不仅对公司的财务表现产生影响，也可能影响整个航运行业的投资趋势。投资者需要密切关注该公司的业绩和市场动态，以便做出明智的投资决策。",
-          "analysis_en": "Global Ship Lease, Inc. has recently attracted attention from investors, sparking discussions about the stock's investment potential. The company plays a significant role in the global shipping industry, especially given the ongoing supply chain challenges that may sustain demand for ship leasing. This situation could not only impact the company's financial performance but also influence investment trends across the shipping sector. Investors should closely monitor the company's performance and market developments to make informed investment decisions."
-        },
-        {
-          "rank": 10,
-          "title": "Is HEICO Corporation (HEI) A Good Stock To Buy Now?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/heico-corporation-hei-good-stock-212544695.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-06-07 21:25 UTC",
-          "analysis_zh": "HEICO公司（HEI）的股票是否值得购买引发了投资者的关注。近期，市场对该公司的前景进行了分析，认为其在航空和国防领域的表现将对未来的增长产生积极影响。这一分析对投资者来说至关重要，因为它可能影响他们的投资决策，尤其是在经济不确定性加大的背景下。若HEICO能够持续保持良好的业绩，可能会吸引更多的资金流入，从而推动其股价上涨。",
-          "analysis_en": "HEICO Corporation (HEI) has garnered attention from investors regarding whether it is a good stock to buy. Recent market analyses suggest that the company's performance in the aerospace and defense sectors will positively influence its future growth. This analysis is crucial for investors as it may impact their investment decisions, especially amid increasing economic uncertainty. If HEICO can maintain strong performance, it could attract more capital, potentially driving its stock price higher."
+          "analysis_zh": "最近有分析师推荐了一种加密货币，认为如果只能选择一种，这将是最佳投资选择。这一建议引起了广泛关注，因为加密货币市场波动较大，投资者在选择资产时需要谨慎。此推荐可能会影响投资者的决策，尤其是在当前经济环境下，许多人希望通过加密货币实现资产增值。",
+          "analysis_en": "Recently, an analyst recommended a specific cryptocurrency as the best investment choice if one could only pick one. This suggestion has garnered significant attention, as the cryptocurrency market is highly volatile and investors must be cautious when selecting assets. This recommendation could influence investors' decisions, especially in the current economic climate where many are looking to cryptocurrencies for asset appreciation."
         }
       ]
     },
     "健康": {
       "description": "医学、营养、抗衰老、代谢与公共健康",
-      "count": 2,
+      "count": 3,
       "items": [
         {
           "rank": 1,
+          "title": "Robert Coles, Pulitzer-Winning Child Psychiatrist, Is Dead at 97",
+          "link": "https://www.nytimes.com/2026/06/07/us/robert-coles-dead.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-06-07 22:14 UTC",
+          "analysis_zh": "罗伯特·科尔斯，这位获得普利策奖的儿童精神病学家，于97岁时去世。他的五卷本著作《危机中的儿童》于1967年至1977年间出版，书中记录了与美国儿童的对话，这些儿童的声音往往被忽视。科尔斯的工作不仅提升了社会对儿童心理健康的关注，也为后来的研究奠定了基础。他的去世标志着一个时代的结束，可能会引发对儿童心理健康领域的进一步反思和研究。",
+          "analysis_en": "Robert Coles, the Pulitzer Prize-winning child psychiatrist, has passed away at the age of 97. His five-volume series, \"Children of Crisis,\" published between 1967 and 1977, captured conversations with American children whose voices were often overlooked. Coles' work significantly raised awareness about children's mental health and laid the groundwork for future research. His death marks the end of an era and may prompt further reflection and study in the field of child mental health."
+        },
+        {
+          "rank": 2,
           "title": "RFK Jr. Appears Disengaged on Many Health Department Matters Beyond Vaccines",
           "link": "https://www.nytimes.com/2026/06/07/us/politics/ebola-vaccines-kennedy-health-department.html",
           "source": "NYT > Health",
           "published_utc": "2026-06-07 09:00 UTC",
-          "analysis_zh": "美国卫生部长罗伯特·F·肯尼迪 Jr. 在处理部门事务时表现出对疫苗以外的许多健康问题缺乏兴趣，主要专注于食品和疫苗政策。这一现象引发了同事们的担忧，因为卫生部门的职责涵盖广泛的公共健康领域。若这种情况持续，可能会影响到其他重要健康议题的推进和政策制定。",
-          "analysis_en": "Health Secretary Robert F. Kennedy Jr. has shown little interest in managing various health issues beyond vaccines, focusing primarily on food and vaccine policies. This has raised concerns among colleagues, as the health department is responsible for a wide range of public health matters. If this trend continues, it could hinder progress on other critical health issues and policy developments."
+          "analysis_zh": "健康部长罗伯特·F·肯尼迪（Robert F. Kennedy Jr.）在处理与疫苗无关的健康事务时表现出明显的冷漠，主要精力集中在食品和疫苗政策上。这种态度引发了同事们的担忧，因为健康部门的管理涉及广泛的公共卫生问题，不能仅仅局限于某几个领域。若这种情况持续下去，可能会影响到健康部门在应对其他重要健康挑战时的有效性。",
+          "analysis_en": "Health Secretary Robert F. Kennedy Jr. has shown a notable lack of interest in managing various health department matters beyond vaccines, focusing primarily on food and vaccine policies. This attitude has raised concerns among colleagues, as the management of the health department encompasses a wide range of public health issues that cannot be limited to just a few areas. If this trend continues, it may hinder the department's effectiveness in addressing other critical health challenges."
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Ancient Chinese medicine could transform hair loss treatment",
           "link": "https://www.sciencedaily.com/releases/2026/06/260606015144.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-07 08:19 UTC",
-          "analysis_zh": "一种使用了超过千年的传统中药——何首乌，正在引起科学界的新关注，因其可能对抗脱发。研究表明，何首乌能够阻止有害激素的产生，激活毛发生长信号，保护毛囊，并促进头皮血液循环。这一发现不仅与古代的描述相符，也与现代的毛发生物学相契合，可能为脱发治疗提供新的思路。",
-          "analysis_en": "A traditional Chinese medicinal herb, Polygonum multiflorum, which has been used for over a thousand years, is garnering new scientific interest for its potential to treat hair loss. Studies indicate that this herb can block harmful hormones, activate hair growth signals, protect hair follicles, and enhance blood flow to the scalp. This finding aligns well with ancient descriptions and modern hair biology, suggesting it could offer new avenues for hair loss treatment."
+          "analysis_zh": "一种传统的中药——何首乌，经过千年的使用，最近引起了科学界的新关注，因其可能对抗脱发。研究表明，何首乌能够阻止有害激素，激活生发信号，保护毛囊，并促进头皮的血液循环。这一发现不仅与古代文献中的描述相符，也与现代毛发生物学的研究结果高度一致，可能为脱发治疗提供新的思路。",
+          "analysis_en": "A traditional Chinese medicine, Polygonum multiflorum, has gained new scientific interest for its potential to treat hair loss, having been used for over a thousand years. Studies indicate that this herb can block harmful hormones, activate hair growth signals, protect hair follicles, and enhance blood flow to the scalp. This discovery aligns closely with ancient descriptions and modern hair biology, suggesting it could offer new avenues for treating hair loss."
         }
       ]
     },
@@ -139,93 +148,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "NASA will wear high-tech Prada long johns to the Moon",
+          "link": "https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis",
+          "source": "The Verge",
+          "published_utc": "2026-06-07 22:16 UTC",
+          "analysis_zh": "美国宇航局（NASA）与Axiom Space和Prada合作，推出了一款名为液体冷却和通风服（LCVG）的高科技内衣，宇航员将在2028年阿尔忒弥斯四号任务中穿着它。这款服装将作为宇航服的基础层，能够有效地保持宇航员的舒适和凉爽。此举不仅展示了科技与时尚的结合，也可能影响未来宇航服的设计理念，提升宇航员在太空中的工作体验。",
+          "analysis_en": "NASA has partnered with Axiom Space and Prada to introduce a high-tech undergarment called the Liquid Cooling and Ventilation Garment (LCVG), which astronauts will wear during the Artemis IV mission in 2028. This garment serves as a crucial base layer that will help keep astronauts cool and comfortable inside their spacesuits. This collaboration highlights the intersection of technology and fashion, and it may influence future spacesuit designs, enhancing the overall experience for astronauts in space."
+        },
+        {
+          "rank": 2,
           "title": "The 7 biggest storylines from Summer Game Fest 2026",
           "link": "https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories",
           "source": "The Verge",
           "published_utc": "2026-06-07 18:45 UTC",
-          "analysis_zh": "2026年夏季游戏节刚刚结束，活动期间异常忙碌。此次为期近一周的盛会正值游戏行业面临挑战之际，主要的发布会大多用来展示一些重大公告，以显示行业的韧性，而忽略了硬件价格上涨等棘手问题。索尼和微软在展示中确认它们将重新聚焦于独占游戏和单人游戏的传统策略。同时，几乎所有的发行商似乎都在避开《侠盗猎车手VI》的发行日程，尤其是对于《最终幻想》和《女神异闻录》的粉丝来说，游戏公告令人振奋。",
-          "analysis_en": "The 2026 Summer Game Fest has just concluded, and it was notably hectic. The nearly week-long event took place during a challenging time for the gaming industry, with major keynotes primarily used to showcase significant announcements while largely overlooking troublesome issues like hardware price increases. Both Sony and Microsoft confirmed their return to tried-and-true strategies focused on exclusive games and single-player titles. Meanwhile, nearly every publisher seemed to avoid competing with the release schedule of Grand Theft Auto VI, and there were exciting game announcements, particularly for fans of Final Fantasy and Persona."
+          "analysis_zh": "2026年夏季游戏节刚刚结束，活动期间异常繁忙。此次为期近一周的盛会恰逢游戏行业面临挑战，主要的发布会被用作展示实力的机会，尽管大多数人选择忽视硬件价格上涨等棘手问题。索尼和微软都重申了他们将重新聚焦于独占游戏和单人游戏的策略。与此同时，所有出版商似乎都在避开与《侠盗猎车手VI》的发售时间冲突，尤其是对于《最终幻想》和《女神异闻录》的粉丝来说，这次活动带来了令人期待的新游戏消息。",
+          "analysis_en": "The 2026 Summer Game Fest has just concluded, and it was surprisingly busy. The nearly week-long event came at a challenging time for the gaming industry, with major keynotes primarily serving as opportunities to showcase strength, while largely ignoring issues like rising hardware prices. Both Sony and Microsoft reaffirmed their focus on exclusive titles and single-player games. Meanwhile, publishers seemed to be avoiding clashes with the release of Grand Theft Auto VI, and there were exciting announcements for fans of franchises like Final Fantasy and Persona."
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Persona 6 exists, and that’s all we know",
           "link": "https://www.theverge.com/entertainment/945256/persona-6-teaser",
           "source": "The Verge",
           "published_utc": "2026-06-07 18:00 UTC",
-          "analysis_zh": "在今年的夏季游戏节上，Atlus确认了备受期待的《女神异闻录6》确实存在，并发布了简短的预告片。尽管视频中仅暗示了游戏将呈现一种非常黑暗的基调，但并没有透露具体的发布日期或时间窗口。该游戏将登陆PS5、Xbox和PC平台。此消息对于日本角色扮演游戏的粉丝来说意义重大，因为这是自2017年以来该系列的首个全新作品，可能会引发对该系列未来发展的广泛讨论。",
-          "analysis_en": "At this year's Summer Game Fest, Atlus confirmed the long-awaited existence of Persona 6 with a brief teaser. While the video hinted at a very dark tone, it did not provide a specific release date or window. The game will be available on PS5, Xbox, and PC. This announcement is significant for fans of Japanese RPGs, as it marks the first entirely new entry in the series since 2017, likely sparking widespread discussion about the future of the franchise."
+          "analysis_zh": "在今年的夏季游戏节上，Atlus确认了备受期待的《女神转生6》确实存在，并发布了一段简短的预告片。虽然预告片暗示了游戏将会有非常黑暗的基调，但目前尚未公布具体的发售日期或时间窗口。该游戏将登陆PS5、Xbox和PC平台。作为自2017年以来首个全新作品，《女神转生6》的推出可能会吸引大量粉丝的关注，并对JRPG市场产生积极影响。",
+          "analysis_en": "During this year's Summer Game Fest, Atlus confirmed the existence of the long-awaited Persona 6 with a brief teaser. While the teaser hints at a very dark tone, no specific release date or window has been announced yet. The game will be available on PS5, Xbox, and PC. As the first new entry in the franchise since 2017, the release of Persona 6 is likely to attract significant attention from fans and positively impact the JRPG market."
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Microsoft’s Xbox 25th anniversary console comes in translucent green",
           "link": "https://www.theverge.com/news/945359/microsoft-xbox-25th-anniversary-console-controller-release-date",
           "source": "The Verge",
           "published_utc": "2026-06-07 17:45 UTC",
-          "analysis_zh": "微软推出了一款特别版Xbox Series X，以庆祝该游戏主机25周年。这款Xbox 25周年纪念版的设计灵感来源于最初的Xbox，主机和手柄均采用透明绿色设计。此举不仅是对过去的致敬，也展示了微软在游戏技术上的持续创新。该主机具备1TB存储空间，结合了强大的性能与怀旧的外观，可能会吸引新老玩家的关注。",
-          "analysis_en": "Microsoft has launched a special edition Xbox Series X to celebrate the 25th anniversary of the console. The Xbox 25th-anniversary console features a translucent green design inspired by the original Xbox, with both the console and controller reflecting this aesthetic. This move not only pays homage to the past but also showcases Microsoft's ongoing innovation in gaming technology. With 1TB of storage and a powerful performance, this console is likely to attract both new and longtime players."
+          "analysis_zh": "微软推出了一款特别版Xbox Series X，以庆祝该游戏主机25周年。这款25周年纪念版Xbox的设计灵感来源于最初的Xbox，主机和手柄均采用了透明绿色的外观。这一设计不仅唤起了玩家们的怀旧情感，也展示了微软对其历史的尊重。此款限量版主机配备1TB存储空间，结合了强大的性能与独特的外观，可能会吸引更多玩家的关注和购买。",
+          "analysis_en": "Microsoft has released a special edition Xbox Series X to celebrate the 25th anniversary of the console. The 25th-anniversary console draws design inspiration from the original Xbox, featuring a translucent green look for both the console and controller. This design not only evokes nostalgia among players but also reflects Microsoft's respect for its history. With 1TB of storage and powerful performance, this limited edition console is likely to attract more attention and purchases from gamers."
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Minecraft Dungeons 2 gets a September release date",
           "link": "https://www.theverge.com/games/939551/minecraft-dungeons-ii-2-release-date-trailer",
           "source": "The Verge",
           "published_utc": "2026-06-07 17:45 UTC",
-          "analysis_zh": "《Minecraft Dungeons 2》宣布将于9月29日正式发布。这款游戏是微软的《Minecraft Dungeons》的续集，最初在3月份的预告片中揭晓，承诺将在2026年秋季推出。该游戏将为玩家带来全新的动作角色扮演冒险，充满激烈的挑战和未曾见过的场景。此消息对游戏爱好者来说意义重大，因为它标志着《Minecraft》系列的进一步扩展，可能会吸引更多玩家的关注并提升微软在游戏市场的竞争力。",
-          "analysis_en": "\"Minecraft Dungeons 2\" has been announced for release on September 29th. This game is a sequel to Microsoft's \"Minecraft Dungeons,\" which was initially revealed in a trailer back in March, promising a fall 2026 release. It will offer players a new action RPG adventure filled with high-stakes challenges and never-before-seen locations. This news is significant for gamers as it represents an expansion of the \"Minecraft\" franchise, potentially drawing in more players and enhancing Microsoft's competitiveness in the gaming market."
+          "analysis_zh": "《Minecraft Dungeons 2》是微软旗下《Minecraft Dungeons》的续集，定于9月29日发布。该游戏在3月份的预告片中首次亮相，承诺将在2026年秋季推出。此次续集将带来全新的动作角色扮演冒险，玩家将面临高风险的遭遇和激动人心的挑战。这款游戏的发布不仅丰富了《Minecraft》系列的内容，也可能吸引更多玩家参与，进一步推动微软在游戏市场的影响力。",
+          "analysis_en": "\"Minecraft Dungeons 2,\" a sequel to Microsoft's \"Minecraft Dungeons,\" is set to be released on September 29. The game was initially revealed in a trailer back in March, with a promise of a fall 2026 release. This sequel will introduce a new action RPG adventure filled with high-stakes encounters and thrilling challenges. The release of this game not only expands the content of the \"Minecraft\" series but may also attract more players, further enhancing Microsoft's influence in the gaming market."
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Fable launches in late February after recent delay",
           "link": "https://www.theverge.com/games/939536/fable-xbox-games-showcase-2026",
           "source": "The Verge",
           "published_utc": "2026-06-07 17:14 UTC",
-          "analysis_zh": "微软在其Xbox游戏展会上展示了《Fable》的新视频，并宣布该游戏的具体发售日期为2027年2月23日。这是自2010年《Fable III》以来，该系列的首次新作发布。此消息对游戏迷来说意义重大，因为《Fable》系列以其奇幻的角色扮演设定和独特的英国幽默著称。游戏的推出不仅将吸引老玩家回归，也可能吸引新玩家加入，进一步推动Xbox和PC平台的销量。",
-          "analysis_en": "Microsoft showcased new footage of Fable at its Xbox Games Showcase and announced a specific release date of February 23, 2027. This marks the first new entry in the series since 2010's Fable III. This announcement is significant for fans, as the Fable series is known for its fantasy RPG setting and unique British humor. The release is likely to draw back old players while attracting new ones, potentially boosting sales for both Xbox and PC platforms."
+          "analysis_zh": "微软在其Xbox游戏展会上展示了《Fable》的新画面，并宣布该游戏的具体发售日期为2027年2月23日。这是自2010年《Fable III》以来，该系列的首次新作。此次发布对于游戏迷来说意义重大，因为它承诺将延续原三部曲的奇幻RPG设定和幽默风格。此外，游戏的开发团队也透露了角色阵容，包括海莉·阿特维尔饰演的反派角色。这一系列的更新不仅提升了玩家的期待，也可能影响到微软在游戏市场的竞争力。",
+          "analysis_en": "Microsoft showcased new footage of Fable at its Xbox Games Showcase and announced a specific release date of February 23, 2027. This marks the first new entry in the franchise since 2010's Fable III, making it significant for fans of the series as it promises to continue the beloved fantasy RPG setting and humor. Additionally, the development team revealed the cast, including Hayley Atwell as the villain. These updates not only heighten player anticipation but may also impact Microsoft's competitiveness in the gaming market."
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Halo: Campaign Evolved arrives July 28th",
           "link": "https://www.theverge.com/games/939564/halo-campaign-evolved-xbox-games-showcase-2026",
           "source": "The Verge",
           "published_utc": "2026-06-07 17:14 UTC",
-          "analysis_zh": "微软在周日的Xbox游戏展上公布了《光环：战役进化》的新细节，这是一款即将推出的《光环：战斗进化》战役模式重制版。该游戏将于7月28日在Xbox Series S/X、PC和PS5上首发。此次发布的任务预告片展示了新的三任务故事线“流星行动”，该故事发生在第一款游戏事件的一年前，主角包括士官长和约翰逊中士。这款重制版采用虚幻引擎5制作，具备令人惊叹的4K画质和更新的动画效果，预计将吸引大量玩家的关注。",
-          "analysis_en": "Microsoft revealed new details about \"Halo: Campaign Evolved\" during its Xbox Games Showcase on Sunday. This upcoming remake of the campaign mode from \"Halo: Combat Evolved\" is set to launch on July 28 for Xbox Series S/X, PC, and PS5. The newly released mission trailer introduces \"Operation: Meteorite,\" a three-mission story arc that takes place a year before the events of the original game, featuring Master Chief and Sgt. Johnson. Built in Unreal Engine 5, this remake boasts stunning 4K visuals and updated animations, which are likely to draw significant attention from gamers."
+          "analysis_zh": "微软在其Xbox游戏展示会上宣布了《光环：战役进化》的新细节，这是一款即将推出的《光环：战斗进化》战役模式重制版。该游戏将于7月28日在Xbox Series S/X、PC和PS5上首发。重制版不仅拥有令人惊叹的4K画面和更新的动画，还增加了全新的三条任务故事线。这一消息对光环系列的粉丝来说意义重大，可能会吸引更多玩家回归这一经典游戏。",
+          "analysis_en": "Microsoft revealed new details about \"Halo: Campaign Evolved\" during its Xbox Games Showcase, which is an upcoming remake of the campaign mode from \"Halo: Combat Evolved.\" The game is set to debut on July 28 for Xbox Series S/X, PC, and PS5. This remake features stunning 4K visuals, updated animations, and introduces new story arcs with three additional missions. This announcement is significant for fans of the Halo series, as it may draw more players back to this classic game."
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Gears of War: E-Day isn’t coming to the PS5",
           "link": "https://www.theverge.com/entertainment/945269/gears-of-war-e-day-ps5-launch",
           "source": "The Verge",
           "published_utc": "2026-06-07 17:08 UTC",
-          "analysis_zh": "微软在其Xbox游戏展会上宣布，《战争机器：E-Day》将成为Xbox主机的独占游戏，不会在PS5上发布。这一决定标志着微软在多平台策略上的转变，回归到以Xbox为中心的独占策略。这对游戏玩家来说意义重大，因为这可能会影响他们的购买决定，并引发对未来游戏发布的关注。随着Xbox逐渐重回独占市场，竞争对手索尼也可能需要重新评估其策略。",
-          "analysis_en": "Microsoft announced at its Xbox Games Showcase that Gears of War: E-Day will be an Xbox console exclusive and will not be released on the PS5. This decision signifies a shift in Microsoft's strategy, moving away from a multi-platform approach back to focusing on Xbox exclusives. This is significant for gamers, as it may influence their purchasing decisions and raise questions about future game releases. As Xbox increasingly returns to exclusivity, competitor Sony may need to reassess its own strategies."
+          "analysis_zh": "在最近的Xbox游戏展上，微软宣布《战争机器：E-Day》将成为Xbox主机独占游戏，不再登陆PS5。这一决定标志着微软在游戏策略上的重大转变，回归到专注于Xbox平台的路线。此举不仅影响了PlayStation玩家的选择，也可能影响到未来游戏的多平台发布策略，尤其是在微软高层更换后，粉丝们期待的独占游戏回归似乎正在逐步实现。",
+          "analysis_en": "At the recent Xbox Games Showcase, Microsoft announced that Gears of War: E-Day will be an Xbox console exclusive and will not be coming to the PS5. This decision marks a significant shift in Microsoft's gaming strategy, refocusing on the Xbox platform. This move not only limits options for PlayStation players but may also influence future multi-platform release strategies, especially as fans have been anticipating a return to exclusives following recent executive changes at Microsoft."
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "The Verge Weekend Questionnaire",
           "link": "https://www.theverge.com/entertainment/943285/the-verge-weekend-questionnaire",
           "source": "The Verge",
           "published_utc": "2026-06-07 17:00 UTC",
-          "analysis_zh": "《The Verge周末问卷》是一项每周的问答活动，邀请艺术家、作家和CEO分享他们的工作习惯和生活方式。这项活动旨在揭示不同领域创作者的独特见解，帮助读者了解他们如何高效工作和放松。通过这些访谈，读者可以获得灵感，并了解到许多成功人士的日常选择和偏好。这不仅丰富了娱乐内容，也为关注科技和创意行业的人们提供了有价值的信息。",
-          "analysis_en": "The Verge Weekend Questionnaire is a weekly Q&A series that invites artists, authors, and CEOs to share their work habits and lifestyle choices. This initiative aims to uncover unique insights from creators across various fields, helping readers understand how they work efficiently and unwind. Through these interviews, readers can gain inspiration and learn about the daily preferences and choices of many successful individuals. This not only enriches entertainment content but also provides valuable information for those interested in the tech and creative industries."
+          "analysis_zh": "《The Verge周末问卷》是一项每周的问答活动，邀请艺术家、作家和CEO分享他们的工作习惯和生活方式。这项活动旨在揭示这些创意人士如何保持专注，以及他们在日常生活中使用的不可或缺的应用程序。通过这种方式，读者可以更深入地了解这些有影响力人物的思维方式和生活哲学。这不仅丰富了娱乐内容，也为读者提供了实用的灵感和建议。",
+          "analysis_en": "The Verge Weekend Questionnaire is a weekly Q&A series featuring artists, authors, and CEOs discussing their work habits and lifestyles. This initiative aims to uncover how these creative individuals stay focused and what indispensable apps they use in their daily lives. By doing so, readers gain deeper insights into the mindsets and philosophies of these influential figures. This not only enriches entertainment content but also offers practical inspiration and advice for the audience."
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Xbox Games Showcase 2026: All the news and trailers",
           "link": "https://www.theverge.com/entertainment/944191/xbox-games-showcase-2026-news-trailers",
           "source": "The Verge",
           "published_utc": "2026-06-07 16:40 UTC",
-          "analysis_zh": "在2026年夏季游戏节上，微软举行了Xbox游戏展示会，主要聚焦于已经公布的游戏。尽管《战争机器：E-Day》将不会在PS5上发布，这一决定让人感到意外，但其他一些重要的第一方游戏如《魔法门》和《光环：战斗进化》仍将登陆索尼主机。这使得微软在独占策略上的立场显得模糊。此次展示会正值微软游戏部门经历高层变动之际，新任负责人Asha Sharma承诺将带来“Xbox的回归”，这可能会影响未来游戏的发布策略和市场竞争格局。",
-          "analysis_en": "At the 2026 Summer Game Fest, Microsoft held its Xbox Games Showcase, primarily focusing on games that had already been announced. While the decision for \"Gears of War: E-Day\" not to launch on PS5 was surprising, other major first-party titles like \"Fable\" and \"Halo: Combat Evolved\" will still be available on Sony's console, which makes Microsoft's exclusivity strategy appear unclear. This showcase comes at a time when Microsoft's gaming division has undergone executive changes, with new head Asha Sharma promising a \"return of Xbox,\" which may influence future game release strategies and the competitive landscape in the market."
-        },
-        {
-          "rank": 10,
-          "title": "Can These ChatGPT Ads Make You Love A.I.?",
-          "link": "https://www.nytimes.com/2026/06/04/style/chatgpt-advertising-campaign-artificial-intelligence.html",
-          "source": "NYT > Technology",
-          "published_utc": "2026-06-07 16:28 UTC",
-          "analysis_zh": "最近，ChatGPT推出了一系列温馨怀旧的广告，旨在改变公众对人工智能的看法。尽管人工智能在美国引发了不少担忧，这些广告试图通过情感共鸣来吸引用户的关注。这一举措的重要性在于，它可能会影响人们对AI技术的接受度和使用意愿，从而改变市场对这一产品的态度。",
-          "analysis_en": "Recently, ChatGPT launched a series of heartwarming retro ads aimed at changing public perception of artificial intelligence. Despite the concerns surrounding AI in the U.S., these ads seek to engage users through emotional resonance. This initiative is significant as it may influence people's acceptance and willingness to use AI technology, potentially altering market attitudes toward the product."
+          "analysis_zh": "在2026年夏季游戏节上，微软举办了Xbox游戏展示会，尽管主要展示了一些已知的游戏，但关于公司独占策略的信息却显得模糊。令人惊讶的是，《战争机器：E日》将不会在PS5上发布，而其他一些重要的第一方游戏如《命运》和《光环：战斗进化》仍将推出到索尼的主机上。这使得人们对微软在独占游戏方面的真正关注度产生了疑问。此次展示会正值微软游戏部门经历高管更换之际，新任负责人Asha Sharma正试图带来一些积极的变化，并承诺“Xbox的回归”。",
+          "analysis_en": "At the Summer Game Fest 2026, Microsoft held its Xbox Games Showcase, which primarily featured games that were already known, but the messaging around the company's exclusivity strategy was somewhat unclear. It was surprising to learn that \"Gears of War: E-Day\" will not be launching on the PS5, while other major first-party titles like \"Fable\" and \"Halo: Combat Evolved\" are still set to release on Sony's console. This raises questions about how focused Microsoft truly is on exclusives. The timing of the showcase is interesting, as Microsoft's gaming division recently underwent an executive shake-up, and new head Asha Sharma is making some positive changes while promising a \"return of Xbox.\""
         }
       ]
     },
@@ -235,93 +244,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "Tony Award Winners 2026: The Updating List",
+          "link": "https://www.nytimes.com/2026/06/07/theater/tony-award-winners-2026-the-updating-list.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-06-07 22:41 UTC",
+          "analysis_zh": "2026年的托尼奖在纽约市的无线电城音乐厅举行。此次颁奖典礼汇聚了众多优秀的剧作家和表演者，展现了当年最杰出的音乐剧和戏剧作品。这一盛事不仅是对艺术成就的认可，也为未来的剧院制作提供了灵感和方向。托尼奖的获奖名单将对观众的选择和剧院行业的趋势产生深远影响。",
+          "analysis_en": "The 2026 Tony Awards are taking place at Radio City Music Hall in New York City. This ceremony brings together many talented playwrights and performers, showcasing the year's best musicals and plays. This event not only recognizes artistic achievements but also inspires future theater productions. The list of winners will have a significant impact on audience choices and trends within the theater industry."
+        },
+        {
+          "rank": 2,
+          "title": "Tonys 2026 Live Updates: Stars Arrive on Red Carpet in Honor of Broadway’s Best",
+          "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026",
+          "source": "NYT > Arts",
+          "published_utc": "2026-06-07 22:41 UTC",
+          "analysis_zh": "2026年托尼奖的红毯上，众多明星齐聚一堂，庆祝百老汇的杰出作品。今年的音乐季较为稀少，但却呈现了经过彻底重新构思的《猫》和《拉格泰姆》的复兴。这一盛典由歌手平克主持，将带来充满怀旧色彩的表演。此次活动不仅展示了百老汇的艺术成就，也为观众提供了重温经典的机会，可能会吸引更多人关注音乐剧的未来发展。",
+          "analysis_en": "The 2026 Tony Awards brought together numerous stars on the red carpet to celebrate the best of Broadway. This year's musical season has been sparse, yet it features a radically reimagined version of \"Cats\" and a revival of \"Ragtime.\" Hosted by singer Pink, the ceremony promises nostalgic performances that will resonate with audiences. This event not only highlights the artistic achievements of Broadway but also offers a chance for viewers to reconnect with classic musicals, potentially drawing more attention to the future of musical theater."
+        },
+        {
+          "rank": 3,
+          "title": "38 Tony nominees on the strangest skills they’ve picked up for a show.",
+          "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/38-tony-nominees-on-the-strangest-skills-theyve-picked-up-for-a-show",
+          "source": "NYT > Arts",
+          "published_utc": "2026-06-07 22:30 UTC",
+          "analysis_zh": "近日，《纽约时报》报道了38位托尼奖提名者分享他们为表演所掌握的奇特技能。这些技能不仅展示了演员们的多才多艺，也反映了舞台表演的多样性和创造力。这一现象引发了人们对艺术表演背后努力和奉献的关注，可能会激励更多人参与到戏剧和表演艺术中。",
+          "analysis_en": "Recently, The New York Times reported on 38 Tony Award nominees sharing the unusual skills they have acquired for their performances. These skills not only highlight the versatility of the actors but also reflect the diversity and creativity of stage performances. This phenomenon draws attention to the hard work and dedication behind artistic expression, potentially inspiring more people to engage in theater and performing arts."
+        },
+        {
+          "rank": 4,
+          "title": "Here’s the latest.",
+          "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/heres-the-latest",
+          "source": "NYT > Arts",
+          "published_utc": "2026-06-07 22:22 UTC",
+          "analysis_zh": "最近，纽约时报在艺术版块发布了一篇关于美学的最新动态。这篇文章探讨了当代艺术中美学的演变及其对文化的影响。美学不仅关乎艺术作品的视觉吸引力，还涉及到观众的情感反应和社会背景的交织。因此，这一话题的重要性在于它帮助我们理解艺术如何反映和塑造我们的价值观和信仰。未来，这可能会影响艺术创作和批评的方向，促使人们重新审视美的定义。",
+          "analysis_en": "Recently, the New York Times published an update in its arts section regarding aesthetics. The article explores the evolution of aesthetics in contemporary art and its impact on culture. Aesthetics is not only about the visual appeal of artworks but also involves the emotional responses of viewers and the interplay with social contexts. The significance of this topic lies in its ability to help us understand how art reflects and shapes our values and beliefs. In the future, this may influence the direction of artistic creation and criticism, prompting a reevaluation of the definition of beauty."
+        },
+        {
+          "rank": 5,
+          "title": "Our Favorite Photos From the Tony Awards Red Carpet",
+          "link": "https://www.nytimes.com/2026/06/07/theater/our-favorite-photos-from-the-tony-awards-red-carpet.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-06-07 22:16 UTC",
+          "analysis_zh": "在托尼奖颁奖典礼的红毯上，百老汇的明星们纷纷亮相，展现了他们的时尚风采。这一盛事不仅是对戏剧艺术的庆祝，也是展示个人风格和创意的舞台。红毯上的时尚选择往往会影响未来的潮流，成为公众讨论的焦点。通过这些照片，观众能够更深入地了解明星们的魅力与风格，超越了电视转播所能呈现的表象。",
+          "analysis_en": "At the Tony Awards red carpet, Broadway's brightest stars showcased their fashion choices, marking a significant event in the theater industry. This celebration not only honors theatrical arts but also serves as a platform for personal style and creativity. The fashion choices made on the red carpet often influence future trends and become topics of public discussion. Through these photos, audiences gain a deeper insight into the charm and style of the stars, going beyond what is presented on television."
+        },
+        {
+          "rank": 6,
+          "title": "What’s onstage this summer?",
+          "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/whats-onstage-this-summer",
+          "source": "NYT > Arts",
+          "published_utc": "2026-06-07 22:00 UTC",
+          "analysis_zh": "今年夏天，许多剧院推出了丰富多彩的舞台演出，吸引了观众的目光。这些演出不仅展示了多样的艺术形式，还为当地文化注入了活力。随着疫情逐渐缓解，观众的回归对艺术界的复苏至关重要。这些演出可能会影响未来的艺术创作方向，并促进更多人参与文化活动。",
+          "analysis_en": "This summer, numerous theaters are presenting a vibrant array of stage performances that are capturing the attention of audiences. These shows not only showcase diverse art forms but also invigorate local culture. As the pandemic gradually eases, the return of audiences is crucial for the revival of the arts. These performances may influence future artistic directions and encourage greater public engagement in cultural activities."
+        },
+        {
+          "rank": 7,
           "title": "How to watch the Tony Awards.",
           "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/how-to-watch-the-tony-awards",
           "source": "NYT > Arts",
           "published_utc": "2026-06-07 21:30 UTC",
-          "analysis_zh": "托尼奖是美国戏剧界的一个重要盛事，旨在表彰优秀的百老汇音乐剧和戏剧。观看这一盛典不仅可以欣赏到顶级的表演艺术，还能了解当年在舞台上表现突出的作品和演员。托尼奖的颁发对剧院行业有着深远的影响，能够提升获奖作品的知名度，并吸引更多观众走进剧院。随着观众对现场表演艺术的兴趣增加，托尼奖的影响力也在不断扩大。",
-          "analysis_en": "The Tony Awards are a significant event in the American theater scene, recognizing outstanding Broadway musicals and plays. Watching this ceremony allows audiences to appreciate top-notch performances and learn about the year's standout productions and actors. The awards have a profound impact on the theater industry, enhancing the visibility of winning works and drawing more audiences to theaters. As interest in live performance art grows, the influence of the Tony Awards continues to expand."
+          "analysis_zh": "托尼奖是美国戏剧界的一项重要盛事，旨在表彰优秀的音乐剧和戏剧作品。观看托尼奖不仅可以欣赏到精彩的表演，还能了解当年最佳作品和艺术家的动态。这一奖项的颁发对剧院行业具有深远的影响，能够推动新作品的创作和观众的关注。随着艺术界的不断发展，托尼奖也将继续成为艺术家和观众之间的重要桥梁。",
+          "analysis_en": "The Tony Awards are a significant event in the American theater scene, recognizing outstanding musical and theatrical works. Watching the Tonys not only allows audiences to enjoy remarkable performances but also keeps them informed about the best works and artists of the year. The awarding of these honors has a profound impact on the theater industry, fostering the creation of new works and attracting audience interest. As the arts continue to evolve, the Tony Awards will remain an important bridge between artists and audiences."
         },
         {
-          "rank": 2,
-          "title": "Here’s the latest.",
-          "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/heres-the-latest",
-          "source": "NYT > Arts",
-          "published_utc": "2026-06-07 21:30 UTC",
-          "analysis_zh": "近日，纽约时报报道了美学领域的最新动态，强调了艺术与设计在当代社会中的重要性。这些变化不仅影响了艺术家的创作方式，也改变了观众对艺术的理解和体验。随着数字技术的进步，艺术的表现形式愈加多样化，可能会推动新的艺术潮流和市场趋势。",
-          "analysis_en": "Recently, the New York Times reported on the latest developments in the field of aesthetics, highlighting the significance of art and design in contemporary society. These changes not only affect how artists create but also alter the audience's understanding and experience of art. With advancements in digital technology, the diversity of artistic expression is increasing, which may drive new artistic trends and market dynamics."
-        },
-        {
-          "rank": 3,
+          "rank": 8,
           "title": "Here’s what to expect at tonight’s ceremony.",
           "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026/heres-what-to-expect-at-tonights-ceremony",
           "source": "NYT > Arts",
           "published_utc": "2026-06-07 21:30 UTC",
-          "analysis_zh": "今晚的颁奖典礼将会吸引众多观众的关注，尤其是在艺术领域。此次活动不仅展示了优秀的艺术作品，还为艺术家们提供了一个交流和展示的平台。这场典礼的重要性在于它能够提升公众对艺术的认识和欣赏，同时也可能影响未来艺术创作的方向和趋势。",
-          "analysis_en": "Tonight's awards ceremony is set to draw significant attention, particularly in the arts community. This event not only showcases outstanding artistic works but also provides a platform for artists to connect and present their creations. Its importance lies in enhancing public awareness and appreciation of art, which may also influence the direction and trends of future artistic endeavors."
+          "analysis_zh": "今晚的颁奖典礼将会吸引众多关注，许多艺术界的知名人士将出席。此次典礼不仅是对艺术成就的认可，也是对当代美学趋势的展示。随着艺术界的不断发展，这样的活动可能会影响未来的创作方向和艺术市场的走向。",
+          "analysis_en": "Tonight's awards ceremony is set to draw significant attention, with many prominent figures from the art world in attendance. This event not only recognizes artistic achievements but also showcases contemporary aesthetic trends. As the art world continues to evolve, such events may influence future creative directions and the trajectory of the art market."
         },
         {
-          "rank": 4,
+          "rank": 9,
           "title": "Tribeca Festival Denounces Pair Who Joked on the Red Carpet About Rape",
           "link": "https://www.nytimes.com/2026/06/07/world/middleeast/tribeca-film-festival-response-palestinian-joke.html",
           "source": "NYT > Arts",
           "published_utc": "2026-06-07 21:23 UTC",
-          "analysis_zh": "在最近的特里贝卡电影节上，演员埃隆·戈德与社交媒体影响者莉齐·萨维茨基在红毯上开了关于强奸的玩笑，这一事件引发了广泛的争议。电影节对此表示强烈谴责，强调这样的言论是不可接受的。这一事件不仅影响了相关人士的声誉，也引发了公众对性别暴力和言论责任的讨论，可能促使更多人关注和反思这一社会问题。",
-          "analysis_en": "At the recent Tribeca Festival, actor Elon Gold and social media influencer Lizzy Savetsky made jokes about rape on the red carpet, which sparked widespread outrage. The festival issued a strong condemnation, emphasizing that such remarks are unacceptable. This incident not only affects the reputations of those involved but also ignites public discourse on gender violence and the responsibility of speech, potentially leading to greater awareness and reflection on this social issue."
+          "analysis_zh": "在最近的特里贝卡电影节上，演员伊隆·戈德和社交媒体影响者莉齐·萨维茨基在红毯上开了一个关于强奸的玩笑，这一片段在网上引发了广泛关注。电影节对此表示强烈谴责，认为这种言论不应被容忍。这一事件不仅反映了对性暴力话题的敏感性，也可能影响公众对参与者的看法，并对未来的活动产生警示作用。",
+          "analysis_en": "At the recent Tribeca Film Festival, actor Elon Gold and social media influencer Lizzy Savetsky made a joke about rape on the red carpet, which has sparked widespread attention online. The festival strongly condemned their remarks, stating that such comments should not be tolerated. This incident highlights the sensitivity surrounding the topic of sexual violence and may affect public perceptions of the individuals involved, serving as a cautionary tale for future events."
         },
         {
-          "rank": 5,
+          "rank": 10,
           "title": "‘Scary Movie’ Returns Politically Incorrect Humor to Top of the Box Office",
           "link": "https://www.nytimes.com/2026/06/07/business/media/scary-movie-politically-incorrect-humor.html",
           "source": "NYT > Arts",
           "published_utc": "2026-06-07 21:03 UTC",
-          "analysis_zh": "《恐怖电影》在美国和加拿大的首个周末票房达到了5500万美元，成为12年来R级喜剧中最大的开局。这部电影的成功标志着政治不正确幽默的回归，引发了观众的广泛讨论。这种幽默风格在当今社会中越来越少见，因此它的受欢迎程度可能会影响未来喜剧电影的创作方向。",
-          "analysis_en": "\"Scary Movie\" grossed $55 million in its opening weekend in the United States and Canada, marking the biggest debut for an R-rated comedy in 12 years. The film's success signifies a resurgence of politically incorrect humor, sparking widespread discussion among audiences. Given that this style of humor has become increasingly rare in today's society, its popularity may influence the creative direction of future comedy films."
-        },
-        {
-          "rank": 6,
-          "title": "5 Takeaways From Scott Pelley’s Interview With The New York Times",
-          "link": "https://www.nytimes.com/2026/06/07/arts/television/scott-pelley-60-minutes-interview-takeaways.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-06-07 19:24 UTC",
-          "analysis_zh": "斯科特·佩利在被解雇后首次接受了《纽约时报》的深入采访，回顾了他在CBS新闻长达37年的职业生涯，包括担任白宫记者和《60分钟》节目的记者。这次采访不仅让佩利有机会分享他的经历，也引发了对新闻行业现状的讨论。佩利的观点和经历可能会影响公众对新闻报道的信任度，以及对新闻工作者面临的挑战的理解。",
-          "analysis_en": "Scott Pelley gave his first extensive interview to The New York Times since being fired, reflecting on his 37-year career at CBS News, including roles as a White House correspondent and a \"60 Minutes\" reporter. This interview not only allowed Pelley to share his experiences but also sparked discussions about the current state of the journalism industry. His insights and experiences may influence public trust in news reporting and the understanding of the challenges faced by journalists."
-        },
-        {
-          "rank": 7,
-          "title": "‘Earth, Wind & Fire’ Review: Questlove’s Tribute to an Inspiration",
-          "link": "https://www.nytimes.com/2026/06/07/movies/earth-wind-fire-hbo-documentary.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-06-07 17:56 UTC",
-          "analysis_zh": "在《天与地的对比：这是世界的重量》中，Questlove对“地风火”乐队创始人莫里斯·怀特进行了深刻的致敬，描绘了他的非凡人生和持久遗产。这部作品不仅展示了怀特的音乐才华，还强调了他对后世音乐家的影响。这样的致敬具有重要意义，因为它让新一代听众重新认识了这位音乐巨匠及其对流行文化的贡献。",
-          "analysis_en": "In \"To Be Celestial vs. That’s the Weight of the World,\" Questlove pays a heartfelt tribute to Maurice White, the founder of Earth, Wind & Fire, highlighting his remarkable life and lasting legacy. This work not only showcases White's musical talent but also emphasizes his influence on future generations of musicians. Such a tribute is significant as it allows a new generation of listeners to rediscover this musical icon and his contributions to popular culture."
-        },
-        {
-          "rank": 8,
-          "title": "Islyn Studio evokes \"neo-noir urbanism\" at Uchi DC restaurant",
-          "link": "https://www.dezeen.com/2026/06/07/uchi-dc-japanese-restaurant-islyn-studio/",
-          "source": "Dezeen",
-          "published_utc": "2026-06-07 17:00 UTC",
-          "analysis_zh": "位于纽约的Islyn Studio为华盛顿特区的Uchi DC餐厅设计了内部空间，灵感来源于该地区的新形式主义建筑和“深夜东京”的氛围。这是Islyn Studio为厨师Tyson Cole及其Hai Hospitality餐饮集团设计的第二家餐厅，继迈阿密海滩的Uchiko之后。此次设计不仅展示了独特的美学风格，也反映了城市文化的交融，可能会吸引更多对美食和设计有追求的顾客。",
-          "analysis_en": "New York-based Islyn Studio has designed the interiors of Uchi DC restaurant, drawing inspiration from Washington DC's New Formalist architecture and the ambiance of \"late-night Tokyo.\" This marks Islyn Studio's second project for chef Tyson Cole and his Hai Hospitality group, following the Uchiko location in Miami Beach. The design not only showcases a unique aesthetic but also reflects the fusion of urban culture, which may attract more customers who appreciate fine dining and design."
-        },
-        {
-          "rank": 9,
-          "title": "lucia pietroiusti and filipa ramos on ‘the shape of a circle in the mind of a fish’",
-          "link": "https://www.designboom.com/art/lucia-pietroiusti-filipa-ramos-the-shape-of-a-circle-in-the-mind-of-a-fish/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-06-07 14:40 UTC",
-          "analysis_zh": "在2019年至2025年期间，蛇形画廊举办了一系列跨学科的活动，邀请科学家、艺术家和研究人员共同探讨意识和知识的形成。此次活动的主题是“鱼心中的圆形”，旨在揭示不同形式和生物之间的认知联系。这一研究不仅丰富了我们对意识的理解，也可能对艺术创作和科学研究的交叉领域产生深远影响。",
-          "analysis_en": "From 2019 to 2025, the Serpentine Galleries hosted a series of interdisciplinary events that brought together scientists, artists, and researchers to explore the formation of consciousness and knowledge. The theme, \"the shape of a circle in the mind of a fish,\" aimed to uncover cognitive connections across different forms and beings. This research not only deepens our understanding of consciousness but may also have a significant impact on the intersection of artistic creation and scientific inquiry."
-        },
-        {
-          "rank": 10,
-          "title": "Despite Protest, Ye Takes the Stage for Thousands of European Fans",
-          "link": "https://www.nytimes.com/2026/06/06/arts/music/ye-concert-bully-tour-netherlands.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-06-07 12:06 UTC",
-          "analysis_zh": "尽管面临抗议，前身为坎耶·韦斯特的说唱歌手Ye在荷兰为近40,000名粉丝演出。虽然其他欧洲国家取消了他的演出，但这场音乐会的成功吸引了大量支持者。这一事件不仅反映了Ye在某些地区仍然拥有强大的粉丝基础，也引发了关于艺术家言论自由与社会责任之间的讨论。未来，这可能会影响其他艺术家的演出安排以及公众对他们的接受度。",
-          "analysis_en": "Despite facing protests, the rapper formerly known as Kanye West, Ye, performed for nearly 40,000 fans in the Netherlands. While other European countries canceled his concerts, the success of this show highlights Ye's strong fan base in certain regions. This event raises important discussions about the balance between an artist's freedom of expression and their social responsibilities. In the future, it may influence how other artists schedule their performances and how the public perceives them."
+          "analysis_zh": "《恐怖电影》在美国和加拿大的首个周末票房达到了5500万美元，成为12年来R级喜剧中票房最高的开局。这部电影的成功标志着政治不正确幽默的回归，反映了观众对这种类型喜剧的需求。此类影片的受欢迎程度可能会影响未来电影制作的方向，促使更多制片人尝试类似的幽默风格。",
+          "analysis_en": "\"Scary Movie\" grossed $55 million in its opening weekend in the United States and Canada, marking the biggest debut for an R-rated comedy in 12 years. The film's success signifies a resurgence of politically incorrect humor, highlighting a demand among audiences for this type of comedy. The popularity of such films may influence the direction of future productions, encouraging more filmmakers to explore similar comedic styles."
         }
       ]
     }
