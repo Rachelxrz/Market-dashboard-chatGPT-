@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19 21:47:38 UTC",
+  "generated_at": "2026-06-19 22:32:10 UTC",
   "run_mode": "morning",
   "regime": "Neutral / Defensive",
   "risk_score": 3,
@@ -527,8 +527,8 @@
     {
       "symbol": "MPC",
       "price": 242.91,
-      "ma20": 256.62849884033204,
-      "ma50": 244.9323989868164,
+      "ma20": 255.85549926757812,
+      "ma50": 245.15099914550783,
       "above_20ma": false,
       "above_50ma": false,
       "three_day_up": false,
