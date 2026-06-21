@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21 15:58:20 UTC",
+  "generated_at": "2026-06-21 21:57:43 UTC",
   "run_mode": "morning",
   "regime": "Neutral / Defensive",
   "risk_score": 3,
@@ -89,11 +89,11 @@
     },
     "TNX": {
       "label": "TNX",
-      "price": 4.4509997,
-      "change": -0.10100029999999993,
-      "change_pct": -2.2188115114235485,
-      "change_3d": -0.018000162670898767,
-      "change_3d_pct": -0.40277832230992655,
+      "price": 4.451,
+      "change": -0.10099999999999998,
+      "change_pct": -2.218804920913884,
+      "change_3d": -0.017999862670898814,
+      "change_3d_pct": -0.4027716093985555,
       "note": "10年美债收益率",
       "ok": true
     },
