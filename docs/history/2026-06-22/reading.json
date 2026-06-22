@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-22 22:23:25 UTC",
-  "generated_at_unix": 1782167005,
+  "generated_at": "2026-06-22 23:04:07 UTC",
+  "generated_at_unix": 1782169447,
   "window": {
-    "from_utc": "2026-06-21 22:23:25 UTC",
-    "to_utc": "2026-06-22 22:23:25 UTC",
+    "from_utc": "2026-06-21 23:04:07 UTC",
+    "to_utc": "2026-06-22 23:04:07 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,93 +14,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "Trump may say he’s banning Wall Street from buying homes. Does the bipartisan housing bill actually do that?",
+          "link": "https://www.marketwatch.com/story/trump-may-say-hes-banning-wall-street-from-buying-homes-does-the-bipartisan-housing-bill-actually-do-that-14c8ee5f?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-06-22 22:47 UTC",
+          "analysis_zh": "特朗普可能会声称他正在禁止华尔街购买住房，但实际上这项两党住房法案并没有这样的效果。分析人士指出，这项措施需要时间才能对住房可负担性产生实质性影响，并且无法解决选民在这一领域的挫败感。这一问题的持续存在可能会影响选民对政府的信任和未来的选举结果。",
+          "analysis_en": "Trump may claim that he is banning Wall Street from buying homes, but the bipartisan housing bill does not actually achieve that. Analysts note that this measure will take time to meaningfully affect housing affordability and will not resolve voter frustration in this area. The ongoing nature of this issue could impact voter trust in the government and future election outcomes."
+        },
+        {
+          "rank": 2,
+          "title": "Miner Sinda kicks off US IPO roadshow with $1.97 billion valuation target",
+          "link": "https://www.investing.com/news/stock-market-news/miner-sinda-kicks-off-us-ipo-roadshow-with-197-billion-valuation-target-4752469",
+          "source": "Stock Market News",
+          "published_utc": "2026-06-22 22:42 UTC",
+          "analysis_zh": "矿业公司Sinda近日启动了其在美国的首次公开募股（IPO）路演，目标估值为19.7亿美元。这一举措标志着Sinda在国际资本市场上的重要一步，可能为其未来的发展提供充足的资金支持。此次IPO不仅有助于提升公司的知名度，也可能吸引更多投资者关注矿业领域的潜力。",
+          "analysis_en": "Mining company Sinda has recently launched its roadshow for an initial public offering (IPO) in the United States, targeting a valuation of $1.97 billion. This move represents a significant step for Sinda in the international capital market and could provide substantial funding for its future growth. The IPO is expected to enhance the company's visibility and may attract more investors to the potential of the mining sector."
+        },
+        {
+          "rank": 3,
+          "title": "Senate advances housing bill to limit private equity purchases of single-family homes",
+          "link": "https://www.cnbc.com/2026/06/22/affordable-housing-bill-private-equity-single-family-homes.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-06-22 22:38 UTC",
+          "analysis_zh": "美国参议院最近推进了一项住房法案，旨在限制私人股本公司购买单户住宅。这项法案的通过对于缓解住房危机至关重要，因为私人投资者的购买行为被认为是推高房价和减少可负担住房供应的主要因素之一。随着住房供应的增加和价格的控制，更多家庭将有机会实现购房梦想，这将对经济和社会稳定产生积极影响。",
+          "analysis_en": "The U.S. Senate has recently advanced a housing bill aimed at limiting private equity firms from purchasing single-family homes. This legislation is crucial for addressing the housing crisis, as the buying behavior of private investors is seen as a significant factor driving up home prices and reducing the supply of affordable housing. By increasing housing supply and controlling prices, more families will have the opportunity to achieve their homeownership dreams, which could positively impact the economy and social stability."
+        },
+        {
+          "rank": 4,
+          "title": "Apollo’s $26 billion private credit fund imposes 5% cap on requests to pull 17%",
+          "link": "https://www.investing.com/news/stock-market-news/apollo-private-credit-fund-limits-investor-withdrawals-after-requests-surge-4754105",
+          "source": "Stock Market News",
+          "published_utc": "2026-06-22 22:37 UTC",
+          "analysis_zh": "阿波罗投资公司最近宣布，其260亿美元的私人信贷基金将对投资者提出的提款请求设定5%的上限。这一决定的背景是市场波动加剧，投资者对流动性的需求增加。此举不仅影响了基金的流动性管理，也可能对整体市场信心产生影响，尤其是在经济不确定性加大的情况下。",
+          "analysis_en": "Apollo recently announced that its $26 billion private credit fund will impose a 5% cap on withdrawal requests from investors. This decision comes amid increasing market volatility and heightened demand for liquidity among investors. This move not only affects the fund's liquidity management but may also impact overall market confidence, especially in light of growing economic uncertainties."
+        },
+        {
+          "rank": 5,
+          "title": "Oracle workforce shrinks by about 21,000 employees amid AI adoption",
+          "link": "https://www.investing.com/news/stock-market-news/oracle-workforce-shrinks-by-about-13-4753911",
+          "source": "Stock Market News",
+          "published_utc": "2026-06-22 22:37 UTC",
+          "analysis_zh": "甲骨文公司在人工智能的推动下，裁减了约21,000名员工。这一举措反映了公司在转型过程中对人力资源的重新评估，同时也显示出AI技术对传统行业的深远影响。这一裁员可能会影响到公司的运营效率和员工士气，也引发了外界对科技行业未来就业形势的担忧。",
+          "analysis_en": "Oracle has reduced its workforce by approximately 21,000 employees as it adopts artificial intelligence technologies. This decision highlights the company's reassessment of its human resources during a significant transformation and underscores the profound impact of AI on traditional industries. The layoffs may affect the company's operational efficiency and employee morale, raising concerns about the future job landscape in the tech sector."
+        },
+        {
+          "rank": 6,
+          "title": "'We'll see' — Trump hedges on guarantee Iran won't use oil profits to rebuild military",
+          "link": "https://www.cnbc.com/2026/06/22/trump-iran-war-oil-profits-rebuild-military.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-06-22 22:36 UTC",
+          "analysis_zh": "美国财政部长斯科特·贝森特批准了从伊朗进口石油和精炼产品的计划，至少持续到八月份。此举引发了对伊朗是否会利用这些石油利润重建军事力量的担忧。特朗普对此表示谨慎，称“我们会看看”，这表明他对未来局势的复杂性有所认识。这一政策可能会影响国际油市的供需关系，同时也可能加剧美国与伊朗之间的紧张关系。",
+          "analysis_en": "U.S. Treasury Secretary Scott Bessent has authorized the import of Iranian oil and refined products, extending through at least August. This move raises concerns about whether Iran will use the oil profits to rebuild its military capabilities. Trump responded cautiously, stating, \"We'll see,\" indicating an awareness of the complexities involved. This policy could impact the supply and demand dynamics in the international oil market and may further escalate tensions between the U.S. and Iran."
+        },
+        {
+          "rank": 7,
+          "title": "First Carolina Financial Services lists on NYSE under ticker FCBM",
+          "link": "https://www.investing.com/news/stock-market-news/first-carolina-financial-services-lists-on-nyse-under-ticker-fcbm-432SI-4754287",
+          "source": "Stock Market News",
+          "published_utc": "2026-06-22 22:29 UTC",
+          "analysis_zh": "第一卡罗来纳金融服务公司在纽约证券交易所上市，股票代码为FCBM。这一上市标志着该公司在资本市场上的重要里程碑，能够为其提供更多的融资机会和市场曝光度。这不仅有助于公司扩大业务规模，还可能吸引更多投资者的关注，从而推动其股价上涨。",
+          "analysis_en": "First Carolina Financial Services has listed on the New York Stock Exchange under the ticker FCBM. This listing represents a significant milestone for the company in the capital markets, providing it with greater financing opportunities and market visibility. This move could help the company expand its operations and attract more investor interest, potentially driving up its stock price."
+        },
+        {
+          "rank": 8,
+          "title": "BP, Marathon, 7-Eleven, Walmart sued for allegedly using AI to boost California gas prices",
+          "link": "https://www.investing.com/news/stock-market-news/bp-marathon-7eleven-walmartsued-for-allegedly-using-ai-to-boost-california-gas-prices-4754074",
+          "source": "Stock Market News",
+          "published_utc": "2026-06-22 22:25 UTC",
+          "analysis_zh": "近日，BP、Marathon、7-Eleven和沃尔玛因涉嫌利用人工智能操控加州油价而被起诉。这一事件引发了公众对企业道德和市场竞争的广泛关注。若指控属实，这可能会导致相关企业面临巨额罚款，并影响消费者对这些品牌的信任。此外，这一案件可能促使监管机构加强对行业的监督，以防止类似事件再次发生。",
+          "analysis_en": "Recently, BP, Marathon, 7-Eleven, and Walmart were sued for allegedly using artificial intelligence to manipulate gas prices in California. This incident has sparked widespread concern about corporate ethics and market competition. If the allegations are proven true, the companies could face hefty fines and a loss of consumer trust. Furthermore, this case may prompt regulatory agencies to enhance oversight of the industry to prevent similar occurrences in the future."
+        },
+        {
+          "rank": 9,
+          "title": "US agencies probe near-miss between American, Delta jets at Boston airport",
+          "link": "https://www.investing.com/news/stock-market-news/us-ntsb-opens-probe-into-nearmiss-between-american-delta-jets-at-boston-airport-4754230",
+          "source": "Stock Market News",
+          "published_utc": "2026-06-22 22:24 UTC",
+          "analysis_zh": "美国联邦航空局和国家运输安全委员会正在调查一起发生在波士顿机场的近失事件，涉及美国航空和达美航空的两架飞机。这一事件引发了公众对航空安全的关注，尤其是在繁忙的机场环境中。调查结果可能会导致对航空公司和机场操作程序的审查，从而提高未来的安全标准。",
+          "analysis_en": "U.S. federal aviation authorities and the National Transportation Safety Board are investigating a near-miss incident involving American Airlines and Delta jets at Boston airport. This event has raised public concern about aviation safety, particularly in busy airport environments. The findings of the investigation could lead to a review of operational procedures for airlines and airports, potentially enhancing safety standards in the future."
+        },
+        {
+          "rank": 10,
           "title": "Big Tech has split into two artificial-intelligence camps — but the smart money isn’t chasing the next OpenAI",
           "link": "https://www.marketwatch.com/story/big-tech-is-splitting-into-two-artificial-intelligence-camps-here-is-the-better-bet-e75c9876?mod=mw_rss_topstories",
           "source": "MarketWatch.com - Top Stories",
           "published_utc": "2026-06-22 22:21 UTC",
-          "analysis_zh": "近期，科技巨头如Alphabet和微软在人工智能领域形成了两个不同的阵营。尽管市场上对新兴AI公司的关注度不断上升，但这些大型企业因其稳定性和资源优势，仍被视为更安全的投资选择。这一趋势表明，投资者可能更倾向于选择那些具备成熟技术和市场地位的公司，而不是追逐新兴的AI初创企业。这可能会影响未来的投资流向，促使更多资金流向这些大型科技公司。",
-          "analysis_en": "Recently, tech giants like Alphabet and Microsoft have split into two distinct camps in the artificial intelligence sector. Despite growing interest in emerging AI companies, these large firms are still seen as safer investment choices due to their stability and resource advantages. This trend indicates that investors may prefer established companies with mature technologies and market positions over chasing after new AI startups. This could influence future investment flows, directing more capital towards these major tech companies."
-        },
-        {
-          "rank": 2,
-          "title": "Tesla faces federal probe after Model 3 slams into Texas home, killing 76-year-old",
-          "link": "https://www.cnbc.com/2026/06/22/tesla-nhtsa-model-3-crash-autopilot-katy-texas.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-06-22 22:18 UTC",
-          "analysis_zh": "特斯拉的Model 3在德克萨斯州撞入一所住宅，导致一名76岁老人遇难，这一事件引发了联邦调查。事故发生时，驾驶员迈克尔·巴特勒表示他正在使用特斯拉的部分自动驾驶系统。这起事件的重要性在于，它可能会对特斯拉的自动驾驶技术的安全性和监管产生重大影响，进一步引发公众和监管机构对自动驾驶汽车的关注与讨论。",
-          "analysis_en": "A Tesla Model 3 crashed into a home in Texas, resulting in the death of a 76-year-old man, prompting a federal investigation. The driver, Michael Butler, reported that he was using Tesla's partially automated driving systems at the time of the incident. This event is significant as it may have major implications for the safety and regulation of Tesla's autonomous driving technology, raising further public and regulatory scrutiny regarding self-driving vehicles."
-        },
-        {
-          "rank": 3,
-          "title": "A 40% market crash is lurking in the IPO pipeline. SpaceX and OpenAI could trigger it.",
-          "link": "https://www.marketwatch.com/story/a-40-market-crash-is-lurking-in-the-ipo-pipeline-spacex-and-openai-could-trigger-it-64ae4026?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-06-22 22:18 UTC",
-          "analysis_zh": "近期有分析指出，美国首次公开募股（IPO）市场可能面临40%的崩盘风险，尤其是像SpaceX和OpenAI这样的公司可能会引发这一危机。这一现象令人担忧，因为历史上，美国股市在1929年和2000年都经历过类似的崩盘。这样的市场波动不仅会影响投资者的信心，还可能对整个经济产生连锁反应，导致更多企业推迟上市或融资计划。",
-          "analysis_en": "Recent analyses suggest that the U.S. initial public offering (IPO) market could be facing a 40% crash risk, particularly with companies like SpaceX and OpenAI potentially triggering this crisis. This situation is concerning as history shows that the U.S. stock market experienced similar crashes in 1929 and 2000. Such market volatility could undermine investor confidence and may lead to broader economic repercussions, causing more companies to delay their IPOs or financing plans."
-        },
-        {
-          "rank": 4,
-          "title": "China’s weird new economic spark: toy elves and robocops",
-          "link": "https://www.marketwatch.com/story/chinas-new-economic-drivers-a-sad-toy-elf-and-a-robot-police-force-8759daf9?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-06-22 22:14 UTC",
-          "analysis_zh": "最近，中国年轻人的消费趋势发生了显著变化，他们不再追求奢侈品，而是更倾向于购买能够带来情感共鸣的产品，如玩具精灵和机器人警察。这一现象反映了年轻一代对物质消费的重新审视，强调了情感体验的重要性。这种转变可能会影响市场的消费结构，促使品牌更加关注情感营销和创新产品的开发。",
-          "analysis_en": "Recently, there has been a significant shift in the consumption trends among young Chinese consumers, who are moving away from luxury status symbols and instead opting for products that evoke emotional responses, such as toy elves and robocops. This phenomenon highlights a reevaluation of material consumption by the younger generation, emphasizing the importance of emotional experiences. This change could impact the market's consumption structure, prompting brands to focus more on emotional marketing and the development of innovative products."
-        },
-        {
-          "rank": 5,
-          "title": "US opens probe into fatal Tesla crash into Texas home",
-          "link": "https://www.investing.com/news/stock-market-news/us-opens-probe-into-fatal-tesla-crash-into-texas-home-4753604",
-          "source": "Stock Market News",
-          "published_utc": "2026-06-22 22:13 UTC",
-          "analysis_zh": "美国正在对一起特斯拉汽车撞击德克萨斯州住宅并导致人员伤亡的事件展开调查。这起事故引发了公众对自动驾驶技术安全性的广泛关注，尤其是在特斯拉等公司不断推广其自动驾驶功能的背景下。此事件可能会影响消费者对电动车的信心，也可能促使监管机构加强对自动驾驶汽车的审查和监管。",
-          "analysis_en": "The U.S. is launching an investigation into a fatal incident involving a Tesla vehicle crashing into a Texas home. This accident has raised significant public concern regarding the safety of autonomous driving technology, particularly as companies like Tesla continue to promote their self-driving features. The incident could impact consumer confidence in electric vehicles and may lead regulatory bodies to impose stricter oversight and regulations on autonomous cars."
-        },
-        {
-          "rank": 6,
-          "title": "US NTSB opens probe into near-miss between American, Delta jets at Boston airport",
-          "link": "https://www.investing.com/news/stock-market-news/us-ntsb-opens-probe-into-nearmiss-between-american-delta-jets-at-boston-airport-4754230",
-          "source": "Stock Market News",
-          "published_utc": "2026-06-22 22:06 UTC",
-          "analysis_zh": "美国国家运输安全委员会（NTSB）近日对波士顿机场发生的美国航空和达美航空两架飞机的近失事件展开调查。这一事件引发了广泛关注，因为它涉及到航空安全和乘客的生命安全。调查结果可能会影响未来的航空运营规章和安全措施，确保类似事件不再发生。",
-          "analysis_en": "The U.S. National Transportation Safety Board (NTSB) has launched an investigation into a near-miss incident involving American Airlines and Delta Airlines jets at Boston airport. This event has garnered significant attention as it pertains to aviation safety and passenger security. The findings of this investigation could influence future aviation regulations and safety protocols, aiming to prevent similar incidents from occurring."
-        },
-        {
-          "rank": 7,
-          "title": "Qualcomm nearing deal for AI chip startup Modular, Bloomberg News reports",
-          "link": "https://www.investing.com/news/stock-market-news/qualcomm-nearing-deal-for-ai-chip-startup-modular-bloomberg-news-reports-4754243",
-          "source": "Stock Market News",
-          "published_utc": "2026-06-22 22:06 UTC",
-          "analysis_zh": "据彭博社报道，高通正在接近收购人工智能芯片初创公司Modular。这一交易如果达成，将进一步巩固高通在快速发展的人工智能领域的地位。随着AI技术的广泛应用，投资这样的初创公司不仅能增强高通的技术实力，还可能对其未来的产品线和市场竞争力产生深远影响。",
-          "analysis_en": "According to Bloomberg News, Qualcomm is nearing a deal to acquire the AI chip startup Modular. If this transaction goes through, it will further solidify Qualcomm's position in the rapidly growing AI sector. As AI technology becomes more widely adopted, investing in such startups can not only enhance Qualcomm's technological capabilities but also have a significant impact on its future product lines and market competitiveness."
-        },
-        {
-          "rank": 8,
-          "title": "Wall Street loves growth stocks — but these 10 ‘losers’ are primed to win",
-          "link": "https://www.marketwatch.com/story/wall-street-loves-growth-stocks-but-these-10-losers-are-primed-to-win-0202e491?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-06-22 22:05 UTC",
-          "analysis_zh": "华尔街对成长股的热情依旧高涨，但一些被市场忽视的价值股却可能迎来反弹。特斯拉首席执行官埃隆·马斯克对SpaceX的1万亿美元预测被认为不太可能实现，这使得一些投资者开始关注那些被低估的股票。这样的趋势表明，市场可能会出现转变，投资者开始重新评估风险和收益的平衡。这不仅可能影响投资者的决策，还可能改变整个市场的投资风向。",
-          "analysis_en": "Wall Street continues to show enthusiasm for growth stocks, but some overlooked value stocks may be poised for a comeback. Elon Musk's prediction of a $1 trillion valuation for SpaceX is considered unlikely, prompting some investors to focus on undervalued stocks instead. This trend suggests a potential shift in the market as investors reassess the balance of risk and reward. Such changes could influence investor decisions and alter the overall investment landscape."
-        },
-        {
-          "rank": 9,
-          "title": "Ambitious Entertainment files for $20m IPO to fund content",
-          "link": "https://www.investing.com/news/stock-market-news/ambitious-entertainment-files-for-20m-ipo-to-fund-content-93CH-4754214",
-          "source": "Stock Market News",
-          "published_utc": "2026-06-22 21:56 UTC",
-          "analysis_zh": "雄心勃勃的娱乐公司申请了2000万美元的首次公开募股（IPO），以筹集资金用于内容创作。这一举动表明，该公司希望扩大其在竞争激烈的娱乐市场中的影响力。成功上市将为其提供更多资源，帮助其开发新项目和吸引观众。此举不仅对公司的未来发展至关重要，也可能影响整个行业的投资趋势。",
-          "analysis_en": "Ambitious Entertainment has filed for a $20 million initial public offering (IPO) to raise funds for content creation. This move indicates the company's desire to enhance its influence in the highly competitive entertainment market. A successful listing would provide them with additional resources to develop new projects and attract audiences. This initiative is crucial for the company's future growth and may also impact investment trends across the industry."
-        },
-        {
-          "rank": 10,
-          "title": "Solar manufacturing group seeks US trade probe of Korea cell imports",
-          "link": "https://www.investing.com/news/stock-market-news/solar-manufacturing-group-seeks-us-tariff-probe-into-korean-imports-4754078",
-          "source": "Stock Market News",
-          "published_utc": "2026-06-22 21:54 UTC",
-          "analysis_zh": "一家太阳能制造集团向美国政府申请对韩国太阳能电池进口进行贸易调查。这一举动可能会影响美国与韩国之间的贸易关系，尤其是在可再生能源领域。该集团认为，韩国的低价产品对美国市场造成了不公平竞争，可能会影响国内制造商的发展。若调查结果支持该集团的主张，可能会导致对韩国进口产品的关税增加，从而改变市场格局。",
-          "analysis_en": "A solar manufacturing group has requested the U.S. government to initiate a trade probe into imports of solar cells from South Korea. This move could impact trade relations between the U.S. and South Korea, particularly in the renewable energy sector. The group argues that the low-priced products from South Korea create unfair competition in the U.S. market, potentially hindering the growth of domestic manufacturers. If the investigation supports the group's claims, it could lead to increased tariffs on imports from South Korea, thereby altering the market landscape."
+          "analysis_zh": "近期，科技巨头如谷歌和微软在人工智能领域形成了两大阵营。尽管市场上对新兴企业如OpenAI的关注度很高，但投资者更倾向于选择这些成熟公司的股票。这一趋势表明，投资者对稳定性和安全性的需求日益增加，尤其是在快速变化的科技环境中。这可能会影响未来的投资决策，使得更多资金流向那些已经建立起强大基础的公司。",
+          "analysis_en": "Recently, tech giants like Alphabet and Microsoft have split into two main camps in the artificial intelligence sector. While there is significant interest in emerging companies like OpenAI, investors are increasingly favoring stocks of these established firms. This trend indicates a growing demand for stability and safety among investors, especially in the rapidly evolving tech landscape. It may influence future investment decisions, leading more capital to flow towards companies that have already built a strong foundation."
         }
       ]
     },
@@ -114,8 +114,8 @@
           "link": "https://www.nytimes.com/2026/06/22/health/artificial-intelligence-heart-damage.html",
           "source": "NYT > Health",
           "published_utc": "2026-06-22 21:00 UTC",
-          "analysis_zh": "最近，一项人工智能程序被开发出来，能够识别心电图中人类容易忽视的模式。许多医生最初将某些症状误诊为哮喘，但该程序能够及时发现潜在的严重心脏问题。这一进展非常重要，因为它可能会改善早期诊断和患者的治疗效果。此外，这个程序将免费提供给医生，预计将对医疗行业产生深远影响。",
-          "analysis_en": "Recently, an artificial intelligence program was developed that can identify patterns in electrocardiograms that humans often overlook. Many doctors initially misdiagnosed certain symptoms as asthma, but this program can promptly detect potential serious heart issues. This advancement is significant as it may improve early diagnosis and treatment outcomes for patients. Furthermore, the program will be made available to doctors for free, which is expected to have a profound impact on the healthcare industry."
+          "analysis_zh": "最近，一种人工智能程序能够识别心电图中人类无法察觉的模式，帮助医生发现潜在的严重心脏问题。此程序即将免费向医生广泛提供，这一举措可能会显著提高早期诊断的准确性。通过利用人工智能，医生能够更快地识别患者的健康风险，从而改善治疗效果并降低医疗成本。",
+          "analysis_en": "Recently, an artificial intelligence program has been developed that can identify patterns in electrocardiograms that human doctors often miss, helping to detect serious heart issues. This program will soon be made widely available for free to doctors, which could significantly enhance the accuracy of early diagnoses. By leveraging AI, physicians can more quickly recognize health risks in patients, potentially improving treatment outcomes and reducing healthcare costs."
         },
         {
           "rank": 2,
@@ -123,8 +123,8 @@
           "link": "https://www.nytimes.com/2026/06/22/health/cystic-fibrosis-drug-triko-trikafta.html",
           "source": "NYT > Health",
           "published_utc": "2026-06-22 20:07 UTC",
-          "analysis_zh": "近日，一种在孟加拉国生产的突破性囊性纤维化药物的仿制版问世，其价格仅为美国的几分之一。这一消息对许多囊性纤维化患者及其家庭来说，无疑是一个意外的福音。由于高昂的药物费用，许多患者无法获得所需的治疗，而这一仿制药的出现可能会改变他们的生活。此举不仅能减轻患者的经济负担，还可能推动全球对药物可及性和公平性的讨论。",
-          "analysis_en": "Recently, a generic version of a breakthrough cystic fibrosis drug has been released, manufactured in Bangladesh at a fraction of the cost in the United States. This news is undoubtedly a surprising lifeline for many cystic fibrosis patients and their families. Due to the high cost of medication, many patients have been unable to access the necessary treatment, and the availability of this generic drug could change their lives. This move not only alleviates the financial burden on patients but may also spark discussions about drug accessibility and equity on a global scale."
+          "analysis_zh": "一款在孟加拉国生产的突破性囊性纤维化药物的仿制药，价格仅为美国的几分之一，可能为全球一些家庭带来意想不到的希望。这一药物的出现，不仅为患者提供了更可负担的治疗选择，也可能改变他们的生活质量。随着仿制药的普及，更多患者将能够获得所需的治疗，这对改善公共健康具有重要意义。",
+          "analysis_en": "A generic version of a groundbreaking cystic fibrosis drug, produced in Bangladesh at a fraction of the cost in the U.S., may offer unexpected hope to families around the world. The availability of this medication provides patients with a more affordable treatment option, potentially improving their quality of life. As generic drugs become more accessible, more patients will be able to receive the necessary treatment, which is significant for enhancing public health."
         },
         {
           "rank": 3,
@@ -132,8 +132,8 @@
           "link": "https://www.nytimes.com/2026/06/22/world/asia/pakistan-menstrual-period-tax.html",
           "source": "NYT > Health",
           "published_utc": "2026-06-22 19:43 UTC",
-          "analysis_zh": "巴基斯坦计划降低月经垫的税率，但许多人认为这还远远不够。活动人士指出，只有12%的巴基斯坦女性和女孩使用安全的商业化月经产品，这显示出更广泛的卫生问题。降低税率虽然是一个积极的步骤，但要真正改善女性的健康和生活质量，还需要更多的政策支持和教育宣传。这一政策的实施可能会影响女性的选择，促进她们对安全卫生产品的使用。",
-          "analysis_en": "Pakistan plans to reduce the tax on menstrual pads, but many believe this is insufficient. Activists highlight that only 12% of Pakistani women and girls use safe, commercially produced menstrual products, indicating a larger issue of hygiene. While lowering the tax is a positive step, more policy support and educational outreach are needed to truly enhance women's health and quality of life. The implementation of this policy may influence women's choices and encourage the use of safe hygiene products."
+          "analysis_zh": "巴基斯坦计划削减月经垫的税收，但许多人认为这还远远不够。活动人士指出，只有12%的巴基斯坦女性和女孩使用安全的、商业生产的月经产品，这反映了更广泛的卫生问题。降低税率虽然是一个积极的步骤，但要真正改善女性的健康和卫生状况，还需要采取更多措施。这一政策的实施可能会影响女性的生活质量，促进对月经健康问题的关注。",
+          "analysis_en": "Pakistan plans to reduce taxes on menstrual pads, but many believe this is insufficient. Activists highlight that only 12% of Pakistani women and girls use safe, commercially produced menstrual products, indicating a broader issue of hygiene. While lowering taxes is a positive step, more actions are needed to truly improve women's health and sanitation. The implementation of this policy could affect women's quality of life and raise awareness about menstrual health issues."
         },
         {
           "rank": 4,
@@ -141,8 +141,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260622014313.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-22 12:23 UTC",
-          "analysis_zh": "一项临床试验正在研究高剂量的维生素B3是否能为胶质母细胞瘤患者提供更好的治疗机会。科学家发现，烟酰胺可能有助于恢复被肿瘤抑制的免疫细胞，使其更有效地攻击癌症。早期结果显示，参与试验的患者在无进展生存期方面表现出显著改善，这一发现可能为治疗这种致命脑癌提供新的希望。",
-          "analysis_en": "A clinical trial is investigating whether high doses of vitamin B3 can provide better treatment options for patients with glioblastoma. Researchers found that niacin may help revive immune cells that tumors have suppressed, allowing them to attack cancer more effectively. Early results indicate that patients in the trial are showing significantly improved progression-free survival, which could offer new hope for treating this deadly brain cancer."
+          "analysis_zh": "最近，加拿大卡尔加里大学的研究人员正在进行一项临床试验，探讨高剂量维生素B3（烟酸）是否能提高胶质母细胞瘤患者的治疗效果。研究发现，烟酸可能有助于恢复被肿瘤抑制的免疫细胞，使其能够更有效地攻击癌症。初步结果显示，参与试验的患者无进展生存期显著优于预期，这一发现为治疗这种致命的脑癌带来了新的希望。",
+          "analysis_en": "Recently, researchers at the University of Calgary are conducting a clinical trial to investigate whether high doses of vitamin B3 (niacin) can improve treatment outcomes for patients with glioblastoma. The study found that niacin may help revive immune cells that tumors have shut down, allowing them to attack cancer more effectively. Early results indicate that patients in the trial have significantly better progression-free survival than expected, offering new hope for treating this deadly brain cancer."
         },
         {
           "rank": 5,
@@ -150,8 +150,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260622014302.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-22 10:30 UTC",
-          "analysis_zh": "科学家发现，赫利科尼乌斯蝴蝶的寿命显著延长，远超其近亲物种，甚至有些个体在衰老过程中几乎没有明显的身体退化。这一发现不仅揭示了蝴蝶在进化过程中可能采用了独特的延长寿命策略，还可能为研究人类的衰老机制提供新的线索。这项研究的重要性在于，它可能帮助科学家理解如何减缓衰老过程，从而促进健康老龄化。",
-          "analysis_en": "Scientists have discovered that Heliconius butterflies have an extraordinary lifespan, living significantly longer than closely related species, with some showing little to no physical decline as they age. This finding not only reveals a unique evolutionary strategy for extending lifespan in these butterflies but may also provide new insights into the aging process in humans. The significance of this research lies in its potential to help scientists understand how to slow down aging, thereby promoting healthier aging in people."
+          "analysis_zh": "科学家发现，赫利科尼乌斯蝴蝶的寿命极为惊人，远超其近亲物种，甚至有些个体在老化过程中几乎没有明显的身体衰退。这项研究揭示了这些蝴蝶独特的花粉摄食生活方式可能在延缓衰老方面发挥了重要作用。了解赫利科尼乌斯蝴蝶的长寿机制，可能为人类的健康和长寿研究提供新的线索，进而影响我们对衰老过程的理解和应对策略。",
+          "analysis_en": "Scientists have discovered that Heliconius butterflies possess an extraordinary lifespan, living significantly longer than closely related species, with some showing almost no signs of physical decline as they age. This research indicates that their unique pollen-feeding lifestyle may play a crucial role in their longevity. Understanding the mechanisms behind the long lifespan of Heliconius butterflies could provide new insights into human health and longevity, potentially influencing our approaches to aging and health management."
         },
         {
           "rank": 6,
@@ -159,8 +159,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260622014257.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-22 06:30 UTC",
-          "analysis_zh": "埃博拉病毒和汉坦病毒近期再次引起公众关注，这两种危险病毒的潜在威胁提醒卫生官员传染病可能迅速演变为严重问题。汉坦病毒通常与啮齿动物有关，能够引发严重的心肺并发症，目前尚无特效治疗或疫苗，而某些毒株甚至可以在人与人之间传播。埃博拉病毒仍然是全球最令人畏惧的疾病之一，某些疫情的致死率可高达一半，尽管疫苗和抗病毒药物在改善某些毒株的预后方面已有所进展。这些病毒的复发可能会影响公共卫生政策和疾病预防措施，尤其是在面对新发传染病的背景下。",
-          "analysis_en": "Ebola and hantavirus have recently come back into the spotlight, highlighting the rapid evolution of infectious diseases into serious public health threats. Hantavirus, often associated with rodents, can lead to severe heart and lung complications and currently lacks specific treatments or vaccines, with some strains capable of human transmission. Ebola remains one of the most feared diseases globally, with certain outbreaks having a mortality rate of up to 50%, although vaccines and antivirals have improved outcomes for some strains. The resurgence of these viruses may influence public health policies and disease prevention strategies, especially in the context of emerging infectious diseases."
+          "analysis_zh": "埃博拉病毒和汉坦病毒最近再次引起公众关注，因为它们对公共健康构成了严重威胁。这两种病毒的症状起初可能与流感相似，但它们的潜在致命性使得迅速采取行动至关重要。汉坦病毒通常与啮齿动物有关，可能导致严重的心肺并发症，目前尚无特定的治疗方法或疫苗，而某些变种甚至可以在人与人之间传播。埃博拉病毒则是全球最令人畏惧的疾病之一，某些疫情的致死率可高达50%。了解这些病毒的特性和传播方式，对于医疗专业人员和公众都至关重要。",
+          "analysis_en": "Ebola and hantavirus have recently come back into the spotlight due to the serious threats they pose to public health. Both viruses can initially present with flu-like symptoms, but their potential lethality makes swift action crucial. Hantavirus, often associated with rodents, can lead to severe heart and lung complications, and there is currently no specific treatment or vaccine available, with some strains even capable of human-to-human transmission. Ebola remains one of the most feared diseases globally, with certain outbreaks having a mortality rate as high as 50%. Understanding the characteristics and transmission methods of these viruses is essential for healthcare professionals and the public alike."
         },
         {
           "rank": 7,
@@ -168,8 +168,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260621060318.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-22 00:25 UTC",
-          "analysis_zh": "研究人员发现，棕榈酸这种常见的饱和脂肪可能会促进胰岛素抵抗和2型糖尿病的发展，因为它会引发炎症、毒性脂肪积累和细胞压力。相反，橄榄油中丰富的油酸则有助于保护胰岛素功能，甚至可能抵消棕榈酸的一些有害影响。这一发现对公共健康具有重要意义，因为它提示人们在饮食中选择健康脂肪的重要性，可能会影响未来的营养建议和糖尿病预防策略。",
-          "analysis_en": "Researchers have found that palmitic acid, a common saturated fat, may contribute to insulin resistance and the development of type 2 diabetes by triggering inflammation, toxic fat accumulation, and cellular stress. In contrast, oleic acid, abundant in olive oil, appears to help protect insulin function and may counter some of the harmful effects of palmitic acid. This finding is significant for public health as it emphasizes the importance of choosing healthy fats in our diets, which could influence future nutritional guidelines and diabetes prevention strategies."
+          "analysis_zh": "研究人员发现，不同类型的脂肪对身体的影响大相径庭。饱和脂肪酸棕榈酸可能会通过引发炎症、毒性脂肪积累和细胞压力，导致胰岛素抵抗和2型糖尿病的发生。而与之相对，橄榄油中丰富的单不饱和脂肪酸油酸则有助于保护胰岛素功能，甚至可能抵消棕榈酸的一些有害影响。这项研究的重要性在于，它强调了脂肪类型的选择可能比摄入总量更为关键，从而为预防和管理糖尿病提供了新的视角。",
+          "analysis_en": "Researchers have discovered that different types of fats have varying effects on the body. Palmitic acid, a saturated fat, may contribute to insulin resistance and type 2 diabetes by triggering inflammation, toxic fat accumulation, and cellular stress. In contrast, oleic acid, abundant in olive oil, appears to help protect insulin function and may counteract some of the harmful effects of palmitic acid. This study is significant as it highlights that the type of fat consumed may be more crucial than the total amount, offering new insights for the prevention and management of diabetes."
         }
       ]
     },
@@ -183,8 +183,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260622014313.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-06-22 12:23 UTC",
-          "analysis_zh": "最近，加拿大卡尔加里大学的研究人员正在进行一项临床试验，探讨高剂量的维生素B3（烟酸）是否能帮助胶质母细胞瘤患者提高与这种侵袭性脑癌的抗争能力。研究表明，烟酸可能有助于恢复被肿瘤抑制的免疫细胞，从而增强它们对癌症的攻击能力。初步结果显示，参与试验的患者在无进展生存期方面表现出显著改善，这一发现可能为胶质母细胞瘤的治疗带来新的希望。",
-          "analysis_en": "Recently, researchers at the University of Calgary have been conducting a clinical trial to investigate whether high doses of vitamin B3 (niacin) can help patients with glioblastoma improve their chances against this aggressive brain cancer. The study suggests that niacin may help revive immune cells that tumors shut down, enhancing their ability to attack cancer. Early results indicate that patients in the trial are showing significantly better progression-free survival, which could bring new hope for the treatment of glioblastoma."
+          "analysis_zh": "一项临床试验正在研究高剂量维生素B3是否能提高胶质母细胞瘤患者对这种侵袭性脑癌的抵抗力。科学家发现，烟酰胺可能有助于恢复被肿瘤抑制的免疫细胞，使其更有效地攻击癌细胞。初步结果显示，参与试验的患者在无进展生存期方面表现出显著改善，这一发现对胶质母细胞瘤的治疗具有重要意义，可能为患者提供新的治疗选择。",
+          "analysis_en": "A clinical trial is investigating whether high doses of vitamin B3 can enhance the ability of glioblastoma patients to fight this aggressive brain cancer. Researchers found that niacin may help revive immune cells that tumors have shut down, allowing them to attack cancer more effectively. Early results indicate that patients in the trial have shown significantly better progression-free survival, which is significant for the treatment of glioblastoma and may provide new options for patients."
         },
         {
           "rank": 2,
@@ -192,8 +192,8 @@
           "link": "https://aeon.co/videos/memories-of-a-childhood-in-tehran-form-a-celebration-of-iranian-women",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-06-22 10:01 UTC",
-          "analysis_zh": "这部动画短片通过回忆讲述了作者在伊朗童年的故事，特别是她祖母的经历。影片探讨了失去、爱与友谊的主题，展现了这些情感如何在家庭和文化中传承。这样的故事不仅让观众感受到深厚的情感联系，也引发对家庭历史和文化根源的思考。",
-          "analysis_en": "This animated short film recounts the author's childhood memories in Iran, focusing on her grandmother's experiences. It explores themes of loss, love, and friendship, illustrating how these emotions are passed down through family and culture. Such stories not only evoke deep emotional connections for the audience but also provoke reflections on family history and cultural roots."
+          "analysis_zh": "这部动画作品通过回忆作者在伊朗的童年，讲述了她祖母关于失去、爱与友谊的故事。这不仅是对个人记忆的追溯，也反映了更广泛的文化和情感主题。这样的故事能够引发观众对家庭关系和人际情感的思考，尤其是在面对失去时的脆弱与坚韧。这种情感的共鸣可能会影响观众对自身经历的理解与反思。",
+          "analysis_en": "This animated piece recalls the author's childhood memories in Iran, telling her grandmother's story of loss, love, and friendship. It serves not only as a personal reflection but also highlights broader cultural and emotional themes. Such narratives can provoke viewers to contemplate family relationships and interpersonal emotions, particularly the fragility and resilience encountered in the face of loss. This emotional resonance may influence how audiences understand and reflect on their own experiences."
         },
         {
           "rank": 3,
@@ -201,8 +201,8 @@
           "link": "https://aeon.co/essays/zhuangzi-and-the-case-against-meritocracy",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-06-22 10:00 UTC",
-          "analysis_zh": "成功是应得的这一观念在社会上广泛流传，但庄子认为这是一个根本错误的想法。庄子强调，个人的成就往往受到多种外部因素的影响，而不仅仅是个人的努力。这一观点挑战了自我造就的神话，促使人们重新思考成功的本质及其背后的社会结构。这可能会影响人们对成功的看法，鼓励更广泛的社会支持和理解。",
-          "analysis_en": "The belief that success is deserved is widely accepted in society, but Zhuangzi argues that this notion is fundamentally flawed. He emphasizes that individual achievements are often influenced by various external factors, not just personal effort. This perspective challenges the myth of self-made success and encourages a reevaluation of the nature of achievement and the underlying social structures. It may influence how people view success, fostering broader social support and understanding."
+          "analysis_zh": "在当今社会，成功常常被视为个人努力的结果，许多人相信“自我成就”的理念。然而，庄子对此提出了质疑，认为这种看法存在根本性的缺陷。他强调，成功并非单靠个人的努力，而是受到多种外部因素的影响。这一观点促使我们重新思考成功的定义，并可能影响我们对个人成就和社会责任的看法。",
+          "analysis_en": "In today's society, success is often seen as a result of individual effort, and many people subscribe to the idea of being \"self-made.\" However, Zhuangzi challenges this notion, arguing that it is fundamentally flawed. He emphasizes that success is influenced by various external factors, not just personal effort. This perspective encourages us to rethink the definition of success and may affect our views on personal achievement and social responsibility."
         }
       ]
     },
@@ -212,93 +212,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "Tesla Crash That Killed a Texas Woman Will be Investigated by Federal Regulators",
+          "link": "https://www.nytimes.com/2026/06/22/business/tesla-texas-autopilot-crash-nhtsa.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-06-22 22:53 UTC",
+          "analysis_zh": "德克萨斯州的一起特斯拉汽车事故导致一名女性遇难，联邦监管机构将对此事件展开调查。警方表示，事故发生时汽车的驾驶辅助系统正在使用。这一事件引发了公众对自动驾驶技术安全性的广泛关注，尤其是在涉及人身伤亡的情况下。调查结果可能会影响特斯拉及其他自动驾驶汽车制造商的未来监管政策和技术发展方向。",
+          "analysis_en": "A Tesla crash in Texas resulted in the death of a woman, prompting federal regulators to launch an investigation into the incident. Police reported that the car's driver-assistance system was active at the time of the crash. This incident has raised significant public concern regarding the safety of autonomous driving technology, especially when it involves fatalities. The findings of the investigation could influence future regulatory policies and the technological development of Tesla and other autonomous vehicle manufacturers."
+        },
+        {
+          "rank": 2,
           "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
           "link": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
           "source": "Feed: Artificial Intelligence Latest",
           "published_utc": "2026-06-22 21:08 UTC",
-          "analysis_zh": "Meta公司暂停了其员工追踪程序，此举是因为该计划内部暴露了潜在的敏感数据。这一决定凸显了公司在数据安全和隐私保护方面的责任。此次事件可能会影响员工的信任度，并引发对公司数据管理政策的重新审视。",
-          "analysis_en": "Meta has paused its employee-tracking program after potentially sensitive data from the initiative was exposed internally. This decision highlights the company's responsibility regarding data security and privacy protection. The incident may affect employee trust and prompt a reevaluation of the company's data management policies."
+          "analysis_zh": "Meta公司因内部数据泄露而暂停了员工追踪计划。此次事件的发生是由于该公司在内部暴露了可能敏感的数据，这引发了对员工隐私的担忧。暂停该计划不仅显示了Meta对数据安全的重视，也可能影响其员工的信任度和工作氛围。未来，Meta需要更加谨慎地处理员工数据，以避免类似事件的再次发生。",
+          "analysis_en": "Meta has paused its employee-tracking program following an internal data leak. This incident occurred when potentially sensitive data was exposed within the company, raising concerns about employee privacy. The suspension of the program not only reflects Meta's commitment to data security but may also impact employee trust and workplace morale. Moving forward, Meta will need to handle employee data more carefully to prevent similar incidents from happening again."
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Valve describes just how brutal RAM negotiations are in 2026",
           "link": "https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis",
           "source": "The Verge",
           "published_utc": "2026-06-22 21:07 UTC",
-          "analysis_zh": "Valve的Steam Machine终于公布了价格：512GB版本售价高达1049美元，2TB版本则为1349美元，而这些价格并不包括控制器，实际成本更高。价格之所以如此高，部分原因在于Valve并没有对硬件进行补贴，同时公司也表示，组件危机迫使其重新考虑最初的定价计划。在与YouTube频道Gamers Nexus的采访中，Valve工程师讨论了2026年获取内存的现实，价格由少数供应商如三星、美光和SK海力士决定，且供应紧张，几乎没有谈判余地。这一情况不仅影响了Valve的定价策略，也可能对整个游戏硬件市场产生深远影响。",
-          "analysis_en": "Valve has finally announced the price of its Steam Machine: a staggering $1,049 for the 512GB version and $1,349 for the 2TB version, excluding controllers which further increase the cost. The high prices are partly due to Valve not subsidizing the hardware, and the company has indicated that the ongoing component crisis has forced it to rethink its initial pricing plans. In an interview with the YouTube channel Gamers Nexus, Valve engineers discussed the challenges of sourcing RAM in 2026, where prices are dictated by a few suppliers like Samsung, Micron, and SK Hynix, with little room for negotiation. This situation not only affects Valve's pricing strategy but may also have significant implications for the entire gaming hardware market."
+          "analysis_zh": "Valve 的 Steam Machine 终于公布了价格，512GB 配置为 1,049 美元，2TB 版本则高达 1,349 美元，这些价格并不包括控制器。价格之所以如此高，部分原因在于 Valve 并没有对硬件进行补贴，而公司也已表示，组件危机迫使其重新考虑最初的定价计划。在与 YouTube 频道 Gamers Nexus 的采访中，Valve 的工程师讨论了在 2026 年获取内存的艰难现实，内存和其他组件仍然短缺，且供应商如三星、美光和 SK 海力士的价格几乎是“要么接受要么放弃”。",
+          "analysis_en": "Valve's Steam Machine has finally revealed its pricing, with the 512GB configuration costing $1,049 and the 2TB version priced at $1,349, excluding controllers. The high prices are partly due to Valve not subsidizing the hardware, and the company has indicated that the component crisis has forced it to rethink its initial pricing strategy. In an interview with the YouTube channel Gamers Nexus, Valve engineers discussed the challenging reality of sourcing RAM in 2026, where memory and other components remain in short supply, with prices dictated by a few suppliers like Samsung, Micron, and SK Hynix, often leaving them with a take-it-or-leave-it situation."
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
           "link": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/",
           "source": "Feed: Artificial Intelligence Latest",
           "published_utc": "2026-06-22 20:28 UTC",
-          "analysis_zh": "Meta公司内部曝光了其备受争议的员工追踪程序的数据，该程序涉及收集员工的击键数据以训练人工智能模型。员工们之前曾对此项目表示担忧，认为这种做法侵犯了他们的隐私权。此事件引发了对企业监控技术的广泛讨论，可能会影响公众对科技公司在员工管理中使用数据的信任度。",
-          "analysis_en": "Meta has internally exposed data from its controversial employee-tracking program, which involves collecting keystroke data from workers to train AI models. Employees had previously raised concerns about this initiative, arguing that it infringes on their privacy rights. This incident has sparked widespread discussions about corporate surveillance technology and may affect public trust in how tech companies use data in employee management."
+          "analysis_zh": "Meta公司内部曝光了其备受争议的员工追踪程序的数据，该程序通过收集员工的击键数据来训练人工智能模型。此前，员工们已对这一计划表示担忧，认为这侵犯了他们的隐私权。此事件引发了对企业监控技术的广泛讨论，可能会导致更多公司重新审视其数据收集和使用政策，尤其是在员工隐私保护方面。",
+          "analysis_en": "Meta has internally exposed data from its controversial employee-tracking program, which collects workers' keystroke data to train AI models. Employees had previously raised concerns about this initiative, arguing that it infringes on their privacy rights. This incident has sparked widespread discussion about corporate surveillance technologies and may prompt other companies to reevaluate their data collection and usage policies, particularly regarding employee privacy protection."
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "AI is cursing renters with the promise of impossible homes",
           "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
           "source": "The Verge",
           "published_utc": "2026-06-22 20:00 UTC",
-          "analysis_zh": "近期，一位名叫乔伊斯的纽约本地人分享了她寻找第一套独立公寓的经历。尽管她对寻找公寓的艰难有所预期，但没想到会如此痛苦。在经历了一系列狭小且价格过高的房源后，她终于找到了心仪的曼哈顿公寓。然而，当她亲自去看时，发现公寓与照片中的完全不同，空间更小，设施也不齐全。这一现象反映了人工智能在房地产市场中的应用可能导致的误导，给租客带来了不必要的困扰。",
-          "analysis_en": "Recently, a New Yorker named Joyce shared her experience of searching for her first solo apartment. While she anticipated the difficulty of finding a place, she didn't expect it to be such a nightmare. After looking at numerous tiny and overpriced listings, she finally found her dream studio in Manhattan. However, upon visiting, she discovered that the apartment was completely different from the photos—much smaller and lacking essential features. This situation highlights how the use of artificial intelligence in the real estate market can mislead renters, causing unnecessary frustration."
+          "analysis_zh": "最近，一位名叫乔伊斯的纽约本地人分享了她在寻找第一套独立公寓时的艰辛经历。尽管她希望能找到合适的住所，但她却遭遇了许多小而昂贵的公寓，甚至形容它们为“垃圾堆”。最终，她找到了一套价格合理的曼哈顿公寓，但在实地查看时却发现与照片中的大相径庭，房间更小，设施也不全。这一现象反映了人工智能在房地产市场中的虚假宣传，可能会让租客面临更多失望和困扰。",
+          "analysis_en": "Recently, a native New Yorker named Joyce shared her struggles in finding her first solo apartment. Although she hoped to find a suitable place, she encountered many small and overpriced apartments, even describing them as \"shitholes.\" Ultimately, she found a reasonably priced studio in Manhattan, but upon visiting, she discovered it was drastically different from the photos—much smaller and lacking essential features. This phenomenon highlights the misleading representation of properties through artificial intelligence in the real estate market, which could lead to increased disappointment and frustration for renters."
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
           "link": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
           "source": "Biz & IT - Ars Technica",
           "published_utc": "2026-06-22 19:16 UTC",
-          "analysis_zh": "AMD 在用户强烈反对后，决定在其消费级 CPU 中恢复内存加密功能。这一举措引发了广泛关注，因为许多用户认为 AMD 之前的决定是为了推动他们购买更昂贵的芯片。恢复内存加密不仅可以增强数据安全性，还可能影响消费者对 AMD 产品的信任度和市场竞争力。此举也可能促使其他芯片制造商重新考虑他们的安全策略，以满足用户的需求。",
-          "analysis_en": "AMD has decided to reinstate memory encryption in its consumer CPUs following significant user backlash. This move has garnered considerable attention, as many users perceived the company's earlier decision as a tactic to push them towards more expensive chips. Restoring memory encryption will not only enhance data security but may also affect consumer trust in AMD's products and its competitiveness in the market. Additionally, this decision could prompt other chip manufacturers to reevaluate their security strategies to better meet user demands."
+          "analysis_zh": "AMD在用户强烈反对后，决定在其消费级CPU中恢复内存加密功能。这一变化引发了广泛关注，因为许多用户认为AMD之前的决定是为了推动更昂贵的芯片销售。内存加密的恢复不仅提升了用户数据的安全性，也可能影响AMD在市场上的竞争力，尤其是在与其他芯片制造商的对比中。此举显示了AMD对消费者反馈的重视，可能会增强用户对品牌的信任。",
+          "analysis_en": "AMD has reinstated memory encryption in its consumer CPUs following significant user backlash. This decision has garnered attention as many users perceived the previous removal of this feature as a tactic to push them towards more expensive chips. The restoration of memory encryption not only enhances the security of user data but may also impact AMD's competitiveness in the market, particularly in comparison to other chip manufacturers. This move demonstrates AMD's responsiveness to consumer feedback, which could strengthen user trust in the brand."
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "The Apple Watch SE 3 is just $199 for Prime Day",
           "link": "https://www.theverge.com/gadgets/953458/apple-watch-se-3-prime-day-deal-sale",
           "source": "The Verge",
           "published_utc": "2026-06-22 18:00 UTC",
-          "analysis_zh": "苹果手表 SE 3 在亚马逊的 Prime Day 促销中降至历史最低价 199 美元，这使得去年的热门产品更具性价比。与系列 11 和 Ultra 3 的小幅更新不同，SE 3 进行了全面升级，增加了常显屏幕、双击和手腕轻弹等手势功能，以及其他多项新特性。这一价格变化不仅吸引了更多消费者，也可能影响未来的销售趋势，尤其是在即将推出的新款手表面前。",
-          "analysis_en": "The Apple Watch SE 3 is now available for an all-time low price of $199 during Amazon's Prime Day, making last year's popular model an even better deal. Unlike the incremental updates seen in the Series 11 and Ultra 3, the SE 3 features a comprehensive upgrade with an always-on display, gesture controls like double tap and wrist flick, among other enhancements. This price drop is likely to attract more consumers and could influence future sales trends, especially with new models expected to launch soon."
+          "analysis_zh": "苹果手表SE 3在亚马逊的Prime Day活动中降至199美元，创下历史新低。这款手表在去年的升级中表现出色，增加了常亮显示、双击和手腕轻弹等手势功能，以及温度传感器和5G连接等新特性。这一价格使得这款手表的性价比更高，吸引了更多消费者的关注。随着技术的不断进步，消费者在选择智能手表时将面临更多选择，而这也可能影响其他品牌的市场策略。",
+          "analysis_en": "The Apple Watch SE 3 has dropped to an all-time low of $199 during Amazon's Prime Day event. This model stood out last year with significant upgrades, including an always-on display, gesture controls like double tap and wrist flick, as well as features like a temperature sensor and 5G connectivity. This price point enhances its value, attracting more consumer interest. As technology continues to evolve, consumers will have more options when choosing smartwatches, which may influence the market strategies of other brands."
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "The Steam Machine is the start of an even more expensive future for game consoles",
           "link": "https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix",
           "source": "The Verge",
           "published_utc": "2026-06-22 18:00 UTC",
-          "analysis_zh": "近日，Valve发布了Steam Machine，起售价超过1000美元。这一价格的公布引发了对未来游戏主机的担忧，尤其是像PS6和Project Helix这样的产品。游戏主机和PC组件的价格普遍上涨，主要原因是全球内存短缺，这对游戏行业产生了深远的影响。随着游戏设备价格的不断攀升，玩家可能面临更高的消费压力，未来的游戏体验也可能受到限制。",
-          "analysis_en": "Recently, Valve announced the Steam Machine, which starts at over $1,000. This price has raised concerns about the future of gaming consoles, particularly for products like the PS6 and Project Helix. The rising costs of game consoles and PC components are largely due to a global RAM shortage, which has had a significant impact on the gaming industry. As the prices of gaming devices continue to rise, players may face increased financial pressure, potentially limiting their gaming experiences in the future."
+          "analysis_zh": "随着全球内存短缺的影响，视频游戏的各个方面都在不断变得更加昂贵。Valve推出的Steam Machine起售价超过1000美元，这为未来的游戏主机如PS6和Project Helix敲响了警钟。这一价格上涨不仅反映了硬件成本的增加，也可能导致玩家在选择游戏设备时面临更大的经济压力。随着游戏主机价格的不断攀升，未来的游戏市场可能会变得更加小众化，只有少数玩家能够负担得起高端设备。",
+          "analysis_en": "The global RAM shortage is causing various aspects of video gaming to become increasingly expensive. Valve's Steam Machine has a starting price of over $1,000, which raises concerns for the future of game consoles like the PS6 and Project Helix. This price increase not only highlights the rising costs of hardware but may also put greater financial pressure on gamers when choosing their gaming devices. As console prices continue to rise, the gaming market may become more niche, with only a select group of players able to afford high-end equipment."
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Three things to watch amid Anthropic’s latest feud with the government",
           "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
           "source": "MIT Technology Review",
           "published_utc": "2026-06-22 18:00 UTC",
-          "analysis_zh": "Anthropic公司最近与美国政府之间发生了争执，主要围绕其新开发的AI模型Mythos。此事件引发了广泛关注，因为它涉及到AI技术的监管和伦理问题。政府的反应可能会影响未来AI技术的发展方向，并对其他科技公司产生示范效应。随着AI技术的迅速发展，如何平衡创新与监管将成为一个重要的议题。",
-          "analysis_en": "Anthropic recently found itself in a dispute with the U.S. government over its newly developed AI model, Mythos. This situation has garnered significant attention as it touches on issues of regulation and ethics in AI technology. The government's response could influence the future direction of AI development and set a precedent for other tech companies. As AI technology evolves rapidly, finding a balance between innovation and regulation will become a crucial topic."
+          "analysis_zh": "近期，Anthropic与美国政府之间的争执引起了广泛关注。该公司在四月份宣布推出了一款名为Mythos的人工智能模型，这一举动引发了监管机构的强烈反应。此事件的重要性在于，它不仅涉及到AI技术的快速发展，还可能影响到未来的政策制定和行业监管。随着AI技术的不断进步，政府如何平衡创新与安全将成为一个关键问题。",
+          "analysis_en": "Recently, a dispute between Anthropic and the U.S. government has garnered significant attention. The company announced the launch of an AI model called Mythos in April, which sparked a strong reaction from regulators. This situation is important because it not only involves the rapid advancement of AI technology but may also influence future policy-making and industry regulation. As AI continues to evolve, how the government balances innovation with safety will be a crucial issue."
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Google invests in A24 to build AI movie tools",
           "link": "https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership",
           "source": "The Verge",
           "published_utc": "2026-06-22 17:18 UTC",
-          "analysis_zh": "谷歌的DeepMind人工智能实验室与A24合作，致力于开发新的电影制作技术，旨在帮助未来的电影制作人“扩展他们的叙事可能性”。据《华尔街日报》报道，谷歌将向A24投资约7500万美元，这是谷歌首次对电影制片厂进行投资。这一合作不仅将推动电影制作的创新，还可能改变电影行业的工作流程和技术，为艺术家提供更先进的创作工具。",
-          "analysis_en": "Google's DeepMind AI lab is partnering with A24 to develop new movie production technologies aimed at helping future filmmakers \"expand their storytelling possibilities.\" According to The Wall Street Journal, Google is investing around $75 million in A24, marking the first time the tech giant has invested in a film studio. This collaboration is expected to drive innovation in filmmaking and could transform industry workflows and techniques, providing artists with more advanced creative tools."
-        },
-        {
-          "rank": 10,
-          "title": "Valve is working with AMD to bring FSR 4 to the Steam Machine",
-          "link": "https://www.theverge.com/games/952210/valve-steam-machine-fsr4-amd-upscaler",
-          "source": "The Verge",
-          "published_utc": "2026-06-22 17:10 UTC",
-          "analysis_zh": "Valve正在与AMD合作，将FSR 4技术引入Steam Machine。这款游戏主机的性能与PlayStation 5相当，但在图形渲染方面却存在不足，特别是早期版本的AMD FSR上采样技术效果不佳。此次合作有望提升Steam Machine的图像质量，使其在游戏表现上更具竞争力。考虑到Steam Machine的售价较高，用户对其性能的期待也随之增加，因此这一进展显得尤为重要。",
-          "analysis_en": "Valve is collaborating with AMD to bring FSR 4 technology to the Steam Machine. While this gaming console is on par with the PlayStation 5 in terms of performance, it has fallen short in graphics rendering, particularly with its earlier version of AMD's FSR upscaling technology. This partnership aims to enhance the visual quality of the Steam Machine, making it more competitive in gaming performance. Given the high price of the Steam Machine, users have heightened expectations for its capabilities, making this development particularly significant."
+          "analysis_zh": "谷歌的DeepMind人工智能实验室与A24合作，致力于开发新的电影制作技术，旨在帮助未来的电影制作者“拓展他们的叙事可能性”。据《华尔街日报》报道，谷歌此次投资约7500万美元，这标志着该搜索巨头首次在电影制片厂中持股。这一合作将把全球领先的研究实验室与以电影制作者为中心的工作室结合起来，帮助艺术家开发新的工作流程和技术。这一举措可能会改变电影制作的方式，推动行业的创新与发展。",
+          "analysis_en": "Google's DeepMind AI lab is partnering with A24 to develop new movie production technologies aimed at helping future filmmakers \"expand their storytelling possibilities.\" According to The Wall Street Journal, Google is investing around $75 million, marking the first time the search giant has taken a stake in a film studio. This collaboration combines a world-leading research lab with a filmmaker-centric studio, assisting artists in developing new workflows and techniques. This initiative could transform the filmmaking process and drive innovation within the industry."
         }
       ]
     },
@@ -312,8 +312,8 @@
           "link": "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-patti-smith.html",
           "source": "NYT > Arts",
           "published_utc": "2026-06-22 22:12 UTC",
-          "analysis_zh": "克莱夫·戴维斯（Clive Davis）在与帕蒂·史密斯（Patti Smith）的合作中，给予了她充分的自由，这对于她的创作至关重要。这种自由不仅让史密斯能够充分发挥自己的艺术才华，也反映了戴维斯对艺术家的信任与尊重。这一做法的重要性在于，它可能会激励更多的艺术家追求自我表达，而不是受到过多的商业限制。这样的合作模式也可能会影响音乐行业对艺术创作的理解与支持。",
-          "analysis_en": "Clive Davis granted Patti Smith the freedom she needed in their collaboration, which was crucial for her creative process. This freedom allowed Smith to fully express her artistic talents and demonstrated Davis's trust and respect for her as an artist. The significance of this approach lies in its potential to inspire more artists to pursue self-expression rather than being constrained by commercial pressures. Such a collaborative model may also influence the music industry's understanding and support of artistic creation."
+          "analysis_zh": "克莱夫·戴维斯（Clive Davis）在与帕蒂·史密斯（Patti Smith）的合作中，给予了她极大的创作自由，这对她的艺术发展至关重要。这种自由让史密斯能够充分发挥自己的才华，创造出独特的音乐风格。这样的做法不仅展示了戴维斯的前瞻性眼光，也可能影响未来音乐制作人对艺术家创作自由的态度。",
+          "analysis_en": "Clive Davis granted Patti Smith significant creative freedom during their collaboration, which was crucial for her artistic development. This freedom allowed Smith to fully express her talent and create a unique musical style. Such an approach not only highlights Davis's visionary perspective but may also influence how future music producers view the creative liberties of artists."
         },
         {
           "rank": 2,
@@ -321,8 +321,8 @@
           "link": "https://www.artnews.com/art-news/news/netherlands-germany-return-2000-artifacts-ghana-1234789956/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-06-22 21:20 UTC",
-          "analysis_zh": "荷兰和德国最近在阿克拉的一次会议上宣布，将向加纳归还2000件文物。这一决定标志着对历史遗产的尊重和对殖民历史的反思，具有重要的文化和政治意义。归还文物不仅有助于加纳恢复其文化身份，也可能激励其他国家采取类似行动，推动全球范围内的文物归还运动。",
-          "analysis_en": "The Netherlands and Germany recently announced at a conference in Accra that they will return 2,000 artifacts to Ghana. This decision reflects a respect for historical heritage and a reconsideration of colonial history, holding significant cultural and political importance. The return of these artifacts will not only help Ghana restore its cultural identity but may also inspire other countries to take similar actions, promoting a global movement for the restitution of cultural property."
+          "analysis_zh": "荷兰和德国最近在阿克拉举行的会议上宣布，将向加纳归还2000件文物。这一决定不仅是对历史遗产的尊重，也反映了国际社会对文化归属问题的重视。归还文物可能会促进加纳的文化复兴，并增强其在全球文化交流中的地位。这一举措也可能激励其他国家重新审视其文化财产的归属问题，推动更多类似的归还行动。",
+          "analysis_en": "The Netherlands and Germany recently announced at a conference in Accra that they will return 2,000 artifacts to Ghana. This decision not only respects historical heritage but also highlights the international community's focus on issues of cultural ownership. The return of these artifacts could foster cultural revival in Ghana and enhance its position in global cultural exchanges. This move may also encourage other countries to reconsider the ownership of their cultural properties, potentially leading to more similar repatriation actions."
         },
         {
           "rank": 3,
@@ -330,8 +330,8 @@
           "link": "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-death-celebrity-reactions.html",
           "source": "NYT > Arts",
           "published_utc": "2026-06-22 20:57 UTC",
-          "analysis_zh": "克莱夫·戴维斯去世后，许多音乐界名人如卡洛斯·桑塔纳和帕蒂·史密斯纷纷向他致敬。布鲁斯·斯普林斯汀表示，戴维斯在他22岁时对待他的方式与他成功后一样，始终给予尊重和善待。这一事件不仅让人们缅怀戴维斯的贡献，也反映了他在音乐行业中的重要地位和影响力。他的离世可能会对音乐界产生深远的影响，尤其是在人才培养和音乐制作方面。",
-          "analysis_en": "Following the death of Clive Davis, numerous music celebrities like Carlos Santana and Patti Smith paid tribute to him. Bruce Springsteen remarked that Davis treated him with the same respect and kindness when he was a 22-year-old nobody as he did after his success. This event not only commemorates Davis's contributions but also highlights his significant role and influence in the music industry. His passing may have far-reaching effects on the industry, particularly in areas like talent development and music production."
+          "analysis_zh": "克莱夫·戴维斯的去世引发了音乐界的广泛悼念，包括布鲁斯·斯普林斯汀等众多明星纷纷表达对他的敬意。斯普林斯汀提到，戴维斯在他22岁时给予的尊重和善意，与他日后成功后所受到的对待是一样的。这一事件不仅让人们回顾戴维斯对音乐行业的巨大贡献，也突显了他在培养和支持年轻艺术家方面的重要角色。戴维斯的离世可能会影响未来音乐行业的运作和艺术家的发展。",
+          "analysis_en": "The passing of Clive Davis has prompted widespread tributes from the music industry, with many stars, including Bruce Springsteen, expressing their respect for him. Springsteen noted that Davis treated him with the same respect and kindness when he was a 22-year-old nobody as he did after his later successes. This event not only reminds us of Davis's significant contributions to the music industry but also highlights his crucial role in nurturing and supporting young artists. Davis's death may impact the future dynamics of the music industry and the development of artists."
         },
         {
           "rank": 4,
@@ -339,8 +339,8 @@
           "link": "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-dead.html",
           "source": "NYT > Arts",
           "published_utc": "2026-06-22 20:21 UTC",
-          "analysis_zh": "克莱夫·戴维斯，这位音乐产业巨头，因签约惠特尼·休斯顿而闻名，近日去世，享年94岁。他从哥伦比亚唱片公司的中层职位起步，最终成为音乐界最有影响力的高管之一，培养了巴里·曼洛和惠特尼·休斯顿等众多明星。戴维斯的去世不仅是音乐界的一大损失，也意味着一个时代的结束。他的影响力将继续在音乐行业中回响，未来的艺术家和制作人仍将受到他的启发。",
-          "analysis_en": "Clive Davis, the music industry titan known for signing Whitney Houston, has passed away at the age of 94. He rose from a mid-level position at Columbia Records to become one of the most powerful executives in music, nurturing stars like Barry Manilow and Whitney Houston. His death marks a significant loss for the music world and signifies the end of an era. Davis's influence will continue to resonate in the industry, inspiring future artists and producers for years to come."
+          "analysis_zh": "克莱夫·戴维斯，这位音乐行业的巨头，因签约惠特尼·休斯顿而闻名，近日去世，享年94岁。他从哥伦比亚唱片公司的中层职位起步，最终成为音乐界最有影响力的高管之一，培养了巴里·曼洛和惠特尼·休斯顿等众多明星。戴维斯的去世对音乐行业产生了深远的影响，标志着一个时代的结束，同时也让人们重新审视他对音乐产业发展的贡献。",
+          "analysis_en": "Clive Davis, a titan of the music industry known for signing Whitney Houston, has passed away at the age of 94. He rose from a mid-level position at Columbia Records to become one of the most influential executives in music, nurturing stars like Barry Manilow and Whitney Houston. His death marks the end of an era and prompts a reevaluation of his significant contributions to the development of the music industry."
         },
         {
           "rank": 5,
@@ -348,8 +348,8 @@
           "link": "https://www.artnews.com/art-news/news/kennedy-center-wont-reschedule-cancelled-shows-1234789932/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-06-22 20:08 UTC",
-          "analysis_zh": "肯尼迪中心向法院表示，他们不会重新安排已取消的演出，尽管两年的关闭被阻止。这一决定引发了广泛关注，因为它可能影响到艺术界的复苏和观众的文化体验。肯尼迪中心作为重要的文化机构，其选择不进行公共节目安排，可能会导致艺术活动的减少，从而影响到艺术家和观众之间的互动。此举不仅关系到该中心的未来发展，也可能对整个艺术社区产生深远影响。",
-          "analysis_en": "The Kennedy Center has informed the court that it will not reschedule canceled shows, even as a two-year closure has been blocked. This decision is significant as it could impact the recovery of the arts sector and the cultural experiences available to audiences. As a key cultural institution, the Kennedy Center's choice to refrain from public programming may lead to a decrease in artistic activities, affecting the interaction between artists and audiences. This move not only concerns the future of the center itself but may also have far-reaching consequences for the entire arts community."
+          "analysis_zh": "肯尼迪中心向法院表示，他们不会重新安排被取消的演出，即使两年的关闭被阻止。这一决定引发了人们对该机构未来公共节目安排的担忧。由于疫情影响，艺术和文化机构面临巨大的挑战，肯尼迪中心的这一态度可能会影响到观众的参与度和艺术家的生计。此举不仅关乎该中心的运营，也可能对整个艺术界产生连锁反应。",
+          "analysis_en": "The Kennedy Center has informed the court that it will not reschedule canceled shows, even as a two-year closure is blocked. This decision raises concerns about the future of public programming at the institution. Given the challenges faced by arts and cultural organizations due to the pandemic, this stance may affect audience engagement and the livelihoods of artists. This move not only impacts the operations of the Kennedy Center but could also have ripple effects throughout the arts community."
         },
         {
           "rank": 6,
@@ -357,8 +357,8 @@
           "link": "https://www.artnews.com/art-news/news/israeli-kinetic-optical-artist-yaacov-agam-dies-1234789922/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-06-22 20:06 UTC",
-          "analysis_zh": "以色列艺术家雅科夫·阿甘（Yaacov Agam）于98岁去世，他以光学和动感艺术作品而闻名。今年早些时候，他获得了以色列视觉艺术奖。这位艺术家的去世不仅标志着一个时代的结束，也让人们重新审视光学艺术在当代艺术中的地位和影响。他的作品曾激发了无数艺术家，未来可能会影响对光学艺术的理解和创作方向。",
-          "analysis_en": "Israeli artist Yaacov Agam, known for his optical and kinetic artworks, has passed away at the age of 98. Earlier this year, he was awarded the Israel Prize for Visual Arts. His death marks the end of an era and prompts a reevaluation of the significance of optical art in contemporary art. Agam's works have inspired countless artists, and his legacy may influence future interpretations and creations within the realm of optical art."
+          "analysis_zh": "以色列艺术家雅各布·阿甘（Yaacov Agam）于98岁高龄去世。他以光学和动感艺术作品而闻名，曾在今年获得以色列视觉艺术奖。阿甘的去世不仅是艺术界的一大损失，也标志着一个时代的结束。他的作品影响了许多艺术家，并推动了光学艺术的发展，未来可能会激励新一代艺术家探索这一领域。",
+          "analysis_en": "Israeli artist Yaacov Agam has passed away at the age of 98. He was renowned for his optical and kinetic artworks and was awarded the Israel Prize for Visual Arts earlier this year. Agam's death is a significant loss for the art world and marks the end of an era. His influence on many artists and the advancement of optical art may inspire a new generation to explore this field."
         },
         {
           "rank": 7,
@@ -366,8 +366,8 @@
           "link": "https://www.dezeen.com/2026/06/22/nature-informed-community-space-among-projects-from-virginia-commonwealth-university-school-of-the-arts/",
           "source": "Dezeen",
           "published_utc": "2026-06-22 20:00 UTC",
-          "analysis_zh": "维吉尼亚联邦大学艺术学院的学生们展示了多个项目，其中包括一个兼顾人类与野生动物的社区空间。这一设计不仅为居民提供了一个交流的场所，还促进了生态的和谐共处。这些项目的推出反映了当代设计对可持续性和社区需求的重视，可能会影响未来建筑和公共空间的规划理念。",
-          "analysis_en": "Students from the Virginia Commonwealth University School of the Arts have presented several projects, including a community space that accommodates both people and wildlife. This design not only provides a gathering place for residents but also promotes ecological harmony. The introduction of these projects highlights the contemporary focus on sustainability and community needs, which may influence future architectural and public space planning."
+          "analysis_zh": "弗吉尼亚联邦大学艺术学院的学生们展示了一系列项目，其中包括一个兼顾人类和野生动物的社区空间。这一设计不仅体现了对自然的尊重，也为社区提供了一个互动的平台。这样的项目重要性在于它们能够促进人与自然的和谐共处，提升社区的生活质量。此外，项目中还包括为女性大学运动员设计的健康中心以及位于美国里士满的现代化酿酒厂和餐厅，显示出艺术与实用功能的结合。",
+          "analysis_en": "Students from the Virginia Commonwealth University School of the Arts have showcased a range of projects, including a community space that accommodates both people and wildlife. This design reflects a respect for nature and provides an interactive platform for the community. The significance of such projects lies in their ability to promote harmony between humans and nature, enhancing the quality of life in the community. Additionally, the projects feature a wellness center designed for female collegiate athletes and a modernized brewery and restaurant in Richmond, USA, highlighting the integration of art with practical functions."
         },
         {
           "rank": 8,
@@ -375,8 +375,8 @@
           "link": "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-songs.html",
           "source": "NYT > Arts",
           "published_utc": "2026-06-22 19:45 UTC",
-          "analysis_zh": "克莱夫·戴维斯于周一去世，他是音乐界的传奇人物，曾在哥伦比亚、阿里斯塔和J唱片等公司担任重要职务。戴维斯对音乐的热情和对热门歌曲的敏锐嗅觉，使他在音乐产业中留下了深远的影响。他不仅培养了众多艺术家，还推动了许多经典歌曲的创作和传播。他的去世标志着一个时代的结束，可能会对音乐行业的未来发展产生重要影响。",
-          "analysis_en": "Clive Davis, a legendary figure in the music industry, passed away on Monday, having held significant roles at Columbia, Arista, and J Records. His passion for music and keen sense for hit songs left a lasting impact on the industry. He not only nurtured numerous artists but also facilitated the creation and dissemination of many classic tracks. His death marks the end of an era and could significantly influence the future direction of the music industry."
+          "analysis_zh": "克莱夫·戴维斯于周一去世，他在哥伦比亚、阿里斯塔和J唱片公司担任高管期间，推动了许多经典歌曲的诞生。他对音乐的热情和对流行音乐的敏锐嗅觉，使他成为音乐行业的重要人物。戴维斯的去世不仅让音乐界失去了一位传奇人物，也可能影响到未来音乐制作和艺人发展的方向。",
+          "analysis_en": "Clive Davis passed away on Monday, having played a pivotal role in the creation of many classic songs during his time at Columbia, Arista, and J Records. His passion for music and keen sense for hits made him a significant figure in the music industry. Davis's death not only marks the loss of a legendary figure but may also influence the future direction of music production and artist development."
         },
         {
           "rank": 9,
@@ -384,8 +384,8 @@
           "link": "https://www.nytimes.com/2026/06/22/business/media/youtube-hollywood-creative-artists-agency.html",
           "source": "NYT > Arts",
           "published_utc": "2026-06-22 18:37 UTC",
-          "analysis_zh": "在好莱坞的创意艺术家代理公司，YouTube明星们终于获得了应有的关注，成为了中心人物。过去，这些创作者在该机构的地位相对边缘化，但如今他们的影响力和受欢迎程度促使代理公司重新审视其业务模式。这一变化不仅反映了社交媒体时代的文化转变，也可能影响到传统娱乐行业的运作方式，促使更多机构关注新兴的数字内容创作者。",
-          "analysis_en": "YouTube stars are finally being recognized as central figures at Creative Artists Agency, a major player in Hollywood. Previously, these creators were marginalized within the agency, but their growing influence and popularity have led to a reevaluation of the agency's business model. This shift not only reflects the cultural changes of the social media era but may also impact the operations of the traditional entertainment industry, encouraging more agencies to pay attention to emerging digital content creators."
+          "analysis_zh": "在好莱坞的创意艺术家代理公司（Creative Artists Agency），曾经处于边缘的内容创作者如今被推到了中心舞台。这一变化反映了社交媒体时代对娱乐行业的深远影响，尤其是YouTube明星的崛起。随着这些创作者获得越来越多的关注和影响力，代理公司也开始重视他们的商业潜力。这一趋势可能会改变传统娱乐产业的格局，促使更多的创作者与主流媒体合作。",
+          "analysis_en": "At Creative Artists Agency, a major player in Hollywood, content creators who were once on the fringes are now being placed front and center. This shift highlights the significant impact of the social media era on the entertainment industry, particularly with the rise of YouTube stars. As these creators gain more attention and influence, the agency is beginning to recognize their commercial potential. This trend could reshape the traditional entertainment landscape, encouraging more collaborations between creators and mainstream media."
         },
         {
           "rank": 10,
@@ -393,8 +393,8 @@
           "link": "https://www.designboom.com/art/karolina-halatek-installation-light-immersive-architectural-field-istanbul-echo/",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-06-22 17:30 UTC",
-          "analysis_zh": "卡罗琳娜·哈拉泰克在伊斯坦布尔的装置艺术中，将光线转化为一种沉浸式的建筑体验。这个作品通过激活光、建筑与身体之间的新对话，邀请观众以动态和感知的方式体验空间。这一创新不仅丰富了观众的感官体验，也为当代艺术与建筑的交融提供了新的视角，可能会影响未来艺术装置的设计理念和实践。",
-          "analysis_en": "Karolina Halatek's installation in Istanbul transforms light into an immersive architectural experience. This work activates a new dialogue between light, architecture, and the body, inviting visitors to experience space in a dynamic and perceptual way. This innovation not only enriches the sensory experience of the audience but also offers a new perspective on the intersection of contemporary art and architecture, which may influence future design concepts and practices in art installations."
+          "analysis_zh": "卡罗利娜·哈拉泰克在伊斯坦布尔的装置艺术中，将光线转化为一种沉浸式的建筑体验。这个名为“回声”的项目通过光、建筑与身体之间的新对话，邀请观众体验空间的动态和感知特性。这一装置不仅丰富了观众的感官体验，还可能影响未来建筑设计中对光线运用的思考，推动艺术与建筑的进一步融合。",
+          "analysis_en": "Karolina Halatek's installation in Istanbul transforms light into an immersive architectural experience. Titled \"Echo,\" the project creates a new dialogue between light, architecture, and the body, inviting visitors to engage with space as a dynamic and perceptual field. This installation not only enhances the sensory experience for viewers but may also influence future architectural designs regarding the use of light, promoting a deeper integration of art and architecture."
         }
       ]
     }
