@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-23 16:28:57 UTC",
-  "generated_at_unix": 1782232137,
+  "generated_at": "2026-06-23 22:00:15 UTC",
+  "generated_at_unix": 1782252015,
   "window": {
-    "from_utc": "2026-06-22 16:28:57 UTC",
-    "to_utc": "2026-06-23 16:28:57 UTC",
+    "from_utc": "2026-06-22 22:00:15 UTC",
+    "to_utc": "2026-06-23 22:00:15 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,93 +14,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "SpaceX stock climbs 5%, rebounding from three-day losing streak",
-          "link": "https://www.cnbc.com/2026/06/23/spacex-stock-tech-sell-off.html",
+          "title": "Alphabet added to Dow Jones Industrial Average, replacing Verizon",
+          "link": "https://www.cnbc.com/2026/06/23/alphabet-verizon-dow-djia.html",
           "source": "US Top News and Analysis",
-          "published_utc": "2026-06-23 16:22 UTC",
-          "analysis_zh": "SpaceX的股票在经历了连续三天的下跌后，反弹上涨了5%。这一涨幅发生在该公司创下历史最高IPO后，尽管随后股价有所回落。此事件表明，尽管市场波动，投资者对SpaceX的长期前景依然持乐观态度。这一反弹可能会影响其他科技公司的股市表现，并引发对太空和人工智能行业的进一步关注。",
-          "analysis_en": "SpaceX's stock rebounded by 5% after a three-day losing streak. This increase followed an initial surge after the company set a record with its IPO, although the gains were later trimmed. This event indicates that, despite market fluctuations, investors remain optimistic about SpaceX's long-term prospects. The rebound could influence the stock performance of other tech companies and spark further interest in the space and AI sectors."
+          "published_utc": "2026-06-23 22:00 UTC",
+          "analysis_zh": "谷歌母公司Alphabet被纳入道琼斯工业平均指数，取代了此前的电信公司Verizon。这一变动标志着科技公司在股市中的重要性日益增强，反映了投资者对科技行业的信心。Alphabet的加入可能会吸引更多投资者关注道琼斯指数，从而影响整体市场表现。",
+          "analysis_en": "Alphabet, the parent company of Google, has been added to the Dow Jones Industrial Average, replacing the telecommunications company Verizon. This change highlights the growing significance of technology companies in the stock market and reflects investor confidence in the tech sector. Alphabet's inclusion may attract more investors to the Dow Jones index, potentially influencing overall market performance."
         },
         {
           "rank": 2,
-          "title": "Tech sell-off weighs on Nasdaq and S&P while Dow holds gains in mixed trading",
-          "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-tech-remains-skittish-after-alphabet-spacex-losses-4754471",
-          "source": "Stock Market News",
-          "published_utc": "2026-06-23 16:21 UTC",
-          "analysis_zh": "近期，科技股的抛售对纳斯达克和标准普尔500指数造成了压力，而道琼斯指数则在波动的交易中保持了涨幅。这一现象反映了市场对科技公司未来增长的担忧，尤其是在利率上升的背景下。科技股的表现不佳可能会影响投资者的信心，导致资金流向其他行业，从而改变市场的整体格局。",
-          "analysis_en": "Recently, a sell-off in tech stocks has weighed on the Nasdaq and S&P 500, while the Dow Jones managed to hold onto its gains amid mixed trading. This situation reflects concerns in the market regarding the future growth of technology companies, especially in the context of rising interest rates. The poor performance of tech stocks could impact investor confidence, leading to a shift of funds towards other sectors and altering the overall market landscape."
+          "title": "FedEx posts strong earnings results in last quarter with freight business",
+          "link": "https://www.cnbc.com/2026/06/23/fedex-fdx-q4-2026-earnings.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-06-23 21:58 UTC",
+          "analysis_zh": "联邦快递在周二发布了强劲的财报，公布了其财政第四季度的业绩。这是公司在分拆货运业务之前的最后一个季度，表现出色的财报显示出其在物流行业的竞争力。此举不仅反映了公司在市场中的稳定性，还可能影响投资者对未来业务发展的信心，尤其是在分拆后，联邦快递的整体战略和市场定位将受到关注。",
+          "analysis_en": "FedEx reported strong earnings for its fiscal fourth quarter on Tuesday, marking the last quarter before the spin-off of its freight business. The impressive results highlight the company's competitiveness in the logistics sector. This development not only reflects the stability of FedEx in the market but may also influence investor confidence regarding future business growth, especially as the company's overall strategy and market positioning will come under scrutiny after the spin-off."
         },
         {
           "rank": 3,
-          "title": "Eli Lilly plans European weight-loss pill launch by early 2027",
-          "link": "https://www.investing.com/news/stock-market-news/eli-lilly-plans-european-weightloss-pill-launch-by-early-2027-93CH-4756118",
-          "source": "Stock Market News",
-          "published_utc": "2026-06-23 16:19 UTC",
-          "analysis_zh": "艾利利（Eli Lilly）计划在2027年初之前在欧洲推出一款减肥药。这一举措标志着公司在全球减肥药市场的扩张，可能会对欧洲的健康产业产生重要影响。随着肥胖问题日益严重，这款药物的推出可能为许多寻求减重的患者提供新的解决方案。此外，这也可能促使其他制药公司加大对减肥药物的研发投入。",
-          "analysis_en": "Eli Lilly plans to launch a weight-loss pill in Europe by early 2027. This move signifies the company's expansion into the global weight-loss market and could have a significant impact on the health industry in Europe. As obesity becomes an increasingly pressing issue, the introduction of this medication may provide new solutions for many patients seeking to lose weight. Furthermore, it could encourage other pharmaceutical companies to increase their investment in the development of weight-loss drugs."
+          "title": "Alphabet’s stock is set to join the Dow. Here’s which company is getting the boot.",
+          "link": "https://www.marketwatch.com/story/alphabets-stock-is-set-to-join-the-dow-heres-which-company-is-getting-the-boot-73453ca7?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-06-23 21:53 UTC",
+          "analysis_zh": "谷歌母公司Alphabet的股票即将加入道琼斯工业平均指数，这标志着其在通信行业中的重要性得到认可。这一变化不仅反映了Alphabet在市场中的地位，也可能影响投资者的决策，因为道指的成分股通常被视为经济健康的指标。随着Alphabet的加入，其他公司将被剔除，这可能会导致市场的重新评估和投资组合的调整。",
+          "analysis_en": "Alphabet, the parent company of Google, is set to join the Dow Jones Industrial Average, highlighting its significance in the communications sector. This change not only reflects Alphabet's standing in the market but may also influence investor decisions, as Dow components are often seen as indicators of economic health. With Alphabet's inclusion, other companies will be removed, potentially leading to a reassessment of the market and adjustments in investment portfolios."
         },
         {
           "rank": 4,
-          "title": "Are falling tech stocks the start of an overdue selloff — or a well-deserved pause?",
-          "link": "https://www.marketwatch.com/story/are-falling-tech-stocks-the-start-of-an-overdue-selloff-or-a-well-deserved-pause-44bc5391?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-06-23 16:19 UTC",
-          "analysis_zh": "近期，科技股的下跌引发了市场的广泛关注。这一现象可能标志着长期以来被忽视的调整开始，或者只是市场的短暂休整。科技股的表现直接影响到投资者的信心和市场的整体走向，因此这一变化可能会导致资金流动的重新配置，影响其他行业的表现。",
-          "analysis_en": "Recently, the decline in tech stocks has drawn significant attention from the market. This trend may indicate the beginning of a long-overdue correction or merely a temporary pause in the market. The performance of tech stocks directly impacts investor confidence and the overall market direction, so this shift could lead to a reallocation of funds and affect the performance of other sectors."
+          "title": "Legal tech firm sues US over order limiting foreign access to top-tier Anthropic models",
+          "link": "https://www.investing.com/news/stock-market-news/legal-tech-firm-sues-us-over-order-limiting-foreign-access-to-toptier-anthropic-models-4756834",
+          "source": "Stock Market News",
+          "published_utc": "2026-06-23 21:43 UTC",
+          "analysis_zh": "一家法律科技公司对美国政府提起诉讼，原因是政府发布了一项限制外国访问顶级人工智能模型的命令。这一事件引起了广泛关注，因为它可能影响到国际科技合作和创新的进程。限制外国公司使用先进技术可能会导致技术壁垒的加剧，从而影响全球市场的竞争格局。",
+          "analysis_en": "A legal tech firm has filed a lawsuit against the U.S. government over an order that restricts foreign access to top-tier artificial intelligence models. This incident is significant as it could impact international tech collaboration and innovation. Limiting foreign companies' access to advanced technologies may lead to increased technological barriers, affecting the competitive landscape of global markets."
         },
         {
           "rank": 5,
-          "title": "European stocks slip as rate worries eclipse Iran peace deal",
-          "link": "https://www.investing.com/news/stock-market-news/european-stocks-fall-as-rate-worries-eclipse-iran-peace-deal-4754636",
+          "title": "Alphabet to replace Verizon in blue-chip Dow Jones Industrial Average",
+          "link": "https://www.investing.com/news/stock-market-news/alphabet-to-replace-verizon-in-bluechip-dow-jones-industrial-average-4756802",
           "source": "Stock Market News",
-          "published_utc": "2026-06-23 16:17 UTC",
-          "analysis_zh": "近期，欧洲股市因对利率上升的担忧而下滑，尽管伊朗和平协议的达成本应带来积极影响。这一现象表明，市场对经济前景的忧虑可能会压倒其他利好消息。投资者对未来利率的走向感到不安，可能导致资金流出股市，进而影响整体经济复苏的步伐。",
-          "analysis_en": "Recently, European stocks have declined due to concerns over rising interest rates, despite the positive implications of a peace deal in Iran. This situation indicates that market worries about the economic outlook may overshadow other favorable news. Investor anxiety regarding the future direction of interest rates could lead to capital outflows from the stock market, potentially affecting the overall pace of economic recovery."
+          "published_utc": "2026-06-23 21:43 UTC",
+          "analysis_zh": "谷歌母公司Alphabet将取代威瑞森，成为道琼斯工业平均指数中的蓝筹股。这一变动标志着市场对科技公司的重视程度不断上升，反映出投资者对数字经济的信心。Alphabet的加入可能会吸引更多资金流入道琼斯指数，从而影响整体市场表现。",
+          "analysis_en": "Alphabet, the parent company of Google, will replace Verizon in the blue-chip Dow Jones Industrial Average. This change highlights the growing importance of technology companies in the market and reflects investor confidence in the digital economy. Alphabet's inclusion may attract more capital into the Dow Jones index, potentially influencing overall market performance."
         },
         {
           "rank": 6,
-          "title": "‘Trump accounts’ for newborns are nothing but a diversion",
-          "link": "https://www.marketwatch.com/story/trump-accounts-for-newborns-are-nothing-but-a-diversion-8fbf612a?mod=mw_rss_topstories",
+          "title": "Cerebras delivers its first earnings report — but it’s not enough to lift the stock",
+          "link": "https://www.marketwatch.com/story/cerebras-delivers-its-first-earnings-report-but-its-not-enough-to-lift-the-stock-8e80cb6d?mod=mw_rss_topstories",
           "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-06-23 16:17 UTC",
-          "analysis_zh": "最近有报道称，特朗普为新生儿设立的账户被认为只是一个分散注意力的策略。这一举措引发了公众的广泛关注，因为它可能掩盖了更为重要的政策讨论。此类账户的设立不仅影响了公众对特朗普政策的看法，也可能对未来的投资和经济决策产生深远影响。",
-          "analysis_en": "Recent reports indicate that the accounts Trump has set up for newborns are seen as nothing more than a diversion. This initiative has sparked widespread public interest, as it may overshadow more critical policy discussions. The establishment of such accounts not only affects public perception of Trump's policies but could also have significant implications for future investments and economic decisions."
+          "published_utc": "2026-06-23 21:43 UTC",
+          "analysis_zh": "Cerebras公司发布了首份财报，尽管收入数据令人振奋，但其股票在盘后交易中却出现下跌。这一情况引发了市场的关注，因为投资者对公司未来的增长潜力仍持谨慎态度。财报的发布虽然展示了良好的业绩，但未能提振股价，可能会影响投资者对该公司的信心。",
+          "analysis_en": "Cerebras has released its first earnings report, and while the revenue figures are positive, the stock has declined in after-hours trading. This situation has drawn market attention, as investors remain cautious about the company's future growth potential. Although the report showcases strong performance, the inability to boost the stock price may affect investor confidence in the company."
         },
         {
           "rank": 7,
-          "title": "Pfizer executive says China now leads Europe in drug innovation",
-          "link": "https://www.investing.com/news/stock-market-news/pfizer-executive-says-china-now-leads-europe-in-drug-innovation-93CH-4756113",
+          "title": "US presses Meta to agree to AI reviews as security concerns rise, NYT reports",
+          "link": "https://www.investing.com/news/stock-market-news/us-presses-meta-to-agree-to-ai-reviews-as-security-concerns-rise-nyt-reports-4756849",
           "source": "Stock Market News",
-          "published_utc": "2026-06-23 16:15 UTC",
-          "analysis_zh": "辉瑞的一位高管表示，中国在药物创新方面现在已经领先于欧洲。这一声明反映了中国在制药行业的快速发展和技术进步，尤其是在新药研发和生产能力方面的提升。这一变化不仅可能影响全球制药市场的竞争格局，还可能促使其他国家加大对药物研发的投资，以保持竞争力。",
-          "analysis_en": "A Pfizer executive stated that China now leads Europe in drug innovation. This remark highlights China's rapid advancements in the pharmaceutical industry, particularly in new drug development and production capabilities. This shift could not only alter the competitive landscape of the global pharmaceutical market but also encourage other countries to increase their investments in drug research and development to remain competitive."
+          "published_utc": "2026-06-23 21:42 UTC",
+          "analysis_zh": "美国政府正在施压Meta公司，要求其同意进行人工智能的审查，以应对日益严重的安全隐患。这一举措反映了政府对科技公司在AI领域的监管关注，尤其是在保护用户隐私和数据安全方面。此举可能会影响Meta的运营模式，并促使其他科技公司也加强对其人工智能技术的审查和透明度。",
+          "analysis_en": "The U.S. government is pressuring Meta to agree to AI reviews in response to rising security concerns. This move highlights the government's increasing focus on regulating tech companies in the AI sector, particularly regarding user privacy and data security. Such actions may impact Meta's operational strategies and encourage other tech firms to enhance the scrutiny and transparency of their AI technologies."
         },
         {
           "rank": 8,
-          "title": "Retailer Approaching Historically Bullish Trendline",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/retailer-approaching-historically-bullish-trendline-161406633.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-06-23 16:14 UTC",
-          "analysis_zh": "近期，零售商的股价接近历史上看涨的趋势线，这一现象引起了市场的广泛关注。这表明投资者对该零售商的未来表现持乐观态度，可能会吸引更多的资金流入该行业。若这一趋势持续，可能会推动整个零售市场的复苏，并影响相关企业的股价和投资策略。",
-          "analysis_en": "Recently, a retailer's stock price has approached a historically bullish trendline, drawing significant attention from the market. This indicates that investors are optimistic about the retailer's future performance, which may attract more capital into the sector. If this trend continues, it could lead to a recovery in the retail market and impact the stock prices and investment strategies of related companies."
+          "title": "House expected to pass affordable housing bill, send it to Trump's desk",
+          "link": "https://www.cnbc.com/2026/06/23/house-affordable-housing-bill-trump.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-06-23 21:42 UTC",
+          "analysis_zh": "美国众议院预计将通过一项旨在降低购房者成本的可负担住房法案，并将其送交特朗普总统签署。这项法案的通过对于缓解住房市场的压力具有重要意义，尤其是在私募股权公司对房地产市场的影响日益加大的背景下。通过这项法案，政府希望能够为更多家庭提供负担得起的住房选择，从而改善整体经济状况。",
+          "analysis_en": "The U.S. House is expected to pass a bill aimed at reducing costs for homebuyers and sending it to President Trump for his signature. The passage of this legislation is significant as it seeks to alleviate pressure in the housing market, particularly given the increasing influence of private equity firms on real estate. By enacting this bill, the government aims to provide more affordable housing options for families, which could improve the overall economic situation."
         },
         {
           "rank": 9,
-          "title": "Blackstone plans $30 billion investment in Japan AI data centres, Nikkei reports",
-          "link": "https://www.investing.com/news/stock-market-news/blackstone-plans-30-billion-investment-in-japan-ai-data-centres-nikkei-reports-4756110",
-          "source": "Stock Market News",
-          "published_utc": "2026-06-23 16:12 UTC",
-          "analysis_zh": "黑石集团计划在日本投资300亿美元用于人工智能数据中心的建设。这一举措不仅显示了黑石对日本市场的信心，也反映了全球对人工智能基础设施需求的持续增长。这项投资可能会促进日本在科技领域的发展，同时吸引更多外资，推动经济增长。",
-          "analysis_en": "Blackstone plans to invest $30 billion in the construction of AI data centers in Japan. This move not only demonstrates Blackstone's confidence in the Japanese market but also reflects the ongoing global demand for AI infrastructure. This investment could enhance Japan's technological development, attract more foreign capital, and stimulate economic growth."
+          "title": "SpaceX reveals pricing details for what could be one of the year’s biggest debt deals",
+          "link": "https://www.marketwatch.com/story/spacex-reveals-pricing-details-for-what-could-be-one-of-the-years-biggest-debt-deals-8c027a85?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-06-23 21:42 UTC",
+          "analysis_zh": "SpaceX近日公布了其可能成为今年最大债务交易之一的定价细节。这笔融资预计将在周五完成，旨在帮助SpaceX偿还现有债务。这一举措不仅对公司的财务状况至关重要，也可能影响其未来的投资计划和发展战略。随着融资的完成，SpaceX能够更好地集中资源于其太空探索和卫星项目。",
+          "analysis_en": "SpaceX recently revealed pricing details for what could be one of the largest debt deals of the year. This offering is set to close on Friday and aims to help SpaceX pay off its existing debt. This move is crucial for the company's financial health and may impact its future investment plans and growth strategies. With the completion of this financing, SpaceX will be better positioned to focus resources on its space exploration and satellite projects."
         },
         {
           "rank": 10,
-          "title": "Stocks fall as chipmakers and tech slump on rate bets",
-          "link": "https://finance.yahoo.com/markets/articles/asia-shares-slip-markets-reprice-011538149.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-06-23 16:11 UTC",
-          "analysis_zh": "近期，科技股和半导体制造商的股票因市场对加息的预期而下跌。这一趋势反映了投资者对未来经济形势的不安，尤其是在高通胀和利率上升的背景下。科技行业本身对利率变化非常敏感，因此这次下跌可能会影响到整个市场的投资情绪，导致资金流出高风险资产。若这种趋势持续，可能会对科技公司的融资和发展计划产生负面影响。",
-          "analysis_en": "Recently, stocks of tech companies and chipmakers have fallen due to market expectations of interest rate hikes. This trend reflects investor anxiety about the future economic outlook, particularly against a backdrop of high inflation and rising rates. The tech sector is particularly sensitive to interest rate changes, so this decline could affect overall market sentiment, leading to capital outflows from riskier assets. If this trend continues, it may negatively impact the financing and growth plans of tech companies."
+          "title": "The No. 1 overall NBA draft pick will make nearly $70 million overnight, as historic TV deals keeping money flowing into NBA",
+          "link": "https://www.marketwatch.com/story/the-no-1-overall-nba-draft-pick-will-make-nearly-70-million-overnight-as-historic-tv-deals-keeping-money-flowing-into-nba-977513f5?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-06-23 21:34 UTC",
+          "analysis_zh": "在最新的NBA选秀中，状元秀的签约金额接近7000万美元，这反映了联盟通过历史性的电视转播协议所带来的丰厚收益。这一现象不仅显示了体育产业的巨大经济潜力，也突显了选秀顺位对球员未来收入的重大影响。若球员在选秀中下滑几位，可能会导致损失高达3000万美元，这对他们的职业生涯至关重要。",
+          "analysis_en": "In the recent NBA draft, the number one overall pick is set to earn nearly $70 million, highlighting the substantial revenue generated by historic television deals for the league. This situation not only illustrates the immense economic potential of the sports industry but also emphasizes the significant impact that draft position can have on a player's future earnings. A drop of just a few slots in the draft could result in a loss of up to $30 million, which is crucial for their career."
         }
       ]
     },
@@ -110,12 +110,12 @@
       "items": [
         {
           "rank": 1,
-          "title": "Ferraris and Shell Companies: Five Charged in Medicare Fraud Schemes",
+          "title": "Ferraris and Shell Companies: Justice Dept. Unveils Medicare Fraud Charges",
           "link": "https://www.nytimes.com/2026/06/23/us/skin-substitutes-medicare-fraud.html",
           "source": "NYT > Health",
-          "published_utc": "2026-06-23 15:40 UTC",
-          "analysis_zh": "美国司法部针对昂贵的“皮肤替代品”展开行动，这是一种在伤口护理中被过度使用的治疗方法，预计在2024年将使政府支出达到100亿美元。此次行动涉及五人被控参与医疗保险欺诈计划。这一事件引发了对医疗费用和欺诈行为的广泛关注，可能会促使政府加强对医疗行业的监管，确保公共资金的合理使用。",
-          "analysis_en": "The U.S. Department of Justice is targeting expensive \"skin substitutes,\" an overused treatment in wound care that is projected to cost the government $10 billion in 2024. Five individuals have been charged in connection with Medicare fraud schemes. This situation has raised significant concerns about healthcare costs and fraudulent practices, potentially prompting the government to enhance oversight of the healthcare industry to ensure the proper use of public funds."
+          "published_utc": "2026-06-23 20:24 UTC",
+          "analysis_zh": "美国司法部近日公布了针对医疗保险欺诈的指控，重点针对价格昂贵的“皮肤替代品”。这种在伤口护理中被过度使用的治疗方法，预计在2025年将使政府花费近150亿美元。这一行动的重要性在于，它不仅揭示了医疗系统中的不当行为，还可能促使政策改革，改善医疗资源的分配和使用效率。",
+          "analysis_en": "The U.S. Department of Justice recently announced charges related to Medicare fraud, focusing on the expensive \"skin substitutes.\" This treatment, which has been overused in wound care, is projected to cost the government nearly $15 billion in 2025. This action is significant as it highlights misconduct within the healthcare system and may lead to policy reforms aimed at improving the allocation and efficiency of medical resources."
         },
         {
           "rank": 2,
@@ -123,8 +123,8 @@
           "link": "https://www.nytimes.com/2026/06/23/health/ebola-symptoms-death-rate.html",
           "source": "NYT > Health",
           "published_utc": "2026-06-23 15:31 UTC",
-          "analysis_zh": "在当前的埃博拉疫情中，患者的症状可能比以往的疫情轻微，这无疑是个好消息。然而，官员们担心这种情况可能会使控制疫情传播变得更加困难。症状较轻可能导致患者在未意识到自己感染的情况下与他人接触，从而增加病毒传播的风险。这一发现对公共卫生政策的制定和疫情应对措施有着重要影响。",
-          "analysis_en": "In the current Ebola outbreak, symptoms in patients may be milder than in previous outbreaks, which is certainly good news. However, officials are concerned that this could make it harder to control the spread of the disease. Milder symptoms may lead to patients unknowingly interacting with others while infected, increasing the risk of transmission. This finding has significant implications for public health policies and response measures to the outbreak."
+          "analysis_zh": "在当前的埃博拉疫情中，患者的症状可能比以往更轻微，这对患者来说是个好消息。然而，官员们担心，这种情况可能会使控制疫情传播变得更加困难。轻微症状可能导致人们忽视感染风险，从而增加病毒传播的可能性。这一发现对公共卫生政策的制定和疫情应对措施具有重要影响。",
+          "analysis_en": "In the current Ebola outbreak, patients may experience milder symptoms compared to previous outbreaks, which is good news for those affected. However, officials are concerned that this could complicate efforts to control the spread of the disease. Milder symptoms may lead individuals to underestimate the risk of infection, potentially increasing the likelihood of the virus spreading. This finding has significant implications for public health policies and response strategies."
         },
         {
           "rank": 3,
@@ -132,8 +132,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260621060313.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-23 15:06 UTC",
-          "analysis_zh": "科学家发现，制作康普茶所使用的茶叶不仅影响其味道，还显著改变其化学成分和抗氧化活性。研究表明，绿茶和乌龙茶制作的康普茶生物活性最强，而不同茶叶的发酵过程使每种茶转变为独特的饮品。这项研究的重要性在于，它揭示了茶叶种类对康普茶最终品质的深远影响，可能会引导消费者在选择康普茶时更加关注茶叶的来源和种类。",
-          "analysis_en": "Scientists have discovered that the type of tea used to make kombucha not only affects its taste but also significantly alters its chemical composition and antioxidant activity. The research indicates that kombucha made from green and oolong teas has the highest biological activity, while the fermentation process transforms each type of tea into a uniquely different beverage. This study is important as it reveals the profound impact that tea variety has on the final quality of kombucha, potentially guiding consumers to pay more attention to the source and type of tea when choosing their kombucha."
+          "analysis_zh": "科学家发现，制作康普茶所用的茶叶种类会显著影响其风味、化学成分和抗氧化活性。研究表明，绿茶和乌龙茶制作的康普茶生物活性最强，而不同的发酵过程使每种茶变成了独特的饮品。这一发现不仅有助于消费者选择更健康的饮品，还可能推动康普茶产业的发展，促使生产者探索不同茶叶的潜力。",
+          "analysis_en": "Scientists have discovered that the type of tea used to make kombucha significantly affects its flavor, chemistry, and antioxidant activity. The research indicates that kombucha made from green and oolong teas has the highest biological activity, while the fermentation process transforms each type of tea into a distinct beverage. This finding not only helps consumers make healthier drink choices but may also drive the kombucha industry to explore the potential of different teas."
         },
         {
           "rank": 4,
@@ -141,8 +141,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260620100315.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-23 14:31 UTC",
-          "analysis_zh": "研究人员揭示了H5N1禽流感为何会攻击奶牛的乳房而非肺部的原因：该病毒偏好的受体在乳腺组织中浓度较高。这一突破性发现有助于科学家预测未来禽流感的传播，并在异常感染广泛传播之前及时发现。了解H5N1在奶牛中的不同表现，可能对防控禽流感的传播具有重要意义，尤其是在新物种感染的情况下。",
-          "analysis_en": "Researchers have uncovered why H5N1 bird flu attacks the udders of dairy cows instead of their lungs: the virus's preferred receptors are concentrated in mammary tissue. This breakthrough could help scientists predict future bird flu outbreaks and identify unusual infections before they spread widely. Understanding the different behavior of H5N1 in cattle may be crucial for controlling the virus's transmission, especially if it infects new species."
+          "analysis_zh": "研究人员揭示了H5N1禽流感为何会攻击奶牛的乳腺而非肺部的原因：该病毒偏好的受体主要集中在乳腺组织中。这一突破性发现不仅解开了禽流感在奶牛中异常表现的谜团，还可能帮助科学家预测未来禽流感的传播方式和识别不寻常的感染情况。这一研究对公共卫生具有重要意义，因为它有助于防范潜在的禽流感疫情，尤其是在病毒可能跳跃到其他动物物种时。",
+          "analysis_en": "Researchers have uncovered why the H5N1 bird flu attacks the udders of dairy cows instead of their lungs: the virus's preferred receptors are concentrated in mammary tissue. This breakthrough not only solves the mystery of the virus's unusual behavior in cattle but could also help scientists predict future bird flu transmissions and identify unusual infections early. This research is significant for public health, as it aids in preventing potential bird flu outbreaks, especially if the virus jumps to other animal species."
         },
         {
           "rank": 5,
@@ -150,8 +150,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260619020514.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-23 12:06 UTC",
-          "analysis_zh": "一项新的研究表明，学习和记忆语言的过程与我们之前的理解大相径庭。研究发现，学习语言更多依赖于大脑对声音和感觉的处理，而非控制口腔和面部运动的区域。这一发现可能会改变言语治疗的方式，并为未来基于大脑的沟通技术的发展提供新的思路。随着对语言学习机制的深入理解，相关技术有望在中风后恢复沟通能力方面发挥重要作用。",
-          "analysis_en": "A new study suggests that the process of learning and remembering speech works differently than previously thought. It indicates that speech learning relies more on how the brain processes sounds and sensations rather than on the areas that control mouth and facial movements. This discovery could transform speech therapy and provide new insights for the development of future brain-based communication technologies. As our understanding of the mechanisms behind speech learning deepens, these technologies may play a crucial role in restoring communication abilities after a stroke."
+          "analysis_zh": "一项新的研究表明，学习和记忆语言的过程与我们之前的理解大相径庭。研究发现，语言学习更依赖于大脑对声音和感觉的处理，而不是控制口腔和面部运动的区域。这一发现可能会改变言语治疗的方式，并有助于未来基于大脑的沟通技术的发展。随着对语言学习机制的深入了解，这项研究或将为中风后的言语恢复提供新的思路。",
+          "analysis_en": "A new study suggests that the process of learning and remembering speech differs significantly from previous understandings. It reveals that speech learning relies more on how the brain processes sounds and sensations rather than on the areas that control mouth and facial movements. This discovery could transform speech therapy and aid in the development of future brain-based communication technologies. As we gain a deeper understanding of the mechanisms behind speech learning, this research may provide new insights for speech recovery after a stroke."
         },
         {
           "rank": 6,
@@ -159,8 +159,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260620100434.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-23 11:31 UTC",
-          "analysis_zh": "研究人员发现，来自医院的高度耐药细菌对一种常用的除草剂——草甘膦也表现出耐药性。这一发现表明，农业用除草剂可能在帮助抗生素耐药微生物的生存和传播，超出了医疗环境的范围。抗微生物耐药性每年导致全球约110万到140万的死亡，这一新研究揭示了除草剂可能是导致这一问题的一个新因素，值得引起广泛关注。",
-          "analysis_en": "Researchers have found that highly drug-resistant bacteria from hospitals are also resistant to glyphosate, a commonly used herbicide. This discovery suggests that agricultural herbicides may be aiding the survival and spread of antibiotic-resistant microbes beyond healthcare settings. Antimicrobial resistance contributes to an estimated 1.1 to 1.4 million deaths worldwide each year, and this new study highlights that herbicides could be an overlooked factor in this growing issue, warranting significant attention."
+          "analysis_zh": "研究人员发现，来自医院的高度耐药细菌也对常用的除草剂草甘膦产生耐药性。这一发现表明，农业除草剂可能在帮助抗生素耐药微生物存活并扩散，超出了医疗环境的范围。这一问题的重要性在于，抗微生物耐药性每年导致全球约110万到140万人的死亡，而草甘膦的使用可能加剧这一威胁。未来，农业实践可能需要重新评估，以减少对草甘膦的依赖，从而降低耐药性细菌的传播风险。",
+          "analysis_en": "Researchers found that highly drug-resistant bacteria from hospitals are also resistant to glyphosate, a commonly used herbicide. This discovery suggests that agricultural herbicides may be aiding the survival and spread of antibiotic-resistant microbes beyond healthcare settings. The significance of this issue lies in the fact that antimicrobial resistance contributes to an estimated 1.1 to 1.4 million deaths worldwide each year, and the use of glyphosate may exacerbate this threat. In the future, agricultural practices may need to be reassessed to reduce reliance on glyphosate and mitigate the risk of spreading resistant bacteria."
         },
         {
           "rank": 7,
@@ -168,8 +168,8 @@
           "link": "https://www.nytimes.com/2026/06/22/world/asia/pakistan-menstrual-period-tax.html",
           "source": "NYT > Health",
           "published_utc": "2026-06-23 05:41 UTC",
-          "analysis_zh": "巴基斯坦政府计划削减18%的月经产品税，这一举措受到活动家的欢迎。然而，尽管税率降低，仍有许多贫困家庭无法负担这些产品。根据数据显示，只有12%的女性和女孩使用安全的商业月经产品。这一政策的实施可能会改善部分女性的生活质量，但对于经济条件较差的家庭来说，依然面临着巨大的经济压力。",
-          "analysis_en": "The Pakistani government plans to cut the \"period tax\" on menstrual products by 18%, a move that has been welcomed by activists. However, many poor families will still find these products unaffordable despite the tax reduction. Currently, only 12% of women and girls in Pakistan use safe, commercially-made menstrual products. While this policy may improve the quality of life for some women, those from economically disadvantaged backgrounds will continue to face significant financial challenges."
+          "analysis_zh": "巴基斯坦政府计划削减18%的月经产品税，这一举措受到活动人士的欢迎。然而，尽管税收减免，仍有许多贫困家庭无法负担安全的商业月经产品。目前，只有12%的女性和女孩使用这些产品。此政策的实施可能会改善一些女性的生活质量，但对于经济条件较差的家庭来说，仍然面临着巨大的经济压力。",
+          "analysis_en": "The Pakistani government plans to cut the tax on menstrual products by 18%, a move welcomed by activists. However, many poor families still cannot afford safe, commercially-made menstrual products. Currently, only 12% of women and girls use these products. While this policy may improve the quality of life for some women, those from economically disadvantaged backgrounds will continue to face significant financial challenges."
         },
         {
           "rank": 8,
@@ -177,8 +177,8 @@
           "link": "https://www.nytimes.com/2026/06/17/us/data-centers-noise-pollution.html",
           "source": "NYT > Health",
           "published_utc": "2026-06-23 03:40 UTC",
-          "analysis_zh": "随着科技巨头们加速建设数据中心，一些居住在附近的居民反映，持续的低频振动正在严重影响他们的健康和生活质量。这一问题引发了公众对数据中心对周边环境影响的关注，尤其是在健康和居住条件方面。若不采取措施，这种隐形的健康风险可能会导致更广泛的社会问题，影响到居民的生活和心理状态。",
-          "analysis_en": "As tech giants rush to build data centers, some residents living nearby report that constant low-frequency vibrations are severely affecting their health and quality of life. This issue has raised public awareness about the environmental impact of data centers, particularly concerning health and living conditions. If not addressed, this invisible health risk could lead to broader societal problems, affecting residents' lives and mental well-being."
+          "analysis_zh": "随着科技巨头们加速建设数据中心，附近居民反映持续的低频振动正在严重影响他们的健康和生活质量。这一问题引发了人们对数据中心对周边环境影响的关注，尤其是在健康方面的潜在危害。随着人工智能和大数据的快速发展，数据中心的建设将进一步增加，这可能导致更多居民面临类似的健康问题。",
+          "analysis_en": "As tech giants rush to build data centers, residents living nearby report that constant low-frequency vibrations are severely affecting their health and quality of life. This issue has raised concerns about the environmental impact of data centers, particularly regarding potential health risks. With the rapid growth of artificial intelligence and big data, the construction of these centers is likely to increase, potentially exposing more residents to similar health issues."
         },
         {
           "rank": 9,
@@ -186,8 +186,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260622091502.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-23 03:04 UTC",
-          "analysis_zh": "一种名为GAE的微创治疗方法正在帮助慢性膝关节疼痛患者避免膝关节置换手术。早期研究表明，这种治疗可以通过减少关节内的炎症，为患者提供多年的缓解效果。这一进展不仅为那些经历关节炎的人带来了希望，还可能改变他们的生活方式，使他们能够重新参与如园艺和骑自行车等活动。随着这一新疗法的推广，更多患者可能会选择这种非手术的治疗方式，从而减轻医疗负担。",
-          "analysis_en": "A minimally invasive treatment called GAE is helping patients with chronic knee pain avoid knee replacement surgery. Early studies suggest that this procedure can provide years of relief by reducing inflammation within the joint. This development offers hope to arthritis sufferers and may significantly improve their quality of life, allowing them to return to activities like gardening and cycling. As this new treatment gains traction, more patients may opt for this non-surgical approach, potentially easing the overall healthcare burden."
+          "analysis_zh": "一种名为GAE的微创治疗方法正在帮助慢性膝关节疼痛患者避免膝关节置换手术。早期研究表明，这种治疗可以通过减少关节内的炎症，提供多年的缓解效果。这一进展对许多关节炎患者来说意义重大，因为它为那些未能从传统治疗中获益但又不希望进行大手术的患者提供了新的选择。随着这一技术的推广，更多人将能够恢复日常活动，如园艺和骑自行车，从而改善生活质量。",
+          "analysis_en": "A minimally invasive treatment called GAE is helping patients with chronic knee pain avoid knee replacement surgery. Early studies suggest that this procedure can provide years of relief by reducing inflammation within the joint. This development is significant for many arthritis sufferers, as it offers a new option for those who have not benefited from conventional treatments but are not ready for major surgery. As this technique becomes more widely available, more individuals will be able to return to everyday activities like gardening and cycling, thereby improving their quality of life."
         },
         {
           "rank": 10,
@@ -195,8 +195,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260622091429.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-23 01:44 UTC",
-          "analysis_zh": "一项新的研究表明，大多数人需要的蛋白质摄入量超过当前的最低建议。研究指出，增加锻炼和蛋白质摄入不仅可以帮助人们在老年时保持强壮和敏锐，还能延长健康寿命，确保人们能够更好地享受生活。这一发现的重要性在于，它挑战了传统的健康指导，强调了追求更高的健康标准而非仅仅避免营养缺乏。未来，这可能会促使公共健康政策的调整，鼓励人们采取更积极的生活方式。",
-          "analysis_en": "A new study suggests that most people require more protein than the current minimum recommendations indicate. The research highlights that increasing exercise and protein intake can help individuals remain stronger and sharper as they age, ultimately extending their healthspan and enhancing their quality of life. This finding is significant as it challenges traditional health guidelines, emphasizing the importance of striving for higher health standards rather than merely avoiding deficiencies. In the future, this may lead to adjustments in public health policies, encouraging people to adopt more proactive lifestyles."
+          "analysis_zh": "一项新的研究表明，大多数人需要摄入比当前建议更多的蛋白质和进行更多的锻炼，以帮助他们在衰老过程中保持更强的体力、敏锐的思维和独立的生活能力。这项研究强调，健康指南通常只关注避免营养缺乏，而忽视了促进长期健康和生活质量的重要性。通过增加蛋白质摄入和锻炼，个人不仅可以延长健康寿命，还能更好地享受生活的乐趣。",
+          "analysis_en": "A new study suggests that most people need to consume more protein and engage in more exercise than current guidelines recommend to maintain strength, mental sharpness, and independence as they age. This research highlights that health guidelines often focus solely on preventing deficiencies, overlooking the importance of promoting long-term health and quality of life. By increasing protein intake and physical activity, individuals can not only extend their healthspan but also enhance their overall enjoyment of life."
         }
       ]
     },
@@ -210,8 +210,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260619020514.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-06-23 12:06 UTC",
-          "analysis_zh": "一项新的研究表明，学习和记忆语言的过程与我们之前的理解大相径庭。研究发现，学习语言更多依赖于大脑对声音和感觉的处理，而非控制口腔和面部运动的区域。这一发现可能会改变言语治疗的方式，并有助于未来基于大脑的沟通技术的发展。随着对语言学习机制的深入理解，相关技术有望在中风后恢复交流能力方面发挥重要作用。",
-          "analysis_en": "A new study suggests that the process of learning and remembering speech differs significantly from previous understandings. The research indicates that speech learning relies more on how the brain processes sounds and sensations rather than on the areas that control mouth and facial movements. This discovery could transform speech therapy practices and aid in the development of future brain-based communication technologies. As our understanding of speech learning mechanisms deepens, these technologies may play a crucial role in restoring communication abilities after a stroke."
+          "analysis_zh": "一项新的研究表明，学习和记忆语言的过程与大脑如何处理声音和感觉关系更大，而不是仅仅依赖于控制口腔和面部运动的区域。这一发现可能会改变我们对言语学习的理解，并对言语治疗和未来基于大脑的沟通技术的发展产生深远影响。研究人员认为，听觉和身体感觉系统在获取和保持新的语言模式中起着关键作用，这可能会为中风后的言语恢复提供新的思路。",
+          "analysis_en": "A new study suggests that learning and remembering speech relies more on how the brain processes sounds and sensations than on the areas that control mouth and face movements. This finding could reshape our understanding of speech learning and have significant implications for speech therapy and the development of future brain-based communication technologies. Researchers believe that auditory and somatosensory systems play a crucial role in acquiring and retaining new speech patterns, which may offer new approaches for speech recovery after a stroke."
         }
       ]
     },
@@ -221,93 +221,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Here are the best Prime Day deals on the Verge staff’s favorite stuff",
-          "link": "https://www.theverge.com/gadgets/952503/best-prime-day-deals-verge-favorites-2026",
-          "source": "The Verge",
-          "published_utc": "2026-06-23 16:00 UTC",
-          "analysis_zh": "在2026年亚马逊的Prime Day促销活动中，虽然有数千种产品打折，但大多数并不值得关注。为了帮助消费者找到实用的产品，《The Verge》特别整理了他们员工推荐的最佳折扣商品，包括各种科技产品和其他实用物品。这一活动不仅能让消费者以更低的价格购买到心仪的商品，还可能影响到未来的消费趋势和市场需求。",
-          "analysis_en": "During Amazon's Prime Day 2026, while thousands of products are discounted, most of them are not particularly noteworthy. To assist consumers in finding useful items, The Verge has curated a list of the best deals on products favored by their staff, including various tech gadgets and other practical goods. This event not only allows consumers to purchase desired items at lower prices but may also influence future consumer trends and market demand."
+          "title": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute",
+          "link": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-06-23 21:15 UTC",
+          "analysis_zh": "最近，美国国家安全局（NSA）在与一家领先的人工智能开发公司Anthropic的争端中，失去了对一种强大人工智能模型的访问权限。这一事件凸显了特朗普政府在网络安全方面日益依赖先进人工智能系统的重要性，同时也反映出在技术竞争中，政府与企业之间的紧张关系。失去这一技术可能会影响国家安全的防护能力，尤其是在面对日益复杂的网络威胁时。",
+          "analysis_en": "Recently, the National Security Agency (NSA) lost access to a powerful AI model amid a dispute with leading U.S. developer Anthropic. This incident highlights the Trump administration's increasing reliance on advanced AI systems for cybersecurity, while also revealing the tensions between government and tech companies in the competitive landscape. Losing access to this technology could impact national security capabilities, especially when facing increasingly complex cyber threats."
         },
         {
           "rank": 2,
-          "title": "Netflix’s next TV gaming experiment will scare the hell out of you",
-          "link": "https://www.theverge.com/entertainment/953933/unhinged-netflix-horror-tv-game",
+          "title": "Prime Day takes $240 off Roborock’s Saros 20, one of our favorite robovacs",
+          "link": "https://www.theverge.com/gadgets/953936/roborock-saros-20-amazon-deal-sale",
           "source": "The Verge",
-          "published_utc": "2026-06-23 16:00 UTC",
-          "analysis_zh": "Netflix最近在其游戏计划中迈出了重要一步，推出了一款名为《Unhinged》的互动恐怖游戏。这款游戏由Night School工作室开发，标志着Netflix在云游戏领域的创新尝试。与之前的轻松游戏不同，这款游戏将为玩家带来更为惊悚的体验，可能会改变人们对Netflix游戏的看法。这一举措不仅丰富了Netflix的内容生态，也可能吸引更多喜欢恐怖题材的用户，进一步提升其在游戏市场的竞争力。",
-          "analysis_en": "Netflix has recently taken a significant step in its gaming initiative by launching an interactive horror game called \"Unhinged.\" Developed by Night School Studio, this game represents an innovative attempt by Netflix in the cloud gaming space. Unlike its previous lighter games, this title aims to deliver a more terrifying experience, potentially changing perceptions of Netflix's gaming offerings. This move not only enriches Netflix's content ecosystem but may also attract more users who enjoy horror themes, enhancing its competitiveness in the gaming market."
+          "published_utc": "2026-06-23 21:00 UTC",
+          "analysis_zh": "在亚马逊的Prime Day促销活动中，Roborock Saros 20吸尘器的价格下降了240美元，现售价为1359.99美元。这款吸尘器兼具吸尘和拖地功能，因其出色的清洁能力和智能设计而受到广泛喜爱。此次降价不仅让更多消费者能够以更低的价格购买到高品质的家用电器，也可能推动智能家居市场的进一步发展。",
+          "analysis_en": "During Amazon's Prime Day sale, the price of the Roborock Saros 20 vacuum cleaner was reduced by $240, bringing it down to $1,359.99. This vacuum, which combines both vacuuming and mopping functions, is highly regarded for its excellent cleaning performance and smart design. The price drop not only makes it more accessible for consumers to purchase a high-quality home appliance but may also encourage further growth in the smart home market."
         },
         {
           "rank": 3,
-          "title": "Something’s off with Midjourney’s pivot to body scanners",
-          "link": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
+          "title": "The Meta Quest 3S is on sale for $297 — which is basically its old price",
+          "link": "https://www.theverge.com/gadgets/954049/meta-quest-3s-vr-headset-prime-day-deal-sale",
           "source": "The Verge",
-          "published_utc": "2026-06-23 15:56 UTC",
-          "analysis_zh": "上周，知名AI初创公司Midjourney做出了一个不寻常的转型，进入医疗影像领域。该公司宣布推出一种未来主义的超声波扫描仪，计划将用户浸入水中，期望能够产生“与MRI一样强大”的影像，同时又“像去水疗一样轻松”。这一举动引发了专家的质疑，他们认为Midjourney缺乏足够的证据来支持其雄心勃勃的目标。此举不仅意味着Midjourney从生成合成图像转向高风险且受严格监管的医疗行业，也可能影响到医疗影像技术的未来发展。",
-          "analysis_en": "Last week, the well-known AI startup Midjourney made an unusual pivot into the field of medical imaging. The company announced a futuristic ultrasound scanner that would immerse users in water, aiming to produce images \"as powerful as MRI\" yet \"as casual as a trip to the spa.\" This move has raised skepticism among experts, who argue that Midjourney lacks sufficient evidence to support its ambitious claims. This transition not only marks a shift from generating synthetic images to entering the high-stakes, heavily regulated medical industry but could also impact the future development of medical imaging technology."
+          "published_utc": "2026-06-23 21:00 UTC",
+          "analysis_zh": "Meta Quest 3S虚拟现实头盔在亚马逊的售价为296.79美元，打折约53美元。这款头盔是Meta的入门级产品，最初于2024年以299.99美元的价格推出，今年价格上涨至349.99美元。虽然这次的折扣并不算特别吸引人，但对于新产品来说，这个价格仍然是相对合理的。此产品的推出和定价策略可能会影响消费者对Meta品牌的认知，以及在竞争激烈的虚拟现实市场中的销售表现。",
+          "analysis_en": "The Meta Quest 3S VR headset is currently priced at $296.79 on Amazon, which is about $53 off its regular price. This entry-level headset from Meta was initially launched in 2024 for $299.99, but its price increased to $349.99 earlier this year. While this discount may not be particularly exciting, it is still a reasonable price for a new unit. The pricing strategy and product launch could influence consumer perceptions of the Meta brand and its sales performance in the highly competitive virtual reality market."
         },
         {
           "rank": 4,
-          "title": "Meta’s smart glasses now have a dedicated charging stand",
-          "link": "https://www.theverge.com/tech/954900/meta-glasses-charging-stand-price-launch",
-          "source": "The Verge",
-          "published_utc": "2026-06-23 15:39 UTC",
-          "analysis_zh": "Meta推出了一款新的充电支架，允许用户在桌面或床头展示其智能眼镜并进行充电。这款充电支架售价59美元，比Meta非Ray-Ban眼镜的充电盒便宜30美元。虽然该支架不兼容Ray-Ban Display或Oakley Meta Vanguard眼镜，但支持多款Ray-Ban眼镜型号。这一新配件的推出不仅提升了用户体验，还可能推动Meta智能眼镜的销量，进一步巩固其在可穿戴设备市场的地位。",
-          "analysis_en": "Meta has launched a new charging stand that allows users to display their smart glasses on a desk or nightstand while they charge. Priced at $59, this stand is $30 cheaper than the charging case for Meta's non-Ray-Ban glasses. While the stand is not compatible with the Ray-Ban Display or Oakley Meta Vanguard models, it supports several Ray-Ban styles. This new accessory not only enhances user experience but may also boost sales of Meta's smart glasses, further solidifying its position in the wearable technology market."
+          "title": "Heads in the game",
+          "link": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/",
+          "source": "MIT Technology Review",
+          "published_utc": "2026-06-23 21:00 UTC",
+          "analysis_zh": "2022年卡塔尔世界杯决赛中，阿根廷与法国的对决成为足球历史上最精彩的比赛之一。在加时赛的最后12分钟，裁判面临着一个关键的决定，这一时刻对比赛的结果至关重要。梅西的表现引发了全球球迷的热议，这场比赛不仅影响了两国的足球历史，也可能改变未来世界杯的竞争格局。",
+          "analysis_en": "The final match of the 2022 World Cup in Qatar between Argentina and France has been hailed as one of the most thrilling games in soccer history. With just 12 minutes left in extra time, the referee faced a critical decision that could determine the outcome of the match. Messi's performance sparked discussions among fans worldwide, and this game not only impacts the football history of both nations but may also reshape the competitive landscape of future World Cups."
         },
         {
           "rank": 5,
-          "title": "How much would the Steam Machine cost to build?",
-          "link": "https://www.theverge.com/games/953989/valve-steam-machine-pc-build-alternative",
-          "source": "The Verge",
-          "published_utc": "2026-06-23 15:30 UTC",
-          "analysis_zh": "Steam Machine的售价为1049美元，几乎是PS5价格的两倍，但它并不是一台普通的游戏主机，而是一台小型的完整PC。Valve表示，Steam Machine的售价基本上是以成本价出售。这一产品的发布可能会影响PC游戏市场的竞争格局，因为它提供了与传统主机不同的游戏体验，吸引了希望在家中享受高性能游戏的玩家。",
-          "analysis_en": "The Steam Machine is priced at $1,049, nearly double that of a PS5, but it is not just a typical gaming console; it is a compact full-fledged PC. Valve claims that the Steam Machine is being sold at cost. The launch of this product could impact the competitive landscape of the PC gaming market, as it offers a different gaming experience compared to traditional consoles, appealing to players who want high-performance gaming at home."
+          "title": "Super Mario is mathier than you think",
+          "link": "https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/",
+          "source": "MIT Technology Review",
+          "published_utc": "2026-06-23 21:00 UTC",
+          "analysis_zh": "《超级马里奥》不仅仅是一款游戏，它实际上蕴含了丰富的数学原理。通过游戏中的关卡设计和物理机制，玩家在不知不觉中学习了许多数学概念。这一发现不仅提升了游戏的教育价值，也引发了人们对游戏在学习中的潜力的重新思考。随着教育技术的发展，类似的游戏可能会被更多地应用于课堂教学中。",
+          "analysis_en": "\"Super Mario\" is more than just a game; it actually incorporates a wealth of mathematical principles. Through the design of its levels and physical mechanics, players unknowingly learn various mathematical concepts. This discovery not only enhances the educational value of the game but also prompts a reevaluation of the potential of games in learning. As educational technology evolves, similar games may be increasingly integrated into classroom teaching."
         },
         {
           "rank": 6,
-          "title": "The best Prime Day deals we found on our favorite gear",
-          "link": "https://www.theverge.com/gadgets/948610/best-prime-day-tech-deals-sale",
-          "source": "The Verge",
-          "published_utc": "2026-06-23 15:12 UTC",
-          "analysis_zh": "亚马逊的会员日活动正在进行中，为期四天，会员们可以在此期间享受各种折扣，活动将于6月27日凌晨3:01（东部时间）结束。此次活动的重要性在于，它为消费者提供了大量的科技产品折扣，包括智能家居设备、耳机和4K电视等。随着每年折扣数量的增加，消费者在选择优质商品时面临更多挑战，因此了解哪些产品值得购买显得尤为重要。这次活动不仅能帮助消费者节省开支，还可能影响他们未来的购物决策。",
-          "analysis_en": "Amazon's Prime Day is currently underway, lasting for four days, during which members can take advantage of various discounts until the sale ends at 3:01 AM ET on June 27. This event is significant as it offers consumers substantial savings on a wide range of tech products, including smart home devices, earbuds, and 4K TVs. With the growing number of deals each year, consumers face more challenges in identifying quality products, making it crucial to know which items are worth purchasing. This event not only helps consumers save money but may also influence their future shopping decisions."
+          "title": "A man of many words",
+          "link": "https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/",
+          "source": "MIT Technology Review",
+          "published_utc": "2026-06-23 21:00 UTC",
+          "analysis_zh": "布莱恩·西特西马是斯克里普斯全国拼字比赛的发音确认员，他被认为是这个世界上最具声望的拼字比赛之一的关键人物。他的工作不仅仅是确认拼写和发音，还涉及到对词源的深入了解。这样的角色在比赛中至关重要，因为它确保了比赛的公平性和准确性。西特西马的热情和专业知识不仅影响着参赛者的表现，也为观众提供了更深层次的语言理解。",
+          "analysis_en": "Brian Sietsema serves as the pronunciation confirmer for the Scripps National Spelling Bee, one of the most prestigious spelling competitions in the world. His role goes beyond simply confirming spellings and pronunciations; it also involves a deep understanding of word origins. This position is crucial for ensuring fairness and accuracy in the competition. Sietsema's passion and expertise not only impact the contestants' performances but also enrich the audience's understanding of language."
         },
         {
           "rank": 7,
-          "title": "Tesla Crash That Killed a Texas Woman Will be Investigated by Federal Regulators",
-          "link": "https://www.nytimes.com/2026/06/22/business/tesla-texas-autopilot-crash-nhtsa.html",
-          "source": "NYT > Technology",
-          "published_utc": "2026-06-23 15:11 UTC",
-          "analysis_zh": "近日，一名德克萨斯州的女性在特斯拉汽车发生事故中不幸遇难，事故发生时车辆的驾驶辅助系统正在使用中。此事件引起了联邦监管机构的关注，他们决定对此进行调查。这起事故的重要性在于，它可能会影响公众对自动驾驶技术的信任，并促使相关法规的进一步完善。随着越来越多的自动驾驶汽车上路，确保安全性和可靠性变得尤为重要。",
-          "analysis_en": "Recently, a Texas woman tragically lost her life in a Tesla crash while the vehicle's driver-assistance system was in use. This incident has drawn the attention of federal regulators, who have decided to investigate the matter. The significance of this accident lies in its potential impact on public trust in autonomous driving technology, which may lead to further regulatory improvements. As more self-driving cars hit the roads, ensuring their safety and reliability becomes increasingly crucial."
+          "title": "Sharing a love for calculus",
+          "link": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/",
+          "source": "MIT Technology Review",
+          "published_utc": "2026-06-23 21:00 UTC",
+          "analysis_zh": "目前，关于教育价值的全国性讨论主要集中在人工智能的风险和潜在好处上。然而，麻省理工学院正在关注一个相对传统但同样重要的挑战：美国高中学生在微积分学习上的不平等机会。这一问题的重要性在于，它直接影响到学生的数学能力和未来的学术发展。解决这一不平等现象可能会促进教育公平，并为更多学生提供更好的学习资源。",
+          "analysis_en": "Currently, the national conversation about the value of education is largely focused on the risks and potential benefits of artificial intelligence. However, MIT is addressing a relatively traditional yet crucial challenge: the uneven access to calculus education among American high school students. This issue is significant because it directly impacts students' mathematical skills and their future academic opportunities. Addressing this inequality could promote educational equity and provide better learning resources for more students."
         },
         {
           "rank": 8,
-          "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
-          "link": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
-          "source": "The Verge",
-          "published_utc": "2026-06-23 15:00 UTC",
-          "analysis_zh": "谷歌推出的Fitbit Air智能手环引入了一款名为Google Health Coach的AI健康教练，旨在帮助用户更好地管理健康。根据用户的反馈，这款手环能够监测睡眠质量、心率变异性等健康指标，并给出相应的建议，比如避免高温环境和保持水分摄入。这一产品的推出不仅展示了AI在健康管理领域的潜力，也可能改变人们对可穿戴设备的使用方式，推动健康科技的进一步发展。",
-          "analysis_en": "Google has launched the Fitbit Air, which features an AI health coach called Google Health Coach designed to help users manage their health more effectively. Based on user feedback, the device monitors health metrics such as sleep quality and heart rate variability, providing recommendations like avoiding hot environments and staying hydrated. The introduction of this product not only showcases the potential of AI in health management but may also change how people use wearable devices, driving further advancements in health technology."
+          "title": "Stand Up for Research, Innovation, and Education",
+          "link": "https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/",
+          "source": "MIT Technology Review",
+          "published_utc": "2026-06-23 21:00 UTC",
+          "analysis_zh": "麻省理工学院的校友和朋友们正在积极表达对美国科学和技术领导地位的支持。他们强调了基于能力的招生和可负担教育的重要性，以及促进美国健康、安全和繁荣的进展。这一举动不仅体现了MIT社区对其使命的坚定支持，也反映了对国家和全球服务的承诺。这样的支持可能会影响未来的政策制定，尤其是在教育和科技投资方面。",
+          "analysis_en": "MIT alumni and friends are actively voicing their support for America's leadership in science and technology. They emphasize the importance of merit-based admissions and affordable education, as well as advancements that enhance US health, security, and prosperity. This initiative not only demonstrates the MIT community's strong backing for its mission but also reflects a commitment to serving both the nation and the world. Such support could influence future policy-making, particularly in areas related to education and technological investment."
         },
         {
           "rank": 9,
-          "title": "Hoto’s 25-bit electric screwdriver is 40 percent off during Prime Day",
-          "link": "https://www.theverge.com/gadgets/953038/hoto-electric-screwdriver-kit-pro-amazon-deal-sale",
-          "source": "The Verge",
-          "published_utc": "2026-06-23 14:00 UTC",
-          "analysis_zh": "Hoto的25件电动螺丝刀在亚马逊的Prime Day活动中降价40%，售价仅为28.49美元。这款3.6V电动螺丝刀套件非常适合搬家或处理家中小修小补，能够节省时间和精力。此次促销不仅让消费者以更低的价格购买到高质量的工具，还可能推动更多人进行家庭维修，提升DIY的热情。",
-          "analysis_en": "Hoto's 25-bit electric screwdriver is currently 40% off during Amazon's Prime Day, priced at just $28.49. This 3.6V electric screwdriver kit is ideal for moving into a new home or handling small repairs around the house, saving users time and effort. This promotion not only allows consumers to purchase a high-quality tool at a lower price but may also encourage more people to engage in home repairs and boost DIY enthusiasm."
+          "title": "Ultrasound imaging turns a robot hand into a skillful mimic",
+          "link": "https://www.technologyreview.com/2026/06/23/1138279/ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic/",
+          "source": "MIT Technology Review",
+          "published_utc": "2026-06-23 21:00 UTC",
+          "analysis_zh": "最近，研究人员利用超声成像技术，使机器人手能够更好地模仿人类的灵巧动作。人类的手由34块肌肉、27个关节以及超过100条肌腱和韧带组成，能够完成复杂的动作，这一特性一直是机器人技术的难点。通过捕捉手部运动的细微变化，研究人员希望提升机器人的灵活性和精确度。这项技术的进步将可能推动机器人在医疗、制造等领域的应用，提升其工作效率和适应能力。",
+          "analysis_en": "Recently, researchers have utilized ultrasound imaging technology to enable robot hands to better mimic the dexterous movements of human hands. Human hands consist of 34 muscles, 27 joints, and over 100 tendons and ligaments, allowing for complex movements, which has been a challenge for robotics. By capturing the subtle changes in hand movements, researchers aim to enhance the flexibility and precision of robots. This advancement could potentially drive the application of robots in fields such as healthcare and manufacturing, improving their efficiency and adaptability."
         },
         {
           "rank": 10,
-          "title": "The Oura Ring 4 is as low as $226 for Prime Day",
-          "link": "https://www.theverge.com/gadgets/953517/oura-ring-4-prime-day-smart-ring-deal-sale",
-          "source": "The Verge",
-          "published_utc": "2026-06-23 13:30 UTC",
-          "analysis_zh": "Oura Ring 4在亚马逊的Prime Day促销中，价格低至226美元，吸引了许多消费者的关注。尽管Oura Ring 5刚刚发布，但对于预算有限且不介意稍厚的智能戒指的用户来说，选择Oura Ring 4仍然是一个明智的决定。这一价格大幅下降，使得这款原价349美元的可穿戴设备变得更加亲民。Oura Ring 4仍然具备与新款相同的健康追踪功能，用户可以享受到相同的使用体验。",
-          "analysis_en": "The Oura Ring 4 is now available for as low as $226 during Amazon's Prime Day sale, drawing significant attention from consumers. Although the Oura Ring 5 has just been released, opting for the Oura Ring 4 is still a smart choice for those on a budget who don't mind a slightly thicker smart ring. This substantial price drop makes the wearable, originally priced at $349, much more accessible. The Oura Ring 4 retains the same health tracking features as the newer model, allowing users to enjoy a similar experience."
+          "title": "Reinventing the zipper",
+          "link": "https://www.technologyreview.com/2026/06/23/1138282/reinventing-the-zipper/",
+          "source": "MIT Technology Review",
+          "published_utc": "2026-06-23 21:00 UTC",
+          "analysis_zh": "麻省理工学院的研究团队开发了一种新型的可调节拉链，这种设计可以使搭帐篷或调整骨折石膏变得像拉上外套一样简单。该项目由副教授斯特凡妮·穆勒领导，灵感来源于威廉·弗里曼曾经申请的三面拉链的原型。这个创新不仅可以提升日常生活的便利性，还可能对医疗和户外活动等领域产生深远影响。",
+          "analysis_en": "A research team at MIT has developed a new type of adjustable zipper that could make tasks like pitching a tent or adjusting a cast for a broken bone as easy as zipping up a coat. Led by associate professor Stefanie Mueller, the project was inspired by an abandoned prototype for a three-sided zipper patented by William Freeman. This innovation not only enhances everyday convenience but could also have significant implications for fields such as healthcare and outdoor activities."
         }
       ]
     },
@@ -317,93 +317,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "‘The Sound of Music’ and ‘A Few Good Men’ Are Coming to Broadway",
-          "link": "https://www.nytimes.com/2026/06/23/theater/sound-of-music-a-few-good-men-broadway.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-06-23 16:15 UTC",
-          "analysis_zh": "林肯中心剧院在其获得托尼奖的《拉格泰姆》成功之后，计划在本季复兴两部更为知名的作品《音乐之声》和《好人寥寥》。这一决定不仅展示了剧院对经典作品的重视，也反映了观众对传统音乐剧的持续热情。这些复兴可能会吸引更多观众前来观看，进而推动剧院的票房和影响力。",
-          "analysis_en": "Lincoln Center Theater, following the success of its Tony-winning production of \"Ragtime,\" plans to revive two more well-known titles this season: \"The Sound of Music\" and \"A Few Good Men.\" This decision highlights the theater's commitment to classic works and reflects the ongoing enthusiasm of audiences for traditional musicals. These revivals are likely to draw more viewers, potentially boosting the theater's box office and overall influence."
+          "title": "New Museum and Korea’s Ulsan Art Museum Inaugurate Partnership with Ho Tzu Nyen Commission",
+          "link": "https://www.artnews.com/art-news/news/new-museum-ulsan-art-museum-partnership-ho-tzu-nyen-commission-1234790042/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-06-23 20:55 UTC",
+          "analysis_zh": "纽约新博物馆与韩国蔚山艺术博物馆宣布建立多年的合作伙伴关系，作为现代汽车公司“现代跨地域系列”计划的一部分。这一合作将促进两国在当代艺术领域的交流与合作，具有重要的文化意义。通过这样的合作，艺术家们将有机会在国际舞台上展示他们的作品，进一步推动全球艺术界的互动与发展。",
+          "analysis_en": "The New Museum in New York and Korea's Ulsan Art Museum have announced a multi-year partnership as part of Hyundai Motor Company's \"Hyundai Translocal Series.\" This collaboration aims to enhance cultural exchange and cooperation in contemporary art between the two countries, which is significant for the arts community. By fostering such partnerships, artists will have the opportunity to showcase their work on an international stage, promoting greater interaction and development within the global art scene."
         },
         {
           "rank": 2,
-          "title": "Manhattan Borough President Gives $50 Million to N.Y.C. Arts Groups",
-          "link": "https://www.nytimes.com/2026/06/23/arts/design/nyc-arts-funding-manhattan-borough-president.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-06-23 16:01 UTC",
-          "analysis_zh": "曼哈顿区区长布拉德·霍伊尔曼-西戈尔宣布将5000万美元的区预算全部拨给纽约市的艺术团体。他表示，这一举措旨在向特朗普总统传达一个信息，即艺术资金的必要性。此举不仅支持了当地的文化项目，还可能激励其他城市采取类似措施，以确保艺术和文化的持续发展。",
-          "analysis_en": "Manhattan Borough President Brad Hoylman-Sigal announced the allocation of $50 million from the borough's discretionary budget entirely to arts groups in New York City. He stated that this move aims to send a message to President Trump about the importance of maintaining funding for the arts. This initiative not only supports local cultural projects but may also encourage other cities to adopt similar measures to ensure the ongoing development of arts and culture."
+          "title": "Manhattan Borough President Plans to Use His $50 M. Budget Toward the Arts, as Rebuff to the Trump Administration",
+          "link": "https://www.artnews.com/art-news/news/manhattan-borough-president-2026-budget-arts-trump-1234790051/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-06-23 20:47 UTC",
+          "analysis_zh": "曼哈顿区长计划将其5000万美元的预算用于艺术项目，以此作为对特朗普政府的反击。根据提案，纽约自然历史博物馆、El Museo del Barrio和美国华人博物馆将各获得200万美元的资助。这一举措不仅强调了艺术在社区中的重要性，也反映了地方政府对联邦政策的抵制，可能会激励其他城市采取类似的行动，推动文化艺术的发展。",
+          "analysis_en": "The Manhattan Borough President plans to allocate his $50 million budget towards arts initiatives as a rebuff to the Trump administration. Under this proposal, the American Museum of Natural History, El Museo del Barrio, and the Museum of Chinese in America are set to receive $2 million each. This move not only underscores the importance of arts in the community but also reflects local government resistance to federal policies, potentially inspiring other cities to take similar actions and promote cultural development."
         },
         {
           "rank": 3,
-          "title": "Can’t Stop Second-Screening? Netflix Is Counting on It.",
-          "link": "https://www.nytimes.com/2026/06/23/arts/television/netflix-unhinged.html",
+          "title": "Lin-Manuel Miranda’s ‘Warriors’ Musical to Hit Broadway Next Spring",
+          "link": "https://www.nytimes.com/2026/06/23/theater/warriors-broadway-lin-manuel-miranda.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-06-23 16:00 UTC",
-          "analysis_zh": "Netflix推出了一款新游戏，利用Zoë Kravitz和Sadie Sink的声音，将用户的手机变成控制器，旨在结合第一屏和第二屏的体验。这一创新举措不仅为用户提供了更为沉浸的互动体验，也可能改变观众与内容之间的互动方式。随着越来越多的人在观看视频时使用手机，这种整合可能会吸引更多用户参与，从而提升Netflix的用户粘性和市场竞争力。",
-          "analysis_en": "Netflix has launched a new game that uses the voices of Zoë Kravitz and Sadie Sink, turning users' phones into controllers to merge the first and second screen experiences. This innovative approach not only offers a more immersive interactive experience for users but could also change how viewers engage with content. As more people use their phones while watching videos, this integration may attract greater user participation, enhancing Netflix's user retention and competitive edge in the market."
+          "published_utc": "2026-06-23 20:47 UTC",
+          "analysis_zh": "林-曼努尔·米兰达（Lin-Manuel Miranda）与艾萨·戴维斯（Eisa Davis）共同创作的音乐剧《勇士》（Warriors）将于明年春季在百老汇首演。这是米兰达自《汉密尔顿》（Hamilton）以来的首部新作，改编自经典电影和小说《勇士》。这一消息引发了广泛关注，因为米兰达以其创新的音乐风格和叙事能力而闻名，预计这部作品将为观众带来新的视听体验。音乐剧的成功可能会进一步推动百老汇的多样性和创新发展。",
+          "analysis_en": "Lin-Manuel Miranda's new musical \"Warriors,\" co-written with Eisa Davis, is set to debut on Broadway next spring. This marks Miranda's first new project since \"Hamilton,\" and it is based on the classic film and novel \"The Warriors.\" The announcement has generated significant excitement, as Miranda is known for his innovative musical style and storytelling prowess, suggesting that this production will offer a fresh experience for audiences. The success of this musical could further enhance diversity and innovation within the Broadway scene."
         },
         {
           "rank": 4,
-          "title": "Up Late With Botticelli as the Uffizi Gets a Reset",
-          "link": "https://www.nytimes.com/2026/06/23/arts/design/uffizi-botticelli-rehang-simone-verde.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-06-23 15:30 UTC",
-          "analysis_zh": "佛罗伦萨的乌菲兹美术馆正在进行一场重大的变革，馆长西蒙·维尔德正在加班努力，将这座博物馆打造成一个活的百科全书。这一转变不仅旨在吸引更多的游客，还希望通过创新的展览和教育项目，提升公众对艺术的理解和欣赏。这一举措可能会改变人们对传统博物馆的看法，推动其他文化机构进行类似的改革。",
-          "analysis_en": "The Uffizi Gallery in Florence is undergoing a significant transformation, with director Simone Verde working long hours to turn the museum into a living encyclopedia. This change aims not only to attract more visitors but also to enhance the public's understanding and appreciation of art through innovative exhibitions and educational programs. This initiative may alter perceptions of traditional museums and inspire other cultural institutions to pursue similar reforms."
+          "title": "National Trust, Mid-Fight with Trump over White House Ballroom and Kennedy Center, Elects New President",
+          "link": "https://www.artnews.com/art-news/news/national-trust-historic-preservation-new-president-1234790050/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-06-23 20:41 UTC",
+          "analysis_zh": "国家历史保护信托组织最近选举了新任主席布伦特·莱格斯，他在该组织工作超过20年，并曾担任非裔美国人文化遗产行动基金的主任。这一任命在特朗普政府与该组织之间的争斗中显得尤为重要，尤其是在白宫舞厅和肯尼迪中心的保护问题上。莱格斯的领导可能会影响未来的文化遗产保护政策，并在公众和政府之间建立更强的沟通桥梁。",
+          "analysis_en": "The National Trust for Historic Preservation has elected Brent Leggs as its new president, who has worked with the organization for over 20 years, including a role as the director of its African American Cultural Heritage Action Fund. This appointment is particularly significant amid the ongoing conflict between the Trump administration and the organization regarding the preservation of the White House ballroom and the Kennedy Center. Leggs' leadership may influence future cultural heritage preservation policies and strengthen communication between the public and the government."
         },
         {
           "rank": 5,
-          "title": "commodore’s Y2K-style flip phone has T9 texting, maps, and music, but no social media",
-          "link": "https://www.designboom.com/technology/commodore-callback-8020-y2k-flip-phone-t9-texting-no-social-media/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-06-23 15:22 UTC",
-          "analysis_zh": "最近，Commodore推出了一款Y2K风格的翻盖手机，配备了T9输入法、地图和音乐功能，但没有社交媒体应用。这款手机为那些希望摆脱智能手机“随时在线”状态的用户提供了一个替代选择。此举不仅吸引了怀旧的消费者，也可能影响市场上对传统手机的需求，尤其是在年轻人中间，他们可能会对这种简单的通讯方式产生兴趣。",
-          "analysis_en": "Recently, Commodore launched a Y2K-style flip phone that features T9 texting, maps, and music, but lacks social media applications. This phone offers an alternative for users looking to escape the \"always-on\" nature of smartphones. This move not only appeals to nostalgic consumers but could also influence the demand for traditional phones in the market, particularly among younger users who may find this simpler form of communication appealing."
+          "title": "R.M.S. Titanic’s Plan to Sell Salvaged Artifacts at Auction Faces Ongoing Opposition",
+          "link": "https://www.artnews.com/art-news/news/rms-titanic-sell-salvaged-artifacts-auction-ongoing-opposition-1234790045/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-06-23 20:14 UTC",
+          "analysis_zh": "R.M.S. 泰坦尼克号计划在拍卖会上出售1987年从海底打捞上来的文物，但这一计划面临持续的反对。反对者认为，这些文物应被视为历史遗产，而不是商业商品。此事件引发了公众对文化遗产保护的广泛讨论，可能会影响未来类似文物的处理方式和相关法律法规的制定。",
+          "analysis_en": "The R.M.S. Titanic's plan to auction artifacts salvaged from the ocean floor in 1987 is facing ongoing opposition. Opponents argue that these items should be regarded as historical heritage rather than commercial products. This situation has sparked widespread public discussion about the protection of cultural heritage, which may influence how similar artifacts are handled in the future and the development of related laws and regulations."
         },
         {
           "rank": 6,
-          "title": "2026 Jimmy Awards: With Bowen Yang as Host, Teen Winners Are Crowned",
-          "link": "https://www.nytimes.com/2026/06/23/theater/jimmy-awards-bowen-yang-musical-theater.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-06-23 15:03 UTC",
-          "analysis_zh": "2026年吉米奖颁奖典礼上，乔治亚州和亚利桑那州的学生获得了最高奖项，活动由博文·杨主持。此次颁奖典礼旨在表彰高中音乐剧的卓越表现，吸引了众多年轻才华的参与。这样的活动不仅鼓励了学生们在艺术方面的发展，也为他们提供了展示才华的舞台，可能会影响他们未来的职业选择和艺术追求。",
-          "analysis_en": "At the 2026 Jimmy Awards, students from Georgia and Arizona were awarded the top honors, with Bowen Yang serving as the host. This ceremony celebrates excellence in high school musical theater, showcasing the talents of young performers. Such events not only encourage students to pursue their artistic endeavors but also provide a platform for them to showcase their skills, potentially influencing their future career paths and artistic aspirations."
+          "title": "Artists Facing Censorship Can Turn to This New Guideline for Guidance",
+          "link": "https://www.artnews.com/art-news/news/artists-facing-censorshipturn-to-this-for-guidance-1234790040/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-06-23 20:06 UTC",
+          "analysis_zh": "最近，一份名为《艺术家捍卫艺术自由指南》的新指引发布，旨在帮助面临审查的艺术家应对被取消的展览。这份指南提供了多种策略，帮助艺术家在困境中找到出路。此举的重要性在于，艺术自由是文化表达的基石，而审查可能会抑制创作和社会对话。通过这份指南，艺术家们可以更有效地维护自己的权利，促进艺术界的多样性和包容性。",
+          "analysis_en": "Recently, a new guideline titled \"The Artist's Guide to Defending Artistic Freedom\" was released to assist artists facing censorship and canceled exhibitions. This guide offers various strategies to help artists navigate their challenges. The significance of this initiative lies in the fact that artistic freedom is a cornerstone of cultural expression, and censorship can stifle creativity and social dialogue. With this guide, artists can more effectively defend their rights and promote diversity and inclusivity within the art community."
         },
         {
           "rank": 7,
-          "title": "Mourning After the Michael Jackson Movie? It Might Be ‘Michosis.’",
-          "link": "https://www.nytimes.com/2026/06/23/movies/michael-jackson-mourning-michosis.html",
+          "title": "7 Songs That Spun My Head Around",
+          "link": "https://www.nytimes.com/2026/06/23/arts/music/amplifier-newsletter-rosalia-sylvan-esso.html",
           "source": "NYT > Arts",
-          "published_utc": "2026-06-23 15:02 UTC",
-          "analysis_zh": "一些迈克尔·杰克逊的粉丝在观看他的传记电影后，感到深深的悲痛和失落。这种情感的出现提醒了他们杰克逊的离世，许多人表示这种悲伤似乎难以消散。这种现象不仅反映了杰克逊在音乐界的重要地位，也可能影响到他的粉丝群体，促使他们重新审视他留下的遗产和影响。",
-          "analysis_en": "Some fans of Michael Jackson are experiencing profound grief and loss after watching his biopic. This emotional response serves as a stark reminder of his absence, with many expressing that the sadness feels persistent. This phenomenon not only highlights Jackson's significant role in the music industry but may also influence his fanbase to reevaluate his legacy and impact."
+          "published_utc": "2026-06-23 19:48 UTC",
+          "analysis_zh": "最近，一篇关于音乐的文章探讨了七首令人耳目一新的歌曲，包括了罗萨莉亚的巡演亮点和1970年代被遗忘的新波音乐。这些歌曲不仅展示了不同音乐风格的魅力，还反映了音乐如何影响我们的情感和记忆。这篇文章的重要性在于它提醒我们，音乐不仅是一种艺术形式，更是文化和历史的载体，能够激发人们的共鸣和思考。",
+          "analysis_en": "Recently, an article explored seven refreshing songs, featuring a highlight from Rosalía's tour and forgotten new wave music from the 1970s. These tracks showcase the appeal of various musical styles and reflect how music can influence our emotions and memories. The significance of this article lies in its reminder that music is not just an art form but also a vessel of culture and history, capable of evoking resonance and thought in listeners."
         },
         {
           "rank": 8,
-          "title": "How Smithsonian Secretary Lonnie Bunch’s Lunch With Trump Actually Went Down",
-          "link": "https://www.artnews.com/art-news/news/smithsonian-lonnie-bunch-trump-lunch-1234789992/",
+          "title": "Charles Hinman, Known for His Sculptural Paintings, Has Died at 93",
+          "link": "https://www.artnews.com/art-news/news/charles-hinman-shaped-canvas-painter-dies-1234790029/",
           "source": "News – ARTnews.com",
-          "published_utc": "2026-06-23 14:45 UTC",
-          "analysis_zh": "史密森学会的秘书朗尼·邦奇与特朗普的午餐会迅速演变为特朗普的一场“魅力攻势”。这一事件引发了公众的关注，因为它不仅涉及到文化机构的领导人与政治人物的互动，还反映了特朗普在公众场合中试图塑造形象的策略。这次午餐可能会影响到史密森学会的声誉，以及未来与政府的关系，尤其是在文化政策和资金支持方面。",
-          "analysis_en": "The lunch between Smithsonian Secretary Lonnie Bunch and Trump quickly turned into a \"charm offensive\" by Trump. This event has garnered public attention as it highlights the interaction between cultural institution leaders and political figures, reflecting Trump's strategy to shape his image in public settings. The lunch may affect the Smithsonian's reputation and its future relationship with the government, particularly regarding cultural policies and funding support."
+          "published_utc": "2026-06-23 19:13 UTC",
+          "analysis_zh": "查尔斯·欣曼（Charles Hinman），以其雕塑画作而闻名，近日去世，享年93岁。他在1960年代开始发展自己对形状画布的独特理解，推动了艺术界对画布形式的探索。欣曼的作品不仅在视觉上引人注目，也在艺术理念上引发了深刻的思考。他的离世意味着艺术界失去了一位重要的创新者，可能会影响未来对抽象艺术和空间感的理解。",
+          "analysis_en": "Charles Hinman, known for his sculptural paintings, has passed away at the age of 93. Beginning in the 1960s, he developed his own unique approach to shaped canvases, which pushed the boundaries of artistic expression. His work not only captivated viewers visually but also provoked deep reflections on artistic concepts. His death signifies a loss for the art community, potentially impacting future interpretations of abstract art and spatial awareness."
         },
         {
           "rank": 9,
-          "title": "Photos Behind Kennedy Center Tarps Show No Sign of Trump’s Name",
-          "link": "https://www.nytimes.com/2026/06/23/arts/music/kennedy-center-trump-name-photos-tarps.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-06-23 14:30 UTC",
-          "analysis_zh": "最近，一组由活动组织发布的照片显示，肯尼迪中心的幕布后面露出了曾经刻有特朗普名字的光滑大理石。这一变化引发了公众的关注，因为肯尼迪中心曾向联邦法官表示，特朗普的名字已经被移除。这一事件不仅反映了特朗普在文化机构中的影响力逐渐减弱，也可能影响到未来对其他政治人物名字的处理方式。",
-          "analysis_en": "Recently, a series of photos released by an activist group showed the bare marble where President Trump's name once was at the Kennedy Center. This change has drawn public attention, as the Kennedy Center had previously informed a federal judge that Trump's name had been removed. This incident not only reflects the diminishing influence of Trump within cultural institutions but may also affect how other political figures' names are handled in the future."
+          "title": "RAMSA completes sensitive extension of New York Historical museum",
+          "link": "https://www.dezeen.com/2026/06/23/tang-wing-american-democracy-new-york-city-ramsa/",
+          "source": "Dezeen",
+          "published_utc": "2026-06-23 19:01 UTC",
+          "analysis_zh": "罗伯特·AM·斯特恩建筑事务所（RAMSA）完成了纽约历史博物馆的扩建工程，该扩建项目参考了20世纪初建筑的原始设计。新建的“唐翼”专注于美国民主，新增的展览空间和画廊将丰富博物馆的展览内容。这一扩建不仅提升了博物馆的功能性，也为公众提供了更深入了解历史的机会。这样的项目对于保护和传承历史文化具有重要意义，同时也可能吸引更多游客，促进当地经济发展。",
+          "analysis_en": "Robert AM Stern Architects (RAMSA) has completed an extension of the New York Historical Museum, drawing inspiration from the building's original design from the early 1900s. The newly constructed Tang Wing focuses on American democracy and adds new exhibition spaces and galleries, enhancing the museum's offerings. This expansion not only improves the museum's functionality but also provides the public with a greater opportunity to engage with history. Such projects are significant for preserving and promoting cultural heritage, and they may also attract more visitors, boosting the local economy."
         },
         {
           "rank": 10,
-          "title": "Charles Hinman, Who Brought New Dimensions to Painting, Dies at 93",
-          "link": "https://www.nytimes.com/2026/06/23/arts/design/charles-hinman-dead.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-06-23 14:15 UTC",
-          "analysis_zh": "查尔斯·欣曼，这位将绘画带入新维度的艺术家，于93岁时去世。他在1960年代初期开始模糊绘画与雕塑之间的界限，通过其独特的形状和突出效果的画布，创造出新的艺术形式。这一创新不仅丰富了当代艺术的表现手法，也影响了后来的艺术家们对空间和形式的理解。他的离世标志着一个艺术时代的结束，同时也提醒我们欣赏那些突破传统界限的艺术作品。",
-          "analysis_en": "Charles Hinman, the artist who brought new dimensions to painting, has passed away at the age of 93. Beginning in the early 1960s, he blurred the lines between painting and sculpture with his uniquely shaped and protruding canvases, creating a new form of artistic expression. This innovation not only enriched contemporary art but also influenced later artists' understanding of space and form. His death marks the end of an artistic era and serves as a reminder to appreciate works that challenge traditional boundaries."
+          "title": "Masterpieces from the Reuben Collection to Go on View at the Courtauld Gallery in London",
+          "link": "https://www.artnews.com/list/art-news/news/reuben-collection-masterpieces-courtauld-gallery-london-1234790001/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-06-23 18:46 UTC",
+          "analysis_zh": "伦敦的库尔托德画廊将于九月展出鲁本收藏中的多幅杰作，包括毕加索、马格利特和曼雷的作品。这次展览不仅展示了这些艺术家的经典作品，也为观众提供了一个深入了解现代艺术发展的机会。艺术界对此展览的关注，反映了对这些艺术品历史和文化价值的重视。展览的成功可能会吸引更多游客前来参观，从而促进当地的文化经济。",
+          "analysis_en": "The Courtauld Gallery in London will showcase several masterpieces from the Reuben Collection in September, featuring works by Picasso, Magritte, and Man Ray. This exhibition not only highlights the classic pieces of these artists but also offers visitors a chance to gain deeper insights into the evolution of modern art. The attention this exhibition has garnered reflects the significance of these artworks' historical and cultural value. Its success could attract more visitors, thereby boosting the local cultural economy."
         }
       ]
     }
