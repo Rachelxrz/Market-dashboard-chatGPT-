@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-24 16:25:46 UTC",
-  "generated_at_unix": 1782318346,
+  "generated_at": "2026-06-24 21:56:49 UTC",
+  "generated_at_unix": 1782338209,
   "window": {
-    "from_utc": "2026-06-23 16:25:46 UTC",
-    "to_utc": "2026-06-24 16:25:46 UTC",
+    "from_utc": "2026-06-23 21:56:49 UTC",
+    "to_utc": "2026-06-24 21:56:49 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,180 +14,189 @@
       "items": [
         {
           "rank": 1,
-          "title": "Why is Corning stock surging today?",
-          "link": "https://www.investing.com/news/stock-market-news/why-is-corning-stock-surging-today-93CH-4758689",
-          "source": "Stock Market News",
-          "published_utc": "2026-06-24 16:22 UTC",
-          "analysis_zh": "今天，康宁公司的股票出现了大幅上涨。这一现象引起了市场的广泛关注，投资者们纷纷猜测其背后的原因。康宁在光纤和显示技术领域的持续创新可能是推动股价上涨的关键因素。这一涨势不仅可能提升公司的市值，还可能吸引更多的投资者关注其未来的发展潜力。",
-          "analysis_en": "Today, Corning's stock has surged significantly, drawing widespread attention from the market as investors speculate on the reasons behind this rise. The company's ongoing innovations in fiber optics and display technologies may be key factors driving the stock price up. This surge not only has the potential to increase the company's market value but may also attract more investors interested in its future growth prospects."
+          "title": "White House requests $87.6 billion supplemental spending for Iran war, farm aid",
+          "link": "https://www.cnbc.com/2026/06/24/iran-war-supplemental-trump-congress.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-06-24 21:55 UTC",
+          "analysis_zh": "白宫管理和预算办公室主任拉塞尔·沃特向众议院议长迈克·约翰逊请求额外拨款876亿美元，用于伊朗战争和农业援助。这一请求表明，美国政府在应对国际冲突和国内农业问题上面临着巨大的财政压力。此举不仅可能影响美国的财政预算安排，还可能在国内外引发对政府支出优先级的广泛讨论。",
+          "analysis_en": "The White House Office of Management and Budget Director Russell Vought has requested an additional $87.6 billion from House Speaker Mike Johnson for the Iran war and farm aid. This request highlights the significant financial pressures the U.S. government faces in addressing both international conflicts and domestic agricultural issues. Such a move could not only impact the federal budget allocations but also spark widespread discussions about the government's spending priorities both domestically and internationally."
         },
         {
           "rank": 2,
-          "title": "U.S. oil prices fall back to preconflict levels as physical flow through the Strait of Hormuz improves",
-          "link": "https://www.marketwatch.com/story/u-s-oil-prices-fall-back-to-preconflict-levels-as-physical-flow-through-the-strait-of-hormuz-improves-d7c910c3?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-06-24 16:22 UTC",
-          "analysis_zh": "美国和全球基准油价已回落至自二月底美国与以色列对伊朗开战以来未见的水平。这一价格下跌并不意味着与冲突相关的风险已经消失，而是由于霍尔木兹海峡的实际运输流量有所改善。这一变化可能会影响全球能源市场的稳定性，并对相关国家的经济产生深远影响。",
-          "analysis_en": "U.S. and global benchmark oil prices have fallen back to levels not seen since the U.S.-Israeli conflict with Iran began at the end of February. This decline does not indicate that the risks associated with the conflict have vanished; rather, it is due to improvements in the physical flow through the Strait of Hormuz. This change could affect the stability of global energy markets and have significant economic implications for the countries involved."
+          "title": "JPMorgan Chase unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test",
+          "link": "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-06-24 21:42 UTC",
+          "analysis_zh": "摩根大通宣布将进行500亿美元的股票回购，而高盛在美联储压力测试后提高了股息。这些公告是在美联储发布年度压力测试结果后做出的，该测试显示所有32家大型银行在假设的经济衰退中表现良好。这一消息不仅增强了市场对银行业稳定性的信心，也可能促使其他金融机构采取类似的回购和分红措施，从而进一步推动股市上涨。",
+          "analysis_en": "JPMorgan Chase announced a $50 billion stock buyback, while Goldman Sachs raised its dividend following the Federal Reserve's stress test. These announcements came after the Fed released its annual stress test results, which indicated that all 32 large banks could withstand a hypothetical recession. This news not only boosts market confidence in the stability of the banking sector but may also encourage other financial institutions to implement similar buybacks and dividend increases, potentially driving the stock market higher."
         },
         {
           "rank": 3,
-          "title": "Why is Amazon stock rallying today?",
-          "link": "https://www.investing.com/news/stock-market-news/why-is-amazon-stock-rallying-today-93CH-4758686",
+          "title": "NETSTREIT stock jumps on S&P SmallCap 600 inclusion news",
+          "link": "https://www.investing.com/news/stock-market-news/netstreit-stock-jumps-on-sp-smallcap-600-inclusion-news-93CH-4759212",
           "source": "Stock Market News",
-          "published_utc": "2026-06-24 16:18 UTC",
-          "analysis_zh": "亚马逊的股票今天大幅上涨，主要是由于市场对其最新财报的积极反应。投资者对公司未来的增长潜力充满信心，这可能会吸引更多的资金流入。此举不仅提升了亚马逊的市值，也可能对整个科技行业产生积极影响，促使其他公司股价上涨。",
-          "analysis_en": "Amazon's stock has surged today, primarily due to the market's positive reaction to its latest earnings report. Investors are optimistic about the company's future growth potential, which may attract more capital inflow. This move not only boosts Amazon's market value but could also have a positive ripple effect on the entire tech sector, leading to increases in other companies' stock prices."
+          "published_utc": "2026-06-24 21:37 UTC",
+          "analysis_zh": "NETSTREIT的股票因被纳入标准普尔小型股600指数而大幅上涨。这一消息对投资者来说意义重大，因为纳入该指数通常会吸引更多的机构投资者，从而提升公司的市场认可度和股票流动性。随着投资者对NETSTREIT的关注增加，公司的股价可能会进一步上涨，并对其未来的融资和扩展计划产生积极影响。",
+          "analysis_en": "NETSTREIT's stock surged following the announcement of its inclusion in the S&P SmallCap 600 index. This news is significant for investors, as being added to the index typically attracts more institutional investors, enhancing the company's market visibility and stock liquidity. With increased attention from investors, NETSTREIT's stock price may continue to rise, positively impacting its future financing and expansion plans."
         },
         {
           "rank": 4,
-          "title": "FTSE 100 today: Stocks edge up as property shares rally amid Starmer transition",
-          "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-choppy-as-tech-rout-meets-hormuz-calm-4757460",
+          "title": "Bain Capital set to buy controlling stake in Volkswagen’s Everllence unit, FT reports",
+          "link": "https://www.investing.com/news/stock-market-news/bain-capital-set-to-buy-controlling-stake-in-volkswagens-everllence-unit-ft-reports-4759210",
           "source": "Stock Market News",
-          "published_utc": "2026-06-24 16:17 UTC",
-          "analysis_zh": "今天，英国富时100指数小幅上涨，主要受到房地产股票反弹的推动。这一变化与工党领袖基尔·斯塔默的领导过渡有关，市场对其政策方向的预期产生了积极影响。房地产行业的复苏可能会带动相关行业的投资，进一步刺激经济增长。投资者对未来市场的信心增强，可能会导致更多资金流入股市。",
-          "analysis_en": "Today, the FTSE 100 index saw a slight increase, primarily driven by a rally in property shares. This shift is linked to the leadership transition of Labour Party leader Keir Starmer, which has generated positive expectations regarding his policy direction. The recovery in the real estate sector could lead to increased investment in related industries, further stimulating economic growth. Investor confidence in the market may rise, potentially resulting in more capital flowing into the stock market."
+          "published_utc": "2026-06-24 21:37 UTC",
+          "analysis_zh": "贝恩资本即将收购大众汽车Everllence部门的控股权，这一消息引起了市场的广泛关注。这笔交易不仅将改变Everllence的管理结构，还可能对大众汽车的整体战略产生深远影响。随着贝恩资本的介入，Everllence有望获得更多的资源和支持，从而推动其业务发展。这一收购可能会影响到汽车行业的投资趋势，吸引更多投资者关注相关领域。",
+          "analysis_en": "Bain Capital is set to acquire a controlling stake in Volkswagen's Everllence unit, which has garnered significant attention in the market. This deal will not only alter the management structure of Everllence but may also have profound implications for Volkswagen's overall strategy. With Bain Capital's involvement, Everllence is expected to gain additional resources and support, potentially driving its business growth. This acquisition could influence investment trends in the automotive sector, attracting more investors to related areas."
         },
         {
           "rank": 5,
-          "title": "Why is Uber stock surging today?",
-          "link": "https://www.investing.com/news/stock-market-news/why-is-uber-stock-surging-today-93CH-4758684",
+          "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+          "link": "https://www.investing.com/news/stock-market-news/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-4759021",
           "source": "Stock Market News",
-          "published_utc": "2026-06-24 16:17 UTC",
-          "analysis_zh": "今天，优步的股票价格大幅上涨，原因是公司发布了强劲的财报，超出了市场预期。这一增长不仅反映了优步在共享出行和外卖服务领域的持续增长，也显示出投资者对其未来发展的信心。优步的成功可能会吸引更多投资者关注该行业，从而推动其他相关公司的股价上涨。",
-          "analysis_en": "Today, Uber's stock price surged significantly due to the company releasing a strong earnings report that exceeded market expectations. This increase reflects Uber's ongoing growth in the ride-sharing and food delivery sectors and demonstrates investor confidence in its future development. Uber's success may attract more investors to the industry, potentially boosting the stock prices of other related companies."
+          "published_utc": "2026-06-24 21:37 UTC",
+          "analysis_zh": "人工智能公司Anthropic指控阿里巴巴非法提取了其Claude AI模型的能力。这一指控引发了广泛关注，因为它涉及到知识产权和技术安全等重要问题。如果指控属实，可能会对阿里巴巴的声誉造成严重影响，并引发行业内对技术使用合规性的进一步讨论。此外，这也可能促使其他公司加强对自身技术的保护措施。",
+          "analysis_en": "Anthropic has accused Alibaba of illicitly extracting capabilities from its Claude AI model. This allegation has garnered significant attention as it touches on critical issues of intellectual property and technology security. If the claims are proven true, it could severely damage Alibaba's reputation and spark further discussions within the industry regarding compliance in technology usage. Additionally, this may prompt other companies to reinforce their measures for protecting their technologies."
         },
         {
           "rank": 6,
-          "title": "Veteran trader says one trend could send Bitcoin to $1 million",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/veteran-trader-says-one-trend-161601772.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-06-24 16:16 UTC",
-          "analysis_zh": "一位资深交易员表示，某个趋势可能会将比特币的价格推升至100万美元。这一观点引起了市场的广泛关注，因为比特币作为一种数字资产，其价格波动对投资者和整个金融市场都有着重要影响。如果这一趋势得到证实，可能会吸引更多投资者进入加密货币市场，从而进一步推动比特币的价格上涨。",
-          "analysis_en": "A veteran trader has suggested that a certain trend could drive Bitcoin's price to $1 million. This perspective has garnered significant attention in the market, as Bitcoin's price fluctuations have a substantial impact on investors and the broader financial landscape. If this trend proves accurate, it could attract more investors into the cryptocurrency market, potentially driving Bitcoin's price even higher."
+          "title": "Trump meets defense CEOs as Iran operations strain U.S. missile stockpiles",
+          "link": "https://www.cnbc.com/2026/06/24/trump-defense-contractors-boeing-lockheed-honeywell-weapons-production-iran.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-06-24 21:34 UTC",
+          "analysis_zh": "美国白宫正在施压主要防务公司，要求它们扩大导弹和弹药的生产。这一举措是由于与伊朗的谈判以及对武器库存的担忧，给五角大楼的工业基础带来了新的压力。此举不仅关乎美国的国防能力，也可能影响到国际局势，尤其是在中东地区的安全稳定。",
+          "analysis_en": "The White House is urging major defense firms to increase their production of missiles and munitions. This push comes in response to concerns over negotiations with Iran and the state of U.S. weapon stockpiles, which are putting new pressure on the Pentagon's industrial base. This move is significant not only for U.S. defense capabilities but may also impact international relations, particularly regarding security stability in the Middle East."
         },
         {
           "rank": 7,
-          "title": "Ethereum Slumps As ETF Outflows Continue",
-          "link": "https://finance.yahoo.com/markets/crypto/articles/ethereum-slumps-etf-outflows-continue-161600360.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-06-24 16:16 UTC",
-          "analysis_zh": "以太坊的价格近期大幅下跌，主要原因是交易所交易基金（ETF）持续出现资金流出。这一现象引发了市场对以太坊未来走势的担忧，投资者对其信心受到打击。随着资金的流出，可能会导致以太坊的流动性下降，从而影响其市场表现和投资者的决策。",
-          "analysis_en": "Ethereum's price has recently plummeted, primarily due to ongoing outflows from exchange-traded funds (ETFs). This trend has raised concerns about Ethereum's future performance, leading to a decline in investor confidence. As funds continue to exit, it may result in decreased liquidity for Ethereum, which could impact its market performance and influence investor decisions."
+          "title": "Huntington Ingalls wins $44.1M Navy contract modification",
+          "link": "https://www.investing.com/news/stock-market-news/huntington-ingalls-wins-441m-navy-contract-modification-93CH-4759203",
+          "source": "Stock Market News",
+          "published_utc": "2026-06-24 21:33 UTC",
+          "analysis_zh": "亨廷顿·英戈尔斯公司获得了一项价值4410万美元的海军合同修改。这项合同的增加将有助于公司在国防领域的持续发展，尤其是在海军舰艇的建造和维护方面。这一消息不仅对公司的财务状况产生积极影响，也可能提升其在国防承包商中的竞争力，进一步巩固其市场地位。",
+          "analysis_en": "Huntington Ingalls Industries has secured a $44.1 million modification to a Navy contract. This increase will support the company's ongoing growth in the defense sector, particularly in the construction and maintenance of naval vessels. This news is likely to have a positive impact on the company's financial health and may enhance its competitiveness among defense contractors, further solidifying its market position."
         },
         {
           "rank": 8,
-          "title": "Cboe Launches S&P 500 Prediction Market",
-          "link": "https://finance.yahoo.com/markets/options/articles/cboe-launches-p-500-prediction-161500319.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-06-24 16:15 UTC",
-          "analysis_zh": "Cboe最近推出了一个新的S&P 500预测市场，允许投资者对未来的市场走势进行预测。这一举措不仅为投资者提供了新的交易工具，也可能影响市场的流动性和价格发现机制。通过这种方式，市场参与者可以更好地理解市场情绪，从而做出更明智的投资决策。这一创新可能会吸引更多的投资者参与，进一步推动市场的发展。",
-          "analysis_en": "Cboe has recently launched a new S&P 500 prediction market that allows investors to make forecasts about future market trends. This initiative not only provides investors with a new trading tool but may also impact market liquidity and the price discovery process. By utilizing this platform, market participants can gain a better understanding of market sentiment, leading to more informed investment decisions. This innovation could attract more investors, further driving market development."
+          "title": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.85%",
+          "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-085-4759199",
+          "source": "Stock Market News",
+          "published_utc": "2026-06-24 21:30 UTC",
+          "analysis_zh": "墨西哥股市在交易结束时下跌，S&P/BMV IPC指数下跌了0.85%。这一下跌反映了市场对经济前景的不确定性，投资者可能对未来的政策变化感到担忧。股市的波动可能会影响到投资者的信心，从而影响到整体经济的发展。",
+          "analysis_en": "Mexican stocks closed lower, with the S&P/BMV IPC index down by 0.85%. This decline reflects market uncertainty regarding the economic outlook, as investors may be concerned about potential policy changes. The fluctuations in the stock market could affect investor confidence, which in turn may impact the overall economic growth."
         },
         {
           "rank": 9,
-          "title": "BioCryst Pharmaceuticals options trading jumps to 13,522",
-          "link": "https://www.investing.com/news/stock-market-news/biocryst-pharmaceuticals-options-trading-jumps-to-13522-93CH-4758682",
-          "source": "Stock Market News",
-          "published_utc": "2026-06-24 16:13 UTC",
-          "analysis_zh": "BioCryst制药公司的期权交易量激增至13,522。这一现象表明投资者对该公司的未来表现持乐观态度，可能是由于近期发布的积极财报或新药研发的进展。期权交易的增加通常意味着市场对该股票的波动性预期上升，这可能吸引更多投资者关注。若BioCryst能够持续保持良好的业绩，这将进一步推动其股价上涨。",
-          "analysis_en": "BioCryst Pharmaceuticals has seen its options trading surge to 13,522. This increase indicates that investors are optimistic about the company's future performance, possibly due to recent positive earnings reports or advancements in drug development. A rise in options trading typically suggests that the market expects increased volatility for the stock, which may attract more investors. If BioCryst can maintain strong performance, this could further drive up its stock price."
+          "title": "Did the Trump White House just give Warsh the green light to hike interest rates? This analyst thinks so.",
+          "link": "https://www.marketwatch.com/story/did-the-trump-white-house-just-give-warsh-the-green-light-to-hike-interest-rates-this-analyst-thinks-so-f03b29fd?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-06-24 21:28 UTC",
+          "analysis_zh": "特朗普政府似乎向美联储官员Warsh发出了加息的信号。财政部长斯科特·贝森特提出了进行一次“刹车”式加息的想法。这一提议的重要性在于，它可能会影响市场对未来利率走势的预期，并对经济增长产生深远的影响。如果加息得以实施，可能会导致借贷成本上升，从而影响消费者和企业的支出。",
+          "analysis_en": "The Trump administration appears to have signaled to Federal Reserve official Warsh that a rate hike may be on the horizon. Treasury Secretary Scott Bessent has floated the idea of a single “tap the brakes” rate increase. This proposal is significant as it could influence market expectations regarding future interest rate movements and have a profound impact on economic growth. If implemented, a rate hike may lead to higher borrowing costs, affecting spending by consumers and businesses."
         },
         {
           "rank": 10,
-          "title": "Cerebras CEO says margin forecast was 'misunderstood' as stock plummets after earnings",
-          "link": "https://www.cnbc.com/2026/06/24/cerebras-cbrs-stock-earnings.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-06-24 16:12 UTC",
-          "analysis_zh": "Cerebras的首席执行官表示，公司的利润预测被误解，导致其股票在财报发布后大幅下跌。此次下跌与公司即将解禁的股份有关，这些股份将在本周内开始交易。这一事件引发了市场的广泛关注，因为Cerebras在AI芯片领域的表现对整个行业具有重要影响。投资者对公司未来的盈利能力产生了疑虑，可能会影响其股价和投资者信心。",
-          "analysis_en": "The CEO of Cerebras stated that the company's margin forecast was misunderstood, which led to a significant drop in its stock price following the earnings report. This decline is related to the staggered lock-up expiration, with some shares becoming available for trading this week. This event has drawn considerable market attention, as Cerebras' performance in the AI chip sector is crucial for the industry. Investors are now questioning the company's future profitability, which may impact its stock price and investor confidence."
+          "title": "Colombia stocks lower at close of trade; COLCAP down 3.24%",
+          "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-324-4759193",
+          "source": "Stock Market News",
+          "published_utc": "2026-06-24 21:25 UTC",
+          "analysis_zh": "哥伦比亚股市在交易结束时下跌，COLCAP指数下滑了3.24%。这一下跌反映了市场对经济前景的不确定性，可能会影响投资者的信心。随着全球经济波动，投资者可能会更加谨慎，从而导致资金流出和市场进一步下滑。",
+          "analysis_en": "Colombia's stock market closed lower, with the COLCAP index dropping by 3.24%. This decline reflects uncertainty about the economic outlook, which could impact investor confidence. As global economic fluctuations continue, investors may become more cautious, leading to capital outflows and further declines in the market."
         }
       ]
     },
     "健康": {
       "description": "医学、营养、抗衰老、代谢与公共健康",
-      "count": 9,
+      "count": 10,
       "items": [
         {
           "rank": 1,
-          "title": "France Identifies First Case of Ebola",
+          "title": "France Identifies Its First Case of Ebola",
           "link": "https://www.nytimes.com/2026/06/24/world/europe/ebola-france.html",
           "source": "NYT > Health",
-          "published_utc": "2026-06-24 15:42 UTC",
-          "analysis_zh": "法国卫生部近日确认了首例埃博拉病例。这名医生曾前往刚果民主共和国，并在返回后被确诊感染。尽管这一病例引发了公众的关注，但当局表示，广泛人群的感染风险较低。这一事件提醒人们，全球健康安全仍然面临挑战，尤其是在疫情频发的地区。",
-          "analysis_en": "The French health ministry has confirmed the first case of Ebola in the country. The infected individual is a doctor who traveled to the Democratic Republic of Congo and was diagnosed upon returning. Although this case has raised public concern, authorities have stated that the risk to the wider population remains low. This incident serves as a reminder that global health security continues to face challenges, particularly in regions prone to outbreaks."
+          "published_utc": "2026-06-24 21:37 UTC",
+          "analysis_zh": "法国卫生部近日确认该国首例埃博拉病例。这名医生曾前往刚果民主共和国，感染了病毒。尽管这一消息引发了公众关注，但当局表示对更广泛人群的风险较低。这一事件的重要性在于，它提醒人们全球健康安全的脆弱性，同时也可能影响法国及欧洲的公共卫生政策。",
+          "analysis_en": "The French health ministry recently confirmed the country's first case of Ebola. The infected individual is a doctor who traveled to the Democratic Republic of Congo. Although this news has raised public concern, authorities have stated that the risk to the wider population remains low. This incident highlights the vulnerability of global health security and may influence public health policies in France and across Europe."
         },
         {
           "rank": 2,
+          "title": "Shortage of Chemotherapy Drugs Brings Rationing Fears for Cancer Patients",
+          "link": "https://www.nytimes.com/2026/06/24/health/chemotherapy-drug-shortage.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-06-24 20:44 UTC",
+          "analysis_zh": "近期，医生们面临着化疗药物短缺的问题，尤其是一些关键的通用化疗药物供应不足。这一情况引发了对癌症患者可能面临药物配给的担忧。化疗药物的短缺不仅会影响患者的治疗效果，还可能导致治疗延误，进而影响患者的生存率。这一问题的解决迫在眉睫，因为它直接关系到数以万计癌症患者的生命健康。",
+          "analysis_en": "Recently, doctors are facing a shortage of chemotherapy drugs, particularly generic infusions that are essential for treating various cancers. This situation has raised concerns about potential rationing for cancer patients. The lack of these drugs could not only affect treatment outcomes but also lead to delays in therapy, impacting patient survival rates. Addressing this issue is urgent, as it directly affects the health and lives of thousands of cancer patients."
+        },
+        {
+          "rank": 3,
           "title": "The Ebola Outbreak’s Central Mystery: Where Did This Virus Come From?",
           "link": "https://www.nytimes.com/2026/06/24/science/ebola-bundibugyo-animal-reservoir.html",
           "source": "NYT > Health",
           "published_utc": "2026-06-24 15:04 UTC",
-          "analysis_zh": "科学家们认为，Bundibugyo病毒在某种动物物种中持续存在，并偶尔传染给人类，但他们尚未确定具体的动物种类。这一发现对于理解埃博拉疫情的传播机制至关重要，因为识别病毒的宿主可以帮助预防未来的疫情爆发。如果能够找到这种动物，可能会为公共卫生政策的制定提供重要依据，从而降低人类感染的风险。",
-          "analysis_en": "Scientists believe that the Bundibugyo virus persists in an animal species, occasionally spilling over into humans, but they have yet to identify the specific species. This discovery is crucial for understanding the transmission mechanisms of the Ebola outbreak, as identifying the virus's reservoir could help prevent future outbreaks. If the animal host can be identified, it may provide important insights for public health policies, potentially reducing the risk of human infections."
+          "analysis_zh": "科学家们认为，Bundibugyo病毒可能在某种动物中持续存在，并偶尔传播给人类。然而，他们尚未确定这种动物的具体种类。这一发现至关重要，因为了解病毒的宿主可以帮助控制疫情的传播，并为未来的预防措施提供依据。如果科学家能够识别出这种动物，将有助于制定更有效的公共卫生策略，降低疫情爆发的风险。",
+          "analysis_en": "Scientists believe that the Bundibugyo virus may persist in a specific animal species, occasionally spilling over into humans. However, they have yet to identify which species it is. This discovery is crucial because understanding the virus's host can help control the spread of outbreaks and inform future preventive measures. If scientists can identify this animal, it will aid in developing more effective public health strategies to reduce the risk of future outbreaks."
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "The universe may be hiding conscious minds stranger than we can imagine",
           "link": "https://www.sciencedaily.com/releases/2026/06/260623083146.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-06-24 14:49 UTC",
-          "analysis_zh": "加州大学河滨分校的哲学家埃里克·施维茨盖贝尔和杰里米·波伯提出，意识可能并不局限于像我们这样的大脑，而是可以在许多不同形式的生命中出现，甚至在与地球上材料截然不同的生物中。他们的观点强调了宇宙的广阔性以及可能存在无数外星文明的事实，认为假设只有类似地球的生物才能支持意识体验是狭隘的。这一论点不仅挑战了我们对意识的传统理解，也可能影响我们对人工智能和外星生命的研究方向。",
-          "analysis_en": "Philosophers Eric Schwitzgebel and Jeremy Pober from the University of California, Riverside, argue that consciousness may not be limited to brains like ours, but could arise in many different forms of life, even in beings made from radically different materials. Their perspective highlights the vastness of the universe and the potential existence of countless alien civilizations, suggesting that it is narrow-minded to assume that only Earth-like biology can support conscious experience. This argument challenges traditional notions of consciousness and could influence future research on artificial intelligence and extraterrestrial life."
+          "analysis_zh": "加州大学河滨分校的哲学家埃里克·施维茨盖贝尔和杰里米·波伯提出，意识可能不仅仅局限于像我们这样的大脑，而是可以在许多不同形式的生命中出现，甚至在与地球上截然不同材料构成的生物中。他们的观点强调，宇宙的广阔和可能存在的无数外星文明使得仅仅认为只有地球生物能够支持意识体验显得过于狭隘。这一理论的重要性在于，它挑战了我们对意识的传统理解，并可能影响未来对人工智能和外星生命的研究方向。",
+          "analysis_en": "Philosophers Eric Schwitzgebel and Jeremy Pober from the University of California, Riverside, argue that consciousness may not be limited to brains like ours but could arise in many different forms of life, including beings made from radically different materials. Their perspective highlights that the vastness of the universe and the likely existence of countless alien civilizations make it overly narrow to assume that only Earth-like biology can support conscious experience. This theory is significant as it challenges traditional understandings of consciousness and may influence future research directions regarding artificial intelligence and extraterrestrial life."
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Scientists discover ancient brain cells that help block distractions",
           "link": "https://www.sciencedaily.com/releases/2026/06/260624025426.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-24 13:30 UTC",
-          "analysis_zh": "科学家们在大脑的一个古老区域发现了一小组神经元，这些神经元像内置的聚焦过滤器，帮助大脑忽略干扰，专注于最重要的信息。当研究人员暂时关闭小鼠的这些神经元时，它们变得异常容易分心，这与注意力缺陷多动障碍（ADHD）患者的表现相似，但在神经元重新激活后，它们又恢复了正常的专注力。这一发现不仅为理解注意力机制提供了新线索，也可能为治疗注意力相关障碍带来新的希望。",
-          "analysis_en": "Scientists have discovered a small group of neurons in an ancient part of the brain that functions like a built-in focus filter, enabling the brain to ignore distractions and concentrate on what is most important. When researchers temporarily deactivated these neurons in mice, the animals became unusually distractible, resembling behaviors seen in Attention-Deficit/Hyperactivity Disorder (ADHD), but regained their normal focus once the neurons were reactivated. This discovery not only sheds light on the mechanisms of attention but may also pave the way for new treatments for attention-related disorders."
+          "analysis_zh": "科学家们在古老的大脑区域发现了一小群神经元，这些神经元充当内置的专注过滤器，帮助大脑忽略干扰，专注于最重要的信息。当研究人员暂时关闭这些神经元时，实验鼠变得异常容易分心，这与注意力缺陷多动障碍（ADHD）的表现相似，但在神经元重新激活后，它们又恢复了正常的专注力。这一发现不仅为理解注意力机制提供了新线索，也可能为开发更精准的注意力相关疾病治疗方法铺平道路。",
+          "analysis_en": "Scientists have discovered a small group of neurons in an ancient part of the brain that functions as a built-in focus filter, helping the brain ignore distractions and concentrate on what is most important. When these neurons were temporarily turned off in mice, the animals became unusually distractible, similar to symptoms seen in Attention-Deficit/Hyperactivity Disorder (ADHD), but regained normal focus once the neurons were reactivated. This discovery not only offers new insights into the mechanisms of attention but may also pave the way for developing more precise treatments for attention-related disorders."
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Scientists discover hidden “footprints of death” that may help viruses spread",
           "link": "https://www.sciencedaily.com/releases/2026/06/260623014028.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-24 13:01 UTC",
-          "analysis_zh": "科学家们发现了一种新现象，称为“死亡足迹”，这是细胞死亡时留下的微小颗粒。这些颗粒不仅帮助免疫系统清理细胞残骸，但流感病毒却能利用这一过程，藏身于这些微观包裹中，从而传播到附近的细胞。这一发现揭示了细胞死亡过程的复杂性，可能为开发更有效的免疫治疗提供新思路。",
-          "analysis_en": "Scientists have discovered a new phenomenon called \"footprints of death,\" which are tiny particles left behind when cells die. These particles assist the immune system in cleaning up cellular debris, but influenza viruses can exploit this process by hiding within these microscopic packages to spread to nearby cells. This finding highlights the complexity of the cell death process and may open new avenues for developing more effective immune therapies."
+          "analysis_zh": "科学家们发现了细胞死亡过程中的一种新现象，称为“死亡足迹”。当细胞自我毁灭并破裂时，它们会留下这些微小的“死亡足迹”，其中包含新发现的颗粒，这些颗粒能够引导免疫系统清理残骸。然而，研究人员发现流感病毒可以利用这一过程，藏身于这些微观包裹中，从而传播到附近的细胞。这一发现不仅揭示了细胞死亡的复杂机制，还可能为开发新的免疫系统治疗方法提供新的思路。",
+          "analysis_en": "Scientists have uncovered a new phenomenon in the process of cell death, referred to as \"footprints of death.\" As cells self-destruct and break apart, they leave behind these tiny footprints filled with newly discovered particles that help guide the immune system in cleaning up debris. However, researchers found that influenza viruses can exploit this process by hiding within these microscopic packages, potentially spreading to nearby cells. This discovery not only reveals the complex mechanisms of cell death but may also provide new avenues for developing treatments that better support the immune system."
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Study challenges a common belief about vitamin D and sunlight",
           "link": "https://www.sciencedaily.com/releases/2026/06/260623083104.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-24 04:45 UTC",
-          "analysis_zh": "一项针对英国北部近300人的研究发现，许多高风险人群的维生素D水平全年普遍偏低，夏季阳光并未显著提高老年人或少数族裔的维生素D水平。这一发现挑战了普遍认为夏季阳光能够有效改善维生素D缺乏的观念。维生素D对维持骨骼健康和整体健康至关重要，缺乏可能导致骨质疏松、佝偻病等健康问题。这项研究的结果可能促使公共卫生政策的调整，以更好地应对维生素D缺乏问题，尤其是在高风险人群中。",
-          "analysis_en": "A study involving nearly 300 people in northern Britain found that many individuals at higher risk for vitamin D deficiency maintain low levels throughout the year, with summer sunshine not significantly improving vitamin D levels among older adults or people from minoritized ethnic backgrounds. This finding challenges the common belief that summer sun exposure is sufficient to restore healthy vitamin D levels. Vitamin D is essential for maintaining bone health and overall well-being, and deficiency can lead to conditions such as osteoporosis and rickets. The results of this study may prompt adjustments in public health policies to better address vitamin D deficiency, particularly among vulnerable populations."
+          "analysis_zh": "一项针对近300名生活在英国北部的参与者的研究发现，许多高风险人群的维生素D水平全年普遍偏低。令人惊讶的是，夏季的阳光并没有显著提高老年人或少数族裔群体的维生素D水平。这项研究挑战了人们普遍认为夏季阳光能够恢复健康维生素D水平的观念。维生素D对骨骼健康和整体健康至关重要，缺乏维生素D可能导致骨质疏松等健康问题。因此，这项研究的发现可能会影响公共卫生政策，促使对维生素D补充的关注。",
+          "analysis_en": "A study involving nearly 300 participants from northern Britain found that many high-risk groups have persistently low levels of vitamin D throughout the year. Surprisingly, summer sunshine did not significantly improve vitamin D levels among older adults or people from minoritized ethnic backgrounds. This research challenges the common belief that summer sun exposure is sufficient to restore healthy vitamin D levels. Vitamin D is crucial for bone health and overall well-being, and its deficiency can lead to health issues like osteoporosis. Therefore, these findings may influence public health policies and increase awareness of the need for vitamin D supplementation."
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "One tiny mutation may explain how bat viruses become human threats",
           "link": "https://www.sciencedaily.com/releases/2026/06/260622091434.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-24 01:21 UTC",
-          "analysis_zh": "科学家发现，蝙蝠冠状病毒中的一个微小基因突变可能是导致其对人类构成威胁的原因。这项研究比较了SARS-CoV-2与一种仅感染蝙蝠的相关病毒，发现单一氨基酸的差异会影响免疫系统的反应。这一发现对于理解动物病毒如何适应人类并引发严重疾病具有重要意义，可能会影响未来病毒传播的预防和控制策略。",
-          "analysis_en": "Scientists have discovered that a tiny genetic mutation in bat coronaviruses may explain why they pose a threat to humans. By comparing SARS-CoV-2 with a closely related virus that only infects bats, researchers found that a single amino acid difference can significantly alter the immune response. This finding is crucial for understanding how animal viruses adapt to humans and cause severe illnesses, and it may influence future strategies for preventing and controlling viral transmissions."
+          "analysis_zh": "科学家发现，微小的基因突变可能是导致蝙蝠病毒对人类构成威胁的原因之一。研究表明，SARS-CoV-2与一种仅感染蝙蝠的病毒之间的一个氨基酸差异，显著影响了病毒与免疫系统的相互作用。这一发现有助于解释某些动物病毒如何跨越物种界限，感染人类并引发严重疾病。这项研究的重要性在于，它为理解病毒适应过程提供了新的视角，可能对未来疫情的防控策略产生深远影响。",
+          "analysis_en": "Scientists have discovered that a tiny genetic mutation may explain how bat viruses become a threat to humans. Their research indicates that a single amino acid difference between SARS-CoV-2 and a bat-only virus significantly alters how the virus interacts with the immune system. This finding helps clarify how some animal viruses can jump to humans and cause serious illness. The importance of this research lies in its potential to provide new insights into the virus adaptation process, which could have profound implications for future pandemic prevention strategies."
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "A Loophole Brings Cystic Fibrosis Patients a ‘Miracle Drug’ in Generic Form",
           "link": "https://www.nytimes.com/2026/06/22/health/cystic-fibrosis-drug-triko-trikafta.html",
           "source": "NYT > Health",
           "published_utc": "2026-06-23 22:24 UTC",
-          "analysis_zh": "一款突破性囊性纤维化药物的仿制版在孟加拉国生产，价格仅为美国的几分之一，这为全球一些家庭提供了意想不到的希望。这一药物的出现不仅能减轻患者的痛苦，还可能改变他们的生活质量。由于高昂的药物费用，许多患者无法获得治疗，而这一仿制药的上市或将改善这一现状。",
-          "analysis_en": "A generic version of a groundbreaking cystic fibrosis drug has been produced in Bangladesh at a fraction of the cost in the U.S., offering unexpected hope to families around the world. This drug's availability could alleviate suffering for patients and significantly enhance their quality of life. Given the prohibitive costs of medications, many patients have been unable to access treatment, and the introduction of this generic version may help address this issue."
+          "analysis_zh": "近日，孟加拉国生产的一种突破性囊性纤维化药物的仿制药问世，价格仅为美国的几分之一。这一药物的出现为全球一些家庭提供了意想不到的希望，尤其是在高昂药物费用的情况下。此举不仅可能改善患者的生活质量，还可能推动其他国家在药物生产和价格方面的改革。",
+          "analysis_en": "Recently, a generic version of a breakthrough cystic fibrosis drug has been released in Bangladesh at a fraction of the price found in the United States. This development offers unexpected hope to families around the world, particularly in light of the high costs of medication. This move could not only improve the quality of life for patients but may also encourage reforms in drug production and pricing in other countries."
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Justice Dept. Unveils Medicare Fraud Charges as Part of Larger Health Care Prosecutions",
           "link": "https://www.nytimes.com/2026/06/23/us/skin-substitutes-medicare-fraud.html",
           "source": "NYT > Health",
           "published_utc": "2026-06-23 22:23 UTC",
-          "analysis_zh": "美国司法部近日宣布对医疗保险欺诈案件提起指控，重点针对一种被过度使用的伤口护理治疗——昂贵的“皮肤替代品”。这一措施的背景是，预计到2025年，政府在这项治疗上的支出将接近150亿美元。这一行动不仅旨在打击医疗欺诈行为，还可能对医疗行业的成本控制产生深远影响，促使医疗机构更加审慎地选择治疗方案。",
-          "analysis_en": "The U.S. Department of Justice recently announced charges related to Medicare fraud, focusing on the overuse of expensive \"skin substitutes\" for wound care. This action comes as the government anticipates spending nearly $15 billion on this treatment by 2025. The initiative aims to combat healthcare fraud and may have significant implications for cost control in the medical industry, encouraging healthcare providers to be more judicious in their treatment choices."
+          "analysis_zh": "美国司法部近日公布了针对医疗保险欺诈的指控，特别关注昂贵的“皮肤替代品”。这种在伤口护理中被过度使用的治疗方法，预计在2025年将使政府花费近150亿美元。这一行动不仅揭示了医疗领域的潜在滥用行为，也引发了对医疗费用和保险欺诈的广泛关注。此举可能会促使更多的监管措施出台，以保护公共资金和患者利益。",
+          "analysis_en": "The U.S. Department of Justice recently announced charges related to Medicare fraud, focusing specifically on expensive \"skin substitutes.\" This overused wound care treatment is projected to cost the government nearly $15 billion in 2025. This action highlights potential abuses within the healthcare sector and raises significant concerns about healthcare costs and insurance fraud. Such measures may lead to increased regulatory actions aimed at safeguarding public funds and protecting patient interests."
         }
       ]
     },
@@ -201,8 +210,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260623083146.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-06-24 14:49 UTC",
-          "analysis_zh": "加州大学河滨分校的哲学家埃里克·施维茨盖贝尔和杰里米·波伯提出，意识可能不仅限于像我们这样的生物，而是可以在许多不同形式的生命中出现，甚至是由与地球上截然不同的材料构成的存在。这一观点引发了关于意识本质的深入思考，尤其是在外星文明和人工智能日益受到关注的背景下。假设意识可以在多种形式中存在，这将改变我们对生命和智能的理解，可能影响未来科学研究和技术发展的方向。",
-          "analysis_en": "Philosophers Eric Schwitzgebel and Jeremy Pober from the University of California, Riverside, suggest that consciousness may not be limited to beings like us but could arise in various forms of life, even those made from materials radically different from those on Earth. This idea prompts a deeper examination of the nature of consciousness, especially in light of growing interest in alien civilizations and artificial intelligence. If consciousness can exist in multiple forms, it could reshape our understanding of life and intelligence, potentially influencing future scientific research and technological advancements."
+          "analysis_zh": "加州大学河滨分校的哲学家埃里克·施维茨格贝尔和杰里米·波伯提出，意识可能不仅限于像我们这样的生物。他们认为，宇宙中可能存在许多不同形式的生命，甚至是由与地球上截然不同的材料构成的生物。这一观点挑战了我们对意识的传统理解，表明将意识仅限于地球生物的想法过于狭隘。随着对外星文明和人工智能意识的讨论日益增多，这一研究可能会影响我们对生命和意识本质的认识。",
+          "analysis_en": "Philosophers Eric Schwitzgebel and Jeremy Pober from the University of California, Riverside, argue that consciousness may not be limited to beings like us. They suggest that there could be many different forms of life in the universe, even those made from materials radically different from those found on Earth. This perspective challenges traditional views of consciousness, indicating that it is overly narrow to assume that only Earth-like biology can support conscious experience. As discussions about alien civilizations and the consciousness of artificial intelligence become more prevalent, this research could significantly influence our understanding of the nature of life and consciousness."
         },
         {
           "rank": 2,
@@ -210,8 +219,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260624025426.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-06-24 13:30 UTC",
-          "analysis_zh": "科学家们在古老的大脑区域发现了一组微小的神经元，这些神经元像一个内置的专注过滤器，帮助大脑忽略干扰，专注于最重要的信息。当研究人员暂时关闭这些神经元时，小鼠变得异常容易分心，这与注意力缺陷多动障碍（ADHD）的表现相似，但一旦重新激活这些神经元，小鼠又能恢复正常的专注力。这一发现可能为治疗注意力相关障碍提供新的线索，尤其是ADHD等疾病。",
-          "analysis_en": "Scientists have discovered a tiny group of neurons in an ancient part of the brain that functions like a built-in focus filter, allowing the brain to ignore distractions and concentrate on what is most important. When these neurons were temporarily switched off in mice, the animals became unusually distractible, similar to symptoms seen in Attention-Deficit/Hyperactivity Disorder (ADHD). However, once the neurons were reactivated, the mice regained their normal focus. This discovery could provide new insights into developing treatments for attention-related disorders, particularly ADHD."
+          "analysis_zh": "科学家们在古老的大脑区域发现了一组微小的神经元，这些神经元像内置的聚焦过滤器，帮助大脑忽略干扰，专注于最重要的信息。当研究人员暂时关闭这些神经元时，实验鼠变得异常容易分心，这与注意力缺陷多动障碍（ADHD）的表现相似，但在神经元重新激活后，它们又恢复了正常的专注力。这一发现不仅为理解注意力的机制提供了新线索，也可能为治疗注意力相关障碍提供新的思路。",
+          "analysis_en": "Scientists have discovered a tiny group of neurons in an ancient part of the brain that functions as a built-in focus filter, enabling the brain to ignore distractions and concentrate on what is most important. When researchers temporarily disabled these neurons in mice, the animals became unusually distractible, similar to behaviors seen in Attention-Deficit/Hyperactivity Disorder (ADHD), but they regained normal focus once the neurons were reactivated. This discovery not only sheds light on the mechanisms of attention but may also pave the way for new treatments for attention-related disorders."
         },
         {
           "rank": 3,
@@ -219,8 +228,8 @@
           "link": "https://aeon.co/videos/a-japanese-photographers-striking-perceptive-images-of-the-troubles",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-06-24 10:01 UTC",
-          "analysis_zh": "这篇文章讲述了一位日本战争摄影师如何成为北爱尔兰动乱时期最具洞察力的记录者之一。通过他的镜头，观众能够感受到战争对人们生活的深刻影响。这一故事的重要性在于，它不仅揭示了历史事件的复杂性，还强调了记忆在塑造我们理解历史中的作用。这种视角可能会影响我们对战争和冲突的看法，促使人们更深入地思考人类经历的多样性。",
-          "analysis_en": "This article tells the story of a Japanese war photographer who became one of the most insightful chroniclers of the Troubles in Northern Ireland. Through his lens, viewers can feel the profound impact of war on people's lives. The significance of this narrative lies in its revelation of the complexities of historical events and its emphasis on the role of memory in shaping our understanding of history. This perspective may influence how we view war and conflict, encouraging a deeper reflection on the diversity of human experiences."
+          "analysis_zh": "这篇文章讲述了一位日本战地摄影师如何成为北爱尔兰“麻烦时期”最具洞察力的记录者之一。通过他的镜头，观众得以深入了解这一历史事件的复杂性和人性。这个故事的重要性在于，它不仅揭示了战争对个体和社会的影响，还强调了记忆与历史之间的关系。这种视角可能会影响我们对冲突和人类经历的理解，促使人们反思历史的多样性和复杂性。",
+          "analysis_en": "This article tells the story of a Japanese war photographer who became one of the most insightful chroniclers of the Troubles in Northern Ireland. Through his lens, viewers gain a deeper understanding of the complexities and humanity involved in this historical event. The significance of this narrative lies in its revelation of the impact of war on individuals and society, while also emphasizing the relationship between memory and history. This perspective may influence our understanding of conflict and human experience, encouraging reflection on the diversity and complexity of history."
         }
       ]
     },
@@ -230,93 +239,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Figma now has AI motion graphics and shader tools",
-          "link": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
-          "source": "The Verge",
-          "published_utc": "2026-06-24 16:15 UTC",
-          "analysis_zh": "Figma在其年度Config大会上发布了一系列新的设计和编码产品更新，旨在帮助创作者更好地实现创意，并利用人工智能自动化繁琐的任务。这些更新包括一个重新设计的画布，专为全栈开发优化，能够将团队、AI代理、工具和材料整合在一起。新功能如编码层允许用户在Figma设计画布上直接修改项目代码，而AI生成的动态图形效果则使用户可以通过简单描述来创建动画和过渡效果。这些创新将极大提升设计师的工作效率，推动创意产业的发展。",
-          "analysis_en": "Figma has introduced a series of new design and coding product updates at its annual Config conference, aimed at helping creatives better realize their ideas and automate tedious tasks with AI. These updates include a reimagined canvas optimized for full-stack development, which integrates teams, AI agents, tools, and materials. Notable features like coding layers allow users to modify project code directly on the Figma design canvas, while AI-generated motion graphics enable users to create animations and transition effects simply by describing them. These innovations are expected to significantly enhance designers' productivity and drive advancements in the creative industry."
-        },
-        {
-          "rank": 2,
-          "title": "52 Prime Day steals under $25 you won’t want to miss",
-          "link": "https://www.theverge.com/gadgets/951852/prime-day-deals-cheap-stuff-under-25-sale",
-          "source": "The Verge",
-          "published_utc": "2026-06-24 16:09 UTC",
-          "analysis_zh": "在亚马逊的Prime Day期间，有52款售价低于25美元的商品被推荐，吸引了许多消费者的关注。随着生活成本的上升，许多曾经便宜的电子产品如今变得不再那么实惠，因此找到性价比高的商品显得尤为重要。这些推荐的产品包括一些实用的办公配件和有趣的小玩意，适合日常使用或作为礼物。这样的促销活动不仅能帮助消费者节省开支，还可能推动销售，促进零售市场的活跃。",
-          "analysis_en": "During Amazon's Prime Day, 52 products priced under $25 have been highlighted, capturing the attention of many consumers. With the rising cost of living, many once-affordable gadgets are no longer budget-friendly, making it crucial to find good value items. The recommended products include practical office accessories and fun gadgets, suitable for everyday use or as gifts. Such promotional events not only help consumers save money but may also boost sales and invigorate the retail market."
-        },
-        {
-          "rank": 3,
-          "title": "The solar-powered Birdbuddy Pro is on sale for $168, the lowest price yet",
-          "link": "https://www.theverge.com/gadgets/955351/birdbuddy-pro-solar-prime-day-deal-sale",
-          "source": "The Verge",
-          "published_utc": "2026-06-24 16:08 UTC",
-          "analysis_zh": "近日，Birdbuddy Pro太阳能鸟屋在亚马逊的促销活动中售价为168美元，创下最低价格。这个智能鸟屋配备了500万像素的摄像头，可以自动捕捉到庭院中各种鸟类的清晰照片和视频，并具备识别鸟类种类的功能。这款产品的推出不仅为鸟类爱好者提供了便利，也为家庭增添了乐趣，可能会吸引更多人关注和参与鸟类观察活动。",
-          "analysis_en": "Recently, the Birdbuddy Pro solar-powered birdhouse is on sale for $168 during Amazon's promotional event, marking its lowest price yet. This smart birdhouse features a 5-megapixel camera that automatically captures clear photos and videos of various birds visiting your yard, and it can identify different species. The introduction of this product not only offers convenience for bird enthusiasts but also adds fun for families, potentially encouraging more people to engage in birdwatching activities."
-        },
-        {
-          "rank": 4,
-          "title": "The best Prime Day deals on LG, Samsung, and more 4K TVs",
-          "link": "https://www.theverge.com/gadgets/952282/best-4k-tv-deals-amazon-prime-day-sale",
-          "source": "The Verge",
-          "published_utc": "2026-06-24 16:00 UTC",
-          "analysis_zh": "亚马逊的Prime Day为消费者提供了购买4K电视的绝佳机会，尤其是LG、三星等品牌的产品。尽管2026年的新型号已经发布，但大多数优惠仍然集中在去年的电视上。这一现象表明，电视技术的进步已经趋于平稳，消费者在选择时可以更从容。此次促销不仅吸引了对新技术感兴趣的用户，也为预算有限的消费者提供了实惠的选择。",
-          "analysis_en": "Amazon's Prime Day offers consumers an excellent opportunity to purchase 4K TVs, particularly from brands like LG and Samsung. While new models for 2026 have been released, most of the best deals are on last year's televisions. This trend indicates that advancements in TV technology have stabilized, allowing consumers to make more relaxed choices. The sale not only attracts tech enthusiasts but also provides budget-conscious shoppers with affordable options."
-        },
-        {
-          "rank": 5,
-          "title": "The SwitchBot battery-powered fan we love is $90 for Prime Day",
-          "link": "https://www.theverge.com/gadgets/953766/switchbot-circulating-fan-prime-day-deal-sale",
-          "source": "The Verge",
-          "published_utc": "2026-06-24 15:45 UTC",
-          "analysis_zh": "亚马逊在Prime Day期间将SwitchBot立式循环风扇的价格降至89.99美元（原价129.99美元）。这款电池供电的风扇不仅可以垂直倾斜，还能水平摆动，且高度可调，从18英寸到40英寸，提供了更大的灵活性。此款风扇的无刷电机适合卧室或家庭办公室使用，噪音范围从28分贝到50分贝，适合各种环境。此次降价对于寻找高性能风扇的消费者来说是一个不错的机会。",
-          "analysis_en": "Amazon has marked down the SwitchBot Standing Circulator Fan to $89.99 for Prime Day, down from its usual price of $129.99. This battery-powered fan can tilt vertically and oscillate horizontally, with an adjustable height ranging from 18 to 40 inches, offering greater versatility. Its brushless motor is suitable for use in bedrooms or home offices, with noise levels ranging from 28dB to 50dB, making it ideal for various settings. This price drop presents a great opportunity for consumers looking for a high-performance fan."
-        },
-        {
-          "rank": 6,
           "title": "The 16 best robot vacuum deals available during Prime Day",
           "link": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
           "source": "The Verge",
-          "published_utc": "2026-06-24 15:26 UTC",
-          "analysis_zh": "亚马逊的“Prime Day”正在进行中，许多知名零售商如百思买和沃尔玛也参与了此次促销活动。消费者现在可以以折扣价购买多款机器人吸尘器，包括Roborock、Dreame和Eufy等品牌。这一促销活动不仅使得高品质的机器人吸尘器更易于获得，也可能推动智能家居产品的普及，吸引更多消费者关注智能家居的便利性。",
-          "analysis_en": "Amazon's Prime Day is currently underway, with major retailers like Best Buy and Walmart also participating in the sales event. Consumers can now purchase various robot vacuums at discounted prices, including models from brands like Roborock, Dreame, and Eufy. This promotion not only makes high-quality robot vacuums more accessible but may also encourage the wider adoption of smart home products, drawing more consumers to the convenience of smart home technology."
+          "published_utc": "2026-06-24 21:51 UTC",
+          "analysis_zh": "亚马逊的Prime Day活动正在进行中，许多品牌的机器人吸尘器正在打折，包括Roborock、Dreame和Eufy等。对于那些一直想购买机器人吸尘器但因价格而犹豫的人来说，现在是一个不错的机会。此次促销涵盖了从基础款到高端款的多种选择，满足不同消费者的需求。这不仅能帮助消费者节省开支，也可能推动机器人吸尘器的普及和市场竞争。",
+          "analysis_en": "Amazon's Prime Day is currently underway, featuring discounts on robot vacuums from various brands, including Roborock, Dreame, and Eufy. This is a great opportunity for those who have been hesitant to purchase a robot vacuum due to high prices. The promotions include a range of options from basic models to high-end ones, catering to different consumer needs. This not only helps consumers save money but may also encourage the widespread adoption of robot vacuums and increase competition in the market."
+        },
+        {
+          "rank": 2,
+          "title": "OpenAI and Broadcom Unveil Custom A.I. Chip Design",
+          "link": "https://www.nytimes.com/2026/06/24/technology/openai-broadcom-chip-jalapeno.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-06-24 21:41 UTC",
+          "analysis_zh": "OpenAI 和博通近日联合推出了一款定制的人工智能芯片设计。该芯片的使用预计将消耗高达10千兆瓦的电力，这相当于可以为数百万个家庭提供电力。这一进展不仅展示了人工智能技术的快速发展，也引发了人们对能源消耗和可持续发展的关注。随着人工智能应用的普及，这种高能耗的芯片设计可能会对电力供应和环境产生深远影响。",
+          "analysis_en": "OpenAI and Broadcom have recently unveiled a custom AI chip design. The anticipated energy consumption of these chips could reach up to 10 gigawatts, enough to power millions of households. This development highlights the rapid advancement of AI technology and raises concerns about energy consumption and sustainability. As AI applications become more widespread, the high energy demands of such chip designs may have significant implications for power supply and the environment."
+        },
+        {
+          "rank": 3,
+          "title": "Charlie Kirk’s legacy is a 30-year sentence for moving zines",
+          "link": "https://www.theverge.com/policy/956404/prairieland-sentencing-zines-trump-antifa",
+          "source": "The Verge",
+          "published_utc": "2026-06-24 21:40 UTC",
+          "analysis_zh": "在保守派活动家查理·柯克被枪杀几天后，特朗普政府决定利用这一事件加强对言论自由的打压。为了为柯克复仇，政府誓言追捕所谓的“反法西斯”恐怖分子。最近，八名德克萨斯州的活动者被判处30到100年的监禁，其中一人因企图谋杀被判刑，其余大多数则因被指控属于一个“反法西斯细胞”而受到重罚。这些异常严厉的判决不仅是特朗普政府的一次重大胜利，也可能成为在美国各地打击活动家的蓝图。",
+          "analysis_en": "Days after conservative activist Charlie Kirk was killed, the Trump administration decided to use the assassination to intensify its crackdown on free speech. In an effort to avenge Kirk's death, the government vowed to target so-called \"antifa terrorists.\" Recently, eight activists in Texas received prison sentences ranging from 30 to 100 years, with one sentenced for attempted murder and most for allegedly belonging to an \"antifa cell.\" These unusually harsh sentences represent a significant victory for the Trump administration and may serve as a blueprint for targeting activists across the United States."
+        },
+        {
+          "rank": 4,
+          "title": "Microsoft introduces cheaper Surface devices with half the memory",
+          "link": "https://www.theverge.com/tech/956504/microsoft-surface-pro-laptop-ram",
+          "source": "The Verge",
+          "published_utc": "2026-06-24 21:39 UTC",
+          "analysis_zh": "微软最近推出了两款更便宜的Surface设备，包括12英寸的Surface Pro和13英寸的Surface Laptop。这两款新设备的内存均为8GB，价格分别为849美元和949美元。此举不仅使得微软的产品线更加多样化，也为预算有限的消费者提供了更多选择。然而，由于内存减少，这些新型号无法支持微软的AI技术Copilot Plus，这可能会影响到用户的使用体验和功能扩展。",
+          "analysis_en": "Microsoft has recently introduced two more affordable Surface devices: the 12-inch Surface Pro and the 13-inch Surface Laptop. Both models come with 8GB of RAM, priced at $849 and $949, respectively. This move diversifies Microsoft's product lineup and offers more options for budget-conscious consumers. However, the reduced memory means these new models will not support Microsoft's AI technology, Copilot Plus, which could impact user experience and functionality."
+        },
+        {
+          "rank": 5,
+          "title": "A24 Knows You’re Mad About the Google AI Collab",
+          "link": "https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/",
+          "source": "Feed: Artificial Intelligence Latest",
+          "published_utc": "2026-06-24 21:05 UTC",
+          "analysis_zh": "独立电影爱好者对谷歌DeepMind向A24电影公司投资7500万美元表示不满。这一投资发生在人工智能公司在好莱坞影响力日益加深的背景下，许多人担心这将进一步改变电影行业的创作和制作方式。此举不仅引发了对艺术创作与技术之间关系的讨论，也可能影响未来电影项目的资金来源和制作决策。",
+          "analysis_en": "Indie movie fans are upset about Google DeepMind's $75 million investment in A24. This investment comes at a time when AI companies are increasingly influencing Hollywood, raising concerns about how this might change the creative and production processes in the film industry. This move not only sparks discussions about the relationship between art and technology but may also affect funding sources and decision-making for future film projects."
+        },
+        {
+          "rank": 6,
+          "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
+          "link": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
+          "source": "Biz & IT - Ars Technica",
+          "published_utc": "2026-06-24 21:03 UTC",
+          "analysis_zh": "在一次名为“终局行动”的全球行动中，执法机构成功干扰了两个广泛使用的网络犯罪工具。这一行动的重要性在于，它破坏了网络犯罪的“流水线”，使得犯罪分子在进行网络攻击和诈骗时面临更大的困难。这不仅有助于减少网络犯罪的发生，还可能促使更多国家加强合作，共同打击网络犯罪活动。",
+          "analysis_en": "In a global operation called \"Operation Endgame,\" law enforcement successfully disrupted two widely used cybercrime tools. This operation is significant because it disrupts the \"assembly line\" of cybercrime, making it more challenging for criminals to carry out attacks and scams. This not only helps reduce the incidence of cybercrime but may also encourage more countries to collaborate in the fight against such activities."
         },
         {
           "rank": 7,
-          "title": "Europe’s extreme heat is shutting down power plants",
-          "link": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
-          "source": "MIT Technology Review",
-          "published_utc": "2026-06-24 15:25 UTC",
-          "analysis_zh": "欧洲正经历一场创纪录的热浪，气温飙升导致电网负荷加重，许多人纷纷开启风扇和空调降温。然而，部分电厂因高温而无法正常运转，无法提供必要的电力支持。6月23日，法国的气温达到了自1947年有记录以来的最高值。这一现象不仅影响了电力供应，还可能对经济和民生造成深远影响，尤其是在高温天气下，电力需求急剧增加。",
-          "analysis_en": "Europe is currently facing a record-breaking heat wave, which has placed immense pressure on the power grid as people turn on fans and air conditioning to stay cool. Some power plants are unable to operate due to the extreme heat, resulting in a lack of necessary power support. On June 23, France recorded its hottest day since records began in 1947. This situation not only affects electricity supply but could also have significant repercussions on the economy and public welfare, particularly with the surge in power demand during such high temperatures."
+          "title": "A new paper argues Microsoft exaggerated its quantum claims a year ago",
+          "link": "https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims",
+          "source": "The Verge",
+          "published_utc": "2026-06-24 20:54 UTC",
+          "analysis_zh": "一篇发表在《自然》杂志上的批评文章质疑了微软去年对其“突破性”量子计算芯片Majorana 1的技术声明。微软在2025年2月首次发布该芯片，并声称它采用了一种全新的拓扑量子比特技术，作为未来量子计算机的“构建块”。然而，来自圣安德鲁斯大学的物理学家亨利·莱格重新分析了微软的数据，认为该公司并未明确证明其设备具备有效的拓扑量子比特。这一争议不仅影响了微软的声誉，也可能对量子计算领域的研究和发展产生深远影响。",
+          "analysis_en": "A critique published in Nature questions Microsoft's claims about its \"breakthrough\" quantum computing chip, Majorana 1. Microsoft unveiled this chip in February 2025, asserting that it featured a new technology called topological qubits, which they described as the \"building blocks\" for future quantum computers. However, physicist Henry Legg from the University of St Andrews reanalyzed Microsoft's data and argued that the company did not conclusively demonstrate a working topological qubit. This controversy not only affects Microsoft's reputation but could also have significant implications for research and development in the quantum computing field."
         },
         {
           "rank": 8,
-          "title": "20 Prime Day deals Verge readers are buying right now",
-          "link": "https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers",
+          "title": "Congresswoman denies staff used AI to write defense funding amendment",
+          "link": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
           "source": "The Verge",
-          "published_utc": "2026-06-24 15:15 UTC",
-          "analysis_zh": "亚马逊的Prime Day促销活动吸引了大量消费者的关注，许多《The Verge》的读者纷纷购买推荐的产品。为了帮助读者在众多优惠中做出明智选择，编辑们整理了20个最受欢迎的交易。这些产品不仅包括大家熟悉的AirPods和Kindle，还有一些意想不到的选择，如配备摄像头的智能鸟喂器。这些信息不仅能为消费者提供购物灵感，也反映了市场上哪些产品受到青睐，可能会影响未来的销售趋势。",
-          "analysis_en": "Amazon's Prime Day sales have garnered significant attention from consumers, with many readers of The Verge purchasing recommended products. To assist readers in making informed choices among the numerous deals, the editors compiled a list of the 20 most popular items. These products include familiar favorites like AirPods and Kindles, as well as some surprising choices, such as a camera-equipped smart bird feeder. This information not only provides shopping inspiration for consumers but also reflects which products are favored in the market, potentially influencing future sales trends."
+          "published_utc": "2026-06-24 19:36 UTC",
+          "analysis_zh": "佛罗里达州众议员安娜·保利娜·卢纳（Anna Paulina Luna）表示，她的工作人员在一项重要的国防法案的修正案摘要中使用了人工智能进行“拼写检查”，但否认该技术被用于法案文本本身。卢纳强调“没有任何立法是用人工智能起草的”，此言论是在社交媒体上出现了修正案摘要的截图后发布的。这一事件引发了公众对人工智能在立法过程中的使用和影响的关注，可能会影响未来国会对技术使用的监管和透明度。",
+          "analysis_en": "Florida Representative Anna Paulina Luna stated that her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denied that it was used for the bill text itself. Luna emphasized that \"NO legislation is ever drafted with AI,\" a response issued after screenshots of the amendment summary circulated on social media. This incident has sparked public concern about the use and implications of AI in the legislative process, which may influence future congressional oversight and transparency regarding technology usage."
         },
         {
           "rank": 9,
-          "title": "The Trump White House Is Over Anthropic CEO Dario Amodei",
-          "link": "https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/",
+          "title": "I Met With China’s Top AI Experts. They’re Freaking Out, Too",
+          "link": "https://www.wired.com/story/ai-arms-race-china-us-cooperation/",
           "source": "Feed: Artificial Intelligence Latest",
-          "published_utc": "2026-06-24 15:15 UTC",
-          "analysis_zh": "在特朗普政府的高层会议上，Anthropic的联合创始人达里奥·阿莫德伊被另一位联合创始人汤姆·布朗取代。这一人事变动引起了广泛关注，因为阿莫德伊在政府内部被视为一个“怪人”，这可能影响到Anthropic在人工智能领域的政策和发展方向。新任CEO布朗的上任可能会带来不同的战略思路，从而影响公司与政府的合作关系及其在AI技术上的创新。",
-          "analysis_en": "At high-stakes meetings within the Trump administration, Anthropic co-founder Dario Amodei has been replaced by fellow co-founder Tom Brown. This personnel change has garnered significant attention, as Amodei was viewed as a \"weirdo\" within the government, which could impact Anthropic's policies and direction in the AI sector. Brown's appointment may bring a different strategic approach, potentially affecting the company's collaboration with the government and its innovations in AI technology."
+          "published_utc": "2026-06-24 18:45 UTC",
+          "analysis_zh": "最近，中国和美国之间的人工智能竞争愈演愈烈，这让两国的研究人员都感到担忧，担心会出现类似切尔诺贝利事件的情况。这种“核事故时刻”的担忧源于对AI技术失控的潜在风险，可能会对全球安全和科技发展产生深远影响。专家们呼吁加强国际合作与监管，以确保人工智能的安全和可控发展。",
+          "analysis_en": "Recently, the escalating AI competition between China and the US has raised concerns among researchers on both sides, who fear a potential \"Chernobyl moment.\" This anxiety stems from the risks associated with uncontrolled AI technology, which could have far-reaching implications for global security and technological advancement. Experts are urging for enhanced international cooperation and regulation to ensure the safe and manageable development of artificial intelligence."
         },
         {
           "rank": 10,
-          "title": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute",
-          "link": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
-          "source": "NYT > Technology",
-          "published_utc": "2026-06-24 15:08 UTC",
-          "analysis_zh": "最近，美国国家安全局（N.S.A.）在与一家领先的人工智能开发公司Anthropic的争端中失去了对一种强大人工智能模型的访问权限。这一事件突显了特朗普政府在网络安全方面对先进人工智能系统日益依赖的趋势，同时也反映出政府与科技公司之间的紧张关系。这种局面可能会影响国家安全的防护能力，并引发对政府如何管理和利用人工智能技术的广泛讨论。",
-          "analysis_en": "Recently, the National Security Agency (N.S.A.) lost access to a powerful AI model amid a dispute with leading U.S. developer Anthropic. This incident highlights the Trump administration's increasing reliance on advanced AI systems for cybersecurity, while also showcasing the tensions between the government and tech companies. This situation could impact national security defenses and spark broader discussions on how the government manages and utilizes AI technology."
+          "title": "GTA VI is a worrying sign for the future of physical games",
+          "link": "https://www.theverge.com/games/956389/grand-theft-auto-6-gta-digital-code-in-box-physical-games",
+          "source": "The Verge",
+          "published_utc": "2026-06-24 18:42 UTC",
+          "analysis_zh": "《侠盗猎车手 VI》的定价公布引发了人们对实体游戏未来的担忧。尽管游戏定价为79.99美元，但摇滚星公司确认实体版将不再包含光盘，而是仅提供一个下载代码。这一决定让喜欢拥有实体游戏的玩家感到失望，同时也可能为整个游戏行业树立了不好的先例。随着数字游戏的普及，实体游戏的市场份额正在逐渐缩小，这一变化可能会影响未来游戏的发行方式和玩家的购买习惯。",
+          "analysis_en": "The pricing announcement for Grand Theft Auto VI has raised concerns about the future of physical games. While the game will be priced at $79.99, Rockstar Games confirmed that the physical versions will not include a disc, only a download code. This decision disappoints players who prefer owning physical copies and may set a troubling precedent for the entire gaming industry. As digital games continue to dominate the market, this shift could impact how games are released and the purchasing habits of players in the future."
         }
       ]
     },
@@ -326,93 +335,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "What’s Behind Broadway’s New Musical Drought?",
-          "link": "https://www.nytimes.com/2026/06/24/theater/broadway-new-musical-theater.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-06-24 16:08 UTC",
-          "analysis_zh": "近期，百老汇音乐剧面临前所未有的困境，主要原因包括好莱坞明星参与的戏剧、投资者的谨慎态度以及剧院老板的把关。这一现象不仅影响了音乐剧的制作数量，也可能导致观众对现场表演的兴趣下降。随着投资环境的变化，未来的音乐剧可能会更加依赖明星效应，进一步加剧市场的不平衡。",
-          "analysis_en": "Recently, Broadway musicals are facing an unprecedented drought due to factors such as Hollywood actors taking roles in plays, cautious investors, and gate-keeping theater owners. This situation not only affects the number of musicals being produced but may also lead to a decline in audience interest in live performances. As the investment landscape shifts, future musicals might increasingly rely on star power, further exacerbating the imbalance in the market."
+          "title": "tom sachs turns ceramic failures into a language of craft throughout salon 94",
+          "link": "https://www.designboom.com/design/tom-sachs-ceramic-failures-craft-salon-94-jj-peet-satan-furniture/",
+          "source": "designboom | architecture & design magazine",
+          "published_utc": "2026-06-24 21:45 UTC",
+          "analysis_zh": "在Salon 94展览中，艺术家汤姆·萨克斯将陶瓷的失败转化为一种工艺语言。他通过修补NASA碗、装满花卉的容器和木制家具，将破损的过程变成了可见的创作部分。这一展览不仅展示了艺术家对材料的独特理解，也引发了人们对工艺与失败之间关系的思考。这种对破损的重新定义可能会影响未来艺术创作的方式，鼓励更多艺术家接受不完美。",
+          "analysis_en": "At Salon 94, artist Tom Sachs transformed ceramic failures into a language of craft. By patching NASA bowls, creating flower-filled vessels, and designing wooden furniture, he made the process of breakage a visible part of the creation. This exhibition not only showcases the artist's unique understanding of materials but also prompts reflection on the relationship between craft and failure. This redefinition of imperfection may influence future artistic practices, encouraging more artists to embrace flaws."
         },
         {
           "rank": 2,
-          "title": "lithium crystal forms inspire this mirrored pink sauna on sweden’s reclaimed wasteland",
-          "link": "https://www.designboom.com/architecture/lithium-crystal-mirrored-pink-sauna-sweden-reclaimed-wasteland-bigert-bergstrom/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-06-24 16:01 UTC",
-          "analysis_zh": "瑞典的一座粉色桑拿受到锂晶体形状的启发，位于一个曾经被污染的河边场地上。这个项目由Bigert & Bergström设计，利用反射几何形状创造了一个公共浴场。这一设计不仅美化了环境，还为当地居民提供了一个休闲和社交的空间，具有重要的社会意义。随着城市再生项目的推进，这种创新的公共设施可能会激励其他地区进行类似的改造。",
-          "analysis_en": "A pink sauna in Sweden has been inspired by the forms of lithium crystals, situated on a previously contaminated riverside site. Designed by Bigert & Bergström, this project transforms reflective geometry into a public bathing space. This design not only beautifies the environment but also provides a place for relaxation and social interaction for local residents, highlighting its significant social impact. As urban regeneration projects advance, such innovative public facilities may encourage similar transformations in other areas."
+          "title": "The Good List: 6 Things to Add Delight to Your Day",
+          "link": "https://www.nytimes.com/2026/06/24/briefing/24-the-good-list-web-invite-anthropeum.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-06-24 21:24 UTC",
+          "analysis_zh": "《纽约时报》最近发布了一份“好事清单”，推荐了六件能够为生活增添乐趣的事物。这些推荐包括命名月亮、偶尔去岛屿和在现实生活中欢笑等。这些活动不仅能提升人们的日常幸福感，还能鼓励大家在忙碌的生活中寻找乐趣和放松的时刻。这一清单提醒我们关注生活中的小确幸，可能会影响人们的生活态度和心理健康。",
+          "analysis_en": "The New York Times recently published a \"Good List,\" highlighting six things that can add joy to daily life. These suggestions include naming the moon, visiting islands occasionally, and laughing in real life. Such activities not only enhance people's overall happiness but also encourage individuals to seek moments of joy and relaxation amid their busy lives. This list serves as a reminder to appreciate the small pleasures in life, which could positively influence people's attitudes and mental well-being."
         },
         {
           "rank": 3,
-          "title": "Did You Miss the Original Eruption of Mt. Vesuvius? Now You Can Experience It in Augmented Reality in Pompeii",
-          "link": "https://www.artnews.com/art-news/news/eruption-mt-vesuvius-augmented-reality-pompeii-1234790131/",
+          "title": "Mayan City, Hidden for More Than 1,000 Years, Is Discovered Intact in Mexico",
+          "link": "https://www.artnews.com/art-news/news/minanbe-mayan-city-discovered-intact-mexico-1234790168/",
           "source": "News – ARTnews.com",
-          "published_utc": "2026-06-24 15:47 UTC",
-          "analysis_zh": "近日，庞贝古城推出了一项增强现实（AR）体验，允许游客感受维苏威火山喷发时的场景。这项技术让人们能够直观地了解火山喷发的恐怖，仿佛置身于当时的环境中。此举不仅吸引了更多游客，也为历史教育提供了新的方式，帮助人们更好地理解这一历史事件的影响。随着科技的进步，类似的体验可能会在其他历史遗址中普及，改变人们的参观方式。",
-          "analysis_en": "Recently, the ancient city of Pompeii launched an augmented reality (AR) experience that allows visitors to feel the scenes of the eruption of Mount Vesuvius. This technology provides a vivid understanding of the terrifying volcanic eruption, immersing people in that historical moment. This initiative not only attracts more tourists but also offers a new method for historical education, helping people better understand the impact of this event. As technology advances, similar experiences may become widespread at other historical sites, transforming the way people visit."
+          "published_utc": "2026-06-24 21:22 UTC",
+          "analysis_zh": "在墨西哥发现了一座隐藏超过千年的玛雅城市，研究人员将其命名为“Minanbé”，意为“没有道路”。这一发现不仅为玛雅文明的研究提供了新的实证资料，也可能改变我们对该地区历史的理解。随着考古学家对这座城市的进一步探索，可能会揭示更多关于玛雅文化、社会结构及其衰落的秘密。",
+          "analysis_en": "A Maya city, hidden for over a thousand years, has been discovered in Mexico, named “Minanbé,” which means “there is no road.” This finding not only provides new evidence for the study of Maya civilization but may also alter our understanding of the region's history. As archaeologists continue to explore the city, it could reveal more secrets about Maya culture, social structure, and the reasons for their decline."
         },
         {
           "rank": 4,
-          "title": "Southbank Centre Director Will Leave His Post, Says Departure Is Unrelated to Social Media Controversy",
-          "link": "https://www.artnews.com/art-news/news/southbank-centre-director-quits-social-media-controversy-1234790120/",
+          "title": "After Splashy Venice Debut, Florentina Holzinger’s ‘Seaworld’ is Coming to Berlin, Brooklyn",
+          "link": "https://www.artnews.com/art-news/news/after-venice-florentina-holzingers-sea-world-coming-brooklyn-1234790163/",
           "source": "News – ARTnews.com",
-          "published_utc": "2026-06-24 15:18 UTC",
-          "analysis_zh": "南岸中心的主任米桑·哈里曼宣布，他将在合同到期后不再续任。尽管近期社交媒体上出现了一些争议，但他表示此次离职与这些事件无关。这一决定引发了对南岸中心未来领导方向的关注，尤其是在艺术和文化领域的影响力方面。哈里曼的离开可能会促使该机构在新任领导下进行战略调整，进而影响其项目和活动的开展。",
-          "analysis_en": "Misan Harriman, the director of the Southbank Centre, announced that he will not seek another term when his contract expires. He stated that his departure is unrelated to the recent controversies on social media. This decision raises questions about the future leadership direction of the Southbank Centre, particularly regarding its influence in the arts and culture sector. Harriman's exit may prompt the organization to make strategic adjustments under new leadership, potentially affecting its projects and activities."
+          "published_utc": "2026-06-24 20:38 UTC",
+          "analysis_zh": "奥地利艺术家弗洛伦蒂娜·霍尔津格（Florentina Holzinger）的作品《海洋世界》（Seaworld）在威尼斯的首次亮相后，将于2027年春季在柏林的格罗皮乌斯建筑（Gropius Bau）展出。这一改编版本是为奥地利馆特别创作的，标志着霍尔津格在国际艺术界的进一步发展。此次展览不仅展示了她的艺术风格，还可能吸引更多观众关注当代艺术，推动艺术市场的多样性和创新性。",
+          "analysis_en": "Austrian artist Florentina Holzinger's work \"Seaworld\" will debut in Berlin at Gropius Bau in spring 2027 after its initial presentation in Venice. This adapted version was specifically created for the Austrian Pavilion, highlighting Holzinger's growing presence in the international art scene. The exhibition not only showcases her artistic style but may also draw more attention to contemporary art, fostering diversity and innovation in the art market."
         },
         {
           "rank": 5,
-          "title": "A Billionaire’s Basquiat Collection Goes Up at Pérez Art Museum Miami",
-          "link": "https://www.nytimes.com/2026/06/24/arts/design/basquiat-ken-griffin-perez-art-museum.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-06-24 15:01 UTC",
-          "analysis_zh": "对冲基金经理肯·格里芬的巴斯奎特艺术品收藏在迈阿密佩雷斯艺术博物馆展出。这一展览不仅展示了十幅巴斯奎特的作品，也反映了高净值人士对艺术市场的影响力。格里芬以追求“惊艳”艺术品而闻名，这种趋势可能会进一步推动艺术品的价格上涨，并吸引更多投资者进入这一领域。",
-          "analysis_en": "Ken Griffin's collection of Basquiat artworks is on display at the Pérez Art Museum Miami. This exhibition features ten of his Basquiat pieces and highlights the influence of high-net-worth individuals on the art market. Griffin is known for seeking out artworks with a \"wow\" factor, and this trend may drive up prices and attract more investors into the art world."
+          "title": "Actress Julia Ormond Threatens Top 200 Collector Michael Ovitz With Bench Warrant",
+          "link": "https://www.artnews.com/art-news/news/julia-ormond-threatens-top-200-collector-michael-ovitz-bench-warrant-1234790184/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-06-24 20:22 UTC",
+          "analysis_zh": "演员朱莉娅·奥蒙德威胁顶级收藏家迈克尔·奥维茨，称如果他不出席传讯，将面临逮捕令。此事件源于奥维茨在被询问与已故性犯罪者杰弗里·爱泼斯坦的关系时选择离开。此事不仅引发了公众对名人及其社交圈的关注，也可能对奥维茨的声誉和职业生涯产生深远影响。",
+          "analysis_en": "Actress Julia Ormond has threatened top collector Michael Ovitz with a bench warrant if he fails to appear for a deposition. This situation arose when Ovitz walked out after being questioned about his relationship with the late sex offender Jeffrey Epstein. The incident has sparked public interest in the connections between celebrities and their social circles, and it could have lasting repercussions on Ovitz's reputation and career."
         },
         {
           "rank": 6,
-          "title": "Emirati language and culture centre among projects from Ajman University",
-          "link": "https://www.dezeen.com/2026/06/24/emirati-language-and-culture-centre-among-projects-from-ajman-university-schoolshows/",
-          "source": "Dezeen",
-          "published_utc": "2026-06-24 15:00 UTC",
-          "analysis_zh": "阿吉曼大学的室内设计项目中，包括一个受到阿联酋庭院和巴尔吉尔风塔启发的语言与文化中心。这一项目不仅展示了阿联酋的传统文化，还为学生和创业者提供了支持空间。这样的设计不仅有助于保护和传播本土文化，也可能吸引更多的游客和学者前来了解阿联酋的独特魅力。",
-          "analysis_en": "Among the interior design projects from Ajman University is a language and culture center inspired by Emirati courtyards and barjeel wind towers. This project not only showcases traditional Emirati culture but also provides support spaces for students and entrepreneurs. Such designs help preserve and promote local culture, potentially attracting more visitors and scholars interested in the unique charm of the UAE."
+          "title": "In Open Letter, Hundreds of Artists Urge Mayor Mamdani for Two-Year Ban on AI in Classrooms",
+          "link": "https://www.artnews.com/art-news/news/letter-artists-zohran-mamdani-two-year-ban-ai-classrooms-1234790115/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-06-24 19:13 UTC",
+          "analysis_zh": "最近，约500名艺术家、电影制片人和作家联名致信纽约市市长马姆达尼，呼吁在课堂上禁止使用人工智能，期限为两年。他们认为，保护创意教育对于纽约市的未来至关重要，并希望这一举措能够为全国的学校系统树立榜样。这一禁令的提出，反映了艺术界对人工智能在教育中潜在影响的担忧，可能会引发更广泛的讨论，涉及教育政策和技术在课堂中的角色。",
+          "analysis_en": "Recently, around 500 artists, filmmakers, and writers signed an open letter urging New York City Mayor Mamdani to impose a two-year ban on the use of artificial intelligence in classrooms. They believe that protecting creative education is crucial for the future of New York City and hope this initiative will set an example for school systems across the country. The call for this ban reflects concerns within the arts community about the potential impact of AI on education, which may spark broader discussions regarding educational policies and the role of technology in the classroom."
         },
         {
           "rank": 7,
-          "title": "‘Henry VI,’ ‘Camping’ and 6 More Shows to See Now",
-          "link": "https://www.nytimes.com/2026/06/24/theater/off-broadway-shows-to-see-now.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-06-24 15:00 UTC",
-          "analysis_zh": "六月的纽约是小剧场和小小剧场演出的盛宴，许多精彩的演出将在城市最舒适的空间中上演，并且即将结束。推荐的节目包括《亨利六世》和《露营》等，吸引了众多观众的关注。这些演出不仅展示了丰富的艺术创作，也为观众提供了独特的文化体验。随着演出季节的结束，这些作品可能会在未来的艺术活动中留下深远的影响。",
-          "analysis_en": "June in New York is a bonanza of Off and Off Off Broadway productions, with many exciting shows set to take place in the city's coziest venues and closing soon. Recommended performances include \"Henry VI\" and \"Camping,\" which have garnered significant audience interest. These productions not only showcase a wealth of artistic creativity but also offer unique cultural experiences for viewers. As the season comes to a close, these works may have a lasting impact on future artistic endeavors."
+          "title": "Egyptian Archaeologists Unearth Two Tombs That Could Represent Early Development of Funerary Pyramids",
+          "link": "https://www.artnews.com/art-news/news/egyptian-archaeologists-tombs-pyramids-1234790127/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-06-24 19:07 UTC",
+          "analysis_zh": "埃及考古学家在传说中的“鸟山”发现了两个古墓，这一发现可能代表了早期葬礼金字塔的发展。这些结构的发掘为我们理解古埃及的葬礼习俗和建筑技术提供了新的视角。此项研究不仅有助于揭示古埃及文明的演变，还可能影响未来的考古研究方向，吸引更多学者关注这一领域。",
+          "analysis_en": "Egyptian archaeologists have unearthed two tombs at the legendary \"Mountain of the Birds,\" which may represent the early development of funerary pyramids. This discovery provides new insights into ancient Egyptian burial practices and architectural techniques. The findings could not only enhance our understanding of the evolution of ancient Egyptian civilization but also influence future archaeological research, drawing more scholars to this area of study."
         },
         {
           "rank": 8,
-          "title": "amasa estudio carves patios and millwork into a mid-century home in mexico city",
-          "link": "https://www.designboom.com/architecture/amasa-estudio-patios-millwork-mid-century-home-mexico-city-casa-xoltic/",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-06-24 14:30 UTC",
-          "analysis_zh": "在墨西哥城，amasa estudio对一座中世纪住宅进行了改造，增设了庭院和木工装置。这一设计将社交空间巧妙地安排在室内外区域之间，提升了居住的舒适性和美观性。这项改造不仅为居民提供了更好的生活体验，也为城市的建筑设计提供了新的灵感和方向，可能会影响未来的住宅设计趋势。",
-          "analysis_en": "In Mexico City, amasa estudio has transformed a mid-century home by adding patios and millwork. This design cleverly arranges social spaces between indoor and outdoor areas, enhancing both comfort and aesthetics for the residents. This renovation not only improves the living experience but also offers new inspiration and direction for urban architectural design, potentially influencing future residential design trends."
+          "title": "Crosby Studios outfits World Cup exhibition in New York with bright-green carpet",
+          "link": "https://www.dezeen.com/2026/06/24/crosby-studios-new-york-home-of-football-air-afrique-exhibition/",
+          "source": "Dezeen",
+          "published_utc": "2026-06-24 19:00 UTC",
+          "analysis_zh": "Crosby Studios在纽约高线公园下方设计了一个临时展览空间，庆祝2026年国际足联世界杯的到来。展览中展示了诸如贝利1958年世界杯球衣等足球纪念品，同时也是文化平台“足球之家”的启动活动。这一展览不仅展示了足球的历史和文化，还为当地社区提供了一个互动的空间，吸引了众多足球爱好者的关注。",
+          "analysis_en": "Crosby Studios has created a pop-up exhibition space beneath New York's High Line to celebrate the upcoming 2026 FIFA World Cup. The exhibition features football memorabilia, including Pelé's 1958 World Cup jersey, and serves as the launch event for the cultural platform \"Home of Football.\" This exhibition not only highlights the history and culture of football but also provides an interactive space for the local community, drawing the attention of many football enthusiasts."
         },
         {
           "rank": 9,
-          "title": "Resignations at the Southbank Centre and Canadian Human Rights Museum, and More: Morning Links for June 24, 2026",
-          "link": "https://www.artnews.com/art-news/news/resignations-southbank-centre-canadian-human-rights-museum-1234790069/",
+          "title": "Australian Artist Accused of Copying Work of Jean-Michel Basquiat, Nicholas Harding",
+          "link": "https://www.artnews.com/art-news/news/jane-allan-copying-claims-jean-michel-basquiat-nicholas-harding-1234790157/",
           "source": "News – ARTnews.com",
-          "published_utc": "2026-06-24 13:55 UTC",
-          "analysis_zh": "加拿大人权博物馆的受托人马克·柏林因对一场关于巴勒斯坦人流离失所的展览表示不满而辞职。这一事件引发了广泛关注，因为它涉及到人权与艺术表达之间的复杂关系。柏林的辞职不仅反映了对展览内容的争议，也可能影响到博物馆未来的展览策划和公众反响。此举可能促使其他文化机构在处理敏感议题时更加谨慎。",
-          "analysis_en": "Mark Berlin, a trustee at the Canadian Museum for Human Rights, has resigned due to his dissatisfaction with an exhibition concerning the displacement of Palestinians. This incident has garnered significant attention as it highlights the complex relationship between human rights and artistic expression. Berlin's resignation not only reflects controversy over the exhibition's content but may also impact the museum's future exhibition planning and public reception. This move could encourage other cultural institutions to approach sensitive topics with greater caution."
+          "published_utc": "2026-06-24 17:37 UTC",
+          "analysis_zh": "澳大利亚艺术家简·艾伦（Jane Allan）因其两幅获奖作品被指控抄袭著名艺术家让-米歇尔·巴斯奎特（Jean-Michel Basquiat）的作品。这一事件引发了广泛关注，因为抄袭问题在艺术界一直是一个敏感话题，涉及创作的原创性和艺术家的声誉。若指控属实，可能会对艾伦的职业生涯造成严重影响，并引发对艺术作品版权和知识产权的进一步讨论。",
+          "analysis_en": "Australian artist Jane Allan has been accused of copying two prize-winning works from renowned artist Jean-Michel Basquiat. This incident has garnered significant attention, as plagiarism is a sensitive issue in the art world, touching on the originality of creations and the reputation of artists. If the allegations are proven true, it could have serious repercussions for Allan's career and spark further discussions on copyright and intellectual property in the art community."
         },
         {
           "rank": 10,
-          "title": "When the World Cup Came to SoFi Stadium, He Got a Backyard View",
-          "link": "https://www.nytimes.com/2026/06/24/arts/world-cup-sofi-stadium.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-06-24 13:30 UTC",
-          "analysis_zh": "洛杉矶附近的SoFi体育场在世界杯期间成为全球关注的焦点，但对于周边居民来说，这却是一个新的烦恼。虽然体育场的建设耗资高达50亿美元，吸引了大量游客和媒体，但当地居民却面临噪音、交通拥堵等问题。这一事件不仅反映了大型活动对社区生活的影响，也引发了人们对城市规划和居民权益的关注。",
-          "analysis_en": "SoFi Stadium, located near Los Angeles, has become a global focal point during the World Cup, but for nearby residents, it has turned into a new headache. While the stadium, which cost $5 billion to build, attracts a large influx of visitors and media attention, local residents are dealing with issues like noise and traffic congestion. This situation highlights the impact of large events on community life and raises concerns about urban planning and residents' rights."
+          "title": "Custom furniture created for Azteca Stadium's interior revamp",
+          "link": "https://www.dezeen.com/2026/06/24/azteca-stadium-custom-furniture/",
+          "source": "Dezeen",
+          "published_utc": "2026-06-24 17:00 UTC",
+          "analysis_zh": "墨西哥城的阿兹特克体育场正在进行内部改造，设计师们展示了一系列定制家具。这次改造不仅是为了提升体育场的美观，也为即将到来的2026年世界杯做准备。当地设计工作室的合作，展示了墨西哥丰富的设计文化和创新能力。这一变化可能会吸引更多游客和球迷，提升体育场的整体体验。",
+          "analysis_en": "The Azteca Stadium in Mexico City is undergoing an interior revamp, featuring a collection of custom furniture designed by local designers. This renovation aims to enhance the stadium's aesthetics in preparation for the upcoming 2026 FIFA World Cup. The collaboration among local design studios showcases Mexico's rich design culture and innovative spirit. This transformation may attract more visitors and fans, improving the overall experience at the stadium."
         }
       ]
     }
