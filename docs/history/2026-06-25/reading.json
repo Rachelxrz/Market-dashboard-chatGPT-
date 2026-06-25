@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-25 15:44:22 UTC",
-  "generated_at_unix": 1782402262,
+  "generated_at": "2026-06-25 16:29:47 UTC",
+  "generated_at_unix": 1782404987,
   "window": {
-    "from_utc": "2026-06-24 15:44:22 UTC",
-    "to_utc": "2026-06-25 15:44:22 UTC",
+    "from_utc": "2026-06-24 16:29:47 UTC",
+    "to_utc": "2026-06-25 16:29:47 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,93 +14,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "US Supreme Court scales back Roundup cancer lawsuits",
-          "link": "https://www.investing.com/news/stock-market-news/us-supreme-court-scales-back-roundup-cancer-lawsuits-4760959",
-          "source": "Stock Market News",
-          "published_utc": "2026-06-25 15:31 UTC",
-          "analysis_zh": "美国最高法院近日限制了关于除草剂Roundup的癌症诉讼。这一裁决意味着许多原告将面临更高的举证标准，可能导致他们的索赔被驳回。这一决定对农药行业产生了深远的影响，可能会减轻企业的法律责任，同时也可能影响消费者对产品安全性的信心。",
-          "analysis_en": "The U.S. Supreme Court recently scaled back lawsuits related to the herbicide Roundup and cancer claims. This ruling means that many plaintiffs will face higher standards of proof, which could result in their claims being dismissed. This decision has significant implications for the pesticide industry, potentially reducing corporate liability while also affecting consumer confidence in product safety."
+          "title": "SpaceX stock is a terrible buy — what that actually means for the bull market",
+          "link": "https://www.marketwatch.com/story/spacex-is-a-bad-buy-why-openai-and-anthropic-will-be-too-2448ea73?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-06-25 16:25 UTC",
+          "analysis_zh": "SpaceX的股票被认为是一个糟糕的投资选择，这引发了市场的广泛关注。尽管短期内过度炒作的首次公开募股（IPO）通常不会带来收益，但这并不意味着投资者应该急于抛售手中的股票。此事件提醒投资者要谨慎对待高估值的公司，可能会影响市场对科技股的信心和投资策略。",
+          "analysis_en": "SpaceX's stock is deemed a poor investment choice, which has garnered significant attention in the market. While overhyped IPOs typically do not yield profits in the short term, this does not mean investors should rush to sell their stocks. This situation serves as a reminder for investors to be cautious with highly valued companies, potentially affecting market confidence in tech stocks and investment strategies."
         },
         {
           "rank": 2,
-          "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-          "link": "https://www.investing.com/news/stock-market-news/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-4759021",
-          "source": "Stock Market News",
-          "published_utc": "2026-06-25 15:31 UTC",
-          "analysis_zh": "近日，人工智能公司Anthropic指控阿里巴巴非法提取了其Claude AI模型的能力。这一事件引发了广泛关注，因为它涉及到知识产权和技术安全的问题。如果这一指控成立，可能会对阿里巴巴的声誉和未来的技术合作产生负面影响，同时也可能促使其他科技公司更加重视保护自身的知识产权。",
-          "analysis_en": "Recently, the AI company Anthropic accused Alibaba of illicitly extracting capabilities from its Claude AI model. This incident has garnered significant attention as it raises concerns about intellectual property and technology security. If the allegations are proven true, it could negatively impact Alibaba's reputation and future technology partnerships, while also prompting other tech companies to place greater emphasis on protecting their intellectual property."
+          "title": "Take a cue from the rich: Do a midyear financial check-in",
+          "link": "https://www.marketwatch.com/story/take-a-cue-from-the-rich-do-a-midyear-financial-check-in-028a60e8?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-06-25 16:25 UTC",
+          "analysis_zh": "在年中进行财务检查是理财顾问的建议，尤其是为了重新平衡投资组合。通过调整投资策略，投资者可以更好地应对市场变化。这一做法不仅有助于优化资产配置，还能提高投资回报。随着经济形势的变化，及时的财务调整显得尤为重要。",
+          "analysis_en": "Financial advisors recommend conducting a midyear financial check-in, particularly to rebalance investment portfolios. By adjusting their investment strategies, investors can better respond to market fluctuations. This practice not only helps optimize asset allocation but also enhances potential returns. Given the changing economic landscape, timely financial adjustments are crucial."
         },
         {
           "rank": 3,
-          "title": "Bayer’s stock jumps after Supreme Court sides with Roundup weedkiller manufacturer",
-          "link": "https://www.marketwatch.com/story/bayers-stock-jumps-after-supreme-court-sides-with-roundup-weedkiller-manufacturer-a747f253?mod=mw_rss_topstories",
+          "title": "Iran tightens its grip on Strait of Hormuz, sending oil higher",
+          "link": "https://www.marketwatch.com/story/iran-tightens-its-grip-on-strait-of-hormuz-sending-oil-higher-f3bc53a1?mod=mw_rss_topstories",
           "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-06-25 15:31 UTC",
-          "analysis_zh": "拜耳公司的股票在美国最高法院支持其除草剂Roundup的裁决后大幅上涨。法院裁定，各州不能制定与联邦法律要求不同的标签警告规则。这一裁决对拜耳来说至关重要，因为它减轻了公司在法律诉讼中的潜在风险，并可能影响未来的产品监管政策。投资者对这一消息反应积极，认为这将有助于拜耳在市场上的稳定性和盈利能力。",
-          "analysis_en": "Bayer's stock surged after the U.S. Supreme Court ruled in favor of the company regarding its Roundup weedkiller. The court decided that states cannot impose labeling warning rules that differ from federal law. This ruling is significant for Bayer as it reduces the potential legal risks the company faces and may influence future product regulation policies. Investors reacted positively to this news, seeing it as a boost to Bayer's stability and profitability in the market."
+          "published_utc": "2026-06-25 16:22 UTC",
+          "analysis_zh": "伊朗加强了对霍尔木兹海峡的控制，这一举动导致油价上涨。霍尔木兹海峡是全球重要的石油运输通道，伊朗的行动可能会引发市场的不安和供应链的中断。这不仅影响到全球油价，也可能对国际关系和地区安全产生深远影响。",
+          "analysis_en": "Iran has tightened its control over the Strait of Hormuz, resulting in a rise in oil prices. This strait is a crucial passage for global oil transportation, and Iran's actions could lead to market instability and disruptions in supply chains. This situation not only affects global oil prices but may also have significant implications for international relations and regional security."
         },
         {
           "rank": 4,
-          "title": "Turkey stocks lower at close of trade; BIST 100 down 0.50%",
-          "link": "https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-050-4761089",
-          "source": "Stock Market News",
-          "published_utc": "2026-06-25 15:30 UTC",
-          "analysis_zh": "土耳其股市在交易结束时出现下跌，BIST 100指数下跌了0.50%。这一变化反映了市场对经济前景的担忧，尤其是在全球经济不确定性加剧的背景下。股市的下滑可能会影响投资者的信心，进而影响到土耳其的资本流入和经济增长。",
-          "analysis_en": "Turkey's stock market closed lower, with the BIST 100 index down by 0.50%. This decline indicates growing concerns about the economic outlook, particularly amid increasing global economic uncertainty. The drop in the stock market could affect investor confidence, which in turn may impact capital inflows and economic growth in Turkey."
+          "title": "Why Micron's blowout earnings are a headache for Apple",
+          "link": "https://finance.yahoo.com/markets/article/why-microns-blowout-earnings-are-a-headache-for-apple-161932441.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-06-25 16:19 UTC",
+          "analysis_zh": "美光科技（Micron）最近发布了超出预期的财报，显示出其在存储芯片市场的强劲表现。这一消息对苹果公司来说却是个麻烦，因为苹果在其产品中大量依赖美光的芯片。美光的成功可能会导致苹果在供应链上的压力加大，尤其是在芯片短缺的背景下，这可能影响到苹果的生产和销售计划。",
+          "analysis_en": "Micron recently reported earnings that exceeded expectations, showcasing its strong performance in the memory chip market. This news poses a headache for Apple, as the company heavily relies on Micron's chips for its products. Micron's success may increase pressure on Apple's supply chain, particularly against the backdrop of ongoing chip shortages, potentially impacting Apple's production and sales plans."
         },
         {
           "rank": 5,
-          "title": "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 1.11%",
-          "link": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-111-4761087",
-          "source": "Stock Market News",
-          "published_utc": "2026-06-25 15:30 UTC",
-          "analysis_zh": "丹麦股市在交易结束时上涨，OMX 哥本哈根 20 指数上涨了 1.11%。这一上涨反映了市场对经济复苏的乐观情绪，投资者对未来增长的预期增强。股市的表现不仅影响了投资者的信心，还可能吸引更多的外资流入，为丹麦经济带来积极的推动。",
-          "analysis_en": "Denmark's stock market closed higher, with the OMX Copenhagen 20 index rising by 1.11%. This increase reflects a growing optimism among investors regarding economic recovery and enhanced expectations for future growth. The stock market's performance not only boosts investor confidence but may also attract more foreign investment, providing a positive impetus for the Danish economy."
+          "title": "Bayer wins Supreme Court case making it harder to sue over glyphosate in Monsanto's Roundup",
+          "link": "https://www.cnbc.com/2026/06/25/glyphosate-roundup-bayer-supreme-court-case-monsanto.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-06-25 16:18 UTC",
+          "analysis_zh": "拜耳公司在最高法院赢得了一项案件，裁定对其除草剂草甘膦的诉讼变得更加困难。草甘膦是农用除草剂“农达”的主要成分，长期以来与癌症索赔相关联。这一裁决可能会影响未来对农药制造商的诉讼，降低受害者获得赔偿的机会，同时也可能对农业行业的监管政策产生深远影响。",
+          "analysis_en": "Bayer won a case in the Supreme Court that makes it harder to sue over glyphosate, the active ingredient in its Roundup weedkiller. Glyphosate has long been associated with cancer claims, and this ruling could affect future lawsuits against pesticide manufacturers, potentially reducing victims' chances of receiving compensation. Additionally, it may have significant implications for regulatory policies in the agricultural sector."
         },
         {
           "rank": 6,
-          "title": "A relative offered me a $25,000 home loan secured by a lien that must be repaid within a year. Is that fair?",
-          "link": "https://www.marketwatch.com/story/im-70-a-relative-offered-me-a-25-000-home-loan-secured-by-a-lien-that-must-be-repaid-within-a-year-should-i-agree-27d44725?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-06-25 15:30 UTC",
-          "analysis_zh": "一位亲属向我提供了一笔2.5万美元的住房贷款，贷款以留置权作为担保，并要求我在一年内偿还。这件事引发了对家庭财务关系的讨论，尤其是在亲属之间借贷的公平性和风险。这样的贷款安排可能会影响家庭成员之间的信任和关系，尤其是如果借款人无法按时还款的话。",
-          "analysis_en": "A relative offered me a $25,000 home loan secured by a lien, requiring repayment within a year. This situation raises questions about the fairness and risks associated with lending money among family members. Such an arrangement could impact trust and relationships within the family, especially if the borrower struggles to repay the loan on time."
+          "title": "IBM stock just got powerful new price target from Wall Street",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-stock-just-got-powerful-161700745.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-06-25 16:17 UTC",
+          "analysis_zh": "近日，华尔街对IBM的股票目标价进行了上调，这一消息引起了市场的广泛关注。此举反映了分析师对IBM未来增长潜力的信心，尤其是在其云计算和人工智能领域的投资不断增加。提高的目标价可能会吸引更多投资者关注IBM，进而推动其股价上涨，影响整个科技股市场的走势。",
+          "analysis_en": "Recently, Wall Street raised its price target for IBM stock, which has garnered significant attention in the market. This move reflects analysts' confidence in IBM's future growth potential, particularly with its ongoing investments in cloud computing and artificial intelligence. The increased price target may attract more investors to IBM, potentially driving its stock price up and influencing the overall trend in the tech stock market."
         },
         {
           "rank": 7,
-          "title": "Polestar says Trump administration forcing it to end US sales",
-          "link": "https://finance.yahoo.com/news/us-denies-polestar-authorization-sell-130146185.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-06-25 15:25 UTC",
-          "analysis_zh": "波尔斯塔汽车公司近日宣布，由于特朗普政府的政策影响，该公司将停止在美国的销售。这一决定对波尔斯塔来说至关重要，因为美国市场是其重要的销售渠道。政策的变化可能会导致波尔斯塔在全球市场的竞争力下降，并影响其未来的投资计划。",
-          "analysis_en": "Polestar recently announced that it will cease sales in the U.S. due to the impact of the Trump administration's policies. This decision is significant for Polestar as the U.S. market represents a crucial sales channel for the company. The shift in policy could diminish Polestar's competitiveness in the global market and affect its future investment plans."
+          "title": "Why is ServiceTitan stock sliding today?",
+          "link": "https://www.investing.com/news/stock-market-news/why-is-servicetitan-stock-sliding-today-93CH-4761151",
+          "source": "Stock Market News",
+          "published_utc": "2026-06-25 16:15 UTC",
+          "analysis_zh": "今天，ServiceTitan的股票出现下滑，投资者对公司未来的增长前景表示担忧。这一下降可能与市场对其财务表现的反应有关，尤其是在经济不确定性加剧的背景下。此事件引发了对公司战略和管理能力的讨论，可能会影响投资者的信心和未来的融资能力。",
+          "analysis_en": "Today, ServiceTitan's stock is sliding as investors express concerns about the company's future growth prospects. This decline may be linked to market reactions to its financial performance, especially amid increasing economic uncertainty. The situation has sparked discussions about the company's strategy and management capabilities, which could affect investor confidence and future funding opportunities."
         },
         {
           "rank": 8,
-          "title": "IBD 50 Stock Indivior Breaks Out Amid Big Fund Ownership Expansion, Strong Profit Prospects",
-          "link": "https://www.investors.com/research/top-stocks-to-buy-ibd-50-stock-indivior-indv/?src=A00220&yptr=yahoo",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-06-25 15:24 UTC",
-          "analysis_zh": "Indivior公司在投资者中引起了广泛关注，因其股票在市场上表现出色，尤其是在大型基金的持股比例显著增加的情况下。这一突破表明，市场对该公司的盈利前景持乐观态度。随着投资者对其未来增长的信心增强，Indivior可能会吸引更多的资金流入，从而进一步推动其股价上涨。",
-          "analysis_en": "Indivior has garnered significant attention among investors as its stock has performed well, particularly with a notable increase in ownership by large funds. This breakout indicates that the market has a positive outlook on the company's profit prospects. As investor confidence in its future growth strengthens, Indivior may attract more capital inflow, potentially driving its stock price even higher."
+          "title": "GM reveals 2027 GMC Sierra pickup with new V-8 engines, redesigned styling",
+          "link": "https://www.cnbc.com/2026/06/25/gm-gmc-sierra-pickup.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-06-25 16:15 UTC",
+          "analysis_zh": "通用汽车（GM）近日发布了2027款GMC Sierra皮卡，配备了全新的V-8发动机和重新设计的外观。这款新车型对GM的销售和盈利至关重要，尤其是其高利润的奢华Denali和越野AT4版本。随着市场对高性能和豪华车型需求的增加，这一发布可能会进一步提升GM在竞争激烈的汽车市场中的地位。",
+          "analysis_en": "General Motors (GM) recently unveiled the 2027 GMC Sierra pickup, featuring new V-8 engines and a redesigned look. This new model is crucial for GM's sales and profitability, particularly for its highly profitable luxury Denali and off-road AT4 variants. As demand for high-performance and luxury vehicles continues to grow, this launch may further enhance GM's position in the competitive automotive market."
         },
         {
           "rank": 9,
-          "title": "Micron joins rivals pitching AI deals as cure for memory’s boom-bust cycle",
-          "link": "https://www.investing.com/news/stock-market-news/micron-joins-rivals-pitching-ai-deals-as-cure-for-memorys-boombust-cycle-4761079",
+          "title": "Why is Velo3D stock sliding today?",
+          "link": "https://www.investing.com/news/stock-market-news/why-is-velo3d-stock-sliding-today-93CH-4761150",
           "source": "Stock Market News",
-          "published_utc": "2026-06-25 15:24 UTC",
-          "analysis_zh": "美光科技（Micron）最近加入了竞争对手的行列，积极推销人工智能（AI）解决方案，以应对内存市场的周期性波动。这一举措表明，企业正在寻找创新的方法来稳定收入，并减少市场的不确定性。随着人工智能技术的快速发展，内存需求可能会持续增长，这对整个行业的未来发展具有重要影响。",
-          "analysis_en": "Micron has recently joined its competitors in promoting artificial intelligence (AI) solutions to address the cyclical fluctuations in the memory market. This move indicates that companies are seeking innovative ways to stabilize their revenues and reduce market uncertainties. With the rapid advancement of AI technology, the demand for memory products may continue to rise, which could significantly impact the future development of the entire industry."
+          "published_utc": "2026-06-25 16:15 UTC",
+          "analysis_zh": "Velo3D的股票今天出现下滑，主要是由于市场对其未来盈利能力的担忧。投资者对公司的财务表现感到不安，导致股价下跌。这一现象不仅影响了公司的市值，也可能对其融资能力和未来的投资计划产生负面影响。",
+          "analysis_en": "Velo3D's stock is sliding today primarily due to concerns about its future profitability. Investors are uneasy about the company's financial performance, leading to a decline in its stock price. This situation not only affects the company's market value but may also negatively impact its ability to secure funding and pursue future investment plans."
         },
         {
           "rank": 10,
-          "title": "It’s Pretty Insane How Much TPAY’s 10% Yield Beats Most Covered Call ETFs",
-          "link": "https://finance.yahoo.com/markets/options/articles/pretty-insane-much-tpay-10-152406249.html",
+          "title": "Stock Market Today: Indexes Mixed; Financials Lead As JPMorgan Tops Buy Point (Live Coverage)",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-micron-stock-mu/?src=A00220&yptr=yahoo",
           "source": "Yahoo Finance",
-          "published_utc": "2026-06-25 15:24 UTC",
-          "analysis_zh": "TPAY的收益率高达10%，远超大多数覆盖性看涨期权ETF，这一现象引起了投资者的关注。这意味着TPAY在当前市场环境中提供了相对较高的回报率，可能吸引更多投资者的资金流入。随着投资者寻求更高收益的机会，TPAY的表现可能会影响其他投资产品的竞争力，并促使市场对收益率的重新评估。",
-          "analysis_en": "TPAY has a yield of 10%, significantly outperforming most covered call ETFs, which has caught the attention of investors. This indicates that TPAY is offering a relatively high return in the current market environment, potentially attracting more capital from investors. As investors seek higher yield opportunities, TPAY's performance could impact the competitiveness of other investment products and prompt a reevaluation of yields in the market."
+          "published_utc": "2026-06-25 16:14 UTC",
+          "analysis_zh": "今天的股市表现不一，主要股指涨跌互现。金融股表现突出，摩根大通的股价突破了买入点。这一动态表明，尽管市场整体波动，金融行业仍然显示出强劲的增长潜力。投资者可能会关注金融股的表现，以判断未来市场的走向。",
+          "analysis_en": "Today, the stock market showed mixed results, with major indexes fluctuating. Financial stocks led the way, as JPMorgan's share price surpassed its buy point. This development indicates that, despite overall market volatility, the financial sector continues to demonstrate strong growth potential. Investors may focus on the performance of financial stocks to gauge future market trends."
         }
       ]
     },
@@ -114,8 +114,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260623083116.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-25 14:57 UTC",
-          "analysis_zh": "维生素B12是一种微量元素，但缺乏时会对健康和能量产生重大影响。研究发现，维生素B12不仅能预防恶性贫血，还可能有助于维持细胞内的线粒体正常运作。这一发现解释了为何一些人在出现传统缺乏症状之前，就会感到疲惫和思维模糊。了解维生素B12的重要性，尤其是对于老年人和素食者，可能会促使更多人关注自身的营养摄入，从而改善健康状况。",
-          "analysis_en": "Vitamin B12 is needed in tiny amounts, but a deficiency can have significant impacts on health and energy levels. Research indicates that B12 not only prevents pernicious anemia but may also help maintain the proper functioning of mitochondria within cells. This discovery explains why some individuals experience fatigue and brain fog even before traditional deficiency symptoms appear. Recognizing the importance of vitamin B12, especially for older adults and vegetarians, may lead to increased awareness of nutritional intake and improvements in overall health."
+          "analysis_zh": "维生素B12是一种微量营养素，但其缺乏可能对健康和能量产生重大影响。研究发现，维生素B12不仅可以预防恶性贫血，还可能有助于维持细胞能量工厂——线粒体的正常功能。这一发现解释了为什么一些人在传统缺乏症状出现之前，就会感到疲劳和脑雾。了解维生素B12的重要性，有助于改善老年人和素食者的健康状况。",
+          "analysis_en": "Vitamin B12 is a micronutrient that is essential for health, and its deficiency can lead to significant impacts on energy levels and overall well-being. Recent research indicates that B12 not only prevents pernicious anemia but also plays a crucial role in maintaining the proper functioning of mitochondria, the cell's energy producers. This finding helps to explain why some individuals experience fatigue and cognitive fog even before classic deficiency symptoms arise. Recognizing the importance of vitamin B12 could lead to better health outcomes for older adults and those following vegetarian or vegan diets."
         },
         {
           "rank": 2,
@@ -123,8 +123,8 @@
           "link": "https://www.nytimes.com/2026/06/25/us/politics/supreme-court-weedkiller-roundup-bayer.html",
           "source": "NYT > Health",
           "published_utc": "2026-06-25 14:50 UTC",
-          "analysis_zh": "美国最高法院驳回了针对拜耳公司的诉讼，指控其除草剂“草甘膦”导致癌症。这一裁决可能会影响成千上万起针对拜耳的类似诉讼，决定这些案件的未来。此案的重要性在于，它不仅关系到拜耳的法律责任，还可能影响公众对化学产品安全性的信任。",
-          "analysis_en": "The U.S. Supreme Court has rejected a lawsuit against Bayer, alleging that its weedkiller Roundup caused cancer. This ruling could significantly impact thousands of similar lawsuits against Bayer, determining the future of these cases. The importance of this case lies in its implications for Bayer's legal liability and the public's trust in the safety of chemical products."
+          "analysis_zh": "美国最高法院驳回了针对拜耳公司的诉讼，指控其除草剂“草甘膦”导致癌症。这一裁决可能对成千上万起类似的诉讼产生深远影响，因为拜耳面临着大量关于其产品安全性的指控。法院的决定不仅影响了拜耳的法律责任，也可能影响公众对化学农药的信任和使用。",
+          "analysis_en": "The U.S. Supreme Court rejected a lawsuit against Bayer, alleging that its herbicide Roundup caused cancer. This ruling could have significant implications for thousands of similar lawsuits, as Bayer faces numerous claims regarding the safety of its products. The court's decision not only affects Bayer's legal liabilities but may also influence public trust and the use of chemical pesticides."
         },
         {
           "rank": 3,
@@ -132,8 +132,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260623014014.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-25 14:38 UTC",
-          "analysis_zh": "研究人员发现，一种罕见的肝癌通过诱使免疫T细胞远离肿瘤并将其困在附近的纤维组织中，从而逃避免疫疗法。美国食品药品监督管理局（FDA）批准的药物AMD3100能够释放这些T细胞，使其能够攻击癌症，从而显著提高了免疫疗法在肿瘤样本中的有效性。这一发现对治疗纤维层癌（主要影响儿童和年轻人）具有重要意义，因为目前尚无治愈方法，且患者的生存前景通常较差。",
-          "analysis_en": "Researchers found that a rare liver cancer evades immunotherapy by luring immune T cells away from the tumor and trapping them in nearby fibrous tissue. An FDA-approved drug called AMD3100 was able to free those T cells to attack the cancer, significantly improving the effectiveness of immunotherapy in tumor samples. This finding is crucial for treating fibrolamellar carcinoma, which primarily affects children and young adults, as there is currently no cure and patients often face poor survival prospects."
+          "analysis_zh": "研究人员发现，一种罕见的肝癌通过将免疫T细胞引开并困在附近的纤维组织中，从而逃避免疫治疗。美国食品药品监督管理局（FDA）批准的药物AMD3100能够释放这些T细胞，使其重新攻击癌症，从而显著提高了免疫治疗在肿瘤样本中的效果。这一发现为治疗纤维层癌症提供了新的可能性，尤其是这种癌症主要影响儿童和年轻人，且目前没有治愈方法。研究结果不仅为患者带来了新的希望，也可能推动未来针对其他类型癌症的免疫治疗策略的发展。",
+          "analysis_en": "Researchers have discovered that a rare form of liver cancer evades immunotherapy by diverting immune T cells and trapping them in surrounding fibrous tissue. An FDA-approved drug called AMD3100 has been shown to free these T cells, allowing them to attack the cancer and significantly enhancing the effectiveness of immunotherapy in tumor samples. This finding offers a new potential treatment avenue for fibrolamellar carcinoma, which primarily affects children and young adults and currently has no cure. The results not only provide hope for patients but may also influence future immunotherapy strategies for other types of cancer."
         },
         {
           "rank": 4,
@@ -141,8 +141,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260618041524.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-06-25 13:46 UTC",
-          "analysis_zh": "科学家们发现，单个细胞如何构建出拥有1700亿个细胞的大脑。研究表明，大脑细胞利用其谱系作为一种位置图，来自同一祖先的细胞会相互靠近，从而帮助大脑在不完全依赖化学信号的情况下进行自我组织。这项发现对发展神经科学具有重要意义，因为它揭示了细胞如何在发育过程中确定自身位置和身份。未来，这项研究可能会影响生物学和人工智能等多个领域的发展。",
-          "analysis_en": "Scientists have discovered how a single cell builds a brain containing 170 billion cells. The research indicates that brain cells use their lineage as a positional map, with cells from the same ancestor staying close together, which helps the brain organize itself without relying solely on chemical signals. This finding is significant for developmental neuroscience as it reveals how cells determine their location and identity during development. In the future, this research could influence advancements in various fields, including biology and artificial intelligence."
+          "analysis_zh": "科学家们发现，单个细胞如何构建一个拥有1700亿个细胞的大脑。研究表明，大脑细胞利用其谱系作为一种位置图，来自同一祖先的细胞会相互靠近，这样有助于大脑在不完全依赖化学信号的情况下自我组织。这项研究的重要性在于，它为我们理解大脑发育过程中的细胞定位提供了新的视角，可能会影响生物学和人工智能等多个领域的研究。",
+          "analysis_en": "Scientists have discovered how a single cell builds a brain containing 170 billion cells. The research indicates that brain cells use their lineage as a positional map, with cells from the same ancestor staying close to each other, which helps the brain organize itself without relying solely on chemical signals. This finding is significant as it offers new insights into how cells position themselves during brain development, potentially influencing research across various fields, including biology and artificial intelligence."
         },
         {
           "rank": 5,
@@ -150,8 +150,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260625060159.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-25 11:23 UTC",
-          "analysis_zh": "一项新的研究发现，健康的老年人在服用安慰剂药丸三周后，记忆、身体表现和压力水平都有显著改善。最令人惊讶的是，即使参与者知道这些药丸并没有活性成分，它们仍然有效。这项研究的重要性在于，它揭示了心理因素在老年人健康中的潜在作用，可能为改善老年人的生活质量提供新的思路。未来的研究可以进一步探讨安慰剂效应在其他领域的应用。",
-          "analysis_en": "A new study has found that healthy older adults experienced significant improvements in memory, physical performance, and stress levels after taking placebo pills for three weeks. Surprisingly, these benefits were observed even when participants were aware that the pills contained no active ingredients. This research is important as it highlights the potential role of psychological factors in the health of older adults, which may offer new insights for enhancing their quality of life. Future studies could further explore the applications of the placebo effect in other areas."
+          "analysis_zh": "一项新的研究发现，健康的老年人在服用安慰剂后，记忆、身体表现和压力水平都有显著改善，尽管他们知道这些药丸是假的。这项研究的重要性在于，它挑战了传统观念，表明即使在知情的情况下，安慰剂也能带来真实的心理和生理益处。这可能会影响未来对老年人健康干预措施的设计，尤其是在如何利用心理因素来改善生活质量方面。",
+          "analysis_en": "A new study found that healthy older adults experienced significant improvements in memory, physical performance, and stress levels after taking placebo pills, even though they were aware that the pills were fake. The significance of this research lies in its challenge to traditional beliefs, showing that even when participants know they are taking a placebo, it can still yield real psychological and physiological benefits. This may influence future designs of health interventions for older adults, particularly in how psychological factors can be leveraged to enhance quality of life."
         },
         {
           "rank": 6,
@@ -159,8 +159,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260624025511.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-06-25 04:25 UTC",
-          "analysis_zh": "骨质疏松症是一种常见但常被忽视的疾病，导致骨骼密度降低、变得脆弱。由于其发展过程通常没有明显症状，许多人往往在发生骨折或进行骨密度检查时才意识到自己患有此病。随着年龄的增长、绝经、饮食不良和缺乏运动等因素，骨质流失问题愈发严重。幸运的是，通过锻炼、摄入足够的钙和维生素D以及其他健康习惯，可以减缓甚至部分逆转骨质的下降。这一问题的普遍性提醒我们重视骨骼健康，以防止未来的骨折风险。",
-          "analysis_en": "Osteopenia is a common yet often overlooked condition that leads to decreased bone density and increased fragility. Many individuals only realize they have this condition after experiencing a fracture or undergoing a bone density scan, as it typically develops without noticeable symptoms. Factors such as aging, menopause, poor diet, and inactivity can exacerbate bone loss. Fortunately, lifestyle changes like regular exercise, adequate calcium and vitamin D intake, and other healthy habits can help slow or even partially reverse this decline. The widespread nature of this issue highlights the importance of prioritizing bone health to prevent future fracture risks."
+          "analysis_zh": "骨质疏松症是一种常见但常被忽视的健康问题，导致骨骼密度降低和脆弱。由于其发展过程通常没有明显症状，许多人往往在发生骨折或进行骨密度检查时才意识到自己患有此病。随着年龄增长、绝经、饮食不良和缺乏运动等因素，骨质流失的风险增加。值得庆幸的是，通过锻炼、摄入足够的钙和维生素D等健康生活方式，可以减缓甚至部分逆转这一过程。这一问题的普遍性提醒我们，关注骨骼健康至关重要。",
+          "analysis_en": "Osteopenia is a common yet often overlooked health issue that leads to decreased bone density and fragility. Many individuals remain unaware of their condition until they suffer a fracture or undergo a bone density scan, as it typically develops without noticeable symptoms. Factors such as aging, menopause, poor diet, and inactivity can increase the risk of bone loss. Fortunately, adopting healthy habits like exercise and ensuring adequate intake of calcium and vitamin D can slow down or even partially reverse this decline. The prevalence of this issue highlights the importance of paying attention to bone health."
         },
         {
           "rank": 7,
@@ -168,8 +168,8 @@
           "link": "https://www.nytimes.com/2026/06/24/world/europe/ebola-france.html",
           "source": "NYT > Health",
           "published_utc": "2026-06-24 21:37 UTC",
-          "analysis_zh": "法国卫生部近日确认了该国首例埃博拉病例。这名医生曾前往刚果民主共和国，感染了病毒。尽管出现病例，官方表示对公众的风险较低。这一事件引发了人们对公共卫生安全的关注，可能会促使政府加强对入境旅行者的健康监测和防疫措施。",
-          "analysis_en": "The French health ministry has confirmed the country's first case of Ebola involving a doctor who had traveled to the Democratic Republic of Congo. Although a case has been identified, authorities have stated that the risk to the general population remains low. This incident raises concerns about public health safety and may lead the government to enhance health monitoring and preventive measures for incoming travelers."
+          "analysis_zh": "法国卫生部近日确认了该国首例埃博拉病例。这名医生曾前往刚果民主共和国，感染了该病毒。尽管这一消息引发了公众关注，但当局表示对更广泛人群的风险较低。这一事件提醒人们，全球疫情防控仍需保持警惕，尤其是在与疫情高发地区的人员往来中。",
+          "analysis_en": "The French health ministry has confirmed the country's first case of Ebola. The infected individual is a doctor who traveled to the Democratic Republic of Congo. Although this news has raised public concern, authorities have stated that the risk to the wider population remains low. This incident serves as a reminder that vigilance is necessary in global pandemic prevention, especially regarding travel to areas with high infection rates."
         },
         {
           "rank": 8,
@@ -177,8 +177,8 @@
           "link": "https://www.nytimes.com/2026/06/24/health/chemotherapy-drug-shortage.html",
           "source": "NYT > Health",
           "published_utc": "2026-06-24 20:44 UTC",
-          "analysis_zh": "近期，医生们面临着化疗药物短缺的问题，许多用于治疗多种癌症的通用化疗药物供应不足，订单无法及时满足。这一情况引发了对癌症患者可能面临药物配给的担忧。化疗药物的短缺不仅影响患者的治疗效果，还可能导致患者心理上的恐慌和不安。随着癌症发病率的上升，这一问题的严重性愈发凸显，可能会对整个医疗系统造成压力。",
-          "analysis_en": "Recently, doctors are facing a shortage of chemotherapy drugs, with many generic infusions essential for treating various cancers in low supply and unfulfilled orders. This situation has raised concerns about potential rationing for cancer patients. The lack of chemotherapy drugs not only affects treatment outcomes but may also lead to anxiety and distress among patients. As cancer rates continue to rise, the severity of this issue becomes increasingly apparent, potentially putting additional strain on the healthcare system."
+          "analysis_zh": "近期，医生们面临着化疗药物短缺的问题，尤其是一些关键的通用化疗药物供应不足。这一情况引发了对癌症患者可能面临药物配给的担忧。化疗药物的短缺不仅影响了患者的治疗效果，也可能导致治疗延误，进而影响患者的生存率。这一问题的严重性提醒我们，必须采取措施确保药物供应链的稳定，以保障癌症患者的基本医疗需求。",
+          "analysis_en": "Recently, doctors are facing a shortage of chemotherapy drugs, particularly generic infusions that are essential for treating various types of cancer. This situation has raised concerns about potential rationing for cancer patients. The lack of these drugs not only affects treatment outcomes but may also lead to delays in therapy, ultimately impacting patient survival rates. The seriousness of this issue highlights the need for measures to stabilize the drug supply chain to ensure that cancer patients receive the necessary medical care."
         }
       ]
     },
@@ -192,8 +192,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260623083116.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-06-25 14:57 UTC",
-          "analysis_zh": "维生素B12是一种微量元素，但其缺乏可能对健康和能量产生重大影响。研究发现，维生素B12不仅与治疗恶性贫血有关，还可能有助于维持细胞内的线粒体正常功能。这一发现解释了为何一些人在传统缺乏症状出现之前就会感到疲劳和思维模糊。了解维生素B12的重要性，尤其是在老年人和素食者中，可能会促使更多人关注饮食中的营养摄入，从而改善整体健康状况。",
-          "analysis_en": "Vitamin B12 is a micronutrient that, despite being needed in tiny amounts, can significantly impact health and energy levels when deficient. Research indicates that B12 is not only linked to the treatment of pernicious anemia but may also play a crucial role in maintaining the proper function of mitochondria within cells. This discovery helps explain why some individuals experience fatigue and cognitive fog even before traditional deficiency symptoms appear. Recognizing the importance of B12, especially among older adults and vegetarians, could lead to increased awareness of nutritional intake and improvements in overall health."
+          "analysis_zh": "维生素B12是一种微量营养素，但其缺乏可能对健康和能量产生重大影响。研究发现，维生素B12不仅与预防恶性贫血有关，还可能帮助维持细胞内的线粒体正常功能。这一发现解释了为什么一些人在传统缺乏症状出现之前就会感到疲劳和脑雾。了解维生素B12的重要性，对于改善老年人和素食者的健康状况至关重要。",
+          "analysis_en": "Vitamin B12 is a micronutrient that, despite being needed in very small amounts, can significantly impact health and energy levels when deficient. Research indicates that B12 is not only linked to preventing pernicious anemia but may also play a crucial role in maintaining the proper functioning of mitochondria within cells. This finding helps explain why some individuals experience fatigue and brain fog even before traditional deficiency symptoms manifest. Recognizing the importance of vitamin B12 is essential for improving the health of older adults and those following vegetarian or vegan diets."
         },
         {
           "rank": 2,
@@ -201,8 +201,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260618041524.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-06-25 13:46 UTC",
-          "analysis_zh": "科学家们发现，单个细胞如何构建出拥有1700亿个细胞的大脑。研究表明，大脑细胞利用其谱系作为一种位置图，来自同一祖先的细胞会相互靠近，从而帮助大脑在不完全依赖化学信号的情况下自我组织。这一发现对理解大脑发育过程具有重要意义，可能会影响生物学和人工智能等多个研究领域。通过揭示细胞如何确定自身位置和身份，这项研究为我们提供了新的视角，帮助我们更好地理解复杂的神经系统是如何形成的。",
-          "analysis_en": "Scientists have discovered how a single cell builds a brain containing 170 billion cells. The research suggests that brain cells use their lineage as a positional map, with cells from the same ancestor staying close to each other, which helps the brain organize itself without solely relying on chemical signals. This finding is significant for understanding the brain's developmental processes and may influence research across various fields, including biology and artificial intelligence. By revealing how cells determine their position and identity, this study offers new insights into the formation of complex neural systems."
+          "analysis_zh": "科学家们发现，单个细胞是如何构建一个拥有1700亿个细胞的大脑的。研究表明，大脑细胞利用其谱系，即细胞家族树，作为一种位置图。来自同一祖先的细胞相互靠近，帮助大脑在不完全依赖化学信号的情况下自我组织。这项研究不仅揭示了大脑发育过程中的自我组织机制，还可能对生物学和人工智能等领域的研究产生深远影响。",
+          "analysis_en": "Scientists have discovered how a single cell can build a brain containing 170 billion cells. The research suggests that brain cells use their lineage, or cellular family tree, as a positional map. Cells that originate from the same ancestor remain close to each other, aiding the brain's self-organization without relying solely on chemical signals. This study not only sheds light on the mechanisms of brain development but could also have significant implications for research in fields such as biology and artificial intelligence."
         },
         {
           "rank": 3,
@@ -210,8 +210,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260625060159.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-06-25 11:23 UTC",
-          "analysis_zh": "一项新的研究发现，健康的老年人在服用安慰剂药丸三周后，记忆、身体表现和压力水平都有显著改善。令人惊讶的是，即使参与者知道这些药丸是无效的，效果仍然显著。这项研究的重要性在于，它挑战了我们对安慰剂效应的传统理解，表明心理因素在老年人健康中的作用可能比我们想象的更为重要。未来，这可能会影响老年人治疗方案的设计，尤其是在心理健康和认知功能方面。",
-          "analysis_en": "A new study has found that healthy older adults experienced significant improvements in memory, physical performance, and stress levels after taking placebo pills for three weeks. Surprisingly, these effects were observed even when participants were aware that the pills were inactive. This research is significant as it challenges traditional understandings of the placebo effect, suggesting that psychological factors may play a more crucial role in the health of older adults than previously thought. In the future, this could influence the design of treatment plans for the elderly, particularly concerning mental health and cognitive function."
+          "analysis_zh": "一项新的研究发现，健康的老年人在服用安慰剂药丸三周后，记忆、身体表现和压力水平都有显著改善。令人惊讶的是，即使参与者知道这些药丸是假的，效果依然明显。这项研究的重要性在于，它挑战了我们对安慰剂效应的传统理解，表明心理因素在老年人健康中的作用可能比我们想象的更为重要。这一发现可能会影响未来老年人健康干预的设计，尤其是在心理和认知功能的提升方面。",
+          "analysis_en": "A new study found that healthy older adults experienced significant improvements in memory, physical performance, and stress levels after taking placebo pills for three weeks. Surprisingly, these effects were still observed even when participants were aware that the pills were fake. The importance of this research lies in its challenge to traditional understandings of the placebo effect, suggesting that psychological factors may play a more crucial role in the health of older adults than previously thought. This finding could influence the design of future health interventions for the elderly, particularly in enhancing psychological and cognitive functions."
         },
         {
           "rank": 4,
@@ -219,8 +219,8 @@
           "link": "https://aeon.co/videos/in-the-american-west-a-man-named-hat-sets-out-to-leave-no-trace",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-06-25 10:01 UTC",
-          "analysis_zh": "这部影片探讨了身份、幸福以及自由与从众之间的平衡。它通过一个重新想象的生活肖像，反映了人们在现代社会中面临的挑战和选择。这样的讨论不仅有助于我们理解个人在社会中的定位，也可能影响我们对幸福和自我认同的看法。",
-          "analysis_en": "This film explores the themes of identity, happiness, and the balance between freedom and conformity. Through a reimagined portrait of life, it reflects the challenges and choices individuals face in modern society. Such discussions not only help us understand personal positioning within society but may also influence our perspectives on happiness and self-identity."
+          "analysis_zh": "这部影片探讨了身份、幸福以及自由与顺应之间的平衡。通过重新审视生活的方式，影片引发观众对自我认同的深思。这一主题在当今社会尤为重要，因为许多人在追求个人自由与社会期望之间感到挣扎。影片可能会促使观众重新考虑自己的生活选择以及对幸福的定义。",
+          "analysis_en": "This film explores the themes of identity, happiness, and the balance between freedom and conformity. By reimagining life, it encourages viewers to reflect deeply on their sense of self. This topic is particularly significant in today's society, where many struggle between personal freedom and societal expectations. The film may inspire viewers to reconsider their life choices and their definitions of happiness."
         },
         {
           "rank": 5,
@@ -228,8 +228,8 @@
           "link": "https://aeon.co/essays/who-are-the-fire-taming-healers-of-modern-france",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-06-25 10:00 UTC",
-          "analysis_zh": "在法国，一群神秘的治疗师在传统医学之外，悄然开展着他们的疗愈工作。这些治疗师的存在引发了人们对替代医学的关注，尤其是在癌症治疗领域。虽然他们的疗法未必得到科学界的广泛认可，但许多患者仍然寻求他们的帮助。这一现象不仅反映了人们对健康的不同理解，也可能影响未来医疗体系的整合与发展。",
-          "analysis_en": "In France, a group of mysterious healers operates alongside conventional medicine, quietly offering their therapeutic services. Their existence has sparked interest in alternative medicine, particularly in the realm of cancer treatment. While their methods may not be widely accepted by the scientific community, many patients continue to seek their assistance. This phenomenon not only reflects diverse understandings of health but may also influence the integration and evolution of future healthcare systems."
+          "analysis_zh": "在法国，存在一个与传统医学平行的秘密疗愈世界，这些疗愈者从偏远的农舍到肿瘤科诊所，提供不同于常规治疗的方法。这一现象引发了人们对替代医学的关注，尤其是在面对现代医学无法解决的健康问题时。这种疗愈方式的存在不仅反映了人们对健康的不同理解，也可能影响到患者的选择和医疗体系的未来发展。",
+          "analysis_en": "In France, there exists a secret world of healers that operates alongside conventional medicine, offering alternative methods from remote farmhouses to oncology clinics. This phenomenon has sparked interest in alternative medicine, particularly when modern healthcare fails to address certain health issues. The existence of these healing practices not only reflects diverse understandings of health but may also influence patient choices and the future development of the healthcare system."
         }
       ]
     },
@@ -239,93 +239,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "Here are all of the Apple price hikes",
+          "link": "https://www.theverge.com/tech/956903/apple-price-increase-2026-macbook-ipad-mac-home-vision-pro",
+          "source": "The Verge",
+          "published_utc": "2026-06-25 16:31 UTC",
+          "analysis_zh": "苹果公司在本月早些时候接受《华尔街日报》采访时，首席执行官蒂姆·库克暗示将会有价格调整，今天正式宣布对多款硬件产品进行提价。这些产品包括iPad、Mac、智能音箱以及更实惠的MacBook Neo。尽管库克表示公司努力“保护”消费者不受价格上涨的影响，但由于内存和存储成本因AI公司囤积而飙升，苹果最终还是跟随其他公司，如任天堂、索尼和微软，进行了涨价。这一调整可能会影响消费者的购买决策，并对苹果的市场竞争力产生一定影响。",
+          "analysis_en": "Apple officially announced price increases for many of its hardware products today, following hints made by CEO Tim Cook in an interview with The Wall Street Journal earlier this month. The price hikes affect devices such as iPads, Macs, smart speakers, and the more affordable MacBook Neo. Although Cook mentioned that the company has tried to \"shield\" customers from rising costs, the surge in memory and storage prices due to AI companies stockpiling has led Apple to join other companies like Nintendo, Sony, and Microsoft in raising prices. This change may influence consumer purchasing decisions and impact Apple's competitive position in the market."
+        },
+        {
+          "rank": 2,
+          "title": "Upgrade your home with Prime Day deals for $40 or less",
+          "link": "https://www.theverge.com/gadgets/956340/smart-home-under-40-prime-day-deal-sale",
+          "source": "The Verge",
+          "published_utc": "2026-06-25 16:00 UTC",
+          "analysis_zh": "在亚马逊的Prime Day促销活动中，消费者可以以40美元或更低的价格购买到多种家庭科技产品，包括视频门铃、摄像头和智能插座等。这一活动对于那些希望升级家庭设备但预算有限的消费者来说，提供了很好的机会。通过这些折扣，用户不仅可以提升家居安全性，还能改善日常生活的便利性。这种促销活动可能会刺激家庭科技市场的增长，吸引更多消费者关注智能家居产品。",
+          "analysis_en": "During Amazon's Prime Day sale, consumers can purchase various home tech products for $40 or less, including video doorbells, cameras, and smart plugs. This event presents a great opportunity for budget-conscious consumers looking to upgrade their home devices. With these discounts, users can enhance home security and improve daily convenience. Such promotional events may stimulate growth in the home tech market and attract more consumers to smart home products."
+        },
+        {
+          "rank": 3,
+          "title": "BYOK is my new go-to distraction-free writing tool",
+          "link": "https://www.theverge.com/tech/956473/byok-distraction-free-writing-review",
+          "source": "The Verge",
+          "published_utc": "2026-06-25 16:00 UTC",
+          "analysis_zh": "最近，BYOK（Bring Your Own Keyboard）成为了一款备受关注的无干扰写作工具。这款售价199美元的设备外形简单，仅配备一个低分辨率的LCD屏幕，主要功能是编辑文本。与其他写作应用或设备相比，BYOK提供了更为简洁的使用体验，减少了干扰因素。这款工具的推出可能会吸引那些追求专注写作的用户，改变他们的写作习惯。",
+          "analysis_en": "Recently, BYOK (Bring Your Own Keyboard) has emerged as a notable distraction-free writing tool. Priced at $199, this simple device features a low-resolution LCD screen and focuses primarily on text editing. Compared to other writing apps or devices, BYOK offers a more streamlined experience, minimizing distractions. The introduction of this tool may appeal to users seeking focused writing, potentially changing their writing habits."
+        },
+        {
+          "rank": 4,
+          "title": "Oppo’s Bubble selfie screen is crying out for Qi2",
+          "link": "https://www.theverge.com/gadgets/956922/oppo-bubble-selfie-screen-magnetic-qi2",
+          "source": "The Verge",
+          "published_utc": "2026-06-25 16:00 UTC",
+          "analysis_zh": "Oppo最近推出了一款名为Bubble的自拍屏幕，这是一款可以随意附加和拆卸的智能第二屏幕，能够无线连接，并且可以作为自拍屏幕或无线相机遥控器使用。这款产品的设计虽然出色，但也暴露出其与Qi2无线充电标准不兼容的不足之处，这使得用户体验受到限制。随着智能手机配件市场的竞争加剧，Oppo Bubble的成功与否将影响其在市场中的地位以及未来产品的开发方向。",
+          "analysis_en": "Oppo recently launched a new product called the Bubble, a smart second screen that can be attached and detached at will, connecting wirelessly to serve as either a selfie screen or a wireless camera remote. While the design is impressive, it highlights a significant drawback: the lack of compatibility with the Qi2 wireless charging standard, which limits the user experience. As competition in the smartphone accessory market intensifies, the success of the Oppo Bubble will impact its market position and influence the direction of future product development."
+        },
+        {
+          "rank": 5,
+          "title": "Slate’s electric truck: all the news about the ultra-minimal EV",
+          "link": "https://www.theverge.com/transportation/956963/slate-truck-news-updates-price-specs-order",
+          "source": "The Verge",
+          "published_utc": "2026-06-25 15:59 UTC",
+          "analysis_zh": "Slate Auto是一家新兴的初创公司，源自于亚马逊创始人杰夫·贝索斯支持的“Re:Build Manufacturing”项目中的一个秘密项目“Re:Car”。该公司推出的首款电动汽车是一款极简设计的电动皮卡，体积约为传统燃油卡车的三分之一。这个提议引发了广泛讨论：消费者是否愿意为了更实惠的价格而放弃现代汽车的各种配备？这种极简设计不仅降低了制造成本，还吸引了众多投资者的关注，未来可能会影响美国电动汽车市场的走向。",
+          "analysis_en": "Slate Auto is a new startup that emerged from a secretive project called \"Re:Car\" within Re:Build Manufacturing, a domestic initiative backed by Amazon founder Jeff Bezos. The company's first electric vehicle is an ultra-minimal electric pickup that is about a third the size of a typical gas-powered truck. This proposal has sparked widespread discussion about whether consumers are willing to sacrifice modern amenities for a more affordable price. The minimal design not only reduces manufacturing costs but has also attracted significant investor interest, which could influence the direction of the electric vehicle market in the U.S."
+        },
+        {
+          "rank": 6,
           "title": "Chinese A.I. Models Gain Ground on Anthropic and OpenAI",
           "link": "https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html",
           "source": "NYT > Technology",
           "published_utc": "2026-06-25 15:34 UTC",
-          "analysis_zh": "最近，硅谷的工程师们纷纷关注一家中国公司Z.ai的新技术，该技术在性能上几乎与美国竞争对手相当，但价格却便宜得多。这一发展表明，中国在人工智能领域的技术进步正在缩小与美国公司的差距。这不仅可能改变全球AI市场的竞争格局，还可能影响到投资者的决策和技术合作的方向。",
-          "analysis_en": "Recently, engineers in Silicon Valley have been drawn to new technology from a Chinese company, Z.ai, which performs nearly as well as its American competitors but at a significantly lower cost. This development indicates that China's advancements in artificial intelligence are closing the gap with American firms. This shift could alter the competitive landscape of the global AI market and influence investors' decisions and the direction of technological collaborations."
+          "analysis_zh": "最近，硅谷的工程师们纷纷关注一家中国公司Z.ai的新技术，该技术在性能上几乎与美国竞争对手相当，但价格却低得多。这一发展引发了对中国人工智能技术快速崛起的广泛讨论。这不仅可能改变全球人工智能市场的竞争格局，还可能影响美国公司在技术创新和市场份额方面的策略。",
+          "analysis_en": "Recently, engineers in Silicon Valley have turned their attention to new technology from a Chinese company, Z.ai, which is nearly on par with its American competitors but significantly cheaper. This development has sparked widespread discussion about the rapid rise of Chinese AI technology. It could not only alter the competitive landscape of the global AI market but also influence the strategies of American companies regarding innovation and market share."
         },
         {
-          "rank": 2,
+          "rank": 7,
           "title": "How the World Cup became a US streaming success story",
           "link": "https://www.theverge.com/column/956756/world-cup-streaming",
           "source": "The Verge",
           "published_utc": "2026-06-25 15:30 UTC",
-          "analysis_zh": "2026年世界杯在全球范围内打破了多个直播记录，巴西的CazéTV在对摩洛哥的首场比赛中吸引了超过1200万的同时在线观众。这一成就不仅展示了世界杯的全球吸引力，也反映了美国观众对足球的日益关注，尤其是在传统上不太受欢迎的情况下。随着流媒体平台的不断发展，这可能会推动更多的体育赛事通过网络直播进行传播，改变观众的观看习惯。",
-          "analysis_en": "The 2026 World Cup is breaking streaming records worldwide, with Brazil's CazéTV attracting over 12 million concurrent viewers during the opening match against Morocco. This achievement highlights the global appeal of the World Cup and indicates a growing interest in soccer among American audiences, particularly in a sport that has traditionally been less popular. As streaming platforms continue to evolve, this trend may lead to more sports events being broadcast online, ultimately changing viewing habits for audiences."
+          "analysis_zh": "2026年世界杯在全球范围内打破了多个直播记录，尤其是在美国，足球的受欢迎程度显著提升。巴西的CazéTV在对摩洛哥的开幕战中吸引了超过1200万的同时在线观众，这标志着YouTube的新里程碑。此外，美国的墨西哥与韩国比赛也吸引了610万观众，成为美国有史以来最大的西班牙语足球直播。这些现象不仅反映了世界杯的全球吸引力，也可能推动美国足球的进一步发展和受众基础的扩大。",
+          "analysis_en": "The 2026 World Cup is breaking streaming records worldwide, particularly in the United States, where soccer's popularity is on the rise. Brazil's CazéTV livestream of the opening match against Morocco attracted over 12 million concurrent viewers, marking a new milestone for YouTube. Additionally, the Mexico vs. South Korea game drew 6.1 million viewers, making it the largest Spanish-language soccer stream in the U.S. to date. These trends not only highlight the global appeal of the World Cup but may also contribute to the growth and expansion of soccer's audience in the United States."
         },
         {
-          "rank": 3,
+          "rank": 8,
           "title": "Get MacBooks at a Prime Day discount before Apple’s new price hikes kick in",
           "link": "https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes",
           "source": "The Verge",
           "published_utc": "2026-06-25 15:16 UTC",
-          "analysis_zh": "苹果公司最近宣布，由于内存芯片成本上升，Mac和iPad的价格将大幅上涨，这一消息正值亚马逊的Prime Day促销期间。这意味着，像MacBook Neo、MacBook Air和MacBook Pro等苹果笔记本的现有折扣（即使是小幅折扣）变得更加诱人。例如，原价1099美元的13英寸MacBook Air M5目前售价949美元，但未来将涨至1299美元，这样一来，原本150美元的折扣实际上变成了350美元的节省。这一变化对计划购买苹果电脑的消费者来说，意味着现在是抓住优惠的最佳时机。",
-          "analysis_en": "Apple has recently announced significant price increases for Macs and iPads due to rising memory chip costs, coinciding with Amazon's Prime Day sales event. This means that existing discounts on Apple laptops, such as the MacBook Neo, MacBook Air, and MacBook Pro, have become much more attractive. For instance, the 13-inch MacBook Air M5, which was previously priced at $1,099 and is currently on sale for $949, will soon retail for $1,299, making the original $150 discount effectively a $350 savings. This change signals to consumers considering an Apple computer purchase that now is the best time to take advantage of these deals."
+          "analysis_zh": "苹果公司在亚马逊的Prime Day期间宣布，由于内存芯片成本上升，所有Mac和iPad的价格将大幅上涨。这一消息使得目前在售的MacBook系列产品，如MacBook Neo、MacBook Air和MacBook Pro，的折扣变得更加吸引人。例如，原价1099美元的13英寸MacBook Air M5，现在售价949美元，但未来的零售价将达到1299美元，这意味着现在的150美元折扣实际上相当于350美元的节省。这一变化可能会促使那些考虑购买苹果电脑的消费者尽快下单，以避免未来的价格上涨。",
+          "analysis_en": "Apple has announced significant price increases for all Macs and iPads due to rising memory chip costs, coinciding with Amazon's Prime Day. This means that existing discounts on Apple laptops, such as the MacBook Neo, MacBook Air, and MacBook Pro, have become much more appealing. For instance, the 13-inch MacBook Air M5, which previously started at $1,099 and is currently on sale for $949, will soon retail for $1,299, making the current $150 discount effectively a $350 saving. This change may encourage consumers who are considering purchasing an Apple computer to act quickly to avoid future price hikes."
         },
         {
-          "rank": 4,
+          "rank": 9,
           "title": "Apple Raises Prices on Macs and iPads Amid the A.I. Boom",
           "link": "https://www.nytimes.com/2026/06/25/technology/apple-prices-macbooks-ipads.html",
           "source": "NYT > Technology",
           "published_utc": "2026-06-25 14:58 UTC",
-          "analysis_zh": "苹果公司在人工智能热潮中提高了Mac和iPad的价格，部分设备的涨幅超过200美元。该公司表示，内存和存储芯片的成本飙升是导致价格上涨的主要原因。这一举措可能会影响消费者的购买决策，尤其是在经济不确定的情况下，同时也反映了科技行业面临的供应链挑战。",
-          "analysis_en": "Apple has raised prices on Macs and iPads by over $200 on some devices amid the AI boom. The tech giant cited soaring costs of memory and storage chips as the primary reason for this price increase. This move may affect consumer purchasing decisions, particularly in an uncertain economic climate, and it also highlights the supply chain challenges faced by the tech industry."
+          "analysis_zh": "苹果公司在人工智能技术蓬勃发展的背景下，宣布提高部分Mac和iPad的价格，涨幅超过200美元。公司表示，内存和存储芯片的成本大幅上升是此次涨价的主要原因。这一举措不仅反映了全球供应链的压力，也可能影响消费者的购买决策，尤其是在经济不确定的情况下。",
+          "analysis_en": "Apple has announced price increases of over $200 on some Macs and iPads amid the booming artificial intelligence sector. The company cited rising costs of memory and storage chips as the primary reason for this price hike. This move not only highlights the pressures on the global supply chain but may also influence consumer purchasing decisions, particularly in an uncertain economic climate."
         },
         {
-          "rank": 5,
+          "rank": 10,
           "title": "Bungie hit with ‘significant’ layoffs after ending Destiny 2",
           "link": "https://www.theverge.com/entertainment/956880/bungie-layoffs-destiny-2",
           "source": "The Verge",
           "published_utc": "2026-06-25 14:49 UTC",
-          "analysis_zh": "在《命运2》结束后，Bungie游戏工作室宣布进行大规模裁员。该工作室在社交媒体上表示，裁员是为了重组Bungie，但并未透露具体裁员人数。Bungie承认《命运2》在过去几年未能达到预期，随着最后一次内容更新的发布，工作室不得不缩减规模以适应未来项目的需求。这一裁员事件不仅影响了大部分《命运》团队成员，还可能对Bungie未来的游戏开发方向产生深远影响。",
-          "analysis_en": "Following the conclusion of Destiny 2, Bungie has announced significant layoffs as part of a reorganization effort. The studio stated on social media that they are reducing their workforce, although specific numbers were not disclosed. Bungie acknowledged that Destiny 2 has not met expectations in recent years, and with the release of the final content update, they can no longer operate at their previous size to align with future project needs. This layoff will affect many members of the Destiny team and could have lasting implications for Bungie's future game development direction."
-        },
-        {
-          "rank": 6,
-          "title": "Repositioning retail for the AI era",
-          "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-          "source": "MIT Technology Review",
-          "published_utc": "2026-06-25 14:22 UTC",
-          "analysis_zh": "人工智能正在迅速改变零售行业，但这种变化并不总是消费者能够直接察觉的。最显著的转变并不是华丽的虚拟试穿或聊天机器人购物助手，而是在幕后决策过程中的变化。这些变化影响着产品在搜索结果中的展示、库存在供应链中的流动以及工程师更快地发布代码等方面。这一趋势的重要性在于，它可能会重塑整个零售生态系统，影响商家的运营效率和消费者的购物体验。",
-          "analysis_en": "Artificial intelligence is rapidly transforming the retail industry, though these changes may not be immediately noticeable to consumers. The most significant shifts are occurring behind the scenes, affecting how decisions are made regarding product visibility in search results, inventory movement through supply chains, and the speed at which engineers can deploy code. This trend is important because it has the potential to reshape the entire retail ecosystem, impacting operational efficiency for businesses and the shopping experience for consumers."
-        },
-        {
-          "rank": 7,
-          "title": "EverQuest Legends is a powerful nostalgia machine",
-          "link": "https://www.theverge.com/games/954841/everquest-legends-nostalgia",
-          "source": "The Verge",
-          "published_utc": "2026-06-25 14:00 UTC",
-          "analysis_zh": "《EverQuest Legends》是一款经典的幻想多人在线角色扮演游戏，现已在封闭测试中复活。这款游戏不仅吸引了老玩家的关注，也唤起了许多人的怀旧情感。游戏的重启对玩家来说意义重大，因为它不仅是对过去美好时光的追忆，也可能影响新一代游戏的设计和开发。随着怀旧游戏的流行，开发者们可能会更加重视玩家的情感体验，从而推动游戏行业的创新。",
-          "analysis_en": "\"EverQuest Legends\" is a revival of the classic fantasy MMORPG currently in closed beta. This game not only draws the attention of long-time players but also evokes nostalgia for many. The reboot is significant for players as it serves as a reminder of cherished past experiences and may influence the design and development of games for a new generation. With the rising popularity of nostalgic games, developers might place greater emphasis on emotional experiences for players, potentially driving innovation in the gaming industry."
-        },
-        {
-          "rank": 8,
-          "title": "Samsung’s new budget phone costs $50 more despite downgrades",
-          "link": "https://www.theverge.com/tech/956835/samsung-galaxy-a27-5g-launch-price-specs",
-          "source": "The Verge",
-          "published_utc": "2026-06-25 13:39 UTC",
-          "analysis_zh": "三星最近发布了新的预算手机Galaxy A27，售价为349.99美元，比去年的A26贵了50美元。虽然在当前经济环境下，价格上涨是可以理解的，但考虑到A27在一些关键规格上有所降低，这使得其销售变得更加困难。与去年相比，A27的自拍摄像头分辨率降低至1200万像素，超广角摄像头则降至500万像素，防水等级也有所下降。这一变化可能会影响消费者的购买决策，尤其是在预算手机市场竞争激烈的情况下。",
-          "analysis_en": "Samsung recently announced its new budget phone, the Galaxy A27, priced at $349.99, which is $50 more than last year's A26. While the price increase is understandable given the current economic climate, the downgrade in several key specifications makes it a tougher sell. Compared to last year's model, the A27 features a lower resolution 12-megapixel selfie camera and a 5-megapixel ultrawide camera, along with reduced waterproofing capabilities. These changes may influence consumer purchasing decisions, especially in a competitive budget phone market."
-        },
-        {
-          "rank": 9,
-          "title": "Leica’s $6,690 SL3-P pairs 44-megapixel stills with 8K video",
-          "link": "https://www.theverge.com/tech/956101/leica-digital-camera-sl3-p-8k-video-44-megapixel-price",
-          "source": "The Verge",
-          "published_utc": "2026-06-25 13:00 UTC",
-          "analysis_zh": "徕卡今天发布了新的SL3-P相机，售价为6690美元。这款相机结合了前两代产品的最佳特点，配备了一个新的4400万像素传感器，能够每秒捕捉40张照片，并支持最高30帧每秒的8K视频录制。SL3-P虽然没有徕卡标志性的红点徽章，但在性能上有了显著提升，尤其是在自动对焦系统方面。这款相机的推出不仅丰富了徕卡的产品线，也为摄影爱好者提供了更高性价比的选择。",
-          "analysis_en": "Leica announced the new SL3-P camera today, priced at $6,690. This model combines the best features of its predecessors, featuring a new 44-megapixel sensor capable of capturing 40 images per second and supporting 8K video recording at up to 30 frames per second. While the SL3-P lacks Leica's iconic red dot badge, it significantly enhances performance, particularly with its new autofocus system. The launch of this camera not only expands Leica's product lineup but also offers photography enthusiasts a more cost-effective option."
-        },
-        {
-          "rank": 10,
-          "title": "Our 29 favorite gaming deals on Prime Day for Switch, PS5, and Xbox",
-          "link": "https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale",
-          "source": "The Verge",
-          "published_utc": "2026-06-25 12:53 UTC",
-          "analysis_zh": "亚马逊的“Prime Day”促销活动为Nintendo Switch 2、PlayStation 5和Xbox Series X/S带来了不少优惠，许多新近热门游戏的折扣幅度相当可观。这一活动不仅让玩家能够以更低的价格购买实体游戏，还偶尔会有数字版的价格相当或更具竞争力的情况出现。对于游戏爱好者来说，这样的折扣无疑是一个难得的机会，能够节省开支并提升游戏体验。此外，相关的游戏配件也在促销范围内，玩家可以趁机购买耳机、控制器等设备。",
-          "analysis_en": "Amazon's Prime Day sales have introduced significant discounts on popular games for the Nintendo Switch 2, PlayStation 5, and Xbox Series X/S. This event allows gamers to purchase physical copies at reduced prices, and occasionally, there are competitive prices for digital versions as well. For gaming enthusiasts, these discounts present a valuable opportunity to save money and enhance their gaming experience. Additionally, gaming accessories are also included in the promotions, enabling players to buy headsets, controllers, and other equipment at lower prices."
+          "analysis_zh": "在《命运2》结束后，游戏开发公司Bungie宣布进行大规模裁员。该公司在社交媒体上表示，正在进行组织重组，因此需要减少员工数量。尽管具体裁员人数尚未公布，但索尼互动娱乐的首席执行官赫尔曼·霍斯特提到，裁员将涉及大部分《命运》团队及部分《马拉松》团队成员。这一决定反映了Bungie在过去几年中对《命运2》的期望未能实现，未来项目仍处于早期阶段，因此无法维持原有规模。",
+          "analysis_en": "Following the conclusion of Destiny 2, the game studio Bungie has announced significant layoffs as part of a reorganization effort. The company stated on social media that it needs to reduce its workforce, although specific numbers have not been disclosed. However, Hermen Hulst, CEO of Sony Interactive Entertainment, indicated that the layoffs would affect most of the Destiny team and some members of the Marathon team. This decision highlights Bungie's acknowledgment that Destiny 2 has not met expectations in recent years, and with future projects still in early development, the studio can no longer operate at its previous size."
         }
       ]
     },
@@ -335,93 +335,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "‘Jackass: Best and Last’ Review: Johnny Knoxville and Friends Reunite",
+          "link": "https://www.nytimes.com/2026/06/25/movies/jackass-best-and-last-review.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-06-25 15:58 UTC",
+          "analysis_zh": "在MTV系列的最后一部作品《Jackass: Best and Last》中，约翰尼·诺克斯维尔和他的朋友们重聚，回顾他们的过往。这部电影不仅是对他们冒险经历的怀旧回顾，也标志着一个时代的结束。它的重要性在于，它让观众重新体验了那些曾经引发无数笑声和争议的瞬间。这部影片可能会影响年轻一代对极限运动和幽默风格的理解，同时也引发对友谊和团队精神的思考。",
+          "analysis_en": "In what is billed as the final installment of the MTV franchise, \"Jackass: Best and Last\" features Johnny Knoxville and his friends reuniting to reflect on their past. This film serves not only as a nostalgic look back at their wild adventures but also marks the end of an era. Its significance lies in allowing audiences to relive the moments that once sparked both laughter and controversy. The film may influence younger generations' perceptions of extreme sports and humor, while also prompting reflections on friendship and camaraderie."
+        },
+        {
+          "rank": 2,
           "title": "For Gloomy Vancouver Fans, the World Cup Is Glorious",
           "link": "https://www.nytimes.com/2026/06/25/arts/for-gloomy-vancouver-fans-the-world-cup-is-glorious.html",
           "source": "NYT > Arts",
           "published_utc": "2026-06-25 15:37 UTC",
-          "analysis_zh": "温哥华的球迷们在经历了N.H.L.最差球队和可能失去M.L.S.特许经营权的困境后，终于迎来了振奋人心的时刻。这座城市成功举办了加拿大男子世界杯的首场胜利，令球迷们倍感骄傲。这一胜利不仅提升了当地的士气，也为温哥华的体育文化注入了新的活力。这样的成就可能会吸引更多的关注和支持，帮助改善球队的现状。",
-          "analysis_en": "Vancouver fans have finally experienced a moment of joy after enduring the struggles of having the worst team in the NHL and the threat of losing their MLS franchise. The city celebrated Canada’s first victory at a men’s World Cup, which has instilled a sense of pride among the fans. This victory not only boosts local morale but also revitalizes the sports culture in Vancouver. Such achievements may attract more attention and support, potentially improving the situation for the teams."
+          "analysis_zh": "温哥华的球迷们经历了长期的失望，因为这座城市的N.H.L.球队表现不佳，且M.L.S.球队面临离开的威胁。然而，最近他们迎来了振奋人心的时刻，庆祝了加拿大男子足球队在世界杯上的首场胜利。这场胜利不仅提升了球迷的士气，也为城市带来了希望，可能会吸引更多的关注和支持，改善当地的体育氛围。",
+          "analysis_en": "Vancouver fans have faced a long period of disappointment due to the poor performance of the city's N.H.L. team and the threat of their M.L.S. franchise leaving. However, they recently celebrated a significant moment with Canada’s first victory at a men’s World Cup. This win not only boosted the morale of the fans but also brought hope to the city, potentially attracting more attention and support, and improving the local sports atmosphere."
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "‘The Loved Ones’ Review: So Much for That Peaceful Irish Retreat",
           "link": "https://www.nytimes.com/2026/06/25/theater/the-loved-ones-review-maryann-plunkett.html",
           "source": "NYT > Arts",
           "published_utc": "2026-06-25 15:35 UTC",
-          "analysis_zh": "在埃里卡·穆雷的剧作《亲爱的》里，玛丽安·普伦基特和其他演员的出色表演为故事增添了深度和层次，尽管剧本在某些地方显得有些可预测。这部戏剧讲述了一个看似宁静的爱尔兰度假村背后隐藏的复杂情感和冲突。这样的故事不仅反映了人际关系的微妙变化，也引发了观众对家庭和亲密关系的深思。该剧的成功可能会影响观众对类似题材作品的期待和理解。",
-          "analysis_en": "In Erica Murray's play \"The Loved Ones,\" sharp performances from Maryann Plunkett and the rest of the cast add depth and texture to the narrative, even as the script becomes somewhat predictable. The play explores the complex emotions and conflicts that lie beneath the surface of a seemingly peaceful Irish retreat. Such a story not only reflects the subtle changes in interpersonal relationships but also prompts the audience to reflect on family and intimacy. The success of this play may influence audience expectations and understanding of similar themes in future works."
+          "analysis_zh": "在埃里卡·穆雷的剧作《心爱的》评论中，玛丽安·普伦基特和其他演员的出色表演为剧作增添了深度和层次感，尽管剧本在某些地方显得有些可预测。这部剧讲述了一个看似宁静的爱尔兰度假胜地，但随着情节的发展，隐藏的冲突和复杂的人际关系逐渐浮出水面。这部剧的重要性在于它揭示了表面平静下的暗流，可能会引发观众对家庭关系和人性深层次的思考。",
+          "analysis_en": "In the review of Erica Murray's play \"The Loved Ones,\" sharp performances from Maryann Plunkett and the rest of the cast add depth and texture, even when the script becomes somewhat predictable. The play unfolds in a seemingly peaceful Irish retreat, but as the story progresses, hidden conflicts and complex relationships come to light. Its significance lies in revealing the undercurrents beneath a tranquil facade, potentially prompting the audience to reflect on family dynamics and the deeper aspects of human nature."
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Robert Townsend on ‘The Bear’ and Directing for Television",
           "link": "https://www.nytimes.com/2026/06/25/arts/television/robert-townsend-the-bear-director.html",
           "source": "NYT > Arts",
           "published_utc": "2026-06-25 15:07 UTC",
-          "analysis_zh": "罗伯特·汤森德最近转向了电视行业，他在FX的《熊》中出演，并执导了《芝加哥》的几集，同时还指导那些受到他作品影响的黑人演员和节目制作人。这一转变不仅展示了他在影视领域的多才多艺，也反映了他对培养新一代创作者的重视。这对提升黑人在娱乐行业的代表性和影响力具有重要意义，可能会激励更多年轻人追求相关职业。",
-          "analysis_en": "Robert Townsend has recently shifted his focus to television, acting in FX's \"The Bear,\" directing episodes of \"The Chi,\" and mentoring Black actors and showrunners influenced by his work. This transition highlights his versatility in the entertainment industry and underscores his commitment to nurturing the next generation of creators. It is significant for enhancing the representation and influence of Black individuals in the entertainment field and may inspire more young people to pursue careers in this area."
+          "analysis_zh": "罗伯特·汤森德最近转向了电视行业，他在FX的剧集《熊》中出演，并执导了《芝加哥》的几集，同时还指导了许多受到他作品影响的黑人演员和制片人。这一转变不仅展示了他在影视领域的多才多艺，也反映了他对新一代创作者的支持和培养。汤森德的工作可能会激励更多黑人艺术家进入电视行业，推动多样性和包容性的进一步发展。",
+          "analysis_en": "Robert Townsend has recently shifted his focus to television, acting in FX's series \"The Bear,\" directing episodes of \"The Chi,\" and mentoring Black actors and showrunners influenced by his work. This transition highlights his versatility in the film and television industry and reflects his commitment to supporting and nurturing the next generation of creators. Townsend's efforts may inspire more Black artists to enter the television field, further promoting diversity and inclusivity."
         },
         {
-          "rank": 4,
+          "rank": 5,
+          "title": "Native wetland ecosystems in New Orleans among projects from Tulane University",
+          "link": "https://www.dezeen.com/2026/06/25/tulane-university-schoolshow/",
+          "source": "Dezeen",
+          "published_utc": "2026-06-25 15:00 UTC",
+          "analysis_zh": "最近，杜兰大学的学生们展示了一系列项目，其中包括为新奥尔良一个面临洪水风险的社区设计的本土湿地生态系统。这一项目的重要性在于，它不仅可以帮助改善当地的环境，还能增强社区的韧性，减轻洪水带来的影响。此外，杜兰大学的其他项目还包括纽约市的永久性脚手架解决方案和孟加拉国罗兴亚难民营的公共空间设计。这些创新设计展示了学生们对可持续发展的关注和对社会问题的回应。",
+          "analysis_en": "Recently, students from Tulane University showcased a series of projects, including a native wetland ecosystem designed for a flood-risk neighborhood in New Orleans. This project is significant as it aims to improve the local environment and enhance community resilience against flooding. Additionally, other projects from Tulane include a permanent scaffolding solution for New York City and communal spaces for Rohingya refugee camps in Bangladesh. These innovative designs reflect the students' commitment to sustainability and their response to pressing social issues."
+        },
+        {
+          "rank": 6,
           "title": "David Clayton-Thomas, Canadian Singer of Blood, Sweat & Tears, Dies at 84",
           "link": "https://www.nytimes.com/2026/06/25/arts/music/david-clayton-thomas-dead.html",
           "source": "NYT > Arts",
           "published_utc": "2026-06-25 14:56 UTC",
-          "analysis_zh": "加拿大著名歌手大卫·克莱顿-托马斯去世，享年84岁。他是获格莱美奖的乐队“血、汗与泪”的主要作词人，该乐队以融合多种音乐风格而闻名，创作了《旋转的轮子》、《当我死去时》和《你让我如此快乐》等经典歌曲。这一消息引发了音乐界的广泛哀悼，克莱顿-托马斯的作品对许多人产生了深远的影响。他的离世不仅是对乐迷的损失，也让人们重新审视这一时代的音乐遗产。",
-          "analysis_en": "David Clayton-Thomas, the renowned Canadian singer, has passed away at the age of 84. He was the key lyricist for the Grammy-winning band Blood, Sweat & Tears, known for blending various musical styles and creating classic hits like \"Spinning Wheel,\" \"And When I Die,\" and \"You've Made Me So Very Happy.\" This news has prompted widespread mourning in the music community, as his work has had a profound impact on many. His passing is not only a loss for fans but also a moment to reflect on the musical legacy of that era."
+          "analysis_zh": "加拿大著名歌手大卫·克莱顿-托马斯于84岁去世，他是获格莱美奖的乐队“血、汗与泪”的主要作词人。该乐队以其独特的音乐风格和经典歌曲如《旋转的轮子》、《当我死去时》和《你让我如此快乐》而闻名。克莱顿-托马斯的离世不仅是音乐界的损失，也让无数乐迷感到惋惜。他的作品影响了几代人，未来可能会激励新一代艺术家继续探索音乐的多样性和深度。",
+          "analysis_en": "David Clayton-Thomas, the renowned Canadian singer, has passed away at the age of 84. He was the key lyricist for the Grammy-winning band Blood, Sweat & Tears, known for their unique musical style and classic hits like \"Spinning Wheel,\" \"And When I Die,\" and \"You've Made Me So Very Happy.\" His death is a significant loss to the music world and has left many fans mourning. Clayton-Thomas's work has influenced generations, and his legacy may inspire a new wave of artists to explore the diversity and depth of music."
         },
         {
-          "rank": 5,
+          "rank": 7,
           "title": "Paris Museums and Tourist Sites Continue to Limit Hours Amid Record-Breaking Heatwave",
           "link": "https://www.artnews.com/art-news/news/museums-tourist-sites-paris-limit-hours-record-breaking-heatwave-1234790289/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-06-25 14:54 UTC",
-          "analysis_zh": "巴黎的博物馆和旅游景点因创纪录的热浪而缩短开放时间，包括卢浮宫、橘园美术馆和奥赛博物馆在内的多个场所决定在接下来的几天内提前闭馆。这一决定反映了极端天气对公共场所运营的影响，尤其是在夏季旅游高峰期。限制开放时间不仅可能影响游客的参观体验，也可能对当地经济造成一定压力，因为旅游业是巴黎的重要收入来源。",
-          "analysis_en": "Museums and tourist sites in Paris, including the Louvre, Orangerie, and Musée d'Orsay, have decided to close early for at least the next few days due to a record-breaking heatwave. This decision highlights the impact of extreme weather on the operation of public venues, especially during the peak summer tourist season. The limited hours may affect visitors' experiences and could also put pressure on the local economy, as tourism is a significant source of revenue for Paris."
+          "analysis_zh": "巴黎的博物馆和旅游景点因创纪录的热浪而缩短开放时间，卢浮宫、橘园美术馆和奥赛博物馆将在接下来的几天内提前闭馆。这一措施旨在保护游客和工作人员的安全，尤其是在极端高温的情况下。此举不仅影响了游客的参观计划，也可能对巴黎的旅游业造成一定的冲击，特别是在夏季旅游高峰期。",
+          "analysis_en": "Museums and tourist sites in Paris are reducing their hours due to a record-breaking heatwave, with the Louvre, Orangerie, and Musée d'Orsay closing early for at least the next few days. This decision aims to ensure the safety of both visitors and staff during extreme temperatures. The move not only disrupts tourists' plans but may also impact Paris's tourism industry, particularly during the peak summer season."
         },
         {
-          "rank": 6,
+          "rank": 8,
           "title": "Is Canada About to Enter the Eurovision Song Contest?",
           "link": "https://www.nytimes.com/2026/06/25/arts/television/canada-eurovision.html",
           "source": "NYT > Arts",
           "published_utc": "2026-06-25 13:36 UTC",
-          "analysis_zh": "随着加拿大政府日益向欧洲靠拢，而非依赖美国，该国的国家广播公司已成为组织这个华丽歌唱活动的团体的正式成员。这一变化标志着加拿大在国际文化舞台上的新定位，可能会影响其音乐产业的发展和国际形象。参与欧洲歌唱大赛不仅能提升加拿大艺术家的曝光率，还可能促进与欧洲国家的文化交流。",
-          "analysis_en": "As Canada's government shifts its focus more towards Europe rather than the United States, the national broadcaster has become a full member of the organization behind the glamorous singing competition. This change signifies a new positioning for Canada on the international cultural stage and could impact the development of its music industry and international image. Participating in the Eurovision Song Contest could enhance the visibility of Canadian artists and foster cultural exchanges with European countries."
+          "analysis_zh": "随着加拿大政府越来越关注欧洲而非美国，该国的国家广播公司已成为组织这个华丽歌唱活动的团体的正式成员。这一变化标志着加拿大在文化交流方面的战略转变，可能会增强其在国际音乐舞台上的影响力。参加欧洲歌唱大赛不仅能够提升加拿大的文化形象，还可能促进与欧洲国家的合作与交流。",
+          "analysis_en": "As Canada's government shifts its focus more towards Europe and away from the United States, the national broadcaster has become a full member of the organization behind the glamorous singing competition. This change signifies a strategic pivot in Canada's cultural engagement, potentially enhancing its influence on the international music scene. Participating in the Eurovision Song Contest could not only elevate Canada's cultural profile but also foster collaboration and exchange with European nations."
         },
         {
-          "rank": 7,
-          "title": "Some European Museums Are Free Havens to Cool Off. Others Can’t Take the Heat.",
+          "rank": 9,
+          "title": "Some Museums in the UK and France Reduce Their Hours as Heat Wave Sweeps Europe",
           "link": "https://www.nytimes.com/2026/06/25/arts/europe-museums-heat.html",
           "source": "NYT > Arts",
           "published_utc": "2026-06-25 13:33 UTC",
-          "analysis_zh": "一些欧洲博物馆因具备空调或石质建筑而成为避暑的理想场所，能够吸引游客在极端高温中寻求凉爽。然而，部分博物馆却因高温而缩短开放时间。这一现象反映了气候变化对文化机构运营的影响，尤其是在夏季高温日益频繁的情况下。博物馆的开放时间调整可能会影响游客的参观体验和文化活动的参与度。",
-          "analysis_en": "Some European museums are becoming ideal places to cool off due to their air conditioning or stone architecture, attracting visitors seeking relief from extreme heat. However, some institutions are reducing their hours because of the high temperatures. This trend highlights the impact of climate change on cultural institutions, especially as summer heatwaves become more frequent. Adjustments in museum hours may affect visitor experiences and participation in cultural activities."
+          "analysis_zh": "随着欧洲热浪的来袭，英国和法国的一些博物馆开始缩短开放时间。这一举措反映了极端气候对文化机构运营的影响，尤其是在缺乏空调的场所。缩短开放时间不仅影响了游客的参观体验，也可能对博物馆的收入和展览安排产生长远影响。",
+          "analysis_en": "As a heatwave sweeps across Europe, some museums in the UK and France are reducing their operating hours. This decision highlights the impact of extreme weather on cultural institutions, particularly those without air conditioning. Shortened hours not only affect visitor experiences but may also have long-term implications for museum revenues and exhibition schedules."
         },
         {
-          "rank": 8,
+          "rank": 10,
           "title": "Christie’s Zabludowicz Sale Raises Questions, British Artist Tess Jaray Has Died: Morning Links for June 25, 2026",
           "link": "https://www.artnews.com/art-news/news/christies-zabludowicz-sale-raises-questions-1234790284/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-06-25 13:00 UTC",
-          "analysis_zh": "佳士得的扎布鲁多维奇拍卖引发了关于艺术市场透明度的讨论。此次拍卖的结果让人们对艺术品的真实价值产生了质疑，这对艺术界的信任基础构成了挑战。与此同时，英国艺术家特斯·贾雷的去世也让人们反思艺术创作的脆弱性和艺术家的影响力。这样的事件可能会影响未来艺术品的交易方式以及艺术家的市场地位。",
-          "analysis_en": "Christie's Zabludowicz sale has sparked discussions about transparency in the art market. The results of this auction have raised questions about the true value of artworks, challenging the trust foundation within the art community. Additionally, the passing of British artist Tess Jaray prompts reflections on the fragility of artistic creation and the influence of artists. Such events may impact future art transactions and the market status of artists."
-        },
-        {
-          "rank": 9,
-          "title": "‘Jackass: Best and Last’ Review: Johnny Knoxville and Friends Reunite",
-          "link": "https://www.nytimes.com/2026/06/25/movies/jackass-best-and-last-review.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-06-25 13:00 UTC",
-          "analysis_zh": "在MTV系列的最后一部作品《Jackass: Best and Last》中，约翰尼·诺克斯维尔和他的朋友们重聚，回顾他们的往昔。这部影片不仅是对他们过去冒险的怀旧，也是对友谊和团队精神的致敬。它的重要性在于，它为这一经典系列画上了句号，同时也引发了观众对极限表演和幽默的思考。这样的作品可能会影响年轻观众对极限运动和娱乐形式的看法。",
-          "analysis_en": "In what is billed as the final installment of the MTV series, \"Jackass: Best and Last,\" Johnny Knoxville and his friends reunite to reflect on their past adventures. This film serves not only as a nostalgic look back at their wild experiences but also as a tribute to friendship and camaraderie. Its significance lies in providing closure to a beloved franchise while prompting viewers to consider the nature of extreme performances and humor. Such a work may influence younger audiences' perceptions of extreme sports and entertainment forms."
-        },
-        {
-          "rank": 10,
-          "title": "‘The Invite’ Review: Who’s Afraid of a Last-Minute Dinner Party?",
-          "link": "https://www.nytimes.com/2026/06/25/movies/the-invite-movie-review-seth-rogen-olivia-wilde.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-06-25 12:18 UTC",
-          "analysis_zh": "在这部机智的喜剧《邀请》中，塞斯·罗根和奥利维亚·王尔德饰演一对千禧一代夫妇，他们的紧张婚姻因邻居的到访而发生了戏剧性的变化。这部电影通过幽默的方式探讨了现代婚姻中的压力和不安，反映了当代人际关系的复杂性。它的重要性在于揭示了在社交场合中，人与人之间的互动如何影响个人的情感状态，可能会引发观众对自己生活的思考。",
-          "analysis_en": "In the witty comedy \"The Invite,\" Seth Rogen and Olivia Wilde portray a millennial couple whose tense marriage takes a dramatic turn due to a visit from their neighbors. The film humorously explores the pressures and anxieties of modern marriage, reflecting the complexities of contemporary relationships. Its significance lies in revealing how social interactions can impact individuals' emotional states, potentially prompting viewers to reflect on their own lives."
+          "analysis_zh": "佳士得的Zabludowicz拍卖引发了关于艺术市场和艺术品价值的讨论。这场拍卖的结果可能会影响未来艺术品的定价和投资趋势，尤其是在当代艺术领域。此外，英国艺术家特斯·贾雷的去世也让人们反思艺术家的遗产及其对艺术界的影响。这些事件不仅关乎艺术品的交易，也影响着收藏者和投资者的决策。",
+          "analysis_en": "Christie's Zabludowicz sale has sparked discussions about the art market and the value of artworks. The results of this auction may influence future pricing and investment trends, particularly in the contemporary art sector. Additionally, the passing of British artist Tess Jaray prompts reflections on the legacy of artists and their impact on the art world. These events are significant not only for the trade of artworks but also for the decision-making of collectors and investors."
         }
       ]
     }
