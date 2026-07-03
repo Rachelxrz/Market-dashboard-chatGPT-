@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03 15:22:29 UTC",
+  "generated_at": "2026-07-03 15:54:34 UTC",
   "run_mode": "morning",
   "regime": "Neutral / Defensive",
   "risk_score": 3,
@@ -109,11 +109,11 @@
     },
     "VIX": {
       "label": "VIX",
-      "price": 15.8,
-      "change": -1.4800000000000004,
-      "change_pct": -8.564814814814817,
-      "change_3d": -0.6500007629394524,
-      "change_3d_pct": -3.951372235822946,
+      "price": 15.81,
+      "change": -1.4700000000000006,
+      "change_pct": -8.506944444444448,
+      "change_3d": -0.6400007629394526,
+      "change_3d_pct": -3.890581965086127,
       "note": "股市波动率",
       "ok": true
     },
@@ -639,8 +639,8 @@
     }
   },
   "actions": {
-    "one_liner_zh": "当前结构为 Neutral / Defensive，风险等级 3/4；VIX 15.80，MOVE 65.40，QQQ -1.37%，GLD -2.69%，VLCC 3天 +0.59%。 当前为早间版。",
-    "one_liner_en": "The current regime is Neutral / Defensive with a risk score of 3/4; VIX 15.80, MOVE 65.40, QQQ -1.37%, GLD -2.69%, VLCC 3d +0.59%. Current mode: Morning Edition.",
+    "one_liner_zh": "当前结构为 Neutral / Defensive，风险等级 3/4；VIX 15.81，MOVE 65.40，QQQ -1.37%，GLD -2.69%，VLCC 3天 +0.59%。 当前为早间版。",
+    "one_liner_en": "The current regime is Neutral / Defensive with a risk score of 3/4; VIX 15.81, MOVE 65.40, QQQ -1.37%, GLD -2.69%, VLCC 3d +0.59%. Current mode: Morning Edition.",
     "core_zh": "核心仓仍以稳定为主，但要降低进攻性，优先保留确定性更高的资产。",
     "core_en": "Core positions should remain stability-focused, with reduced aggressiveness and priority given to more certain assets.",
     "trend_zh": "趋势仓应缩小战线，避免在结构不明时追逐短线弹性。",
