@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-02 22:41:25 UTC",
+  "generated_at": "2026-07-03 15:22:29 UTC",
   "run_mode": "morning",
   "regime": "Neutral / Defensive",
   "risk_score": 3,
-  "internal_score": 10,
+  "internal_score": 9,
   "summary_zh": "当前结构偏谨慎，说明风险偏好与估值支撑并不稳固，防守比重应适度提高。",
   "summary_en": "The current structure is cautious, suggesting that risk appetite and valuation support are not firm and that defensive positioning should be moderately increased.",
   "market_snapshot": {
@@ -89,11 +89,11 @@
     },
     "TNX": {
       "label": "TNX",
-      "price": 4.485,
-      "change": 0.034000000000000696,
-      "change_pct": 0.7638732869018355,
-      "change_3d": 0.08300004959106477,
-      "change_3d_pct": 1.8855077357134968,
+      "price": 4.4849997,
+      "change": 0.03399970000000074,
+      "change_pct": 0.7638665468434227,
+      "change_3d": -0.008000330517577758,
+      "change_3d_pct": -0.17806210690490798,
       "note": "10年美债收益率",
       "ok": true
     },
@@ -102,18 +102,18 @@
       "price": 65.3975,
       "change": -5.262500000000003,
       "change_pct": -7.447636569487692,
-      "change_3d": -3.6624975585937563,
-      "change_3d_pct": -5.3033560499134405,
+      "change_3d": -3.3824987792968813,
+      "change_3d_pct": -4.917852339821545,
       "note": "债券波动率",
       "ok": true
     },
     "VIX": {
       "label": "VIX",
-      "price": 16.15,
-      "change": -1.1300000000000026,
-      "change_pct": -6.539351851851865,
-      "change_3d": -1.4999996185302749,
-      "change_3d_pct": -8.498581591783518,
+      "price": 15.8,
+      "change": -1.4800000000000004,
+      "change_pct": -8.564814814814817,
+      "change_3d": -0.6500007629394524,
+      "change_3d_pct": -3.951372235822946,
       "note": "股市波动率",
       "ok": true
     },
@@ -542,10 +542,10 @@
   ],
   "structure_monitor": {
     "VIX": {
-      "status_level": "watch",
-      "status": "警惕",
-      "comment_zh": "VIX 已离开舒适区，说明市场对不确定性的定价开始上升。",
-      "comment_en": "VIX has moved out of the comfort zone, suggesting rising pricing of uncertainty."
+      "status_level": "normal",
+      "status": "正常",
+      "comment_zh": "VIX 处于低位，说明市场波动定价仍较温和。",
+      "comment_en": "VIX remains at a low level, indicating relatively mild volatility pricing."
     },
     "MOVE": {
       "status_level": "normal",
@@ -602,9 +602,9 @@
       "keys": [
         "VIX"
       ],
-      "status_level": "watch",
-      "status": "警惕",
-      "status_en": "Watch"
+      "status_level": "normal",
+      "status": "正常",
+      "status_en": "Normal"
     },
     "利率层": {
       "name": "利率层",
@@ -639,8 +639,8 @@
     }
   },
   "actions": {
-    "one_liner_zh": "当前结构为 Neutral / Defensive，风险等级 3/4；VIX 16.15，MOVE 65.40，QQQ -1.37%，GLD -2.69%，VLCC 3天 +0.59%。 当前为早间版。",
-    "one_liner_en": "The current regime is Neutral / Defensive with a risk score of 3/4; VIX 16.15, MOVE 65.40, QQQ -1.37%, GLD -2.69%, VLCC 3d +0.59%. Current mode: Morning Edition.",
+    "one_liner_zh": "当前结构为 Neutral / Defensive，风险等级 3/4；VIX 15.80，MOVE 65.40，QQQ -1.37%，GLD -2.69%，VLCC 3天 +0.59%。 当前为早间版。",
+    "one_liner_en": "The current regime is Neutral / Defensive with a risk score of 3/4; VIX 15.80, MOVE 65.40, QQQ -1.37%, GLD -2.69%, VLCC 3d +0.59%. Current mode: Morning Edition.",
     "core_zh": "核心仓仍以稳定为主，但要降低进攻性，优先保留确定性更高的资产。",
     "core_en": "Core positions should remain stability-focused, with reduced aggressiveness and priority given to more certain assets.",
     "trend_zh": "趋势仓应缩小战线，避免在结构不明时追逐短线弹性。",
