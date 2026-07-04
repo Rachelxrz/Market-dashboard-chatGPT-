@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04 15:11:38 UTC",
+  "generated_at": "2026-07-04 21:31:39 UTC",
   "run_mode": "morning",
   "regime": "Neutral / Defensive",
   "risk_score": 3,
@@ -90,20 +90,20 @@
     "TNX": {
       "label": "TNX",
       "price": 4.4849997,
-      "change": 0.03399970000000074,
-      "change_pct": 0.7638665468434227,
-      "change_3d": -0.008000330517577758,
-      "change_3d_pct": -0.17806210690490798,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "change_3d": null,
+      "change_3d_pct": null,
       "note": "10年美债收益率",
       "ok": true
     },
     "MOVE": {
       "label": "MOVE",
       "price": 65.3975,
-      "change": -5.262500000000003,
-      "change_pct": -7.447636569487692,
-      "change_3d": -3.3824987792968813,
-      "change_3d_pct": -4.917852339821545,
+      "change": -3.164200000000008,
+      "change_pct": -4.615113102504763,
+      "change_3d": null,
+      "change_3d_pct": null,
       "note": "债券波动率",
       "ok": true
     },
