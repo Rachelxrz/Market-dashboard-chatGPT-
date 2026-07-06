@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-06 21:58:38 UTC",
-  "generated_at_unix": 1783375118,
+  "generated_at": "2026-07-06 22:46:37 UTC",
+  "generated_at_unix": 1783377997,
   "window": {
-    "from_utc": "2026-07-05 21:58:38 UTC",
-    "to_utc": "2026-07-06 21:58:38 UTC",
+    "from_utc": "2026-07-05 22:46:37 UTC",
+    "to_utc": "2026-07-06 22:46:37 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,93 +14,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Platner Senate campaign taking 'time to reflect' on path forward after sexual assault allegation",
-          "link": "https://www.cnbc.com/2026/07/06/graham-platner-maine-senate-allegation-response.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-07-06 21:43 UTC",
-          "analysis_zh": "最近，缅因州参议员候选人普拉特纳在面临一名女性指控性侵犯后，表示他的竞选团队将“花时间反思”未来的方向。41岁的缅因州居民珍妮·拉西科特在《政治家》杂志上发表的文章中提出了这些指控。此事件引发了公众对普拉特纳的道德和政治立场的质疑，可能会对他的竞选活动造成重大影响，尤其是在选民对性别问题越来越敏感的背景下。",
-          "analysis_en": "Recently, Senate candidate Platner from Maine stated that his campaign will take \"time to reflect\" on its path forward after facing sexual assault allegations from a woman. The accusations were made by 41-year-old Maine resident Jenny Racicot in an article published by POLITICO. This incident raises public concerns about Platner's moral and political standing, which could significantly impact his campaign, especially as voters become increasingly sensitive to issues of gender."
+          "title": "The Nasdaq-100 has been far more volatile than the S&P 500. Now add SpaceX to the mix.",
+          "link": "https://www.marketwatch.com/story/the-nasdaq-100-has-been-far-more-volatile-than-the-s-p-500-now-add-spacex-to-the-mix-cd397c36?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-07-06 22:39 UTC",
+          "analysis_zh": "随着SpaceX即将于周二加入纳斯达克100指数，这一消息引发了市场的广泛关注。纳斯达克100指数的波动性已经远高于标准普尔500指数，SpaceX的加入可能会进一步加剧这种波动。由于SpaceX至少在未来一年内不会加入标准普尔500，这可能导致投资者在这两个指数之间的风险偏好发生变化。投资者需要密切关注这一动态，以便及时调整他们的投资策略。",
+          "analysis_en": "As SpaceX is set to join the Nasdaq-100 on Tuesday, this news has garnered significant market attention. The volatility of the Nasdaq-100 has already been much higher than that of the S&P 500, and SpaceX's inclusion may further increase this volatility. Since SpaceX will not be part of the S&P 500 for at least another year, this could lead to a shift in investor risk preferences between the two indices. Investors should closely monitor this development to adjust their investment strategies accordingly."
         },
         {
           "rank": 2,
+          "title": "Graham Platner denies sex assault claim as Democrats urge him to quit Maine Senate campaign",
+          "link": "https://www.cnbc.com/2026/07/06/graham-platner-maine-senate-allegation-response.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-07-06 22:38 UTC",
+          "analysis_zh": "格雷厄姆·普拉特纳（Graham Platner）否认了来自缅因州居民珍妮·拉西科特（Jenny Racicot）的性侵犯指控。拉西科特在《政治家》杂志上发表的文章中提出了这些指控，普拉特纳及其竞选团队对此进行了强烈反驳。此事件引发了民主党人的强烈反对，他们呼吁普拉特纳退出缅因州参议院竞选。此事的影响可能会对普拉特纳的选举前景产生负面影响，并加剧公众对性侵犯指控的关注。",
+          "analysis_en": "Graham Platner has denied sexual assault allegations made by Maine resident Jenny Racicot. Racicot's claims were published in an article by POLITICO, to which Platner and his campaign responded vigorously. The incident has prompted strong opposition from Democrats, who are urging Platner to withdraw from the Maine Senate race. This situation could negatively impact Platner's electoral prospects and heighten public scrutiny regarding allegations of sexual assault."
+        },
+        {
+          "rank": 3,
+          "title": "U.S.-Belgium match could draw record TV audience amid the Trump World Cup controversy",
+          "link": "https://www.marketwatch.com/story/u-s-belgium-match-could-draw-record-tv-audience-amid-the-trump-world-cup-controversy-52783b8f?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-07-06 22:17 UTC",
+          "analysis_zh": "美国与比利时的足球比赛可能会吸引创纪录的电视观众，这一现象与特朗普世界杯争议密切相关。专家们预测，这场比赛将成为美国足球历史上观看人数最多的一场。这不仅反映了人们对足球的日益关注，也可能影响未来赛事的转播权和赞助商的投资决策。",
+          "analysis_en": "The upcoming soccer match between the U.S. and Belgium is expected to draw a record television audience, largely due to the controversy surrounding the Trump World Cup. Experts predict that this game could become the most-watched in U.S. soccer history. This trend not only highlights the growing interest in soccer but may also influence future broadcasting rights and sponsorship investments."
+        },
+        {
+          "rank": 4,
           "title": "Microsoft cuts 4,800 jobs, as Xbox unit downsizes and plans to spin off four gaming studios",
           "link": "https://www.cnbc.com/2026/07/06/microsoft-cuts-2point1percent-of-employees-as-xbox-unit-plans-to-spin-studios.html",
           "source": "US Top News and Analysis",
           "published_utc": "2026-07-06 21:37 UTC",
-          "analysis_zh": "微软宣布裁员4,800人，主要涉及其商业部门和Xbox游戏组。这一决定源于Xbox部门的收入持续下滑，迫使公司进行结构调整。此次裁员不仅影响了员工的工作和生活，也可能对微软的游戏业务和市场竞争力产生深远影响。随着公司计划剥离四个游戏工作室，未来的游戏生态系统可能会面临新的变化。",
-          "analysis_en": "Microsoft has announced the layoff of 4,800 employees, primarily affecting its commercial business and Xbox gaming group. This decision comes as the Xbox division has been experiencing declining revenues, prompting the company to restructure. The layoffs will not only impact the affected employees' lives but may also have significant implications for Microsoft's gaming business and its competitive position in the market. As the company plans to spin off four gaming studios, the future gaming ecosystem could undergo notable changes."
+          "analysis_zh": "微软宣布裁员4,800人，主要集中在其商业部门和Xbox游戏组。这一举措的背后是Xbox部门的收入持续下滑，迫使公司进行结构调整。此次裁员不仅影响了员工的工作和生活，也可能对微软的游戏业务和市场竞争力产生深远影响。随着公司计划剥离四个游戏工作室，未来的游戏开发和发布策略可能会发生变化。",
+          "analysis_en": "Microsoft has announced the layoff of 4,800 employees, primarily affecting its commercial business and Xbox gaming group. This decision comes as the Xbox division has been experiencing declining revenues, prompting the company to restructure. The layoffs will not only impact the affected employees but may also have significant implications for Microsoft's gaming business and its competitive position in the market. With plans to spin off four gaming studios, the future strategies for game development and releases may change."
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "Your data built the AI boom — but Big Tech is pocketing 100% of the equity",
           "link": "https://www.marketwatch.com/story/your-share-of-the-ai-wealth-is-a-right-not-a-handout-here-is-how-we-claw-back-our-money-7454b0e0?mod=mw_rss_topstories",
           "source": "MarketWatch.com - Top Stories",
           "published_utc": "2026-07-06 21:36 UTC",
-          "analysis_zh": "最近有报道指出，人工智能的繁荣主要是建立在用户数据的基础上，但大型科技公司却独占了所有的收益。这一现象引发了广泛关注，因为用户的数据是推动这一行业发展的关键因素。人们开始呼吁对数据的使用进行重新审视，以确保用户能够分享人工智能带来的财富。这不仅关乎公平性，也可能影响未来科技公司的商业模式和用户的参与度。",
-          "analysis_en": "Recent reports indicate that the boom in artificial intelligence is primarily built on user data, yet Big Tech companies are reaping all the rewards. This situation has garnered significant attention, as user data is a crucial driver of this industry. There are growing calls to reassess how data is utilized to ensure that users can share in the wealth generated by AI. This issue not only concerns fairness but may also impact the business models of tech companies and user engagement in the future."
+          "analysis_zh": "最近的报道指出，人工智能的繁荣主要得益于用户的数据贡献，但大科技公司却独占了所有的收益。这一现象引发了对数据权利和财富分配的广泛讨论。人们开始关注如何确保用户能够分享人工智能带来的经济利益，而不是仅仅作为数据提供者。此问题的解决可能会影响未来科技公司的商业模式和用户的参与度。",
+          "analysis_en": "Recent reports indicate that the boom in artificial intelligence has largely been fueled by user data contributions, yet Big Tech companies are reaping all the rewards. This situation has sparked widespread discussion about data rights and wealth distribution. There is growing concern about how to ensure that users can share in the economic benefits generated by AI, rather than merely serving as data providers. Addressing this issue could significantly impact the business models of tech companies and user engagement in the future."
         },
         {
-          "rank": 4,
+          "rank": 6,
           "title": "Rivian forecasts quarterly revenue above estimates",
           "link": "https://www.investing.com/news/stock-market-news/rivian-forecasts-quarterly-revenue-above-estimates-4777728",
           "source": "Stock Market News",
           "published_utc": "2026-07-06 21:30 UTC",
-          "analysis_zh": "电动车制造商Rivian近日发布了季度财报预测，预计收入将超过市场预期。这一消息对投资者来说意义重大，因为Rivian在竞争激烈的电动车市场中正努力扩大其市场份额。超出预期的收入可能会提升投资者的信心，并推动公司股价上涨，从而影响整个电动车行业的投资趋势。",
-          "analysis_en": "Electric vehicle manufacturer Rivian recently announced its quarterly revenue forecast, predicting it will exceed market expectations. This news is significant for investors as Rivian strives to expand its market share in the highly competitive EV sector. The anticipated revenue surpassing expectations could boost investor confidence and drive up the company's stock price, potentially influencing investment trends across the entire electric vehicle industry."
+          "analysis_zh": "电动车制造商Rivian近日发布了季度财报预告，预计收入将超过市场预期。这一消息对投资者来说意义重大，因为Rivian在电动车市场的表现可能会影响整个行业的信心和投资趋势。如果Rivian能够持续超出预期，可能会吸引更多投资者关注电动车领域，进而推动相关公司的股价上涨。",
+          "analysis_en": "Electric vehicle manufacturer Rivian recently announced a quarterly revenue forecast that is expected to exceed market estimates. This news is significant for investors, as Rivian's performance in the electric vehicle market could influence overall industry confidence and investment trends. If Rivian continues to surpass expectations, it may attract more investors to the electric vehicle sector, potentially driving up stock prices for related companies."
         },
         {
-          "rank": 5,
+          "rank": 7,
           "title": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.61%",
           "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-061-4777725",
           "source": "Stock Market News",
           "published_utc": "2026-07-06 21:30 UTC",
-          "analysis_zh": "墨西哥股市在交易结束时上涨，S&P/BMV IPC指数上升了0.61%。这一上涨反映了市场对经济复苏的信心，尤其是在全球经济逐渐恢复的背景下。投资者的积极情绪可能会吸引更多资金流入墨西哥市场，从而推动进一步的增长。",
-          "analysis_en": "Mexican stocks closed higher, with the S&P/BMV IPC index rising by 0.61%. This increase reflects market confidence in economic recovery, particularly as the global economy gradually rebounds. The positive sentiment among investors may attract more capital into the Mexican market, potentially driving further growth."
+          "analysis_zh": "墨西哥股市在交易结束时上涨，S&P/BMV IPC指数上涨了0.61%。这一上涨反映了市场对经济复苏的乐观情绪，尤其是在全球经济逐渐回暖的背景下。股市的表现不仅影响投资者的信心，也可能吸引更多外资流入，从而推动经济增长。",
+          "analysis_en": "Mexican stocks closed higher, with the S&P/BMV IPC index rising by 0.61%. This increase reflects market optimism regarding economic recovery, particularly as the global economy shows signs of improvement. The performance of the stock market not only impacts investor confidence but may also attract more foreign investment, potentially boosting economic growth."
         },
         {
-          "rank": 6,
+          "rank": 8,
           "title": "Rivian stock tumbles on 75 million share offering announcement",
           "link": "https://www.investing.com/news/stock-market-news/rivian-stock-tumbles-on-75-million-share-offering-announcement-93CH-4777724",
           "source": "Stock Market News",
           "published_utc": "2026-07-06 21:29 UTC",
-          "analysis_zh": "电动车制造商Rivian近日宣布将发行7500万股股票，导致其股价大幅下跌。这一消息引发了市场的广泛关注，因为股票增发通常会稀释现有股东的权益。Rivian的这一举措可能会影响投资者对公司的信心，并对其未来融资和市场表现产生负面影响。",
-          "analysis_en": "Electric vehicle manufacturer Rivian recently announced a 75 million share offering, which led to a significant drop in its stock price. This news has garnered widespread attention in the market, as stock offerings often dilute the value for existing shareholders. Rivian's decision may affect investor confidence in the company and could have negative implications for its future financing and market performance."
+          "analysis_zh": "电动车制造商Rivian近日宣布将发行7500万股股票，导致其股价大幅下跌。这一举措虽然旨在筹集资金以支持公司的扩张计划，但市场反应却相对负面，投资者对稀释股份的担忧加剧。此事件不仅影响了Rivian的市场信心，也可能对其他电动车制造商的融资策略产生连锁反应。",
+          "analysis_en": "Electric vehicle manufacturer Rivian recently announced a 75 million share offering, which led to a significant drop in its stock price. While this move aims to raise funds to support the company's expansion plans, the market reacted negatively, with investors increasingly concerned about share dilution. This event not only affects investor confidence in Rivian but may also have a ripple effect on the financing strategies of other electric vehicle manufacturers."
         },
         {
-          "rank": 7,
+          "rank": 9,
           "title": "China's Alibaba bans Anthropic AI for employees after 'distillation attack' accusation",
           "link": "https://www.cnbc.com/2026/07/06/alibaba-anthropic-ai-ban-claude-china.html",
           "source": "US Top News and Analysis",
           "published_utc": "2026-07-06 21:26 UTC",
-          "analysis_zh": "中国电商巨头阿里巴巴最近将人工智能公司Anthropic的Claude Code列入高风险软件名单，原因是其被指控进行“蒸馏攻击”。这一举措引发了对人工智能安全性的广泛关注，尤其是在技术快速发展的背景下。阿里巴巴的决定可能会影响其他企业对类似技术的使用和监管，促使行业内加强对AI软件的审查和管理。",
-          "analysis_en": "Chinese e-commerce giant Alibaba has recently placed Anthropic's Claude Code on a high-risk software list due to accusations of a \"distillation attack.\" This action has raised significant concerns about the safety of artificial intelligence, particularly in the context of rapid technological advancements. Alibaba's decision may influence other companies' use and regulation of similar technologies, prompting the industry to enhance scrutiny and management of AI software."
+          "analysis_zh": "中国电商巨头阿里巴巴近日将人工智能公司Anthropic的Claude Code列入高风险软件名单，原因是其涉嫌进行“蒸馏攻击”。这一举措引发了广泛关注，因为它不仅影响了阿里巴巴内部的技术使用，还可能对整个行业的AI软件安全标准产生深远影响。随着AI技术的迅速发展，企业在选择和使用相关软件时将更加谨慎，可能会促使更多公司加强对AI工具的安全审查。",
+          "analysis_en": "Chinese e-commerce giant Alibaba has recently placed Anthropic's Claude Code on a high-risk software list due to allegations of a \"distillation attack.\" This decision has garnered significant attention, as it not only affects the internal use of technology at Alibaba but may also have far-reaching implications for AI software safety standards across the industry. As AI technology rapidly evolves, companies will likely become more cautious in selecting and utilizing related software, potentially leading to increased scrutiny and security checks on AI tools."
         },
         {
-          "rank": 8,
+          "rank": 10,
           "title": "Colombia stocks lower at close of trade; COLCAP down 0.00%",
           "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-000-4777709",
           "source": "Stock Market News",
           "published_utc": "2026-07-06 21:25 UTC",
-          "analysis_zh": "哥伦比亚股市在交易结束时出现下跌，COLCAP指数下滑了0.00%。这一变化虽然看似微小，但反映了市场对经济前景的谨慎态度。投资者可能会因此重新评估他们的投资策略，尤其是在当前全球经济不确定性加大的背景下。这样的市场波动可能会影响到未来的资本流入和企业融资。",
-          "analysis_en": "Colombia's stock market closed lower, with the COLCAP index down by 0.00%. Although this change seems minimal, it indicates a cautious sentiment among investors regarding the economic outlook. As a result, investors may reassess their investment strategies, especially given the increasing global economic uncertainty. Such market fluctuations could impact future capital inflows and corporate financing."
-        },
-        {
-          "rank": 9,
-          "title": "Stocks surge on chip news, oil holds at pre-war levels",
-          "link": "https://www.investing.com/news/stock-market-news/shares-edge-higher-in-asia-as-oil-dips-earnings-loom-4775508",
-          "source": "Stock Market News",
-          "published_utc": "2026-07-06 21:24 UTC",
-          "analysis_zh": "近期，股市因半导体行业的积极消息而大幅上涨，同时石油价格保持在战争前的水平。这一变化表明，市场对科技行业的前景持乐观态度，尤其是在全球对芯片需求不断增长的背景下。投资者可能会因此重新评估他们的投资组合，关注科技股的潜力。此外，油价的稳定也可能对经济复苏产生积极影响，降低通货膨胀压力。",
-          "analysis_en": "Recently, the stock market surged due to positive news in the semiconductor sector, while oil prices remained stable at pre-war levels. This shift indicates that the market has an optimistic outlook on the tech industry's future, especially given the growing global demand for chips. Investors may reassess their portfolios, focusing on the potential of tech stocks. Additionally, the stability in oil prices could positively influence economic recovery and alleviate inflationary pressures."
-        },
-        {
-          "rank": 10,
-          "title": "Lockheed Martin stock wins $203M in defense contracts from U.S.",
-          "link": "https://www.investing.com/news/stock-market-news/lockheed-martin-stock-wins-203m-in-defense-contracts-from-us-93CH-4777702",
-          "source": "Stock Market News",
-          "published_utc": "2026-07-06 21:21 UTC",
-          "analysis_zh": "洛克希德·马丁公司获得了来自美国国防部价值2.03亿美元的合同。这一消息对于公司来说至关重要，因为这些合同将进一步巩固其在国防行业的领导地位。这笔资金不仅将推动公司的业绩增长，还可能影响到相关供应链的稳定性和未来的投资决策。",
-          "analysis_en": "Lockheed Martin has secured $203 million in contracts from the U.S. Department of Defense. This is significant for the company as it reinforces its leadership position in the defense sector. The funding is expected to boost the company's performance and may also impact the stability of related supply chains and future investment decisions."
+          "analysis_zh": "哥伦比亚股市在交易结束时出现小幅下跌，COLCAP指数下降了0.00%。尽管跌幅不大，但这反映出市场对经济前景的谨慎态度。投资者可能会因此重新评估他们的投资策略，特别是在全球经济不确定性加剧的背景下。这一动态可能会影响未来几天的交易情绪和市场流动性。",
+          "analysis_en": "Colombia's stock market closed with a slight decline, as the COLCAP index fell by 0.00%. Although the drop is minimal, it indicates a cautious sentiment among investors regarding the economic outlook. This may lead investors to reassess their investment strategies, especially amid increasing global economic uncertainty. Such dynamics could influence trading sentiment and market liquidity in the coming days."
         }
       ]
     },
@@ -114,8 +114,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260625014838.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-07-06 16:40 UTC",
-          "analysis_zh": "科学家们终于破解了一个近30年的黑麦花粉之谜，这个谜团与两种特殊分子有关，这些分子曾显示出帮助动物抵抗肿瘤的能力。通过确定这些分子的精确三维结构，研究人员为探索这些天然化合物如何与免疫系统相互作用以及哪些部分可能负责其抗癌效果提供了蓝图。这一发现具有重要意义，因为它可能为基于自然的癌症治疗方法开辟新的途径，进而推动癌症研究的发展。",
-          "analysis_en": "Scientists have finally solved a nearly 30-year-old mystery related to two unusual molecules found in rye pollen that once showed potential in helping animals fight tumors. By determining the exact 3D structures of these molecules, researchers have provided a blueprint for investigating how these natural compounds interact with the immune system and which components may be responsible for their cancer-fighting properties. This discovery is significant as it could open new avenues for nature-inspired cancer therapies, potentially advancing cancer research in meaningful ways."
+          "analysis_zh": "科学家们终于破解了一个近30年的黑麦花粉之谜，发现其中的两种特殊分子曾显示出帮助动物抵抗肿瘤的潜力。通过确定这些分子的三维结构，研究人员获得了研究这些天然化合物如何与免疫系统相互作用的蓝图，这可能为癌症治疗提供新的思路。这一发现的重要性在于，它不仅为癌症研究开辟了新的方向，还可能推动新型癌症疗法的开发。",
+          "analysis_en": "Scientists have finally solved a nearly 30-year-old mystery regarding two unusual molecules found in rye pollen, which showed potential in helping animals fight tumors. By determining the 3D structures of these molecules, researchers have unlocked a blueprint for studying how these natural compounds interact with the immune system, potentially leading to new cancer treatments. The significance of this discovery lies in its ability to open new avenues in cancer research and possibly drive the development of innovative cancer therapies."
         },
         {
           "rank": 2,
@@ -123,8 +123,8 @@
           "link": "https://www.nytimes.com/2026/07/02/well/cyclospora-infection-united-states.html",
           "source": "NYT > Health",
           "published_utc": "2026-07-06 15:37 UTC",
-          "analysis_zh": "美国各地报告了严重胃病的聚集病例，主要是由环孢子虫引起的。这种疾病通常通过受污染的食物和饮水传播，近期病例数量明显高于往年。这一现象引发了公共卫生专家的关注，因为它可能导致更广泛的健康危机，特别是在食品安全和公共卫生政策方面。政府和相关机构可能需要采取更严格的措施来防止疾病的进一步传播。",
-          "analysis_en": "Clusters of severe stomach illness have been reported across the U.S., primarily caused by cyclospora. This disease is typically spread through contaminated food and drink, and the recent cases have significantly exceeded those of previous years. This situation has raised concerns among public health experts, as it could lead to a broader health crisis, particularly regarding food safety and public health policies. Government and relevant agencies may need to implement stricter measures to prevent further spread of the illness."
+          "analysis_zh": "美国各地报告了严重胃肠疾病的聚集病例，主要是由环孢子虫引起的。这种疾病通常通过受污染的食物和饮水传播。公共卫生专家指出，近期病例数量明显高于往年水平，这引发了人们对食品安全的担忧。此事件不仅影响了患者的健康，还可能对食品行业造成负面影响，促使相关部门加强监管和检测措施。",
+          "analysis_en": "Clusters of severe stomach illness have been reported across the United States, primarily caused by cyclospora. This disease is typically spread through contaminated food and drink. Public health experts have noted that the number of cases has significantly increased compared to previous years, raising concerns about food safety. This situation not only affects the health of those infected but may also negatively impact the food industry, prompting regulatory agencies to enhance monitoring and testing measures."
         },
         {
           "rank": 3,
@@ -132,8 +132,8 @@
           "link": "https://www.nytimes.com/2026/07/06/us/trump-anti-smoking-cuts.html",
           "source": "NYT > Health",
           "published_utc": "2026-07-06 15:22 UTC",
-          "analysis_zh": "美国疾病控制与预防中心的控烟办公室已经关闭超过一年，导致戒烟的努力停滞不前。该机构最重要的反吸烟宣传活动停止后，拨打戒烟热线的电话数量大幅下降。这一现象不仅影响了吸烟者的戒烟意愿，也可能导致公共健康的进一步恶化，增加吸烟相关疾病的风险。",
-          "analysis_en": "The CDC's tobacco control office has been closed for over a year, causing efforts to help smokers quit to stall. After the agency's most prominent anti-smoking campaign went off the air, calls to the quit hotline significantly dropped. This situation not only affects smokers' willingness to quit but may also lead to a deterioration in public health and an increase in smoking-related diseases."
+          "analysis_zh": "美国疾病控制与预防中心的烟草控制办公室在特朗普任内关闭超过一年，导致反吸烟运动的力度减弱。最具影响力的反吸烟宣传活动停止后，求助热线的电话量大幅下降。这一变化不仅影响了吸烟者的戒烟意愿，也可能导致公共健康的进一步恶化。",
+          "analysis_en": "The tobacco control office of the CDC has been closed for over a year during Trump's administration, resulting in a weakened anti-smoking campaign. After the most prominent anti-smoking advertisements went off the air, calls to the quit hotline have significantly dropped. This shift not only affects the willingness of smokers to quit but may also lead to a further decline in public health."
         },
         {
           "rank": 4,
@@ -141,8 +141,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260626125714.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-07-06 09:03 UTC",
-          "analysis_zh": "一项新的研究表明，测量有害胆固醇颗粒的血液检测方法apoB比传统的LDL胆固醇测试更能有效判断谁需要更强烈的治疗。这项研究指出，apoB测试不仅可以预防更多的心脏病发作和中风，还对美国医疗系统具有成本效益。心脏病是美国主要的死亡原因，因此改进胆固醇检测方法可能会显著降低医疗支出并改善公众健康。",
-          "analysis_en": "A new study suggests that the blood test measuring harmful cholesterol particles, apoB, is more effective than the standard LDL cholesterol test in determining who requires more intensive treatment. This research indicates that apoB testing could prevent more heart attacks and strokes while being cost-effective for the U.S. healthcare system. Given that heart disease is the leading cause of death in the United States, improving cholesterol testing methods could significantly reduce healthcare costs and enhance public health outcomes."
+          "analysis_zh": "一项新的研究表明，测量有害胆固醇颗粒的血液测试apoB比标准的LDL胆固醇测试更有效，能够更好地决定哪些患者需要更强的治疗。这一发现对美国医疗系统具有重要意义，因为它不仅可以预防更多的心脏病发作和中风，还能保持成本效益。心脏病是美国主要的死亡原因，使用apoB测试可能会改善治疗效果，从而降低医疗支出。",
+          "analysis_en": "A new study suggests that measuring apolipoprotein B (apoB), which assesses harmful cholesterol particles, is more effective than standard LDL cholesterol testing in determining who requires more intensive treatment. This finding is significant for the U.S. healthcare system, as it could prevent more heart attacks and strokes while remaining cost-effective. Since heart disease is the leading cause of death in the U.S., adopting apoB testing may enhance treatment outcomes and reduce healthcare costs."
         },
         {
           "rank": 5,
@@ -150,8 +150,8 @@
           "link": "https://www.nytimes.com/2026/07/06/business/zyn-nicotine-pouches-tobacco.html",
           "source": "NYT > Health",
           "published_utc": "2026-07-06 09:01 UTC",
-          "analysis_zh": "随着尼古丁袋的流行，制造商们正在加紧建设新工厂以满足日益增长的需求。尽管一些网红声称这些产品有健康益处，但专家警告称，它们可能具有高度成瘾性。这一现象引发了烟草公司争相进入这一市场，可能会对公共健康产生深远影响，尤其是在年轻人中间。随着尼古丁产品的多样化，消费者的选择也在增加，但同时也需要加强对这些产品的监管。",
-          "analysis_en": "As nicotine pouches gain popularity, manufacturers are rapidly building new plants to meet the increasing demand. While some influencers claim that these products offer health benefits, experts caution that they can be highly addictive. This trend has prompted tobacco companies to rush into this market, which could have significant implications for public health, particularly among young people. With the diversification of nicotine products, consumer choices are expanding, but there is also a pressing need for stronger regulation of these items."
+          "analysis_zh": "随着尼古丁袋的流行，制造商们正在建设新工厂并扩大产能以满足市场需求。尽管一些网红宣称这些产品具有健康益处，但专家警告称，它们可能会导致高度上瘾。这一趋势不仅影响了消费者的健康选择，也促使烟草公司加快布局，争夺这一新兴市场。",
+          "analysis_en": "As nicotine pouches gain popularity, manufacturers are building new plants and expanding production to meet the rising demand. While some influencers claim these products offer health benefits, experts warn that they can be highly addictive. This trend not only affects consumer health choices but also prompts tobacco companies to accelerate their strategies to capture this emerging market."
         },
         {
           "rank": 6,
@@ -159,8 +159,8 @@
           "link": "https://www.nytimes.com/2026/07/06/science/autism-assisted-spelling-nonspeaking.html",
           "source": "NYT > Health",
           "published_utc": "2026-07-06 09:00 UTC",
-          "analysis_zh": "对于非语言自闭症儿童的家庭来说，最近关于辅助拼写的沟通方式引发了激烈的争论。这场辩论的核心在于如何界定这些儿童潜在的认知能力，许多人认为辅助拼写能够揭示他们的内在智慧。这一讨论的重要性在于，它不仅影响了教育和治疗方法的选择，还可能改变社会对自闭症的理解和接纳程度。",
-          "analysis_en": "For families with nonspeaking autistic children, a fierce debate has emerged over the use of assisted spelling as a communication method. The central issue revolves around how to define the hidden cognitive abilities of these children, with many believing that assisted spelling can reveal their inner intelligence. This discussion is significant because it not only impacts the choices of educational and therapeutic approaches but may also alter societal understanding and acceptance of autism."
+          "analysis_zh": "针对非语言自闭症儿童的辅助拼写沟通方法引发了激烈的争论。这场辩论的核心在于如何界定隐藏的认知能力的证据。这一问题的重要性在于，它不仅影响到这些儿童的沟通方式，还可能改变公众对自闭症的理解和支持。若能更好地识别这些儿童的能力，将有助于他们获得更多的教育和社会资源。",
+          "analysis_en": "The communication methods for nonspeaking autistic children have sparked a fierce debate over what constitutes evidence of hidden cognitive abilities. This issue is significant because it affects not only how these children communicate but also how society understands and supports autism. If we can better recognize the abilities of these children, it could lead to increased educational and social resources for them."
         },
         {
           "rank": 7,
@@ -168,8 +168,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260626124701.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-07-05 22:58 UTC",
-          "analysis_zh": "研究人员发现了一种之前被忽视的脑细胞死亡机制，这一机制在阿尔茨海默病和额颞叶痴呆中扮演着重要角色。这一发现可能为开发新疗法提供线索，旨在通过在细胞被摧毁之前中断这一过程来减缓神经元的丧失。这项研究不仅有助于更好地理解这些神经退行性疾病的病理机制，还有望为患者带来新的治疗选择，从而改善他们的生活质量。",
-          "analysis_en": "Researchers have identified a previously overlooked mechanism of brain cell death that plays a significant role in Alzheimer's disease and frontotemporal dementia. This discovery could lead to new therapies aimed at slowing neuron loss by interrupting the process before cells are destroyed. The study not only enhances our understanding of the pathological mechanisms behind these neurodegenerative diseases but also holds the potential to provide new treatment options for patients, thereby improving their quality of life."
+          "analysis_zh": "研究人员发现了一种之前被忽视的机制，这一机制在阿尔茨海默病和额颞叶痴呆中可能扮演了重要角色。该发现揭示了毒性蛋白质如何导致脑细胞死亡的过程，可能为新疗法的开发提供了方向。这一研究不仅有助于我们更好地理解这些神经退行性疾病的病理机制，还可能为延缓神经元损失提供新的治疗策略，从而改善患者的生活质量。",
+          "analysis_en": "Researchers have identified a previously overlooked mechanism that plays a significant role in the death of brain cells in Alzheimer's disease and frontotemporal dementia. This discovery reveals how toxic proteins contribute to cell death, potentially guiding the development of new treatments. The study enhances our understanding of the pathological mechanisms behind these neurodegenerative diseases and may lead to new strategies for slowing neuron loss, ultimately improving the quality of life for patients."
         }
       ]
     },
@@ -183,8 +183,8 @@
           "link": "https://aeon.co/videos/jazz-and-innovative-animation-form-a-sensory-swirl-in-this-1949-short",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-07-06 10:01 UTC",
-          "analysis_zh": "这段1949年的爵士乐与动画的结合，展现了音乐与视觉艺术的奇妙融合。它通过抽象的视觉效果来诠释音乐，给观众带来了全新的感官体验。这种艺术形式的重要性在于，它不仅丰富了音乐的表现力，还推动了动画艺术的发展，可能会激励更多艺术家探索跨界合作的可能性。",
-          "analysis_en": "This 1949 fusion of jazz and animation showcases the wonderful blend of music and visual art. It interprets the music through abstract visuals, providing audiences with a fresh sensory experience. The significance of this art form lies in its ability to enrich musical expression and advance the field of animation, potentially inspiring more artists to explore cross-disciplinary collaborations."
+          "analysis_zh": "1949年的《心情愉悦》是一部充满活力的爵士乐与动画融合作品，通过抽象的视觉效果来诠释音乐。这部影片不仅展现了当时艺术与音乐的创新结合，也为后来的动画创作提供了灵感。它的重要性在于推动了艺术表现形式的多样性，可能会影响未来的动画和音乐作品，鼓励更多艺术家探索跨界合作。",
+          "analysis_en": "\"Begone dull care,\" a vibrant fusion of jazz and animation from 1949, uses abstract visuals to interpret the music. This film not only showcases the innovative combination of art and music of its time but also inspires future animation creators. Its significance lies in promoting diversity in artistic expression, potentially influencing future works in animation and music, and encouraging more artists to explore cross-disciplinary collaborations."
         },
         {
           "rank": 2,
@@ -192,8 +192,8 @@
           "link": "https://aeon.co/essays/the-radical-reasons-why-you-dream-of-making-things-by-hand",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-07-06 10:00 UTC",
-          "analysis_zh": "近期有关于人们对传统手工艺的热情的讨论，特别是养蜂、烘焙和皮革制作等活动。这种现象引发了人们对工作本质的重新思考，是否这些活动仅仅是逃避现实的幻想，还是一种更为人性化的工作方式。此类活动不仅能让人们找到内心的满足感，还可能改变我们对工作的看法，促使更多人追求与自然和谐共处的生活方式。",
-          "analysis_en": "Recently, there has been a discussion about people's enthusiasm for traditional crafts, particularly activities like beekeeping, baking, and leatherwork. This phenomenon has sparked a reevaluation of the nature of work, questioning whether these activities are merely escapist fantasies or represent a more human-centered approach to work. Such pursuits not only provide individuals with a sense of fulfillment but may also shift our perspective on work, encouraging more people to seek a lifestyle in harmony with nature."
+          "analysis_zh": "最近，一篇文章探讨了人们对传统手工艺的热情，诸如养蜂、烘焙和皮革制作。这种现象引发了对现代工作方式的反思，是否这些活动只是逃避现实的幻想，还是一种更为人性化的工作方式的开始。随着人们对生活质量的关注增加，这种技能的怀旧情绪可能会影响未来的职业选择和生活方式。",
+          "analysis_en": "Recently, an article explored people's enthusiasm for traditional crafts such as beekeeping, baking, and leatherwork. This phenomenon raises questions about modern work practices, asking whether these activities are merely escapist fantasies or the beginning of a more human-centered approach to work. As people increasingly focus on quality of life, this nostalgia for skills may influence future career choices and lifestyles."
         },
         {
           "rank": 3,
@@ -201,8 +201,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/06/260626124701.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-07-05 22:58 UTC",
-          "analysis_zh": "研究人员发现了一种之前被忽视的脑细胞死亡机制，这一机制在阿尔茨海默病和额颞叶痴呆中起着重要作用。这个发现可能为新疗法的开发提供方向，旨在通过在细胞被破坏之前中断这一过程来减缓神经元的丧失。这一研究成果不仅有助于深入理解这些神经退行性疾病的病理机制，也可能为未来的治疗方案开辟新的途径。",
-          "analysis_en": "Researchers have identified a previously overlooked mechanism of brain cell death that plays a significant role in Alzheimer's disease and frontotemporal dementia. This discovery could pave the way for new treatments aimed at slowing neuron loss by interrupting the process before cells are destroyed. The findings not only enhance our understanding of the pathological mechanisms behind these neurodegenerative diseases but may also open new avenues for future therapeutic strategies."
+          "analysis_zh": "研究人员发现了一种之前被忽视的机制，这种机制在阿尔茨海默病和额颞叶痴呆中对脑细胞死亡起着重要作用。这一发现可能为新治疗方法的开发提供线索，旨在通过在细胞被摧毁之前中断这一过程来减缓神经元的丧失。了解这种机制不仅有助于深入认识阿尔茨海默病的病理，还可能为其他神经退行性疾病的治疗开辟新的方向。",
+          "analysis_en": "Researchers have identified a previously overlooked mechanism that plays a significant role in the death of brain cells in Alzheimer's disease and frontotemporal dementia. This discovery could lead to new treatment strategies aimed at slowing neuron loss by interrupting the process before cells are destroyed. Understanding this mechanism not only enhances our knowledge of the pathology of Alzheimer's disease but may also open new avenues for treating other neurodegenerative disorders."
         }
       ]
     },
@@ -216,8 +216,8 @@
           "link": "https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale",
           "source": "The Verge",
           "published_utc": "2026-07-06 20:24 UTC",
-          "analysis_zh": "Hoto的PixelDrive无绳螺丝刀目前在亚马逊上售价59.99美元，降价20美元，达到了历史最低价。这款螺丝刀适合处理各种家庭项目，从紧固家具上的松动螺丝到修理电子设备都能轻松应对。它配备了30个螺丝刀头和六种可调扭矩设置，使用方便且功能多样。此次降价对那些在亚马逊购物日购买了新家具但尚未组装的消费者来说，提供了一个很好的机会。",
-          "analysis_en": "Hoto's PixelDrive cordless screwdriver is currently on sale for $59.99 on Amazon, marking a $20 discount and matching its lowest price ever. This screwdriver is designed for a variety of household tasks, from tightening loose screws on furniture to repairing electronics. It comes with 30 screwdriver bits and six adjustable torque settings, making it versatile and user-friendly. This price drop presents a great opportunity for consumers who purchased new furniture during Prime Day but have yet to assemble it."
+          "analysis_zh": "Hoto的PixelDrive无绳螺丝刀目前在亚马逊上售价59.99美元，降价20美元，达到了历史最低价。这款螺丝刀非常适合那些在Prime Day购买了新家具但尚未组装的消费者。它配备了30个螺丝刀头和可调扭矩设置，能够满足各种家庭项目的需求。此优惠不仅让消费者节省了开支，还可能促进更多人选择DIY家具组装。",
+          "analysis_en": "Hoto's PixelDrive cordless screwdriver is currently on sale for $59.99 on Amazon, marking a $20 discount and matching its lowest price ever. This tool is ideal for consumers who purchased new furniture during Prime Day but have yet to assemble it. It comes with 30 screwdriver bits and adjustable torque settings, making it suitable for a variety of household projects. This deal not only saves consumers money but may also encourage more people to opt for DIY furniture assembly."
         },
         {
           "rank": 2,
@@ -225,8 +225,8 @@
           "link": "https://www.theverge.com/policy/961802/america-250-free-speech",
           "source": "The Verge",
           "published_utc": "2026-07-06 18:36 UTC",
-          "analysis_zh": "美国最近庆祝了250周年的生日，盛大的烟火表演吸引了数百万人的参与，甚至在全球范围内也引发了庆祝活动。然而，与此同时，白人至上主义者在华盛顿特区游行，这一现象突显了美国社会的矛盾与挑战。美国的独立宣言和宪法是国家的基石，但如今这些核心价值观面临威胁。保护言论自由等基本权利的重要性不容忽视，这不仅关乎美国的未来，也对全球的民主进程产生深远影响。",
-          "analysis_en": "The United States recently celebrated its 250th anniversary, marked by spectacular fireworks that drew millions of participants and celebrations around the world. However, the presence of white nationalists parading in Washington, D.C. highlights the contradictions and challenges within American society. The Declaration of Independence and the Constitution serve as the foundation of the nation, yet these core values are currently under threat. The importance of protecting fundamental rights like free speech cannot be overstated, as it not only concerns the future of America but also has profound implications for the global democratic process."
+          "analysis_zh": "美国最近庆祝了建国250周年，盛大的烟火表演吸引了全国乃至全球的关注。然而，在庆祝的同时，白人至上主义者在华盛顿特区游行，凸显了国家内部的矛盾。这一事件表明，尽管美国在自由和民主的理念上取得了进展，但仍面临着严重的挑战。保护宪法第一修正案的权利显得尤为重要，因为这关乎每个人的自由与权利。",
+          "analysis_en": "The United States recently celebrated its 250th anniversary, with grand fireworks displays capturing the attention of the nation and the world. However, amidst the celebrations, white nationalists paraded in Washington D.C., highlighting the internal contradictions within the country. This event underscores that while America has made progress in the ideals of freedom and democracy, it still faces significant challenges. Protecting the rights established by the First Amendment is crucial, as it pertains to the freedom and rights of every individual."
         },
         {
           "rank": 3,
@@ -234,8 +234,8 @@
           "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
           "source": "MIT Technology Review",
           "published_utc": "2026-07-06 18:00 UTC",
-          "analysis_zh": "OpenAI首席执行官萨姆·阿尔特曼再次引发关注，他曾承诺美国人将分享人工智能创造的财富。根据《金融时报》的报道，阿尔特曼正在推动一项计划，允许普通家庭以300美元的投资参与OpenAI的未来发展。这一举措不仅可能改变普通人对人工智能的参与方式，也可能影响公众对AI技术的接受度和信任度。",
-          "analysis_en": "OpenAI CEO Sam Altman has once again garnered attention for his promise that Americans will share in the wealth generated by artificial intelligence. According to a report from the Financial Times, Altman is promoting a plan that allows ordinary families to invest $300 in OpenAI's future development. This initiative could change how the general public engages with AI and may also influence public acceptance and trust in AI technologies."
+          "analysis_zh": "OpenAI首席执行官萨姆·阿尔特曼（Sam Altman）再次引发关注，他曾承诺美国人将分享人工智能所创造的财富。根据《金融时报》的报道，阿尔特曼正在推动一项计划，让普通家庭以300美元的投资参与OpenAI的未来发展。这一举措不仅可能改变普通人对人工智能的参与方式，还可能影响公众对AI技术的接受度和信任度，进而影响整个行业的发展方向。",
+          "analysis_en": "Sam Altman, the CEO of OpenAI, has once again drawn attention for his promise that Americans will share in the wealth generated by artificial intelligence. According to a report from the Financial Times, Altman is promoting a plan that allows ordinary families to invest $300 in OpenAI's future. This initiative could change how the general public engages with AI, potentially affecting their acceptance and trust in the technology, which in turn may influence the direction of the entire industry."
         },
         {
           "rank": 4,
@@ -243,8 +243,8 @@
           "link": "https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview",
           "source": "The Verge",
           "published_utc": "2026-07-06 17:15 UTC",
-          "analysis_zh": "最近，扎卡里·鲁宾博士在与媒体的采访中讨论了他在对抗虚假信息方面的努力。他是一名儿科过敏症和免疫学专家，致力于揭露科学和医学领域的错误信息。鲁宾博士的工作非常重要，因为在信息泛滥的时代，公众常常被误导，这不仅浪费了专业人士的时间，也影响了人们对健康的理解。他通过社交媒体传播科学知识，帮助人们更好地辨别真伪，从而提升公众的科学素养。",
-          "analysis_en": "Recently, Dr. Zachary Rubin discussed his efforts in combating misinformation during a media interview. As a pediatric allergist and immunologist, he is dedicated to exposing inaccuracies in the fields of science and medicine. His work is crucial, especially in an age where the public is often misled by false information, which not only wastes the time of professionals but also affects people's understanding of health. By using social media to share scientific knowledge, he helps people better discern truth from falsehood, thereby enhancing public scientific literacy."
+          "analysis_zh": "最近，《The Verge》采访了儿科过敏症专家扎卡里·鲁宾博士，他在对抗虚假信息方面做出了重要贡献。鲁宾博士通过社交媒体传播科学知识，帮助公众识别和抵制不实信息，这在当今信息泛滥的时代显得尤为重要。他的工作不仅提升了人们对科学的理解，也为那些致力于传播真相的专业人士提供了支持。鲁宾博士的努力可能会影响公众对科学信息的信任度，并促进更健康的科学交流环境。",
+          "analysis_en": "Recently, The Verge interviewed Dr. Zachary Rubin, a pediatric allergist who plays a significant role in combating misinformation. Dr. Rubin uses social media to disseminate scientific knowledge, helping the public identify and resist false information, which is crucial in today's age of information overload. His work not only enhances public understanding of science but also supports other professionals dedicated to spreading the truth. Dr. Rubin's efforts may influence the public's trust in scientific information and promote a healthier environment for scientific communication."
         },
         {
           "rank": 5,
@@ -252,8 +252,8 @@
           "link": "https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie",
           "source": "The Verge",
           "published_utc": "2026-07-06 16:22 UTC",
-          "analysis_zh": "微软宣布将其四个Xbox游戏工作室进行重组，分别是Compulsion Games、Double Fine Productions、Ninja Theory和Undead Labs。其中，Double Fine和Compulsion将独立运营，并保留他们的游戏系列和作品目录。这一决定对这两家工作室来说至关重要，因为他们将能够自主开发新游戏，继续扩展自己的品牌。这样的转变可能会影响Xbox的整体游戏生态，促使其他工作室考虑类似的独立发展路径。",
-          "analysis_en": "Microsoft has announced a restructuring that involves spinning off four of its Xbox game studios: Compulsion Games, Double Fine Productions, Ninja Theory, and Undead Labs. Among these, Double Fine and Compulsion will operate independently and retain their game franchises and catalogs. This decision is significant for both studios as it allows them to develop new games autonomously and expand their brands. Such a shift may influence the overall Xbox gaming ecosystem and encourage other studios to consider similar paths toward independence."
+          "analysis_zh": "微软宣布将其四个Xbox游戏工作室进行重组，分别是Compulsion Games、Double Fine Productions、Ninja Theory和Undead Labs。其中，Double Fine和Compulsion将独立运营，并保留他们的游戏系列和作品目录。这一决定对于这两家工作室来说至关重要，因为它们可以继续发展自己的IP和创意，避免受到大公司的限制。这可能会影响到Xbox的整体游戏生态，促使其他工作室考虑独立发展的可能性。",
+          "analysis_en": "Microsoft has announced a restructuring that involves spinning off four of its Xbox game studios: Compulsion Games, Double Fine Productions, Ninja Theory, and Undead Labs. Among these, Double Fine and Compulsion will operate independently and retain their game franchises and catalogs. This decision is significant for both studios as it allows them to continue developing their IP and creative projects without the constraints of a larger corporation. This move may influence the overall gaming ecosystem at Xbox and encourage other studios to explore the possibility of independent development."
         },
         {
           "rank": 6,
@@ -261,8 +261,8 @@
           "link": "https://www.nytimes.com/2026/07/06/business/alibaba-ai-qwen.html",
           "source": "NYT > Technology",
           "published_utc": "2026-07-06 16:05 UTC",
-          "analysis_zh": "阿里巴巴的人工智能技术在全球开发者中受到了广泛欢迎，但由于其开源特性，用户可以自由使用和修改这些模型。这一现象表明，尽管技术受到认可，但阿里巴巴在将其转化为盈利模式方面面临挑战。开源的优势在于促进了创新，但也使得公司难以通过专有技术获得经济回报。这可能会影响阿里巴巴在人工智能领域的市场竞争力和未来发展方向。",
-          "analysis_en": "Alibaba's artificial intelligence technology has gained widespread acclaim among developers worldwide, but its open-source nature allows users to freely use and modify these models. This situation highlights that while the technology is recognized, Alibaba faces challenges in turning it into a profitable venture. The advantages of open-source foster innovation, but they also make it difficult for the company to generate revenue from proprietary technology. This could impact Alibaba's market competitiveness and future direction in the AI sector."
+          "analysis_zh": "阿里巴巴的人工智能技术在全球开发者中获得了广泛的认可，但由于其开源特性，用户可以自由使用和修改这些模型。这一现象表明，尽管阿里巴巴在技术上取得了成功，但将其转化为盈利模式却面临挑战。这不仅影响了公司的收入潜力，也可能对整个行业的商业模式产生深远影响。",
+          "analysis_en": "Alibaba's artificial intelligence technology has gained widespread recognition among developers worldwide, but its open-source nature allows users to freely use and modify these models. This situation indicates that, despite Alibaba's technological success, turning it into a profitable business model poses significant challenges. This not only affects the company's revenue potential but may also have far-reaching implications for the business models across the entire industry."
         },
         {
           "rank": 7,
@@ -270,8 +270,8 @@
           "link": "https://www.nytimes.com/2026/07/06/technology/ai-distillation-china.html",
           "source": "NYT > Technology",
           "published_utc": "2026-07-06 16:04 UTC",
-          "analysis_zh": "美国公司抱怨中国竞争对手不公平地复制他们的人工智能系统，使用一种已经存在多年的技术。这一问题引发了广泛关注，因为它可能影响到美国在全球人工智能领域的竞争力。如果这种情况持续下去，可能会导致更严格的知识产权保护措施和国际贸易紧张局势的加剧。",
-          "analysis_en": "U.S. companies are complaining that their Chinese competitors are unfairly copying their A.I. systems using a technique that has been around for years. This issue has gained significant attention as it could impact America's competitiveness in the global A.I. landscape. If this situation continues, it may lead to stricter intellectual property protections and an escalation of tensions in international trade."
+          "analysis_zh": "美国公司抱怨中国竞争对手不公平地复制他们的人工智能系统，使用一种已经存在多年的技术。这种现象引发了广泛关注，因为它不仅影响了美国公司的创新能力，也可能加剧中美之间的技术竞争。随着人工智能技术的迅速发展，这种抄袭行为可能会对全球市场格局产生深远影响。",
+          "analysis_en": "U.S. companies are complaining that their competitors in China are unfairly copying their AI systems using a technique that has been around for years. This issue has garnered significant attention as it not only affects the innovation capabilities of American companies but may also escalate the technological rivalry between the U.S. and China. As AI technology rapidly evolves, such practices could have far-reaching implications for the global market landscape."
         },
         {
           "rank": 8,
@@ -279,8 +279,8 @@
           "link": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
           "source": "The Verge",
           "published_utc": "2026-07-06 16:00 UTC",
-          "analysis_zh": "近日，关于智能眼镜的讨论再次引发关注，尤其是在好莱坞作品《A Man on the Inside》中，展示了智能眼镜可能带来的隐私问题。剧中角色使用智能眼镜进行监视，虽然情节设定引人入胜，但也揭示了现实中人们对隐私的忽视。这一现象提醒我们，尽管科技产品提供便利，但其潜在的监控能力可能使人们在不知情的情况下成为被观察者。这一问题值得社会各界深入探讨，以确保在享受科技带来的便利时，能够保护个人隐私。",
-          "analysis_en": "Recently, discussions about smart glasses have gained renewed attention, particularly due to Hollywood's portrayal in the show \"A Man on the Inside,\" which highlights privacy concerns associated with these devices. The character in the show uses smart glasses for surveillance, and while the plot is engaging, it also reveals a troubling disregard for privacy in real life. This phenomenon serves as a reminder that while technological products offer convenience, their potential for monitoring can turn individuals into unwitting subjects of observation. This issue warrants deeper societal discussion to ensure that personal privacy is protected while enjoying the benefits of technology."
+          "analysis_zh": "最近，随着Netflix剧集《内部人》的热播，智能眼镜的文化问题再次引起关注。剧中，角色查尔斯·纽温代克利用一副类似Ray-Ban Meta的智能眼镜进行监视，侵犯了养老院内老年人的隐私。这一情节不仅反映了智能眼镜在现实生活中的潜在风险，也让人们重新思考科技产品在隐私保护方面的伦理问题。随着智能穿戴设备的普及，如何平衡便利性与隐私权将成为社会面临的重要挑战。",
+          "analysis_en": "Recently, the cultural issues surrounding smart glasses have come to the forefront with the release of Netflix's series \"A Man on the Inside.\" In the show, the character Charles Nieuwendyk uses a pair of Ray-Ban Meta-like smart glasses to spy on elderly residents in a retirement home, infringing upon their privacy. This scenario highlights the potential risks of smart glasses in real life and prompts a reevaluation of the ethical implications of technology in relation to privacy. As wearable devices become more common, finding a balance between convenience and privacy rights will be a significant challenge for society."
         },
         {
           "rank": 9,
@@ -288,8 +288,8 @@
           "link": "https://www.theverge.com/gadgets/961612/xtra-muse-dji-osmo-pocket-3-ipad-air-magic-mouse-deal-sale",
           "source": "The Verge",
           "published_utc": "2026-07-06 15:09 UTC",
-          "analysis_zh": "最近，Xtra Muse这款便携式相机的价格降至329美元，成为了与DJI Osmo Pocket 3非常相似的替代品。Osmo Pocket 3的价格通常为500美元，但现在降至378美元。Xtra Muse不仅价格更低，而且在功能上几乎与DJI的产品无异，这对消费者来说是一个不错的选择。此举可能会影响市场竞争，促使其他品牌也降低价格，从而使更多用户能够享受到高质量的拍摄体验。",
-          "analysis_en": "Recently, the price of the Xtra Muse, a portable camera very similar to the DJI Osmo Pocket 3, has dropped to $329. The Osmo Pocket 3, which typically sells for $500, is now available for $378. The Muse not only offers a lower price but also nearly identical features, making it an appealing option for consumers. This development could impact market competition, potentially prompting other brands to lower their prices as well, allowing more users to access high-quality filming experiences."
+          "analysis_zh": "最近，Xtra Muse这款便携相机的价格降至329美元，成为DJI Osmo Pocket 3的一个更具性价比的替代品。虽然Osmo Pocket 3的价格从500美元降至378美元，但Muse的价格更低，且在功能上几乎与Osmo Pocket 3相同。这一价格变化对消费者而言是个好消息，尤其是那些寻找高质量视频录制设备的人。随着市场上类似产品的竞争加剧，消费者将有更多选择，同时也可能促使其他品牌降低价格以吸引买家。",
+          "analysis_en": "Recently, the price of the Xtra Muse portable camera has dropped to $329, making it a more cost-effective alternative to the DJI Osmo Pocket 3. While the Osmo Pocket 3's price has decreased from $500 to $378, the Muse offers a lower price point and nearly identical features. This price change is good news for consumers, especially those looking for high-quality video recording devices. As competition among similar products increases, consumers will have more options, which may also encourage other brands to lower their prices to attract buyers."
         },
         {
           "rank": 10,
@@ -297,8 +297,8 @@
           "link": "https://www.theverge.com/podcast/961603/raina-penchansky-ali-berman-dba-uta-influencer-cliff-marketing",
           "source": "The Verge",
           "published_utc": "2026-07-06 14:30 UTC",
-          "analysis_zh": "在法国南部的戛纳狮子节上，播客《Decoder》发布了一期特别节目，主持人Nilay Patel与联合人才公司（UTA）创作者部门的负责人Ali Berman和Raina Penchansky进行了对话。UTA是一家大型人才代理机构，代表着许多知名创作者和影响者。此次讨论的重点在于如何识别新兴人才、与他们合作建立可持续的商业模式，以及顶级创作者的运营机制。这一话题的重要性在于，创作者经济正在迅速发展，影响着娱乐产业的未来，可能会改变传统的商业模式和收入结构。",
-          "analysis_en": "At the Cannes Lions advertising festival in the South of France, the podcast \"Decoder\" released a special episode featuring host Nilay Patel in conversation with Ali Berman and Raina Penchansky, heads of the Creators division at United Talent Agency (UTA). UTA is a major talent agency representing many well-known creators and influencers. The discussion focused on how they identify emerging talent, collaborate with them to build sustainable business models, and the operational dynamics of top creators. This topic is significant as the creator economy is rapidly evolving, impacting the future of the entertainment industry and potentially altering traditional business models and revenue structures."
+          "analysis_zh": "在法国南部的戛纳国际广告节上，United Talent Agency（UTA）的创作者部门负责人Ali Berman和Raina Penchansky接受了采访，讨论了创作者经济和影响者市场的发展。UTA是一个庞大的经纪公司，代表着许多知名创作者和影响者，如Charli D’Amelio和Markiplier等。此次讨论揭示了如何识别新兴人才、与他们合作建立可持续的商业模式，以及顶级创作者的运营机制。这一话题的重要性在于，创作者经济正在迅速崛起，影响着广告、娱乐等多个行业的格局。",
+          "analysis_en": "At the Cannes Lions advertising festival in the South of France, Ali Berman and Raina Penchansky, heads of the Creators division at United Talent Agency (UTA), discussed the growth of the creator economy and the influencer marketplace. UTA is a massive talent agency representing many well-known creators and influencers, including Charli D’Amelio and Markiplier. The conversation revealed how they identify emerging talent, collaborate to build sustainable business models, and the operational dynamics of top creators. This topic is significant as the creator economy is rapidly rising, impacting various sectors such as advertising and entertainment."
         }
       ]
     },
@@ -308,30 +308,30 @@
       "items": [
         {
           "rank": 1,
+          "title": "Indio Solari, Argentine Rocker Who Packed Stadiums, Dies at 77",
+          "link": "https://www.nytimes.com/2026/07/06/arts/music/indio-solari-dead.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-07-06 21:59 UTC",
+          "analysis_zh": "阿根廷摇滚歌手印迪奥·索拉里去世，享年77岁。他是一位反文化偶像，拥有广泛的影响力，曾将自己与鲍勃·迪伦相提并论，尤其受到工人阶级青年热爱。索拉里的去世不仅标志着一个时代的结束，也让人们重新审视他在音乐和社会运动中的重要地位。他的音乐和思想可能会继续激励新一代艺术家和社会活动家。",
+          "analysis_en": "Indio Solari, the Argentine rock singer, has passed away at the age of 77. He was a counterculture icon with a wide appeal, often comparing himself to Bob Dylan, and he had a particularly fervent following among working-class youth. His death marks the end of an era and prompts a reevaluation of his significant role in music and social movements. Solari's music and ideas may continue to inspire a new generation of artists and activists."
+        },
+        {
+          "rank": 2,
           "title": "Mike Wallace, Who Wrote an Acclaimed History of New York, Dies at 83",
           "link": "https://www.nytimes.com/2026/07/05/books/mike-wallace-dead.html",
           "source": "NYT > Arts",
           "published_utc": "2026-07-06 21:23 UTC",
-          "analysis_zh": "迈克·华莱士，这位撰写了备受赞誉的《纽约历史》的作家，于83岁时去世。他的著作《哥谭》讲述了纽约市直到1898年的历史，重点关注社会和经济冲突。这本书不仅赢得了普利策奖，还激发了两部续集的创作。华莱士的去世对历史学界和文学界都是一大损失，他的作品将继续影响后来的历史研究和城市叙事。",
-          "analysis_en": "Mike Wallace, the acclaimed author of \"Gotham,\" has passed away at the age of 83. His book, which chronicles the history of New York City up to 1898, emphasizes social and economic conflicts. It won a Pulitzer Prize and inspired two sequels. Wallace's death is a significant loss for both the fields of history and literature, and his work will continue to influence future historical research and urban narratives."
+          "analysis_zh": "迈克·华莱士，这位撰写了备受赞誉的《纽约历史》的作家，于83岁时去世。他的著作《哥谭》讲述了纽约市直到1898年的历史，重点关注社会和经济冲突。这本书不仅获得了普利策奖，还激发了两部续集的创作。这一事件对文学界和历史研究都具有重要意义，因为华莱士的作品深入探讨了城市发展的复杂性，影响了后续的历史叙述和研究方向。",
+          "analysis_en": "Mike Wallace, the acclaimed author of a history of New York, has passed away at the age of 83. His book \"Gotham,\" which chronicles the city's story up to 1898, focuses on social and economic conflicts. This work won a Pulitzer Prize and inspired two sequels. His passing is significant for the literary and historical communities, as Wallace's exploration of the complexities of urban development has shaped subsequent historical narratives and research directions."
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Former Marlborough Gallery Space in Chelsea Sells for $7.5 M.",
           "link": "https://www.artnews.com/art-news/news/former-marlborough-gallery-chelsea-sells-7-5-million-gazelli-1234791228/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-07-06 21:16 UTC",
-          "analysis_zh": "前马尔堡画廊位于切尔西的空间以750万美元出售，这标志着马尔堡遗产逐渐走向尾声。这一交易不仅反映了艺术市场的变化，也可能影响未来画廊的经营模式和艺术品的展示方式。随着这一历史画廊的关闭，艺术界可能会失去一个重要的展示平台，同时也引发了对其他画廊生存状况的关注。",
-          "analysis_en": "The former Marlborough Gallery space in Chelsea has been sold for $7.5 million, marking the gradual winding down of Marlborough's legacy. This sale reflects changes in the art market and may influence future gallery operations and the way artworks are presented. With the closure of this historic gallery, the art community may lose an important exhibition platform, raising concerns about the viability of other galleries as well."
-        },
-        {
-          "rank": 3,
-          "title": "‘Human Vapor’ Review: Netflix Remakes a Japanese Sci-Fi Curio",
-          "link": "https://www.nytimes.com/2026/07/04/arts/television/human-vapor-review-netflix.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-07-06 21:09 UTC",
-          "analysis_zh": "Netflix最近推出了一部改编自日本科幻作品的系列剧《人类蒸汽》，这部剧由导演本多猪四郎执导，讲述了一个能够变成气体的反派角色。这部作品的重要性在于它将经典的科幻元素与现代技术相结合，吸引了新一代观众。此类改编不仅丰富了流行文化的多样性，也可能影响未来更多经典作品的翻拍和再创作。",
-          "analysis_en": "Netflix recently released a series titled \"Human Vapor,\" adapted from a Japanese sci-fi work directed by Ishiro Honda, featuring a villain who can transform into gas. This adaptation is significant as it merges classic sci-fi elements with modern technology, appealing to a new generation of viewers. Such reinterpretations not only enhance the diversity of popular culture but may also influence the future remakes and reimaginings of other classic works."
+          "analysis_zh": "前马尔堡画廊在切尔西的空间以750万美元的价格出售，这标志着马尔堡遗产逐渐走向终结。这一交易不仅反映了艺术市场的变化，也意味着该地区艺术空间的重新配置。随着马尔堡画廊的关闭，许多艺术家和收藏家可能会寻找新的展示和交易平台，这将对切尔西的艺术生态产生深远影响。",
+          "analysis_en": "The former Marlborough Gallery space in Chelsea has been sold for $7.5 million, marking the gradual winding down of Marlborough's legacy. This transaction reflects changes in the art market and indicates a reconfiguration of art spaces in the area. With the closure of Marlborough Gallery, many artists and collectors may seek new venues for showcasing and trading art, which could significantly impact the art ecosystem in Chelsea."
         },
         {
           "rank": 4,
@@ -339,8 +339,8 @@
           "link": "https://www.nytimes.com/2026/07/06/arts/smithsonian-trump-activism-american-history.html",
           "source": "NYT > Arts",
           "published_utc": "2026-07-06 21:02 UTC",
-          "analysis_zh": "美国历史学家联合会对特朗普政府批评史密森国家美国历史博物馆的报告表示强烈反对。这份报告质疑博物馆的展览和叙述，认为其未能准确反映美国历史的重要性。历史学家的反对不仅捍卫了博物馆的学术独立性，也强调了历史叙述的多样性和复杂性。这一事件可能会影响公众对历史教育的看法，并引发更广泛的关于文化机构角色的讨论。",
-          "analysis_en": "The American Historical Association strongly condemned a report from the Trump administration that criticized the Smithsonian's National Museum of American History. The report questioned the museum's exhibitions and narratives, claiming they failed to accurately represent the significance of American history. The historians' response not only defends the museum's academic independence but also highlights the diversity and complexity of historical narratives. This incident may influence public perceptions of history education and spark broader discussions about the role of cultural institutions."
+          "analysis_zh": "美国历史学家的最大团体对特朗普政府批评史密森国家美国历史博物馆的报告表示反对。这一事件凸显了政府与学术界之间的紧张关系，特别是在文化和历史的解读上。学者们的反对不仅是对政府言论的回应，也可能影响公众对历史叙述的理解和接受程度。",
+          "analysis_en": "The largest group of U.S. historians has denounced a report from the Trump administration that criticized the Smithsonian's National Museum of American History. This incident highlights the tension between the government and the academic community, particularly regarding interpretations of culture and history. The historians' response is not only a rebuttal to government rhetoric but may also influence public understanding and acceptance of historical narratives."
         },
         {
           "rank": 5,
@@ -348,8 +348,8 @@
           "link": "https://www.artnews.com/art-news/news/copyright-midjourney-court-to-reveal-how-disney-uses-ai-1234791213/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-07-06 20:19 UTC",
-          "analysis_zh": "Midjourney最近因版权争议而被迪士尼起诉，指控其帮助广泛侵犯了迪士尼的版权角色。Midjourney请求法院披露迪士尼如何使用人工智能，这一请求引发了对AI技术在创意产业中应用的广泛讨论。这一事件不仅关系到Midjourney的未来发展，也可能影响整个行业对AI生成内容的法律框架和版权保护的理解。",
-          "analysis_en": "Midjourney has recently been sued by Disney over copyright infringement, with accusations that it facilitated widespread violations of Disney's copyrighted characters. In response, Midjourney is asking the court to reveal how Disney utilizes artificial intelligence, sparking a broader discussion about the use of AI technology in the creative industry. This situation not only impacts Midjourney's future but may also influence the legal framework and understanding of copyright protection for AI-generated content across the industry."
+          "analysis_zh": "最近，Midjourney因被迪士尼起诉而引发了版权争议。迪士尼指控Midjourney帮助广泛侵犯其版权角色，这一事件引起了广泛关注。此案的重要性在于，它不仅涉及到人工智能在创作中的合法性，还可能影响整个创意产业对AI工具的使用和监管。随着技术的发展，如何平衡版权保护与创新之间的关系将成为一个亟待解决的问题。",
+          "analysis_en": "Recently, Midjourney has come under fire due to a copyright lawsuit filed by Disney. Disney accuses Midjourney of facilitating widespread infringement of its copyrighted characters, which has garnered significant attention. The importance of this case lies in its implications for the legality of AI in creative processes and may affect how the creative industry uses and regulates AI tools. As technology advances, finding a balance between copyright protection and innovation will become a pressing issue."
         },
         {
           "rank": 6,
@@ -357,8 +357,8 @@
           "link": "https://www.nytimes.com/2026/07/06/arts/music/madonna-confessions-ii-album-review.html",
           "source": "NYT > Arts",
           "published_utc": "2026-07-06 20:07 UTC",
-          "analysis_zh": "麦当娜的新专辑《Confessions II》是她2005年热门专辑《Confessions on a Dance Floor》的续集。这张专辑不仅为她的音乐生涯注入了新的活力，还揭示了她在追求成功过程中所经历的挑战和困扰。这一作品的重要性在于，它不仅体现了麦当娜的艺术成长，也可能影响她未来的音乐方向和与粉丝的互动。",
-          "analysis_en": "Madonna's new album \"Confessions II\" serves as a sequel to her hit 2005 album \"Confessions on a Dance Floor.\" This album revitalizes her musical journey while shedding light on the challenges she has faced in her pursuit of success. Its significance lies in showcasing Madonna's artistic evolution, which may influence her future musical direction and her relationship with fans."
+          "analysis_zh": "麦当娜的新专辑《Confessions II》是2005年热门专辑《Confessions on a Dance Floor》的续集。这张专辑不仅为她的音乐生涯注入了新的活力，还揭示了她在追求成功过程中所经历的挑战和困扰。这一作品的重要性在于，它不仅展示了麦当娜作为艺术家的成长，也反映了她对舞蹈和音乐的热爱，可能会影响新一代艺术家的创作方向。",
+          "analysis_en": "Madonna's new album, \"Confessions II,\" serves as a sequel to her hit 2005 album, \"Confessions on a Dance Floor.\" This album revitalizes her musical journey and sheds light on the challenges she has faced while pursuing success. Its significance lies in showcasing Madonna's growth as an artist and her enduring passion for dance and music, which may influence the creative direction of a new generation of artists."
         },
         {
           "rank": 7,
@@ -366,8 +366,8 @@
           "link": "https://www.artnews.com/art-news/news/gold-rings-thailand-human-bones-1234791201/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-07-06 19:54 UTC",
-          "analysis_zh": "在泰国发现了两千年前的金戒指，戒指旁边还发现了人类遗骨。其中一枚戒指上刻有古印度文字。这一发现不仅揭示了古代文化的交流，还可能为考古学家提供有关当时人类活动的新线索。这样的考古发现有助于我们更好地理解历史，并可能影响未来的研究方向。",
-          "analysis_en": "Two thousand-year-old gold rings were discovered in Thailand alongside human bones, with one of the rings featuring an inscription in ancient Indian script. This finding highlights the cultural exchanges of ancient times and may provide archaeologists with new insights into human activities during that period. Such archaeological discoveries enhance our understanding of history and could influence future research directions."
+          "analysis_zh": "在泰国发现了两千年前的金戒指，这些戒指与人骨一起出土。其中一枚戒指上刻有古印度文字。这一发现不仅为考古学家提供了关于古代文明的宝贵信息，也可能揭示出当时的文化交流和贸易网络。这些金戒指的出土，可能会吸引更多的研究和探索，进一步丰富我们对东南亚历史的理解。",
+          "analysis_en": "Two thousand-year-old gold rings were discovered in Thailand alongside human bones, with one of the rings featuring an inscription in ancient Indian script. This finding offers valuable insights into ancient civilizations and may reveal cultural exchanges and trade networks of the time. The discovery of these rings could lead to increased research and exploration, further enriching our understanding of Southeast Asian history."
         },
         {
           "rank": 8,
@@ -375,8 +375,8 @@
           "link": "https://www.nytimes.com/2026/07/06/arts/design/richard-h-glanton-dead.html",
           "source": "NYT > Arts",
           "published_utc": "2026-07-06 19:32 UTC",
-          "analysis_zh": "理查德·H·格兰顿，巴恩斯基金会的争议领导者，于79岁去世。他在1990年代将该艺术机构的80幅画作带上巡回展览，尽管这与创始人的意愿相悖，目的是为翻修筹集资金。这一举动引发了广泛的争议，但也为基金会的未来发展提供了资金支持。格兰顿的去世意味着艺术界失去了一位具有争议性的领导者，他的决策将继续影响巴恩斯基金会的方向和声誉。",
-          "analysis_en": "Richard H. Glanton, the controversial head of the Barnes Foundation, has passed away at the age of 79. In the 1990s, he took 80 of the institution's paintings on a tour, contrary to the founder's wishes, to raise funds for renovations. This move sparked significant controversy but also provided financial support for the foundation's future. Glanton's death marks the loss of a contentious leader in the art world, and his decisions will continue to influence the direction and reputation of the Barnes Foundation."
+          "analysis_zh": "理查德·H·格兰顿，巴恩斯基金会的激进领导者，于79岁时去世。他在1990年代将该艺术机构的80幅画作进行巡展，尽管这与创始人的意愿相悖，目的是为翻新筹集资金。这一举动引发了广泛争议，但也为基金会的未来发展提供了资金支持。格兰顿的去世不仅标志着一个时代的结束，也可能影响到巴恩斯基金会的管理和艺术展览的方向。",
+          "analysis_en": "Richard H. Glanton, the combative head of the Barnes Foundation, has passed away at the age of 79. In the 1990s, he controversially took 80 paintings from the institution on tour, contrary to the founder's wishes, in order to raise funds for renovations. This decision sparked significant debate but ultimately provided crucial financial support for the foundation's future. Glanton's death marks the end of an era and may influence the management and direction of art exhibitions at the Barnes Foundation."
         },
         {
           "rank": 9,
@@ -384,8 +384,8 @@
           "link": "https://www.artnews.com/art-news/news/rediscovered-early-velazquez-portrait-salvador-salort-pons-1234791182/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-07-06 18:51 UTC",
-          "analysis_zh": "底特律艺术学院的院长最近宣布，一幅西班牙伯爵-公爵的肖像画被重新归属于著名画家委拉斯凯兹。这幅画最早于1970年被发现，并一直由私人收藏。此次重新归属的重要性在于，它不仅提升了这幅作品的艺术价值，还可能改变人们对委拉斯凯兹创作风格的理解。这一发现也可能引发对其他类似作品的重新审视，进一步推动艺术界的研究与讨论。",
-          "analysis_en": "The director of the Detroit Institute of Arts recently announced that a portrait of a Spanish Count-Duke has been newly attributed to the renowned painter Velázquez. This painting was first revealed in 1970 and has been in private collection since then. The significance of this reattribution lies in its potential to enhance the artwork's value and alter perceptions of Velázquez's style. This discovery may also prompt a reevaluation of other similar works, further stimulating research and discussion within the art community."
+          "analysis_zh": "底特律艺术学院的院长最近宣布，一幅西班牙伯爵-公爵的肖像画被重新归属为著名画家委拉斯凯兹的作品。这幅画最早在1970年被发现，现由私人收藏。此项发现不仅为艺术界增添了一件重要作品，也可能改变我们对委拉斯凯兹创作风格和历史的理解。",
+          "analysis_en": "The Director of the Detroit Institute of Arts recently announced that a portrait of a Spanish Count-Duke has been newly attributed to the renowned artist Velázquez. The painting was first revealed in 1970 and is currently held in a private collection. This discovery not only adds an important piece to the art world but may also alter our understanding of Velázquez's artistic style and historical context."
         },
         {
           "rank": 10,
@@ -393,8 +393,8 @@
           "link": "https://www.artnews.com/art-news/news/byzantine-era-city-found-egypt-western-desert-1234791177/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-07-06 18:45 UTC",
-          "analysis_zh": "考古学家在埃及西部沙漠发现了一座保存完好的拜占庭时期城市遗址。这一四世纪的定居点揭示了街道格局、住宅和宗教建筑以及防御工事等重要结构。这一发现不仅为研究古代拜占庭文明提供了宝贵的实物证据，也可能改变我们对该地区历史发展的理解。随着考古工作的深入，未来可能会有更多关于这一时期社会、经济和文化的洞见。",
-          "analysis_en": "Archaeologists have uncovered a well-preserved Byzantine-era city in Egypt's Western Desert. This fourth-century settlement revealed significant structures, including a street grid, residential and religious buildings, and fortifications. This discovery provides valuable physical evidence for studying ancient Byzantine civilization and may alter our understanding of the historical development of the region. As excavation efforts continue, more insights into the social, economic, and cultural aspects of this period may emerge."
+          "analysis_zh": "考古学家在埃及西部沙漠发现了一座保存完好的拜占庭时期城市遗址，时间可追溯至四世纪。此次发掘揭示了城市的街道格局、住宅和宗教建筑以及防御工事。这一发现不仅为研究古代拜占庭文明提供了重要资料，也可能改变我们对该地区历史发展的理解。随着更多考古工作的进行，未来可能会有更多关于古代生活和文化的发现。",
+          "analysis_en": "Archaeologists have uncovered a well-preserved Byzantine-era city in Egypt's Western Desert, dating back to the fourth century. The excavation revealed a street grid, residential and religious buildings, and fortifications. This discovery is significant as it provides crucial insights into ancient Byzantine civilization and may alter our understanding of the historical development of the region. As further archaeological work continues, more findings about ancient life and culture may emerge."
         }
       ]
     }
