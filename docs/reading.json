@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-12 15:02:38 UTC",
-  "generated_at_unix": 1783868558,
+  "generated_at": "2026-07-12 21:27:08 UTC",
+  "generated_at_unix": 1783891628,
   "window": {
-    "from_utc": "2026-07-11 15:02:38 UTC",
-    "to_utc": "2026-07-12 15:02:38 UTC",
+    "from_utc": "2026-07-11 21:27:08 UTC",
+    "to_utc": "2026-07-12 21:27:08 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,99 +14,99 @@
       "items": [
         {
           "rank": 1,
-          "title": "U.S. and Iran trade airstrikes again amid conflicting claims over Strait of Hormuz",
-          "link": "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-07-12 14:48 UTC",
-          "analysis_zh": "美国与伊朗再次发生空袭，双方各自指责对方在霍尔木兹海峡的行为。此次冲突的升级引发了国际社会的广泛关注，因为霍尔木兹海峡是全球重要的石油运输通道。局势的紧张可能会影响国际油价的波动，并加剧中东地区的安全局势。",
-          "analysis_en": "The U.S. and Iran have engaged in airstrikes against each other, with both sides accusing the other of provocations in the Strait of Hormuz. This escalation has drawn significant international attention, as the Strait is a crucial route for global oil transportation. The heightened tensions could lead to fluctuations in international oil prices and further exacerbate security issues in the Middle East."
-        },
-        {
-          "rank": 2,
-          "title": "Why UBS says the bull market can survive higher rates?",
-          "link": "https://www.investing.com/news/stock-market-news/why-ubs-says-the-bull-market-can-survive-higher-rates-4787368",
-          "source": "Stock Market News",
-          "published_utc": "2026-07-12 14:28 UTC",
-          "analysis_zh": "瑞士银行（UBS）最近发表了一份报告，指出尽管利率上升，牛市仍有可能持续。报告分析了当前经济形势及市场反应，认为投资者对未来经济增长的信心依然强劲。此观点的重要性在于，它可能影响投资者的决策，促使更多资金流入股市，从而进一步推动市场上涨。",
-          "analysis_en": "UBS recently released a report suggesting that the bull market could continue despite rising interest rates. The report analyzes the current economic situation and market reactions, indicating that investor confidence in future economic growth remains strong. This perspective is significant as it may influence investor decisions, potentially leading to increased capital inflows into the stock market and further driving market gains."
-        },
-        {
-          "rank": 3,
-          "title": "Nvidia signals broadening AI demand, keeps next-generation roadmap unchanged",
-          "link": "https://www.investing.com/news/stock-market-news/nvidia-signals-broadening-ai-demand-keeps-nextgeneration-roadmap-unchanged-4787367",
-          "source": "Stock Market News",
-          "published_utc": "2026-07-12 14:12 UTC",
-          "analysis_zh": "英伟达最近表示，人工智能的需求正在扩大，并且将其下一代产品路线图保持不变。这一消息表明，市场对AI技术的兴趣持续增长，可能会推动相关行业的投资和发展。保持路线图不变也意味着公司对未来技术的信心，可能会吸引更多投资者关注其股票。整体来看，这将对科技行业产生深远影响，尤其是在AI领域。",
-          "analysis_en": "Nvidia recently announced that the demand for artificial intelligence is broadening while keeping its next-generation product roadmap unchanged. This indicates a sustained interest in AI technology, which could drive investment and growth in related industries. By maintaining its roadmap, the company shows confidence in future technologies, potentially attracting more investors to its stock. Overall, this will have a significant impact on the tech industry, particularly in the AI sector."
-        },
-        {
-          "rank": 4,
           "title": "Sen. Lindsey Graham, influential lawmaker and Trump ally, dies at 71 after a brief illness",
           "link": "https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html",
           "source": "US Top News and Analysis",
-          "published_utc": "2026-07-12 14:09 UTC",
-          "analysis_zh": "南卡罗来纳州的共和党参议员林赛·格雷厄姆因短暂疾病去世，享年71岁。他刚刚结束了一次前往乌克兰的访问。格雷厄姆在美国政治中具有重要影响力，他的去世可能会对共和党内部的权力平衡产生深远影响，尤其是在即将到来的选举中。他的缺席可能会改变一些政策的走向，并影响与其他国家的外交关系。",
-          "analysis_en": "Senator Lindsey Graham, a prominent Republican from South Carolina, has died at the age of 71 after a brief illness. He had recently returned from a trip to Ukraine. Graham was a significant figure in American politics, and his passing may have a profound impact on the power dynamics within the Republican Party, especially with upcoming elections on the horizon. His absence could shift policy directions and influence diplomatic relations with other countries."
+          "published_utc": "2026-07-12 21:23 UTC",
+          "analysis_zh": "南卡罗来纳州的共和党参议员林赛·格雷厄姆在短暂的疾病后去世，享年71岁。作为特朗普的亲密盟友，格雷厄姆在美国政治中具有重要影响力。他刚刚结束对乌克兰的访问，这一事件可能会对美国的外交政策产生深远影响，尤其是在对乌克兰的支持方面。格雷厄姆的去世可能会导致共和党内部的权力结构发生变化，并影响未来的立法进程。",
+          "analysis_en": "Senator Lindsey Graham, a prominent Republican from South Carolina and a close ally of Trump, has passed away at the age of 71 after a brief illness. His significant influence in American politics was underscored by his recent trip to Ukraine, which highlights the potential impact on U.S. foreign policy, particularly regarding support for Ukraine. Graham's death may lead to shifts in the power dynamics within the Republican Party and could affect future legislative processes."
+        },
+        {
+          "rank": 2,
+          "title": "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
+          "link": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-07-12 20:29 UTC",
+          "analysis_zh": "近日，埃隆·马斯克与山姆·奥特曼在社交平台X上发生争执，原因是奥特曼认为马斯克因OpenAI模型的发布而再次对他产生了执念。这一事件引发了广泛关注，因为两位科技巨头之间的对抗可能会影响人工智能领域的竞争格局。随着OpenAI的技术不断发展，马斯克和奥特曼之间的争论也可能对投资者和行业发展产生重要影响。",
+          "analysis_en": "Recently, Elon Musk and Sam Altman engaged in a dispute on social media platform X, with Altman claiming that Musk has become obsessed with him again due to the release of an OpenAI model. This incident has garnered significant attention as the rivalry between these two tech giants could influence the competitive landscape of the artificial intelligence sector. As OpenAI's technology continues to evolve, the arguments between Musk and Altman may also have important implications for investors and the industry's future development."
+        },
+        {
+          "rank": 3,
+          "title": "Dow Jones Futures Loom Amid New U.S.-Iran Attacks; Nvidia, Micron, Sandisk Near Buy Points",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-attacks-nvidia-micron-sandisk-taiwan-semiconductor/?src=A00220&yptr=yahoo",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-07-12 20:20 UTC",
+          "analysis_zh": "美国和伊朗之间的紧张局势再次升级，导致道琼斯期货市场受到影响。这一事件引发了投资者的广泛关注，因为地缘政治风险可能会对股市产生重大影响。同时，科技股如英伟达、美光和闪迪等也接近买入点，吸引了投资者的目光。这种市场波动可能会影响投资者的决策，尤其是在不确定性加大的情况下。",
+          "analysis_en": "Tensions between the U.S. and Iran have escalated once again, impacting the Dow Jones futures market. This situation has drawn significant attention from investors, as geopolitical risks could have a substantial effect on the stock market. At the same time, tech stocks like Nvidia, Micron, and Sandisk are nearing buy points, capturing investors' interest. Such market fluctuations may influence investors' decisions, especially amid increasing uncertainty."
+        },
+        {
+          "rank": 4,
+          "title": "Why Citigroup is the one to watch when banks report earnings this week",
+          "link": "https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-07-12 19:31 UTC",
+          "analysis_zh": "在本周的银行财报发布中，花旗银行被认为是最值得关注的银行之一。根据分析，花旗银行在某一重要指标上预计将显示出最大的改善，这对投资者来说是一个积极的信号。然而，尽管有进展，花旗银行仍需努力才能达到其自身的业绩目标。这一情况可能会影响投资者对该银行的信心，并对其未来的股价走势产生重要影响。",
+          "analysis_en": "This week, Citigroup is highlighted as one of the banks to watch during earnings reports. Analysts expect it to show the most significant improvement in a key performance measure, which is a positive sign for investors. However, despite this progress, Citigroup still has a long way to go to meet its own performance targets. This situation could impact investor confidence in the bank and significantly influence its future stock price movements."
         },
         {
           "rank": 5,
-          "title": "Goldman Sachs flags Fed rate outlook as key risk for U.S. stocks ahead of CPI",
-          "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-flags-fed-rate-outlook-as-key-risk-for-us-stocks-ahead-of-cpi-4787366",
-          "source": "Stock Market News",
-          "published_utc": "2026-07-12 14:01 UTC",
-          "analysis_zh": "高盛指出，美联储的利率前景是美国股市面临的主要风险之一，尤其是在消费者物价指数（CPI）公布之前。这一警告引发了市场的关注，因为利率变化可能直接影响企业盈利和投资者信心。如果美联储继续加息，可能会导致股市波动加剧，投资者需谨慎应对未来的市场变化。",
-          "analysis_en": "Goldman Sachs has flagged the Federal Reserve's rate outlook as a key risk for U.S. stocks, particularly ahead of the Consumer Price Index (CPI) release. This warning has drawn market attention, as changes in interest rates can directly impact corporate earnings and investor confidence. If the Fed continues to raise rates, it could lead to increased volatility in the stock market, prompting investors to approach future market changes with caution."
+          "title": "You don’t have to be rich to be financially independent. Here’s how to take control of your money.",
+          "link": "https://www.marketwatch.com/story/you-dont-have-to-be-rich-to-be-financially-independent-heres-how-to-take-control-of-your-money-5345f146?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-07-12 19:27 UTC",
+          "analysis_zh": "最近的一篇文章指出，财务独立并不一定需要高收入或热门股票的支持。依赖这些因素可能会导致财务上的危险。文章强调，最稳妥的财务规划是要为突发危机做好准备。这一观点对许多人来说非常重要，因为它提醒我们在投资和理财时要保持谨慎，避免过度依赖短期收益。这样的思维方式可能会影响个人的理财策略，促使更多人关注长期稳定的财务规划。",
+          "analysis_en": "A recent article highlights that financial independence does not necessarily require a high salary or hot stocks. Relying on these factors can lead to financial risks. The article emphasizes that the most secure financial plans prepare for sudden crises. This perspective is crucial for many, as it reminds us to be cautious in investing and managing finances, avoiding over-reliance on short-term gains. Such a mindset may influence personal financial strategies, encouraging more individuals to focus on long-term stable financial planning."
         },
         {
           "rank": 6,
-          "title": "Earnings estimates have been following an unusual pattern this time around",
-          "link": "https://www.marketwatch.com/story/earnings-estimates-have-been-following-an-unusual-pattern-this-time-around-fbebfb62?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-07-12 14:00 UTC",
-          "analysis_zh": "近期，分析师在第二季度财报发布前的预期普遍上调，这与以往的趋势截然不同。通常情况下，分析师会在财报发布前几个月降低预期，但由于能源和科技行业的强劲表现，市场对收益的预期反而上升。这一变化表明，投资者对这些行业的信心增强，可能会影响股市的整体表现和投资策略。",
-          "analysis_en": "Recently, analysts have adjusted their earnings estimates upward ahead of the second-quarter reports, which is a departure from the usual trend. Typically, analysts lower their estimates in the months leading up to earnings releases, but strong performances in the energy and tech sectors have led to increased expectations. This shift indicates growing investor confidence in these industries, which may impact overall market performance and investment strategies."
+          "title": "'Funflation' hits home: Why staying in isn't the cost-saver it used to be",
+          "link": "https://www.cnbc.com/2026/07/11/funflation-streaming-video-games-xbox-apple-disney-netflix.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-07-12 19:17 UTC",
+          "analysis_zh": "最近，由于价格上涨，许多家庭娱乐活动如观看电影和玩视频游戏的成本也随之增加。这种现象被称为“乐趣通胀”，意味着即使在家中消遣的费用也在不断上升。这一趋势对家庭预算产生了压力，可能导致人们在其他消费上更加谨慎。随着娱乐成本的增加，消费者可能会重新考虑他们的消费习惯，影响整体经济的消费模式。",
+          "analysis_en": "Recently, many at-home leisure activities, such as streaming movies and playing video games, have become more expensive due to rising prices. This phenomenon is referred to as \"funflation,\" indicating that even home entertainment costs are on the rise. This trend puts pressure on household budgets and may lead people to be more cautious with their spending in other areas. As entertainment costs increase, consumers might reconsider their spending habits, potentially affecting overall economic consumption patterns."
         },
         {
           "rank": 7,
-          "title": "The No. 1 decision for aging retirees: Stay at home or move into a senior community?",
-          "link": "https://www.marketwatch.com/story/the-no-1-decision-for-aging-retirees-stay-at-home-or-move-into-a-senior-community-4ea23d02?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-07-12 13:30 UTC",
-          "analysis_zh": "最近有一项研究探讨了老年退休人员在居住选择上的决策，尤其是留在自己长期居住的家中还是搬入老年社区。这个问题的重要性在于，许多退休人员在面对生活方式的变化时，往往低估了留在家中所需的规划和准备。选择留在家中可能会影响他们的生活质量和健康状况，因此需要仔细考虑。随着人口老龄化，这一决策将对社会的医疗和住房需求产生深远的影响。",
-          "analysis_en": "A recent study explored the decision-making process for aging retirees regarding their living arrangements, particularly whether to stay in their longtime homes or move into senior communities. This issue is significant because many retirees often underestimate the planning and preparation required to remain at home. Choosing to stay may impact their quality of life and health, making careful consideration essential. As the population ages, this decision could have profound implications for healthcare and housing needs in society."
+          "title": "Elon Musk roasts OpenAI's Apple lawsuit — but Altman hits back: 'You're the one selling investors on space datacenters'",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-roasts-openais-apple-191500316.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-07-12 19:15 UTC",
+          "analysis_zh": "近日，埃隆·马斯克对OpenAI提起的苹果诉讼进行了嘲讽，称其为“无稽之谈”。这一事件的重要性在于，马斯克与OpenAI的创始人山姆·阿尔特曼之间的争论，反映了科技行业内部的竞争与分歧。此事可能会影响投资者对OpenAI及其未来发展的信心，尤其是在人工智能领域的竞争日益激烈的背景下。",
+          "analysis_en": "Recently, Elon Musk mocked OpenAI's lawsuit against Apple, calling it \"nonsense.\" This incident is significant as it highlights the ongoing rivalry and disagreements within the tech industry, particularly between Musk and OpenAI's founder, Sam Altman. The situation could impact investors' confidence in OpenAI and its future developments, especially given the increasing competition in the field of artificial intelligence."
         },
         {
           "rank": 8,
-          "title": "The stock-market rally now hinges more on AI than oil",
-          "link": "https://www.marketwatch.com/story/the-stock-market-rally-now-hinges-more-on-ai-than-oil-1292260a?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-07-12 13:00 UTC",
-          "analysis_zh": "随着财报季的开始，人工智能投资已成为市场关注的焦点。近期股市的反弹更多地依赖于AI技术的发展，而非传统的石油市场。这一变化表明，投资者对科技领域的信心正在增强，可能会推动更多资金流入AI相关公司，从而影响整体市场的走向。",
-          "analysis_en": "As the earnings season begins, investment in artificial intelligence has become the focal point of the market. The recent stock market rally is increasingly reliant on advancements in AI rather than traditional oil markets. This shift indicates a growing confidence among investors in the tech sector, which could lead to more capital flowing into AI-related companies and subsequently influence the overall market direction."
+          "title": "Meta to put AI chip into production in September as it looks to double computing capacity, memo shows",
+          "link": "https://www.investing.com/news/stock-market-news/meta-to-put-ai-chip-into-production-in-september-as-it-looks-to-double-computing-capacity-memo-shows-4787372",
+          "source": "Stock Market News",
+          "published_utc": "2026-07-12 19:00 UTC",
+          "analysis_zh": "Meta公司计划在九月份开始生产其人工智能芯片，旨在将计算能力翻倍。这一举措不仅显示了Meta在人工智能领域的雄心，也反映了其对未来技术发展的重视。随着计算能力的提升，Meta可能会在机器学习和数据处理方面取得更大的突破，从而增强其在竞争激烈的科技市场中的地位。",
+          "analysis_en": "Meta is set to begin production of its AI chip in September, aiming to double its computing capacity. This move highlights Meta's ambition in the field of artificial intelligence and underscores its commitment to future technological advancements. With increased computing power, Meta could achieve significant breakthroughs in machine learning and data processing, thereby strengthening its position in the highly competitive tech market."
         },
         {
           "rank": 9,
-          "title": "Burnout, frustration and heartbreak: Amazon layoffs take their toll in saturated job market",
-          "link": "https://www.cnbc.com/2026/07/11/burnout-frustration-and-heartbreak-amazon-layoffs-take-their-toll.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-07-12 12:47 UTC",
-          "analysis_zh": "亚马逊在过去八个月中进行了史上最大规模的裁员，这使得被裁员工在日益饱和的劳动市场中面临更大的挑战。此次裁员不仅影响了数千名员工的生活，也反映了科技行业整体经济形势的变化。随着求职竞争的加剧，许多失业者可能会面临更长时间的失业期，这将对他们的心理健康和经济状况产生深远影响。",
-          "analysis_en": "In the past eight months, Amazon has implemented its largest layoffs ever, leaving many affected workers struggling in an increasingly saturated job market. This mass layoff not only disrupts the lives of thousands but also highlights the broader economic shifts within the tech industry. As competition for jobs intensifies, many unemployed individuals may face prolonged periods of joblessness, which could have significant repercussions on their mental health and financial stability."
+          "title": "Is the AI Bubble About to Burst?",
+          "link": "https://finance.yahoo.com/technology/ai/articles/ai-bubble-burst-190000071.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-07-12 19:00 UTC",
+          "analysis_zh": "近期关于人工智能（AI）投资的讨论愈发热烈，许多分析师开始担心AI泡沫可能即将破裂。随着大量资金涌入这一领域，市场对AI技术的期待也随之飙升。然而，过度的乐观情绪可能导致投资者忽视潜在的风险，进而影响整体市场的稳定性。如果泡沫破裂，可能会对相关企业的股价和投资者信心造成重大打击。",
+          "analysis_en": "Recent discussions surrounding investment in artificial intelligence (AI) have intensified, with many analysts expressing concerns that the AI bubble may be on the verge of bursting. As significant amounts of capital flow into this sector, market expectations for AI technology have soared. However, excessive optimism may lead investors to overlook potential risks, which could affect overall market stability. If the bubble were to burst, it could have a significant impact on the stock prices of related companies and investor confidence."
         },
         {
           "rank": 10,
-          "title": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.10%",
-          "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-higher-at-close-of-trade-tadawul-all-share-up-010-4787348",
-          "source": "Stock Market News",
-          "published_utc": "2026-07-12 12:45 UTC",
-          "analysis_zh": "沙特阿拉伯股市在交易结束时上涨，塔达乌尔综合指数上涨了0.10%。这一小幅上涨反映了市场对经济复苏的信心，尤其是在全球经济不确定性加剧的背景下。投资者可能会关注这一趋势，认为它可能预示着未来更强劲的市场表现。",
-          "analysis_en": "Saudi Arabia's stock market closed higher, with the Tadawul All Share Index rising by 0.10%. This modest increase reflects market confidence in economic recovery, particularly amid growing global economic uncertainties. Investors may pay attention to this trend, seeing it as a potential indicator of stronger market performance in the future."
+          "title": "'LOL ... so funny': Apple says ex-engineer stole secrets and coached a colleague to do the same. He now works at OpenAI",
+          "link": "https://finance.yahoo.com/technology/ai/articles/lol-funny-apple-says-ex-190000424.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-07-12 19:00 UTC",
+          "analysis_zh": "苹果公司指控一名前工程师窃取公司机密，并教唆同事进行类似行为。此事件引发了对知识产权保护的广泛关注，尤其是在科技行业中，企业间的竞争愈发激烈。此案可能会影响苹果在技术创新方面的信任度，并对其他科技公司在处理内部信息安全时的策略产生影响。",
+          "analysis_en": "Apple has accused a former engineer of stealing company secrets and coaching a colleague to do the same. This incident has raised significant concerns about intellectual property protection, particularly in the highly competitive tech industry. The case could impact Apple's credibility in terms of technological innovation and may influence how other tech companies approach their internal information security strategies."
         }
       ]
     },
     "健康": {
       "description": "医学、营养、抗衰老、代谢与公共健康",
-      "count": 8,
+      "count": 6,
       "items": [
         {
           "rank": 1,
@@ -114,8 +114,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/07/260710003535.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-07-12 12:53 UTC",
-          "analysis_zh": "研究人员发现，tau蛋白不仅与阿尔茨海默病相关，还在将新体验转化为持久记忆中发挥着重要作用。该研究表明，tau蛋白有助于组织和稳定大脑中的记忆存储细胞，从而使记忆能够长期保留。这一发现对理解健康记忆的运作机制至关重要，并可能为未来开发治疗痴呆症的策略提供指导。尽管研究是在小鼠身上进行的，但结果为未来的痴呆症研究和治疗提供了宝贵线索。",
-          "analysis_en": "Researchers have found that tau protein, known for its association with Alzheimer's disease, also plays a crucial role in transforming new experiences into lasting memories. The study indicates that tau helps organize and stabilize memory-storing cells in the brain, allowing memories to be retained over time. This discovery is vital for understanding how healthy memory functions and could guide future strategies for developing dementia treatments. Although the research was conducted in mice, the findings offer valuable insights that may influence future dementia research and therapies."
+          "analysis_zh": "研究人员发现，tau蛋白在将新体验转化为持久记忆中起着至关重要的作用，它帮助组织大脑的记忆存储细胞。这项研究表明，异常的tau蛋白可能会通过干扰新记忆的形成和现有记忆的回忆，促进阿尔茨海默病的发展。这一发现不仅加深了我们对健康记忆运作机制的理解，也为未来开发治疗痴呆症的策略提供了新的线索。",
+          "analysis_en": "Researchers have found that tau protein plays a crucial role in converting new experiences into lasting memories by helping to organize the brain's memory-storing cells. This study indicates that abnormal tau may contribute to the development of Alzheimer's disease by disrupting both the formation of new memories and the recall of existing ones. This discovery not only enhances our understanding of how healthy memory functions but also provides valuable insights that could guide future strategies for developing dementia treatments."
         },
         {
           "rank": 2,
@@ -123,8 +123,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/07/260710003521.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-07-12 10:07 UTC",
-          "analysis_zh": "阿拉巴马大学亨茨维尔分校的研究人员发现，持续低强度的超声波治疗可能有助于受伤关节的愈合，避免其陷入持续的炎症循环。这种简单且非侵入性的治疗方法能够促使关键的免疫细胞——巨噬细胞，从炎症状态转变为支持组织修复的状态。这项研究的重要性在于，它提供了一种无药物的治疗策略，可能有助于降低创伤后骨关节炎的风险，改善关节健康。",
-          "analysis_en": "Researchers at The University of Alabama in Huntsville have discovered that continuous low-intensity ultrasound treatment may help injured joints heal, preventing them from becoming trapped in a cycle of chronic inflammation. This simple, non-invasive method encourages key immune cells known as macrophages to shift from an inflammatory state to one that supports tissue repair. The significance of this research lies in its potential to offer a drug-free strategy for reducing the risk of post-traumatic osteoarthritis and improving joint health."
+          "analysis_zh": "阿拉巴马大学亨茨维尔分校的研究人员发现，持续低强度的超声波治疗可能有助于治疗关节损伤，并降低创伤后骨关节炎的风险。这种非侵入性的方法可以促使免疫系统从长期炎症状态转向支持组织修复的状态，从而为关节的愈合提供一种无药物的策略。这项研究的重要性在于，它为关节炎的预防和治疗提供了新的思路，可能会改变目前的治疗方法，减少对药物的依赖。",
+          "analysis_en": "Researchers at The University of Alabama in Huntsville have discovered that continuous low-intensity ultrasound treatment could help heal joint injuries and reduce the risk of post-traumatic osteoarthritis. This non-invasive approach may shift the immune system from a prolonged inflammatory state to one that supports tissue repair, offering a drug-free strategy for healing. The significance of this research lies in its potential to provide new insights into the prevention and treatment of arthritis, which could change current treatment methods and reduce reliance on medications."
         },
         {
           "rank": 3,
@@ -132,8 +132,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/07/260712011912.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-07-12 07:42 UTC",
-          "analysis_zh": "乔治城大学的研究人员发现，经过大量训练后，大脑能够重新组织自身结构，从而使得学习到的任务可以绕过前额叶皮层，通过专门的神经回路进行处理。这一发现挑战了人们长期以来认为人类只能快速切换任务，而无法真正进行多任务处理的观点。研究表明，经过充分的练习，人们能够在同时进行多项活动时表现得更好，这对我们理解习惯形成、行为改变的难度以及未来人工智能系统的技能学习都有重要意义。",
-          "analysis_en": "Researchers at Georgetown University have discovered that extensive training can physically reorganize the brain, allowing learned tasks to bypass the prefrontal cortex and utilize specialized circuits. This finding challenges the long-held belief that humans can only switch tasks quickly rather than truly multitask. The study suggests that with enough practice, individuals can perform multiple activities simultaneously more effectively, which has significant implications for understanding habit formation, the difficulty of changing behaviors, and how future artificial intelligence systems might learn new skills."
+          "analysis_zh": "研究人员发现，经过大量训练后，大脑会重新组织自身，从而使得学习到的任务能够绕过前额叶皮层，直接通过专门的神经通路进行处理。这一发现挑战了人们长期以来认为人类只能快速切换任务，而无法真正进行多任务处理的观点。此项研究不仅对日常生活有重要意义，还可能帮助科学家更好地理解习惯的形成、行为改变的难度，以及未来人工智能系统如何从以往的学习中更好地构建新技能。",
+          "analysis_en": "Researchers have discovered that extensive training allows the brain to physically reorganize itself, enabling learned tasks to bypass the prefrontal cortex and utilize specialized circuits. This finding challenges the long-held belief that humans can only switch quickly between tasks rather than genuinely multitask. The implications of this research extend beyond everyday life, potentially aiding scientists in understanding habit formation, the difficulty of changing behaviors, and how future artificial intelligence systems might improve in acquiring new skills from prior learning."
         },
         {
           "rank": 4,
@@ -141,8 +141,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/07/260711010131.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-07-12 03:11 UTC",
-          "analysis_zh": "哥伦比亚大学的科学家发现了血清素与心脏瓣膜疾病之间的意外联系。研究表明，某些携带特定基因变异的患者，如果服用选择性血清素再摄取抑制剂（SSRI）抗抑郁药，可能会加速退行性二尖瓣反流的进展，导致更早出现严重的瓣膜损伤，甚至需要手术。这一发现的重要性在于，它可能改变我们对心脏瓣膜疾病的治疗方式，并促使医生在开处方时考虑患者的基因背景。",
-          "analysis_en": "Columbia University scientists have discovered an unexpected link between serotonin and heart valve disease. The research indicates that patients with degenerative mitral regurgitation who take selective serotonin reuptake inhibitors (SSRIs) and carry a specific genetic variant may experience accelerated progression of valve damage, potentially requiring surgery at a younger age. This finding is significant as it could change the way heart valve diseases are treated and encourage doctors to consider patients' genetic backgrounds when prescribing medications."
+          "analysis_zh": "哥伦比亚大学的科学家发现，血清素不仅与情绪调节有关，还可能加速某些人心脏瓣膜疾病的进展。研究表明，患有退行性二尖瓣反流的患者，如果同时服用选择性血清素再摄取抑制剂（SSRI）并携带特定基因变异，可能会更早出现严重的瓣膜损伤，甚至需要在年轻时进行手术。这一发现对心脏病患者的治疗方案具有重要意义，可能促使医生在开处方时更加谨慎，考虑患者的基因背景。",
+          "analysis_en": "Columbia University scientists have discovered that serotonin, known for its role in mood regulation, may also accelerate the progression of heart valve disease in some individuals. The research indicates that patients with degenerative mitral regurgitation who take selective serotonin reuptake inhibitors (SSRIs) and carry a specific genetic variant may experience severe valve damage earlier, potentially necessitating surgery at a younger age. This finding is significant for treatment strategies in heart disease, as it may encourage doctors to be more cautious in prescribing medications based on a patient's genetic background."
         },
         {
           "rank": 5,
@@ -150,8 +150,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/07/260710003529.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-07-12 02:06 UTC",
-          "analysis_zh": "耶鲁大学的科学家们发现了两种神经元表面蛋白，这些蛋白似乎在帕金森病的传播中起到了关键作用。研究表明，阻断这些蛋白在小鼠中显著减缓了疾病的进展，这为未来的治疗提供了新的靶点。帕金森病是一种进行性神经系统疾病，随着时间的推移，脑细胞逐渐受损并死亡。了解这些蛋白如何帮助有毒蛋白质在脑细胞之间传播，可能为开发更有效的治疗方法铺平道路。",
-          "analysis_en": "Yale scientists have discovered two neuron surface proteins that appear to play a crucial role in the spread of Parkinson's disease. The study found that blocking these proteins in mice significantly slowed disease progression, offering a new target for future therapies. Parkinson's disease is a progressive neurological disorder where brain cells gradually become damaged and die. Understanding how these proteins facilitate the movement of toxic proteins between brain cells could pave the way for more effective treatment options."
+          "analysis_zh": "耶鲁大学的科学家发现了两种神经元表面蛋白，这些蛋白可能帮助帕金森病相关的有毒蛋白在大脑中传播。研究表明，阻断这些蛋白在小鼠中显著减缓了疾病进展，这为未来的治疗提供了新的潜在靶点。帕金森病是一种逐渐恶化的神经系统疾病，了解有毒蛋白如何进入健康神经元的机制，对开发更有效的治疗方法至关重要。这项发现可能改变我们对帕金森病的治疗策略，不再仅仅是管理症状，而是有望减缓或停止疾病的进展。",
+          "analysis_en": "Yale scientists have discovered two neuron surface proteins that may facilitate the spread of the toxic protein associated with Parkinson's disease in the brain. Blocking these proteins in mice significantly slowed disease progression, presenting a potential new target for future therapies. Parkinson's disease is a progressive neurological disorder, and understanding how the toxic protein enters healthy neurons is crucial for developing more effective treatments. This finding could change the approach to treating Parkinson's disease, shifting the focus from merely managing symptoms to potentially slowing or halting the progression of the disease."
         },
         {
           "rank": 6,
@@ -159,26 +159,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/07/260709160648.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-07-11 23:42 UTC",
-          "analysis_zh": "研究人员发现，常用的降血压药物替米沙坦能够显著提升癌症药物奥拉帕利的疗效，这一发现可能使更多患者受益于这种治疗。替米沙坦与奥拉帕利的联合使用已经在临床试验中进行测试，前期研究显示其具有强大的免疫增强和抗癌效果。这项研究的重要性在于，它可能改变目前癌症治疗的局限性，特别是对于那些不具备BRCA基因突变的患者。若这一组合疗法得到广泛应用，将有望帮助更多癌症患者改善预后。",
-          "analysis_en": "Researchers have found that the common blood pressure medication telmisartan can significantly enhance the effectiveness of the cancer drug olaparib, potentially benefiting a larger group of patients. The combination of telmisartan and olaparib is already being tested in clinical trials, with preclinical studies showing strong immune-boosting and anticancer effects. This research is significant because it could change the limitations of current cancer treatments, especially for patients without BRCA gene mutations. If this combination therapy is widely adopted, it may improve outcomes for many more cancer patients."
-        },
-        {
-          "rank": 7,
-          "title": "An Insider’s Guide to 6 of Vienna’s Splendid Public Pools",
-          "link": "https://www.nytimes.com/2026/07/10/travel/vienna-public-pools.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-07-11 19:47 UTC",
-          "analysis_zh": "维也纳的公共游泳池为人们提供了一个消暑的理想场所。无论是想在泳池中游泳，还是在高大的椴树下休息，这些游泳地点都能满足不同的需求。这些公共泳池不仅为市民提供了休闲和锻炼的机会，还促进了社区的互动与交流。随着夏季的到来，这些游泳池的重要性愈发凸显，成为人们避暑的热门选择。",
-          "analysis_en": "Vienna's public swimming pools offer an ideal place for people to cool off during the summer. Whether you want to swim laps or relax in the shade of towering linden trees, these spots cater to various needs. These public pools not only provide opportunities for leisure and exercise but also foster community interaction and engagement. As summer approaches, the significance of these pools becomes even more pronounced, making them a popular choice for escaping the heat."
-        },
-        {
-          "rank": 8,
-          "title": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
-          "link": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-07-11 19:25 UTC",
-          "analysis_zh": "一名美国公民在刚果民主共和国检测出埃博拉病毒阳性。这位为人道主义组织“撒玛利亚的药箱”工作的美国人是此次疫情中第二位感染者。此事件引发了人们对疫情扩散的担忧，因为埃博拉病毒具有高度传染性，可能对公共卫生构成严重威胁。如果疫情得不到有效控制，可能会影响到更多地区的安全和健康。",
-          "analysis_en": "An American citizen has tested positive for the Ebola virus in the Democratic Republic of Congo. This individual, who works for the humanitarian organization Samaritan's Purse, is the second confirmed case in an ongoing outbreak. The situation raises concerns about the potential spread of the virus, which is highly contagious and poses a significant threat to public health. If the outbreak is not effectively contained, it could impact the safety and health of more regions."
+          "analysis_zh": "研究人员发现，常用的降压药物替米沙坦能够显著提高癌症药物奥拉帕利的疗效，这一发现可能使更多患者受益，超越了仅限于BRCA相关肿瘤的范围。这种药物组合在前期研究中显示出强大的免疫增强和抗癌效果，目前已经进入人类临床试验阶段。这一进展不仅为癌症治疗提供了新的可能性，也为患者带来了希望，尤其是那些无法通过传统疗法获得有效治疗的患者。",
+          "analysis_en": "Researchers have found that the common blood pressure medication telmisartan can significantly enhance the effectiveness of the cancer drug olaparib, potentially benefiting a wider range of patients beyond those with BRCA-related tumors. This combination has shown strong immune-boosting and anticancer effects in preclinical studies and is currently being tested in human clinical trials. This advancement not only opens new possibilities for cancer treatment but also brings hope to patients who have not responded well to traditional therapies."
         }
       ]
     },
@@ -192,8 +174,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/07/260710003535.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-07-12 12:53 UTC",
-          "analysis_zh": "研究人员发现，tau蛋白在将新体验转化为持久记忆中扮演着关键角色，它帮助组织大脑的记忆存储细胞。这项研究揭示了异常tau如何影响阿尔茨海默病，干扰新记忆的形成和现有记忆的回忆。这一发现不仅加深了我们对健康记忆机制的理解，还可能为未来的痴呆症治疗提供新的思路。虽然研究是在小鼠身上进行的，但其结果为未来的研究和治疗策略提供了宝贵线索。",
-          "analysis_en": "Researchers have found that tau protein plays a crucial role in converting new experiences into lasting memories by helping to organize the brain's memory-storing cells. This study also revealed how abnormal tau may contribute to Alzheimer's disease by disrupting the formation of new memories and the recall of existing ones. This discovery enhances our understanding of healthy memory processes and could guide future treatment strategies for dementia. Although the research was conducted in mice, the findings offer valuable insights that may shape future research and treatment approaches."
+          "analysis_zh": "研究人员发现，tau蛋白在将新体验转化为持久记忆中扮演着重要角色，它有助于组织大脑的记忆存储细胞。这项研究揭示了异常的tau蛋白如何影响阿尔茨海默病，干扰新记忆的形成和已有记忆的回忆。该发现不仅为我们理解健康记忆的运作提供了新视角，还可能为未来开发痴呆症的治疗方法提供指导。",
+          "analysis_en": "Researchers have found that tau protein plays a crucial role in converting new experiences into lasting memories by helping to organize the brain's memory-storing cells. This study also revealed how abnormal tau may contribute to Alzheimer's disease by disrupting the formation of new memories and the recall of existing ones. The discovery not only provides new insights into how healthy memory functions but may also guide future efforts in developing treatments for dementia."
         },
         {
           "rank": 2,
@@ -201,8 +183,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/07/260712011912.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-07-12 07:42 UTC",
-          "analysis_zh": "研究人员发现，经过大量训练后，大脑会进行物理重组，使得学习到的任务能够绕过前额皮质，直接通过专门的神经通路进行处理。这一发现挑战了长期以来认为人类只能快速切换任务而无法真正多任务处理的观点。通过释放大脑的“思考”中心，人们在同时进行其他任务时表现得更为出色。这项研究不仅有助于我们理解习惯的形成和改变，还可能对未来人工智能系统的技能学习产生影响。",
-          "analysis_en": "Researchers have found that extensive training physically reorganizes the brain, allowing learned tasks to bypass the prefrontal cortex and be processed through specialized circuits. This discovery challenges the long-held belief that humans can only switch rapidly between tasks rather than truly multitask. By freeing the brain's \"thinking\" center, individuals perform better when engaging in multiple tasks simultaneously. This research not only enhances our understanding of habit formation and change but may also influence how future artificial intelligence systems learn new skills."
+          "analysis_zh": "研究人员发现，经过大量训练后，大脑能够重新组织自身结构，从而实现真正的多任务处理。这一发现挑战了长期以来认为人类只能快速切换任务的观点，表明在掌握技能后，大脑可以同时处理多个活动。这一研究不仅对日常生活有重要意义，还可能帮助科学家更好地理解习惯的形成及其改变的难度，同时为未来人工智能系统的技能学习提供新的思路。",
+          "analysis_en": "Researchers have found that extensive training allows the brain to physically reorganize itself, enabling true multitasking. This discovery challenges the long-held belief that humans can only switch rapidly between tasks, suggesting that once a skill is mastered, the brain can handle multiple activities simultaneously. The implications of this research extend beyond everyday life, as it may help scientists better understand habit formation and the challenges of changing behaviors, while also providing insights for future artificial intelligence systems in skill acquisition."
         },
         {
           "rank": 3,
@@ -210,8 +192,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/07/260710003529.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-07-12 02:06 UTC",
-          "analysis_zh": "耶鲁大学的科学家们发现了两种神经元表面蛋白，这些蛋白可能在帕金森病的传播中起到关键作用。研究表明，阻断这些蛋白在小鼠体内显著减缓了疾病进展，这为未来的治疗提供了新的靶点。帕金森病是一种逐渐恶化的神经系统疾病，了解其传播机制可能有助于开发更有效的治疗方法，而不仅仅是缓解症状。随着美国帕金森病患者人数的增加，这项研究的发现具有重要的公共卫生意义。",
-          "analysis_en": "Yale scientists have identified two neuron surface proteins that may play a crucial role in the spread of Parkinson's disease. Their research indicates that blocking these proteins significantly slows disease progression in mice, providing a potential new target for future therapies. Parkinson's disease is a progressive neurological disorder, and understanding its transmission mechanisms could lead to more effective treatments beyond just symptom management. Given the rising number of Parkinson's patients in the United States, these findings hold significant public health implications."
+          "analysis_zh": "耶鲁大学的科学家们发现了两种神经元表面蛋白，这些蛋白似乎在帕金森病的传播中起到了重要作用。研究表明，阻断这些蛋白可以显著减缓小鼠的疾病进展，这为未来的治疗提供了新的潜在靶点。帕金森病是一种进行性神经系统疾病，随着时间的推移，脑细胞逐渐受损并死亡。了解这些蛋白如何影响疾病的传播，可能会为开发更有效的治疗方法铺平道路。",
+          "analysis_en": "Scientists at Yale University have discovered two neuron surface proteins that appear to play a crucial role in the spread of Parkinson's disease. Their research indicates that blocking these proteins can significantly slow disease progression in mice, offering a new potential target for future therapies. Parkinson's disease is a progressive neurological disorder that leads to the gradual damage and death of brain cells. Understanding how these proteins influence the spread of the disease could pave the way for developing more effective treatment methods."
         }
       ]
     },
@@ -221,84 +203,84 @@
       "items": [
         {
           "rank": 1,
+          "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+          "source": "The Verge",
+          "published_utc": "2026-07-12 20:10 UTC",
+          "analysis_zh": "新西兰歌手Lorde在马德里的Real Cool音乐节上发表了对AI眼镜的批评，尽管她没有明确提到品牌，但很可能是在针对赞助商Ray-Ban与Meta合作推出的智能眼镜。她在表演中提到，现代科技让人难以分辨现实与虚幻，并直言“这些眼镜一点都不性感”。这一言论引发了广泛关注，尤其是在Meta面临对其智能眼镜的重新审视之际。Lorde的评论可能会影响公众对AI眼镜的看法，并促使品牌在设计和营销上更加谨慎。",
+          "analysis_en": "New Zealand singer Lorde criticized AI glasses during her performance at the Real Cool Festival in Madrid, likely targeting the Ray-Ban smart glasses developed in collaboration with Meta, although she did not specify any brands. She expressed that modern technology makes it hard to distinguish between reality and illusion, stating bluntly that \"the glasses are not sexy.\" This comment has garnered significant attention, especially as Meta faces renewed scrutiny over its smart glasses. Lorde's remarks could influence public perception of AI eyewear and prompt brands to be more cautious in their design and marketing strategies."
+        },
+        {
+          "rank": 2,
+          "title": "Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful",
+          "link": "https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review",
+          "source": "The Verge",
+          "published_utc": "2026-07-12 19:40 UTC",
+          "analysis_zh": "《我们是否要继续犯罪，以便恩典增多？》是一张令人着迷、治愈和充满希望的专辑。该专辑由Matmos的成员Drew Daniel以The Soft Pink Truth的名义发布，展现了他在音乐创作上的多样性和创新性。专辑不仅仅是音乐作品，更是对全球法西斯主义上升的深刻反思，这在当今动荡的时代尤为重要。它可能会影响听众对社会现象的思考，并提供一种心理上的慰藉。",
+          "analysis_en": "\"Shall We Go On Sinning So That Grace May Increase?\" is a captivating, healing, and hopeful album released by Drew Daniel under the name The Soft Pink Truth. This work showcases his diversity and creativity in music, moving beyond the experimental focus of Matmos. The album serves as a profound reflection on the rise of global fascism, which is especially significant in today's turbulent times. It may influence listeners' perspectives on social issues and provide a sense of comfort during challenging periods."
+        },
+        {
+          "rank": 3,
+          "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+          "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+          "source": "The Verge",
+          "published_utc": "2026-07-12 16:27 UTC",
+          "analysis_zh": "苹果的自动驾驶汽车项目虽然未能成功，但却为公司的强大人工智能芯片奠定了基础。在早期开发阶段，苹果意识到需要强大的设备端AI处理能力。尽管汽车处理器从未完成，但这项工作促成了神经引擎的开发，成为苹果设备上AI处理的核心。这一技术的进步不仅提升了苹果在AI硬件领域的竞争力，也使其在隐私保护方面具备了优势，因为更少的数据需要上传至云端。",
+          "analysis_en": "Apple's self-driving car program, although ultimately unsuccessful, laid the groundwork for the company's powerful AI chips. Early in its development, Apple recognized the need for robust on-device AI processing capabilities. While the car processor was never completed, this effort led to the creation of the Neural Engine, which is central to Apple's on-device AI processing. This advancement not only strengthened Apple's position in the AI hardware market but also enhanced its privacy features, as less data needs to be sent to the cloud."
+        },
+        {
+          "rank": 4,
           "title": "One of SteelSeries’ best gaming headsets is over $100 off",
           "link": "https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale",
           "source": "The Verge",
           "published_utc": "2026-07-12 15:00 UTC",
-          "analysis_zh": "SteelSeries的Arctis Nova Pro无线游戏耳机目前正在进行促销，售价为239.99美元，较其他零售商的300至350美元的价格便宜了超过100美元。这款耳机支持多种平台，包括Xbox、PlayStation、PC和Switch，提供黑白两种颜色可选。此次折扣主要是因为耳机的包装受损，但耳机本身的性能并未受到影响。这一促销活动可能会吸引更多游戏玩家关注，提高SteelSeries在市场上的竞争力。",
-          "analysis_en": "SteelSeries is currently offering a promotion on the Arctis Nova Pro Wireless gaming headset, priced at $239.99, which is over $100 off the typical retail price of $300 to $350. This headset supports multiple platforms, including Xbox, PlayStation, PC, and Switch, and is available in both black and white. The discount is primarily due to damaged packaging, but the performance of the headset remains unaffected. This promotion could attract more gamers' attention and enhance SteelSeries' competitiveness in the market."
+          "analysis_zh": "SteelSeries的Arctis Nova Pro无线游戏耳机目前正在特价销售，价格为239.99美元，而其他零售商的价格在300到350美元之间。这款耳机支持Xbox、PlayStation、PC和Switch等多个平台，提供黑白两种颜色选择。此次降价主要是因为包装受损，但耳机本身的性能依然出色。这一折扣对于游戏爱好者来说是个不错的机会，可能会刺激更多消费者的购买欲望。",
+          "analysis_en": "The SteelSeries Arctis Nova Pro Wireless gaming headset is currently on sale for $239.99, significantly lower than the typical price range of $300 to $350 at other retailers. This headset supports multiple platforms, including Xbox, PlayStation, PC, and Switch, and is available in both black and white. The discount is primarily due to damaged packaging, but the headset's performance remains high-quality. This price drop presents a great opportunity for gamers, potentially increasing consumer interest and sales."
         },
         {
-          "rank": 2,
+          "rank": 5,
           "title": "How Philips Hue got the smart home right",
           "link": "https://www.theverge.com/podcast/964515/philips-hue-smart-lights-version-history",
           "source": "The Verge",
           "published_utc": "2026-07-12 14:38 UTC",
-          "analysis_zh": "飞利浦Hue智能灯具在智能家居领域取得了显著进展，成为了智能家居的标杆。该产品的设计灵感源自智能手机，使用户能够轻松控制家中的各种设备，而无需进行复杂的改造。这一创新不仅提升了用户体验，也推动了智能家居技术的普及，可能会影响未来更多智能设备的设计和功能。随着智能家居的不断发展，飞利浦Hue的成功经验将为其他品牌提供重要的借鉴。",
-          "analysis_en": "Philips Hue smart lights have made significant strides in the smart home sector, setting a benchmark for the industry. Inspired by smartphones, the product allows users to easily control various devices in their homes without the need for complicated renovations. This innovation not only enhances user experience but also promotes the adoption of smart home technology, potentially influencing the design and functionality of future smart devices. As the smart home landscape continues to evolve, Philips Hue's success will serve as an important reference for other brands."
+          "analysis_zh": "飞利浦Hue智能灯泡在智能家居领域取得了显著成就，成为了智能家居的优秀代表。它的设计理念源于智能手机，旨在让用户能够轻松控制家中的各种设备，而不需要进行复杂的改造。这样的创新不仅提升了用户体验，也推动了智能家居技术的发展，可能会影响未来其他智能设备的设计和功能。",
+          "analysis_en": "Philips Hue smart bulbs have made significant strides in the smart home sector, establishing themselves as a leading example of smart home technology. Inspired by smartphones, their design aims to allow users to easily control various devices in their homes without the need for complicated renovations. This innovation not only enhances user experience but also drives the development of smart home technology, potentially influencing the design and functionality of future smart devices."
         },
         {
-          "rank": 3,
+          "rank": 6,
           "title": "Less is more with the Oura Ring 5",
           "link": "https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables",
           "source": "The Verge",
           "published_utc": "2026-07-12 14:00 UTC",
-          "analysis_zh": "Oura Ring 5的评测显示，这款智能戒指在设计上更薄更轻，但用户体验与之前的Oura Ring 4基本相同。这款戒指适合那些寻找智能手表替代品的新用户，但对于已有Oura用户来说，升级的必要性并不大，因为新款在传感器和电池续航方面并没有显著提升。这一消息对消费者的购买决策至关重要，可能会影响他们对智能穿戴设备的选择。",
-          "analysis_en": "The review of the Oura Ring 5 highlights that this smart ring is thinner and lighter, but the user experience remains largely the same as the previous Oura Ring 4. This device is suitable for newcomers looking for an alternative to smartwatches, but existing Oura users may not find a compelling reason to upgrade, as there are no significant improvements in sensors or battery life. This information is crucial for consumers' purchasing decisions and may influence their choices regarding wearable technology."
+          "analysis_zh": "Oura Ring 5的发布引起了广泛关注，这款智能戒指在设计上更薄更轻，但与前一代Oura Ring 4的用户体验基本相同。这一产品的意义在于，它为希望寻找智能手表替代品的用户提供了一个优秀的健康追踪工具。然而，对于已经拥有Oura Ring 4的用户来说，升级的必要性并不大，因为新款在传感器和电池续航方面并没有显著提升。这可能会影响消费者的购买决策，尤其是在智能穿戴设备市场竞争激烈的背景下。",
+          "analysis_en": "The release of the Oura Ring 5 has garnered significant attention, as this smart ring is thinner and lighter while maintaining a similar user experience to its predecessor, the Oura Ring 4. This product is important because it offers an excellent health tracking option for those seeking an alternative to smartwatches. However, for existing Oura Ring 4 users, the necessity to upgrade is minimal since the new version does not show significant improvements in sensors or battery life. This may influence consumer purchasing decisions, especially in a highly competitive wearable technology market."
         },
         {
-          "rank": 4,
+          "rank": 7,
           "title": "Blue Prince became a bonding — and learning — experience for my family",
           "link": "https://www.theverge.com/games/964262/blue-prince-family-bonding",
           "source": "The Verge",
           "published_utc": "2026-07-12 13:00 UTC",
-          "analysis_zh": "这篇文章讲述了一位父亲与他的妻子和儿子通过游戏《蓝色王子》建立更紧密联系的经历。随着儿子的成长，父亲一直期待着与他分享游戏的乐趣，而《蓝色王子》不仅让他们的关系更加亲密，也为他们提供了共同挑战的机会。这一经历突显了家庭成员之间通过共同兴趣建立联系的重要性，可能会激励更多家庭在游戏中寻找互动和学习的机会。",
-          "analysis_en": "The article describes a father's experience of bonding with his wife and son through the game \"Blue Prince.\" As his son grew up, the father looked forward to sharing gaming experiences, and \"Blue Prince\" not only strengthened their relationship but also provided them with shared challenges. This experience highlights the importance of family members connecting through common interests, which may encourage more families to seek interaction and learning opportunities through gaming."
+          "analysis_zh": "这篇文章讲述了一位父亲与他的儿子和妻子通过游戏《蓝色王子》建立更紧密联系的经历。随着儿子的成长，父亲期待与他分享游戏的乐趣，而《蓝色王子》不仅让他们在游戏中互动，也促进了家庭成员之间的情感交流。这一经历的重要性在于，它展示了现代科技如何成为家庭沟通和学习的桥梁，可能会激励其他家庭也尝试通过共同的兴趣来增进彼此的关系。",
+          "analysis_en": "The article describes a father's experience of bonding with his son and wife through the game \"Blue Prince.\" As his son grew up, the father looked forward to sharing gaming moments, and \"Blue Prince\" not only allowed them to interact in the game but also strengthened their emotional connections. This experience is significant as it illustrates how modern technology can serve as a bridge for family communication and learning, potentially inspiring other families to enhance their relationships through shared interests."
         },
         {
-          "rank": 5,
+          "rank": 8,
           "title": "The fight against AI data centers is just beginning",
           "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
           "source": "The Verge",
           "published_utc": "2026-07-12 12:00 UTC",
-          "analysis_zh": "随着人工智能技术的迅速发展，全球范围内建设大型AI数据中心的计划正在增加。然而，社区成员对此表示反对，主要是因为担心能源成本上升、水资源影响、噪音污染等问题。这场斗争的重要性在于，它不仅关乎当地居民的生活质量，也可能影响到未来AI技术的可持续发展和政策制定。如果不妥善处理这些问题，可能会导致更广泛的社会反弹和法律纠纷。",
-          "analysis_en": "As the rapid development of artificial intelligence technology continues, plans to build massive AI data centers are increasing globally. However, community members are pushing back due to concerns about rising energy costs, impacts on water supply, and noise pollution. The significance of this struggle lies in its implications for the quality of life for local residents and the potential effects on the sustainable development of AI technology and policy-making. If these issues are not addressed properly, it could lead to broader social backlash and legal disputes."
+          "analysis_zh": "随着人工智能的快速发展，全球范围内建设大型AI数据中心的计划正在增加。然而，社区成员对此表示反对，主要是因为他们担心能源成本上升、水资源影响、噪音污染等问题。这场斗争不仅关乎环境和社区的可持续发展，也可能影响到未来科技公司的运营模式和当地经济。随着抗议活动的增加，政府和企业需要更加重视公众的声音，以寻求平衡发展与环境保护之间的关系。",
+          "analysis_en": "As the rapid development of artificial intelligence continues, plans for large AI data centers are increasing globally. However, community members are pushing back due to concerns about rising energy costs, impacts on water supply, noise pollution, and more. This struggle is not only about environmental and community sustainability but may also affect the operational models of tech companies and local economies in the future. With the rise of protests, both governments and businesses will need to pay more attention to public concerns to find a balance between development and environmental protection."
         },
         {
-          "rank": 6,
+          "rank": 9,
           "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
           "link": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
           "source": "Feed: Artificial Intelligence Latest",
           "published_utc": "2026-07-12 10:00 UTC",
-          "analysis_zh": "科学家们利用人工智能和量子计算技术，展示了如何开发新肽以帮助服务不足的群体和对抗罕见疾病。这个研究的重要性在于，它可能为药物开发开辟新的方向，尤其是在传统方法难以解决的领域。通过结合量子计算的强大计算能力，研究人员能够更有效地设计和测试新药物，从而提高治疗的可及性和效率。",
-          "analysis_en": "Scientists have utilized artificial intelligence and quantum computing to demonstrate how new peptides can be developed to assist underserved populations and combat rare diseases. This research is significant as it may open new avenues for drug development, particularly in areas where traditional methods struggle. By harnessing the powerful computational capabilities of quantum computing, researchers can design and test new drugs more efficiently, potentially improving accessibility and effectiveness of treatments."
-        },
-        {
-          "rank": 7,
-          "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
-          "link": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
-          "source": "The Verge",
-          "published_utc": "2026-07-11 20:57 UTC",
-          "analysis_zh": "经过多年的预告，备受瞩目的Nopia合成器终于接近上市。其创作者马丁·格里科和罗西奥·加尔在2023年首次展示了这一产品，随后引发了音乐设备界的热烈讨论。Nopia的独特之处在于它能够将多个模块融合在一起，允许用户用简单的手势演奏复杂的和声。这款合成器的发布不仅将为音乐创作带来新的可能性，也可能改变音乐制作的方式，吸引更多音乐爱好者和专业人士的关注。",
-          "analysis_en": "After years of anticipation, the highly anticipated Nopia synth is finally nearing its market release. Its creators, Martin Grieco and Rocío Gal, first showcased the product in 2023, sparking significant interest in the music gear community. What sets Nopia apart is its ability to blend multiple modules, allowing users to play complex harmonies with simple gestures. The release of this synth could not only open up new possibilities for music creation but also potentially change the way music is produced, attracting the attention of both enthusiasts and professionals alike."
-        },
-        {
-          "rank": 8,
-          "title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
-          "link": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
-          "source": "The Verge",
-          "published_utc": "2026-07-11 18:44 UTC",
-          "analysis_zh": "俄勒冈州检察长丹·雷菲尔德曾试图获取与派拉蒙收购华纳兄弟探索相关的文件，并请求法官将交易的完成推迟60天，以便进行审查。然而，根据报道，他现在已撤回了这一请求。这一决定对派拉蒙来说显然是个好消息，但检察长办公室对此结果并不满意。雷菲尔德的发言人表示，派拉蒙明确表示不会遵从调查要求，认为自己高于法律，这引发了对其行为的质疑。",
-          "analysis_en": "Oregon Attorney General Dan Rayfield had previously sought documents related to Paramount's acquisition of Warner Bros. Discovery and requested a 60-day delay in closing the deal for review. However, he has now withdrawn this request, which is a relief for Paramount. Despite this, Rayfield's office is not satisfied with the outcome, as they believe Paramount has shown a disregard for legal compliance. Rayfield's spokesperson emphasized that Paramount's refusal to comply raises serious concerns about their conduct."
-        },
-        {
-          "rank": 9,
-          "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
-          "link": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
-          "source": "NYT > Technology",
-          "published_utc": "2026-07-11 18:00 UTC",
-          "analysis_zh": "苹果公司起诉OpenAI，指控其窃取公司机密。这一事件源于两家公司在2024年达成的协议，旨在在苹果设备上提供人工智能服务，但随着时间推移，合作关系恶化。此举不仅可能影响两家公司之间的信任关系，还可能对整个科技行业的合作模式产生深远影响。",
-          "analysis_en": "Apple has filed a lawsuit against OpenAI, accusing it of stealing trade secrets. This situation arises from a partnership formed in 2024 to provide AI services on Apple devices, which has since deteriorated. This legal action could undermine the trust between the two companies and may have significant implications for collaboration models within the tech industry."
+          "analysis_zh": "科学家们利用人工智能和量子计算技术，展示了如何开发新肽以帮助服务不足的人群并对抗罕见疾病。这一研究的重要性在于，它可能为药物开发提供新的思路，尤其是在传统方法难以奏效的情况下。通过结合先进的计算技术，研究人员希望能够加速药物的发现过程，从而改善全球健康状况。",
+          "analysis_en": "Scientists have utilized artificial intelligence and quantum computing to demonstrate how new peptides can be developed to assist underserved populations and combat rare diseases. This research is significant as it may provide new avenues for drug development, especially in cases where traditional methods fall short. By integrating advanced computational techniques, researchers aim to accelerate the drug discovery process, ultimately improving global health outcomes."
         }
       ]
     },
@@ -308,93 +290,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "Why Dior’s Jonathan Anderson Is Inspired by Lynda Benglis",
+          "link": "https://www.nytimes.com/2026/07/12/arts/design/lynda-benglis-dior-jonathan-anderson-art.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-07-12 20:20 UTC",
+          "analysis_zh": "在1960年代，琳达·本格利斯重新定义了雕塑艺术。如今，她的大胆才华不再被忽视，随着迪奥的乔纳森·安德森的影响，她的作品从博物馆走向了时尚秀场。这一转变不仅彰显了本格利斯的艺术价值，也反映了当代时尚界对女性艺术家的重新关注。这可能会激励更多设计师和艺术家探索跨界合作，推动艺术与时尚的进一步融合。",
+          "analysis_en": "In the 1960s, Lynda Benglis redefined the art of sculpture. Today, her bold talent is gaining recognition, as it transitions from museums to fashion runways under the influence of Dior's Jonathan Anderson. This shift not only highlights Benglis's artistic significance but also reflects a renewed interest in female artists within the contemporary fashion industry. It may inspire more designers and artists to explore cross-disciplinary collaborations, further promoting the integration of art and fashion."
+        },
+        {
+          "rank": 2,
+          "title": "love hultén transforms pink floyd’s prism into a playable synthesizer guitar",
+          "link": "https://www.designboom.com/technology/love-hulten-pink-floyds-prism-playable-synthesizer-guitar/",
+          "source": "designboom | architecture & design magazine",
+          "published_utc": "2026-07-12 20:00 UTC",
+          "analysis_zh": "瑞典设计师Love Hultén将著名乐队平克·弗洛伊德的棱镜概念转化为一款可演奏的合成器吉他。这款乐器以等边三角形为基础，配备了两个延伸的演奏臂，具有类似指板的控制表面。这一创新设计不仅让音乐爱好者能够以全新的方式体验经典音乐，还可能引发对音乐器材设计的进一步探索与创新。",
+          "analysis_en": "Swedish designer Love Hultén has transformed the iconic prism concept of the band Pink Floyd into a playable synthesizer guitar. This instrument is built around an equilateral triangle and features two extended playing arms with fretboard-like control surfaces. This innovative design allows music enthusiasts to experience classic music in a new way and may inspire further exploration and innovation in musical instrument design."
+        },
+        {
+          "rank": 3,
+          "title": "‘Moana’ Falters at the Box Office, Casting Doubt on Disney’s Formula",
+          "link": "https://www.nytimes.com/2026/07/12/business/media/moana-box-office-disney.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-07-12 17:39 UTC",
+          "analysis_zh": "迪士尼的真人版《海洋奇缘》在北美的票房表现不佳，周末收入约为4300万美元，远低于迪士尼的预期，减少了约30%。这一情况引发了人们对迪士尼成功公式的质疑，尤其是在近年来多部重拍作品的表现不如预期。票房的下滑可能会影响迪士尼未来的电影制作策略，迫使公司重新评估其内容创作和市场定位。",
+          "analysis_en": "Disney's live-action remake of \"Moana\" has underperformed at the North American box office, earning around $43 million over the weekend, which is about 30% less than the company had anticipated. This situation raises doubts about Disney's successful formula, particularly as several recent remakes have also failed to meet expectations. The decline in box office revenue may impact Disney's future filmmaking strategies, prompting the company to reassess its content creation and market positioning."
+        },
+        {
+          "rank": 4,
+          "title": "Fans of ‘Love Island USA’ Ask: ‘Are These Couples for Real?’",
+          "link": "https://www.nytimes.com/2026/07/12/arts/television/love-island-finale-trinity-bryce.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-07-12 16:34 UTC",
+          "analysis_zh": "热门真人秀节目《爱岛美国》的粉丝们正在热烈讨论，竞争中的情侣是否真心相爱。这种争论不仅反映了观众对节目的投入，也揭示了现实爱情与表演之间的复杂关系。这一现象可能会影响观众对节目真实性的看法，甚至改变他们对爱情的理解和期待。",
+          "analysis_en": "Fans of the hit reality show \"Love Island USA\" are engaged in lively debates about whether the competing couples are genuinely in love. This discussion reflects the viewers' deep investment in the show and highlights the complex relationship between real love and performance. Such debates may influence how audiences perceive the authenticity of the show and could even alter their understanding and expectations of love."
+        },
+        {
+          "rank": 5,
           "title": "Yaacov Agam, Who Made Kinetic, Kaleidoscopic Art, Dies at 98",
           "link": "https://www.nytimes.com/2026/07/11/arts/design/yaacov-agam-dead.html",
           "source": "NYT > Arts",
           "published_utc": "2026-07-12 15:02 UTC",
-          "analysis_zh": "以色列艺术家雅科夫·阿甘（Yaacov Agam）于98岁去世，他以其动感和万花筒般的艺术作品而闻名。阿甘的作品不仅包括雕塑和绘画，还涵盖了玩具和公共艺术，深受观众喜爱。他的艺术挑战了人们的视觉感知，推动了动感艺术的发展。阿甘的离世标志着一个艺术时代的结束，可能会影响未来艺术家对互动和视觉体验的探索。",
-          "analysis_en": "Israeli artist Yaacov Agam passed away at the age of 98, renowned for his kinetic and kaleidoscopic artworks. His creations spanned sculptures, paintings, toys, and public installations, captivating audiences worldwide. Agam's art challenged visual perception and advanced the field of kinetic art. His passing marks the end of an artistic era and may influence future artists in their exploration of interactivity and visual experiences."
+          "analysis_zh": "以色列艺术家雅科夫·阿甘（Yaacov Agam）于98岁去世，他以创作动感和万花筒般的艺术作品而闻名。阿甘的作品不仅包括雕塑和绘画，还涵盖了玩具和公共艺术，吸引了全球观众的目光。他的艺术挑战了人们的视觉感知，推动了动感艺术的发展。阿甘的离世标志着一个艺术时代的结束，同时也让人们重新审视他对现代艺术的影响。",
+          "analysis_en": "Israeli artist Yaacov Agam passed away at the age of 98, renowned for his kinetic and kaleidoscopic artworks. His creations spanned sculptures, paintings, toys, and public installations, captivating audiences around the world. Agam's art challenged visual perception and advanced the field of kinetic art. His death signifies the end of an artistic era and prompts a reevaluation of his impact on modern art."
         },
         {
-          "rank": 2,
+          "rank": 6,
           "title": "Don’t Try This at Home: How Performers Turn Stunts Into Movie Magic",
           "link": "https://www.nytimes.com/2026/07/12/arts/film-stunts-school-action-movies.html",
           "source": "NYT > Arts",
           "published_utc": "2026-07-12 14:57 UTC",
-          "analysis_zh": "在西雅图的国际特技学校，影视行业的资深人士向新手传授摔倒、打斗和火焰等特技的艺术。这一培训不仅提升了表演者的技能，也为电影和电视制作增添了真实感和视觉冲击力。随着观众对特技表演的期待不断提高，这样的培训显得尤为重要，能够确保表演的安全性和专业性。未来，随着特技技术的不断发展，观众可能会看到更多创新和惊险的表演。",
-          "analysis_en": "At the International Stunt School in Seattle, veterans from the TV and film industry teach newcomers the art of falls, fights, and fire. This training not only enhances the performers' skills but also adds realism and visual impact to film and television productions. As audience expectations for stunt performances continue to rise, such training becomes increasingly important to ensure safety and professionalism. In the future, with the ongoing development of stunt techniques, viewers may witness even more innovative and thrilling performances."
+          "analysis_zh": "在西雅图的国际特技学校，影视行业的资深人士向新手传授摔倒、打斗和火焰等特技的艺术。这一培训不仅帮助新演员掌握必要的技能，也为他们提供了进入娱乐行业的机会。特技表演在电影和电视中扮演着重要角色，能够提升作品的视觉效果和观赏性。随着观众对高质量特技的需求增加，这类培训的重要性也愈发凸显。",
+          "analysis_en": "At the International Stunt School in Seattle, veterans from the TV and film industry teach newcomers the art of stunts, including falls, fights, and fire. This training not only equips new performers with essential skills but also opens doors for them in the entertainment industry. Stunt performances play a crucial role in enhancing the visual appeal and enjoyment of films and television shows. As the demand for high-quality stunts continues to grow, the significance of this type of training becomes increasingly apparent."
         },
         {
-          "rank": 3,
+          "rank": 7,
           "title": "Melbourne Symphony Wins Discrimination Case Over Gaza Comments",
           "link": "https://www.nytimes.com/2026/07/12/arts/music/jayson-gillham-melbourne-symphony-orchestra-gaza.html",
           "source": "NYT > Arts",
           "published_utc": "2026-07-12 13:40 UTC",
-          "analysis_zh": "墨尔本交响乐团在一起关于加沙言论的歧视案件中胜诉。钢琴家杰森·吉尔汉因乐团取消他在以色列与哈马斯战争期间的演出而起诉该乐团。这一事件引发了对言论自由和艺术家表达权利的广泛讨论，尤其是在政治敏感的背景下。此案的结果可能会影响未来艺术家与机构之间的关系，以及如何在艺术界处理政治言论。",
-          "analysis_en": "The Melbourne Symphony Orchestra won a discrimination case related to comments about Gaza. Pianist Jayson Gillham sued the orchestra after it canceled his performance in response to his remarks regarding Israel's war with Hamas. This incident has sparked a broader discussion about freedom of speech and the rights of artists to express themselves, particularly in politically sensitive contexts. The outcome of this case may influence future relationships between artists and institutions, as well as how political statements are handled in the arts community."
+          "analysis_zh": "墨尔本交响乐团因钢琴家杰森·吉尔汉姆对以色列与哈马斯战争的评论而取消其演出，最终赢得了歧视案件的胜诉。此案引发了关于言论自由与艺术表达的广泛讨论，尤其是在涉及敏感政治话题时。此事件不仅影响了艺术界对政治立场的表达方式，也可能对未来艺术家与机构之间的关系产生深远影响。",
+          "analysis_en": "The Melbourne Symphony Orchestra won a discrimination case after canceling pianist Jayson Gillham's performance due to his comments regarding the war between Israel and Hamas. This case has sparked widespread discussions about freedom of speech and artistic expression, particularly when it comes to sensitive political issues. The outcome may influence how artists express their political views and could have lasting effects on the relationships between artists and institutions in the future."
         },
         {
-          "rank": 4,
+          "rank": 8,
           "title": "nicolas nielsen designs self-driving HYVE beehive to pollinate cities",
           "link": "https://www.designboom.com/design/nicolas-nielsen-self-driving-hyve-beehive-pollinate-cities/",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-07-12 10:50 UTC",
-          "analysis_zh": "尼古拉斯·尼尔森设计了一款自驾的HYVE蜂箱，旨在通过城市中的分散绿地进行授粉。这一创新设计不仅解决了城市生态系统中授粉不足的问题，还为城市绿化提供了新的解决方案。随着城市化进程的加快，这种自驾蜂箱可能会对城市的生物多样性和环境保护产生积极影响。",
-          "analysis_en": "Nicolas Nielsen has designed a self-driving HYVE beehive that aims to facilitate pollination across fragmented green spaces in urban areas. This innovative design addresses the issue of insufficient pollination in city ecosystems and offers a new solution for urban greening. As urbanization continues to accelerate, this self-driving beehive could positively impact urban biodiversity and environmental conservation."
+          "analysis_zh": "尼古拉斯·尼尔森设计了一款自驾的HYVE蜂箱，旨在为城市中的分散绿地进行授粉。这一创新设计不仅可以提高城市生态系统的健康，还能有效促进植物的生长和繁殖。随着城市化进程的加快，传统的授粉方式面临挑战，而HYVE蜂箱的出现可能会改变这一局面，提升城市的生物多样性。",
+          "analysis_en": "Nicolas Nielsen has designed a self-driving HYVE beehive intended to pollinate fragmented green spaces in urban areas. This innovative design not only enhances the health of urban ecosystems but also promotes the growth and reproduction of plants. As urbanization accelerates, traditional pollination methods face challenges, and the introduction of the HYVE beehive could transform this situation, boosting biodiversity in cities."
         },
         {
-          "rank": 5,
+          "rank": 9,
           "title": "Verstas Architects uses natural materials for \"comforting and gentle\" mortuary in Helsinki",
           "link": "https://www.dezeen.com/2026/07/12/verstas-architects-malmi-mortuary/",
           "source": "Dezeen",
           "published_utc": "2026-07-12 10:00 UTC",
-          "analysis_zh": "芬兰的Verstas建筑事务所完成了位于赫尔辛基的马尔米殡仪馆和告别空间，采用了石材、木材和砖块等自然材料。这座建筑位于芬兰最大的马尔米公墓旁，旨在应对赫尔辛基日益增长的老龄化人口，这对当地医院和护理机构造成了越来越大的压力。这一项目的重要性在于它不仅提供了一个安静舒适的告别场所，还反映了社会对老年人需求的重视，可能会影响未来类似建筑的设计理念。",
-          "analysis_en": "Finnish studio Verstas Architects has completed the Malmi Mortuary and Farewell Spaces in Helsinki, utilizing natural materials like stone, timber, and brick. Situated next to Malmi Cemetery, the largest cemetery in Finland, this building was designed to address the challenges posed by Helsinki's rapidly aging population, which is increasingly straining hospitals and care homes. The significance of this project lies in its provision of a serene and comforting space for farewells, highlighting societal attention to the needs of the elderly, and it may influence the design philosophy of future similar buildings."
+          "analysis_zh": "芬兰的Verstas建筑事务所完成了位于赫尔辛基的马尔米殡仪馆和告别空间，采用了石材、木材和砖块等自然材料。这座建筑毗邻芬兰最大的马尔米公墓，旨在应对赫尔辛基日益增长的老龄化人口，这一现象对当地医院和护理机构造成了越来越大的压力。这一项目的重要性在于，它不仅提供了一个安静舒适的告别场所，还反映了社会对老年人需求的关注，可能会影响未来公共建筑的设计理念。",
+          "analysis_en": "Finnish studio Verstas Architects has completed the Malmi Mortuary and Farewell Spaces in Helsinki, utilizing natural materials such as stone, timber, and brick. Located next to Malmi Cemetery, the largest cemetery in Finland, the building was designed to address the challenges posed by Helsinki's rapidly aging population, which is increasingly straining local hospitals and care facilities. This project is significant as it provides a serene and comforting space for farewells, while also highlighting the societal focus on the needs of the elderly, potentially influencing future public building designs."
         },
         {
-          "rank": 6,
-          "title": "Fans of ‘Love Island USA’ Ask: ‘Are These Couples for Real?’",
-          "link": "https://www.nytimes.com/2026/07/12/arts/television/love-island-finale-trinity-bryce.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-07-12 09:01 UTC",
-          "analysis_zh": "在热门真人秀节目《爱岛美国》中，观众们对参赛情侣是否真心相爱的争论成为了粉丝文化的重要组成部分。这种讨论不仅增加了节目观看的乐趣，也反映了观众对爱情真实性的关注。这种现象可能会影响节目制作方的创作方向，促使他们在未来的季节中更加注重情侣之间的真实情感表现。",
-          "analysis_en": "In the popular reality TV show \"Love Island USA,\" viewers engage in lively debates about whether the competing couples are genuinely in love, which has become a significant part of the fan culture. This discussion not only enhances the enjoyment of watching the show but also reflects the audience's concern about the authenticity of love. This phenomenon may influence the producers' creative direction, encouraging them to focus more on the genuine emotional connections between couples in future seasons."
-        },
-        {
-          "rank": 7,
+          "rank": 10,
           "title": "Eight pocket gardens and mini courtyards that draw light into the home",
           "link": "https://www.dezeen.com/2026/07/12/pocket-gardens-courtyards-lookbooks/",
           "source": "Dezeen",
           "published_utc": "2026-07-12 09:00 UTC",
-          "analysis_zh": "最近的一篇文章介绍了八个口袋花园和迷你庭院，这些设计能够有效利用空间，将自然光引入家中。这些小型户外区域，无论是位于房屋的角落还是中心，均为紧凑的居住空间提供了宁静的休息时刻。这一趋势不仅提升了居住环境的美感，还能改善室内的光照和空气流通，对人们的生活质量产生积极影响。",
-          "analysis_en": "A recent article highlights eight pocket gardens and mini courtyards that effectively utilize space to bring natural light into homes. These small outdoor areas, whether tucked into a corner or positioned at the center, offer peaceful moments in compact living spaces. This trend not only enhances the aesthetic appeal of living environments but also improves indoor lighting and air circulation, positively impacting the quality of life for residents."
-        },
-        {
-          "rank": 8,
-          "title": "‘Michael’ Crosses $1 Billion at the Box Office as Lionsgate Roars Back",
-          "link": "https://www.nytimes.com/2026/07/12/business/media/michael-movie-lionsgate.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-07-12 09:00 UTC",
-          "analysis_zh": "电影《迈克尔》在票房上突破了10亿美元，这标志着狮门影业的强势回归。尽管大制片厂曾因风险过高而放弃了这部影片，但它的成功为好莱坞最后一家主要独立制片公司注入了新的活力。这一现象不仅反映了观众对独立电影的需求，也可能影响未来的电影投资方向，促使更多制片公司关注小成本、高回报的项目。",
-          "analysis_en": "The film \"Michael\" has crossed the $1 billion mark at the box office, signaling a strong comeback for Lionsgate. Despite being shunned by larger studios due to perceived risks, its success has revitalized Hollywood's last major independent studio. This trend highlights the audience's demand for independent films and may influence future investment strategies, encouraging more studios to focus on low-budget, high-return projects."
-        },
-        {
-          "rank": 9,
-          "title": "Tracee Ellis Ross Is Back in New York City, Living a Dream Come True",
-          "link": "https://www.nytimes.com/2026/07/12/nyregion/tracee-ellis-ross-broadway-every-brilliant-thing.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-07-12 07:00 UTC",
-          "analysis_zh": "演员兼企业家特蕾西·埃利斯·罗斯在纽约市度过了一个梦想成真的夏天，她在这里租了一间公寓，同时为她的百老汇首秀《每一个辉煌的事物》做准备。这一举动不仅展示了她在演艺事业上的新篇章，也反映了她对艺术的热爱和追求。罗斯的回归可能会吸引更多观众关注百老汇，进一步推动这个行业的发展。",
-          "analysis_en": "Actress and entrepreneur Tracee Ellis Ross is spending a dream summer in New York City, where she has rented an apartment while preparing for her Broadway debut in \"Every Brilliant Thing.\" This move not only marks a new chapter in her acting career but also highlights her passion and commitment to the arts. Ross's return may draw more attention to Broadway, potentially boosting the industry further."
-        },
-        {
-          "rank": 10,
-          "title": "Overstimulated design student creates satisfyingly minimal focus timer",
-          "link": "https://www.dezeen.com/2026/07/12/carrie-lee-immersion-focus-timer/",
-          "source": "Dezeen",
-          "published_utc": "2026-07-12 05:00 UTC",
-          "analysis_zh": "一位名叫Carrie Lee的产品设计学生，因在学习过程中难以集中注意力而感到沮丧，因此开发了一款便携式任务计时器，旨在与智能手机的吸引力相抗衡。她的原型“沉浸计时器”大小和形状类似于电子宠物，但用户不再通过喂养虚拟宠物来分散注意力，而是设定专注时间。这一创新设计不仅反映了当代学生面临的注意力挑战，也可能对学习和工作效率产生积极影响。",
-          "analysis_en": "Product design student Carrie Lee, frustrated by her struggles to maintain focus while studying, has created a portable task timer intended to compete with the addictive nature of smartphones. Her prototype, the Immersion timer, is similar in size and shape to a Tamagotchi, but instead of distracting users with a virtual pet, it allows them to set focus periods. This innovative design highlights the attention challenges faced by modern students and could have a positive impact on learning and productivity."
+          "analysis_zh": "最近的一项设计展示了八个口袋花园和迷你庭院，这些小型户外空间旨在将自然光引入家中。这些花园可以放置在房屋的角落或中央，充分利用了被忽视的空间，创造出宁静的休憩时刻。这一设计不仅提升了居住环境的美感，还能改善室内的光线和视野，可能会影响未来住宅设计的趋势。",
+          "analysis_en": "A recent design showcase featured eight pocket gardens and mini courtyards that aim to bring natural light into homes. These small outdoor spaces can be placed in corners or at the center of a house, making the most of underutilized areas and creating peaceful moments of pause. This design not only enhances the aesthetic appeal of living spaces but also improves indoor lighting and views, potentially influencing future trends in residential design."
         }
       ]
     }
