@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-18 21:28:31 UTC",
-  "generated_at_unix": 1784410111,
+  "generated_at": "2026-07-18 22:27:09 UTC",
+  "generated_at_unix": 1784413629,
   "window": {
-    "from_utc": "2026-07-17 21:28:31 UTC",
-    "to_utc": "2026-07-18 21:28:31 UTC",
+    "from_utc": "2026-07-17 22:27:09 UTC",
+    "to_utc": "2026-07-18 22:27:09 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,99 +14,99 @@
       "items": [
         {
           "rank": 1,
+          "title": "Two U.S. service members killed in Jordan, one missing; Iran threatens 'unforgettable lessons' after calling off interim peace deal",
+          "link": "https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-07-18 22:26 UTC",
+          "analysis_zh": "在约旦，两名美国军人被杀，一名军人失踪。此事件引起了国际社会的广泛关注，尤其是在美国与伊朗的紧张关系加剧的背景下。美国中央司令部表示，仍在对伊朗实施海上封锁，而科威特和巴林则拦截了更多伊朗导弹。这一系列事件可能会进一步加剧中东地区的紧张局势，并影响美国在该地区的军事部署和外交策略。",
+          "analysis_en": "In Jordan, two U.S. service members were killed and one is missing. This incident has drawn significant international attention, particularly against the backdrop of escalating tensions between the U.S. and Iran. U.S. Central Command has stated that it continues to enforce a naval blockade against Iran, while Kuwait and Bahrain have intercepted more Iranian missiles. These developments could further heighten tensions in the Middle East and impact U.S. military deployments and diplomatic strategies in the region."
+        },
+        {
+          "rank": 2,
+          "title": "Taylor Farms recalls iceberg lettuce in 27 states due to cyclosporiasis outbreak",
+          "link": "https://www.cnbc.com/2026/07/18/taylor-farms-recalls-iceberg-lettuce-in-27-states-due-to-cyclosporiasis-outbreak.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-07-18 22:04 UTC",
+          "analysis_zh": "泰勒农场因可能存在环孢子虫污染，已在27个州召回冰山生菜。这一事件引发了公众对食品安全的关注，尤其是在生鲜蔬菜的供应链中。环孢子虫感染可能导致严重的肠胃不适，影响消费者的健康。此次召回不仅可能影响泰勒农场的声誉，还可能对整个生鲜市场的信任度造成冲击。",
+          "analysis_en": "Taylor Farms is recalling iceberg lettuce in 27 states due to the potential contamination with cyclosporiasis. This incident has raised public concern about food safety, particularly within the supply chain of fresh vegetables. Cyclospora infections can lead to severe gastrointestinal issues, impacting consumer health. The recall may not only affect Taylor Farms' reputation but could also undermine trust in the entire fresh produce market."
+        },
+        {
+          "rank": 3,
+          "title": "Samsung Electronics America to reduce workforce by 739 in New Jersey, US WARN notice says",
+          "link": "https://www.investing.com/news/stock-market-news/samsung-electronics-america-to-reduce-workforce-by-739-in-new-jersey-us-warn-notice-says-4799679",
+          "source": "Stock Market News",
+          "published_utc": "2026-07-18 22:00 UTC",
+          "analysis_zh": "三星电子美国公司在新泽西州宣布将裁员739人，这一消息通过WARN通知发布。这一裁员决定反映了公司在当前经济环境下面临的挑战，可能会对当地经济和就业市场造成一定影响。随着科技行业的竞争加剧，企业不得不采取措施以降低成本和提升效率，这一趋势可能会在未来继续蔓延。",
+          "analysis_en": "Samsung Electronics America announced a workforce reduction of 739 employees in New Jersey, as indicated by a WARN notice. This decision highlights the challenges the company is facing in the current economic climate and could have significant repercussions for the local economy and job market. As competition in the tech industry intensifies, companies are compelled to take measures to cut costs and improve efficiency, a trend that may continue in the future."
+        },
+        {
+          "rank": 4,
+          "title": "3 AI Stocks That Can Outperform Nvidia Next Year",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-outperform-nvidia-215600814.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-07-18 21:56 UTC",
+          "analysis_zh": "最近，有分析师指出，三只人工智能股票可能在明年超越英伟达的表现。这一消息引起了投资者的关注，因为英伟达一直是AI领域的领军企业，市值也在不断攀升。若这些股票真的能够超越英伟达，可能会改变市场对AI投资的看法，并吸引更多资金流入这些新兴公司。",
+          "analysis_en": "Recently, analysts highlighted three AI stocks that could potentially outperform Nvidia next year. This news has garnered the attention of investors, as Nvidia has been a leading player in the AI sector with a continuously rising market value. If these stocks do indeed surpass Nvidia, it could shift the market's perception of AI investments and attract more capital into these emerging companies."
+        },
+        {
+          "rank": 5,
+          "title": "KOSPI earnings are better. So why are stocks falling harder?",
+          "link": "https://www.investing.com/news/stock-market-news/kospi-earnings-are-better-so-why-are-stocks-falling-harder-4799678",
+          "source": "Stock Market News",
+          "published_utc": "2026-07-18 21:52 UTC",
+          "analysis_zh": "近期，韩国综合股价指数（KOSPI）的盈利表现超出预期，但股市却出现了更大幅度的下跌。这一现象引发了市场的关注，投资者对未来经济前景的担忧可能是导致股市下滑的主要原因。尽管企业盈利良好，但市场情绪的变化可能会影响投资者的信心，从而对股市产生负面影响。",
+          "analysis_en": "Recently, the earnings of the KOSPI index exceeded expectations, yet the stock market has experienced a significant decline. This situation has drawn attention as concerns about the future economic outlook may be the primary reason behind the market drop. Even with strong corporate earnings, shifts in market sentiment can undermine investor confidence, potentially leading to negative repercussions for the stock market."
+        },
+        {
+          "rank": 6,
+          "title": "Pokémon Cards Beat the S&P 500 by 2.5x, But the Math Is a Lie",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/pok-mon-cards-beat-p-214500876.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-07-18 21:45 UTC",
+          "analysis_zh": "最近有报道称，宝可梦卡牌的投资回报率超过标准普尔500指数的2.5倍，但这种计算方式存在问题。这一现象引发了对收藏品投资的讨论，尤其是在经济不确定性加剧的背景下。投资者需要更加谨慎地评估这些非传统资产的真实价值，以免受到误导。此事件可能会影响收藏品市场的信心，促使更多人重新审视其投资策略。",
+          "analysis_en": "Recent reports indicate that Pokémon cards have outperformed the S&P 500 by 2.5 times, but the calculations behind this claim are flawed. This situation has sparked discussions about the investment potential of collectibles, especially amid increasing economic uncertainty. Investors must be more cautious in assessing the true value of these non-traditional assets to avoid being misled. This incident could affect confidence in the collectibles market and lead more individuals to reevaluate their investment strategies."
+        },
+        {
+          "rank": 7,
+          "title": "Netflix Stock's Last Decade Was Spectacular. But What Will the Next Decade Look Like?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-stocks-last-decade-spectacular-214300078.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-07-18 21:43 UTC",
+          "analysis_zh": "Netflix在过去十年的股票表现非常出色，但未来十年的前景却充满不确定性。随着竞争的加剧和市场需求的变化，Netflix可能面临更大的挑战。这不仅影响到公司的股价，也可能对整个流媒体行业产生深远的影响。投资者需要密切关注Netflix的战略调整和市场动态，以便做出明智的投资决策。",
+          "analysis_en": "Netflix's stock performance over the past decade has been remarkable, but the outlook for the next ten years is uncertain. With increasing competition and changing market demands, Netflix may face greater challenges ahead. This not only affects the company's stock price but could also have significant implications for the entire streaming industry. Investors should closely monitor Netflix's strategic adjustments and market trends to make informed investment decisions."
+        },
+        {
+          "rank": 8,
+          "title": "Why Intuitive Surgical Stock Dropped This Week",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/why-intuitive-surgical-stock-dropped-214117069.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-07-18 21:41 UTC",
+          "analysis_zh": "本周，直觉外科公司的股票出现了显著下跌，主要原因是投资者对公司未来业绩的担忧加剧。市场分析师指出，尽管该公司在医疗机器人领域具有领先地位，但近期的财报未能满足预期，导致市场信心下降。这一变化可能会影响公司的融资能力以及未来的研发投资，从而对其长期增长前景产生负面影响。",
+          "analysis_en": "This week, Intuitive Surgical's stock experienced a significant drop, primarily due to growing investor concerns about the company's future performance. Market analysts noted that despite the company's leading position in the medical robotics field, its recent earnings report fell short of expectations, leading to a decline in market confidence. This change could affect the company's ability to secure financing and invest in future research and development, potentially negatively impacting its long-term growth prospects."
+        },
+        {
+          "rank": 9,
+          "title": "Bitcoin recovers toward $65k after sliding on AI shock, crypto bill doubts",
+          "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-toward-64000-as-ai-shock-and-crypto-bill-doubts-weigh-4799577",
+          "source": "Cryptocurrency News",
+          "published_utc": "2026-07-18 21:30 UTC",
+          "analysis_zh": "比特币在经历了因人工智能相关消息而下滑后，重新回升至65,000美元附近。这一波动反映了市场对新技术和政策的不确定性，尤其是关于加密货币的立法问题。比特币的恢复不仅显示出投资者的信心回暖，也可能影响其他加密货币的走势，进一步推动市场的整体发展。",
+          "analysis_en": "Bitcoin has recovered to around $65,000 after a decline triggered by concerns over artificial intelligence. This fluctuation highlights the market's uncertainty regarding new technologies and regulatory issues, particularly surrounding cryptocurrency legislation. The rebound in Bitcoin not only indicates a renewal of investor confidence but may also influence the trends of other cryptocurrencies, potentially driving the overall market forward."
+        },
+        {
+          "rank": 10,
           "title": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
           "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4799676",
           "source": "Stock Market News",
           "published_utc": "2026-07-18 21:20 UTC",
-          "analysis_zh": "俄罗斯股市在交易结束时出现下跌，尽管MOEX俄罗斯指数保持不变。这一现象反映出市场对经济前景的不确定性，可能会影响投资者的信心。投资者需要密切关注未来的经济数据和政策变化，以便做出明智的投资决策。",
-          "analysis_en": "Russian stocks closed lower, while the MOEX Russia Index remained unchanged. This situation highlights the uncertainty surrounding the economic outlook, which could affect investor confidence. Investors should closely monitor upcoming economic data and policy changes to make informed investment decisions."
-        },
-        {
-          "rank": 2,
-          "title": "Everyone’s Chasing Portugal. Smart American Retirees Are Quietly Moving Here Instead",
-          "link": "https://finance.yahoo.com/real-estate/articles/everyone-chasing-portugal-smart-american-210757304.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-07-18 21:07 UTC",
-          "analysis_zh": "最近，越来越多的美国退休人士选择移居葡萄牙，这一趋势引发了广泛关注。葡萄牙以其宜人的气候、相对低廉的生活成本和优质的医疗服务吸引了许多寻求更好生活质量的退休者。这一现象不仅可能推动当地经济的发展，还可能影响到房地产市场的供需关系。随着越来越多的外籍人士涌入，葡萄牙的文化和社会结构也可能面临变化。",
-          "analysis_en": "Recently, a growing number of American retirees are choosing to move to Portugal, a trend that has garnered significant attention. Portugal's pleasant climate, relatively low cost of living, and high-quality healthcare are attracting many retirees seeking a better quality of life. This phenomenon could not only boost the local economy but also affect the supply and demand dynamics in the real estate market. As more expatriates arrive, Portugal's culture and social structure may also undergo changes."
-        },
-        {
-          "rank": 3,
-          "title": "Bank of America revamps Tesla forecast before earnings",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-revamps-tesla-forecast-210600094.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-07-18 21:06 UTC",
-          "analysis_zh": "美国银行在特斯拉发布财报前调整了其预测，这一举措引发了市场的广泛关注。分析师对特斯拉的未来表现持谨慎态度，认为其面临的挑战包括生产成本上升和市场竞争加剧。这一调整可能会影响投资者的信心，并导致特斯拉股价波动。随着电动车市场的快速发展，特斯拉的表现将对整个行业产生重要影响。",
-          "analysis_en": "Bank of America has revised its forecast for Tesla ahead of the company's earnings report, drawing significant market attention. Analysts are adopting a cautious stance regarding Tesla's future performance, citing challenges such as rising production costs and increased competition. This adjustment may affect investor confidence and lead to fluctuations in Tesla's stock price. As the electric vehicle market rapidly evolves, Tesla's performance will have a substantial impact on the entire industry."
-        },
-        {
-          "rank": 4,
-          "title": "The Social Security Cut Everyone Fears Is Not the Biggest Threat to Your Retirement",
-          "link": "https://finance.yahoo.com/economy/policy/articles/social-security-cut-everyone-fears-205000175.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-07-18 20:50 UTC",
-          "analysis_zh": "近期有报道称，许多人对社会保障削减感到担忧，但专家指出，这并不是退休生活中最大的威胁。实际上，通货膨胀、医疗费用和投资市场波动等因素，可能对退休金的影响更为深远。这一分析提醒人们关注更广泛的经济环境，以便更好地规划自己的财务未来。了解这些潜在风险，可以帮助人们采取更有效的措施来保障自己的退休生活。",
-          "analysis_en": "Recent reports indicate that many people are concerned about cuts to Social Security, but experts suggest that this is not the biggest threat to retirement. In fact, factors such as inflation, healthcare costs, and fluctuations in the investment market may have a more significant impact on retirement funds. This analysis serves as a reminder for individuals to pay attention to the broader economic environment in order to better plan their financial futures. Understanding these potential risks can help people take more effective measures to secure their retirement."
-        },
-        {
-          "rank": 5,
-          "title": "What Do SpaceX, AMD, and Palantir Have in Common?",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-amd-palantir-common-203300719.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-07-18 20:33 UTC",
-          "analysis_zh": "最近，SpaceX、AMD和Palantir这三家公司引起了投资者的广泛关注。它们在各自的领域中都展现出了强大的技术创新能力和市场潜力，尤其是在太空探索、半导体和数据分析方面。这些公司的成功不仅推动了相关行业的发展，也可能影响到未来的投资趋势和科技进步。投资者对这些公司的兴趣可能会促使更多资金流入高科技领域，从而加速技术的进步和应用。",
-          "analysis_en": "Recently, SpaceX, AMD, and Palantir have garnered significant attention from investors. Each of these companies has demonstrated strong technological innovation and market potential in their respective fields, particularly in space exploration, semiconductors, and data analytics. Their success not only drives the growth of related industries but may also influence future investment trends and technological advancements. Increased investor interest in these companies could lead to more capital flowing into the high-tech sector, accelerating technological progress and application."
-        },
-        {
-          "rank": 6,
-          "title": "27-year-old locksmith spent $7,000 on tools, works around the clock in NYC: 'I'd never held a screwdriver in my life' before starting",
-          "link": "https://www.cnbc.com/2026/07/18/how-27-year-old-left-her-job-to-start-locksmith-girl-of-nyc.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-07-18 20:12 UTC",
-          "analysis_zh": "27岁的锁匠Yona Sahar在纽约市创办了“Locksmith Girl of NYC”，她花费7000美元购买工具，并在过去两年中学习这门手艺。尽管在此之前她从未握过螺丝刀，但现在她已经能够独立经营自己的生意，并且每天都在努力工作。这一故事不仅展示了个人奋斗和创业精神，也反映了在竞争激烈的城市中，女性在传统男性职业中的崛起，可能会激励更多女性追求自己的职业梦想。",
-          "analysis_en": "Yona Sahar, a 27-year-old locksmith, founded \"Locksmith Girl of NYC\" and spent $7,000 on tools while learning the trade over the past two years. Despite having never held a screwdriver before, she now successfully runs her own business and works tirelessly every day. This story highlights personal determination and entrepreneurial spirit, as well as the rise of women in traditionally male-dominated professions in a competitive city, which may inspire more women to pursue their career aspirations."
-        },
-        {
-          "rank": 7,
-          "title": "Dow Jones Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
-          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-07-18 19:41 UTC",
-          "analysis_zh": "近期，伊朗袭击导致两名美国军人遇难，这一事件引发了国际社会的广泛关注。这一袭击不仅加剧了美伊之间的紧张关系，还可能对全球市场产生影响，尤其是投资者对科技股的信心。随着谷歌、特斯拉和AMD等公司的股价在市场上表现强劲，投资者可能会重新评估风险，调整他们的投资策略。",
-          "analysis_en": "Recently, an attack by Iran resulted in the deaths of two U.S. troops, drawing significant attention from the international community. This incident not only heightens tensions between the U.S. and Iran but could also impact global markets, particularly investor confidence in technology stocks. As companies like Google, Tesla, and AMD show strong performance, investors may reassess risks and adjust their investment strategies accordingly."
-        },
-        {
-          "rank": 8,
-          "title": "US data center protests go national as backlash grows",
-          "link": "https://www.investing.com/news/stock-market-news/us-data-center-protests-go-national-as-backlash-grows-4799582",
-          "source": "Stock Market News",
-          "published_utc": "2026-07-18 19:36 UTC",
-          "analysis_zh": "最近，美国的数据中心抗议活动在全国范围内蔓延，反映出人们对大型科技公司在当地社区影响的担忧。这些抗议者主要关注数据中心对环境的影响以及对当地资源的占用。此类抗议活动的重要性在于，它们可能促使政策制定者重新审视科技行业的发展模式，并考虑更可持续的解决方案。如果这种趋势持续下去，可能会对科技公司的运营和扩张计划产生深远影响。",
-          "analysis_en": "Recently, protests against data centers in the U.S. have spread nationwide, highlighting concerns about the impact of large tech companies on local communities. Protesters are primarily focused on the environmental effects and resource consumption associated with these data centers. The significance of these protests lies in their potential to prompt policymakers to reevaluate the development models of the tech industry and consider more sustainable solutions. If this trend continues, it could have far-reaching implications for the operations and expansion plans of tech companies."
-        },
-        {
-          "rank": 9,
-          "title": "Taylor Farms recalls iceberg lettuce in 27 states due to cyclosporiasis outbreak",
-          "link": "https://www.cnbc.com/2026/07/18/taylor-farms-recalls-iceberg-lettuce-in-27-states-due-to-cyclosporiasis-outbreak.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-07-18 19:35 UTC",
-          "analysis_zh": "泰勒农场因潜在的环孢子虫污染，在27个州召回了冰山生菜。这一事件引发了公众对食品安全的关注，尤其是在生鲜蔬菜的消费高峰期。此次召回不仅可能影响消费者的健康，还可能对公司的声誉和销售造成负面影响。随着食品安全问题的频繁出现，消费者对生产商的信任度可能会下降，进而影响整个行业的市场表现。",
-          "analysis_en": "Taylor Farms is recalling iceberg lettuce in 27 states due to the potential contamination with cyclosporiasis. This incident has raised public concern about food safety, particularly during peak consumption periods for fresh vegetables. The recall could not only impact consumer health but also negatively affect the company's reputation and sales. As food safety issues become more prevalent, consumer trust in producers may decline, potentially influencing the market performance of the entire industry."
-        },
-        {
-          "rank": 10,
-          "title": "‘Respect is important’: If my financial adviser said, ‘Hey,’ my wife and I would walk out. Where do you draw the line?",
-          "link": "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-07-18 19:16 UTC",
-          "analysis_zh": "最近一位投资者分享了他与一位金融顾问的经历，表示如果顾问对他和他的妻子不够尊重，他们会立即离开。这位顾问甚至不知道AT&T是美国电话电报公司的缩写，这显示了他对行业的无知。这一事件强调了在金融服务中，专业知识和对客户的尊重是多么重要。这样的经历可能会影响投资者对顾问的信任，从而影响他们的投资决策。",
-          "analysis_en": "Recently, an investor shared his experience with a financial adviser, stating that he and his wife would walk out if the adviser did not show them respect. The adviser was unaware that AT&T stands for American Telephone and Telegraph, highlighting a lack of knowledge in the industry. This incident underscores the importance of professionalism and respect in financial services. Such experiences can affect investors' trust in advisers, ultimately influencing their investment decisions."
+          "analysis_zh": "在交易结束时，俄罗斯股市出现下跌，尽管MOEX俄罗斯指数保持不变。这一现象表明，尽管市场整体稳定，个别股票的表现却不尽如人意。这可能反映出投资者对经济前景的担忧，尤其是在全球经济不确定性加大的背景下。此情况可能会影响投资者的信心，进而影响未来的投资决策。",
+          "analysis_en": "At the close of trading, Russian stocks fell, while the MOEX Russia Index remained unchanged. This indicates that although the overall market is stable, the performance of individual stocks is lacking. This may reflect investors' concerns about the economic outlook, especially amid increasing global economic uncertainty. Such a situation could affect investor confidence and subsequently influence future investment decisions."
         }
       ]
     },
     "健康": {
       "description": "医学、营养、抗衰老、代谢与公共健康",
-      "count": 6,
+      "count": 5,
       "items": [
         {
           "rank": 1,
@@ -114,8 +114,8 @@
           "link": "https://www.nytimes.com/2026/07/18/health/walt-odets-dead.html",
           "source": "NYT > Health",
           "published_utc": "2026-07-18 19:48 UTC",
-          "analysis_zh": "心理学家沃尔特·奥德茨在79岁时去世，他在艾滋病危机期间深入探讨了同性恋男性的心理状态，尤其是幸存者的负罪感和HIV阴性患者的抑郁症。这一研究不仅为当时的社会提供了重要的心理支持，也帮助人们更好地理解和应对艾滋病带来的心理创伤。他的去世标志着一个时代的结束，可能会影响对心理健康问题的关注，尤其是在LGBTQ+群体中。",
-          "analysis_en": "Psychologist Walt Odets passed away at the age of 79. During the AIDS crisis, he explored the psychological states of gay men, focusing on survivor's guilt and depression among his HIV-negative patients. His work provided crucial psychological support during a challenging time and helped society better understand and cope with the mental trauma caused by AIDS. His death marks the end of an era and may impact the attention given to mental health issues, particularly within the LGBTQ+ community."
+          "analysis_zh": "心理学家沃尔特·奥德茨在79岁时去世，他在艾滋病危机期间深入探讨了同性恋男性的心理状态，特别是关于生存者负罪感和HIV阴性患者的抑郁症。他的研究为理解这一时期的心理健康问题提供了重要视角，尤其是在许多同性恋男性面临失去亲友的痛苦时。奥德茨的工作不仅影响了心理学界，也为后续的心理健康研究奠定了基础，可能会激励更多人关注和研究与艾滋病相关的心理健康问题。",
+          "analysis_en": "Psychologist Walt Odets passed away at the age of 79, having explored the psychological states of gay men during the AIDS crisis, particularly focusing on survivor's guilt and depression in his HIV-negative patients. His research provided crucial insights into the mental health issues of that era, especially as many gay men faced the grief of losing loved ones. Odets' work not only impacted the field of psychology but also laid the groundwork for future mental health studies, potentially inspiring more attention to the psychological aspects related to AIDS."
         },
         {
           "rank": 2,
@@ -123,8 +123,8 @@
           "link": "https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html",
           "source": "NYT > Health",
           "published_utc": "2026-07-18 16:45 UTC",
-          "analysis_zh": "泰勒农场因环孢子虫疫情扩大了对冰山生菜的召回，涉及27个州。此次召回的产品以多个品牌销售，最近一次发货是在周四。这一事件引发了公众对食品安全的关注，尤其是在夏季消费高峰期。消费者需要更加谨慎，确保所购买的生菜产品来源安全，以避免潜在的健康风险。",
-          "analysis_en": "Taylor Farms has expanded its recall of iceberg lettuce due to a Cyclospora outbreak, affecting 27 states. The recalled products were marketed under various brands and were shipped as recently as Thursday. This incident raises public concern about food safety, particularly during the peak summer consumption period. Consumers need to be more vigilant in ensuring the safety of the lettuce products they purchase to avoid potential health risks."
+          "analysis_zh": "泰勒农场因环孢子虫疫情扩大了对冰山生菜的召回，涉及27个州。这一召回事件引起了广泛关注，因为环孢子虫感染可能导致严重的肠胃疾病，尤其对免疫系统较弱的人群构成威胁。此次召回的产品涉及多个品牌，最近还在周四发货，这意味着消费者可能已经购买了受影响的生菜。公众需要保持警惕，确保所购买的生菜来源安全，以避免潜在的健康风险。",
+          "analysis_en": "Taylor Farms has expanded its recall of iceberg lettuce to 27 states due to a Cyclospora outbreak. This recall is significant because Cyclospora infections can lead to severe gastrointestinal illnesses, posing a particular risk to individuals with weakened immune systems. The recalled products were marketed under various brands and were shipped as recently as Thursday, indicating that consumers may have already purchased the affected lettuce. It is crucial for the public to remain vigilant and ensure the safety of their lettuce purchases to avoid potential health risks."
         },
         {
           "rank": 3,
@@ -132,8 +132,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/07/260717033213.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-07-18 13:55 UTC",
-          "analysis_zh": "一项新的研究发现，几种常见的糖替代品可能并不像看起来那样无害。研究显示，摄入最多人造甜味剂的成年人在记忆和思维能力上出现了显著的下降，尤其是60岁以下或患有糖尿病的人群。最高摄入量与认知衰退的速度相比最低摄入量快了约1.6年。这一发现引发了人们对人造甜味剂对大脑健康潜在影响的关注，尽管研究人员强调在得出结论之前还需要更多的研究。",
-          "analysis_en": "A new study has found that several common sugar substitutes may not be as harmless as they appear. The research indicates that adults who consumed the most artificial sweeteners experienced significantly faster declines in memory and thinking skills, particularly among those under 60 or with diabetes. The highest intake was associated with cognitive aging occurring approximately 1.6 years faster than the lowest intake. This finding raises concerns about the potential impact of artificial sweeteners on brain health, although researchers stress that more studies are needed before drawing definitive conclusions."
+          "analysis_zh": "一项研究发现，常见的糖替代品可能与大脑老化加速有关。研究显示，摄入最多人造甜味剂的成年人，尤其是60岁以下或患有糖尿病的人，其记忆和思维能力下降速度显著加快。最高摄入量与认知衰退的速度大约比最低摄入量快1.6年。这一发现引起了广泛关注，因为它可能影响人们对人造甜味剂的使用态度，尤其是在健康饮食日益受到重视的背景下。研究人员强调，需要更多的研究来确认这些甜味剂是否直接导致了认知能力的下降。",
+          "analysis_en": "A recent study has found that common sugar substitutes may be linked to accelerated brain aging. It revealed that adults who consumed the highest amounts of artificial sweeteners, particularly those under 60 or with diabetes, experienced significantly faster declines in memory and cognitive function. The highest intake was associated with cognitive aging approximately 1.6 years faster than the lowest intake. This finding is significant as it may influence public perception and usage of artificial sweeteners, especially in the context of increasing awareness about healthy eating. Researchers have emphasized the need for further studies to determine whether these sweeteners directly cause cognitive decline."
         },
         {
           "rank": 4,
@@ -141,8 +141,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/07/260718010154.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-07-18 11:59 UTC",
-          "analysis_zh": "一项为期12周的间歇性禁食计划显示，参与者在结束计划后的一年内仍能保持减重效果。研究发现，在八小时的饮食窗口内进食的参与者，体重保持得比那些按照常规较长饮食时间进食的人更好。这一发现表明，时间限制饮食可能不仅在短期内有效，而且其效果能够持续更长时间，对肥胖管理具有重要意义。",
-          "analysis_en": "A 12-week intermittent fasting program demonstrated that participants could maintain weight loss for a year after the program ended. The study revealed that those who ate within an eight-hour window were able to preserve more weight loss compared to those who followed a longer eating schedule. This finding suggests that time-restricted eating may not only be effective in the short term but also have lasting benefits, which is significant for obesity management."
+          "analysis_zh": "一项为期12周的间歇性禁食计划显示，参与者在计划结束后的一年内仍能保持减重效果。研究发现，限制每日进食时间在八小时内的参与者，减重效果明显优于那些按照常规较长时间进食的人。无论是早上还是晚上进食，均能取得良好效果，而早期禁食对于保持脂肪减少尤为有效。这项研究的结果表明，时间限制饮食可能在短期内有效，并且其效果可以持续很长时间，对肥胖人群的减重策略具有重要意义。",
+          "analysis_en": "A 12-week intermittent fasting program demonstrated that participants could maintain weight loss for a year after the program ended. The study found that those who limited their eating to an eight-hour window experienced significantly better weight loss results compared to those who followed a longer eating schedule. Both early and late eating windows were effective, but early fasting appeared particularly beneficial for preserving fat loss. These findings suggest that time-restricted eating could be a practical short-term strategy with lasting effects, making it significant for weight management among obese individuals."
         },
         {
           "rank": 5,
@@ -150,17 +150,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/07/260716023605.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-07-18 02:24 UTC",
-          "analysis_zh": "地中海饮食可能通过激活细胞线粒体内产生的微小蛋白质来影响衰老。这项研究发现，遵循这一饮食的老年人血液中人类蛋白和SHMOOSE的水平较高，这些蛋白质与心脏和大脑保护有关。橄榄油、鱼类、豆类以及较少的精制碳水化合物被认为尤其重要。这一发现可能为科学家们提供开发个性化营养计划的基础，以促进健康衰老。",
-          "analysis_en": "The Mediterranean diet may influence aging by activating tiny proteins produced inside the mitochondria of cells. The study found that older adults who closely followed this diet had higher levels of humanin and SHMOOSE in their blood, which are linked to heart and brain protection. Key components such as olive oil, fish, legumes, and fewer refined carbohydrates were highlighted as particularly important. These findings could help scientists develop personalized nutrition plans aimed at promoting healthy aging."
-        },
-        {
-          "rank": 6,
-          "title": "Cyclospora Investigation Turns to Farms in Mexico",
-          "link": "https://www.nytimes.com/2026/07/17/health/cyclospora-taylor-farms-mexico-taco-bell-lettuce.html",
-          "source": "NYT > Health",
-          "published_utc": "2026-07-17 22:22 UTC",
-          "analysis_zh": "美国食品药品监督管理局(F.D.A.)计划对墨西哥的农场和生菜切割厂进行检查，以调查泰勒农场(Taylor Farms)向塔可钟(Taco Bell)供应的生菜是如何被污染的。这一事件引起了公众的关注，因为生菜污染可能对消费者的健康构成威胁。通过查明污染源，F.D.A.希望能够采取措施，防止类似事件再次发生，并确保食品安全。",
-          "analysis_en": "The U.S. Food and Drug Administration (F.D.A.) is planning to inspect farms and a lettuce shredding facility in Mexico to investigate how lettuce supplied by Taylor Farms to Taco Bell became contaminated. This issue has raised public concern, as contaminated lettuce poses a health risk to consumers. By identifying the source of the contamination, the F.D.A. aims to implement measures to prevent similar incidents in the future and ensure food safety."
+          "analysis_zh": "地中海饮食可能通过激活细胞线粒体内产生的小型蛋白质来影响衰老。这项研究发现，遵循地中海饮食的老年人血液中人类蛋白和SHMOOSE的水平较高，这些蛋白质与心脏和大脑的保护有关。橄榄油、鱼类、豆类以及较少的精制碳水化合物被认为尤其重要。这一发现可能为科学家制定个性化的营养计划以促进健康衰老提供新的思路。",
+          "analysis_en": "The Mediterranean diet may influence aging by activating tiny proteins produced inside the cell's mitochondria. The study found that older adults who closely followed this diet had higher levels of humanin and SHMOOSE in their blood, which are linked to protection for the heart and brain. Key components like olive oil, fish, legumes, and fewer refined carbohydrates were particularly emphasized. These findings could provide new insights for scientists in developing personalized nutrition plans aimed at promoting healthy aging."
         }
       ]
     },
@@ -174,8 +165,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/07/260717033213.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-07-18 13:55 UTC",
-          "analysis_zh": "一项新的研究发现，几种常见的糖替代品可能并不像看起来那样无害。研究显示，摄入最多人工甜味剂的成年人，尤其是60岁以下或患有糖尿病的人，记忆和思维能力的下降速度显著加快。最高摄入量与认知衰退的速度相比最低摄入量快了大约1.6年。这一发现引发了人们对人工甜味剂潜在健康风险的关注，研究人员强调在得出结论之前还需要更多的研究。",
-          "analysis_en": "A new study has found that several common sugar substitutes may not be as harmless as they appear. The research indicates that adults who consumed the highest amounts of artificial sweeteners, particularly those under 60 or with diabetes, experienced significantly faster declines in memory and thinking skills. The highest intake was associated with cognitive aging approximately 1.6 years faster than the lowest intake. This finding raises concerns about the potential health risks of artificial sweeteners, and researchers stress that more studies are needed before drawing definitive conclusions."
+          "analysis_zh": "一项研究发现，几种常见的糖替代品可能对大脑健康产生负面影响。研究显示，摄入人工甜味剂最多的成年人，尤其是60岁以下或患有糖尿病的人，记忆和思维能力的下降速度显著加快。高摄入量与认知衰退的速度大约比低摄入量快1.6年。这一发现引发了人们对人工甜味剂长期影响的关注，研究人员强调在得出结论之前需要更多的研究。",
+          "analysis_en": "A study has found that several common sugar substitutes may have negative effects on brain health. Adults who consumed the highest amounts of artificial sweeteners, particularly those under 60 or with diabetes, showed significantly faster declines in memory and thinking skills. The highest intake was associated with cognitive aging approximately 1.6 years faster than the lowest intake. This finding raises concerns about the long-term effects of artificial sweeteners, and researchers emphasize that more studies are needed before drawing definitive conclusions."
         },
         {
           "rank": 2,
@@ -183,8 +174,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/07/260716023605.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-07-18 02:24 UTC",
-          "analysis_zh": "地中海饮食可能通过激活细胞线粒体内产生的微小蛋白质来影响衰老。研究发现，遵循这种饮食的老年人血液中人类蛋白和SHMOOSE的水平更高，这些蛋白质与心脏和大脑的保护有关。特别是橄榄油、鱼类、豆类以及较少的精制碳水化合物被认为尤为重要。这项研究的发现可能为科学家制定个性化的营养计划以促进健康衰老提供新的思路。",
-          "analysis_en": "The Mediterranean diet may influence aging by activating tiny proteins produced within the mitochondria of cells. Research indicates that older adults who closely follow this diet have higher levels of humanin and SHMOOSE in their blood, both of which are linked to heart and brain protection. Key components of this diet, such as olive oil, fish, legumes, and reduced refined carbohydrates, appear to play a significant role. The findings could offer new insights for scientists in developing personalized nutrition plans aimed at promoting healthy aging."
+          "analysis_zh": "地中海饮食可能通过激活细胞线粒体内产生的小蛋白质来影响衰老，这些蛋白质与心脏和大脑的保护有关。研究发现，遵循这一饮食的老年人血液中人类蛋白和SHMOOSE的水平较高，这与心血管疾病和神经退行性疾病的保护作用相关。橄榄油、鱼类、豆类以及减少精制碳水化合物的摄入被认为尤其重要。这一发现可能为科学家制定个性化的营养计划以促进健康衰老提供新的思路。",
+          "analysis_en": "The Mediterranean diet may influence aging by activating tiny proteins produced inside the mitochondria of cells, which are linked to the protection of the heart and brain. Research shows that older adults who closely followed this diet had higher levels of humanin and SHMOOSE in their blood, both associated with protection against cardiovascular diseases and neurodegeneration. Key components of this diet include olive oil, fish, legumes, and a reduction in refined carbohydrates. These findings could provide new insights for scientists in developing personalized nutrition plans aimed at promoting healthy aging."
         }
       ]
     },
@@ -198,8 +189,8 @@
           "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
           "source": "The Verge",
           "published_utc": "2026-07-18 20:54 UTC",
-          "analysis_zh": "作家戴夫·艾格斯在去年受邀到OpenAI与约200名员工交流时，表达了对ChatGPT的强烈批评。他指出，ChatGPT对教育工作者的影响是灾难性的，认为这使得教师的工作变得更加困难，同时也剥夺了学生表达自我的机会。艾格斯的发言引发了对人工智能在教育领域影响的广泛讨论，特别是关于学生写作能力的培养和创造力的损失。这一观点可能会促使教育界重新审视AI工具的使用方式，以确保学生能够保留自己的声音和故事。",
-          "analysis_en": "Author Dave Eggers was invited to speak to around 200 OpenAI staff last year, where he voiced strong criticism of ChatGPT. He claimed that the impact of ChatGPT on educators is catastrophic, making their jobs significantly harder and robbing students of their ability to express themselves. Eggers' remarks have sparked widespread discussion about the effects of AI in education, particularly concerning the development of students' writing skills and creativity. This perspective may lead the education sector to reevaluate how AI tools are utilized, ensuring that students retain their voices and stories."
+          "analysis_zh": "作家戴夫·埃格斯在去年受萨姆·阿尔特曼的邀请，向大约200名OpenAI员工发表了演讲。他在演讲中指出，ChatGPT对教育工作者的影响是灾难性的，认为这使得教师的工作变得更加困难。他强调，学生如果依赖这种工具进行写作，将失去表达自我的能力，无法学习如何写作，这将导致整个世代的声音被压制。埃格斯的观点引发了对人工智能在教育领域影响的广泛讨论，可能会促使人们重新审视AI技术的使用和教育方式。",
+          "analysis_en": "Author Dave Eggers was invited by Sam Altman to speak to around 200 OpenAI employees last year. During his talk, he expressed that ChatGPT has had a catastrophic impact on educators, making their jobs significantly more difficult. He emphasized that if students rely on such tools for writing, they will lose their ability to express themselves and learn to write, effectively silencing an entire generation. Eggers' remarks have sparked widespread discussion about the implications of AI in education, potentially prompting a reevaluation of how AI technologies are utilized in teaching and learning."
         },
         {
           "rank": 2,
@@ -207,8 +198,8 @@
           "link": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
           "source": "The Verge",
           "published_utc": "2026-07-18 18:25 UTC",
-          "analysis_zh": "据Mystic Leaks的消息，谷歌的Pixel 11a可能将搭载旗舰级的Tensor G6处理器，而不是Pixel 10和10 Pro中使用的Tensor G5。这一变化非常重要，因为Pixel a系列通常会使用现代处理器，以保持竞争力。新的处理器预计将解决Tensor芯片长期存在的电池消耗和信号丢失问题，从而提升用户体验。此外，尽管Pixel 11a的电池容量略有减少，但由于处理器的效率提升，电池续航可能会保持不变或略有改善。",
-          "analysis_en": "According to Mystic Leaks, Google's Pixel 11a may feature the flagship-grade Tensor G6 processor instead of the Tensor G5 found in the Pixel 10 and 10 Pro. This change is significant because the Pixel a series typically uses modern processors to stay competitive. The new processor is expected to address long-standing issues with Tensor chips, such as battery drain and dropped signals, thereby enhancing the user experience. Additionally, although the Pixel 11a's battery capacity is slightly reduced, improvements in processor efficiency may allow battery life to remain the same or even improve slightly."
+          "analysis_zh": "据Mystic Leaks的消息，谷歌的Pixel 11a可能将搭载旗舰级的Tensor G6处理器，而不是Pixel 10和10 Pro中使用的Tensor G5。之前发布的Pixel 10a则使用了更旧的Tensor G4，这让许多消费者感到失望，因为通常Pixel a系列会采用现代处理器。此次升级不仅有助于提升性能，还可能解决Tensor芯片长期存在的电池耗电和信号不稳定问题。这一变化对谷歌在中端市场的竞争力至关重要，可能会吸引更多消费者的关注。",
+          "analysis_en": "According to Mystic Leaks, Google's Pixel 11a may feature the flagship-grade Tensor G6 processor instead of the Tensor G5 found in the Pixel 10 and 10 Pro. The previous Pixel 10a used the older Tensor G4, which disappointed many consumers, as the Pixel a series typically includes modern processors. This upgrade is expected to enhance performance and potentially address long-standing issues with Tensor chips, such as battery drain and signal instability. This change is crucial for Google's competitiveness in the mid-range market and may attract more consumer interest."
         },
         {
           "rank": 3,
@@ -216,8 +207,8 @@
           "link": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
           "source": "The Verge",
           "published_utc": "2026-07-18 16:40 UTC",
-          "analysis_zh": "谷歌宣布将其3D表情符号开源，这一举措在世界表情符号日发布。用户现在可以在自己的创作中使用这些3D表情符号，谷歌还分享了设计过程中的一些细节。这一决定不仅让更多人能够参与到3D表情符号的使用中，也可能激发出更多创意应用，比如虚拟现实世界或独立应用程序的开发。这标志着谷歌在推动数字创意和社区参与方面迈出了重要一步。",
-          "analysis_en": "Google has announced that it will open-source its 3D emoji, a move revealed on World Emoji Day. Users can now incorporate these 3D emojis into their own creations, and Google shared insights into the design process. This decision not only allows more people to engage with the 3D emojis but may also inspire creative applications, such as the development of virtual reality worlds or indie apps. This marks a significant step for Google in promoting digital creativity and community involvement."
+          "analysis_zh": "谷歌宣布将其3D表情符号开源，任何人都可以在自己的创作中使用这些表情符号。这一决定是在世界表情符号日的庆祝活动中公布的，谷歌分享了设计这些小图标的过程和背后的原因。开源的3D表情符号不仅为开发者提供了新的创作工具，也可能推动虚拟现实和独立应用程序的发展，激发更多创新的想法。",
+          "analysis_en": "Google has announced that it will open-source its 3D emoji, allowing anyone to use these emojis in their own creations. This decision was revealed during the celebrations for World Emoji Day, where Google shared insights into the design process behind these pictograms. The open-sourcing of the 3D emojis not only provides developers with new creative tools but may also drive the development of virtual reality and indie applications, sparking more innovative ideas."
         },
         {
           "rank": 4,
@@ -225,8 +216,8 @@
           "link": "https://www.nytimes.com/2026/07/18/sports/soccer/world-cup-live-tv-delay.html",
           "source": "NYT > Technology",
           "published_utc": "2026-07-18 15:48 UTC",
-          "analysis_zh": "最近，有关世界杯直播的报道引起了广泛关注。许多观众发现，他们观看的进球回放并不是实时的，而是有延迟的。这一现象引发了对体育赛事直播质量的讨论，尤其是在社交媒体上，某些用户可能会比其他人更快看到进球。这不仅影响了观众的观看体验，也可能对赛事的转播权和广告收益产生潜在影响。",
-          "analysis_en": "Recently, reports about World Cup broadcasts have garnered significant attention. Many viewers have noticed that the goal replays they are watching are not truly live but come with a delay. This phenomenon has sparked discussions about the quality of sports event broadcasts, especially since some users on social media may see goals much faster than others. This not only affects the viewing experience for audiences but could also have potential implications for broadcasting rights and advertising revenue."
+          "analysis_zh": "最近，有关世界杯直播的讨论引发了广泛关注。许多观众发现，他们观看进球的时间与实际发生的时间存在差异，部分观众甚至能更快地看到进球回放。这一现象引发了人们对直播真实性的质疑，也可能影响观众对赛事的体验和参与感。随着技术的发展，如何确保直播的实时性将成为未来体育转播的重要议题。",
+          "analysis_en": "Recently, discussions surrounding World Cup broadcasts have garnered significant attention. Many viewers have noticed discrepancies between the actual timing of goals and when they see them, with some even receiving replays faster. This phenomenon raises questions about the authenticity of live broadcasts and may affect viewers' overall experience and engagement with the event. As technology evolves, ensuring the real-time nature of broadcasts will become a crucial issue for future sports transmissions."
         },
         {
           "rank": 5,
@@ -234,8 +225,8 @@
           "link": "https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale",
           "source": "The Verge",
           "published_utc": "2026-07-18 15:00 UTC",
-          "analysis_zh": "GoPro最近推出的Max 2配件套装在亚马逊上降价至369美元，这一价格比基础相机多出70美元，却包含了价值100美元的配件。这一优惠使得消费者能够以较低的成本获得全面的拍摄设备，适合各种户外活动。Max 2相机支持360度8K视频录制，能够捕捉到更多细节，这对极限运动爱好者尤其重要。这样的折扣不仅吸引了新用户，也可能影响到市场上其他品牌的竞争策略。",
-          "analysis_en": "GoPro has recently discounted its Max 2 accessory bundle to $369 on Amazon, which is only $70 more than the base camera but includes $100 worth of accessories. This deal allows consumers to acquire a comprehensive shooting setup at a lower cost, making it ideal for various outdoor activities. The Max 2 camera supports 360-degree 8K video recording, capturing more details, which is particularly important for action sports enthusiasts. Such discounts not only attract new users but may also influence the competitive strategies of other brands in the market."
+          "analysis_zh": "GoPro最近推出的Max 2配件套装在亚马逊上降价至369美元，这一价格比基本款相差仅70美元。这个套装包含了拍摄360度8K视频所需的所有配件，如延长杆、两块电池和64GB的microSD卡等。这次降价不仅使得高质量的360度相机更具吸引力，也可能刺激更多消费者选择GoPro的产品，从而提升其市场份额。",
+          "analysis_en": "GoPro has recently discounted its Max 2 accessory bundle to $369 on Amazon, which is only $70 more than the base model. This bundle includes all the necessary accessories for capturing 360-degree 8K video, such as an extension pole, two batteries, and a 64GB microSD card. This price drop makes high-quality 360-degree cameras more appealing and could encourage more consumers to choose GoPro products, potentially increasing its market share."
         },
         {
           "rank": 6,
@@ -243,8 +234,8 @@
           "link": "https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview",
           "source": "The Verge",
           "published_utc": "2026-07-18 14:30 UTC",
-          "analysis_zh": "卡特·舍曼（Carter Sherman）在《卫报》上回忆起她对《时之笛》（Ocarina of Time）的恐惧与喜爱。作为一名长期关注性别和相关政治议题的记者，她的经历和作品引发了人们对当代性与关系的深思。她的新书《第二次降临：性与下一代的未来斗争》探讨了互联网和政治极化如何影响现代的性与关系。这一话题不仅关乎个人生活，也影响着社会的广泛讨论。",
-          "analysis_en": "Carter Sherman fondly recalls her fear and admiration for Ocarina of Time in her piece for The Guardian. As a journalist who has long covered issues of gender and related politics, her experiences and writings provoke reflection on contemporary sexuality and relationships. Her new book, The Second Coming: Sex and the Next Generation’s Fight Over Its Future, examines how the internet and political polarization have shaped modern sex and relationships. This topic is not only relevant to personal lives but also impacts broader societal discussions."
+          "analysis_zh": "卡特·舍曼（Carter Sherman）在《卫报》担任记者多年，专注于性别、性和相关的复杂政治。她的著作《第二次降临》探讨了互联网和两极化政治如何影响性和人际关系。舍曼的工作不仅在媒体界获得了多个奖项，还引发了公众对性教育和堕胎等议题的关注。她在《卫报》主持的播客《Stateside》也为她提供了一个平台，分享这些重要话题。她的经历和见解可能会影响人们对性别和性相关问题的看法。",
+          "analysis_en": "Carter Sherman has been a journalist at The Guardian for many years, focusing on issues of sex, gender, and the complex politics surrounding them. Her book, \"The Second Coming,\" examines how the internet and a polarized political landscape have influenced sex and relationships. Sherman's work has not only earned her multiple awards in the media but has also sparked public interest in topics like sex education and abortion. As a co-host of the podcast \"Stateside\" at The Guardian, she has a platform to discuss these crucial issues. Her experiences and insights may shape public perceptions of gender and sexuality-related matters."
         },
         {
           "rank": 7,
@@ -252,8 +243,8 @@
           "link": "https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review",
           "source": "The Verge",
           "published_utc": "2026-07-18 14:00 UTC",
-          "analysis_zh": "最近，一些面部识别智能锁的评测结果显示，这种技术实际上表现良好。无钥匙解锁的便利性使得智能锁的使用体验更加顺畅，用户无需记住密码或腾出手来操作锁具。面部识别技术的进步可能会改变我们对家庭安全的看法，并推动智能家居设备的普及。尽管目前配备超宽带（UWB）天线的锁具价格较高，但随着技术的发展，未来可能会有更多经济实惠的选择出现。",
-          "analysis_en": "Recently, reviews of facial recognition smart locks have shown that this technology performs quite well. The convenience of hands-free unlocking enhances the user experience, eliminating the need to remember passcodes or use a free hand to operate the lock. The advancements in facial recognition technology could change our perceptions of home security and promote the adoption of smart home devices. Although locks equipped with ultra-wideband (UWB) antennas are currently expensive, we may see more affordable options emerge as the technology evolves."
+          "analysis_zh": "最近，面部识别智能锁的表现超出了预期，成为无接触解锁的未来选择。这种技术的优势在于，它消除了输入密码的麻烦，用户只需走近门口，门锁便会自动解锁。这一进步不仅提升了智能家居的便利性，还可能影响到安全性和用户体验，推动更多家庭采用这种高科技解决方案。",
+          "analysis_en": "Recently, facial recognition smart locks have exceeded expectations, emerging as a future choice for hands-free unlocking. The advantage of this technology lies in its ability to eliminate the hassle of entering passcodes; users simply approach the door, and it unlocks automatically. This advancement not only enhances the convenience of smart homes but may also impact security and user experience, encouraging more households to adopt this high-tech solution."
         },
         {
           "rank": 8,
@@ -261,8 +252,8 @@
           "link": "https://www.nytimes.com/2026/07/17/technology/roger-summit-dead.html",
           "source": "NYT > Technology",
           "published_utc": "2026-07-18 13:24 UTC",
-          "analysis_zh": "罗杰·萨米特（Roger Summit）于95岁去世，他是一位在洛克希德工作的研究科学家，发明了早期的在线搜索服务。他提出了一种计算机系统的构想，可以几乎瞬间搜索科学和技术文献。这一创新对信息检索领域产生了深远影响，使得学术研究和技术开发变得更加高效。萨米特的贡献不仅推动了科技进步，也为后来的搜索引擎奠定了基础。",
-          "analysis_en": "Roger Summit, who passed away at the age of 95, was a research scientist at Lockheed and invented an early online search service. He conceptualized a computer system capable of searching scientific and technical literature almost instantaneously. This innovation had a profound impact on the field of information retrieval, making academic research and technological development more efficient. Summit's contributions not only advanced technological progress but also laid the groundwork for future search engines."
+          "analysis_zh": "罗杰·萨米特（Roger Summit），一位早期在线搜索服务的发明者，近日去世，享年95岁。他在洛克希德公司的研究工作中，提出了一种几乎可以瞬间搜索科学和技术文献的计算机系统。这一创新不仅改变了信息检索的方式，也为后来的互联网搜索引擎奠定了基础。萨米特的贡献在科技领域具有深远的影响，推动了信息获取的效率和便利性。",
+          "analysis_en": "Roger Summit, the inventor of an early online search service, has passed away at the age of 95. While working at Lockheed, he developed a computer system capable of searching scientific and technical literature almost instantaneously. This innovation transformed the way information is retrieved and laid the groundwork for modern internet search engines. Summit's contributions have had a lasting impact on the technology sector, enhancing the efficiency and accessibility of information retrieval."
         },
         {
           "rank": 9,
@@ -270,8 +261,8 @@
           "link": "https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review",
           "source": "The Verge",
           "published_utc": "2026-07-18 12:30 UTC",
-          "analysis_zh": "索尼最新推出的Bravia 9 II电视备受期待，成为近年来最受瞩目的新款电视。这款RGB LED电视在画质上表现出色，尤其是在观看《龙与地下城：盗贼荣耀》时，画面中的自然景观和魔法效果都显得生动而真实。尽管Bravia 9 II的价格比前一代产品贵了1000美元，但其更高的亮度和更好的反射控制使其在市场上具有竞争力。这款电视的发布不仅提升了索尼在高端电视市场的地位，也可能影响消费者对OLED电视的选择。",
-          "analysis_en": "Sony's newly launched Bravia 9 II TV is highly anticipated, becoming one of the most talked-about new TVs in years. This RGB LED TV excels in picture quality, especially when watching \"Dungeons & Dragons: Honor Among Thieves,\" where the natural landscapes and magical effects appear vivid and realistic. Although the Bravia 9 II is priced $1,000 higher than its predecessor, its increased brightness and improved anti-reflective features make it competitive in the market. The release of this TV not only enhances Sony's position in the high-end television market but may also influence consumer preferences regarding OLED TVs."
+          "analysis_zh": "索尼最新发布的Bravia 9 II电视备受期待，成为近年来最受瞩目的新款电视。这款RGB LED电视在画质上表现出色，尤其是在观看《龙与地下城：盗贼荣耀》时，画面中的自然景观和魔法效果都显得非常生动。尽管Bravia 9 II的价格比前一代产品高出1000美元，但其更高的亮度和更好的反射控制使其在市场上具有竞争力。这款电视的推出可能会影响消费者的购买决策，并推动其他品牌在技术和价格上的竞争。",
+          "analysis_en": "Sony's newly released Bravia 9 II TV is highly anticipated and has become one of the most talked-about new TVs in years. This RGB LED TV delivers outstanding picture quality, especially when watching \"Dungeons & Dragons: Honor Among Thieves,\" where the natural landscapes and magical effects appear incredibly vivid. Although the Bravia 9 II is priced $1,000 higher than its predecessor, its increased brightness and improved anti-reflective features make it competitive in the market. The launch of this TV may influence consumer purchasing decisions and drive competition among other brands in terms of technology and pricing."
         },
         {
           "rank": 10,
@@ -279,8 +270,8 @@
           "link": "https://www.theverge.com/games/961152/denshattack-review",
           "source": "The Verge",
           "published_utc": "2026-07-18 12:00 UTC",
-          "analysis_zh": "最近几周，轨道游戏的表现相当不错。任天堂的《星际火狐》重制版保留了《星际火狐64》中紧凑的剧情和充满动作的关卡，尽管已经快20年了，但依然令人乐在其中。而新游戏《Denshattack!》则以高速列车为主题，玩家在游戏中不仅要驾驶列车，还能进行各种特技动作。这种游戏设计不仅让玩家体验到快速的游戏节奏，还可能影响未来游戏的开发方向，鼓励更多开发者尝试将不同类型的玩法结合在一起。",
-          "analysis_en": "The past few weeks have been promising for rail-based games. Nintendo's remake of \"Star Fox\" has successfully retained the tightly scripted and action-packed levels from \"Star Fox 64,\" which remain enjoyable nearly 20 years later. Meanwhile, the new game \"Denshattack!\" features a high-speed train theme where players can perform various tricks while driving. This innovative design not only provides players with a fast-paced gaming experience but may also influence future game development by encouraging more developers to blend different gameplay styles."
+          "analysis_zh": "最近几周，轨道游戏迎来了好消息。任天堂的《星际火狐》重制版保留了《星际火狐64》中紧凑的剧情和充满动作的关卡，时隔近20年依然让人乐在其中。而Undercoders的新作《Denshattack!》同样以精心设计的关卡为特色，玩家在游戏中驾驶高速列车，进行各种特技表演。这种游戏设计不仅提升了玩家的沉浸感，也可能影响未来游戏的开发方向，鼓励更多开发者探索轨道游戏的潜力。",
+          "analysis_en": "Recently, it has been a good time for games on rails. Nintendo's remake of \"Star Fox\" retained the tightly scripted and action-packed levels from \"Star Fox 64,\" which are still enjoyable nearly 20 years later. Similarly, Undercoders' new game \"Denshattack!\" features carefully designed levels where players control a high-speed train while performing tricks. This game design enhances player immersion and may influence future game development, encouraging more developers to explore the potential of rail-based games."
         }
       ]
     },
@@ -290,93 +281,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "Leaks Spotted in New Museum Gallery with WangShui Work as NYC Braces for Floods",
+          "link": "https://www.artnews.com/art-news/news/new-museum-leaks-closure-flash-floods-wangshui-work-1234792787/",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-07-18 21:33 UTC",
+          "analysis_zh": "近日，纽约新博物馆的展厅内发现了漏水现象，正值纽约市面临洪水警报之际。博物馆发言人表示，发现漏水后立即采取了措施，确保没有艺术品受到损害。这一事件引发了人们对博物馆建筑安全和艺术品保护的关注，尤其是在气候变化导致极端天气事件频发的背景下。未来，博物馆可能需要加强基础设施，以应对类似的自然灾害。",
+          "analysis_en": "Recently, leaks were discovered in the gallery of the New Museum in New York, coinciding with a flash flood warning for the city. A spokesperson for the museum stated that immediate actions were taken upon discovering the leak, ensuring that no artwork was harmed. This incident raises concerns about the safety of museum buildings and the protection of artworks, especially in the context of climate change leading to more frequent extreme weather events. Moving forward, the museum may need to enhance its infrastructure to better cope with such natural disasters."
+        },
+        {
+          "rank": 2,
           "title": "BIGX super sports playground shapes a digital landscape through steel, light, and color",
           "link": "https://www.designboom.com/architecture/bigx-super-sports-playground-digital-landscape-steel-light-color-fun-connection-design-funconn/",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-07-18 20:30 UTC",
-          "analysis_zh": "BIGX超级运动游乐场通过钢材、光线和色彩塑造了一个数字化的景观。内部的数字蓝色形成了一个连续的视觉场，而信号橙色则突出了运动和互动的关键点。这一设计不仅提升了游乐场的美学体验，也为儿童和青少年提供了一个充满活力的活动空间。这样的创新设计可能会影响未来游乐场的规划和建设，推动更多类似的项目出现。",
-          "analysis_en": "The BIGX super sports playground has created a digital landscape using steel, light, and color. The interior features a continuous visual field in digital blue, while signal orange highlights key points of movement and interaction. This design enhances the aesthetic experience of the playground and provides a vibrant activity space for children and teenagers. Such innovative designs may influence future playground planning and construction, potentially leading to more projects of this nature."
+          "analysis_zh": "BIGX超级运动游乐场通过钢铁、光线和色彩塑造了一个数字化的景观。这个项目的重要性在于它不仅提供了一个互动和运动的空间，还通过数字蓝色和信号橙色的运用，创造了一个连贯的视觉体验。这种设计可能会影响未来公共空间的规划，鼓励更多类似的创新项目，以提升城市环境的活力和吸引力。",
+          "analysis_en": "The BIGX super sports playground shapes a digital landscape using steel, light, and color. This project is significant because it offers an interactive and active space while creating a cohesive visual experience through the use of digital blue and signal orange. Such a design may influence future public space planning, encouraging more innovative projects that enhance the vibrancy and appeal of urban environments."
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "‘Heartstopper Forever’: What to Know Before Seeing the Movie",
           "link": "https://www.nytimes.com/2026/07/17/movies/heartstopper-forever-movie-what-to-know.html",
           "source": "NYT > Arts",
           "published_utc": "2026-07-18 19:45 UTC",
-          "analysis_zh": "《心跳止不住：永远的心跳》电影即将上映，这部电影是基于艾丽斯·奥斯曼的图画小说和Netflix系列制作的。文章回顾了主要角色的故事情节以及他们的故事发展到何处。此电影不仅是对粉丝的情感回馈，也可能吸引新观众，进一步扩大其影响力。随着电影的发布，可能会引发对相关主题的更广泛讨论，尤其是关于青少年爱情和身份认同的议题。",
-          "analysis_en": "The movie \"Heartstopper Forever\" is set to be released, based on the graphic novels by Alice Oseman and the Netflix series. The article reviews the storylines of the main characters and where their journeys left off. This film serves not only as a tribute to the fans but may also attract new viewers, potentially expanding its influence. With the release of the movie, there could be broader discussions on related themes, particularly regarding teenage love and identity."
+          "analysis_zh": "《心跳停止：永远》是一部基于爱丽丝·奥斯曼的漫画小说的Netflix系列及其电影版的最终篇。该系列讲述了几个青少年之间的情感故事，受到了广泛的喜爱。了解角色的背景和他们的故事发展对于观众欣赏电影至关重要。随着电影的上映，粉丝们期待看到他们喜爱的角色如何在大银幕上继续他们的旅程。",
+          "analysis_en": "\"Heartstopper Forever\" is a feature-length finale based on the graphic novels by Alice Oseman, part of the popular Netflix series. The series explores the emotional journeys of several teenagers and has garnered a significant fanbase. Understanding the characters' backgrounds and story arcs is crucial for viewers to fully appreciate the film. With the movie's release, fans are eager to see how their beloved characters will continue their journeys on the big screen."
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Joe Melson, 91, Dies; Wrote ‘Only the Lonely’ and Other Hits With Roy Orbison",
           "link": "https://www.nytimes.com/2026/07/18/arts/music/joe-melson-dead.html",
           "source": "NYT > Arts",
           "published_utc": "2026-07-18 19:18 UTC",
-          "analysis_zh": "乔·梅尔森（Joe Melson）于91岁去世，他与罗伊·奥比森（Roy Orbison）合作创作了《孤独的只有你》（Only the Lonely）等多首经典歌曲。两人紧密合作，共同创作了超过200首歌曲，包括《哭泣》（Crying）、《害怕奔跑》（Running Scared）和《蓝色海湾》（Blue Bayou）。梅尔森的离世标志着一个音乐时代的结束，他的作品对流行音乐产生了深远的影响，尤其是在情感表达和旋律构建方面。未来，梅尔森的音乐遗产将继续影响新一代的音乐创作者和听众。",
-          "analysis_en": "Joe Melson passed away at the age of 91, having co-written the classic song \"Only the Lonely\" with Roy Orbison. The duo worked closely together, producing over 200 songs, including \"Crying,\" \"Running Scared,\" and \"Blue Bayou.\" Melson's death marks the end of an era in music, as his contributions significantly shaped pop music, particularly in emotional expression and melody construction. In the future, Melson's musical legacy will continue to influence new generations of songwriters and listeners."
+          "analysis_zh": "乔·梅尔森（Joe Melson）于91岁去世，他与罗伊·奥比森（Roy Orbison）合作创作了《孤独的唯一》（Only the Lonely）等多首经典歌曲。两人紧密合作，创作了超过200首歌曲，包括《哭泣》（Crying）、《害怕奔跑》（Running Scared）和《蓝色海湾》（Blue Bayou）。梅尔森的去世标志着一个音乐时代的结束，他的作品对流行音乐产生了深远的影响，激励了无数后来的艺术家。",
+          "analysis_en": "Joe Melson passed away at the age of 91, having co-written hits like \"Only the Lonely\" with Roy Orbison. The duo collaborated closely, producing over 200 songs, including \"Crying,\" \"Running Scared,\" and \"Blue Bayou.\" Melson's death signifies the end of an era in music, as his contributions have had a lasting impact on popular music and have inspired countless artists who followed."
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "It’s a Crowded and Contested World Cup Halftime Show",
           "link": "https://www.nytimes.com/2026/07/18/arts/music/world-cup-halftime-show.html",
           "source": "NYT > Arts",
           "published_utc": "2026-07-18 11:28 UTC",
-          "analysis_zh": "在即将到来的世界杯中，麦当娜、贾斯汀·比伯、夏奇拉和BTS等明星将参与全新的中场表演。这一变化引发了足球爱好者的争议，他们对这种娱乐化的趋势表示不满。这场表演不仅吸引了大量观众，也可能影响世界杯的传统形象和观众体验。随着娱乐与体育的结合，未来的赛事可能会更加注重明星效应，而非纯粹的竞技精神。",
-          "analysis_en": "In the upcoming World Cup, stars like Madonna, Justin Bieber, Shakira, and BTS will take part in a new halftime show. This shift has sparked controversy among soccer purists, who are critical of the increasing focus on entertainment. The performance is expected to draw significant attention and could alter the traditional image of the World Cup and the spectator experience. As entertainment becomes more intertwined with sports, future events may prioritize star power over the essence of athletic competition."
+          "analysis_zh": "在即将到来的世界杯中，麦当娜、贾斯汀·比伯、夏奇拉和防弹少年团等明星将参与全新的中场表演。这一活动引发了足球爱好者的争议，他们对这种商业化的表演形式表示不满。此举不仅展示了体育与娱乐的结合，也可能影响世界杯的传统形象，改变球迷对赛事的期待和体验。",
+          "analysis_en": "In the upcoming World Cup, stars like Madonna, Justin Bieber, Shakira, and BTS will participate in a new halftime show. This initiative has sparked controversy among soccer purists, who are critical of the commercialization of the event. This move not only highlights the intersection of sports and entertainment but may also affect the traditional image of the World Cup, altering fans' expectations and experiences of the tournament."
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "céleste boursier-mougenot composes music through a ring of swings and bells",
           "link": "https://www.designboom.com/art/celeste-boursier-mougenot-music-ring-swings-bells-frac-normandie-caen/",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-07-18 10:30 UTC",
-          "analysis_zh": "法国艺术家塞莱斯特·布尔西耶-穆热诺特（Céleste Boursier-Mougenot）在诺曼底的Frac艺术中心打造了一个独特的声音景观，利用八个悬挂在古老教堂钟声下的秋千进行音乐创作。这一装置不仅为观众提供了参与的机会，还通过互动体验让人们重新思考音乐与空间的关系。这种创新的艺术形式可能会影响未来艺术展览的设计理念，鼓励更多的参与性和互动性。",
-          "analysis_en": "French artist Céleste Boursier-Mougenot has created a unique soundscape at the Frac Normandie in Normandy, using eight swings suspended beneath antique church bells to compose music. This installation offers viewers an opportunity to engage actively, prompting a reconsideration of the relationship between music and space. Such innovative artistic expressions may influence the design concepts of future exhibitions, encouraging greater participation and interactivity."
+          "analysis_zh": "法国艺术家塞莱斯特·布尔西耶-穆热诺特（Céleste Boursier-Mougenot）在诺曼底的一个庭院中创造了一个互动的声音景观，利用八个悬挂的秋千和古老的教堂钟声进行音乐创作。这一装置不仅为观众提供了参与的机会，还通过声音与空间的结合，增强了人们对周围环境的感知。这种艺术形式的重要性在于它打破了传统音乐的界限，鼓励人们以新的方式体验和理解音乐，可能会影响未来的公共艺术项目和互动设计。",
+          "analysis_en": "French artist Céleste Boursier-Mougenot has created an interactive soundscape in a courtyard in Normandy, using eight swings suspended beneath antique church bells to compose music. This installation not only invites audience participation but also enhances awareness of the surrounding environment through the interplay of sound and space. The significance of this art form lies in its ability to transcend traditional boundaries of music, encouraging people to experience and understand music in new ways, which may influence future public art projects and interactive designs."
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "e-tattoos: what if a fierce shark and a shy tiger could monitor your health?",
           "link": "https://www.designboom.com/technology/fierce-shark-shy-tiger-tattoos-etattoos-health-paint-on/",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-07-18 09:11 UTC",
-          "analysis_zh": "最近，研究人员开发出了一种新型的电子纹身，这些纹身不仅具有艺术美感，还能监测心脏、肌肉和大脑的健康状况。这种技术的出现具有重要意义，因为它将传统的身体艺术与健康监测相结合，可能会改变我们对健康管理的方式。未来，这些电子纹身可能会被广泛应用于医疗领域，帮助人们实时监测身体状况，从而提高健康管理的效率。",
-          "analysis_en": "Recently, researchers have developed a new type of electronic tattoo that not only serves as body art but also monitors heart, muscle, and brain health. This technology is significant as it combines traditional body art with health monitoring, potentially transforming how we manage our health. In the future, these electronic tattoos could be widely used in the medical field, helping individuals monitor their health status in real-time and improving the efficiency of health management."
+          "analysis_zh": "最近，一种名为电子纹身（e-tattoos）的新技术引起了广泛关注。这些色彩斑斓的电子纹身不仅仅是身体艺术的表现，它们还可以作为心脏、肌肉和大脑的传感器，实时监测健康状况。这项技术的重要性在于，它可能为健康监测提供一种更便捷和美观的方式，尤其是在运动和医疗领域。未来，这种电子纹身可能会改变我们对健康监测的传统观念，使其更加个性化和无缝。",
+          "analysis_en": "Recently, a new technology called electronic tattoos (e-tattoos) has garnered significant attention. These colorful tattoos are not just a form of body art; they can also function as sensors to monitor the heart, muscles, and brain in real time. The importance of this technology lies in its potential to provide a more convenient and aesthetically pleasing method of health monitoring, particularly in the fields of fitness and medicine. In the future, these electronic tattoos could transform our traditional views on health monitoring, making it more personalized and seamless."
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Blockbuster Summer Movies for the Hottest Summer Ever",
           "link": "https://www.nytimes.com/2026/07/18/arts/hottest-summer-blockbuster-movies-sketch.html",
           "source": "NYT > Arts",
           "published_utc": "2026-07-18 09:01 UTC",
-          "analysis_zh": "随着2026年预计将创下历史高温，电影行业开始关注与夏季酷热相关的主题。近期，一部名为《钢铁侠4：空调时代》的电影引起了广泛关注。这不仅反映了气候变化对文化产品的影响，也可能改变观众的观影偏好和电影制作的方向。这样的趋势提醒我们，艺术与现实生活之间的联系愈发紧密。",
-          "analysis_en": "As record-setting heat is projected for 2026, the film industry is starting to focus on themes related to summer heat. Recently, a movie titled \"Iron Man 4: Age of Air Con\" has garnered significant attention. This not only reflects the impact of climate change on cultural products but may also alter audience preferences and the direction of film production. Such trends remind us that the connection between art and real life is becoming increasingly close."
+          "analysis_zh": "随着2026年预计将迎来创纪录的高温，一部名为《钢铁侠4：空调时代》的电影即将上映。这部电影的推出不仅反映了气候变化对文化产业的影响，也展示了人们在极端天气下对娱乐的需求。这样的趋势可能会促使更多电影制作人关注气候相关主题，从而影响未来的影视作品和观众的消费习惯。",
+          "analysis_en": "As record-setting heat is projected for 2026, a movie titled \"Iron Man 4: Age of Air Con\" is set to hit theaters. This release not only highlights the impact of climate change on the cultural industry but also showcases the public's demand for entertainment in extreme weather conditions. Such trends may encourage more filmmakers to focus on climate-related themes, potentially influencing future films and audience consumption habits."
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Eight cottage living room interiors fit for a rural retreat",
           "link": "https://www.dezeen.com/2026/07/18/eight-cottage-living-rooms-lookbooks/",
           "source": "Dezeen",
           "published_utc": "2026-07-18 09:00 UTC",
-          "analysis_zh": "这篇文章展示了八个适合乡村度假的小屋客厅，强调了它们宁静的室内设计。这些小屋从苏格兰高地到捷克的波希米亚森林，融合了现代元素与传统建筑风格，给人以放松和恢复活力的感觉。随着北半球夏季的到来，这些设计灵感为人们提供了理想的乡村逃离方案，可能会激发更多人选择乡村度假，享受自然的宁静。",
-          "analysis_en": "This article showcases eight cottage living rooms ideal for a rural retreat, highlighting their serene interior designs. These cottages, ranging from the Scottish Highlands to the Bohemian Forest in Czechia, combine contemporary elements with traditional architecture, offering a sense of relaxation and rejuvenation. As summer approaches in the northern hemisphere, these design inspirations provide an ideal escape to the countryside, potentially encouraging more people to seek out rural getaways and enjoy the tranquility of nature."
+          "analysis_zh": "这篇文章展示了八个适合乡村度假的小屋客厅，涵盖了从苏格兰高地到捷克波希米亚森林的宁静室内设计。随着北半球夏季的到来，这些小屋将现代元素与传统建筑风格相结合，为人们提供了一个放松身心的理想场所。这些设计不仅美观，还能激发人们对乡村生活的向往，可能会影响未来度假选择和室内设计趋势。",
+          "analysis_en": "This article showcases eight cottage living rooms ideal for a rural retreat, featuring peaceful interiors from the Scottish Highlands to the Bohemian Forest in Czechia. As summer approaches in the Northern Hemisphere, these cottages blend contemporary elements with traditional architecture, providing an ideal space for relaxation. These designs are not only aesthetically pleasing but may also inspire a longing for rural living, potentially influencing future vacation choices and interior design trends."
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "What to Know Before Seeing ‘The Odyssey’: Plot, Characters and More",
           "link": "https://www.nytimes.com/2026/07/18/movies/the-odyssey-plot-characters-trojan-war.html",
           "source": "NYT > Arts",
           "published_utc": "2026-07-18 09:00 UTC",
-          "analysis_zh": "克里斯托弗·诺兰改编的《奥德赛》将荷马的史诗诗篇搬上大银幕，影片中包含了怪兽战斗、女巫以及众多渴望求婚者的故事情节。这部作品不仅是对经典文学的现代诠释，也为观众提供了视觉和情感上的震撼体验。随着诺兰在电影界的影响力日益增强，这部影片可能会引发对古典文学改编的更多讨论，并影响未来的电影创作方向。",
-          "analysis_en": "Christopher Nolan's adaptation of \"The Odyssey\" brings Homer's epic poem to the big screen, featuring monster battles, a sorceress, and numerous eager suitors. This film serves as a modern interpretation of classic literature, offering viewers a visually and emotionally impactful experience. As Nolan's influence in the film industry continues to grow, this adaptation may spark further discussions about the adaptation of classical literature and influence future filmmaking trends."
-        },
-        {
-          "rank": 10,
-          "title": "Lindsay Hubbard Prefers a Long-Distance Boyfriend",
-          "link": "https://www.nytimes.com/2026/07/18/arts/television/lindsay-hubbard-in-the-city-interview.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-07-18 09:00 UTC",
-          "analysis_zh": "“夏季之家”的演员林赛·哈伯德（Lindsay Hubbard）最近分享了她对远距离恋爱的偏好。她曾因男友未能为她准备三明治而大声呵斥，这显示出她对亲密关系的期待。然而，如今她更享受独立的空间，这表明她对个人生活的重视可能会影响她未来的感情选择。这样的转变不仅反映了她的成长，也可能影响她在节目中的表现和观众的看法。",
-          "analysis_en": "Lindsay Hubbard, a cast member of \"Summer House,\" recently expressed her preference for a long-distance boyfriend. In the past, she yelled at a boyfriend for not making her sandwiches, highlighting her expectations in relationships. However, she now enjoys her independence, indicating that her focus on personal space may influence her future romantic choices. This shift not only reflects her personal growth but could also impact her portrayal on the show and how viewers perceive her."
+          "analysis_zh": "克里斯托弗·诺兰对荷马史诗《奥德赛》的改编即将上映，影片中包含了怪兽战斗、女巫以及众多渴望获得女主角青睐的求婚者。这部作品的重要性在于它不仅是对经典文学的现代诠释，还将吸引新一代观众关注古代神话。诺兰的导演风格和视觉效果可能会对观众的理解和体验产生深远影响。",
+          "analysis_en": "Christopher Nolan's adaptation of Homer's epic poem \"The Odyssey\" is set to be released, featuring monster battles, a sorceress, and numerous suitors vying for the heroine's affection. This film is significant as it offers a modern interpretation of classic literature, potentially drawing a new generation of viewers to ancient myths. Nolan's directorial style and visual effects may have a lasting impact on how audiences perceive and experience the story."
         }
       ]
     }
