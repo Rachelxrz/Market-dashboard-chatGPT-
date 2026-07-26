@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-26 14:42:58 UTC",
-  "generated_at_unix": 1785076978,
+  "generated_at": "2026-07-26 15:10:12 UTC",
+  "generated_at_unix": 1785078612,
   "window": {
-    "from_utc": "2026-07-25 14:42:58 UTC",
-    "to_utc": "2026-07-26 14:42:58 UTC",
+    "from_utc": "2026-07-25 15:10:12 UTC",
+    "to_utc": "2026-07-26 15:10:12 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,99 +14,99 @@
       "items": [
         {
           "rank": 1,
+          "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
+          "link": "https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-07-26 15:00 UTC",
+          "analysis_zh": "一对夫妇拥有800万美元的传统个人退休账户（IRA），他们正在考虑是否应该提取这些资金来购买房屋，尽管这将导致税务负担增加。他们认为，与其支付抵押贷款利息，不如提前支付税款。这一决策不仅关系到他们的财务状况，还可能影响他们的长期退休计划。若他们选择提取资金，可能会影响未来的投资收益和退休生活质量。",
+          "analysis_en": "A couple with $8 million in traditional IRAs is contemplating whether to withdraw funds to buy a house, despite the tax implications. They believe that paying taxes upfront is preferable to incurring mortgage interest. This decision is significant as it affects their financial situation and could impact their long-term retirement plans. If they choose to withdraw the funds, it may influence their future investment returns and the quality of their retirement life."
+        },
+        {
+          "rank": 2,
+          "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'",
+          "link": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-07-26 14:50 UTC",
+          "analysis_zh": "乌克兰最近在里海袭击了伊朗的船只，导致德黑兰指责基辅进行“敌对和犯罪行为”。这一事件标志着中东冲突的扩大，尤其是在沙特阿拉伯对伊朗支持的胡塞武装目标进行军事打击的背景下。这种局势的升级可能会进一步加剧地区紧张局势，并影响国际社会对中东局势的关注和干预策略。",
+          "analysis_en": "Ukraine recently struck Iranian vessels in the Caspian Sea, prompting Tehran to accuse Kyiv of a \"hostile and criminal act.\" This incident represents an escalation of the Middle East conflict, particularly in light of Saudi military strikes on Iran-backed Houthi targets. The intensification of this situation could further heighten regional tensions and influence the international community's focus and intervention strategies regarding the Middle East."
+        },
+        {
+          "rank": 3,
+          "title": "Shein files for Hong Kong IPO as tariff changes weigh on growth, profits",
+          "link": "https://www.investing.com/news/stock-market-news/shein-files-for-hong-kong-ipo-after-profit-drops-despite-revenue-growth-4812897",
+          "source": "Stock Market News",
+          "published_utc": "2026-07-26 14:50 UTC",
+          "analysis_zh": "全球知名的时尚电商平台Shein近日在香港提交了首次公开募股（IPO）申请。这一举措的背后是由于关税变化对其增长和利润造成了压力。Shein的上市不仅可能为其提供更多的资金支持，还可能改变其在全球市场的竞争格局。投资者将密切关注这一进程，以评估其未来的市场表现和潜在风险。",
+          "analysis_en": "The globally recognized fashion e-commerce platform Shein has recently filed for an initial public offering (IPO) in Hong Kong. This move comes in response to tariff changes that have impacted its growth and profits. The IPO could not only provide Shein with additional funding but also alter its competitive landscape in the global market. Investors will closely monitor this process to assess its future market performance and potential risks."
+        },
+        {
+          "rank": 4,
+          "title": "IonQ vs. Rigetti: Who's Winning the $2.7 Trillion Quantum Computing Race?",
+          "link": "https://finance.yahoo.com/technology/articles/ionq-vs-rigetti-whos-winning-144500861.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-07-26 14:45 UTC",
+          "analysis_zh": "IonQ和Rigetti在量子计算领域展开激烈竞争，市场规模预计将达到2.7万亿美元。这场竞争的重要性在于，量子计算有潜力彻底改变计算能力，影响各行各业的技术进步和商业模式。随着这两家公司不断推进技术创新，未来可能会出现新的应用和解决方案，进一步推动经济增长。",
+          "analysis_en": "IonQ and Rigetti are engaged in a fierce competition in the quantum computing sector, with the market projected to reach $2.7 trillion. This competition is significant because quantum computing has the potential to revolutionize computing power, impacting technological advancements and business models across various industries. As both companies continue to drive technological innovation, we may see new applications and solutions emerge, further stimulating economic growth."
+        },
+        {
+          "rank": 5,
+          "title": "For Gen X investors, dotcom bubble haunts stock market portfolios closing in on retirement",
+          "link": "https://www.cnbc.com/2026/07/26/gen-x-investors-dotcom-bubble-retirement-portfolio.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-07-26 14:44 UTC",
+          "analysis_zh": "许多50至55岁的美国人面临退休前的投资挑战，他们的401(k)和IRA账户仍需增长，但市场的不确定性让他们感到焦虑。尤其是经历过互联网泡沫的这一代人，对股市的波动更加敏感。这种情况不仅影响他们的退休计划，也可能导致更广泛的经济不稳定，因为投资者的信心直接关系到市场的表现。",
+          "analysis_en": "Many Americans aged 50 to 55 are facing investment challenges as they approach retirement, needing their 401(k) and IRA accounts to grow despite market uncertainties. This generation, having experienced the dotcom bubble, is particularly sensitive to stock market fluctuations. This situation not only affects their retirement plans but could also lead to broader economic instability, as investor confidence directly impacts market performance."
+        },
+        {
+          "rank": 6,
+          "title": "Goldman says ServiceNow is writing a totally new playbook",
+          "link": "https://finance.yahoo.com/technology/ai/articles/goldman-says-servicenow-writing-totally-143700279.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-07-26 14:37 UTC",
+          "analysis_zh": "高盛表示，ServiceNow正在制定一套全新的商业模式。这一变化引起了市场的广泛关注，因为它可能会影响企业如何管理和优化其服务流程。ServiceNow的创新可能会推动行业内的竞争，促使其他公司也进行相应的调整和改进。投资者应密切关注这一动态，以便抓住潜在的投资机会。",
+          "analysis_en": "Goldman Sachs has stated that ServiceNow is developing a completely new business model. This shift has garnered significant market attention as it may influence how companies manage and optimize their service processes. ServiceNow's innovations could drive competition within the industry, prompting other firms to make corresponding adjustments and improvements. Investors should closely monitor this development to seize potential investment opportunities."
+        },
+        {
+          "rank": 7,
           "title": "Shein swings to quarterly loss ahead of Hong Kong IPO",
           "link": "https://www.investing.com/news/stock-market-news/shein-reveals-key-financials-ahead-of-hong-kong-ipo-4812893",
           "source": "Stock Market News",
           "published_utc": "2026-07-26 14:36 UTC",
-          "analysis_zh": "近期，知名时尚电商平台Shein在即将进行香港首次公开募股（IPO）前，公布了其季度亏损的消息。这一亏损引发了市场的广泛关注，因为它可能影响投资者对该公司的信心及其IPO的成功与否。Shein的财务表现不仅关乎其自身发展，也可能对整个电商行业的投资趋势产生影响，尤其是在当前经济环境下。",
-          "analysis_en": "Recently, the well-known fashion e-commerce platform Shein announced a quarterly loss ahead of its upcoming initial public offering (IPO) in Hong Kong. This loss has drawn significant market attention, as it may affect investor confidence and the overall success of the IPO. Shein's financial performance is not only crucial for its own growth but could also influence investment trends across the entire e-commerce sector, especially in the current economic climate."
+          "analysis_zh": "近日，知名时尚电商平台Shein在即将进行香港首次公开募股（IPO）前，公布了其季度亏损的消息。这一财务状况引发了市场的广泛关注，因为Shein在过去几年中迅速崛起，成为全球最大的快时尚品牌之一。此亏损可能会影响投资者对其IPO的信心，并对其未来的市场表现产生重大影响。",
+          "analysis_en": "Recently, the well-known fashion e-commerce platform Shein announced a quarterly loss ahead of its upcoming IPO in Hong Kong. This financial situation has drawn significant attention from the market, as Shein has rapidly risen to become one of the largest fast-fashion brands globally in recent years. This loss may affect investor confidence in its IPO and could have a substantial impact on its future market performance."
         },
         {
-          "rank": 2,
-          "title": "Shein files for Hong Kong IPO after profit drops despite revenue growth",
-          "link": "https://www.investing.com/news/stock-market-news/shein-files-for-hong-kong-ipo-after-profit-drops-despite-revenue-growth-4812897",
-          "source": "Stock Market News",
-          "published_utc": "2026-07-26 14:32 UTC",
-          "analysis_zh": "中国快时尚品牌Shein近日在香港提交了首次公开募股（IPO）申请，尽管其收入增长，但利润却出现下滑。这一举动引发了市场的广泛关注，因为Shein在全球电商领域的影响力不断扩大。投资者对其未来的盈利能力表示担忧，这可能会影响其在资本市场的表现和投资者信心。",
-          "analysis_en": "Chinese fast-fashion brand Shein has recently filed for an initial public offering (IPO) in Hong Kong, despite experiencing a drop in profits even as revenues grew. This move has attracted significant market attention, given Shein's expanding influence in the global e-commerce sector. Investors are concerned about its future profitability, which could impact its performance in the capital markets and investor confidence."
+          "rank": 8,
+          "title": "Why I Wouldn't Touch This 6.5% Yielder, Even at a Discount",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/why-wouldnt-touch-6-5-143500848.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-07-26 14:35 UTC",
+          "analysis_zh": "最近，有分析师对一只年收益率为6.5%的股票表示了谨慎态度，尽管其价格已经折扣。这一观点引发了市场的关注，因为高收益率通常吸引投资者，但分析师警告称，这只股票的潜在风险可能超过其收益。投资者在做出决策时需要仔细评估风险与收益之间的平衡，这可能会影响他们的投资策略和市场走向。",
+          "analysis_en": "Recently, an analyst expressed caution regarding a stock with a 6.5% yield, even though it is currently discounted. This viewpoint has garnered market attention, as high yields typically attract investors; however, the analyst warns that the potential risks associated with this stock may outweigh its benefits. Investors need to carefully assess the balance between risk and reward when making decisions, which could influence their investment strategies and the overall market direction."
         },
         {
-          "rank": 3,
+          "rank": 9,
+          "title": "Cincinnati Financial Has Raised Its Dividend for 65 Straight Years. At 10 Times Earnings, Is the Dividend King a Buy?",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/cincinnati-financial-raised-dividend-65-143500569.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-07-26 14:35 UTC",
+          "analysis_zh": "辛辛那提金融公司连续65年提高股息，这一成就突显了其稳定的财务表现和对股东的承诺。随着公司股息的增加，投资者可能会对其股票产生更大的兴趣，尤其是在当前经济环境下，稳定的收益对许多投资者来说尤为重要。这一举措不仅可能吸引更多的长期投资者，还可能提升公司的市场形象和股价。",
+          "analysis_en": "Cincinnati Financial has raised its dividend for 65 consecutive years, showcasing its stable financial performance and commitment to shareholders. As the company increases its dividend, investors may become more interested in its stock, particularly in the current economic climate where steady income is crucial for many. This move could attract more long-term investors and enhance the company's market image and stock price."
+        },
+        {
+          "rank": 10,
           "title": "Elizabeth Warren says House stock trading ban has 'major loopholes' — 48% of Congress still owns individual stocks",
           "link": "https://finance.yahoo.com/markets/stocks/articles/elizabeth-warren-says-house-stock-143000935.html",
           "source": "Yahoo Finance",
           "published_utc": "2026-07-26 14:30 UTC",
-          "analysis_zh": "美国参议员伊丽莎白·沃伦指出，国会对股票交易的禁令存在“重大漏洞”，因为仍有48%的国会议员持有个别股票。这一问题引发了广泛关注，因为国会议员在制定经济政策时可能会受到个人利益的影响。沃伦的言论可能促使更多人关注政治透明度和利益冲突的问题，进而推动相关立法的改革。",
-          "analysis_en": "Senator Elizabeth Warren has highlighted that the ban on stock trading for Congress has significant loopholes, with 48% of Congress still owning individual stocks. This issue has garnered widespread attention, as lawmakers may be influenced by personal financial interests when shaping economic policies. Warren's remarks could lead to increased scrutiny on political transparency and conflicts of interest, potentially driving reforms in related legislation."
-        },
-        {
-          "rank": 4,
-          "title": "Inside the S&P 500 AI boom, industrials are getting as rich as tech stocks",
-          "link": "https://www.cnbc.com/2026/07/26/best-ai-stocks-market-sp500.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-07-26 14:12 UTC",
-          "analysis_zh": "近期，工业部门在人工智能基础设施的快速发展中获得了显著的收益，其市盈率接近科技股的水平，投资者的资金流入也非常强劲。这一现象表明，工业企业正在迅速适应和利用AI技术，从而提升其市场价值。这一趋势不仅可能改变投资者对工业股的看法，还可能推动整个行业的创新与发展，进一步缩小与科技行业之间的差距。",
-          "analysis_en": "Recently, the industrial sector has significantly benefited from the rapid growth of AI infrastructure, with its price-to-earnings ratio approaching that of tech stocks and strong investor inflows. This trend indicates that industrial companies are quickly adapting to and leveraging AI technology, thereby enhancing their market value. This shift may not only alter investors' perceptions of industrial stocks but also drive innovation and development across the sector, further narrowing the gap with the tech industry."
-        },
-        {
-          "rank": 5,
-          "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'",
-          "link": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-07-26 14:12 UTC",
-          "analysis_zh": "乌克兰最近对伊朗在里海的船只发动攻击，导致德黑兰指责基辅进行“敌对和犯罪行为”。这一事件不仅加剧了乌克兰与伊朗之间的紧张关系，也可能进一步扩大中东地区的冲突。与此同时，沙特对伊朗支持的胡塞武装目标的军事打击，使得局势更加复杂。这些事件可能会影响国际社会对中东局势的关注，并加大对相关国家的外交压力。",
-          "analysis_en": "Ukraine recently launched attacks on Iranian vessels in the Caspian Sea, prompting Tehran to accuse Kyiv of a \"hostile and criminal act.\" This incident not only escalates tensions between Ukraine and Iran but may also widen the conflict in the Middle East. Additionally, Saudi military strikes against Iran-backed Houthi targets have further complicated the situation. These developments could increase international scrutiny of the Middle East and heighten diplomatic pressure on the involved nations."
-        },
-        {
-          "rank": 6,
-          "title": "How AI wealth could be distributed to all Americans",
-          "link": "https://www.cnbc.com/2026/07/26/how-can-ai-wealth-be-shared-with-all-americans.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-07-26 14:06 UTC",
-          "analysis_zh": "近期，关于人工智能财富分配的讨论引起了广泛关注。目前，AI带来的经济利益主要集中在少数几家大型公司手中，这引发了对财富不平等的担忧。许多新的、甚至是激进的想法正在被提出，以期实现财富的更公平分配。这一问题的重要性在于，如果不采取措施，可能会加剧社会分裂，并影响经济的可持续发展。",
-          "analysis_en": "Recently, discussions about the distribution of wealth generated by artificial intelligence have gained significant attention. Currently, the economic benefits from AI are largely concentrated in a few major companies, raising concerns about wealth inequality. Many new and even radical ideas are being proposed to achieve a fairer distribution of this wealth. The importance of this issue lies in the fact that without intervention, it could exacerbate social divisions and impact the sustainable development of the economy."
-        },
-        {
-          "rank": 7,
-          "title": "The S&P 500’s earnings growth has gone bonkers thanks to one company",
-          "link": "https://www.marketwatch.com/story/the-s-p-500s-earnings-growth-has-gone-bonkers-thanks-to-one-company-1c45b2ba?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-07-26 14:00 UTC",
-          "analysis_zh": "标准普尔500指数的盈利增长因一家公司的表现而异常强劲。随着第二季度财报季的到来，市场正准备迎接最繁忙的一周。这一现象表明，个别公司的业绩可能会对整体市场产生重大影响，投资者需要密切关注这些财报，以评估未来的投资机会和风险。",
-          "analysis_en": "The earnings growth of the S&P 500 has surged dramatically due to the performance of one company. As the second-quarter earnings season approaches its busiest week, this trend highlights how individual companies can significantly impact the overall market. Investors should closely monitor these earnings reports to assess potential investment opportunities and risks moving forward."
-        },
-        {
-          "rank": 8,
-          "title": "Some high-earning investors will soon owe taxes on years of deferred capital gains",
-          "link": "https://www.cnbc.com/2026/07/26/opportunity-zone-investors-face-deferred-capital-gains-tax-bill.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-07-26 13:30 UTC",
-          "analysis_zh": "美国的机会区投资者将面临一个重要的税务变化：从2023年12月31日起，延迟征税的资本收益将不再适用。这意味着许多高收入投资者需要开始为他们过去几年所获得的资本收益缴税。这一政策的结束可能会影响投资者的决策，尤其是在机会区的投资活动上，可能导致一些投资者重新评估他们的投资策略。",
-          "analysis_en": "A significant tax change is coming for Opportunity Zone investors in the U.S.: starting December 31, 2023, the ability to defer taxes on capital gains will no longer be available. This means that many high-earning investors will need to start paying taxes on capital gains they have accrued over the past years. The end of this policy could influence investors' decisions, particularly regarding investments in Opportunity Zones, potentially leading some to reassess their investment strategies."
-        },
-        {
-          "rank": 9,
-          "title": "4 generations, 6 different visions of the American Dream: 'I'm optimistic because of our resilience'",
-          "link": "https://www.cnbc.com/2026/07/26/how-different-generations-are-rewriting-the-american-dream-today.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-07-26 13:30 UTC",
-          "analysis_zh": "在最近的一项调查中，CNBC Make It采访了政治、金融和人际关系领域的知名人士，探讨了在当今美国实现幸福和成功所需的条件。这项研究揭示了四代人对美国梦的不同看法，反映了社会价值观的变化。了解这些观点的重要性在于，它们不仅影响个人的生活选择，也可能影响政策制定和社会发展方向。",
-          "analysis_en": "In a recent survey, CNBC Make It interviewed notable figures from politics, finance, and relationships to explore what it takes to achieve happiness and success in America today. The study reveals different perspectives on the American Dream across four generations, reflecting changing societal values. Understanding these viewpoints is important as they not only influence individual life choices but may also impact policy-making and the direction of social development."
-        },
-        {
-          "rank": 10,
-          "title": "Why this strategist says U.S. institutional erosion is overstated",
-          "link": "https://www.investing.com/news/stock-market-news/why-this-strategist-says-us-institutional-erosion-is-overstated-4812863",
-          "source": "Stock Market News",
-          "published_utc": "2026-07-26 13:08 UTC",
-          "analysis_zh": "最近，一位策略师表示，美国机构投资者的衰退被夸大了。这一观点引发了市场的广泛关注，因为机构投资者在股市中的作用至关重要。如果这种衰退被低估，可能会影响投资者的信心和市场的稳定性。了解这一现象有助于投资者做出更明智的决策，并可能影响未来的投资策略。",
-          "analysis_en": "Recently, a strategist claimed that the perceived decline of U.S. institutional investors has been exaggerated. This perspective has garnered significant attention in the market, as institutional investors play a crucial role in the stock market. If this decline is underestimated, it could impact investor confidence and market stability. Understanding this phenomenon can help investors make more informed decisions and may influence future investment strategies."
+          "analysis_zh": "美国参议员伊丽莎白·沃伦指出，国会对股票交易的禁令存在“重大漏洞”，因为仍有48%的国会议员持有个别股票。这一现象引发了对国会透明度和道德标准的广泛关注。沃伦的评论表明，现行的法规未能有效防止利益冲突，可能会影响公众对政府的信任。若不进行必要的改革，国会的决策可能继续受到个人利益的影响，从而损害民主制度的公正性。",
+          "analysis_en": "Senator Elizabeth Warren has highlighted that the House's ban on stock trading has \"major loopholes,\" as 48% of Congress members still own individual stocks. This situation raises significant concerns about transparency and ethical standards within Congress. Warren's remarks suggest that current regulations fail to effectively prevent conflicts of interest, which could undermine public trust in the government. Without necessary reforms, Congressional decisions may continue to be influenced by personal interests, potentially compromising the integrity of the democratic system."
         }
       ]
     },
     "健康": {
       "description": "医学、营养、抗衰老、代谢与公共健康",
-      "count": 6,
+      "count": 5,
       "items": [
         {
           "rank": 1,
@@ -114,8 +114,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/07/260726015237.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-07-26 13:06 UTC",
-          "analysis_zh": "近期的一项研究发现，流行的人工智能饮食应用在卡路里计数方面可能存在显著误差。这些应用在与精确准备的餐食进行对比测试时，平均低估了约三分之一的卡路里和脂肪含量，尤其是高脂肪的生酮饮食更容易出现问题。这一发现对那些依赖这些应用来管理健康和体重的人来说，具有重要意义，因为不准确的卡路里估算可能导致错误的饮食决策，从而影响健康结果。",
-          "analysis_en": "A recent study revealed that popular AI-powered food apps may significantly underestimate calorie counts. When tested against carefully prepared meals, these apps averaged a one-third lower estimate for calories and fat content, particularly struggling with high-fat ketogenic dishes. This finding is crucial for individuals relying on these apps to manage their health and weight, as inaccurate calorie estimates could lead to misguided dietary choices and ultimately affect health outcomes."
+          "analysis_zh": "最近的研究表明，流行的人工智能卡路里追踪应用在估算食物热量时可能存在显著误差。测试中发现，四款应用在对比精确准备的餐食时，平均低估了约三分之一的卡路里和脂肪含量。这一发现对那些依赖这些应用来管理健康或减肥的人来说尤为重要，因为错误的估算可能导致饮食计划失效，影响健康管理的效果。",
+          "analysis_en": "Recent research indicates that popular AI calorie-tracking apps may have significant inaccuracies in estimating food calories. In tests comparing carefully prepared meals, four apps underestimated calories and fat content by about one-third on average. This finding is particularly important for individuals relying on these apps for health management or weight loss, as inaccurate estimates could undermine dietary plans and affect overall health management."
         },
         {
           "rank": 2,
@@ -123,8 +123,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/07/260726015250.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-07-26 12:36 UTC",
-          "analysis_zh": "科学家们利用CRISPR技术，使前列腺癌细胞更容易被免疫系统识别和摧毁。这项实验性治疗在小鼠身上显著改善了免疫疗法的效果，可能为其他难以治疗的肿瘤带来希望。前列腺癌通常被认为是“免疫冷”的，意味着它们吸引的免疫细胞非常少，因此免疫疗法的效果有限。通过改变癌细胞内部的RNA，研究人员使肿瘤对免疫细胞更加可见，从而增强了免疫系统的攻击能力。这项研究的成果可能为未来的癌症治疗提供新的思路。",
-          "analysis_en": "Scientists have used CRISPR technology to make prostate cancer cells easier for the immune system to detect and destroy. This experimental treatment significantly improved the effects of immunotherapy in mice and may offer hope for other hard-to-treat tumors. Prostate cancer is often considered \"immune cold,\" meaning it attracts very few immune cells, limiting the effectiveness of immunotherapy. By altering the RNA within cancer cells, researchers made the tumors more visible to immune cells, thereby enhancing the immune system's ability to attack. The findings could pave the way for new approaches in cancer treatment in the future."
+          "analysis_zh": "科学家们利用CRISPR技术使前列腺癌细胞更容易被免疫系统识别和摧毁。这项实验性治疗在小鼠实验中显著提高了免疫疗法的效果，为其他难治性肿瘤带来了希望。前列腺癌通常被认为是“免疫冷”的肿瘤，难以吸引足够的免疫细胞进行攻击。通过改变癌细胞内的RNA，研究人员使这些肿瘤变得更加显眼，从而增强了免疫系统的反应。这项研究的进展可能为癌症治疗带来新的方向，尤其是在针对其他难以治疗的肿瘤时。",
+          "analysis_en": "Scientists have used CRISPR technology to make prostate cancer cells more detectable and destroyable by the immune system. This experimental treatment significantly improved the effects of immunotherapy in mice and may offer hope for other hard-to-treat tumors. Prostate cancer is often classified as \"immune cold,\" making it difficult for immune cells to mount an effective attack. By altering the RNA within cancer cells, researchers have made these tumors more visible, enhancing the immune response. This advancement could lead to new directions in cancer treatment, particularly for other challenging tumor types."
         },
         {
           "rank": 3,
@@ -132,8 +132,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/07/260726015259.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-07-26 11:43 UTC",
-          "analysis_zh": "科学家发现，受损的脂肪细胞会发生炎症，失去储存脂质的能力，最终消失，从而干扰身体的新陈代谢。这项研究表明，糖尿病不仅可能由于过多的脂肪引起，还可能由于失去身体所需的健康脂肪组织而导致。这一发现对糖尿病的预防和治疗具有重要意义，可能促使医学界重新审视脂肪在代谢健康中的角色。",
-          "analysis_en": "Scientists have discovered that damaged fat cells can become inflamed, lose their ability to store lipids, and eventually disappear, disrupting the body's metabolism. This research indicates that diabetes can arise not only from excess fat but also from the loss of healthy fat tissue that the body requires. This finding is significant for diabetes prevention and treatment, as it may prompt the medical community to reevaluate the role of fat in metabolic health."
+          "analysis_zh": "科学家发现，受损的脂肪细胞会发生炎症，失去储存脂质的能力，最终消失，从而干扰身体的新陈代谢。这项研究表明，糖尿病不仅可能由于脂肪过多引起，也可能是由于身体所需的健康脂肪组织的流失。了解这一机制对糖尿病的预防和治疗具有重要意义，可能会影响未来的治疗方法和健康管理策略。",
+          "analysis_en": "Scientists have discovered that damaged fat cells can become inflamed, lose their ability to store lipids, and eventually disappear, disrupting the body's metabolism. This research indicates that diabetes can result not only from excess fat but also from the loss of healthy fat tissue that the body requires. Understanding this mechanism is crucial for diabetes prevention and treatment, and it may influence future therapeutic approaches and health management strategies."
         },
         {
           "rank": 4,
@@ -141,8 +141,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/07/260726015257.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-07-26 10:14 UTC",
-          "analysis_zh": "科学家们发现了一个可能的临界点，这个临界点有助于判断与阿尔茨海默病相关的脑部变化是否会导致痴呆症。研究表明，大脑的免疫细胞如何对淀粉样斑块和tau蛋白的反应可能是关键，这为延缓认知衰退的治疗提供了新的希望。这项研究的重要性在于，它揭示了为什么一些人尽管存在阿尔茨海默病的病理变化，却仍然保持认知健康。未来，针对微胶质细胞的治疗可能成为改善患者认知能力的新方向。",
-          "analysis_en": "Scientists have identified a potential tipping point that helps determine whether brain changes associated with Alzheimer's disease lead to dementia. The key may lie in how the brain's immune cells respond to amyloid plaques and tau proteins, offering new hope for treatments aimed at extending cognitive resilience. This research is significant because it reveals why some individuals, despite having Alzheimer's pathology, remain cognitively healthy. Future treatments targeting microglia could represent a new approach to improving cognitive function in patients."
+          "analysis_zh": "科学家们发现了一个可能的“临界点”，这可能决定阿尔茨海默病相关的脑部变化是否会导致痴呆症。研究表明，脑部免疫细胞对淀粉样斑块和tau蛋白的反应可能是关键，这为延长认知韧性的新治疗方法提供了希望。这项研究的重要性在于，它揭示了为什么一些人尽管有阿尔茨海默病病理变化却仍能保持认知健康。未来的治疗可能会更加关注微胶质细胞的变化，从而帮助更多人抵御痴呆症的发生。",
+          "analysis_en": "Scientists have identified a potential \"tipping point\" that may determine whether brain changes associated with Alzheimer's disease lead to dementia. The key appears to be how the brain's immune cells respond to amyloid plaques and tau proteins, offering promising new targets for treatments aimed at extending cognitive resilience. This research is significant because it reveals why some individuals can remain cognitively healthy despite having Alzheimer's pathology. Future therapies may focus more on the changes in microglia, which could help more people resist the onset of dementia."
         },
         {
           "rank": 5,
@@ -150,23 +150,14 @@
           "link": "https://www.sciencedaily.com/releases/2026/07/260726015254.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-07-26 08:16 UTC",
-          "analysis_zh": "“后房”现象起初是一个空荡荡的黄色房间的诡异图像，但随着互联网用户的参与，它逐渐演变成一个庞大的虚构世界，令人感到不安。通过视频、游戏和社交媒体故事，观众不仅仅是观看恐怖情节的发展，他们还参与到这个世界的构建与探索中。这种现象反映了一种新的数字旅游形式，人们情感上进入充满神秘和怀旧感的虚构场所。随着这一趋势的兴起，可能会影响人们对虚拟空间的认知和体验方式。",
-          "analysis_en": "The \"Backrooms\" phenomenon began as a single eerie image of empty yellow rooms but has evolved into a vast fictional world thanks to internet users. Through videos, games, and social media stories, audiences do more than just watch the horror unfold; they actively participate in building and exploring this universe. This trend reflects a new form of digital tourism, where people emotionally engage with imaginary places filled with mystery and nostalgia. As this trend continues to grow, it may influence how people perceive and experience virtual spaces."
-        },
-        {
-          "rank": 6,
-          "title": "A single dose reversed autism-like symptoms in adult mice within hours",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260724061436.htm",
-          "source": "Health & Medicine News -- ScienceDaily",
-          "published_utc": "2026-07-25 15:09 UTC",
-          "analysis_zh": "一项新的研究发现，怀孕期间即使是轻微的炎症也会导致小鼠后代出现持久的自闭症样症状，包括大脑过度活跃、感官敏感性、重复行为以及癫痫风险增加。令人惊讶的是，单剂量的雷帕霉素在大约两小时内几乎改善了所有这些问题。虽然这种改善是暂时的，但这表明成年大脑的神经回路可能比之前认为的更具适应性。这项研究为未来可能开发更安全和更有针对性的治疗方法提供了新的思路。",
-          "analysis_en": "A new study has found that even mild inflammation during pregnancy can lead to lasting autism-like symptoms in mouse offspring, including persistent brain overactivity, sensory sensitivity, repetitive behaviors, and increased seizure risk. Remarkably, a single dose of rapamycin improved nearly all of these issues within about two hours. Although the benefits were temporary, this suggests that adult brain circuits may be more adaptable than previously thought. This research opens up new avenues for developing safer and more targeted therapies in the future."
+          "analysis_zh": "“后室”现象起初源于一幅空荡荡的黄色房间的恐怖图片，但随着互联网用户的参与，这一概念发展成了一个庞大的虚构世界。通过视频、游戏和社交媒体故事，观众不仅观看恐怖情节的发展，还参与到这个世界的构建和探索中。这种现象反映了一种新型的数字旅游，吸引人们情感上进入充满神秘和怀旧的虚构场所。随着这一现象的流行，可能会影响人们对虚拟现实和数字文化的理解，甚至改变旅游产业的未来。",
+          "analysis_en": "The \"Backrooms\" phenomenon began with a single eerie image of empty yellow rooms but has since evolved into a vast fictional universe thanks to internet users. Through videos, games, and social media stories, audiences not only watch the horror unfold but also participate in building and exploring this world. This trend reflects a new kind of digital tourism, where people emotionally engage with imaginary places filled with mystery and nostalgia. As this phenomenon gains popularity, it may influence how we understand virtual reality and digital culture, potentially reshaping the future of the tourism industry."
         }
       ]
     },
     "心理/哲学": {
       "description": "心理学、行为、认知、哲学与意义讨论",
-      "count": 3,
+      "count": 2,
       "items": [
         {
           "rank": 1,
@@ -174,8 +165,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/07/260726015257.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-07-26 10:14 UTC",
-          "analysis_zh": "科学家们发现了一种可能的临界点，这一发现有助于判断阿尔茨海默病相关的脑部变化是否会导致痴呆症。研究表明，大脑的免疫细胞如何对斑块和tau蛋白的反应可能是关键，这为延缓认知衰退的治疗提供了新的靶点。此项研究基于人类捐赠的脑组织，揭示了与疾病进展和抵抗力相关的细胞程序和免疫细胞状态。这一发现不仅有助于理解阿尔茨海默病的复杂性，也可能为未来的治疗方法提供新的方向。",
-          "analysis_en": "Scientists have identified a possible tipping point that helps determine whether changes in the brain related to Alzheimer's disease lead to dementia. The key may lie in how the brain's immune cells respond to plaques and tau proteins, offering a new target for treatments aimed at extending cognitive resilience. This research, based on human donor brain tissue, reveals distinct cellular programs and immune cell states associated with disease progression and resistance. These findings not only enhance our understanding of the complexities of Alzheimer's disease but may also provide new directions for future therapies."
+          "analysis_zh": "科学家们发现了一个可能的临界点，这一发现有助于判断阿尔茨海默病相关的大脑变化是否会导致痴呆症。研究表明，大脑的免疫细胞如何应对淀粉样斑块和tau蛋白可能是关键，这为延缓认知衰退的治疗提供了新的希望。此项研究的成果可能会改变我们对阿尔茨海默病的理解，并为未来的治疗策略提供新的方向。",
+          "analysis_en": "Scientists have identified a possible tipping point that helps determine whether changes in the brain related to Alzheimer’s disease lead to dementia. The key may lie in how the brain's immune cells respond to amyloid plaques and tau proteins, offering new hope for treatments aimed at extending cognitive resilience. This research could change our understanding of Alzheimer’s and provide new directions for future treatment strategies."
         },
         {
           "rank": 2,
@@ -183,86 +174,86 @@
           "link": "https://www.sciencedaily.com/releases/2026/07/260726015254.htm",
           "source": "Mind & Brain News -- ScienceDaily",
           "published_utc": "2026-07-26 08:16 UTC",
-          "analysis_zh": "“后室”这一概念最初源于一张空荡荡的黄色房间的诡异图片，但随着互联网用户的参与，它演变成一个庞大的虚构世界，令人感到不安。通过视频、游戏和社交媒体故事，观众不仅是旁观者，他们还参与到这个恐怖故事的构建与探索中。这种现象反映了一种新型的数字旅游，允许人们情感上进入充满神秘与怀旧的虚构场所。随着这一概念的流行，可能会影响人们对虚拟空间的认知和体验，甚至改变我们对现实与虚构之间界限的理解。",
-          "analysis_en": "The concept of the \"Backrooms\" originated from a single eerie image of empty yellow rooms, but it has evolved into a vast fictional world that feels unsettlingly real due to the involvement of internet users. Through videos, games, and social media stories, audiences are not just passive viewers; they actively participate in building and exploring this horror narrative. This phenomenon reflects a new form of digital tourism, allowing people to emotionally enter imaginary places filled with mystery and nostalgia. As this concept gains popularity, it may influence how we perceive and experience virtual spaces, potentially altering our understanding of the boundaries between reality and fiction."
-        },
-        {
-          "rank": 3,
-          "title": "A single dose reversed autism-like symptoms in adult mice within hours",
-          "link": "https://www.sciencedaily.com/releases/2026/07/260724061436.htm",
-          "source": "Mind & Brain News -- ScienceDaily",
-          "published_utc": "2026-07-25 15:09 UTC",
-          "analysis_zh": "一项新的研究发现，怀孕期间的轻微炎症会导致小鼠后代出现持久的自闭症样症状，包括大脑过度活跃、感官敏感性、重复行为和癫痫风险增加。然而，令人惊讶的是，仅用一次雷帕霉素的剂量，就能在约两个小时内改善几乎所有这些问题。尽管这种改善是暂时的，但研究表明，成年大脑的神经回路可能比之前认为的更具适应性。这项发现可能为未来开发更安全和针对性的治疗方法提供新的思路。",
-          "analysis_en": "A new study has found that mild inflammation during pregnancy can lead to lasting autism-like symptoms in mouse offspring, including brain overactivity, sensory sensitivity, repetitive behaviors, and increased seizure risk. Remarkably, a single dose of rapamycin improved nearly all of these issues within about two hours. Although the benefits were temporary, the research suggests that adult brain circuits may be more adaptable than previously thought. This finding could provide new insights for developing safer and more targeted therapies in the future."
+          "analysis_zh": "“后室”现象起初源于一张空荡荡的黄色房间的诡异图片，但随着互联网用户的参与，它发展成了一个庞大的虚构世界，令人感到不安。通过视频、游戏和社交媒体故事，观众不仅仅是观看恐怖情节的展开，他们还参与到这个世界的构建与探索中。这种现象反映了一种新型的数字旅游，用户在情感上进入充满神秘和怀旧的虚构场所。随着这一概念的流行，可能会影响人们对虚拟现实和数字文化的理解与体验。",
+          "analysis_en": "The \"Backrooms\" phenomenon began with a single eerie image of empty yellow rooms but has since evolved into a vast fictional world that feels unsettlingly real due to user participation. Through videos, games, and social media stories, audiences are not just passive viewers but actively contribute to building and exploring this universe. This trend reflects a new form of digital tourism, where people emotionally engage with imaginary places filled with mystery and nostalgia. As this concept gains popularity, it may influence how we perceive virtual reality and digital culture."
         }
       ]
     },
     "AI 科技": {
       "description": "AI、芯片、软件、科技产业与研究进展",
-      "count": 7,
+      "count": 8,
       "items": [
         {
           "rank": 1,
+          "title": "You can get three months of Xbox Game Pass Ultimate for almost half off",
+          "link": "https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale",
+          "source": "The Verge",
+          "published_utc": "2026-07-26 15:00 UTC",
+          "analysis_zh": "最近，Xbox Game Pass Ultimate的三个月订阅在Eneba网站上以39.01美元的价格出售，几乎是正常价格的45%折扣。这一优惠使得原本每月22.99美元的订阅变得更加划算，尤其是在许多玩家对持续订阅感到犹豫的情况下。此举不仅可以吸引更多用户尝试这一服务，还可能提升Xbox平台的整体用户活跃度和游戏体验。",
+          "analysis_en": "Recently, a three-month subscription to Xbox Game Pass Ultimate is available for $39.01 on the Eneba website, which is almost a 45% discount off the normal price. This deal makes the subscription, which typically costs $22.99 per month, much more appealing, especially as many gamers have been hesitant about ongoing subscriptions. This move could not only attract more users to try the service but also enhance the overall user engagement and gaming experience on the Xbox platform."
+        },
+        {
+          "rank": 2,
+          "title": "Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more",
+          "link": "https://www.theverge.com/entertainment/971071/marvel-ryan-gosling-ghost-rider-black-panther-comic-con",
+          "source": "The Verge",
+          "published_utc": "2026-07-26 14:51 UTC",
+          "analysis_zh": "在今年的动漫展上，漫威公司宣布了几项重要消息，其中最引人注目的是瑞安·高斯林将以幽灵骑士的身份加入漫威电影宇宙。由肖恩·莱维执导的这部独立电影预计将在2028年上映。此外，漫威还确认了《黑豹III》的上映日期为2028年12月15日，并介绍了大卫·琼逊作为新一任黑豹和特查拉的儿子。这些新角色的加入和续集的推出，将对漫威宇宙的未来发展产生深远影响，吸引更多观众的关注。",
+          "analysis_en": "At this year's Comic-Con, Marvel made several significant announcements, the most notable being that Ryan Gosling will join the Marvel Cinematic Universe as Ghost Rider. This standalone film, directed by Shawn Levy, is set to release in 2028. Additionally, Marvel confirmed that Black Panther III will premiere on December 15, 2028, introducing David Jonsson as the new Black Panther and T'Challa's son. The introduction of these new characters and sequels is expected to have a profound impact on the future of the Marvel Universe, drawing more audience interest."
+        },
+        {
+          "rank": 3,
           "title": "The vertical video takeover is here",
           "link": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook",
           "source": "The Verge",
           "published_utc": "2026-07-26 12:00 UTC",
-          "analysis_zh": "随着短视频平台的兴起，竖屏视频逐渐成为主流。TikTok、Instagram和YouTube等社交媒体平台纷纷模仿这一趋势，推动了竖屏视频的普及。这一变化不仅影响了内容创作者的创作方式，也改变了用户的观看习惯。竖屏视频的流行意味着未来的媒体消费可能会更加注重移动设备的使用，进而影响广告商和品牌的营销策略。",
-          "analysis_en": "With the rise of short video platforms, vertical video has become mainstream. Social media platforms like TikTok, Instagram, and YouTube have embraced this trend, leading to the widespread adoption of vertical video. This shift not only affects how content creators produce their work but also changes user viewing habits. The popularity of vertical video suggests that future media consumption may increasingly focus on mobile device usage, which could influence marketing strategies for advertisers and brands."
+          "analysis_zh": "近年来，竖屏视频逐渐成为社交媒体平台的主流，TikTok、Instagram和YouTube等平台纷纷效仿，推动了这一趋势的发展。这一变化不仅影响了内容创作者的创作方式，也改变了用户的观看习惯。竖屏视频的流行使得短视频内容更加适应智能手机的使用场景，吸引了大量新用户。这一现象可能会促使其他平台也进行相应的调整，以迎合用户的需求。",
+          "analysis_en": "In recent years, vertical video has become the dominant format on social media platforms, with TikTok, Instagram, and YouTube leading the charge. This shift not only alters how content creators produce their work but also changes user viewing habits. The popularity of vertical video aligns well with smartphone usage, drawing in a large number of new users. This trend may prompt other platforms to adapt accordingly to meet user demands."
         },
         {
-          "rank": 2,
+          "rank": 4,
           "title": "Why TikTok’s Algorithm Keeps You Trapped in a Breakup Loop",
           "link": "https://www.nytimes.com/2026/07/26/technology/personaltech/tiktok-instagram-breakup-content.html",
           "source": "NYT > Technology",
           "published_utc": "2026-07-26 11:04 UTC",
-          "analysis_zh": "近日，社交媒体平台TikTok因其算法导致用户不断接触分手相关内容而受到关注。心理健康专家指出，这种现象反映了社交媒体在保护用户心理健康方面的不足。随着对社交媒体上成瘾性设计的审查加剧，这一问题引发了公众对平台责任的讨论。若不加以改善，用户的心理健康可能会受到进一步影响，尤其是在经历情感创伤时。",
-          "analysis_en": "Recently, TikTok has come under scrutiny for its algorithm that keeps users exposed to breakup-related content. Mental health experts highlight this issue as a failure of social media to protect users' mental well-being. As scrutiny over addictive design features intensifies, this problem has sparked public discussions about the responsibility of these platforms. If not addressed, users' mental health may be further compromised, especially during times of emotional distress."
+          "analysis_zh": "近日，社交媒体公司因其上瘾设计特征受到越来越多的审查，尤其是TikTok的算法引发了关注。心理健康专家指出，用户在平台上不断接触到分手内容，反映了这些公司未能有效保护用户心理健康的问题。这一现象不仅影响了用户的情绪和心理状态，也可能导致更广泛的社会问题，呼吁对社交媒体内容管理进行更严格的监管。",
+          "analysis_en": "Recently, social media companies have come under increasing scrutiny for their addictive design features, particularly TikTok's algorithm. Mental health experts have highlighted the prevalence of breakup content on the platform as an example of these companies' failure to protect users' mental well-being. This trend not only affects users' emotions and psychological states but could also lead to broader societal issues, prompting calls for stricter regulations on social media content management."
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "A Son of Wealth Finds His Calling in a High-End Grocery Store",
           "link": "https://www.nytimes.com/2026/07/26/style/a-different-kind-of-grocery-store-magnate.html",
           "source": "NYT > Technology",
           "published_utc": "2026-07-26 09:00 UTC",
-          "analysis_zh": "富裕家庭的后代萨米·纳斯多夫在下曼哈顿的高档杂货店梅多巷找到了自己的职业方向。他在精心摆放的货架之间发现了对食品零售的热情，这一转变不仅让他重新定义了自己的身份，也为他提供了一个与人互动的机会。这一事件引发了人们对财富与职业选择之间关系的思考，可能会激励其他年轻人追求自己真正热爱的事业，而不是单纯依赖家庭背景。",
-          "analysis_en": "Sammy Nussdorf, a scion of wealth, has discovered his calling in the high-end grocery store Meadow Lane in Lower Manhattan. Amid the carefully arranged shelves, he found a passion for food retail that has allowed him to redefine his identity and engage with others. This development prompts reflection on the relationship between wealth and career choices, potentially inspiring other young individuals to pursue their true passions rather than relying solely on their family backgrounds."
+          "analysis_zh": "萨米·纳斯多夫，这位富裕家庭的继承人，发现了自己在下曼哈顿一家高档杂货店梅多巷的真正使命。这个故事不仅展示了他如何在精心布置的货架之间找到自我，还反映了当今社会对奢侈消费和个性化服务的需求。随着人们对高品质生活的追求，像梅多巷这样的商店可能会影响未来零售市场的趋势，吸引更多追求独特购物体验的顾客。",
+          "analysis_en": "Sammy Nussdorf, the heir from a wealthy family, discovered his true calling in a high-end grocery store called Meadow Lane in Lower Manhattan. This story not only highlights how he found himself among the carefully arranged shelves but also reflects the current societal demand for luxury consumption and personalized service. As people pursue a higher quality of life, stores like Meadow Lane may influence future retail trends, attracting more customers seeking unique shopping experiences."
         },
         {
-          "rank": 4,
+          "rank": 6,
           "title": "Silicon Valley Splits Over Closing the Borders to Chinese A.I.",
           "link": "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html",
           "source": "NYT > Technology",
           "published_utc": "2026-07-25 20:07 UTC",
-          "analysis_zh": "硅谷在是否应关闭对中国人工智能的边界问题上出现了分歧。Anthropic和OpenAI与其他科技公司在是否允许中国的“开源”模型自由使用上产生了冲突。这一争议不仅影响到技术公司的合作与竞争格局，也可能对全球人工智能的发展产生深远影响。限制中国模型的使用可能会导致技术创新的停滞，而开放则可能促进更广泛的合作与进步。",
-          "analysis_en": "Silicon Valley is experiencing a divide over whether to close borders to Chinese artificial intelligence. Anthropic and OpenAI are clashing with other tech companies regarding the availability of \"open-source\" models from China. This dispute could affect the collaboration and competitive landscape among tech firms and may have significant implications for the global development of artificial intelligence. Restricting the use of Chinese models could stifle innovation, while an open approach might foster broader cooperation and advancement."
+          "analysis_zh": "硅谷在是否应对中国的“开源”人工智能模型实施限制上出现了分歧。Anthropic和OpenAI与其他科技公司之间的争论，反映了对技术开放性与国家安全之间的复杂平衡。这一争议不仅影响了科技行业的合作模式，也可能对未来的人工智能发展和国际竞争格局产生深远影响。",
+          "analysis_en": "Silicon Valley is divided over whether to impose restrictions on \"open-source\" AI models from China. The clash between Anthropic and OpenAI and other tech companies highlights the complex balance between technological openness and national security. This debate could affect collaboration within the tech industry and may have significant implications for the future development of AI and the landscape of international competition."
         },
         {
-          "rank": 5,
+          "rank": 7,
           "title": "Google basically confirms the Pixel 11 is getting a price hike",
           "link": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
           "source": "The Verge",
           "published_utc": "2026-07-25 18:13 UTC",
-          "analysis_zh": "谷歌的设备与服务副总裁Shakil Barkat在接受9to5 Google采访时几乎确认，下一代Pixel手机的价格将高于Pixel 10。由于AI数据中心的爆炸式增长导致RAM供应问题，价格上涨的传闻并不令人意外。苹果、任天堂、微软等公司也因内存成本飙升而提高了价格。这一变化可能会影响消费者的购买决策，并对整个智能手机市场产生连锁反应。",
-          "analysis_en": "Google's Vice President of Devices and Services, Shakil Barkat, has nearly confirmed in an interview with 9to5 Google that the upcoming Pixel phone will be priced higher than the Pixel 10. The rumored price increase is not surprising given the ongoing RAM supply issues caused by the rapid expansion of AI data centers. Companies like Apple, Nintendo, and Microsoft have also raised their prices in response to soaring memory costs. This change may influence consumer purchasing decisions and could have a ripple effect across the entire smartphone market."
+          "analysis_zh": "谷歌的设备与服务副总裁Shakil Barkat在接受9to5 Google采访时几乎确认，下一代Pixel手机的价格将高于Pixel 10。由于AI数据中心的爆炸性增长导致的内存供应问题，这一价格上涨的传闻并不令人意外。苹果、任天堂、微软等公司也因内存成本飙升而提高了价格。Barkat表示，谷歌一直在尽力保护消费者免受供应波动的影响，但经济形势的根本变化使得他们无法再继续这样做。预计Pixel 11的基础型号价格将为899美元，但存储空间将从128GB增加到256GB。",
+          "analysis_en": "Google's Vice President of Devices and Services, Shakil Barkat, has all but confirmed in an interview with 9to5 Google that the upcoming Pixel phone will be priced higher than the Pixel 10. This rumored price increase is not surprising given the ongoing RAM supply issues caused by the explosive growth of AI data centers. Companies like Apple, Nintendo, and Microsoft have also raised their prices in response to soaring memory costs. Barkat mentioned that Google has tried to shield consumers from supply fluctuations for as long as possible, but the fundamental shift in economics means they can no longer do so. The base model of the Pixel 11 is expected to be priced at $899, with storage upgraded from 128GB to 256GB."
         },
         {
-          "rank": 6,
+          "rank": 8,
           "title": "Synth historian Oli Freke will spend big on a good bicycle",
           "link": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
           "source": "The Verge",
           "published_utc": "2026-07-25 15:15 UTC",
-          "analysis_zh": "音乐家和记者奥利·弗里克（Oli Freke）正在为出版商Bjooks创作一本名为《Beat Gems》的图文书，讲述鼓机的历史。这本书不仅包含了精美的照片和有趣的历史细节，还提供了关于如何充分利用各种设备的实用建议。弗里克的工作展示了电子音乐和合成器的发展，强调了从模拟到数字的转变。这一项目的重要性在于，它不仅为音乐爱好者提供了丰富的视觉和知识体验，还可能影响未来音乐设备的设计和使用。",
-          "analysis_en": "Oli Freke, a musician and journalist, is working on a coffee-table book titled \"Beat Gems\" for publisher Bjooks, which explores the history of drum machines. This book will feature stunning photographs, intriguing historical insights, and practical advice on how to make the most of various devices. Freke's work highlights the evolution of electronic music and synthesizers, emphasizing the shift from analog to digital. The significance of this project lies in its potential to provide music enthusiasts with a rich visual and educational experience, which may also influence the design and use of future music equipment."
-        },
-        {
-          "rank": 7,
-          "title": "Teenage Engineering’s unique music machines are 30 percent off",
-          "link": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
-          "source": "The Verge",
-          "published_utc": "2026-07-25 15:00 UTC",
-          "analysis_zh": "Teenage Engineering的独特音乐设备目前正在进行30%的折扣促销。这些设备结合了合成器、循环器和效果踏板的元素，介于音乐工具和现代艺术之间，能够帮助用户实时创作歌曲。此次折扣在Guitar Center、亚马逊和B&H Photo等多个平台上均可使用，吸引了许多音乐爱好者的关注。这一促销活动不仅使得高品质音乐设备更易于获得，也可能推动更多人参与音乐创作，进一步丰富音乐文化。",
-          "analysis_en": "Teenage Engineering's unique music devices are currently available at a 30% discount. These devices blend elements of synthesizers, loopers, and effects pedals, sitting at the intersection of musical instruments and modern art, enabling users to create songs in real time. The discount is available on various platforms like Guitar Center, Amazon, and B&H Photo, drawing the attention of many music enthusiasts. This promotion not only makes high-quality music equipment more accessible but may also encourage more people to engage in music creation, enriching the music culture further."
+          "analysis_zh": "音乐家和记者奥利·弗里克正在为出版商Bjooks创作一本名为《Beat Gems》的新书，书中将详细介绍鼓机的历史。这本书不仅包含精美的照片，还提供了丰富的历史资料和实用建议，适合各种类型的音乐设备，从经典的Roland TR-808到现代的Erica Synths Pērkons。弗里克的工作不仅展示了鼓机的发展，也反映了电子音乐创作的演变，这对音乐爱好者和专业人士都具有重要的参考价值。",
+          "analysis_en": "Musician and journalist Oli Freke is working on a new book titled \"Beat Gems\" for publisher Bjooks, which will explore the history of drum machines. This book will feature stunning photographs, intriguing historical insights, and practical advice for various music gear, ranging from the classic Roland TR-808 to modern devices like the Erica Synths Pērkons. Freke's work not only highlights the evolution of drum machines but also reflects the broader changes in electronic music creation, making it a valuable resource for both enthusiasts and professionals."
         }
       ]
     },
@@ -276,8 +267,8 @@
           "link": "https://www.nytimes.com/2026/07/25/science/guy-tudor-dead.html",
           "source": "NYT > Arts",
           "published_utc": "2026-07-26 14:23 UTC",
-          "analysis_zh": "盖伊·图多尔，一位自学成才的鸟类学家，以其精确而华丽的插图而闻名，这些插图出现在热带鸣鸟的权威野外指南中。他因其杰出的艺术成就获得了麦克阿瑟奖学金。图多尔的去世不仅是艺术界的损失，也使得对鸟类的研究和保护面临挑战。他的作品不仅提升了人们对鸟类的认识，也激励了许多后来的艺术家和科学家。",
-          "analysis_en": "Guy Tudor, a self-taught ornithologist, was renowned for his precise and vibrant illustrations featured in authoritative field guides to tropical songbirds. He received a MacArthur fellowship for his outstanding artistic contributions. Tudor's passing is a significant loss to the art community and poses challenges for the study and conservation of birds. His work not only enhanced public awareness of avian species but also inspired many subsequent artists and scientists."
+          "analysis_zh": "盖伊·图多尔（Guy Tudor），一位自学成才的鸟类学家，以其精确而华丽的插图而闻名，这些插图出现在热带鸣鸟的权威野外指南中。他因其杰出的艺术成就获得了麦克阿瑟奖学金。图多尔的作品不仅提升了人们对鸟类的认识，也让许多鲜为人知的鸟类得以被大众所熟知。他的去世标志着一个时代的结束，可能会影响鸟类艺术和科学插图领域的未来发展。",
+          "analysis_en": "Guy Tudor, a self-taught ornithologist, was renowned for his precise and vibrant illustrations featured in authoritative field guides to tropical songbirds. He received a MacArthur fellowship for his outstanding artistic achievements. Tudor's work not only enhanced public awareness of birds but also brought many obscure species into the limelight. His passing marks the end of an era and may impact the future of bird art and scientific illustration."
         },
         {
           "rank": 2,
@@ -285,8 +276,8 @@
           "link": "https://www.designboom.com/design/cultivated-cellulose-layered-ash-horizon-inspired-lighting-polybion-natural-urbano-cenit/",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-07-26 10:55 UTC",
-          "analysis_zh": "最近，设计杂志Designboom发布了一系列名为“Cenit”的灯具，采用了培育的纤维素和分层的白蜡木。这些灯具的设计灵感来源于地平线，旨在将自然元素与现代设计相结合。这一系列的推出不仅展示了可持续材料的应用，也反映了当代设计对环境友好理念的重视。这样的创新设计可能会影响未来灯具的市场趋势，推动更多品牌关注环保材料的使用。",
-          "analysis_en": "Recently, the design magazine Designboom introduced a series of lighting fixtures called \"Cenit,\" made from cultivated cellulose and layered ash. The design of these fixtures is inspired by the horizon, aiming to blend natural elements with modern aesthetics. The launch of this series not only showcases the use of sustainable materials but also highlights the contemporary design community's commitment to environmentally friendly principles. Such innovative designs may influence future market trends in lighting, encouraging more brands to focus on the use of eco-friendly materials."
+          "analysis_zh": "最近，一款名为“Cenit”的灯具系列在设计界引起了广泛关注。该系列采用了天然的灰木、不锈钢和培养的纤维素，灵感来源于地平线的形状。这一设计不仅展现了现代美学，还强调了可持续材料的使用，反映了当今设计行业对环保的重视。这样的创新可能会影响未来灯具设计的趋势，推动更多品牌关注生态友好的材料选择。",
+          "analysis_en": "Recently, a lighting collection called \"Cenit\" has garnered significant attention in the design world. This series features natural ash, stainless steel, and cultivated cellulose, inspired by the shapes of horizons. This design not only showcases modern aesthetics but also emphasizes the use of sustainable materials, reflecting the industry's growing focus on environmental responsibility. Such innovations may influence future trends in lighting design, encouraging more brands to prioritize eco-friendly material choices."
         },
         {
           "rank": 3,
@@ -294,8 +285,8 @@
           "link": "https://www.dezeen.com/2026/07/26/lenka-milerova-architektka-panosi-ujezd-summer-house/",
           "source": "Dezeen",
           "published_utc": "2026-07-26 10:00 UTC",
-          "analysis_zh": "捷克共和国的当地设计工作室Lenka Milerová Architektka将一座旧猪圈改造成了度假屋，命名为Panoší Újezd夏季住宅。该项目在保留原有粗糙石墙的基础上，增添了裸露混凝土的现代元素。这一转变不仅为业主提供了一个独特的度假空间，也展示了如何在保护传统建筑的同时进行创新设计。这种改造可能会激励其他地区的类似项目，推动可持续建筑和文化遗产保护的结合。",
-          "analysis_en": "Local studio Lenka Milerová Architektka has transformed an old pigsty in the Czech Republic into a holiday home called Panoší Újezd Summer House. The project retains the original rough stone walls while incorporating modern elements in exposed concrete. This transformation not only provides the owner with a unique vacation space but also demonstrates how innovative design can coexist with the preservation of traditional architecture. Such renovations may inspire similar projects in other regions, promoting the integration of sustainable building practices with cultural heritage conservation."
+          "analysis_zh": "捷克共和国的本地建筑工作室Lenka Milerová Architektka将一座旧猪圈改造成了度假屋Panoší Újezd Summer House。这个度假屋在保留原有粗糙石墙的基础上，增加了裸露混凝土的元素。此项目不仅为邻近住宅的业主提供了一个独特的休闲空间，也展示了如何将废弃建筑转变为现代居所。这一改造项目的重要性在于它强调了可持续设计和对历史建筑的再利用，可能会激励其他地区进行类似的改造。",
+          "analysis_en": "Local studio Lenka Milerová Architektka has transformed an old pigsty in the Czech Republic into the Panoší Újezd Summer House. The holiday home retains the original rough stone walls while incorporating elements of exposed concrete. This project not only provides a unique recreational space for the owner of the adjacent home but also demonstrates how abandoned structures can be repurposed into modern residences. Its significance lies in highlighting sustainable design and the reuse of historical buildings, which may inspire similar transformations in other areas."
         },
         {
           "rank": 4,
@@ -303,8 +294,8 @@
           "link": "https://www.dezeen.com/2026/07/26/patios-indoor-outdoor-lookbooks/",
           "source": "Dezeen",
           "published_utc": "2026-07-26 09:00 UTC",
-          "analysis_zh": "最近的一篇文章展示了八个独特的露台，这些露台模糊了室内与室外的界限，为人们提供了理想的放松空间。这样的设计不仅提升了居住环境的美感，还鼓励人们更多地享受户外生活。随着人们对居住空间的重视，拥有一个舒适的露台可能会影响房产的价值和市场需求。",
-          "analysis_en": "A recent article showcases eight unique patios that blur the line between indoor and outdoor spaces, providing ideal relaxation areas for homeowners. This design not only enhances the aesthetic appeal of living environments but also encourages people to enjoy outdoor living more. As the importance of living spaces increases, having a comfortable patio may influence property values and market demand."
+          "analysis_zh": "最近的一篇文章展示了八个独特的露台，这些露台模糊了室内与室外空间的界限。这些宽敞的露台为人们提供了一个理想的场所，可以在户外放松和享受夏日的微风。这样的设计不仅提升了居住的舒适度，也鼓励人们更多地亲近自然，享受户外生活。这些露台的独特性可能会影响未来住宅设计的趋势，尤其是在追求可持续和健康生活方式的背景下。",
+          "analysis_en": "A recent article highlights eight unique patios that blur the line between indoor and outdoor spaces. These spacious patios provide an ideal setting for relaxation and enjoyment of the summer breeze outdoors. Such designs not only enhance living comfort but also encourage people to connect with nature and embrace outdoor lifestyles. The uniqueness of these patios may influence future residential design trends, particularly in the context of pursuing sustainable and healthy living."
         },
         {
           "rank": 5,
@@ -312,8 +303,8 @@
           "link": "https://www.dezeen.com/2026/07/26/georgios-apostolopoulos-kifisia-apartment/",
           "source": "Dezeen",
           "published_utc": "2026-07-26 05:00 UTC",
-          "analysis_zh": "雅典的一处公寓采用了灵活的布局设计，能够根据来访的客人进行重新配置。希腊建筑师乔治斯·阿波斯托洛普洛斯通过滑动墙壁、隐藏门和可折叠床等元素，使这间极简风格的公寓在朋友来访时变得更加实用。这种设计不仅提升了空间的利用率，也反映了现代生活方式对居住环境的需求。这样的创新可能会影响未来公寓设计的趋势，鼓励更多建筑师考虑灵活性与功能性的结合。",
-          "analysis_en": "An apartment in Athens features a flexible layout that can be reconfigured for visiting guests. Designed by Greek architect Georgios Apostolopoulos, the minimalist space incorporates sliding walls, hidden doors, and a fold-down bed to enhance functionality when friends come to stay. This design not only maximizes space usage but also reflects the modern lifestyle's demand for adaptable living environments. Such innovations may influence future apartment designs, encouraging architects to prioritize flexibility and functionality."
+          "analysis_zh": "雅典的一处公寓由希腊建筑师乔治斯·阿波斯托洛普洛斯设计，采用了滑动墙壁、隐藏门和可折叠床等元素，使得公寓的布局可以根据来访的朋友进行灵活调整。这种设计不仅提升了空间的利用率，也为住客提供了更为舒适的居住体验。随着人们对居住空间多功能性的需求增加，这种适应性强的设计理念可能会在未来的住宅建筑中得到更广泛的应用。",
+          "analysis_en": "An apartment in Athens, designed by Greek architect Georgios Apostolopoulos, features a \"fluid layout\" that can be reconfigured for guests using sliding walls, hidden doors, and a fold-down bed. This design enhances space utilization and offers a more comfortable experience for visitors. As the demand for multifunctional living spaces grows, this adaptable design concept may see wider application in future residential architecture."
         },
         {
           "rank": 6,
@@ -321,8 +312,8 @@
           "link": "https://www.designboom.com/design/gridtype-vol-1-digital-tools-new-typographic-forms-slanted-publishers/",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-07-26 01:15 UTC",
-          "analysis_zh": "《GridType vol.—1》展示了十位设计师如何利用GridType工具开发出独特的排版语言。这一项目的重要性在于，它展示了数字工具在设计领域的创新潜力，能够推动排版形式的多样化和进化。随着数字技术的不断发展，这种新型排版语言可能会影响未来的视觉传达方式，改变我们对文字和设计的理解。",
-          "analysis_en": "\"GridType vol.—1\" showcases how ten designers utilize the GridType tool to create distinct typographic languages. This project is significant as it highlights the innovative potential of digital tools in the design field, promoting diversity and evolution in typographic forms. As digital technology continues to advance, this new typographic language may influence future visual communication methods, altering our understanding of text and design."
+          "analysis_zh": "《GridType vol.—1》展示了十位设计师如何利用GridType工具开发出独特的排版语言。这一项目的重要性在于，它展示了数字工具在设计领域的潜力，能够创造出新的视觉表达形式。随着数字化设计的不断发展，这种创新可能会影响未来的排版趋势，并激励更多设计师探索数字工具的应用。",
+          "analysis_en": "\"GridType vol.—1\" showcases how ten designers use the GridType tool to develop unique typographic languages. This project is significant as it highlights the potential of digital tools in the design field to create new visual expressions. As digital design continues to evolve, such innovations may influence future typographic trends and inspire more designers to explore the use of digital tools."
         },
         {
           "rank": 7,
@@ -330,8 +321,8 @@
           "link": "https://www.artnews.com/art-news/news/thieves-snatch-2500-year-old-celtic-gold-torque-france-1234793494/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-07-25 19:23 UTC",
-          "analysis_zh": "近日，法国一座博物馆发生了一起惊人的盗窃事件，窃贼在光天化日之下盗走了一件有2500年历史的凯尔特金饰。这起事件引起了广泛关注，因为博物馆在过去八个月内曾遭遇过两次夜间盗窃未遂。这不仅暴露了博物馆安保措施的漏洞，也引发了公众对文化遗产保护的担忧。此事件可能会促使博物馆和相关机构加强安全措施，以防止类似事件再次发生。",
-          "analysis_en": "Recently, a shocking theft occurred at a museum in France, where thieves stole a 2,500-year-old Celtic gold torque in broad daylight. This incident has garnered widespread attention, particularly since the museum had faced two previous unsuccessful nighttime burglary attempts in the past eight months. It not only highlights vulnerabilities in the museum's security measures but also raises public concerns about the protection of cultural heritage. This event may prompt museums and related institutions to enhance security protocols to prevent similar incidents in the future."
+          "analysis_zh": "近日，法国一座博物馆发生了一起惊人的盗窃事件，窃贼在大白天抢走了一件价值连城的2500年历史的凯尔特金饰。这一事件引发了公众的广泛关注，因为博物馆在过去八个月内已遭遇两次夜间盗窃未遂。这不仅暴露了博物馆安保措施的不足，也可能影响到游客对博物馆安全性的信任，从而对其参观人数产生负面影响。",
+          "analysis_en": "Recently, a remarkable theft occurred at a museum in France, where thieves brazenly snatched a 2,500-year-old Celtic gold torque in broad daylight. This incident has drawn significant public attention, especially since the museum had faced two previous unsuccessful nighttime burglary attempts in the past eight months. It highlights the inadequacies in the museum's security measures and could undermine visitor trust in the museum's safety, potentially leading to a decline in attendance."
         },
         {
           "rank": 8,
@@ -339,8 +330,8 @@
           "link": "https://www.artnews.com/art-news/news/archie-rand-letter-paintings-modena-fc-acquisition-1234793377/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-07-25 18:57 UTC",
-          "analysis_zh": "美国艺术家阿奇·兰德（Archie Rand）的重要作品《字母画》被意大利摩德纳足球俱乐部收藏。这些作品被兰德形容为“无名者的墓碑”，旨在表达现代艺术中常被忽视的主题——爱。这一收购不仅彰显了兰德作品的艺术价值，也为足球俱乐部增添了文化内涵，可能吸引更多艺术爱好者关注足球与艺术的交融。",
-          "analysis_en": "American artist Archie Rand's significant works, known as the \"Letter Paintings,\" have been acquired by Italy's Modena FC collection. Rand describes these pieces as \"tombstones for the unheralded,\" aiming to express the theme of love, which is often overlooked in modern art. This acquisition not only highlights the artistic value of Rand's work but also enriches the cultural significance of the football club, potentially attracting more art enthusiasts to the intersection of football and art."
+          "analysis_zh": "意大利摩德纳足球俱乐部收藏了艺术家阿奇·兰德的标志性信件画作。兰德将这些作品称为“无名者的墓碑”，并表示这些作品旨在表达现代艺术中被遗忘的主题：爱。这一收购不仅为兰德的艺术生涯增添了重要的一笔，也使得更多人关注到现代艺术中情感表达的重要性。此举可能会激励其他艺术机构重新审视和收藏类似的作品，从而推动艺术界对情感主题的进一步探索。",
+          "analysis_en": "Italy's Modena FC has acquired landmark letter paintings by artist Archie Rand. Rand refers to these works as \"tombstones for the unheralded,\" emphasizing their aim to express a theme—love—that modern art has largely overlooked. This acquisition not only marks a significant milestone in Rand's career but also draws attention to the importance of emotional expression in contemporary art. It may inspire other art institutions to reconsider and collect similar works, potentially fostering a deeper exploration of emotional themes within the art community."
         },
         {
           "rank": 9,
@@ -348,8 +339,8 @@
           "link": "https://www.nytimes.com/2026/07/25/books/charles-gaines-dead.html",
           "source": "NYT > Arts",
           "published_utc": "2026-07-25 18:06 UTC",
-          "analysis_zh": "查尔斯·盖恩斯（Charles Gaines）于84岁去世，他是一位作家和运动员，曾帮助创造了彩弹游戏，并撰写了使阿诺德·施瓦辛格（Arnold Schwarzenegger）成名的书籍和电影。这一事件不仅标志着一位文化和体育领域的重要人物的离世，也让人们重新审视施瓦辛格的职业生涯及其背后的故事。盖恩斯的贡献在于他将运动与艺术结合，影响了许多人的生活和职业选择。他的去世可能会引发对运动文化和娱乐产业的进一步讨论。",
-          "analysis_en": "Charles Gaines passed away at the age of 84. He was an author and sportsman who helped create the game of paintball and wrote the book and movie that made Arnold Schwarzenegger a household name. This event marks the loss of an important figure in both cultural and sports fields, prompting a reevaluation of Schwarzenegger's career and the stories behind it. Gaines' contributions lie in his ability to blend sports with art, influencing many people's lives and career choices. His passing may spark further discussions about sports culture and the entertainment industry."
+          "analysis_zh": "查尔斯·盖恩斯（Charles Gaines）于84岁去世，他是一位作家和运动员，曾帮助创造了彩弹游戏，并撰写了使阿诺德·施瓦辛格（Arnold Schwarzenegger）成名的书籍和电影。这一事件不仅标志着一位重要文化人物的离世，也让人们重新审视施瓦辛格的职业生涯和健美运动的发展。盖恩斯的贡献在于将健美运动推向了大众，使其成为流行文化的一部分，这可能会影响未来运动和娱乐领域的交叉发展。",
+          "analysis_en": "Charles Gaines passed away at the age of 84. He was an author and sportsman who helped create the game of paintball and wrote the book and movie that made Arnold Schwarzenegger a household name. This event marks the loss of an important cultural figure and prompts a reevaluation of Schwarzenegger's career and the evolution of bodybuilding. Gaines' contributions helped bring bodybuilding into the mainstream, making it a part of popular culture, which may influence the future intersection of sports and entertainment."
         },
         {
           "rank": 10,
@@ -357,8 +348,8 @@
           "link": "https://www.dezeen.com/2026/07/25/exhibition-highlights-uncredited-emma-creative-centre-pforzheim-schoolshows/",
           "source": "Dezeen",
           "published_utc": "2026-07-25 18:00 UTC",
-          "analysis_zh": "在德国普福尔茨海姆的EMMA创意中心举办了一场展览，旨在突出女性在设计领域中未被认可的劳动。这场展览不仅展示了女性的贡献，还包括了受芬兰库沃拉磨坊历史启发的针织服装，以及探讨可持续未来的艺术作品。这一活动的重要性在于，它为女性设计师提供了一个展示平台，促进了对性别平等和女性创作的关注，可能会激励更多女性参与设计行业。",
-          "analysis_en": "An exhibition at the EMMA Creative Centre Pforzheim in Germany aims to highlight the uncredited labor of women in the design field. This exhibition not only showcases women's contributions but also features knitted garments inspired by the milling history of Kouvola, Finland, and artworks that explore a sustainable future. The significance of this event lies in providing a platform for female designers, raising awareness about gender equality and women's creativity, and potentially encouraging more women to engage in the design industry."
+          "analysis_zh": "在德国的EMMA创意中心，举办了一场展览，旨在突出女性在设计领域中未被认可的贡献。这场展览不仅展示了女性的无名劳动，还包括受芬兰库沃拉磨坊历史启发的针织服装，以及探讨可持续未来的艺术作品。这一展览的重要性在于，它为女性设计师提供了一个展示自己才华的平台，同时也引发了对性别平等和创意产业中隐性劳动的关注。",
+          "analysis_en": "An exhibition at the EMMA Creative Centre in Germany aims to highlight the uncredited contributions of women in the design field. This exhibition not only showcases the overlooked labor of women but also features knitted garments inspired by the milling history of Kouvola, Finland, and artworks that explore a sustainable future. The significance of this exhibition lies in providing a platform for female designers to showcase their talents while raising awareness about gender equality and the invisible labor present in the creative industry."
         }
       ]
     }
