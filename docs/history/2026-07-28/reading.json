@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-28 15:29:43 UTC",
-  "generated_at_unix": 1785252583,
+  "generated_at": "2026-07-28 16:07:11 UTC",
+  "generated_at_unix": 1785254831,
   "window": {
-    "from_utc": "2026-07-27 15:29:43 UTC",
-    "to_utc": "2026-07-28 15:29:43 UTC",
+    "from_utc": "2026-07-27 16:07:11 UTC",
+    "to_utc": "2026-07-28 16:07:11 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -14,93 +14,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "Stop snacking: Restricting eating for only 8 or 9 hours a day may keep your mind sharp.",
-          "link": "https://www.marketwatch.com/story/stop-snacking-restricting-eating-for-only-8-or-9-hours-a-day-may-keep-your-mind-sharp-1dc7e495?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-07-28 15:26 UTC",
-          "analysis_zh": "一项新的研究发现，限制每天进食时间在8到9小时内可能有助于提高认知能力。这一发现的重要性在于，它为改善人们的思维敏捷性提供了新的方法，尤其是在现代社会中，许多人面临着注意力不集中和记忆力下降的问题。通过调整饮食时间，可能会对心理健康和工作效率产生积极影响。",
-          "analysis_en": "A new study has found that restricting eating to only 8 or 9 hours a day may enhance cognitive abilities. This finding is significant as it offers a new approach to improving mental sharpness, particularly in a modern society where many people struggle with focus and memory issues. Adjusting eating windows could potentially have positive effects on mental health and work productivity."
+          "title": "Ford Motor is set to report earnings after the bell. Here's what Wall Street expects",
+          "link": "https://www.cnbc.com/2026/07/28/ford-motor-f-earnings-q2-2026.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-07-28 16:00 UTC",
+          "analysis_zh": "福特汽车公司即将公布财报，华尔街分析师预计其调整后的每股收益为35美分，汽车收入将达到458.6亿美元。这一财报对投资者而言至关重要，因为它将反映出福特在当前市场环境中的表现和盈利能力。如果福特的业绩超出预期，可能会提振其股价，并增强市场对汽车行业复苏的信心。",
+          "analysis_en": "Ford Motor is set to release its earnings report, with Wall Street analysts expecting adjusted earnings per share of 35 cents and automotive revenue of $45.86 billion. This report is crucial for investors as it will indicate Ford's performance and profitability in the current market environment. If Ford's results exceed expectations, it could boost its stock price and enhance market confidence in the recovery of the automotive industry."
         },
         {
           "rank": 2,
-          "title": "Meta, BlackRock partner on $14 billion El Paso data center venture",
-          "link": "https://www.investing.com/news/stock-market-news/meta-blackrock-partner-on-14-billion-el-paso-data-center-4815906",
-          "source": "Stock Market News",
-          "published_utc": "2026-07-28 15:24 UTC",
-          "analysis_zh": "Meta与黑石集团合作，投资140亿美元在德克萨斯州埃尔帕索建立数据中心。这一项目不仅将推动当地经济发展，还可能为数千人创造就业机会。随着数据需求的不断增长，这种投资对科技行业的未来至关重要，可能会引发更多类似的合作，进一步推动数字基础设施的建设。",
-          "analysis_en": "Meta has partnered with BlackRock to invest $14 billion in building a data center in El Paso, Texas. This project is significant as it will stimulate the local economy and potentially create thousands of jobs. Given the increasing demand for data, such investments are crucial for the future of the tech industry and may lead to more similar collaborations, further enhancing digital infrastructure development."
+          "title": "Blurred front lines: Trump meets Zelenskyy as Ukraine, Iran wars collide",
+          "link": "https://www.cnbc.com/2026/07/28/trump-zelenskyy-ukraine-russia-iran-war.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-07-28 15:59 UTC",
+          "analysis_zh": "特朗普与乌克兰总统泽连斯基会晤，正值美国与伊朗的战争与俄罗斯对乌克兰的全面入侵在近期出现交集。这次会晤不仅突显了当前国际局势的复杂性，也反映出美国在处理多重冲突中的战略考量。此事件可能会影响国际社会对美国外交政策的看法，并加剧对乌克兰和伊朗局势的关注。",
+          "analysis_en": "Trump met with Ukrainian President Zelenskyy as the U.S. war against Iran and Russia's full-scale invasion of Ukraine have recently begun to overlap. This meeting highlights the complexity of the current international situation and reflects the strategic considerations of the U.S. in managing multiple conflicts. The event may influence how the international community views U.S. foreign policy and increase attention on the situations in Ukraine and Iran."
         },
         {
           "rank": 3,
-          "title": "ASML stock outlook: oversold on China DUV fears, but long-term moat intact",
-          "link": "https://www.investing.com/news/stock-market-news/asml-stock-outlook-oversold-on-china-duv-fears-but-longterm-moat-intact-93CH-4817537",
-          "source": "Stock Market News",
-          "published_utc": "2026-07-28 15:23 UTC",
-          "analysis_zh": "ASML的股票前景因市场对中国深紫外光刻机（DUV）需求的担忧而受到影响，导致其股价被低估。这一情况引发了投资者的广泛关注，因为ASML在半导体设备市场中占据着重要地位。尽管短期内可能面临挑战，但其长期竞争优势依然存在，可能会吸引更多投资者的关注。",
-          "analysis_en": "ASML's stock outlook has been negatively impacted by concerns over the demand for China’s deep ultraviolet lithography (DUV) machines, leading to its shares being oversold. This situation has drawn significant attention from investors, as ASML holds a crucial position in the semiconductor equipment market. While it may face challenges in the short term, its long-term competitive moat remains intact, which could attract more investor interest."
-        },
-        {
-          "rank": 4,
-          "title": "Centene flags weakening Medicaid membership, shares fall",
-          "link": "https://www.investing.com/news/stock-market-news/centene-lifts-annual-profit-forecast-on-improved-cost-management-4816711",
-          "source": "Stock Market News",
-          "published_utc": "2026-07-28 15:18 UTC",
-          "analysis_zh": "Centene公司近期发布消息，指出其医疗补助计划的会员人数正在减少，这一消息导致其股票价格下跌。这一情况引发了市场的广泛关注，因为医疗补助是该公司收入的重要来源。会员人数的减少可能会影响公司的财务表现，并引发投资者对其未来增长的担忧。",
-          "analysis_en": "Centene recently announced that its Medicaid membership is declining, which has resulted in a drop in its stock price. This situation has garnered significant attention in the market, as Medicaid is a crucial source of revenue for the company. The decrease in membership may impact the company's financial performance and raise concerns among investors about its future growth."
-        },
-        {
-          "rank": 5,
-          "title": "Chobani must face lawsuit over zero-sugar yogurt claim, US appeals court rules",
-          "link": "https://www.investing.com/news/stock-market-news/chobani-must-face-lawsuit-over-zerosugaryogurt-claim-us-appeals-court-rules-4817356",
-          "source": "Stock Market News",
-          "published_utc": "2026-07-28 15:18 UTC",
-          "analysis_zh": "美国上诉法院裁定，Chobani公司必须面对关于其零糖酸奶宣传的诉讼。这一裁决的重要性在于，它可能影响消费者对食品标签的信任，尤其是在健康意识日益增强的背景下。若Chobani被判定存在误导性宣传，可能会导致公司面临巨额赔偿，并促使其他食品公司重新审视其产品宣传策略。",
-          "analysis_en": "A U.S. appeals court has ruled that Chobani must face a lawsuit regarding its claims about zero-sugar yogurt. This ruling is significant as it could impact consumer trust in food labeling, especially in an era of increasing health awareness. If Chobani is found to have engaged in misleading advertising, the company may face substantial damages and other food companies might reconsider their marketing strategies."
-        },
-        {
-          "rank": 6,
-          "title": "Singapore’s ACRA opens consultation on sustainability disclosure rules",
-          "link": "https://finance.yahoo.com/economy/policy/articles/singapore-acra-opens-consultation-sustainability-151808619.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-07-28 15:18 UTC",
-          "analysis_zh": "新加坡会计与企业管理局（ACRA）近日启动了关于可持续性披露规则的咨询。这项咨询旨在收集各方意见，以制定更为透明和一致的可持续性报告标准。这一举措的重要性在于，它将推动企业在环境、社会和治理（ESG）方面的责任，提升投资者和公众对企业可持续发展的信任。若新规实施，可能会影响企业的运营模式和投资决策，促使更多公司关注可持续性。",
-          "analysis_en": "The Accounting and Corporate Regulatory Authority (ACRA) of Singapore has recently launched a consultation on sustainability disclosure rules. This consultation aims to gather feedback to establish clearer and more consistent standards for sustainability reporting. The significance of this initiative lies in its potential to enhance corporate accountability in environmental, social, and governance (ESG) matters, thereby increasing investor and public trust in sustainable business practices. If these new rules are implemented, they could influence corporate operations and investment decisions, encouraging more companies to prioritize sustainability."
-        },
-        {
-          "rank": 7,
-          "title": "College kids are moving into retirement communities for reasons beyond ‘cheap rent’",
-          "link": "https://www.marketwatch.com/story/college-kids-are-moving-into-retirement-communities-for-reasons-beyond-cheap-rent-577dc94b?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-07-28 15:17 UTC",
-          "analysis_zh": "大学生们开始搬进退休社区，原因不仅仅是为了省钱。这一现象不仅让年轻人与老年人之间建立了跨代关系，还促进了社区活动的多样性，例如游戏之夜和健身课程的教学。这种趋势值得关注，因为它可能改变我们对老年人生活方式的看法，同时也为年轻人提供了独特的生活体验和学习机会。",
-          "analysis_en": "College students are moving into retirement communities for reasons beyond just affordable rent. This trend fosters intergenerational relationships and enhances community activities, such as game nights and teaching fitness classes. It is significant because it may change our perceptions of elderly living arrangements while offering young people unique life experiences and learning opportunities."
-        },
-        {
-          "rank": 8,
-          "title": "Oil prices decline further after Trump claims ‘deep talks’ with Iran are under way",
-          "link": "https://www.marketwatch.com/story/oil-prices-decline-further-after-trump-claims-deep-talks-are-underway-with-iran-167a5393?mod=mw_rss_topstories",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-07-28 15:17 UTC",
-          "analysis_zh": "油价在特朗普声称与伊朗进行“深入谈判”后进一步下跌，布伦特原油和西德克萨斯中质原油预计将连续第三个交易日下滑。这一情况表明，美国与伊朗之间的冲突暂时缓和，可能会影响全球油市的供需关系。油价的持续下降不仅反映了市场对未来局势的谨慎态度，也可能对相关经济体和消费者产生广泛影响。",
-          "analysis_en": "Oil prices have declined further after Trump claimed that \"deep talks\" with Iran are underway, with Brent and West Texas Intermediate crude set to record a third consecutive day of losses. This situation indicates a temporary easing of tensions between the U.S. and Iran, which could affect the global oil market's supply and demand dynamics. The ongoing drop in oil prices not only reflects the market's cautious outlook on future developments but may also have widespread implications for related economies and consumers."
-        },
-        {
-          "rank": 9,
           "title": "Analysis: Kevin Warsh has three reasons to hold off on a Fed rate hike this week",
           "link": "https://www.cnbc.com/2026/07/28/warsh-fed-rate-decision-trump-powell-analysis.html",
           "source": "US Top News and Analysis",
-          "published_utc": "2026-07-28 15:16 UTC",
-          "analysis_zh": "凯文·沃什（Kevin Warsh）在本周的美联储利率会议上提出了三个理由，建议暂缓加息。他指出，能源价格的波动、人工智能带来的价格压力以及美联储内部的任务小组都可能影响经济形势。这一决定至关重要，因为加息可能会对经济增长和通货膨胀产生深远影响。如果美联储选择不加息，可能会为市场提供更多的稳定性，但也可能导致通货膨胀加剧。",
-          "analysis_en": "Kevin Warsh has presented three reasons for the Federal Reserve to hold off on a rate hike this week. He highlighted the volatility in energy prices, price pressures driven by artificial intelligence, and the work of the Fed's task forces as significant factors. This decision is crucial, as raising interest rates could have profound effects on economic growth and inflation. If the Fed decides against a rate hike, it may provide more stability to the markets, but it could also lead to increased inflation."
+          "published_utc": "2026-07-28 15:55 UTC",
+          "analysis_zh": "美联储新任主席凯文·沃什在即将召开的会议上将讨论是否加息。他将考虑能源价格波动、人工智能带来的通货膨胀压力以及来自特朗普的施压等因素。这一决定至关重要，因为它将影响美国经济的复苏速度和金融市场的稳定。如果选择不加息，可能会给企业和消费者带来更大的信心，但也可能导致通胀风险加剧。",
+          "analysis_en": "At the upcoming Federal Reserve meeting, the new chairman Kevin Warsh will discuss the possibility of a rate hike. He will weigh factors such as energy price shocks, inflationary pressures driven by artificial intelligence, and pressure from Trump. This decision is crucial as it will influence the pace of economic recovery and the stability of financial markets in the U.S. If he opts not to raise rates, it could boost confidence among businesses and consumers, but it may also heighten inflation risks."
+        },
+        {
+          "rank": 4,
+          "title": "Billionaire Stanley Druckenmiller Slashed His Stake in This Stock. But Wall Street Thinks It Could Jump 50%.",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-slashed-stake-155000309.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-07-28 15:50 UTC",
+          "analysis_zh": "亿万富翁斯坦利·德鲁肯米勒削减了他在某只股票上的持股，但华尔街认为该股票可能会上涨50%。这一举动引发了市场的广泛关注，因为德鲁肯米勒的投资决策往往被视为市场风向标。他的减持可能表明他对该公司未来表现的担忧，但同时也可能吸引其他投资者趁机入场。若该股票真的如分析师所预测的那样上涨，将对市场情绪和投资者信心产生积极影响。",
+          "analysis_en": "Billionaire Stanley Druckenmiller has reduced his stake in a particular stock, but Wall Street believes it could rise by 50%. This action has drawn significant attention in the market, as Druckenmiller's investment decisions are often seen as indicators of market trends. His reduction in holdings may suggest concerns about the company's future performance, but it could also entice other investors to enter the market. If the stock indeed rises as analysts predict, it could positively impact market sentiment and investor confidence."
+        },
+        {
+          "rank": 5,
+          "title": "Steve Madden Is Hitting All the Right Summer Trends Ahead of its Q2 Earnings Report",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/steve-madden-hitting-summer-trends-154928700.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-07-28 15:49 UTC",
+          "analysis_zh": "史蒂夫·马登（Steve Madden）在即将发布的第二季度财报前，成功把握了夏季的流行趋势。这一举动不仅显示了公司对市场动态的敏锐洞察力，也可能为其财务表现带来积极影响。随着消费者对时尚鞋履需求的增加，马登的市场策略可能会吸引更多年轻消费者，从而提升品牌的市场份额和销售额。",
+          "analysis_en": "Steve Madden has successfully tapped into the summer trends ahead of its upcoming Q2 earnings report. This move not only demonstrates the company's keen insight into market dynamics but could also positively impact its financial performance. As consumer demand for fashionable footwear rises, Madden's marketing strategy may attract more young customers, potentially increasing the brand's market share and sales."
+        },
+        {
+          "rank": 6,
+          "title": "UPS hikes full-year forecasts after Amazon delivery reductions, shares drop on investor skepticism",
+          "link": "https://www.investing.com/news/stock-market-news/ups-raises-fullyear-revenue-forecast-4816011",
+          "source": "Stock Market News",
+          "published_utc": "2026-07-28 15:49 UTC",
+          "analysis_zh": "UPS在亚马逊减少配送量后，调高了全年的业绩预期。这一调整引发了投资者的怀疑，导致其股价下跌。这一事件的重要性在于，UPS的业绩预期变化可能反映出电商市场的波动，影响到整个物流行业的前景。投资者需要关注这一趋势，以便评估未来的投资风险和机会。",
+          "analysis_en": "UPS raised its full-year forecasts after Amazon reduced its delivery volumes, but this adjustment led to skepticism among investors, causing the company's shares to drop. This situation is significant as the change in UPS's performance outlook may indicate fluctuations in the e-commerce market, potentially affecting the logistics industry's future. Investors should monitor this trend to assess future investment risks and opportunities."
+        },
+        {
+          "rank": 7,
+          "title": "Gucci sales decline slows in boost for Kering’s turnaround efforts",
+          "link": "https://www.investing.com/news/stock-market-news/gucci-sales-decline-slows-in-boost-for-kerings-turnaround-efforts-4817612",
+          "source": "Stock Market News",
+          "published_utc": "2026-07-28 15:48 UTC",
+          "analysis_zh": "近日，奢侈品牌古驰的销售下滑速度有所放缓，这为其母公司开云集团的业务重整带来了积极信号。这一变化表明，古驰在市场上的表现可能正在逐步改善，尽管整体销售仍面临挑战。对于开云集团而言，这意味着其战略调整可能正在见效，未来有望恢复更强劲的增长势头。",
+          "analysis_en": "Recently, Gucci's sales decline has slowed, providing a positive signal for Kering's turnaround efforts. This change suggests that Gucci's market performance may be gradually improving, even though overall sales still face challenges. For Kering, this indicates that their strategic adjustments may be starting to pay off, potentially leading to a stronger growth trajectory in the future."
+        },
+        {
+          "rank": 8,
+          "title": "The nuclear revival will be decided by supply chains—and SMRs will prove it",
+          "link": "https://finance.yahoo.com/energy/articles/nuclear-revival-decided-supply-chains-154805049.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-07-28 15:48 UTC",
+          "analysis_zh": "近期，核能复兴的前景将受到供应链的重大影响，尤其是小型模块化反应堆（SMR）的发展。随着全球对清洁能源需求的增加，SMR被视为一种灵活且高效的核能解决方案。这一进展不仅可能改变能源市场的格局，还可能推动相关技术和材料的供应链创新，进而影响投资者的决策和政策制定者的战略。",
+          "analysis_en": "Recently, the future of nuclear energy revival will be significantly influenced by supply chains, particularly with the development of small modular reactors (SMRs). As global demand for clean energy rises, SMRs are seen as a flexible and efficient nuclear solution. This advancement could not only reshape the energy market but also drive innovations in related technologies and materials supply chains, ultimately affecting investor decisions and policymakers' strategies."
+        },
+        {
+          "rank": 9,
+          "title": "Stock Market Today: Nasdaq-100 Hits Correction Territory; Commvault Trampled (Live Coverage)",
+          "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-sandisk-coca-cola-earnings/?src=A00220&yptr=yahoo",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-07-28 15:48 UTC",
+          "analysis_zh": "纳斯达克100指数近日跌入修正区间，显示出市场的不稳定性。这一变化引发了投资者的广泛关注，因为它可能预示着经济增长放缓或市场情绪的转变。随着科技股的表现不佳，投资者可能会重新评估他们的投资策略，从而影响整个股市的走向。",
+          "analysis_en": "The Nasdaq-100 index recently entered correction territory, indicating instability in the market. This shift has drawn significant attention from investors, as it may signal a slowdown in economic growth or a change in market sentiment. With the poor performance of tech stocks, investors might reassess their investment strategies, potentially impacting the overall direction of the stock market."
         },
         {
           "rank": 10,
-          "title": "Trump: New tariffs 'doing the same thing' as the ones struck down by Supreme Court",
-          "link": "https://www.cnbc.com/2026/07/28/trump-usmca-canada-mexico-trade-deal.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-07-28 15:15 UTC",
-          "analysis_zh": "特朗普总统近日表示，他的新关税政策与最高法院取消的关税措施“效果相同”，并对可能对经济造成的影响表示轻视。他的言论在2026年中期选举的背景下显得尤为重要，因为经济负担问题已成为选民关注的焦点。这一政策可能会影响到消费者的购买力和市场的整体稳定，尤其是在经济复苏尚未完全的情况下。",
-          "analysis_en": "President Trump recently stated that his new tariff policies are \"doing the same thing\" as the tariffs struck down by the Supreme Court, downplaying concerns about their potential economic impact. His comments are particularly significant in the context of the 2026 midterm elections, where affordability issues have become a key concern for voters. This policy could affect consumer purchasing power and the overall stability of the market, especially as the economic recovery is still underway."
+          "title": "Software company stocks climb amid broader tech sector decline",
+          "link": "https://www.investing.com/news/stock-market-news/software-company-stocks-climb-amid-broader-tech-sector-decline-93CH-4817607",
+          "source": "Stock Market News",
+          "published_utc": "2026-07-28 15:48 UTC",
+          "analysis_zh": "近期，尽管整体科技行业出现下滑，某软件公司的股票却逆势上涨。这一现象引发了投资者的关注，因为它表明该公司可能在市场中具有独特的竞争优势。此类股票的表现可能会影响投资者对其他科技公司的信心，进而影响整个行业的投资趋势。",
+          "analysis_en": "Recently, a software company's stock has risen despite a broader decline in the tech sector. This trend has caught the attention of investors, as it suggests that the company may possess a unique competitive advantage in the market. The performance of such stocks could influence investor confidence in other tech companies, potentially affecting investment trends across the entire industry."
         }
       ]
     },
@@ -114,8 +114,8 @@
           "link": "https://www.nytimes.com/2026/07/28/business/kalshi-polymarket-prediction-market-drugs.html",
           "source": "NYT > Health",
           "published_utc": "2026-07-28 14:41 UTC",
-          "analysis_zh": "最近，Kalshi和Polymarket等预测市场允许人们对药物审批进行投注，这引发了对研究诚信的担忧。此举可能会影响药物研发的透明度和公正性，因为经济利益可能会干扰科学判断。随着这种趋势的发展，公众对药物安全性和有效性的信任可能会受到影响，进而影响到整个医疗行业的声誉。",
-          "analysis_en": "Recently, prediction markets like Kalshi and Polymarket have allowed people to bet on drug approvals, raising concerns about the integrity of research. This move could affect the transparency and fairness of drug development, as financial interests may interfere with scientific judgment. As this trend develops, public trust in the safety and efficacy of drugs may be compromised, potentially impacting the reputation of the entire healthcare industry."
+          "analysis_zh": "最近，Kalshi和Polymarket等预测市场允许人们对药物批准进行投注，这引发了对研究诚信的担忧。这种趋势可能会影响临床试验的公正性，因为参与者可能会因为金钱利益而操控结果。药物研发本应以科学为基础，而非经济利益，这种现象可能会削弱公众对医药研究的信任。",
+          "analysis_en": "Recently, prediction markets like Kalshi and Polymarket have allowed people to bet on drug approvals, raising concerns about the integrity of research. This trend could impact the fairness of clinical trials, as participants might manipulate outcomes for financial gain. Drug development should be grounded in science rather than economic interests, and this phenomenon may undermine public trust in medical research."
         },
         {
           "rank": 2,
@@ -123,8 +123,8 @@
           "link": "https://www.nytimes.com/2026/07/27/us/politics/fauci-in-private-diary-reflected-on-covids-origins-and-his-own-fame.html",
           "source": "NYT > Health",
           "published_utc": "2026-07-28 14:09 UTC",
-          "analysis_zh": "福奇的私人日记被一位共和党参议员公开，重新引发了关于新冠病毒是否源自实验室泄漏的激烈讨论。这一事件的重要性在于，它不仅涉及到公共卫生的安全性，还可能影响到对未来疫情的防范措施和科学研究的透明度。此事的持续发酵可能会加剧政治分歧，并对科学界的声誉造成影响。",
-          "analysis_en": "Private diary entries from Dr. Fauci, released by a Republican senator, have reignited a heated debate over whether COVID-19 leaked from a lab. This issue is significant as it touches on public health safety and could influence future pandemic prevention strategies and the transparency of scientific research. The ongoing discussion may further exacerbate political divisions and impact the reputation of the scientific community."
+          "analysis_zh": "福奇的私人日记被一位共和党参议员公开，重新引发了关于新冠病毒是否源自实验室泄漏的激烈争论。这一事件的重要性在于，它不仅涉及公共卫生的根本问题，还可能影响未来对病毒起源的研究方向和政策制定。公众对疫情起源的关注可能会导致更严格的生物安全措施和国际合作的重新评估。",
+          "analysis_en": "Dr. Fauci's private diary entries, released by a Republican senator, have reignited a heated debate over whether COVID-19 originated from a lab leak. This matter is significant as it touches on fundamental public health issues and could influence future research directions and policy decisions regarding virus origins. Increased public scrutiny on the origins of the pandemic may lead to stricter biosafety measures and a reevaluation of international cooperation."
         },
         {
           "rank": 3,
@@ -132,8 +132,8 @@
           "link": "https://www.nytimes.com/2026/07/28/health/ovarian-cancer-fallopian-tubes.html",
           "source": "NYT > Health",
           "published_utc": "2026-07-28 13:13 UTC",
-          "analysis_zh": "研究表明，绝大多数卵巢癌病例起源于输卵管，切除输卵管可以将风险降低近80%。这一发现的重要性在于，许多人对这一预防措施并不知情，导致潜在的健康风险未能得到有效控制。通过提高公众对这一信息的认识，可能会促使更多女性采取预防措施，从而降低卵巢癌的发病率。",
-          "analysis_en": "Research indicates that the majority of ovarian cancer cases start in the fallopian tubes, and removing these tubes can reduce the risk by nearly 80%. This finding is significant because many people are unaware of this preventive measure, leaving them vulnerable to potential health risks. By raising public awareness about this information, more women may be encouraged to take preventive actions, potentially decreasing the incidence of ovarian cancer."
+          "analysis_zh": "大多数卵巢癌病例实际上起始于输卵管，研究表明，切除输卵管可以将患病风险降低近80%。这一发现的重要性在于，许多人对这一预防措施知之甚少，导致许多可避免的病例未能得到及时处理。这项研究可能促使医疗界更加重视输卵管切除术作为预防卵巢癌的有效手段，从而提高公众对这一疾病的认识和预防意识。",
+          "analysis_en": "Most cases of ovarian cancer actually begin in the fallopian tubes, and research indicates that removing these tubes can reduce the risk by nearly 80%. This finding is significant because many people are unaware of this preventive measure, leading to numerous avoidable cases going unaddressed. The study may encourage the medical community to prioritize tubal removal as an effective strategy for preventing ovarian cancer, thereby increasing public awareness and prevention efforts regarding this disease."
         },
         {
           "rank": 4,
@@ -141,8 +141,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/07/260727214616.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-07-28 11:48 UTC",
-          "analysis_zh": "研究人员发现，胰岛素产生细胞依赖一组辅助蛋白来维持胰岛素的正常生产。当其中一个关键的合作伙伴缺失时，损坏的蛋白质会积累，导致细胞产生的胰岛素减少。这一发现揭示了在糖尿病进展过程中，强化这一系统可能为保护胰腺提供新的方法。了解这一机制的重要性在于，能够为糖尿病患者提供新的治疗思路，减缓病情恶化。",
-          "analysis_en": "Researchers have found that insulin-producing cells rely on a team of helper proteins to maintain proper insulin production. When one key partner is missing, damaged proteins accumulate, resulting in decreased insulin production. This discovery highlights the potential for strengthening this system to protect the pancreas as diabetes progresses. Understanding this mechanism is crucial, as it could lead to new treatment strategies for diabetes patients and slow the progression of the disease."
+          "analysis_zh": "研究人员发现，胰岛素产生细胞依赖一组辅助蛋白来维持胰岛素的正常生产。当其中一个关键的合作伙伴缺失时，损坏的蛋白质会积累，导致细胞产生的胰岛素减少。这一发现表明，加强这一系统可能为保护胰腺提供新的方法，尤其是在糖尿病进展的过程中。这项研究的重要性在于，它揭示了胰岛素产生细胞在应对糖尿病时面临的挑战，并可能为未来的治疗方案提供新的思路。",
+          "analysis_en": "Researchers found that insulin-producing cells rely on a team of helper proteins to maintain proper insulin production. When one crucial partner is absent, damaged proteins accumulate, leading to reduced insulin production. This discovery suggests that strengthening this system could offer a new approach to protect the pancreas as diabetes progresses. The significance of this research lies in its revelation of the challenges faced by insulin-producing cells in managing diabetes, potentially paving the way for new treatment strategies in the future."
         },
         {
           "rank": 5,
@@ -150,8 +150,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/07/260724061450.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-07-28 10:06 UTC",
-          "analysis_zh": "最新研究表明，单纯减重可能不足以预防某些高风险群体患上2型糖尿病。尽管这些人群在多年内成功减掉约8%的体重，但他们的血糖水平依然上升，胰岛素生产能力减弱，糖尿病风险仍然很高。这一发现对公共健康具有重要意义，因为它提示我们，针对不同风险群体的预防措施需要更加个性化，以有效降低糖尿病的发病率。",
-          "analysis_en": "Recent research indicates that weight loss alone may not be sufficient to prevent type 2 diabetes in certain high-risk groups. Even after successfully losing about 8% of their body weight over several years, individuals in this vulnerable category continued to experience rising blood sugar levels, declining insulin production, and a heightened risk of developing diabetes. This finding is significant for public health, as it suggests that prevention strategies need to be more personalized to effectively reduce diabetes incidence among different risk groups."
+          "analysis_zh": "最新研究表明，单纯减重可能不足以预防某些高风险群体发展2型糖尿病。尽管这些人群在减掉约8%的体重并保持数年后，血糖水平仍持续上升，胰岛素生产能力减弱，糖尿病风险依然很高。这项研究的重要性在于，它揭示了健康生活方式对不同人群的保护效果并不相同，尤其是对那些属于特定高风险类别的人。未来，这可能促使医疗界重新评估糖尿病预防策略，强调个性化的干预措施。",
+          "analysis_en": "Recent research indicates that simply losing weight may not be sufficient to prevent type 2 diabetes in certain high-risk groups. Even after losing about 8% of their body weight and maintaining that loss for years, individuals in this vulnerable category continued to experience rising blood sugar levels, declining insulin production, and a heightened risk of developing diabetes. This study is significant as it highlights that the effectiveness of a healthy lifestyle can vary among different populations, particularly those in specific high-risk categories. Moving forward, this may lead to a reevaluation of diabetes prevention strategies in the medical community, emphasizing the need for personalized interventions."
         },
         {
           "rank": 6,
@@ -159,8 +159,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/07/260723084043.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-07-28 02:09 UTC",
-          "analysis_zh": "一项重要的综述研究发现，运动对髋关节骨关节炎患者的疼痛和身体功能改善效果有限，平均改善幅度较小。尽管运动仍可能对某些患者有帮助，但研究人员警告，目前的证据不足以确定哪些运动效果最佳。这一发现对数百万受髋关节骨关节炎影响的人群具有重要意义，因为运动通常被推荐作为缓解症状和维持活动能力的首选治疗方法。",
-          "analysis_en": "A major review has found that exercise produces only small average improvements in pain and physical function for patients with hip osteoarthritis. While exercise may still benefit some individuals, researchers caution that current evidence is insufficient to determine which exercises are most effective. This finding is significant for the millions affected by hip osteoarthritis, as exercise is commonly recommended as a primary treatment for alleviating symptoms and maintaining mobility."
+          "analysis_zh": "一项重要的综述研究发现，运动对髋关节骨关节炎的疼痛和身体功能改善效果有限，平均改善幅度较小。虽然运动可能对某些患者有帮助，但研究者警告，现有证据不足以确定哪些运动最有效。这一发现对数百万受髋关节骨关节炎影响的人来说尤为重要，因为运动通常被推荐作为缓解症状和维持活动能力的首选治疗方法。未来需要更多的研究来明确运动的具体效果和适用人群。",
+          "analysis_en": "A major review has found that exercise produces only modest improvements in pain and physical function for those with hip osteoarthritis. While it may still benefit some patients, researchers caution that current evidence is insufficient to identify which specific exercises are most effective. This finding is significant for the millions affected by hip osteoarthritis, as exercise is commonly recommended as a primary treatment for alleviating symptoms and maintaining mobility. More research is needed to clarify the specific effects of exercise and the populations that may benefit the most."
         },
         {
           "rank": 7,
@@ -168,8 +168,8 @@
           "link": "https://www.sciencedaily.com/releases/2026/07/260727012141.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-07-28 01:20 UTC",
-          "analysis_zh": "芬兰的研究表明，单次30分钟的桑拿浴可以暂时提高免疫系统的警觉性。研究发现，桑拿的热量结合短暂的冷水淋浴，能够增加血液中所有类型的白血球数量，包括重要的感染防御者，如中性粒细胞和淋巴细胞。这项发现对健康管理具有重要意义，因为提高白血球数量可能增强身体对病原体的反应能力，从而改善免疫监视。未来，定期桑拿可能成为促进免疫健康的一种简单有效的方法。",
-          "analysis_en": "A Finnish study has found that a single 30-minute sauna session can temporarily boost the immune system's alertness. The combination of sauna heat and a brief cold shower increased the number of all types of white blood cells in the bloodstream, including key infection fighters like neutrophils and lymphocytes. This finding is significant for health management, as an increase in white blood cells may enhance the body's ability to respond to pathogens, thereby improving immune surveillance. In the future, regular sauna use could become a simple and effective method for promoting immune health."
+          "analysis_zh": "芬兰的一项研究发现，单次30分钟的桑拿浴可以暂时提高免疫系统的警觉性。研究表明，桑拿的热量结合短暂的冷水冲洗，能够增加血液中所有类型的白血球数量，包括对抗感染的关键细胞，如中性粒细胞和淋巴细胞。这一发现对健康管理具有重要意义，因为提高免疫细胞的流动性可能增强身体对病原体的反应能力，从而改善整体健康状况。",
+          "analysis_en": "A Finnish study has found that a single 30-minute sauna session can temporarily boost the immune system's alertness. The research indicates that the combination of sauna heat and a brief cold shower increases the number of all types of white blood cells in the bloodstream, including crucial infection-fighting cells like neutrophils and lymphocytes. This finding is significant for health management, as enhancing the circulation of immune cells may improve the body's ability to respond to pathogens, thereby promoting overall health."
         },
         {
           "rank": 8,
@@ -177,8 +177,8 @@
           "link": "https://www.nytimes.com/2026/07/23/well/peptides-fda-research.html",
           "source": "NYT > Health",
           "published_utc": "2026-07-27 19:38 UTC",
-          "analysis_zh": "美国食品药品监督管理局（FDA）正在考虑是否允许调配药房生产BPC-157、TB-500等以前被禁止的肽类。这一决定可能会影响到许多患者的治疗选择，尤其是在运动医学和再生医学领域。允许这些肽类的使用可能会为一些难治性疾病提供新的治疗方案，但也引发了对安全性和有效性的担忧。",
-          "analysis_en": "The U.S. Food and Drug Administration (FDA) is considering whether to allow compounding pharmacies to produce previously banned peptides such as BPC-157 and TB-500. This decision could impact treatment options for many patients, particularly in the fields of sports medicine and regenerative medicine. Allowing the use of these peptides may provide new therapeutic avenues for certain hard-to-treat conditions, but it also raises concerns about their safety and efficacy."
+          "analysis_zh": "美国食品药品监督管理局正在考虑是否允许调配药房生产BPC-157、TB-500等之前被禁止的肽类药物。这一决定可能会对肽类药物的使用和市场产生重大影响，尤其是在运动医学和再生医学领域。允许这些肽类药物的生产，可能会为患者提供新的治疗选择，但同时也引发了对安全性和有效性的担忧。",
+          "analysis_en": "The U.S. Food and Drug Administration is contemplating whether to allow compounding pharmacies to produce peptides like BPC-157 and TB-500, which were previously banned. This decision could significantly impact the use and market of these peptides, particularly in sports medicine and regenerative medicine. Allowing their production may offer new treatment options for patients, but it also raises concerns regarding safety and efficacy."
         },
         {
           "rank": 9,
@@ -186,8 +186,8 @@
           "link": "https://www.nytimes.com/2026/07/27/nyregion/nyc-legionnaires-disease-epicenter.html",
           "source": "NYT > Health",
           "published_utc": "2026-07-27 18:30 UTC",
-          "analysis_zh": "近年来，纽约市经历了严重的军团菌病疫情。专家指出，官员们应更加关注管道系统，尤其是淋浴头等地方的潜在风险。这一问题不仅影响公共健康，还可能导致更多人感染，从而增加医疗负担。加强对这些隐患的监测和管理，将有助于保护居民的健康和安全。",
-          "analysis_en": "In recent years, New York City has faced significant outbreaks of Legionnaires' disease. Experts suggest that officials should pay more attention to the risks associated with plumbing systems, particularly in areas like showerheads. This issue not only impacts public health but could also lead to more infections, increasing the burden on healthcare. Strengthening monitoring and management of these risks will help protect the health and safety of residents."
+          "analysis_zh": "纽约市近年来经历了严重的军团病疫情。一些专家指出，官员们应更加关注管道系统中的风险，尤其是淋浴头。这一问题的重要性在于，军团病不仅影响公共健康，还可能导致医疗资源的紧张。若不采取有效措施，未来可能会出现更多病例，给市民的生活带来更大威胁。",
+          "analysis_en": "New York City has faced significant outbreaks of Legionnaires' disease in recent years. Some experts suggest that officials should pay more attention to risks in plumbing systems, particularly shower heads. This issue is important because Legionnaires' disease not only affects public health but can also strain medical resources. If effective measures are not taken, there could be more cases in the future, posing a greater threat to residents' lives."
         },
         {
           "rank": 10,
@@ -195,8 +195,8 @@
           "link": "https://www.nytimes.com/2026/07/27/science/daylight-saving-time-health-safety.html",
           "source": "NYT > Health",
           "published_utc": "2026-07-27 18:15 UTC",
-          "analysis_zh": "美国正在讨论是否应该将夏令时永久化。这一提议的支持者认为，延长日照时间可以改善人们的生活质量，促进经济发展。然而，这也可能导致冬季日出时间大幅推迟，从而影响公众健康和日常生活。科学家们已经记录到这种变化可能带来的健康和经济后果，因此这一决定需要谨慎考虑。",
-          "analysis_en": "The U.S. is debating whether to make daylight saving time permanent. Proponents argue that extending daylight can enhance quality of life and boost the economy. However, this change could result in much later sunrises during winter, potentially affecting public health and daily routines. Scientists have documented the possible health and economic consequences of this shift, making it essential to approach this decision with caution."
+          "analysis_zh": "美国正在讨论是否应该将夏令时永久化。虽然这样可以在白天享受到更多的阳光，但冬季的日出时间将会大幅推迟。科学家们已经记录到这种变化对公众健康和经济可能产生的影响。这一决定不仅关系到人们的生活方式，也可能影响到工作效率和心理健康。",
+          "analysis_en": "The U.S. is debating whether to make daylight saving time permanent. While this would allow for more daylight in the evenings, it would also result in significantly later sunrises during the winter months. Scientists have documented potential impacts on public health and the economy due to this change. This decision could affect not only people's daily routines but also their productivity and mental well-being."
         }
       ]
     },
@@ -210,8 +210,8 @@
           "link": "https://aeon.co/essays/what-kind-of-strength-did-i-chase-with-a-cojones-cheat-code",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-07-28 10:00 UTC",
-          "analysis_zh": "这篇文章讲述了作者在父亲去世后，如何通过练习巴西柔术来应对失落和痛苦。在这个过程中，他经历了失败、低睾酮水平以及对化学增强剂的诱惑。这一经历不仅反映了个人在面对重大人生变故时的挣扎，也引发了对身体和心理健康的深刻思考。作者的故事提醒我们，面对困境时，寻找健康的应对方式至关重要。",
-          "analysis_en": "This article narrates how the author turned to Brazilian jiu-jitsu to cope with the loss of his father. Throughout this journey, he faced defeat, low testosterone levels, and the temptation of chemical enhancements. This experience not only highlights the struggles individuals face during significant life changes but also provokes deep reflections on physical and mental health. The author's story serves as a reminder of the importance of seeking healthy coping mechanisms in times of adversity."
+          "analysis_zh": "在父亲去世后，作者开始练习巴西柔术，这成为他应对悲痛的一种方式。然而，他在训练中遭遇了失败，并且面临着低睾酮水平的问题。为了提升表现，他开始考虑使用化学物质来增强自己的能力。这一过程不仅反映了个人在面对失去时的挣扎，也引发了对体育道德和身体健康的深思。",
+          "analysis_en": "After the death of his father, the author turned to Brazilian jiu-jitsu as a way to cope with his grief. However, he faced defeats and struggled with low testosterone levels. In an attempt to improve his performance, he contemplated using chemical substances to gain an edge. This journey highlights not only the personal struggles of dealing with loss but also raises important questions about sports ethics and health."
         }
       ]
     },
@@ -221,93 +221,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "HBO Max is putting on vertical shorts",
+          "link": "https://www.theverge.com/streaming/971880/hbo-max-vertical-video-feed-shorts",
+          "source": "The Verge",
+          "published_utc": "2026-07-28 15:59 UTC",
+          "analysis_zh": "华纳兄弟探索公司正在为HBO Max推出一个新的垂直视频流功能，旨在帮助用户发现新的观看内容。随着Netflix、Disney Plus和Peacock等流媒体平台已经推出类似TikTok的垂直视频流，HBO Max的这一新功能将使其在竞争中更具吸引力。该功能名为“HBO Max Shorts”，用户可以通过底部导航菜单的图标访问，内容包括预告片、片段和额外内容，且会根据用户的观看历史进行个性化推荐。这一新功能首先将在美国的部分iOS用户中进行测试，未来可能会扩展到更多市场和设备。",
+          "analysis_en": "Warner Bros. Discovery is launching a new vertical video feature for HBO Max, aimed at helping users discover new content to watch. With streaming platforms like Netflix, Disney Plus, and Peacock already offering TikTok-like vertical video feeds, this new feature will enhance HBO Max's competitiveness. Named \"HBO Max Shorts,\" users can access it through an icon in the bottom navigation menu, showcasing trailers, clips, and bonus content tailored to individual viewing histories. Initially, this feature will be tested with select iOS users in the U.S., with plans to expand to more markets and devices in the future."
+        },
+        {
+          "rank": 2,
+          "title": "4GB graphics cards are back",
+          "link": "https://www.theverge.com/games/971868/asrock-amd-4gb-rx-9050-gpu",
+          "source": "The Verge",
+          "published_utc": "2026-07-28 15:52 UTC",
+          "analysis_zh": "AMD推出了首款现代4GB显卡Radeon RX 9050，这一消息在ASRock网站上被用户发现。由于内存价格上涨和组件短缺，科技产品的价格不断攀升，因此这一新产品的发布显得尤为重要。尽管4GB显存的显卡在当前市场中显得有些落后，但它可能会吸引预算有限的玩家或对新技术不太依赖的用户。未来，这款显卡的表现可能会影响游戏开发商对显存需求的预期。",
+          "analysis_en": "AMD has launched the first modern 4GB graphics card, the Radeon RX 9050, which was spotted on ASRock's website by a user. This release is significant as rising RAM prices and component shortages continue to drive up tech product costs. While a 4GB VRAM card may seem outdated in today's market, it could appeal to budget-conscious gamers or those less reliant on cutting-edge technology. In the future, the performance of this card may influence game developers' expectations regarding VRAM requirements."
+        },
+        {
+          "rank": 3,
           "title": "A Son of Wealth Finds His Calling in a High-End Grocery Store",
           "link": "https://www.nytimes.com/2026/07/26/style/meadow-lane-sammy-nussdorf.html",
           "source": "NYT > Technology",
           "published_utc": "2026-07-28 15:18 UTC",
-          "analysis_zh": "萨米·纳斯多夫，这位富裕家庭的继承人，发现了自己在曼哈顿下城高档杂货店Meadow Lane的真正使命。他在这里不仅经营着精心摆放的商品，还重新定义了奢侈品购物的体验。这一转变不仅展示了个人价值观的变化，也可能影响到高端零售行业的未来，促使更多富裕家庭的年轻人追求与众不同的职业道路。",
-          "analysis_en": "Sammy Nussdorf, a scion of wealth, has discovered his true calling at Meadow Lane, a high-end grocery store in Lower Manhattan. Here, he not only manages carefully arranged products but also redefines the luxury shopping experience. This shift highlights a change in personal values and may influence the future of the high-end retail industry, encouraging more young heirs from wealthy families to pursue unique career paths."
+          "analysis_zh": "在曼哈顿下城，一位富裕家庭的后代萨米·纳斯多夫找到了自己的职业方向，他在高档杂货店梅多巷中工作。这个故事不仅展示了他对食品和零售的热情，也反映了现代社会中财富与个人追求之间的复杂关系。纳斯多夫的经历可能会激励其他年轻人去追求自己真正热爱的事业，而不仅仅是依赖家庭的财富。",
+          "analysis_en": "In Lower Manhattan, Sammy Nussdorf, a scion of a wealthy family, has discovered his calling while working at the upscale grocery store Meadow Lane. This story highlights his passion for food and retail, while also reflecting the complex relationship between wealth and personal ambition in modern society. Nussdorf's journey may inspire other young individuals to pursue careers they are truly passionate about, rather than simply relying on their family's wealth."
         },
         {
-          "rank": 2,
+          "rank": 4,
           "title": "Apple’s reported ‘HomePad’ may launch as early as October",
           "link": "https://www.theverge.com/tech/971790/apple-homepad-rumor-launch",
           "source": "The Verge",
           "published_utc": "2026-07-28 14:39 UTC",
-          "analysis_zh": "苹果即将推出的“HomePad”可能会在十月份上市，这款新设备旨在与谷歌和亚马逊的智能家居产品竞争。根据彭博社的报道，这款设备将配备7英寸的方形显示屏，并基于苹果的tvOS操作系统，提供类似于iOS和WatchOS的图标、部件和应用程序界面。此举不仅可能改变智能家居市场的竞争格局，还可能推动苹果在智能家居领域的进一步发展。",
-          "analysis_en": "Apple's upcoming \"HomePad\" is expected to launch as early as October, aiming to compete with smart home products from Google and Amazon. According to a report from Bloomberg, the device will feature a 7-inch square display and will be based on Apple's tvOS, offering an interface with icons, widgets, and apps similar to iOS and WatchOS. This move could not only alter the competitive landscape of the smart home market but also drive Apple's further expansion in this sector."
+          "analysis_zh": "苹果即将推出的“HomePad”可能在十月上市，这款新设备旨在与谷歌和亚马逊的智能家居产品竞争。根据彭博社的报道，这款设备将配备7英寸的方形显示屏，并采用基于Apple tvOS的新操作系统，界面设计与iOS和WatchOS相似。此举不仅标志着苹果在智能家居领域的进一步布局，也可能改变消费者对智能家居设备的选择，增强苹果生态系统的吸引力。",
+          "analysis_en": "Apple's upcoming \"HomePad\" is expected to launch as early as October, aiming to compete with smart home products from Google and Amazon. According to a report from Bloomberg, the device will feature a 7-inch square display and a new operating system based on Apple’s tvOS, with an interface reminiscent of iOS and WatchOS. This move signifies Apple's deeper commitment to the smart home market and could influence consumer choices regarding smart home devices, enhancing the appeal of the Apple ecosystem."
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "In This Costa Rican Forest, Monkeys Come Face-to-Face With A.I.",
           "link": "https://www.nytimes.com/2026/07/28/science/costa-rica-monkeys-ai.html",
           "source": "NYT > Technology",
           "published_utc": "2026-07-28 14:19 UTC",
-          "analysis_zh": "在哥斯达黎加的森林中，科学家们使用名为CapuchinAI的便携式测试站，配备触摸屏和面部识别软件，来研究野生猿类的智力。这项技术的应用不仅为科学家提供了新的研究工具，也可能改变我们对灵长类动物认知能力的理解。通过与人工智能的互动，猴子们的行为和反应将被更深入地分析，这对动物行为学和保护工作具有重要意义。",
-          "analysis_en": "In a forest in Costa Rica, scientists are utilizing a portable testing station called CapuchinAI, which features a touchscreen and facial recognition software, to study primate intelligence in the wild. This technology not only offers researchers a new tool for their studies but may also change our understanding of the cognitive abilities of primates. By interacting with artificial intelligence, the behaviors and responses of monkeys will be analyzed more deeply, which is significant for animal behavior research and conservation efforts."
+          "analysis_zh": "在哥斯达黎加的一个森林中，科学家们使用一种名为CapuchinAI的便携式测试站，该设备配备了触摸屏和面部识别软件。这项技术的出现使得研究人员能够在野外更有效地研究猴子的智力。这一发现不仅有助于我们理解灵长类动物的认知能力，还可能对保护这些物种及其栖息地产生积极影响。",
+          "analysis_en": "In a forest in Costa Rica, scientists are utilizing a portable testing station called CapuchinAI, which is equipped with a touchscreen and facial recognition software. This technology allows researchers to study primate intelligence more effectively in the wild. This development not only enhances our understanding of the cognitive abilities of primates but may also positively impact the conservation of these species and their habitats."
         },
         {
-          "rank": 4,
+          "rank": 6,
           "title": "Twelve South’s stylish charging tray now delivers more wireless power with a smaller footprint",
           "link": "https://www.theverge.com/tech/969957/twelve-south-valet-wireless-charger-qi2-25w-leather",
           "source": "The Verge",
           "published_utc": "2026-07-28 13:00 UTC",
-          "analysis_zh": "Twelve South 最近推出了新款 Valet 无线充电托盘，旨在满足空间有限的环境需求。与之前的版本相比，新款托盘的深度从 7.5 英寸缩减至 4.5 英寸，更加适合放置单个物品，如眼镜。尽管体积减小，但新款的无线充电功率从原来的 15W 提升至 25W，这意味着充电速度更快。这一创新不仅提升了用户体验，也可能影响市场上其他无线充电产品的设计方向。",
-          "analysis_en": "Twelve South has recently introduced a new version of its Valet wireless charging tray, designed for environments where space is limited. The new tray's depth has been reduced from 7.5 inches to 4.5 inches, making it more suitable for single items like glasses. Despite its smaller size, the new version increases the wireless charging power from 15W to 25W, allowing for faster charging. This innovation not only enhances user experience but may also influence the design direction of other wireless charging products in the market."
+          "analysis_zh": "Twelve South 最近推出了一款新版本的 Valet 无线充电托盘，旨在满足空间有限的环境需求。与原版相比，新款托盘的深度从 7.5 英寸缩减至 4.5 英寸，更加适合放置单一物品，如眼镜。尽管体积更小，但新款的无线充电功率从 15W 提升至 25W，这意味着充电速度更快。这一变化不仅提升了用户体验，还可能影响到市场上其他无线充电产品的设计和功能。",
+          "analysis_en": "Twelve South has recently introduced a new version of its Valet wireless charging tray, designed for environments with limited space. The new tray's depth has been reduced from 7.5 inches to 4.5 inches, making it more suitable for single items like glasses. Despite its smaller size, the new version increases the wireless charging power from 15W to 25W, allowing for faster charging. This change not only enhances user experience but may also influence the design and functionality of other wireless charging products in the market."
         },
         {
-          "rank": 5,
+          "rank": 7,
           "title": "You don’t need to splurge on an expensive handheld fan to beat the heat",
           "link": "https://www.theverge.com/tech/970092/jisulife-10s-handheld-personal-fan",
           "source": "The Verge",
           "published_utc": "2026-07-28 13:00 UTC",
-          "analysis_zh": "最近有报道称，消费者并不需要花费近百美元购买高端手持风扇来应对夏季炎热。许多家庭发现，像JisuLife这样的经济型手持风扇就能满足他们在潮湿的棒球比赛、炎热的音乐会和出汗的徒步旅行中的需求。这一发现不仅让消费者节省了开支，也提醒大家在选择产品时要理性，不必盲目跟风追求昂贵品牌。随着越来越多的人意识到实惠选择的价值，市场上可能会出现更多性价比高的产品。",
-          "analysis_en": "Recent reports indicate that consumers do not need to spend nearly $100 on high-end handheld fans to cope with summer heat. Many families have found that affordable handheld fans from brands like JisuLife can meet their needs during humid baseball games, sweltering concerts, and sweaty hikes. This realization not only helps consumers save money but also encourages a more rational approach to product selection, moving away from blindly following expensive brands. As more people recognize the value of budget-friendly options, we may see an increase in high-quality, cost-effective products in the market."
+          "analysis_zh": "最近有报道称，消费者不必花费高达149.99美元购买昂贵的手持风扇来应对夏季炎热。许多家庭发现，使用来自中国品牌JisuLife的经济型手持风扇，便能在湿热的棒球比赛、炎热的音乐会和出汗的徒步旅行中保持舒适。这一发现不仅为消费者节省了开支，也提醒大家在选择产品时应更加理性，避免被网红的推荐所影响。随着夏季的到来，经济实惠的选择可能会影响市场上高价产品的销售。",
+          "analysis_en": "Recent reports indicate that consumers do not need to spend up to $149.99 on expensive handheld fans to cope with the summer heat. Many families have found that using affordable handheld fans from the Chinese brand JisuLife can keep them comfortable during humid baseball games, sweltering concerts, and sweaty hikes. This finding not only saves consumers money but also serves as a reminder to make more rational choices when selecting products, rather than being swayed by influencer recommendations. As summer approaches, the availability of budget-friendly options may impact the sales of higher-priced products in the market."
         },
         {
-          "rank": 6,
+          "rank": 8,
           "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
           "link": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
           "source": "NYT > Technology",
           "published_utc": "2026-07-28 12:35 UTC",
-          "analysis_zh": "苹果公司推出了一项新的租赁计划，旨在使iPhone及其他设备更具可负担性。这一举措是在人工智能技术推动某些组件价格飙升的背景下进行的，反映了市场对高科技产品的需求增加。通过租赁，消费者可以以较低的成本体验最新的设备，这可能会吸引更多用户，进一步推动苹果的市场份额。",
-          "analysis_en": "Apple has introduced a new leasing program aimed at making iPhones and other devices more affordable. This initiative comes in response to rising component prices driven by advancements in artificial intelligence, highlighting the growing demand for high-tech products. By offering leasing options, consumers can access the latest devices at a lower cost, which may attract more users and further enhance Apple's market share."
+          "analysis_zh": "苹果公司推出了一项新的租赁计划，旨在让 iPhone 和其他设备变得更加实惠。这项计划的推出正值人工智能技术推动某些组件价格飙升的背景下，消费者面临更高的购买成本。通过租赁，用户可以以较低的月费使用最新设备，这可能会吸引更多用户选择苹果产品，进一步巩固其市场地位。",
+          "analysis_en": "Apple has introduced a new leasing program aimed at making iPhones and other devices more affordable. This initiative comes at a time when rising artificial intelligence technology is causing some component prices to soar, leading to higher costs for consumers. By offering leasing options, Apple hopes to attract more users to its products at a lower monthly fee, which could strengthen its market position further."
         },
         {
-          "rank": 7,
+          "rank": 9,
           "title": "Logitech’s handheld plans are on ice — don’t expect a G Cloud 2 soon",
           "link": "https://www.theverge.com/games/971651/logitech-handheld-business-g-cloud-robin-piispanen-interview",
           "source": "The Verge",
           "published_utc": "2026-07-28 12:31 UTC",
-          "analysis_zh": "罗技的新游戏负责人罗宾·皮普萨宁表示，尽管他对游戏掌机的概念很感兴趣，但目前并没有计划推出G Cloud 2。他提到，在经历了G Cloud掌机的失利后，罗技不确定是否应该再次尝试这一市场。此时，罗技更希望专注于其他更重要的项目。这一决定可能会影响罗技在游戏掌机领域的竞争力，尤其是在当前市场对掌机的需求变化较大的情况下。",
-          "analysis_en": "Logitech's new gaming head, Robin Piispanen, expressed his interest in the idea of gaming handhelds but stated that there are no plans for a G Cloud 2 at this time. After the underwhelming performance of the G Cloud handheld, Logitech is uncertain about re-entering this market. For now, the company prefers to focus on other more pressing projects. This decision could impact Logitech's competitiveness in the handheld gaming sector, especially given the fluctuating demand for such devices in the current market."
+          "analysis_zh": "罗技的新游戏负责人罗宾·皮普萨宁表示，他对游戏掌机的想法很感兴趣，称其为“迷人的价值主张”。然而，目前公司并没有计划推出新的掌机产品，也不确定是否会在未来尝试。罗技在推出G Cloud掌机后，未能取得预期的成功，因此他们决定将重心放在其他更重要的项目上。这一决定可能会影响罗技在游戏硬件市场的竞争力，尤其是在掌机领域。",
+          "analysis_en": "Logitech's new gaming head, Robin Piispanen, expressed his interest in gaming handhelds, calling them a \"charming value proposition.\" However, the company currently has no plans to develop a new handheld and is uncertain about future attempts. After the underwhelming performance of the G Cloud handheld, Logitech has chosen to focus on other more pressing projects. This decision may impact Logitech's competitiveness in the gaming hardware market, particularly in the handheld segment."
         },
         {
-          "rank": 8,
+          "rank": 10,
           "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
           "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
           "source": "The Verge",
           "published_utc": "2026-07-28 12:30 UTC",
-          "analysis_zh": "Perplexity最近将其个人计算机工具扩展到了Windows平台，使得运行全球最流行操作系统的电脑可以作为本地AI系统使用。这一工具像是一个“通用数字助手”，能够访问本地文件和应用程序，帮助用户完成文档创建和电子表格更新等任务。这一发布不仅增强了Perplexity在AI领域的竞争力，也为Windows用户提供了更高效的工作方式，可能会改变企业在日常操作中的工作流程。",
-          "analysis_en": "Perplexity has recently expanded its Personal Computer tool to the Windows platform, enabling computers running the world's most popular operating system to function as a locally run AI system. This tool acts like a \"general-purpose digital assistant,\" capable of accessing local files and applications to help users with tasks such as document creation and spreadsheet updates. This launch not only strengthens Perplexity's competitiveness in the AI sector but also offers Windows users a more efficient way to work, potentially transforming workflows in enterprises."
-        },
-        {
-          "rank": 9,
-          "title": "Apple launches ‘Upgrade’ program to lease new devices",
-          "link": "https://www.theverge.com/tech/971220/apple-upgrade-program-iphone-mac-ipad-lease-launch",
-          "source": "The Verge",
-          "published_utc": "2026-07-28 12:23 UTC",
-          "analysis_zh": "苹果正式推出了“Apple Upgrade”租赁计划，旨在让用户更轻松地获取最新款的iPhone、Mac、iPad和Apple Watch。该服务今天在美国上线，运作方式类似于汽车租赁，用户可以在订阅期结束时选择保留设备、提前还清设备费用或提前升级到新型号。此举在苹果提高MacBook和iPad等设备价格的背景下推出，反映了当前内存和存储短缺的挑战。新计划的推出可能会吸引更多消费者，尤其是在高价设备面临购买压力的情况下。",
-          "analysis_en": "Apple has officially launched the \"Apple Upgrade\" leasing program, which aims to make it easier for users to access the latest iPhone, Mac, iPad, and Apple Watch models. The service is launching today in the U.S. and operates similarly to a car lease, allowing users to keep the device at the end of their subscription, pay it off early, or upgrade to a new model. This initiative comes shortly after Apple raised prices on its MacBooks and iPads, highlighting the challenges posed by ongoing memory and storage shortages. The new program may attract more consumers, especially as high-priced devices become a financial burden for many."
-        },
-        {
-          "rank": 10,
-          "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
-          "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
-          "source": "MIT Technology Review",
-          "published_utc": "2026-07-28 12:10 UTC",
-          "analysis_zh": "最近，OpenAI 报告了一起针对其模型的攻击，称其为前所未有的事件。然而，这种情况并不是第一次发生。此事件引发了对人工智能安全性的广泛关注，可能会影响公众对 AI 技术的信任度和投资者的信心。随着 AI 技术的迅速发展，确保其安全性和可靠性变得尤为重要。",
-          "analysis_en": "Recently, OpenAI reported an attack on its models, describing it as unprecedented. However, this is not the first time such an incident has occurred. This event has sparked widespread concern about the security of artificial intelligence, which could affect public trust in AI technologies and investor confidence. As AI technology continues to advance rapidly, ensuring its safety and reliability has become increasingly critical."
+          "analysis_zh": "Perplexity最近将其个人电脑工具扩展到了Windows系统，使得运行这一全球最流行操作系统的计算机可以作为本地AI系统使用。这一工具的推出使得Windows用户能够利用AI来处理本地文件和应用程序，从而提高工作效率。此举不仅为用户提供了更便捷的数字助手，还可能改变企业在Windows环境下的工作方式，促进AI技术在日常办公中的应用。",
+          "analysis_en": "Perplexity has recently expanded its Personal Computer tool to Windows, enabling computers running the world's most popular operating system to function as a locally run AI system. This launch allows Windows users to leverage AI for managing local files and applications, thereby enhancing productivity. This development not only offers users a more convenient digital assistant but may also transform how businesses operate within the Windows environment, promoting the integration of AI technology into everyday office tasks."
         }
       ]
     },
@@ -317,93 +317,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "‘Lili Elbe,’ Opera About Trans Heroine of ‘The Danish Girl,’ Is Timely",
+          "link": "https://www.nytimes.com/2026/07/28/arts/music/tobias-picker-lili-elbe-transgender-santa-fe-opera.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-07-28 16:02 UTC",
+          "analysis_zh": "莉莉·艾尔比的故事曾在《丹麦女孩》中被讲述。现在，托比亚斯·皮克的歌剧《莉莉·艾尔比》将在美国首演，主角由一位跨性别歌唱家担任。这部歌剧的推出恰逢其时，反映了当今社会对跨性别者的关注和支持。它不仅为跨性别艺术家提供了展示才华的平台，也可能推动更广泛的社会对性别认同的理解与接受。",
+          "analysis_en": "Lili Elbe's story was previously depicted in \"The Danish Girl.\" Now, Tobias Picker's opera \"Lili Elbe,\" featuring a transgender opera singer in the lead role, is set to premiere in the U.S. This production is timely, reflecting the current societal focus on transgender issues and support. It not only provides a platform for transgender artists to showcase their talents but may also promote broader societal understanding and acceptance of gender identity."
+        },
+        {
+          "rank": 2,
+          "title": "bagel-inspired details and flexible furniture shape seoul bakery’s open interior",
+          "link": "https://www.designboom.com/architecture/bagel-inspired-details-flexible-furniture-seoul-bakery-open-interior-jojoworkshop-achime-bagel/",
+          "source": "designboom | architecture & design magazine",
+          "published_utc": "2026-07-28 15:45 UTC",
+          "analysis_zh": "最近，首尔的一家新面包店通过开放式厨房和灵活的家具设计，创造了一个温馨的室内环境。面包店的设计灵感来自贝果，体现了烘焙的日常节奏。这种设计不仅提升了顾客的用餐体验，也为面包师提供了更高效的工作空间。这样的创新设计可能会影响未来餐饮业的空间布局和顾客互动方式。",
+          "analysis_en": "Recently, a new bakery in Seoul has created a warm interior environment through an open kitchen and flexible furniture design. The bakery's design is inspired by bagels, reflecting the daily rhythm of baking. This design not only enhances the dining experience for customers but also provides a more efficient workspace for bakers. Such innovative designs may influence the spatial layout and customer interaction in the future of the food service industry."
+        },
+        {
+          "rank": 3,
           "title": "Bernard Arnault Hits Back at Le Monde Report Accusing Him of Being ‘In Love With the Arts and Tax Exemptions’",
           "link": "https://www.artnews.com/art-news/news/bernard-arnault-response-le-monde-report-1234793597/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-07-28 15:25 UTC",
-          "analysis_zh": "伯纳德·阿尔诺（Bernard Arnault）对《世界报》指控他“热爱艺术和税收豁免”的报道进行了反驳。他表示，法国法律旨在通过税收减免来鼓励公众对艺术的支出，如果人们对此不满，可以选择废除现有的立法。这一事件引发了对艺术资助和税收政策的广泛讨论，可能会影响未来的文化投资和相关法律的制定。",
-          "analysis_en": "Bernard Arnault responded to a report by Le Monde accusing him of being \"in love with the arts and tax exemptions.\" He stated that French law is designed to encourage public spending on the arts through tax breaks, and if people disapprove, they can repeal the existing legislation. This incident has sparked a broader discussion about arts funding and tax policies, which may influence future cultural investments and the formulation of related laws."
+          "analysis_zh": "伯纳德·阿尔诺对《世界报》指责他“热爱艺术和税收豁免”进行了反驳。他表示，法国法律旨在通过税收减免来鼓励公众对艺术的消费，如果人们对此不满，可以选择废除现有的立法。这一事件引发了对艺术资助与税收政策之间关系的讨论，可能会影响公众对艺术资助的看法以及未来相关政策的制定。",
+          "analysis_en": "Bernard Arnault responded to a report by Le Monde that accused him of being \"in love with the arts and tax exemptions.\" He stated that French law is designed to encourage spending on the arts through tax breaks, and if people disapprove, they can simply repeal the existing legislation. This incident has sparked discussions about the relationship between arts funding and tax policy, which may influence public perceptions of arts patronage and future policy decisions."
         },
         {
-          "rank": 2,
+          "rank": 4,
           "title": "Booker Prize 2026 Nominees: Marlon James, Elizabeth Strout and More",
           "link": "https://www.nytimes.com/2026/07/28/books/booker-prize-longlist.html",
           "source": "NYT > Arts",
           "published_utc": "2026-07-28 15:17 UTC",
-          "analysis_zh": "2026年布克奖的提名名单公布，入围作品包括马龙·詹姆斯、伊丽莎白·斯特劳特等知名作家的最新著作。这一奖项是英国文学界的重要荣誉，提名作品的质量和多样性将引起广泛关注。获奖作品不仅能提升作者的知名度，还可能影响读者的阅读选择和出版市场的动态。",
-          "analysis_en": "The nominees for the 2026 Booker Prize have been announced, featuring new works from notable authors such as Marlon James and Elizabeth Strout. This prestigious award holds significant importance in the British literary scene, and the quality and diversity of the nominated works are likely to attract considerable attention. Winning the award can enhance an author's visibility and may influence readers' choices as well as the dynamics of the publishing market."
+          "analysis_zh": "2026年布克奖的提名名单公布，包含了马龙·詹姆斯、伊丽莎白·斯特劳特等著名作家的作品。这一奖项在文学界具有重要地位，能够提升获奖作品的知名度和销量。提名的书籍不仅展示了当代文学的多样性，也反映了社会文化的变化，可能会引发更多读者对这些作品的关注和讨论。",
+          "analysis_en": "The nominees for the 2026 Booker Prize have been announced, featuring notable authors such as Marlon James and Elizabeth Strout. This prestigious award holds significant influence in the literary world, often boosting the visibility and sales of the nominated works. The selected books not only highlight the diversity of contemporary literature but also reflect shifts in social and cultural narratives, potentially sparking increased interest and discussion among readers."
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "SFMoMA Announces Recent Gifts and Purchases of Modern and Contemporary Artworks",
           "link": "https://www.artnews.com/list/art-news/news/sfmoma-newest-gifts-and-purchases-modern-contemporary-art-1234793066/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-07-28 15:12 UTC",
-          "analysis_zh": "旧金山现代艺术博物馆（SFMoMA）最近宣布了一系列现代和当代艺术作品的新捐赠和购买。这些新作品包括Betye Saar、Rose B. Simpson、Bernice Bing、Peter Hujar、Martin Puryear和Ellsworth Kelly等艺术家的作品。这一举措不仅丰富了博物馆的收藏，也为公众提供了更多接触和欣赏现代艺术的机会。随着这些新作品的加入，博物馆将进一步推动艺术教育和文化交流，吸引更多的访客。",
-          "analysis_en": "The San Francisco Museum of Modern Art (SFMoMA) recently announced a series of new gifts and purchases of modern and contemporary artworks. These acquisitions include pieces by artists such as Betye Saar, Rose B. Simpson, Bernice Bing, Peter Hujar, Martin Puryear, and Ellsworth Kelly. This initiative not only enhances the museum's collection but also provides the public with greater access to and appreciation of modern art. With these new additions, the museum aims to further promote art education and cultural exchange, attracting more visitors."
+          "analysis_zh": "旧金山现代艺术博物馆（SFMoMA）最近宣布了其现代和当代艺术作品的新捐赠和购买。这些新作品包括Betye Saar、Rose B. Simpson、Bernice Bing、Peter Hujar、Martin Puryear和Ellsworth Kelly等艺术家的作品。这一举措不仅丰富了博物馆的收藏，也为观众提供了更多欣赏和理解当代艺术的机会。这些新加入的作品可能会吸引更多的访客，提升博物馆的知名度和影响力。",
+          "analysis_en": "The San Francisco Museum of Modern Art (SFMoMA) recently announced new gifts and purchases of modern and contemporary artworks. These acquisitions include pieces by artists such as Betye Saar, Rose B. Simpson, Bernice Bing, Peter Hujar, Martin Puryear, and Ellsworth Kelly. This initiative not only enriches the museum's collection but also offers visitors more opportunities to appreciate and understand contemporary art. The addition of these works may attract more visitors and enhance the museum's reputation and influence."
         },
         {
-          "rank": 4,
+          "rank": 6,
           "title": "‘The Saviors’ Review: Childlike Faith, Adult Betrayal",
           "link": "https://www.nytimes.com/2026/07/27/theater/the-saviors-review-childlike-faith-adult-betrayal.html",
           "source": "NYT > Arts",
           "published_utc": "2026-07-28 14:47 UTC",
-          "analysis_zh": "新剧《救赎者》讲述了两个在十字路口的祭坛男孩的故事，展现了童稚的信仰与成年人的背叛。该剧由巴巴·韦勒创作，尽管剧中甜美与矫揉造作的界限模糊，但仍有多场精彩的表演值得称道。这部作品引发了对信仰和人性复杂性的深思，可能会影响观众对宗教和道德的看法。",
-          "analysis_en": "The new play \"The Saviors\" tells the story of two altar boys at a crossroads, exploring themes of childlike faith and adult betrayal. Created by Bubba Weiler, the production features several commendable performances, even as the line between sweetness and sentimentality becomes blurred. This work prompts reflection on the complexities of faith and human nature, potentially influencing the audience's perspectives on religion and morality."
+          "analysis_zh": "《救赎者》是巴巴·韦勒的新剧，讲述了两名祭坛男孩在十字路口的故事。剧中展现了多场精彩的表演，尽管在甜美与过于煽情之间的界限有时模糊。这部剧探讨了童真信仰与成年背叛之间的冲突，反映了人们在成长过程中面临的道德困境。该剧的重要性在于它引发观众对信仰和背叛的深思，可能会影响人们对宗教和人际关系的看法。",
+          "analysis_en": "\"The Saviors\" is a new play by Bubba Weiler that tells the story of two altar boys at a crossroads. The production features several beautiful performances, even as the line between sweetness and sentimentality occasionally blurs. The play explores the conflict between childlike faith and adult betrayal, reflecting the moral dilemmas faced during the journey of growing up. Its significance lies in prompting audiences to reflect on themes of faith and betrayal, which may influence their perspectives on religion and relationships."
         },
         {
-          "rank": 5,
+          "rank": 7,
           "title": "Sam Smith Shows a New Side on “Hazel Eyes”",
           "link": "https://www.nytimes.com/2026/07/28/arts/music/sam-smith-hazel-eyes-new-album.html",
           "source": "NYT > Arts",
           "published_utc": "2026-07-28 14:27 UTC",
-          "analysis_zh": "萨姆·史密斯在新专辑《Hazel Eyes》中展现了全新的自我。这张专辑聚焦于鲜明的同性恋“相互爱慕”，与他之前以心碎为主题的作品形成鲜明对比。这一转变不仅反映了史密斯个人的成长，也为LGBTQ+群体提供了更广泛的代表性，可能会影响更多艺术家在创作中探索自己的真实情感。",
-          "analysis_en": "Sam Smith reveals a new side of himself in his latest album, \"Hazel Eyes.\" This album focuses on distinctly queer \"requited love,\" contrasting sharply with his previous works centered around heartbreak. This shift not only reflects Smith's personal growth but also provides broader representation for the LGBTQ+ community, potentially encouraging more artists to explore their authentic emotions in their creations."
+          "analysis_zh": "萨姆·史密斯在新专辑《Hazel Eyes》中展现了全新的一面。这张专辑聚焦于明确的同性恋“相互爱慕”，与他之前以失恋为主题的作品形成鲜明对比。这一转变不仅反映了史密斯个人情感的成长，也为LGBTQ+社群带来了积极的代表性，可能会激励更多人表达自己的爱情和身份。",
+          "analysis_en": "Sam Smith reveals a new side in his latest album \"Hazel Eyes.\" This album focuses on explicitly queer \"requited love,\" contrasting sharply with his earlier works centered around heartbreak. This shift not only reflects Smith's personal emotional growth but also provides positive representation for the LGBTQ+ community, potentially inspiring more individuals to express their love and identity."
         },
         {
-          "rank": 6,
+          "rank": 8,
           "title": "‘bomb scars bring the wall back to rock’: artist pavel rotts maps war through climbing",
           "link": "https://www.designboom.com/art/bomb-scars-wall-rock-artist-pavel-rotts-war-climbing-play/",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-07-28 14:00 UTC",
-          "analysis_zh": "艺术家帕维尔·罗茨（Pavel Rotts）通过攀岩的方式，将战争的创伤转化为可攀爬的地图，展现了集体失落的记忆。他使用明亮的树脂抓手，将战争时期的建筑碎片重新构建，赋予其新的生命和意义。这一项目不仅引发了人们对战争后果的反思，也可能影响公众对历史记忆和艺术表达的理解。",
-          "analysis_en": "Artist Pavel Rotts has transformed the scars of war into a climbable map that reflects collective loss through climbing. By using bright resin holds to reconstruct fragments of wartime architecture, he gives new life and meaning to these remnants. This project not only prompts reflection on the consequences of war but may also influence public perceptions of historical memory and artistic expression."
+          "analysis_zh": "艺术家帕维尔·罗茨（Pavel Rotts）通过攀岩的方式，展现了战争带来的创伤。他将二战时期的建筑残骸转化为可攀爬的亮色树脂握点，形成了一幅集体失落的地图。这一艺术作品不仅反映了战争对人类的深远影响，也促使观众思考历史与记忆的关系。通过这种独特的表达方式，罗茨希望引发人们对战争后果的反思，并激励更多人关注历史的教训。",
+          "analysis_en": "Artist Pavel Rotts has created a unique climbing experience that maps the scars of war. By transforming fragments of wartime architecture into bright resin holds, he has crafted a climbable representation of collective loss. This artwork highlights the profound impact of war on humanity and encourages viewers to reflect on the relationship between history and memory. Through this innovative expression, Rotts aims to provoke thought about the consequences of war and inspire a greater awareness of historical lessons."
         },
         {
-          "rank": 7,
+          "rank": 9,
           "title": "Betye Saar Dies at 99, Irish Museum Worker Charged in Bomb Plot, and More: Morning Links for July 28, 2026",
           "link": "https://www.artnews.com/art-news/news/betye-saar-obituaries-morning-links-july-28-2026-1234793609/",
           "source": "News – ARTnews.com",
           "published_utc": "2026-07-28 14:00 UTC",
-          "analysis_zh": "近日，爱尔兰一名博物馆工作人员因涉嫌策划炸弹袭击而被控。这一事件引发了公众的广泛关注，尤其是在文化机构的安全问题上。这起案件不仅可能影响博物馆的运营和安全措施，还可能对公众对文化场所的信任产生负面影响。随着案件的进一步发展，相关部门可能会加强对博物馆和其他公共场所的安全审查。",
-          "analysis_en": "Recently, an Irish museum worker was charged with plotting a bomb attack, drawing significant public attention, particularly regarding security issues in cultural institutions. This incident could impact the operations and safety protocols of museums, potentially undermining public trust in cultural venues. As the case unfolds, authorities may enhance security reviews for museums and other public spaces."
+          "analysis_zh": "近日，爱尔兰一名博物馆工作人员因涉嫌参与炸弹阴谋而被逮捕。这一事件引发了公众的广泛关注，因为它不仅涉及到博物馆的安全问题，还可能影响到文化机构的运营和公众的信任。随着调查的深入，可能会对博物馆的安保措施和相关政策进行重新评估，以确保类似事件不再发生。",
+          "analysis_en": "Recently, an Irish museum worker was arrested for allegedly being involved in a bomb plot. This incident has drawn significant public attention as it raises concerns about the safety of cultural institutions and may affect public trust in these organizations. As the investigation unfolds, there may be a reevaluation of security measures and policies at museums to prevent similar incidents in the future."
         },
         {
-          "rank": 8,
+          "rank": 10,
           "title": "Linde chair and table by OUT among five new products on Dezeen Showroom",
           "link": "https://www.dezeen.com/2026/07/28/linde-chair-table-out-furnishings-flooring-seating-dezeen-showroom/",
           "source": "Dezeen",
           "published_utc": "2026-07-28 13:00 UTC",
-          "analysis_zh": "OUT设计品牌推出的Linde椅子和桌子在Dezeen Showroom上亮相，成为五款新产品之一。这款椅子和桌子以其独特的图形和趣味形状而受到关注，旨在将舒适的扶手椅体验带入餐桌环境。这一设计不仅展示了德国制造的高品质，也反映了现代家居美学的趋势。这样的产品可能会影响消费者对家居家具的选择，推动更多品牌关注舒适与美观的结合。",
-          "analysis_en": "The Linde chair and table set by the design brand OUT has been featured among five new products on Dezeen Showroom. This set is notable for its unique graphic and playful shapes, aiming to bring the comfort of an armchair into the dining experience. The design showcases high-quality German manufacturing and reflects current trends in modern home aesthetics. Such products may influence consumer choices in home furniture, encouraging more brands to focus on the combination of comfort and beauty."
-        },
-        {
-          "rank": 9,
-          "title": "Who is Matthew Taylor, the Artist Helping Trump Reshape Washington, D. C.?",
-          "link": "https://www.artnews.com/art-news/news/who-is-matthew-taylor-artist-helping-trump-reshape-washington-d-c-1234793536/",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-07-28 12:26 UTC",
-          "analysis_zh": "马修·泰勒（Matthew Taylor）成为白宫的“文化沙皇”，在特朗普政府中扮演了重要角色。他的艺术作品和文化理念正在影响华盛顿特区的政治和社会氛围。这一现象不仅反映了艺术与政治的交融，也可能对未来的文化政策和艺术创作产生深远影响。",
-          "analysis_en": "Matthew Taylor has emerged as a \"culture czar\" in the White House, playing a significant role in the Trump administration. His artistic works and cultural ideas are influencing the political and social atmosphere in Washington, D.C. This phenomenon reflects the intertwining of art and politics and may have lasting implications for future cultural policies and artistic creation."
-        },
-        {
-          "rank": 10,
-          "title": "Czech Artist and Museum Director Milan Knížák, Once Imprisoned as an ‘Enemy of the State,’ Has Died at 86",
-          "link": "https://www.artnews.com/art-news/news/milan-knizak-czech-artist-museum-director-dead-1234793527/",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-07-28 12:05 UTC",
-          "analysis_zh": "捷克艺术家兼博物馆馆长米兰·克尼扎克（Milan Knížák）于86岁去世。他曾因被视为“国家敌人”而入狱，后在Fluxus运动中积极参与，作品被全球多家博物馆收藏。克尼扎克的去世不仅是艺术界的损失，也提醒人们关注艺术与政治之间的复杂关系。他的经历反映了艺术家在压迫下的抗争精神，可能激励新一代艺术家继续追求自由表达。",
-          "analysis_en": "Czech artist and museum director Milan Knížák has passed away at the age of 86. He was imprisoned for being labeled an \"enemy of the state\" and was actively involved in the Fluxus movement, with his works held in museums worldwide. Knížák's death is not only a loss for the art community but also highlights the complex relationship between art and politics. His experiences reflect the spirit of resistance among artists under oppression, which may inspire a new generation of artists to continue the pursuit of free expression."
+          "analysis_zh": "OUT设计品牌推出的Linde椅子和桌子在Dezeen Showroom上亮相，成为五款新产品之一。这款椅子和桌子以其图形化和趣味性的造型而受到关注，旨在将舒适的扶手椅体验带入餐厅环境。此产品的设计在柏林完成，并在德国制造，体现了高品质的工艺。Linde系列的推出不仅丰富了现代家具市场，也可能影响消费者对功能与美学结合的期待。",
+          "analysis_en": "The Linde chair and table set by the OUT design brand has been featured among five new products on Dezeen Showroom. Notable for their graphic and playful shapes, these pieces aim to bring the comfort of an armchair into the dining experience. Designed in Berlin and manufactured in Germany, this collection showcases high-quality craftsmanship. The introduction of the Linde series not only adds variety to the modern furniture market but may also influence consumer expectations regarding the blend of functionality and aesthetics."
         }
       ]
     }
