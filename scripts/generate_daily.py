@@ -1855,6 +1855,8 @@ def render_qqq_long_term_risk(item: dict) -> str:
     <div class="hero-item">
       <div class="hero-label">QQQ中长期风险 / Medium- to Long-term Risk</div>
       <div class="hero-value">{html.escape(status_zh)} / {html.escape(status_en)}</div>
+      <div class="hero-label" style="margin-top:18px;">状态原因 / Status reason</div>
+      {bilingual_block(item.get("explanation_zh", ""), item.get("explanation_en", ""))}
     </div>
     <div class="hero-item">
       <div class="hero-label">周线确认进度 / Weekly confirmation</div>
