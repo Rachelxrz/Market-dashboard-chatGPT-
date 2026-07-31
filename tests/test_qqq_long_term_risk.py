@@ -112,6 +112,9 @@ class QqqLongTermRiskTests(unittest.TestCase):
         self.assertIn("1/2", dashboard_html)
         self.assertIn("最近一个完整周满足全部三项条件", dashboard_html)
         self.assertIn("不是买卖指令", dashboard_html)
+        first_card = dashboard_html.split("Weekly confirmation", 1)[0]
+        self.assertIn("状态原因 / Status reason", first_card)
+        self.assertIn("尚未取得连续两个完整周确认", first_card)
 
 
 if __name__ == "__main__":
