@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31 00:35:56 UTC",
+  "generated_at": "2026-07-31 01:18:18 UTC",
   "run_mode": "morning",
   "regime": "Neutral / Defensive",
   "risk_score": 3,
@@ -540,6 +540,29 @@
       "signal_level": "watch"
     }
   ],
+  "qqq_long_term_risk": {
+    "status_level": "watch",
+    "status_zh": "警惕",
+    "status_en": "Watch",
+    "confirmed": false,
+    "confirmation_weeks": 0,
+    "confirmation_weeks_required": 2,
+    "latest_price": 683.5499877929688,
+    "daily_ma50": 715.3588012695312,
+    "daily_ma200": 644.6065991210937,
+    "below_ma200_days_last_5": 0,
+    "daily_ma50_slope_negative": false,
+    "weekly_ma10": 714.7059997558594,
+    "weekly_ma40": 644.3919967651367,
+    "weekly_ma40_slope_negative": false,
+    "latest_completed_week_below_ma40": false,
+    "weekly_ma10_below_ma40": false,
+    "drawdown_52w_pct": -8.390960062854369,
+    "explanation_zh": "目前没有满足中长期风险确认条件；单日波动不构成长期确认。",
+    "explanation_en": "Medium- to long-term confirmation conditions are not met; a one-day move is not a long-term signal.",
+    "methodology_zh": "日线用于预警；只有完整周线用于确认。连续两个完整周满足三项周线条件才确认中长期风险。",
+    "methodology_en": "Daily data provides warning; only completed weeks confirm. Two consecutive completed weeks must satisfy all three weekly conditions."
+  },
   "structure_monitor": {
     "VIX": {
       "status_level": "watch",
