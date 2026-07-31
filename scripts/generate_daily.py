@@ -45,9 +45,12 @@ import time
 import html
 import shutil
 import traceback
+import unicodedata
+from difflib import SequenceMatcher
 from pathlib import Path
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
+from urllib.parse import urlsplit, urlunsplit
 from zoneinfo import ZoneInfo
 
 import feedparser
@@ -288,13 +291,67 @@ def normalize_url(url: str) -> str:
         return ""
     url = url.strip()
     url = re.sub(r"#.*$", "", url)
-    return url
+    try:
+        parts = urlsplit(url)
+        host = (parts.hostname or "").lower()
+        if host.startswith("www."):
+            host = host[4:]
+        port = f":{parts.port}" if parts.port else ""
+        path = re.sub(r"/+$", "", parts.path or "") or "/"
+        return urlunsplit((parts.scheme.lower(), host + port, path, "", ""))
+    except Exception:
+        return url
 
 
 def article_key(title: str, url: str) -> str:
     t = re.sub(r"\W+", "", (title or "").lower())
     u = normalize_url(url).lower()
     return f"{t[:120]}|{u[:200]}"
+
+
+TITLE_STOP_WORDS = {
+    "a", "an", "and", "as", "at", "by", "for", "from", "in", "of", "on",
+    "or", "said", "says", "report", "reports", "the", "to", "with",
+}
+
+
+def normalize_title(title: str) -> str:
+    text = unicodedata.normalize("NFKD", title or "")
+    text = text.encode("ascii", "ignore").decode("ascii").lower()
+    return " ".join(re.findall(r"[a-z0-9]+", text))
+
+
+def title_tokens(title: str) -> set[str]:
+    return {
+        token
+        for token in normalize_title(title).split()
+        if len(token) >= 3 and token not in TITLE_STOP_WORDS
+    }
+
+
+def duplicate_article_reason(candidate: dict, accepted: list[dict]) -> str | None:
+    candidate_url = normalize_url(candidate.get("link", "")).lower()
+    candidate_title = normalize_title(candidate.get("title", ""))
+    candidate_tokens = title_tokens(candidate.get("title", ""))
+
+    for existing in accepted:
+        existing_url = normalize_url(existing.get("link", "")).lower()
+        existing_title = normalize_title(existing.get("title", ""))
+        if candidate_url and candidate_url == existing_url:
+            return "same_url"
+        if candidate_title and candidate_title == existing_title:
+            return "same_title"
+
+        existing_tokens = title_tokens(existing.get("title", ""))
+        shared = candidate_tokens & existing_tokens
+        union = candidate_tokens | existing_tokens
+        token_similarity = len(shared) / len(union) if union else 0.0
+        text_similarity = SequenceMatcher(None, candidate_title, existing_title).ratio()
+        if text_similarity >= 0.78:
+            return "similar_title"
+        if len(shared) >= 4 and text_similarity >= 0.62 and token_similarity >= 0.38:
+            return "same_story"
+    return None
 
 
 def list_history_days(limit: int = HISTORY_KEEP_DAYS):
@@ -442,13 +499,12 @@ def fetch_feed_items(feed_url: str, max_items: int = MAX_ITEMS_PER_FEED):
 
 
 def dedupe_items(items):
-    seen = set()
     out = []
     for item in sorted(items, key=lambda x: x["published_dt"], reverse=True):
-        k = article_key(item["title"], item["link"])
-        if k in seen:
+        reason = duplicate_article_reason(item, out)
+        if reason:
+            log(f"过滤重复新闻 ({reason}): {item['title'][:100]}")
             continue
-        seen.add(k)
         out.append(item)
     return out
 
@@ -577,7 +633,7 @@ def collect_section_items(section_name: str, section_cfg: dict, target_count: in
         time.sleep(0.25)
     all_items = dedupe_items(all_items)
     all_items = sorted(all_items, key=lambda x: x["published_dt"], reverse=True)
-    return all_items[:target_count]
+    return all_items
 
 
 def enrich_items_with_analysis(section_name: str, items):
@@ -620,13 +676,28 @@ def build_reading_payload():
         "sections": {},
     }
 
+    accepted_globally = []
     for section_name, section_cfg in SECTIONS.items():
         log(f"开始抓取扩展阅读板块：{section_name}")
         raw_items = collect_section_items(section_name, section_cfg, TARGET_ITEMS_PER_SECTION)
-        enriched_items = enrich_items_with_analysis(section_name, raw_items)
+        unique_items = []
+        duplicates_filtered = 0
+        for item in raw_items:
+            reason = duplicate_article_reason(item, accepted_globally)
+            if reason:
+                duplicates_filtered += 1
+                log(f"跨栏目过滤重复新闻 ({reason}): {item['title'][:100]}")
+                continue
+            unique_items.append(item)
+            accepted_globally.append(item)
+            if len(unique_items) >= TARGET_ITEMS_PER_SECTION:
+                break
+
+        enriched_items = enrich_items_with_analysis(section_name, unique_items)
         payload["sections"][section_name] = {
             "description": section_cfg["description"],
             "count": len(enriched_items),
+            "duplicates_filtered": duplicates_filtered,
             "items": enriched_items,
         }
 
