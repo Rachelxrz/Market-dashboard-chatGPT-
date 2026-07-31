@@ -1,4 +1,4 @@
-name: Daily Dashboard
+name: Daily News
 
 on:
   schedule:
@@ -84,7 +84,6 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: gpt-4o-mini
           TZ: America/New_York
-          VLCC_PROXY_SYMBOL: DHT
           RUN_MODE: ${{ steps.runmode.outputs.mode }}
         run: |
           python scripts/generate_daily.py
@@ -95,8 +94,8 @@ jobs:
           ls -lah docs || true
           test -f docs/index.html
           test -f docs/reading.html
-          test -f docs/monitor.json
           test -f docs/reading.json
+          test ! -f docs/monitor.json
 
       - name: Commit and push generated files
         run: |
