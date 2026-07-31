@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>结构监控</title>
+  <title>每日扩展阅读</title>
   <style>
     :root {
       --bg: #f7f7f8;
@@ -12,7 +12,6 @@
       --muted: #6b7280;
       --line: #e5e7eb;
       --link: #1d4ed8;
-      --accent: #111827;
     }
     * { box-sizing: border-box; }
     body {
@@ -24,38 +23,36 @@
       line-height: 1.7;
     }
     .wrap {
-      max-width: 1280px;
+      max-width: 1220px;
       margin: 0 auto;
-      padding: 28px 20px 60px;
+      padding: 28px 20px 56px;
     }
     h1 {
-      margin: 0 0 8px;
-      font-size: 36px;
+      margin: 0 0 10px;
+      font-size: 34px;
       line-height: 1.2;
-    }
-    h2 {
-      margin: 34px 0 12px;
-      font-size: 28px;
-      line-height: 1.25;
     }
     .top-meta {
       color: var(--muted);
-      font-size: 14px;
       margin-bottom: 20px;
+      font-size: 14px;
+    }
+    .nav {
+      margin: 6px 0 18px;
     }
     .nav a {
       display: inline-block;
-      background: var(--accent);
+      background: #111827;
       color: white;
       text-decoration: none;
       padding: 10px 14px;
       border-radius: 10px;
       font-size: 14px;
-      margin-bottom: 12px;
       margin-right: 10px;
+      margin-bottom: 8px;
     }
     .history-links {
-      margin: 8px 0 24px;
+      margin: 8px 0 28px;
     }
     .history-links a {
       display: inline-block;
@@ -68,750 +65,758 @@
       margin-right: 8px;
       margin-bottom: 8px;
     }
-    .hero {
-      background: var(--card);
-      border: 1px solid var(--line);
-      border-radius: 18px;
-      padding: 20px;
-      box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+    h2 {
+      margin: 34px 0 10px;
+      font-size: 28px;
+      line-height: 1.25;
     }
-    .hero-grid {
-      display: grid;
-      grid-template-columns: repeat(4, minmax(0,1fr));
-      gap: 14px;
-      margin-top: 14px;
-    }
-    .hero-item {
-      background: #fafafa;
-      border: 1px solid var(--line);
-      border-radius: 14px;
-      padding: 14px;
-    }
-    .hero-label {
+    .section-meta {
       color: var(--muted);
-      font-size: 13px;
-      margin-bottom: 6px;
-    }
-    .hero-value {
-      font-size: 20px;
-      font-weight: 700;
-      line-height: 1.35;
-    }
-    .hero-summary {
-      margin-top: 14px;
-    }
-    .bilingual-block {
-      font-size: 17px;
-      line-height: 1.8;
-    }
-    .bilingual-label {
-      color: var(--muted);
-      font-size: 13px;
-      font-weight: 600;
-      margin-bottom: 4px;
-    }
-    .bilingual-text {
-      font-size: 17px;
-      line-height: 1.85;
-    }
-    .layer-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-      gap: 14px;
-    }
-    .layer-card {
-      background: var(--card);
-      border: 1px solid var(--line);
-      border-radius: 16px;
-      padding: 16px;
-      box-shadow: 0 1px 2px rgba(0,0,0,0.03);
-    }
-    .layer-title {
-      color: var(--muted);
-      font-size: 13px;
-      margin-bottom: 6px;
-    }
-    .layer-status {
-      font-size: 22px;
-      font-weight: 700;
-      line-height: 1.3;
-    }
-    .layer-note {
-      color: var(--muted);
-      font-size: 13px;
-      margin-top: 6px;
-    }
-    .snap-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-      gap: 14px;
-    }
-    .snap-card {
-      background: var(--card);
-      border: 1px solid var(--line);
-      border-radius: 16px;
-      padding: 16px;
-      box-shadow: 0 1px 2px rgba(0,0,0,0.03);
-    }
-    .snap-title {
-      color: var(--muted);
-      font-size: 13px;
-      margin-bottom: 6px;
-    }
-    .snap-price {
-      font-size: 24px;
-      font-weight: 700;
-      line-height: 1.3;
-    }
-    .snap-change {
-      font-size: 16px;
-      margin-top: 4px;
-    }
-    .snap-note {
-      color: var(--muted);
-      font-size: 13px;
-      margin-top: 6px;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      background: var(--card);
-      border: 1px solid var(--line);
-      border-radius: 16px;
-      overflow: hidden;
-      box-shadow: 0 1px 2px rgba(0,0,0,0.03);
-    }
-    th, td {
-      padding: 14px 12px;
-      border-bottom: 1px solid var(--line);
-      text-align: left;
-      vertical-align: top;
-      font-size: 16px;
-    }
-    th {
-      background: #fafafa;
+      margin: 0 0 16px;
       font-size: 14px;
-      color: var(--muted);
     }
     .card {
       background: var(--card);
       border: 1px solid var(--line);
       border-radius: 16px;
-      padding: 18px;
-      margin-top: 14px;
+      padding: 18px 18px 16px;
+      margin-bottom: 14px;
       box-shadow: 0 1px 2px rgba(0,0,0,0.03);
     }
-    .action-title {
-      font-size: 18px;
+    .title-row {
+      font-size: 22px;
       font-weight: 700;
+      line-height: 1.45;
       margin-bottom: 8px;
     }
-    @media (max-width: 1000px) {
-      .hero-grid {
-        grid-template-columns: repeat(2, minmax(0,1fr));
-      }
+    .rank {
+      display: inline-block;
+      min-width: 26px;
     }
-    @media (max-width: 700px) {
-      .hero-grid {
+    a {
+      color: var(--link);
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+    .meta {
+      color: var(--muted);
+      font-size: 14px;
+      margin-bottom: 12px;
+    }
+    .analysis-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+      margin-top: 8px;
+    }
+    .analysis-col {
+      background: #fafafa;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 14px;
+    }
+    .analysis-label {
+      color: var(--muted);
+      font-size: 13px;
+      margin-bottom: 8px;
+      font-weight: 600;
+    }
+    .analysis {
+      font-size: 19px;
+      line-height: 1.9;
+      white-space: normal;
+    }
+    @media (max-width: 900px) {
+      .analysis-grid {
         grid-template-columns: 1fr;
       }
-      .wrap {
-        padding: 18px 14px 40px;
-      }
-      h1 {
-        font-size: 30px;
-      }
-      h2 {
-        font-size: 24px;
-      }
-      .hero-value, .snap-price, .layer-status {
-        font-size: 22px;
-      }
-      th, td {
-        font-size: 15px;
-      }
+    }
+    @media (max-width: 768px) {
+      .wrap { padding: 18px 14px 40px; }
+      h1 { font-size: 28px; }
+      h2 { font-size: 24px; }
+      .title-row { font-size: 18px; }
+      .analysis { font-size: 17px; line-height: 1.8; }
     }
   </style>
 </head>
 <body>
   <div class="wrap">
-    <h1>结构监控</h1>
-    <div class="top-meta">生成时间：2026-07-31 02:11:11 UTC</div>
+    <h1>每日扩展阅读（早间版）</h1>
+    <div class="top-meta">
+      生成时间：2026-07-31 12:27:06 UTC<br>
+      抓取范围：最近 24 小时内新闻<br>
+      模式：早间版
+  </div>
 
-    <div class="nav">
-      <a href="./reading.html">查看每日扩展阅读</a>
-    </div>
+    <div class="history-links"><a href="./history/2026-07-31/reading.html">2026-07-31</a><a href="./history/2026-07-30/reading.html">2026-07-30</a><a href="./history/2026-07-29/reading.html">2026-07-29</a><a href="./history/2026-07-28/reading.html">2026-07-28</a><a href="./history/2026-07-27/reading.html">2026-07-27</a><a href="./history/2026-07-26/reading.html">2026-07-26</a><a href="./history/2026-07-25/reading.html">2026-07-25</a></div>
 
-    <div class="history-links"><a href="./history/2026-07-31/index.html">2026-07-31</a><a href="./history/2026-07-30/index.html">2026-07-30</a><a href="./history/2026-07-29/index.html">2026-07-29</a><a href="./history/2026-07-28/index.html">2026-07-28</a><a href="./history/2026-07-27/index.html">2026-07-27</a><a href="./history/2026-07-26/index.html">2026-07-26</a><a href="./history/2026-07-25/index.html">2026-07-25</a></div>
-
-    <section class="hero">
-      <div class="hero-grid">
-        <div class="hero-item">
-          <div class="hero-label">今日结构 / Regime</div>
-          <div class="hero-value">Neutral / Defensive</div>
-        </div>
-        <div class="hero-item">
-          <div class="hero-label">风险等级 / Risk Score</div>
-          <div class="hero-value">3/4</div>
-        </div>
-        <div class="hero-item">
-          <div class="hero-label">一句话建议 / One-liner</div>
-          <div class="bilingual-block"><div class="bilingual-label">中文</div><div class="bilingual-text">当前结构为 Neutral / Defensive，风险等级 3/4；VIX 17.09，MOVE 77.09，QQQ -3.17%，GLD +3.34%，VLCC 3天 +1.42%。 当前为早间版。</div><div class="bilingual-label" style="margin-top:12px;">English</div><div class="bilingual-text">The current regime is Neutral / Defensive with a risk score of 3/4; VIX 17.09, MOVE 77.09, QQQ -3.17%, GLD +3.34%, VLCC 3d +1.42%. Current mode: Morning Edition.</div></div>
-        </div>
-        <div class="hero-item">
-          <div class="hero-label">综合判断 / Summary</div>
-          <div class="bilingual-block"><div class="bilingual-label">中文</div><div class="bilingual-text">当前结构偏谨慎，说明风险偏好与估值支撑并不稳固，防守比重应适度提高。</div><div class="bilingual-label" style="margin-top:12px;">English</div><div class="bilingual-text">The current structure is cautious, suggesting that risk appetite and valuation support are not firm and that defensive positioning should be moderately increased.</div></div>
-        </div>
-      </div>
-      <div class="hero-summary">
-        <div class="bilingual-block"><div class="bilingual-label">中文</div><div class="bilingual-text">当前结构偏谨慎，说明风险偏好与估值支撑并不稳固，防守比重应适度提高。</div><div class="bilingual-label" style="margin-top:12px;">English</div><div class="bilingual-text">The current structure is cautious, suggesting that risk appetite and valuation support are not firm and that defensive positioning should be moderately increased.</div></div>
-      </div>
-    </section>
-
-    <h2>结构分层总览</h2>
-    <div style="margin-bottom:28px;"><section class="hero">
-  <div class="hero-grid">
-    <div class="hero-item">
-      <div class="hero-label">QQQ中长期风险 / Medium- to Long-term Risk</div>
-      <div class="hero-value">警惕 / Watch</div>
-      <div class="hero-label" style="margin-top:18px;">状态原因 / Status reason</div>
-      <div class="bilingual-block"><div class="bilingual-label">中文</div><div class="bilingual-text">警惕由以下条件触发：QQQ 683.55 低于50日均线 715.36。目前尚未满足周线确认条件。</div><div class="bilingual-label" style="margin-top:12px;">English</div><div class="bilingual-text">Watch is triggered because QQQ 683.55 is below its 50-day average 715.36. Weekly confirmation conditions are not yet met.</div></div>
+    <section class="section">
+  <h2>投资</h2>
+  <p class="section-meta">最近24小时内新闻：10 条</p>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">1.</span>
+    <a href="https://cnbc.com/2026/07/31/exxon-xom-chevron-cvx-q2-earnings.html" target="_blank" rel="noopener noreferrer">Exxon and Chevron profits surge on rising oil prices due to Iran war</a>
+  </div>
+  <div class="meta">来源：US Top News and Analysis ｜ 发布时间：2026-07-31 12:18 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">埃克森美孚和雪佛龙在周五发布的第二季度财报中，利润因伊朗战争导致的油价上涨而大幅增长。这一事件表明，地缘政治冲突对全球能源市场的影响仍然显著，尤其是在供应链紧张的情况下。油价的上涨不仅可能提升这些公司的盈利能力，还可能对消费者和相关行业产生连锁反应，进一步推动通货膨胀。</div>
     </div>
-    <div class="hero-item">
-      <div class="hero-label">周线确认进度 / Weekly confirmation</div>
-      <div class="hero-value">0/2</div>
-      <div class="bilingual-block"><div class="bilingual-label">中文</div><div class="bilingual-text">0/2 表示最近连续完整周中有 0 周满足全部三项条件。只有连续两个完整周全部满足才确认为中长期风险；尚未结束的本周不计入。完整周收盘 684.23 低于40周均线 644.39：否；10周均线 714.71 低于40周均线 644.39：否；40周均线低于4周前、斜率向下：否。</div><div class="bilingual-label" style="margin-top:12px;">English</div><div class="bilingual-text">0/2 means 0 recent consecutive completed week(s) meet all three conditions. Two consecutive completed weeks are required; the still-open current week is excluded. Completed-week close 684.23 below 40-week MA 644.39: No; 10-week MA 714.71 below 40-week MA 644.39: No; 40-week MA below its level four weeks ago (falling): No.</div></div>
-    </div>
-    <div class="hero-item">
-      <div class="hero-label">当前结论 / Current conclusion</div>
-      <div class="bilingual-block"><div class="bilingual-label">中文</div><div class="bilingual-text">警惕由以下条件触发：QQQ 683.55 低于50日均线 715.36。目前尚未满足周线确认条件。</div><div class="bilingual-label" style="margin-top:12px;">English</div><div class="bilingual-text">Watch is triggered because QQQ 683.55 is below its 50-day average 715.36. Weekly confirmation conditions are not yet met.</div></div>
-    </div>
-    <div class="hero-item">
-      <div class="hero-label">判断方法 / Methodology</div>
-      <div class="bilingual-block"><div class="bilingual-label">中文</div><div class="bilingual-text">日线用于预警；只有完整周线用于确认。连续两个完整周满足三项周线条件才确认中长期风险。</div><div class="bilingual-label" style="margin-top:12px;">English</div><div class="bilingual-text">Daily data provides warning; only completed weeks confirm. Two consecutive completed weeks must satisfy all three weekly conditions.</div></div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">ExxonMobil and Chevron reported significant profit increases in their second-quarter earnings on Friday, driven by rising oil prices due to the Iran war. This situation highlights the substantial impact of geopolitical conflicts on the global energy market, particularly amid supply chain constraints. The rise in oil prices could not only enhance the profitability of these companies but also create ripple effects for consumers and related industries, potentially exacerbating inflation.</div>
     </div>
   </div>
-  <div class="snap-grid" style="margin-top:16px;"><div class="snap-card"><div class="snap-title">QQQ / Price</div><div class="snap-price">683.55</div></div><div class="snap-card"><div class="snap-title">50日均线 / 50-day MA</div><div class="snap-price">715.36</div></div><div class="snap-card"><div class="snap-title">200日均线 / 200-day MA</div><div class="snap-price">644.61</div></div><div class="snap-card"><div class="snap-title">低于200日均线 / Below MA200</div><div class="snap-price">0/5 days</div></div><div class="snap-card"><div class="snap-title">10周均线 / 10-week MA</div><div class="snap-price">714.71</div></div><div class="snap-card"><div class="snap-title">40周均线 / 40-week MA</div><div class="snap-price">644.39</div></div><div class="snap-card"><div class="snap-title">40周均线斜率向下 / Falling 40-week MA</div><div class="snap-price">否</div></div><div class="snap-card"><div class="snap-title">52周回撤 / 52-week drawdown</div><div class="snap-price">-8.39%</div></div></div>
-  <div class="hero-summary">
-    说明：日线只负责预警，只有已经结束的完整周线才用于确认。本指标是风险监控证据，不是买卖指令；最终投资决定由 Rachel 作出。<br>
-    Note: Daily data provides warning; only completed weeks confirm. This is risk-monitoring evidence, not a trading instruction. Rachel remains the final decision-maker.
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">2.</span>
+    <a href="https://investing.com/news/stock-market-news/new-york-sues-kalshi-over-unlicensed-gambling-claims-93CH-4827994" target="_blank" rel="noopener noreferrer">New York sues Kalshi over unlicensed gambling claims</a>
   </div>
-</section></div>
-    <div class="layer-grid">
-      <div class="layer-card">
-  <div class="layer-title">波动层 / 波动层</div>
-  <div class="layer-status">警惕 / Watch</div>
-  <div class="layer-note">VIX</div>
-</div>
-<div class="layer-card">
-  <div class="layer-title">利率层 / 利率层</div>
-  <div class="layer-status">警惕 / Watch</div>
-  <div class="layer-note">MOVE + TNX</div>
-</div>
-<div class="layer-card">
-  <div class="layer-title">信用层 / 信用层</div>
-  <div class="layer-status">风险 / Risk</div>
-  <div class="layer-note">HYG + LQD</div>
-</div>
-<div class="layer-card">
-  <div class="layer-title">资产层 / 资产层</div>
-  <div class="layer-status">警惕 / Watch</div>
-  <div class="layer-note">QQQ + GLD + VLCC</div>
-</div>
+  <div class="meta">来源：Stock Market News ｜ 发布时间：2026-07-31 12:17 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">纽约州对Kalshi提起诉讼，指控其在未获得许可的情况下进行赌博活动。这一事件引发了广泛关注，因为Kalshi是一家提供预测市场的平台，允许用户对未来事件进行下注。此诉讼可能会影响整个预测市场行业的监管框架，促使其他公司更加谨慎地遵守法律法规。</div>
     </div>
-
-    <h2>市场快照</h2>
-    <div class="snap-grid">
-      <div class="snap-card">
-  <div class="snap-title">SPY</div>
-  <div class="snap-price">741.69</div>
-  <div class="snap-change">1天：-1.20%</div>
-  <div class="snap-change">3天：+0.35%</div>
-  <div class="snap-note">美股大盘代理</div>
-</div>
-<div class="snap-card">
-  <div class="snap-title">QQQ</div>
-  <div class="snap-price">683.55</div>
-  <div class="snap-change">1天：-3.17%</div>
-  <div class="snap-change">3天：+0.21%</div>
-  <div class="snap-note">科技成长代理</div>
-</div>
-<div class="snap-card">
-  <div class="snap-title">DIA</div>
-  <div class="snap-price">521.51</div>
-  <div class="snap-change">1天：-0.63%</div>
-  <div class="snap-change">3天：+0.05%</div>
-  <div class="snap-note">道指代理</div>
-</div>
-<div class="snap-card">
-  <div class="snap-title">IWM</div>
-  <div class="snap-price">292.59</div>
-  <div class="snap-change">1天：-1.01%</div>
-  <div class="snap-change">3天：-0.11%</div>
-  <div class="snap-note">小盘股代理</div>
-</div>
-<div class="snap-card">
-  <div class="snap-title">GLD</div>
-  <div class="snap-price">377.16</div>
-  <div class="snap-change">1天：+3.34%</div>
-  <div class="snap-change">3天：+0.68%</div>
-  <div class="snap-note">黄金代理</div>
-</div>
-<div class="snap-card">
-  <div class="snap-title">SLV</div>
-  <div class="snap-price">53.50</div>
-  <div class="snap-change">1天：+6.17%</div>
-  <div class="snap-change">3天：+1.08%</div>
-  <div class="snap-note">白银代理</div>
-</div>
-<div class="snap-card">
-  <div class="snap-title">USO</div>
-  <div class="snap-price">127.48</div>
-  <div class="snap-change">1天：+6.86%</div>
-  <div class="snap-change">3天：+2.18%</div>
-  <div class="snap-note">原油代理</div>
-</div>
-<div class="snap-card">
-  <div class="snap-title">UUP</div>
-  <div class="snap-price">28.14</div>
-  <div class="snap-change">1天：-0.71%</div>
-  <div class="snap-change">3天：-1.61%</div>
-  <div class="snap-note">美元代理</div>
-</div>
-<div class="snap-card">
-  <div class="snap-title">TNX</div>
-  <div class="snap-price">4.66</div>
-  <div class="snap-change">1天：+2.69%</div>
-  <div class="snap-change">3天：+0.47%</div>
-  <div class="snap-note">10年美债收益率</div>
-</div>
-<div class="snap-card">
-  <div class="snap-title">MOVE</div>
-  <div class="snap-price">77.09</div>
-  <div class="snap-change">1天：+13.11%</div>
-  <div class="snap-change">3天：N/A</div>
-  <div class="snap-note">债券波动率</div>
-</div>
-<div class="snap-card">
-  <div class="snap-title">VIX</div>
-  <div class="snap-price">17.09</div>
-  <div class="snap-change">1天：-8.95%</div>
-  <div class="snap-change">3天：-8.46%</div>
-  <div class="snap-note">股市波动率</div>
-</div>
-<div class="snap-card">
-  <div class="snap-title">HYG</div>
-  <div class="snap-price">79.47</div>
-  <div class="snap-change">1天：-0.41%</div>
-  <div class="snap-change">3天：+0.25%</div>
-  <div class="snap-note">高收益债信用</div>
-</div>
-<div class="snap-card">
-  <div class="snap-title">LQD</div>
-  <div class="snap-price">106.41</div>
-  <div class="snap-change">1天：-1.01%</div>
-  <div class="snap-change">3天：-0.09%</div>
-  <div class="snap-note">投资级信用</div>
-</div>
-<div class="snap-card">
-  <div class="snap-title">VLCC</div>
-  <div class="snap-price">18.55</div>
-  <div class="snap-change">1天：+3.98%</div>
-  <div class="snap-change">3天：+1.42%</div>
-  <div class="snap-note">VLCC 航运代理（当前: DHT）</div>
-</div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">New York has filed a lawsuit against Kalshi, accusing the company of engaging in gambling activities without the necessary licenses. This incident has garnered significant attention, as Kalshi operates a platform for prediction markets that allows users to bet on future events. The lawsuit could impact the regulatory landscape for the entire prediction market industry, prompting other companies to be more cautious in adhering to legal requirements.</div>
     </div>
-
-    <h2>结构监控核心</h2>
-    <table>
-      <thead>
-        <tr>
-          <th style="width:110px;">指标</th>
-          <th style="width:100px;">状态</th>
-          <th>中文说明</th>
-          <th>English</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-  <td>VIX</td>
-  <td>警惕</td>
-  <td>VIX 已离开舒适区，说明市场对不确定性的定价开始上升。</td>
-  <td>VIX has moved out of the comfort zone, suggesting rising pricing of uncertainty.</td>
-</tr>
-<tr>
-  <td>MOVE</td>
-  <td>正常</td>
-  <td>债券市场波动率较低，利率环境相对稳定。</td>
-  <td>Bond-market volatility is relatively low, suggesting a more stable rate environment.</td>
-</tr>
-<tr>
-  <td>TNX</td>
-  <td>风险</td>
-  <td>10年美债收益率处于高位且继续上行，对成长资产估值压力较大。</td>
-  <td>The 10-year Treasury yield is high and still rising, creating significant valuation pressure on growth assets.</td>
-</tr>
-<tr>
-  <td>SPY</td>
-  <td>风险</td>
-  <td>SPY 当日走弱较明显，说明该方向对当前结构的支持不足。</td>
-  <td>SPY is notably weaker today, suggesting insufficient support from this direction.</td>
-</tr>
-<tr>
-  <td>QQQ</td>
-  <td>风险</td>
-  <td>QQQ 当日走弱较明显，说明该方向对当前结构的支持不足。</td>
-  <td>QQQ is notably weaker today, suggesting insufficient support from this direction.</td>
-</tr>
-<tr>
-  <td>GLD</td>
-  <td>正常</td>
-  <td>GLD 当日表现偏强，当前方向对整体结构相对有利。</td>
-  <td>GLD is relatively strong today, which is supportive for the broader structure.</td>
-</tr>
-<tr>
-  <td>UUP</td>
-  <td>正常</td>
-  <td>UUP 当日表现偏强，当前方向对整体结构相对有利。</td>
-  <td>UUP is relatively strong today, which is supportive for the broader structure.</td>
-</tr>
-<tr>
-  <td>HYG</td>
-  <td>风险</td>
-  <td>HYG 走弱较明显，说明信用偏好正在收缩。</td>
-  <td>HYG is weakening meaningfully, suggesting a contraction in credit appetite.</td>
-</tr>
-<tr>
-  <td>LQD</td>
-  <td>风险</td>
-  <td>LQD 转弱，说明利率或信用层面的压力正在累积。</td>
-  <td>LQD is weakening, indicating accumulating pressure from rates and/or credit conditions.</td>
-</tr>
-      </tbody>
-    </table>
-
-    <h2>自选趋势监控</h2>
-    <table>
-      <thead>
-        <tr>
-          <th style="width:90px;">Ticker</th>
-          <th style="width:90px;">收盘价</th>
-          <th style="width:90px;">20MA</th>
-          <th style="width:90px;">50MA</th>
-          <th style="width:90px;">高于20MA</th>
-          <th style="width:90px;">高于50MA</th>
-          <th style="width:110px;">连续3天上涨</th>
-          <th style="width:110px;">连续3天下跌</th>
-          <th>备注</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-  <td>ALB</td>
-  <td>117.76</td>
-  <td>122.44</td>
-  <td>144.76</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>锂与电池材料</td>
-</tr>
-<tr>
-  <td>ANET</td>
-  <td>171.02</td>
-  <td>173.21</td>
-  <td>165.81</td>
-  <td>否</td>
-  <td>是</td>
-  <td>否</td>
-  <td>否</td>
-  <td>高速网络交换</td>
-</tr>
-<tr>
-  <td>AVGO</td>
-  <td>387.84</td>
-  <td>383.29</td>
-  <td>395.74</td>
-  <td>是</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>AI/网络/定制芯片</td>
-</tr>
-<tr>
-  <td>BDRY</td>
-  <td>13.36</td>
-  <td>12.75</td>
-  <td>12.47</td>
-  <td>是</td>
-  <td>是</td>
-  <td>是</td>
-  <td>否</td>
-  <td>干散货运价ETF</td>
-</tr>
-<tr>
-  <td>CEG</td>
-  <td>263.56</td>
-  <td>256.98</td>
-  <td>263.16</td>
-  <td>是</td>
-  <td>是</td>
-  <td>否</td>
-  <td>否</td>
-  <td>核电与零碳电力</td>
-</tr>
-<tr>
-  <td>CIEN</td>
-  <td>372.07</td>
-  <td>406.33</td>
-  <td>466.81</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>光通信设备</td>
-</tr>
-<tr>
-  <td>COHR</td>
-  <td>249.06</td>
-  <td>296.01</td>
-  <td>349.23</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>光模块/激光/光子材料</td>
-</tr>
-<tr>
-  <td>COPX</td>
-  <td>79.50</td>
-  <td>76.57</td>
-  <td>80.70</td>
-  <td>是</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>铜矿ETF</td>
-</tr>
-<tr>
-  <td>ETHA</td>
-  <td>14.51</td>
-  <td>13.97</td>
-  <td>13.73</td>
-  <td>是</td>
-  <td>是</td>
-  <td>否</td>
-  <td>否</td>
-  <td>现货以太坊ETF</td>
-</tr>
-<tr>
-  <td>FRO</td>
-  <td>39.10</td>
-  <td>37.92</td>
-  <td>37.43</td>
-  <td>是</td>
-  <td>是</td>
-  <td>否</td>
-  <td>否</td>
-  <td>油轮航运</td>
-</tr>
-<tr>
-  <td>GEV</td>
-  <td>981.98</td>
-  <td>1,042.46</td>
-  <td>1,025.25</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>电力设备与电网</td>
-</tr>
-<tr>
-  <td>GS</td>
-  <td>1,024.86</td>
-  <td>1,061.03</td>
-  <td>1,047.59</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>投行与资本市场</td>
-</tr>
-<tr>
-  <td>HEWJ</td>
-  <td>62.97</td>
-  <td>63.50</td>
-  <td>63.24</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>日本对冲汇率ETF</td>
-</tr>
-<tr>
-  <td>LITE</td>
-  <td>693.24</td>
-  <td>745.81</td>
-  <td>829.67</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>光模块与光器件</td>
-</tr>
-<tr>
-  <td>MP</td>
-  <td>41.66</td>
-  <td>47.10</td>
-  <td>54.91</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>稀土材料</td>
-</tr>
-<tr>
-  <td>NEE</td>
-  <td>87.93</td>
-  <td>88.57</td>
-  <td>87.43</td>
-  <td>否</td>
-  <td>是</td>
-  <td>否</td>
-  <td>否</td>
-  <td>公用事业与新能源</td>
-</tr>
-<tr>
-  <td>NVDA</td>
-  <td>195.04</td>
-  <td>203.00</td>
-  <td>206.57</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>AI GPU</td>
-</tr>
-<tr>
-  <td>PLTR</td>
-  <td>122.26</td>
-  <td>129.36</td>
-  <td>130.96</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>是</td>
-  <td>数据分析/国防软件</td>
-</tr>
-<tr>
-  <td>PWR</td>
-  <td>657.98</td>
-  <td>641.53</td>
-  <td>682.02</td>
-  <td>是</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>电力工程与基建</td>
-</tr>
-<tr>
-  <td>VRT</td>
-  <td>227.50</td>
-  <td>294.11</td>
-  <td>307.36</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>数据中心散热与电力</td>
-</tr>
-<tr>
-  <td>VST</td>
-  <td>148.62</td>
-  <td>156.85</td>
-  <td>155.88</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>独立发电与售电</td>
-</tr>
-<tr>
-  <td>MPWR</td>
-  <td>1,316.18</td>
-  <td>1,330.75</td>
-  <td>1,446.60</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>模拟/电源管理芯片</td>
-</tr>
-<tr>
-  <td>ADI</td>
-  <td>366.67</td>
-  <td>379.86</td>
-  <td>398.53</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>模拟芯片</td>
-</tr>
-<tr>
-  <td>GOOG</td>
-  <td>333.68</td>
-  <td>346.92</td>
-  <td>357.27</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>互联网与云</td>
-</tr>
-<tr>
-  <td>NBIS</td>
-  <td>188.43</td>
-  <td>197.52</td>
-  <td>223.84</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>否</td>
-  <td>AI云/算力平台</td>
-</tr>
-<tr>
-  <td>MPC</td>
-  <td>314.08</td>
-  <td>299.04</td>
-  <td>272.98</td>
-  <td>是</td>
-  <td>是</td>
-  <td>否</td>
-  <td>否</td>
-  <td>炼油与中游</td>
-</tr>
-      </tbody>
-    </table>
-
-    <h2>操作建议</h2>
-    <div class="card">
-      <div class="action-title">核心仓 / Core</div>
-      <div class="bilingual-block"><div class="bilingual-label">中文</div><div class="bilingual-text">核心仓仍以稳定为主，但要降低进攻性，优先保留确定性更高的资产。</div><div class="bilingual-label" style="margin-top:12px;">English</div><div class="bilingual-text">Core positions should remain stability-focused, with reduced aggressiveness and priority given to more certain assets.</div></div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">3.</span>
+    <a href="https://investing.com/news/stock-market-news/why-is-monte-rosa-therapeutics-stock-plunging-today-93CH-4827990" target="_blank" rel="noopener noreferrer">Why is Monte Rosa Therapeutics stock plunging today?</a>
+  </div>
+  <div class="meta">来源：Stock Market News ｜ 发布时间：2026-07-31 12:16 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">蒙特罗莎治疗公司的股票今天大幅下跌，投资者对其未来前景表示担忧。分析人士指出，公司的研发进展缓慢以及市场竞争加剧是导致股价下滑的主要原因。这一情况不仅影响了投资者的信心，也可能对公司的融资能力产生负面影响，进而影响其未来的项目开发。</div>
     </div>
-    <div class="card">
-      <div class="action-title">趋势仓 / Trend</div>
-      <div class="bilingual-block"><div class="bilingual-label">中文</div><div class="bilingual-text">趋势仓应缩小战线，避免在结构不明时追逐短线弹性。</div><div class="bilingual-label" style="margin-top:12px;">English</div><div class="bilingual-text">Trend positions should narrow their focus and avoid chasing short-term upside when the structure is unclear.</div></div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">Monte Rosa Therapeutics&#x27; stock is plummeting today as investors express concerns about its future prospects. Analysts point out that slow progress in the company&#x27;s research and increased market competition are the main reasons for the decline in stock price. This situation not only undermines investor confidence but may also negatively impact the company&#x27;s ability to secure funding, which could affect its future project development.</div>
     </div>
-    <div class="card">
-      <div class="action-title">防守仓 / Defense</div>
-      <div class="bilingual-block"><div class="bilingual-label">中文</div><div class="bilingual-text">黄金、防守和真实资产比重可以适度提高，用来对冲结构不确定性。</div><div class="bilingual-label" style="margin-top:12px;">English</div><div class="bilingual-text">Gold, defensive holdings, and real assets can be moderately increased to hedge structural uncertainty.</div></div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">4.</span>
+    <a href="https://investing.com/news/stock-market-news/this-european-beauty-stock-is-wellpositioned-right-now-barclays-93CH-4827989" target="_blank" rel="noopener noreferrer">This European Beauty Stock is Well-Positioned Right Now: Barclays</a>
+  </div>
+  <div class="meta">来源：Stock Market News ｜ 发布时间：2026-07-31 12:16 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">根据巴克莱的分析，目前一只欧洲美容股票的市场表现良好。这表明该公司在行业中的竞争力和潜力，可能吸引更多投资者的关注。随着消费者对美容产品需求的持续增长，这类股票的表现可能会进一步提升，进而影响整个市场的投资趋势。</div>
     </div>
-    <div class="card">
-      <div class="action-title">观察项 / Watchlist</div>
-      <div class="bilingual-block"><div class="bilingual-label">中文</div><div class="bilingual-text">重点观察 VIX、MOVE 是否继续抬升，以及 HYG/LQD 是否同步走弱。</div><div class="bilingual-label" style="margin-top:12px;">English</div><div class="bilingual-text">Watch whether VIX and MOVE continue rising and whether HYG and LQD weaken together.</div></div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">According to Barclays, a European beauty stock is currently well-positioned in the market. This indicates the company&#x27;s competitiveness and potential within the industry, which may attract more investor interest. As consumer demand for beauty products continues to rise, the performance of such stocks could further improve, potentially influencing broader investment trends in the market.</div>
     </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">5.</span>
+    <a href="https://marketwatch.com/story/the-big-mac-index-turns-forty-and-heres-the-beef-its-still-relevant-b56497dd" target="_blank" rel="noopener noreferrer">The Big Mac Index turns 40, and here’s the beef: It’s still relevant.</a>
+  </div>
+  <div class="meta">来源：MarketWatch.com - Top Stories ｜ 发布时间：2026-07-31 12:16 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">“大麦克指数”迎来了40周年，这一指数依然具有重要的现实意义。根据最新数据，亚洲地区的汉堡价格普遍低于其他地区，这引发了人们对汇率操控的关注。美国总统曾指责一些国家在货币政策上存在不当行为，这可能会影响国际贸易关系和投资决策。随着全球经济的变化，这一指数的持续相关性提醒我们关注各国经济政策的影响。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">The Big Mac Index has turned 40, and it remains significantly relevant today. Recent data shows that burgers are generally cheaper in Asia, raising concerns about currency manipulation, which the U.S. president has accused several countries of engaging in. This situation could impact international trade relations and investment decisions. As the global economy evolves, the ongoing relevance of this index serves as a reminder to pay attention to the effects of various countries&#x27; economic policies.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">6.</span>
+    <a href="https://cnbc.com/2026/07/31/fed-officials-who-voted-to-hike-rates-say-action-is-needed-now-against-inflation.html" target="_blank" rel="noopener noreferrer">Fed officials who voted to hike rates say action is needed now against inflation</a>
+  </div>
+  <div class="meta">来源：US Top News and Analysis ｜ 发布时间：2026-07-31 12:15 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">美联储官员投票决定加息，认为当前必须采取行动应对通货膨胀。这一决定的重要性在于，它可能会影响到消费者和企业的借贷成本，从而对经济增长产生直接影响。加息可能会抑制消费和投资，导致经济放缓，但同时也有助于控制物价上涨。未来几个月，市场将密切关注美联储的进一步政策动向，以评估其对经济的长期影响。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">Federal Reserve officials voted to raise interest rates, stating that action is necessary now to combat inflation. This decision is significant as it could affect borrowing costs for consumers and businesses, directly impacting economic growth. While higher rates may suppress spending and investment, they can also help control rising prices. In the coming months, the market will closely monitor the Fed&#x27;s further policy moves to assess their long-term effects on the economy.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">7.</span>
+    <a href="https://cnbc.com/2026/07/31/used-ev-prices.html" target="_blank" rel="noopener noreferrer">EV prices aren&#x27;t following the &#x27;law of used cars,&#x27; analyst says — what it means for buyers and sellers</a>
+  </div>
+  <div class="meta">来源：US Top News and Analysis ｜ 发布时间：2026-07-31 12:15 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">今年，二手电动汽车的价格出现了上涨，这一现象在专家看来是相当不寻常的。专家指出，价格上涨的原因主要与消费者的负担能力和高油价有关。这一趋势可能会影响到买卖双方的决策，尤其是在电动车市场日益增长的背景下。随着电动汽车的普及，消费者可能会更加关注二手电动车的性价比。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">This year, the prices of used electric vehicles have risen, which experts consider unusual. They attribute this increase to factors such as consumer affordability and high gas prices. This trend could influence the decisions of both buyers and sellers, especially in the context of a growing electric vehicle market. As electric vehicles become more popular, consumers may pay closer attention to the value proposition of used EVs.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">8.</span>
+    <a href="https://investing.com/news/stock-market-news/carnival-notes-downgraded-by-moodys-after-losing-collateral-93CH-4827972" target="_blank" rel="noopener noreferrer">Carnival notes downgraded by Moody’s after losing collateral</a>
+  </div>
+  <div class="meta">来源：Stock Market News ｜ 发布时间：2026-07-31 12:14 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">摩迪评级公司将嘉年华公司的信用评级下调，原因是该公司失去了部分抵押品。这一举措引发了市场的广泛关注，因为嘉年华是全球最大的邮轮运营商之一。信用评级的下调可能会导致其融资成本上升，从而影响公司的运营和扩张计划。投资者需密切关注此事的发展，以评估对整体旅游行业的潜在影响。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">Moody&#x27;s has downgraded Carnival&#x27;s credit rating due to the loss of some collateral. This action has drawn significant attention in the market, as Carnival is one of the largest cruise operators globally. The downgrade may lead to increased financing costs, which could impact the company&#x27;s operations and expansion plans. Investors should closely monitor this situation to assess its potential effects on the overall travel industry.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">9.</span>
+    <a href="https://investing.com/news/stock-market-news/amazon-jumps-as-aws-growth-soothes-fears-over-rising-ai-spending-4827202" target="_blank" rel="noopener noreferrer">Amazon soars as cloud revenue surge allays fears over ballooning AI bets</a>
+  </div>
+  <div class="meta">来源：Stock Market News ｜ 发布时间：2026-07-31 12:13 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">亚马逊的股价大幅上涨，主要是因为其云计算收入的激增，缓解了市场对公司在人工智能领域投资过度的担忧。这一增长不仅表明亚马逊在云服务市场的强劲表现，也反映了其在新技术领域的潜力。此消息对投资者来说至关重要，因为它可能会影响他们对亚马逊未来发展的信心，并进一步推动股价上涨。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">Amazon&#x27;s stock price surged significantly due to a spike in its cloud computing revenue, alleviating concerns about the company&#x27;s excessive investments in artificial intelligence. This growth not only highlights Amazon&#x27;s strong performance in the cloud services market but also reflects its potential in new technologies. This news is crucial for investors as it may influence their confidence in Amazon&#x27;s future prospects and further drive up the stock price.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">10.</span>
+    <a href="https://investing.com/news/stock-market-news/apple-slides-as-supply-snags-cloud-outlook-putting-iphone-demand-in-focus-4827004" target="_blank" rel="noopener noreferrer">Apple tumbles as supply chain snarls mar forecast in Cook’s last earnings as CEO</a>
+  </div>
+  <div class="meta">来源：Stock Market News ｜ 发布时间：2026-07-31 12:13 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">苹果公司在库克担任首席执行官的最后一次财报发布中，因供应链问题导致业绩预期下调，股价大幅下跌。这一事件不仅影响了投资者的信心，也可能对苹果未来的市场表现产生负面影响。随着全球供应链的持续紧张，其他科技公司也可能面临类似的挑战，从而影响整个行业的增长前景。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">Apple&#x27;s stock plummeted as supply chain issues led to a lowered earnings forecast during Cook&#x27;s last earnings report as CEO. This event not only undermines investor confidence but may also negatively impact Apple&#x27;s future market performance. With ongoing global supply chain tensions, other tech companies could face similar challenges, potentially affecting the growth outlook for the entire industry.</div>
+    </div>
+  </div>
+</div>
+</section>
+<section class="section">
+  <h2>健康</h2>
+  <p class="section-meta">最近24小时内新闻：7 条</p>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">1.</span>
+    <a href="https://nytimes.com/2026/07/30/science/testosterone-behavior-aggression.html" target="_blank" rel="noopener noreferrer">Military Testosterone Policy Raises Questions About Its Links to Aggression</a>
+  </div>
+  <div class="meta">来源：NYT &gt; Health ｜ 发布时间：2026-07-31 11:27 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">一项新的军事政策引发了关于睾酮对某些男性攻击性影响的质疑。这项政策的实施可能会影响军队中男性士兵的心理健康和行为表现。了解睾酮与攻击性之间的关系，对于制定更有效的军事训练和心理支持措施至关重要。此外，这一问题也可能在更广泛的社会层面引发讨论，影响公众对男性激素的认知和态度。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">A new military policy has raised questions about the effects of testosterone on aggression in some men. The implementation of this policy could impact the mental health and behavior of male soldiers in the military. Understanding the relationship between testosterone and aggression is crucial for developing more effective military training and psychological support measures. Furthermore, this issue may spark broader societal discussions that could influence public perceptions and attitudes towards male hormones.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">2.</span>
+    <a href="https://nytimes.com/2026/07/30/health/fauci-allegations-covid-origins.html" target="_blank" rel="noopener noreferrer">What We Know About Dr. Fauci Pleading the Fifth in Senate Hearing on Covid Origins</a>
+  </div>
+  <div class="meta">来源：NYT &gt; Health ｜ 发布时间：2026-07-31 02:23 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">在本周的一场为期三小时的参议院听证会上，福奇博士行使了宪法赋予的沉默权，这让许多人对提出的诸多问题感到困惑。这一事件引发了公众对新冠病毒起源的更多关注，尤其是在政府和科学界之间的信任危机加剧的背景下。福奇的沉默可能会影响人们对疫情应对措施的看法，并对未来的公共卫生政策产生深远影响。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">During a three-hour Senate hearing this week, Dr. Fauci invoked his constitutional right to remain silent, leaving many confused about the various issues raised. This incident has sparked increased public interest in the origins of the COVID-19 virus, particularly against the backdrop of a growing trust crisis between the government and the scientific community. Fauci&#x27;s silence may influence public perceptions of pandemic response measures and have far-reaching implications for future public health policies.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">3.</span>
+    <a href="https://nytimes.com/2026/07/30/us/politics/state-department-map-africa.html" target="_blank" rel="noopener noreferrer">U.S. Government Mislabels Map of African Countries at AIDS Conference</a>
+  </div>
+  <div class="meta">来源：NYT &gt; Health ｜ 发布时间：2026-07-30 19:53 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">在最近的艾滋病会议上，美国政府错误地标注了非洲国家的地图，导致尼日利亚被错误地标记为位于撒哈拉沙漠内。此事件引起了广泛关注，因为它不仅反映了政府在重要国际会议上的准备不足，也可能影响与会者对非洲国家的认知和理解。准确的信息对于公共卫生政策的制定至关重要，错误的地图可能导致误解和错误决策。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">At a recent AIDS conference, the U.S. government mistakenly labeled a map of African countries, incorrectly placing Nigeria in the Sahara Desert. This incident has garnered significant attention as it highlights the government&#x27;s lack of preparation for important international events, which could affect attendees&#x27; understanding of African nations. Accurate information is crucial for the formulation of public health policies, and such errors could lead to misunderstandings and misguided decisions.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">4.</span>
+    <a href="https://nytimes.com/2026/07/30/health/paho-us-pan-american-health-organization-withdrawal.html" target="_blank" rel="noopener noreferrer">Former Officials Protest U.S. Plan to Defund Pan American Health Organization</a>
+  </div>
+  <div class="meta">来源：NYT &gt; Health ｜ 发布时间：2026-07-30 18:25 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">一群前卫生和国家安全官员对美国计划削减对泛美卫生组织的资金表示抗议。他们警告称，这一决定将使美国人在面对传染病威胁时更加脆弱。这一举措不仅可能影响公共卫生的应对能力，还可能削弱国际合作，影响全球健康安全。随着传染病的传播日益频繁，这一问题显得尤为重要。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">A group of former health and national security officials has protested the U.S. plan to cut funding for the Pan American Health Organization. They warned that this decision could make Americans more vulnerable to infectious disease threats. This move may not only impact the nation&#x27;s public health response but also weaken international cooperation, affecting global health security. Given the increasing frequency of disease outbreaks, this issue is particularly significant.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">5.</span>
+    <a href="https://nytimes.com/2026/07/30/us/politics/trump-cdc-erica-schwartz.html" target="_blank" rel="noopener noreferrer">Erica Schwartz, Trump’s Nominee for C.D.C. Director, Advances to Full Senate Vote</a>
+  </div>
+  <div class="meta">来源：NYT &gt; Health ｜ 发布时间：2026-07-30 15:21 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">特朗普提名的疾病控制与预防中心（CDC）主任候选人埃里卡·施瓦茨（Erica Schwartz）已进入全体参议院投票阶段。施瓦茨公开支持儿童疫苗接种，这一立场在当前疫苗争议中显得尤为重要。她的确认投票将影响CDC的未来方向，尤其是在公共卫生政策和疫苗推广方面。若她获得确认，可能会增强公众对疫苗的信任，促进儿童健康。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">Dr. Erica Schwartz, nominated by Trump to be the director of the Centers for Disease Control and Prevention (CDC), has advanced to a full Senate vote. Her public support for childhood vaccinations is particularly significant amid ongoing debates about vaccines. The outcome of her confirmation vote could shape the future direction of the CDC, especially regarding public health policies and vaccine promotion. If confirmed, she may help bolster public trust in vaccines and promote children&#x27;s health.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">6.</span>
+    <a href="https://nytimes.com/2026/07/30/business/aca-obamacare-health-insurance.html" target="_blank" rel="noopener noreferrer">After Obamacare Cuts, Hospitals Are Treating More Uninsured Patients</a>
+  </div>
+  <div class="meta">来源：NYT &gt; Health ｜ 发布时间：2026-07-30 14:27 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">由于国会共和党取消了联邦补贴，许多人失去了医疗保险，导致医院接收更多无保险患者。这一变化不仅增加了急诊室的就诊人数，还使得医院面临更大的财务压力。无保险患者的增加可能会影响医院的运营模式，迫使他们调整服务和资源分配，以应对不断增长的需求。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">After congressional Republicans ended enhanced federal subsidies, many people lost their health insurance, resulting in hospitals treating more uninsured patients. This shift has led to an increase in emergency room visits and has placed greater financial strain on hospitals. The rise in uninsured patients may affect hospital operations, forcing them to adjust their services and resource allocation to meet the growing demand.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">7.</span>
+    <a href="https://sciencedaily.com/releases/2026/07/260729010742.htm" target="_blank" rel="noopener noreferrer">Rice bran compound may help ease irritable bowel symptoms</a>
+  </div>
+  <div class="meta">来源：Health &amp; Medicine News -- ScienceDaily ｜ 发布时间：2026-07-30 12:44 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">研究发现，米糠中的一种化合物可能有助于缓解肠易激综合症的症状。该化合物能够通过减少导致肠道肌肉收缩的钙信号来平息过度活跃的肠道。这一发现可能为与腹泻相关的消化系统疾病提供新的饮食干预方法，尽管它可能会加重便秘的情况。此项研究的结果为改善肠道健康提供了新的思路，尤其是对于那些面临肠道运动异常的人群。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">Research has found that a compound in rice bran may help alleviate symptoms of irritable bowel syndrome. This compound works by reducing calcium signals that cause intestinal muscles to contract, thereby calming an overactive gut. This discovery could lead to new dietary interventions for diarrhea-related digestive disorders, although it may worsen constipation. The findings offer new insights into improving gut health, particularly for individuals experiencing abnormal intestinal motility.</div>
+    </div>
+  </div>
+</div>
+</section>
+<section class="section">
+  <h2>心理/哲学</h2>
+  <p class="section-meta">最近24小时内新闻：1 条</p>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">1.</span>
+    <a href="https://aeon.co/essays/are-we-witnessing-the-end-of-the-technocratic-international" target="_blank" rel="noopener noreferrer">Resist the technocrats</a>
+  </div>
+  <div class="meta">来源：Aeon | a world of ideas ｜ 发布时间：2026-07-31 10:00 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">在这篇文章中，作者探讨了国际组织如何在表面上以专家的名义行使权力。作者警告公众不要轻信这些技术官僚，因为他们的决策往往隐藏着更深层的利益和动机。这一问题的重要性在于，它关系到民主决策的透明度和公众对权威的信任。若不加以警惕，可能会导致更大的社会分裂和对权力的不满。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">In this article, the author examines how international organizations exercise power under the guise of following experts. The author warns the public not to blindly trust these technocrats, as their decisions often conceal deeper interests and motives. This issue is significant because it impacts the transparency of democratic decision-making and public trust in authority. If left unchallenged, it could lead to greater social division and dissatisfaction with power.</div>
+    </div>
+  </div>
+</div>
+</section>
+<section class="section">
+  <h2>AI 科技</h2>
+  <p class="section-meta">最近24小时内新闻：10 条</p>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">1.</span>
+    <a href="https://theverge.com/tech/972466/cipherx-permanent-pain-free-tattoo-microdot-patches" target="_blank" rel="noopener noreferrer">This tattoo is permanent, pain-free, and might soon come in the mail</a>
+  </div>
+  <div class="meta">来源：The Verge ｜ 发布时间：2026-07-31 12:01 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">最近，伦敦的一家生物科技公司CipherX推出了一种新的微点纹身贴，提供了一种无痛的永久纹身替代方案。这种贴片利用微型生物降解针头将颜料注入皮肤的表层，整个过程快速且安静，给人一种全新的纹身体验。这项技术的推出可能会改变传统纹身行业，吸引那些对疼痛敏感或不喜欢传统纹身过程的人。随着这种纹身贴的普及，未来可能会出现更多类似的创新产品，进一步推动纹身艺术的发展。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">Recently, a London-based biotech company, CipherX, launched a new Microdot tattoo patch that offers a pain-free alternative for permanent tattoos. This patch uses microscopic, biodegradable needles to deposit pigment into the upper layers of the skin, providing a fast and quiet tattooing experience. The introduction of this technology could transform the traditional tattoo industry, appealing to those who are sensitive to pain or dislike the conventional tattooing process. As this tattoo patch gains popularity, we may see more innovative products emerge, further advancing the art of tattooing.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">2.</span>
+    <a href="https://theverge.com/entertainment/973530/apple-tv-cape-fear-finale-technology" target="_blank" rel="noopener noreferrer">Apple TV’s Cape Fear remake turns it into a paranoid tech thriller</a>
+  </div>
+  <div class="meta">来源：The Verge ｜ 发布时间：2026-07-31 12:00 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">苹果电视最近推出的《恐怖海岸》重制版，将经典的惊悚故事转变为一部充满科技 paranoia 的惊悚剧。该剧受到1991年同名电影的启发，马丁·斯科塞斯和史蒂文·斯皮尔伯格也参与了制作。故事围绕一名被定罪的杀人犯在服刑17年后获释，他利用现代科技手段来追踪和报复曾经的律师。这个重制版不仅更新了情节，还通过科技元素让观众感受到不安和紧张，反映了当今社会对技术的不信任。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">Apple TV&#x27;s recent remake of &quot;Cape Fear&quot; transforms the classic thriller into a tech-driven story filled with paranoia. Inspired by the 1991 film, with Martin Scorsese and Steven Spielberg returning as executive producers, the series follows a convicted murderer who is released after 17 years when someone else confesses to the crime. The updated narrative incorporates modern technology to enhance the sense of instability for both characters and viewers. This remake not only modernizes the plot but also reflects contemporary anxieties about trust in technology.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">3.</span>
+    <a href="https://nytimes.com/2026/07/31/style/errands-should-be-the-most-boring-show-on-the-internet.html" target="_blank" rel="noopener noreferrer">We All Do Errands. Noah Blau Films Them.</a>
+  </div>
+  <div class="meta">来源：NYT &gt; Technology ｜ 发布时间：2026-07-31 11:55 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">诺亚·布劳（Noah Blau）通过他的网络系列节目，将日常琐事变得引人入胜。他拍摄了诸如打交通罚单、挂窗帘和安装空调等平凡的事情。这一系列节目之所以重要，是因为它让观众重新审视生活中的小事，发现其中的趣味与意义。这种对平常事务的艺术化呈现，可能会影响人们对日常生活的看法，激发更多人关注和分享自己的生活琐事。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">Noah Blau has made the mundane fascinating through his online series, which features everyday errands like fighting a traffic ticket, hanging curtains, and installing an air conditioner. This series is significant because it encourages viewers to reevaluate the small aspects of life, finding interest and meaning in them. By artistically presenting these ordinary tasks, it may influence how people perceive their daily lives and inspire more individuals to pay attention to and share their own errands.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">4.</span>
+    <a href="https://nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html" target="_blank" rel="noopener noreferrer">The German Auto Industry, a Pillar of the National Psyche, Is Trembling</a>
+  </div>
+  <div class="meta">来源：NYT &gt; Technology ｜ 发布时间：2026-07-31 11:17 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">德国汽车工业作为国家精神的支柱，正面临严峻挑战。由于关税、电动车的兴起以及来自中国企业的激烈竞争，德国的标志性汽车制造商们正陷入困境。这一情况不仅影响了汽车行业的经济表现，也可能对德国的整体经济和就业市场产生深远影响。随着全球汽车市场的变化，德国汽车制造商需要迅速调整策略，以维持其在国际市场上的竞争力。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">The German auto industry, a cornerstone of the national identity, is currently facing significant challenges. Iconic carmakers are struggling due to tariffs, the rise of electric vehicles, and fierce competition from Chinese companies. This situation not only affects the economic performance of the auto sector but may also have far-reaching implications for Germany&#x27;s overall economy and job market. As the global automotive landscape evolves, German manufacturers will need to adapt their strategies quickly to maintain their competitiveness in the international market.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">5.</span>
+    <a href="https://nytimes.com/2026/07/31/podcasts/open-source-google.html" target="_blank" rel="noopener noreferrer">Open Model Wars + Claire Stapleton’s Dishy Google Memoir + Substack’s Slop Fight</a>
+  </div>
+  <div class="meta">来源：NYT &gt; Technology ｜ 发布时间：2026-07-31 11:00 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">最近，硅谷的竞争愈发激烈，尤其是在人工智能领域。多家科技公司正在争相推出更先进的模型，以保持市场竞争力。这种竞争不仅影响了技术的发展方向，也可能改变行业内的合作关系和投资策略。随着技术的快速进步，消费者和企业都将受益于更高效的解决方案。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">Recently, the competition in Silicon Valley has intensified, particularly in the field of artificial intelligence. Numerous tech companies are racing to launch more advanced models to maintain their market competitiveness. This rivalry not only affects the direction of technological development but may also alter collaboration and investment strategies within the industry. As technology advances rapidly, both consumers and businesses are likely to benefit from more efficient solutions.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">6.</span>
+    <a href="https://theverge.com/tech/973621/sony-playstation-ending-discs-pushing-forward" target="_blank" rel="noopener noreferrer">Sony pushes forward with ditching discs, despite backlash</a>
+  </div>
+  <div class="meta">来源：The Verge ｜ 发布时间：2026-07-31 10:40 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">索尼宣布将停止生产实体游戏光盘，这一决定引发了许多PlayStation粉丝的强烈反对。然而，在最近的财报电话会议上，首席财务官林涛表示，尽管考虑了玩家的反对意见，索尼仍决定继续推进这一计划。林涛指出，内容数字化的趋势是做出这一决定的主要原因。此举可能会影响游戏行业的未来，尤其是在数字内容日益普及的背景下，玩家的购买习惯和游戏发行模式都可能发生变化。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">Sony announced that it will stop producing physical game discs, a decision that has faced significant backlash from PlayStation fans. However, during the latest earnings call, Chief Financial Officer Lin Tao stated that despite considering the opposition from players, Sony has decided to move forward with this plan. Tao highlighted that the main reason for this decision is the ongoing trend of content digitalization. This move could impact the future of the gaming industry, as the increasing prevalence of digital content may change players&#x27; purchasing habits and the way games are distributed.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">7.</span>
+    <a href="https://nytimes.com/2026/07/31/magazine/takeaways-larry-ellison-oracle-ai.html" target="_blank" rel="noopener noreferrer">Five Takeaways From the Times Investigation Into Larry Ellison’s A.I. Gamble</a>
+  </div>
+  <div class="meta">来源：NYT &gt; Technology ｜ 发布时间：2026-07-31 09:05 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">近日，《纽约时报》对拉里·埃里森在人工智能领域的投资进行了深入调查，揭示了他所领导的公司为在全球建设数据中心而承担了巨额债务。这一举动不仅影响了甲骨文公司自身的财务状况，也可能对整个科技行业产生深远影响。随着人工智能的快速发展，其他企业可能会受到启发，跟随其步伐，增加投资和债务，这可能导致行业内的竞争加剧和风险上升。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">Recently, The New York Times conducted an in-depth investigation into Larry Ellison&#x27;s investments in artificial intelligence, revealing that his company has taken on significant debt to build data centers worldwide. This move not only affects Oracle&#x27;s financial situation but could also have far-reaching implications for the entire tech industry. As AI continues to evolve rapidly, other companies may be inspired to follow suit, increasing their investments and debt, which could lead to heightened competition and rising risks within the sector.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">8.</span>
+    <a href="https://nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html" target="_blank" rel="noopener noreferrer">Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?</a>
+  </div>
+  <div class="meta">来源：NYT &gt; Technology ｜ 发布时间：2026-07-31 09:03 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">拉里·埃里森，这位81岁的亿万富翁，正在冒险将自己的数据帝国转型为人工智能巨头。他通过借贷来推动这一转型，显示出他对人工智能行业的极大信心。这一举动不仅可能改变埃里森个人的商业命运，也可能对整个科技行业产生深远影响，尤其是在人工智能领域的竞争加剧之际。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">Larry Ellison, the 81-year-old billionaire, is taking significant risks to transform his data empire into an AI powerhouse. His strategy involves leveraging debt, reflecting his strong belief in the potential of the AI industry. This move could not only alter Ellison&#x27;s business trajectory but also have far-reaching implications for the tech industry, particularly as competition in the AI sector intensifies.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">9.</span>
+    <a href="https://nytimes.com/2026/07/31/business/energy-environment/plug-in-solar-panel-guide.html" target="_blank" rel="noopener noreferrer">What You Need to Know About Installing Plug-In Solar Panels</a>
+  </div>
+  <div class="meta">来源：NYT &gt; Technology ｜ 发布时间：2026-07-31 09:02 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">最近，市场上出现了一种新型的插电式太阳能电池板，消费者可以直接将其插入电源插座。这种技术的出现为家庭提供了一个便捷的可再生能源选择，但在选择和安装时，安全问题仍需引起重视。了解这些安全隐患对于确保用户的安全和设备的有效运行至关重要。此外，这项技术的普及可能会推动更多家庭采用可再生能源，进而影响整体能源消费模式。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">Recently, a new type of plug-in solar panel has become available, allowing consumers to simply plug it into an electrical outlet. This technology offers a convenient renewable energy option for households, but safety concerns must be taken into account during selection and installation. Understanding these safety issues is crucial for ensuring user safety and the effective operation of the devices. Furthermore, the widespread adoption of this technology could encourage more households to utilize renewable energy, potentially impacting overall energy consumption patterns.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">10.</span>
+    <a href="https://nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html" target="_blank" rel="noopener noreferrer">Plug-In Solar Panels Are Starting to Sprout in U.S. Backyards</a>
+  </div>
+  <div class="meta">来源：NYT &gt; Technology ｜ 发布时间：2026-07-31 09:00 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">美国十个州已合法化可以插入标准墙壁插座的太阳能系统。这种新技术的出现使得家庭用户能够更方便地利用太阳能，而无需申请许可或雇佣电工。这一发展不仅有助于推动可再生能源的使用，还可能改变家庭能源消费的方式，降低电费支出，并促进环保意识的提升。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">Ten U.S. states have legalized plug-in solar systems that can be connected to standard wall outlets. This innovation allows homeowners to easily harness solar energy without the need for permits or electricians. This development is significant as it promotes the use of renewable energy, potentially changes the way households consume energy, reduces electricity costs, and raises awareness about environmental sustainability.</div>
+    </div>
+  </div>
+</div>
+</section>
+<section class="section">
+  <h2>美学</h2>
+  <p class="section-meta">最近24小时内新闻：10 条</p>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">1.</span>
+    <a href="https://nytimes.com/2026/07/31/arts/dance/review-philadanco-rennie-harris.html" target="_blank" rel="noopener noreferrer">Dance Review: ‘To Philly, Love, Rennie’ Is the Sound of Soul, but Muted</a>
+  </div>
+  <div class="meta">来源：NYT &gt; Arts ｜ 发布时间：2026-07-31 11:58 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">在乔伊斯剧院，Philadanco! 首演了由 Rennie Harris 创作的新舞蹈《致费城，爱，Rennie》，这部作品展现了城市的骄傲，但却显得有些压抑。此舞蹈的重要性在于它试图通过艺术表达费城的文化和灵魂，然而其表现方式却未能完全展现出应有的热情和活力。这可能会影响观众对费城文化的理解，尤其是在当今社会中，艺术作品常常被视为表达身份和情感的重要载体。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">At the Joyce Theater, Philadanco! premiered a new dance titled &quot;To Philly, Love, Rennie,&quot; created by Rennie Harris, which reflects civic pride but feels somewhat muted. The significance of this dance lies in its attempt to express the culture and spirit of Philadelphia through art; however, its execution may not fully convey the passion and vibrancy expected. This could affect how audiences perceive Philadelphia&#x27;s culture, especially in a time when artistic works are often seen as vital expressions of identity and emotion.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">2.</span>
+    <a href="https://nytimes.com/2026/07/30/theater/game-of-thrones-mad-king-royal-shakespeare.html" target="_blank" rel="noopener noreferrer">It’s ‘Game of Thrones,’ on Shakespeare’s Stage</a>
+  </div>
+  <div class="meta">来源：NYT &gt; Arts ｜ 发布时间：2026-07-31 10:57 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">《权力的游戏》的舞台改编在皇家莎士比亚公司上演，这标志着这一热门系列的又一次扩展。这种将经典莎士比亚舞台与现代流行文化结合的尝试，不仅吸引了原剧迷，也为莎士比亚的作品注入了新的活力。这一创新可能会影响未来更多经典作品的改编方式，推动戏剧界对跨文化融合的探索。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">A stage adaptation of &quot;Game of Thrones&quot; has premiered at the Royal Shakespeare Company, marking another expansion of the hit series. This attempt to blend classic Shakespearean theater with modern pop culture not only attracts fans of the original series but also revitalizes Shakespeare&#x27;s works. This innovation may influence the way future classic works are adapted, encouraging the theater community to explore cross-cultural integrations.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">3.</span>
+    <a href="https://dezeen.com/2026/07/31/the-linhay-charles-gillespie-architecture" target="_blank" rel="noopener noreferrer">Charles Gillespie Architecture completes Somerset house with wildlife-friendly colonnade</a>
+  </div>
+  <div class="meta">来源：Dezeen ｜ 发布时间：2026-07-31 10:30 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">英国建筑事务所查尔斯·吉莱斯皮建筑公司完成了一座名为“林海”的家庭住宅，位于萨默塞特乡村。这座房屋周围环绕着深厚的混凝土柱廊，为鸟类提供了安全的筑巢空间。这一设计不仅体现了传统的林海建筑风格，还展示了对自然环境的关注。这样的建筑设计有助于提升人们对生态友好型住宅的认识，可能会激励更多建筑师在未来的项目中考虑生态保护。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">British studio Charles Gillespie Architecture has completed a family house called &quot;The Linhay&quot; in rural Somerset. The house is surrounded by a deep concrete colonnade that provides sheltered nesting spaces for birds. This design not only reflects the traditional linhay style but also demonstrates a commitment to environmental concerns. Such architectural approaches can raise awareness about eco-friendly housing and may inspire more architects to consider ecological preservation in their future projects.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">4.</span>
+    <a href="https://designboom.com/art/tearing-paper-wrestling-mud-gutai-play-creative-freedom-postwar-japan" target="_blank" rel="noopener noreferrer">tearing paper and wrestling mud, gutai played with creative freedom in postwar japan</a>
+  </div>
+  <div class="meta">来源：designboom | architecture &amp; design magazine ｜ 发布时间：2026-07-31 10:10 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">在战后日本，艺术家们通过使用不拘一格的媒介和富有趣味的观众参与表演，探索了一种全新的创作自由。这种“具体艺术”运动不仅挑战了传统艺术的界限，还鼓励了艺术家们在创作中表达个人的独特视角。这一现象的重要性在于，它为后来的艺术流派提供了灵感，并推动了艺术与观众之间的互动关系。具体艺术的影响不仅限于日本，还对全球的当代艺术产生了深远的影响。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">In postwar Japan, artists explored a new form of creative freedom through the use of unruly media and playful audience-involving performances. This &quot;Gutai&quot; movement not only challenged the boundaries of traditional art but also encouraged artists to express their unique perspectives in their work. The significance of this phenomenon lies in its inspiration for later art movements and its promotion of interaction between art and audiences. The influence of Gutai extends beyond Japan, having a profound impact on contemporary art worldwide.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">5.</span>
+    <a href="https://dezeen.com/2026/07/31/uk-net-zero-carbon-buildings-standard-bureau-veritas" target="_blank" rel="noopener noreferrer">Net zero verification scheme launched for UK buildings</a>
+  </div>
+  <div class="meta">来源：Dezeen ｜ 发布时间：2026-07-31 10:00 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">英国认证公司必维国际检验集团推出了英国净零碳建筑标准，这是一个自愿的验证计划，用于评估建筑物的碳排放表现。该标准现已开放提交，旨在根据行业公认的定义来评估建筑的净零排放声明，以减少绿色洗涤现象。无论是新建建筑、现有建筑还是改造项目，都可以参与这一计划。这一举措不仅有助于提高建筑行业的透明度，还可能推动更多建筑采用可持续的设计和运营方式。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">Bureau Veritas, a certification company, has launched the UK Net Zero Carbon Buildings Standard, a voluntary verification scheme designed to assess the carbon performance of buildings. Now open for submissions, this standard evaluates net-zero claims against an industry-agreed definition, aiming to reduce greenwashing. Both new buildings and existing structures, including retrofit projects, can participate in this initiative. This move is significant as it enhances transparency in the construction sector and may encourage more buildings to adopt sustainable design and operational practices.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">6.</span>
+    <a href="https://designboom.com/technology/lightfoot-solar-cargo-scooter-sunlight-everyday-errands" target="_blank" rel="noopener noreferrer">lightfoot solar cargo scooter stores sunlight for everyday errands</a>
+  </div>
+  <div class="meta">来源：designboom | architecture &amp; design magazine ｜ 发布时间：2026-07-31 09:57 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">Lightfoot太阳能货运滑板车是一款创新的电动滑板车，配备240瓦的太阳能电池阵列和可锁存储空间，能够满足日常出行的需求。这款滑板车的设计不仅提高了出行的便利性，还通过太阳能充电减少了对传统能源的依赖，具有环保意义。随着可持续交通工具的需求增加，这款滑板车可能会影响未来城市交通的布局和发展方向。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">The Lightfoot solar cargo scooter is an innovative electric scooter equipped with a 240-watt solar array and lockable storage, designed to meet everyday transportation needs. This scooter enhances convenience for users while reducing reliance on traditional energy sources through solar charging, highlighting its environmental significance. As the demand for sustainable transportation options grows, this scooter may influence the future layout and development of urban transportation systems.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">7.</span>
+    <a href="https://dezeen.com/2026/07/31/tallest-timber-tower-robot-hand-painless-tattoo-dezeen-weekly-podcast" target="_blank" rel="noopener noreferrer">Are timber skyscrapers the future?</a>
+  </div>
+  <div class="meta">来源：Dezeen ｜ 发布时间：2026-07-31 09:30 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">最近，Dezeen的编辑讨论了木材摩天大楼的未来，以及新型机器人手的重大进展。这一话题的重要性在于，木材作为建筑材料的使用不仅能减少碳排放，还可能改变建筑行业的可持续性。随着技术的进步，木材摩天大楼可能会成为城市建筑的新趋势，影响未来的城市设计和环境政策。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">Recently, Dezeen&#x27;s editors discussed the future of timber skyscrapers and the significant advancements in robotic technology. This topic is important because using timber as a building material can reduce carbon emissions and potentially transform sustainability in the construction industry. As technology advances, timber skyscrapers may become a new trend in urban architecture, influencing future city designs and environmental policies.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">8.</span>
+    <a href="https://nytimes.com/2026/07/31/movies/5-new-movies-our-critics-are-talking-about-this-week.html" target="_blank" rel="noopener noreferrer">5 New Movies Our Critics Are Talking About This Week</a>
+  </div>
+  <div class="meta">来源：NYT &gt; Arts ｜ 发布时间：2026-07-31 09:04 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">本周，我们的评论家推荐了五部值得关注的新电影。这些电影涵盖了不同的题材和风格，适合各种类型的观众。了解这些影片不仅能丰富观影体验，还可能引发观众对电影艺术的更深思考。随着电影行业的不断发展，这些作品可能会影响未来的创作趋势和观众的审美取向。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">This week, our critics have highlighted five new movies that are worth knowing about. These films span various genres and styles, catering to a wide range of audiences. Being aware of these films can enhance the viewing experience and may provoke deeper reflections on the art of cinema. As the film industry continues to evolve, these works could influence future creative trends and audience aesthetics.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">9.</span>
+    <a href="https://nytimes.com/2026/07/31/arts/the-odyssey-emily-wilson-christopher-nolan.html" target="_blank" rel="noopener noreferrer">Emily Wilson’s Pan of ‘The Odyssey’ Ignites a Debate Among Classicists and Commenters</a>
+  </div>
+  <div class="meta">来源：NYT &gt; Arts ｜ 发布时间：2026-07-31 09:04 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">艾米莉·威尔逊在《伦敦书评》中对克里斯托弗·诺兰的《奥德赛》电影剧本提出了批评，这引发了古典学者和评论者之间的激烈讨论。威尔逊的翻译在2017年获得了广泛认可，影响了诺兰的创作，因此她的意见备受关注。这场争论不仅涉及文学翻译的艺术性，还反映了对经典作品现代改编的不同看法。这样的讨论可能会影响未来对古典文学改编的态度和标准。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">Emily Wilson criticized Christopher Nolan&#x27;s screenplay for the film adaptation of &quot;The Odyssey&quot; in an essay for The London Review of Books, sparking intense debate among classicists and commentators. Her 2017 translation gained widespread acclaim and influenced Nolan&#x27;s work, making her perspective particularly significant. This discussion touches on the artistry of literary translation and reflects differing views on modern adaptations of classic works. Such debates may shape future attitudes and standards regarding adaptations of classical literature.</div>
+    </div>
+  </div>
+</div>
+<div class="card">
+  <div class="title-row">
+    <span class="rank">10.</span>
+    <a href="https://nytimes.com/2026/07/31/arts/critics-say-historic-sites-are-endangered-by-trump-aligned-panels-plan.html" target="_blank" rel="noopener noreferrer">Critics Say Historic Sites Are Endangered by Trump-Aligned Panel’s Plan</a>
+  </div>
+  <div class="meta">来源：NYT &gt; Arts ｜ 发布时间：2026-07-31 09:03 UTC</div>
+  <div class="analysis-grid">
+    <div class="analysis-col">
+      <div class="analysis-label">中文</div>
+      <div class="analysis">最近，有关特朗普支持的委员会计划对联邦保护规则进行修改的消息引发了广泛关注。支持者认为这些变化是必要的，但批评者则警告称，这将加速总统对华盛顿的重新设计，可能会危及历史遗址的保护。这一变化不仅影响文化遗产的保存，还可能改变公众对历史的认知和价值观。</div>
+    </div>
+    <div class="analysis-col">
+      <div class="analysis-label">English</div>
+      <div class="analysis">Recently, a plan by a Trump-aligned panel to modify federal preservation rules has sparked significant concern. Proponents argue that these changes are necessary, while critics warn that they could expedite the president&#x27;s redesign of Washington, potentially endangering historic sites. This shift not only affects the preservation of cultural heritage but may also alter the public&#x27;s perception and values regarding history.</div>
+    </div>
+  </div>
+</div>
+</section>
   </div>
 </body>
 </html>
