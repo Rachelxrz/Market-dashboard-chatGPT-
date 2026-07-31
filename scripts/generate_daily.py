@@ -998,6 +998,9 @@ def build_qqq_long_term_risk():
         weekly_ma40_slope_negative = bool(
             weekly_ma40 is not None and weekly_ma40_prior is not None and weekly_ma40 < weekly_ma40_prior
         )
+        latest_completed_week_close = weekly_closes[-1]
+        latest_week_below_ma40 = latest_completed_week_close < weekly_ma40
+        weekly_ma10_below_ma40 = weekly_ma10 < weekly_ma40
         drawdown_52w_pct = (latest_price / max(daily_closes[-252:]) - 1.0) * 100.0
 
         if confirmed:
@@ -1020,9 +1023,51 @@ def build_qqq_long_term_risk():
         elif status_level == "repair":
             explanation_zh = "此前曾出现周线确认，目前条件正在修复，尚未恢复为正常结构。"
             explanation_en = "Weekly risk was recently confirmed and conditions are now repairing, but the structure is not yet normal."
+        elif status_level == "watch":
+            watch_reasons_zh = []
+            watch_reasons_en = []
+            if latest_price < ma50:
+                watch_reasons_zh.append(
+                    f"QQQ {latest_price:.2f} 低于50日均线 {ma50:.2f}"
+                )
+                watch_reasons_en.append(
+                    f"QQQ {latest_price:.2f} is below its 50-day average {ma50:.2f}"
+                )
+            if drawdown_52w_pct <= -10:
+                watch_reasons_zh.append(
+                    f"52周回撤 {drawdown_52w_pct:.2f}% 达到或超过10%"
+                )
+                watch_reasons_en.append(
+                    f"the 52-week drawdown of {drawdown_52w_pct:.2f}% has reached 10% or more"
+                )
+            explanation_zh = "警惕由以下条件触发：" + "；".join(watch_reasons_zh) + "。目前尚未满足周线确认条件。"
+            explanation_en = "Watch is triggered because " + "; ".join(watch_reasons_en) + ". Weekly confirmation conditions are not yet met."
         else:
             explanation_zh = "目前没有满足中长期风险确认条件；单日波动不构成长期确认。"
             explanation_en = "Medium- to long-term confirmation conditions are not met; a one-day move is not a long-term signal."
+
+        weekly_conditions_zh = [
+            f"完整周收盘 {latest_completed_week_close:.2f} 低于40周均线 {weekly_ma40:.2f}：{'是' if latest_week_below_ma40 else '否'}",
+            f"10周均线 {weekly_ma10:.2f} 低于40周均线 {weekly_ma40:.2f}：{'是' if weekly_ma10_below_ma40 else '否'}",
+            f"40周均线低于4周前、斜率向下：{'是' if weekly_ma40_slope_negative else '否'}",
+        ]
+        weekly_conditions_en = [
+            f"Completed-week close {latest_completed_week_close:.2f} below 40-week MA {weekly_ma40:.2f}: {'Yes' if latest_week_below_ma40 else 'No'}",
+            f"10-week MA {weekly_ma10:.2f} below 40-week MA {weekly_ma40:.2f}: {'Yes' if weekly_ma10_below_ma40 else 'No'}",
+            f"40-week MA below its level four weeks ago (falling): {'Yes' if weekly_ma40_slope_negative else 'No'}",
+        ]
+        confirmation_explanation_zh = (
+            f"{confirmation_weeks}/2 表示最近连续完整周中有 {confirmation_weeks} 周满足全部三项条件。"
+            "只有连续两个完整周全部满足才确认为中长期风险；尚未结束的本周不计入。"
+            + "；".join(weekly_conditions_zh)
+            + "。"
+        )
+        confirmation_explanation_en = (
+            f"{confirmation_weeks}/2 means {confirmation_weeks} recent consecutive completed week(s) meet all three conditions. "
+            "Two consecutive completed weeks are required; the still-open current week is excluded. "
+            + "; ".join(weekly_conditions_en)
+            + "."
+        )
 
         return {
             "status_level": status_level,
@@ -1031,6 +1076,8 @@ def build_qqq_long_term_risk():
             "confirmed": confirmed,
             "confirmation_weeks": confirmation_weeks,
             "confirmation_weeks_required": 2,
+            "confirmation_explanation_zh": confirmation_explanation_zh,
+            "confirmation_explanation_en": confirmation_explanation_en,
             "latest_price": latest_price,
             "daily_ma50": ma50,
             "daily_ma200": ma200,
@@ -1039,8 +1086,9 @@ def build_qqq_long_term_risk():
             "weekly_ma10": weekly_ma10,
             "weekly_ma40": weekly_ma40,
             "weekly_ma40_slope_negative": weekly_ma40_slope_negative,
-            "latest_completed_week_below_ma40": weekly_closes[-1] < weekly_ma40,
-            "weekly_ma10_below_ma40": weekly_ma10 < weekly_ma40,
+            "latest_completed_week_close": latest_completed_week_close,
+            "latest_completed_week_below_ma40": latest_week_below_ma40,
+            "weekly_ma10_below_ma40": weekly_ma10_below_ma40,
             "drawdown_52w_pct": drawdown_52w_pct,
             "explanation_zh": explanation_zh,
             "explanation_en": explanation_en,
@@ -1778,6 +1826,14 @@ def render_qqq_long_term_risk(item: dict) -> str:
     status_en = item.get("status_en", "Insufficient data")
     confirmation_weeks = item.get("confirmation_weeks", 0)
     confirmation_required = item.get("confirmation_weeks_required", 2)
+    confirmation_explanation_zh = item.get(
+        "confirmation_explanation_zh",
+        "历史数据不足时不计算周线确认进度。",
+    )
+    confirmation_explanation_en = item.get(
+        "confirmation_explanation_en",
+        "Weekly confirmation progress is not calculated when history is insufficient.",
+    )
     evidence = [
         ("QQQ / Price", fmt_num(item.get("latest_price"), 2)),
         ("50日均线 / 50-day MA", fmt_num(item.get("daily_ma50"), 2)),
@@ -1803,6 +1859,7 @@ def render_qqq_long_term_risk(item: dict) -> str:
     <div class="hero-item">
       <div class="hero-label">周线确认进度 / Weekly confirmation</div>
       <div class="hero-value">{html.escape(str(confirmation_weeks))}/{html.escape(str(confirmation_required))}</div>
+      {bilingual_block(confirmation_explanation_zh, confirmation_explanation_en)}
     </div>
     <div class="hero-item">
       <div class="hero-label">当前结论 / Current conclusion</div>
