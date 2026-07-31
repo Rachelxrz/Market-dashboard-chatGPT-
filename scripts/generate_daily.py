@@ -5,15 +5,12 @@
 scripts/generate_daily.py
 
 输出：
-1. docs/index.html                  -> 最新结构监控主页
-2. docs/monitor.json                -> 最新结构监控数据
-3. docs/reading.html                -> 最新每日扩展阅读
-4. docs/reading.json                -> 最新每日扩展阅读数据
+1. docs/index.html                  -> 最新每日扩展阅读主页
+2. docs/reading.html                -> 最新每日扩展阅读兼容入口
+3. docs/reading.json                -> 最新每日扩展阅读数据
 
-5. docs/history/YYYY-MM-DD/index.html
-6. docs/history/YYYY-MM-DD/monitor.json
-7. docs/history/YYYY-MM-DD/reading.html
-8. docs/history/YYYY-MM-DD/reading.json
+4. docs/history/YYYY-MM-DD/reading.html
+5. docs/history/YYYY-MM-DD/reading.json
 
 功能：
 - 保留最近 7 天历史
@@ -389,6 +386,25 @@ def cleanup_old_history(keep_days: int = HISTORY_KEEP_DAYS):
             log(f"已删除旧归档: {path}")
         except Exception as e:
             log(f"删除旧归档失败 {path}: {e}")
+
+
+def cleanup_structure_outputs():
+    """Remove public structure-monitor artifacts; daily news is the only output."""
+    latest_monitor = DOCS_DIR / "monitor.json"
+    if latest_monitor.exists():
+        latest_monitor.unlink()
+        log(f"已删除结构监控输出: {latest_monitor}")
+
+    if not HISTORY_DIR.exists():
+        return
+    for history_day in HISTORY_DIR.iterdir():
+        if not history_day.is_dir():
+            continue
+        for name in ("index.html", "monitor.json"):
+            artifact = history_day / name
+            if artifact.exists():
+                artifact.unlink()
+                log(f"已删除历史结构监控输出: {artifact}")
 
 
 def render_history_links(page_name: str) -> str:
@@ -936,10 +952,6 @@ def write_reading_html(payload: dict):
       模式：{html.escape(mode_label)}
   </div>
 
-    <div class="nav">
-      <a href="./index.html">返回结构监控</a>
-    </div>
-
     {history_links}
 
     {sections_html}
@@ -953,6 +965,8 @@ def write_reading_html(payload: dict):
         TODAY_HISTORY_DIR / "reading.html",
         "reading.html",
     )
+    (DOCS_DIR / "index.html").write_text(html_content, encoding="utf-8")
+    log(f"已写入每日新闻首页: {DOCS_DIR / 'index.html'}")
 
 
 # =========================
@@ -2338,16 +2352,13 @@ def write_monitor_html(payload: dict):
 # =========================
 
 def main():
-    log("开始生成结构监控与每日扩展阅读")
+    log("开始生成每日扩展阅读")
     log(f"当前运行模式: {RUN_MODE}")
 
     if not OPENAI_API_KEY:
         log("警告：未检测到 OPENAI_API_KEY，双语扩展阅读将使用兜底分析模板。")
 
-    monitor_payload = build_monitor_payload()
-    write_monitor_json(monitor_payload)
-    write_monitor_html(monitor_payload)
-
+    cleanup_structure_outputs()
     reading_payload = build_reading_payload()
     write_reading_json(reading_payload)
     write_reading_html(reading_payload)
