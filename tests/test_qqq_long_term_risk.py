@@ -63,6 +63,16 @@ class QqqLongTermRiskTests(unittest.TestCase):
         self.assertEqual(result["status_level"], "normal")
         self.assertFalse(result["confirmed"])
 
+    def test_watch_explains_the_trigger_and_weekly_progress(self):
+        closes = [100.0 + index for index in range(495)] + [450.0] * 5
+        with patch.object(generate_daily, "fetch_yahoo_chart", return_value=yahoo_payload(closes)):
+            result = generate_daily.build_qqq_long_term_risk()
+        self.assertEqual(result["status_level"], "watch")
+        self.assertIn("低于50日均线", result["explanation_zh"])
+        self.assertIn("below its 50-day average", result["explanation_en"])
+        self.assertIn("尚未结束的本周不计入", result["confirmation_explanation_zh"])
+        self.assertIn("all three conditions", result["confirmation_explanation_en"])
+
     def test_full_dashboard_contains_long_term_risk_card(self):
         payload = {
             "generated_at": "2026-07-30 22:40:02 UTC",
@@ -80,6 +90,8 @@ class QqqLongTermRiskTests(unittest.TestCase):
                 "status_en": "Risk candidate",
                 "confirmation_weeks": 1,
                 "confirmation_weeks_required": 2,
+                "confirmation_explanation_zh": "1/2表示最近一个完整周满足全部三项条件。",
+                "confirmation_explanation_en": "1/2 means one completed week meets all three conditions.",
                 "explanation_zh": "尚未取得连续两个完整周确认。",
                 "explanation_en": "Two completed confirmation weeks are not yet present.",
                 "methodology_zh": "日线预警，周线确认。",
@@ -98,6 +110,7 @@ class QqqLongTermRiskTests(unittest.TestCase):
         self.assertIn("QQQ中长期风险", dashboard_html)
         self.assertIn("Risk candidate", dashboard_html)
         self.assertIn("1/2", dashboard_html)
+        self.assertIn("最近一个完整周满足全部三项条件", dashboard_html)
         self.assertIn("不是买卖指令", dashboard_html)
 
 
