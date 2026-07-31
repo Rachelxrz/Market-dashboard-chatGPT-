@@ -48,6 +48,7 @@ import traceback
 from pathlib import Path
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
+from zoneinfo import ZoneInfo
 
 import feedparser
 import requests
@@ -896,6 +897,170 @@ def fetch_yahoo_chart(symbol: str, range_: str = "10d", interval: str = "1d"):
     return resp.json()
 
 
+def rolling_average(values: list[float], window: int, end_index: int | None = None):
+    if end_index is None:
+        end_index = len(values)
+    start_index = end_index - window
+    if start_index < 0:
+        return None
+    window_values = values[start_index:end_index]
+    if len(window_values) != window:
+        return None
+    return sum(window_values) / window
+
+
+def completed_weekly_closes(timestamps: list[int], closes: list) -> list[float]:
+    """Aggregate daily closes and exclude the still-open New York trading week."""
+    ny_tz = ZoneInfo("America/New_York")
+    current_week = NOW_UTC.astimezone(ny_tz).isocalendar()[:2]
+    weekly = {}
+
+    for timestamp, close in zip(timestamps, closes):
+        value = safe_float(close)
+        if value is None:
+            continue
+        market_date = datetime.fromtimestamp(timestamp, tz=timezone.utc).astimezone(ny_tz)
+        week_key = market_date.isocalendar()[:2]
+        if week_key >= current_week:
+            continue
+        weekly[week_key] = value
+
+    return [weekly[key] for key in sorted(weekly)]
+
+
+def weekly_risk_signal(weekly_closes: list[float], end_index: int) -> bool:
+    close = weekly_closes[end_index - 1]
+    ma10 = rolling_average(weekly_closes, 10, end_index)
+    ma40 = rolling_average(weekly_closes, 40, end_index)
+    prior_ma40 = rolling_average(weekly_closes, 40, end_index - 4)
+    if ma10 is None or ma40 is None or prior_ma40 is None:
+        return False
+    return close < ma40 and ma10 < ma40 and ma40 < prior_ma40
+
+
+def build_qqq_long_term_risk():
+    """
+    Daily data provides early warning; two completed weekly closes confirm risk.
+    This evidence object is deliberately independent from the existing 1-4 regime.
+    """
+    try:
+        data = fetch_yahoo_chart("QQQ", range_="2y", interval="1d")
+        result = data["chart"]["result"][0]
+        timestamps = result.get("timestamp", []) or []
+        quote = ((result.get("indicators", {}) or {}).get("quote", [{}]) or [{}])[0]
+        raw_closes = quote.get("close", []) or []
+        daily_closes = [safe_float(value) for value in raw_closes if safe_float(value) is not None]
+        weekly_closes = completed_weekly_closes(timestamps, raw_closes)
+
+        if len(daily_closes) < 220 or len(weekly_closes) < 46:
+            return {
+                "status_level": "insufficient",
+                "status_zh": "数据不足",
+                "status_en": "Insufficient data",
+                "confirmed": False,
+                "explanation_zh": "QQQ历史数据不足，不能确认中长期风险。",
+                "explanation_en": "QQQ history is insufficient to confirm medium- to long-term risk.",
+                "methodology_zh": "日线预警、完整周线确认；数据不足不计为风险。",
+                "methodology_en": "Daily warning, completed-week confirmation; missing data is not scored as risk.",
+            }
+
+        latest_price = daily_closes[-1]
+        ma50 = rolling_average(daily_closes, 50)
+        ma200 = rolling_average(daily_closes, 200)
+        ma50_20d_ago = rolling_average(daily_closes, 50, len(daily_closes) - 20)
+        below_ma200_days = 0
+        for end_index in range(len(daily_closes) - 4, len(daily_closes) + 1):
+            point_ma200 = rolling_average(daily_closes, 200, end_index)
+            point_close = daily_closes[end_index - 1]
+            if point_ma200 is not None and point_close < point_ma200:
+                below_ma200_days += 1
+
+        ma50_slope_negative = bool(ma50 is not None and ma50_20d_ago is not None and ma50 < ma50_20d_ago)
+        daily_candidate = below_ma200_days >= 3 and ma50_slope_negative
+
+        weekly_signal_current = weekly_risk_signal(weekly_closes, len(weekly_closes))
+        weekly_signal_prior = weekly_risk_signal(weekly_closes, len(weekly_closes) - 1)
+        confirmed = weekly_signal_current and weekly_signal_prior
+        confirmation_weeks = 2 if confirmed else (1 if weekly_signal_current else 0)
+
+        recent_weekly_signals = [
+            weekly_risk_signal(weekly_closes, end_index)
+            for end_index in range(max(44, len(weekly_closes) - 12), len(weekly_closes) + 1)
+        ]
+        had_recent_confirmation = any(
+            recent_weekly_signals[index - 1] and recent_weekly_signals[index]
+            for index in range(1, len(recent_weekly_signals))
+        )
+
+        weekly_ma10 = rolling_average(weekly_closes, 10)
+        weekly_ma40 = rolling_average(weekly_closes, 40)
+        weekly_ma40_prior = rolling_average(weekly_closes, 40, len(weekly_closes) - 4)
+        weekly_ma40_slope_negative = bool(
+            weekly_ma40 is not None and weekly_ma40_prior is not None and weekly_ma40 < weekly_ma40_prior
+        )
+        drawdown_52w_pct = (latest_price / max(daily_closes[-252:]) - 1.0) * 100.0
+
+        if confirmed:
+            status_level, status_zh, status_en = "confirmed", "已确认", "Confirmed"
+        elif had_recent_confirmation:
+            status_level, status_zh, status_en = "repair", "修复观察", "Recovery watch"
+        elif daily_candidate or weekly_signal_current:
+            status_level, status_zh, status_en = "candidate", "风险候选", "Risk candidate"
+        elif latest_price < ma50 or drawdown_52w_pct <= -10:
+            status_level, status_zh, status_en = "watch", "警惕", "Watch"
+        else:
+            status_level, status_zh, status_en = "normal", "正常", "Normal"
+
+        if confirmed:
+            explanation_zh = "连续两个完整周满足：周收盘低于40周均线、10周均线低于40周均线且40周均线向下。"
+            explanation_en = "Two completed weeks meet all conditions: close below the 40-week average, 10-week below 40-week, and a falling 40-week average."
+        elif status_level == "candidate":
+            explanation_zh = "日线或最近完整周已经转弱，但尚未取得连续两个完整周确认。"
+            explanation_en = "Daily or latest completed-week evidence has weakened, but two completed confirmation weeks are not yet present."
+        elif status_level == "repair":
+            explanation_zh = "此前曾出现周线确认，目前条件正在修复，尚未恢复为正常结构。"
+            explanation_en = "Weekly risk was recently confirmed and conditions are now repairing, but the structure is not yet normal."
+        else:
+            explanation_zh = "目前没有满足中长期风险确认条件；单日波动不构成长期确认。"
+            explanation_en = "Medium- to long-term confirmation conditions are not met; a one-day move is not a long-term signal."
+
+        return {
+            "status_level": status_level,
+            "status_zh": status_zh,
+            "status_en": status_en,
+            "confirmed": confirmed,
+            "confirmation_weeks": confirmation_weeks,
+            "confirmation_weeks_required": 2,
+            "latest_price": latest_price,
+            "daily_ma50": ma50,
+            "daily_ma200": ma200,
+            "below_ma200_days_last_5": below_ma200_days,
+            "daily_ma50_slope_negative": ma50_slope_negative,
+            "weekly_ma10": weekly_ma10,
+            "weekly_ma40": weekly_ma40,
+            "weekly_ma40_slope_negative": weekly_ma40_slope_negative,
+            "latest_completed_week_below_ma40": weekly_closes[-1] < weekly_ma40,
+            "weekly_ma10_below_ma40": weekly_ma10 < weekly_ma40,
+            "drawdown_52w_pct": drawdown_52w_pct,
+            "explanation_zh": explanation_zh,
+            "explanation_en": explanation_en,
+            "methodology_zh": "日线用于预警；只有完整周线用于确认。连续两个完整周满足三项周线条件才确认中长期风险。",
+            "methodology_en": "Daily data provides warning; only completed weeks confirm. Two consecutive completed weeks must satisfy all three weekly conditions.",
+        }
+    except Exception as e:
+        log(f"抓取或计算QQQ中长期风险失败: {e}")
+        return {
+            "status_level": "insufficient",
+            "status_zh": "数据不足",
+            "status_en": "Insufficient data",
+            "confirmed": False,
+            "explanation_zh": "QQQ历史数据抓取或计算失败，不能确认中长期风险。",
+            "explanation_en": "QQQ history retrieval or calculation failed; long-term risk cannot be confirmed.",
+            "methodology_zh": "数据缺失不自动计为风险，需人工复核。",
+            "methodology_en": "Missing data is not automatically scored as risk and requires review.",
+        }
+
+
 def extract_last_n_valid(values, n=2):
     vals = [safe_float(x) for x in values if safe_float(x) is not None]
     if not vals:
@@ -1510,6 +1675,7 @@ def build_monitor_payload():
     generated_at = NOW_UTC.strftime("%Y-%m-%d %H:%M:%S UTC")
     market_snapshot = build_market_snapshot()
     watchlist_monitor = build_watchlist_monitor()
+    qqq_long_term_risk = build_qqq_long_term_risk()
     structure_monitor = build_structure_monitor(market_snapshot)
     layer_summary = build_layer_summary(structure_monitor)
     regime, risk_score, summary_zh, summary_en, internal_score = build_regime(structure_monitor)
@@ -1525,6 +1691,7 @@ def build_monitor_payload():
         "summary_en": summary_en,
         "market_snapshot": market_snapshot,
         "watchlist_monitor": watchlist_monitor,
+        "qqq_long_term_risk": qqq_long_term_risk,
         "structure_monitor": structure_monitor,
         "layer_summary": layer_summary,
         "actions": actions,
@@ -1606,6 +1773,55 @@ def bilingual_block(zh: str, en: str) -> str:
 
 
 
+def render_qqq_long_term_risk(item: dict) -> str:
+    status_zh = item.get("status_zh", "数据不足")
+    status_en = item.get("status_en", "Insufficient data")
+    confirmation_weeks = item.get("confirmation_weeks", 0)
+    confirmation_required = item.get("confirmation_weeks_required", 2)
+    evidence = [
+        ("QQQ / Price", fmt_num(item.get("latest_price"), 2)),
+        ("50日均线 / 50-day MA", fmt_num(item.get("daily_ma50"), 2)),
+        ("200日均线 / 200-day MA", fmt_num(item.get("daily_ma200"), 2)),
+        ("低于200日均线 / Below MA200", f"{item.get('below_ma200_days_last_5', 'N/A')}/5 days"),
+        ("10周均线 / 10-week MA", fmt_num(item.get("weekly_ma10"), 2)),
+        ("40周均线 / 40-week MA", fmt_num(item.get("weekly_ma40"), 2)),
+        ("40周均线斜率向下 / Falling 40-week MA", fmt_bool(item.get("weekly_ma40_slope_negative"))),
+        ("52周回撤 / 52-week drawdown", fmt_pct(item.get("drawdown_52w_pct"), 2)),
+    ]
+    evidence_html = "".join(
+        f"<div class=\"snap-card\"><div class=\"snap-title\">{html.escape(label)}</div>"
+        f"<div class=\"snap-price\">{html.escape(str(value))}</div></div>"
+        for label, value in evidence
+    )
+    return f"""
+<section class="hero">
+  <div class="hero-grid">
+    <div class="hero-item">
+      <div class="hero-label">QQQ中长期风险 / Medium- to Long-term Risk</div>
+      <div class="hero-value">{html.escape(status_zh)} / {html.escape(status_en)}</div>
+    </div>
+    <div class="hero-item">
+      <div class="hero-label">周线确认进度 / Weekly confirmation</div>
+      <div class="hero-value">{html.escape(str(confirmation_weeks))}/{html.escape(str(confirmation_required))}</div>
+    </div>
+    <div class="hero-item">
+      <div class="hero-label">当前结论 / Current conclusion</div>
+      {bilingual_block(item.get("explanation_zh", ""), item.get("explanation_en", ""))}
+    </div>
+    <div class="hero-item">
+      <div class="hero-label">判断方法 / Methodology</div>
+      {bilingual_block(item.get("methodology_zh", ""), item.get("methodology_en", ""))}
+    </div>
+  </div>
+  <div class="snap-grid" style="margin-top:16px;">{evidence_html}</div>
+  <div class="hero-summary">
+    说明：日线只负责预警，只有已经结束的完整周线才用于确认。本指标是风险监控证据，不是买卖指令；最终投资决定由 Rachel 作出。<br>
+    Note: Daily data provides warning; only completed weeks confirm. This is risk-monitoring evidence, not a trading instruction. Rachel remains the final decision-maker.
+  </div>
+</section>
+""".strip()
+
+
 def render_watchlist_table(items: list[dict]) -> str:
     rows = []
     for item in items:
@@ -1638,6 +1854,7 @@ def write_monitor_html(payload: dict):
     monitor_rows = render_monitor_table(payload.get("structure_monitor", {}))
     watchlist_rows = render_watchlist_table(payload.get("watchlist_monitor", []))
     layer_cards = render_layer_cards(payload.get("layer_summary", {}))
+    qqq_long_term_html = render_qqq_long_term_risk(payload.get("qqq_long_term_risk", {}))
     actions = payload.get("actions", {})
     history_links = render_history_links("index.html")
 
@@ -1912,6 +2129,7 @@ def write_monitor_html(payload: dict):
     </section>
 
     <h2>结构分层总览</h2>
+    <div style="margin-bottom:28px;">{qqq_long_term_html}</div>
     <div class="layer-grid">
       {layer_cards}
     </div>
