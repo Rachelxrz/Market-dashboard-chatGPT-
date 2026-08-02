@@ -13,7 +13,7 @@ scripts/generate_daily.py
 5. docs/history/YYYY-MM-DD/reading.json
 
 功能：
-- 保留最近 7 天历史
+- 保留最近 30 个有内容的历史日期
 - 扩展阅读中英双栏
 - 结构监控中英双语
 - 四层结构监控
@@ -94,7 +94,7 @@ REQUEST_TIMEOUT = 20
 TARGET_ITEMS_PER_SECTION = 10
 MAX_ITEMS_PER_FEED = 20
 MAX_SUMMARY_CHARS = 1200
-HISTORY_KEEP_DAYS = 7
+HISTORY_KEEP_DAYS = 30
 
 client = OpenAI(api_key=OPENAI_API_KEY) if (OpenAI and OPENAI_API_KEY) else None
 
@@ -386,6 +386,23 @@ def cleanup_old_history(keep_days: int = HISTORY_KEEP_DAYS):
             log(f"已删除旧归档: {path}")
         except Exception as e:
             log(f"删除旧归档失败 {path}: {e}")
+
+
+def repair_archived_history_links():
+    """Repair date links in retained pages created before nested paths were handled."""
+    if not HISTORY_DIR.exists():
+        return
+
+    for history_day in HISTORY_DIR.iterdir():
+        reading_page = history_day / "reading.html"
+        if not history_day.is_dir() or not reading_page.exists():
+            continue
+
+        content = reading_page.read_text(encoding="utf-8")
+        repaired = history_page_content(content)
+        if repaired != content:
+            reading_page.write_text(repaired, encoding="utf-8")
+            log(f"已修复历史日期链接: {reading_page}")
 
 
 def cleanup_structure_outputs():
@@ -728,9 +745,14 @@ def write_json_dual(payload: dict, latest_path: Path, history_path: Path, name: 
     log(f"已写入历史 {name}: {history_path}")
 
 
+def history_page_content(content: str) -> str:
+    """Adjust root-page history links for a page nested two levels deeper."""
+    return content.replace('href="./history/', 'href="../../history/')
+
+
 def write_html_dual(content: str, latest_path: Path, history_path: Path, name: str):
     latest_path.write_text(content, encoding="utf-8")
-    history_path.write_text(content, encoding="utf-8")
+    history_path.write_text(history_page_content(content), encoding="utf-8")
     log(f"已写入 {name}: {latest_path}")
     log(f"已写入历史 {name}: {history_path}")
 
@@ -2364,6 +2386,7 @@ def main():
     write_reading_html(reading_payload)
 
     cleanup_old_history(HISTORY_KEEP_DAYS)
+    repair_archived_history_links()
 
     log("全部完成")
 
