@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-02 14:42:08 UTC",
-  "generated_at_unix": 1785681728,
+  "generated_at": "2026-08-02 15:06:55 UTC",
+  "generated_at_unix": 1785683215,
   "window": {
-    "from_utc": "2026-08-01 14:42:08 UTC",
-    "to_utc": "2026-08-02 14:42:08 UTC",
+    "from_utc": "2026-08-01 15:06:55 UTC",
+    "to_utc": "2026-08-02 15:06:55 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -15,93 +15,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "Uber’s $1 Trillion Opportunity That Wall Street Is Completely Ignoring",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/uber-1-trillion-opportunity-wall-145422411.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-08-02 14:54 UTC",
+          "analysis_zh": "近日，媒体报道指出，Uber可能面临一个高达1万亿美元的市场机会，但华尔街对此却未给予足够重视。这一机会主要源于Uber在物流和配送领域的潜力，尤其是在电商和食品配送的快速增长背景下。若Uber能够有效抓住这一机会，将可能显著提升其市场份额和盈利能力，进而影响整个共享经济的格局。",
+          "analysis_en": "Recently, reports have highlighted that Uber may be facing a market opportunity worth up to $1 trillion, yet Wall Street has largely overlooked it. This opportunity primarily arises from Uber's potential in logistics and delivery, especially given the rapid growth in e-commerce and food delivery sectors. If Uber can effectively seize this opportunity, it could significantly enhance its market share and profitability, potentially reshaping the landscape of the sharing economy."
+        },
+        {
+          "rank": 2,
+          "title": "Warren Buffett Stepped Back From Berkshire Hathaway With a Bang; Its Investment in 1 AI Stock Now Tops $30 Billion",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-stepped-back-berkshire-144100533.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-08-02 14:41 UTC",
+          "analysis_zh": "沃伦·巴菲特最近以引人注目的方式从伯克希尔·哈撒韦的日常运营中退步，其在一家人工智能公司的投资已超过300亿美元。这一举动不仅标志着巴菲特对新兴科技领域的认可，也反映了他对未来投资方向的调整。随着人工智能行业的快速发展，这笔巨额投资可能会对市场产生深远的影响，吸引更多投资者关注这一领域。",
+          "analysis_en": "Warren Buffett recently made headlines by stepping back from the day-to-day operations of Berkshire Hathaway, with its investment in an AI company now exceeding $30 billion. This move not only signifies Buffett's acknowledgment of the emerging tech sector but also indicates a shift in his investment strategy for the future. Given the rapid growth of the AI industry, this substantial investment could have far-reaching effects on the market, drawing more investors' attention to this field."
+        },
+        {
+          "rank": 3,
+          "title": "US retirees blow nearly $1 of every $3 on a single expense — here's what it costs you each year",
+          "link": "https://finance.yahoo.com/real-estate/articles/us-retirees-blow-nearly-1-143500205.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-08-02 14:35 UTC",
+          "analysis_zh": "美国退休人员每年将近三分之一的支出用于单一费用，这一现象引起了广泛关注。这样的支出模式不仅影响了他们的生活质量，也可能导致财务上的不稳定。随着生活成本的不断上升，退休人员需要更加谨慎地管理自己的财务，以确保能够应对未来的各种开支。此趋势可能会促使政策制定者考虑如何改善退休人员的经济状况。",
+          "analysis_en": "US retirees are spending nearly one-third of their expenses on a single cost, which has raised significant concerns. This spending pattern not only affects their quality of life but may also lead to financial instability. As living costs continue to rise, retirees need to manage their finances more carefully to ensure they can meet future expenses. This trend may prompt policymakers to consider ways to improve the economic situation of retirees."
+        },
+        {
+          "rank": 4,
+          "title": "3 Ultra-High-Yield Energy Stocks to Hold Forever",
+          "link": "https://finance.yahoo.com/energy/articles/3-ultra-high-yield-energy-143500571.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-08-02 14:35 UTC",
+          "analysis_zh": "近日，有分析师推荐了三只超高收益的能源股票，认为这些股票在长期持有中将为投资者带来可观的回报。这一推荐引起了市场的广泛关注，因为能源行业在当前经济环境下仍然具有强劲的增长潜力。投资者可能会因此重新评估其投资组合，增加对能源股票的配置，以应对未来的市场波动。",
+          "analysis_en": "Recently, analysts have recommended three ultra-high-yield energy stocks, suggesting that they will provide substantial returns for investors over the long term. This recommendation has garnered significant attention in the market, as the energy sector continues to show strong growth potential in the current economic environment. Investors may reassess their portfolios and increase their allocation to energy stocks to better navigate future market fluctuations."
+        },
+        {
+          "rank": 5,
+          "title": "BND vs AGG: The Two Biggest Bond ETFs Look Identical, but One Has Quietly Won for Years",
+          "link": "https://finance.yahoo.com/markets/options/articles/bnd-vs-agg-two-biggest-143050166.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-08-02 14:30 UTC",
+          "analysis_zh": "最近，BND和AGG这两只最大的债券交易所交易基金（ETF）在市场上引起了关注。尽管它们在外观上几乎相同，但BND在过去几年中表现出色，逐渐赢得了投资者的青睐。这一现象表明，投资者在选择债券ETF时，除了看名称和费用外，还需关注其实际表现和潜在收益。随着市场对债券投资的兴趣上升，这种差异可能会影响投资者的决策和市场趋势。",
+          "analysis_en": "Recently, the two largest bond exchange-traded funds (ETFs), BND and AGG, have garnered attention in the market. Although they appear nearly identical, BND has quietly outperformed AGG over the past few years, gaining favor among investors. This situation highlights the importance for investors to look beyond names and fees when selecting bond ETFs, focusing instead on actual performance and potential returns. As interest in bond investments rises, these differences may influence investor decisions and market trends."
+        },
+        {
+          "rank": 6,
           "title": "Ukrainian drones kill eight in Russia and strike Wildberries warehouse, governors say",
           "link": "https://investing.com/news/stock-market-news/ukrainian-drones-kill-two-in-russia-strike-wildberries-warehouse-governors-say-4829675",
           "source": "Stock Market News",
           "published_utc": "2026-08-02 14:18 UTC",
-          "analysis_zh": "乌克兰无人机袭击了俄罗斯，造成八人死亡，并攻击了Wildberries仓库。这一事件不仅加剧了俄乌冲突的紧张局势，也可能对俄罗斯的经济产生负面影响，特别是在物流和供应链方面。随着战争的持续，国际社会可能会重新评估对俄罗斯的投资风险，进一步影响其市场稳定性。",
-          "analysis_en": "Ukrainian drones attacked Russia, resulting in eight deaths and striking a Wildberries warehouse. This incident not only escalates tensions in the Russia-Ukraine conflict but may also negatively impact the Russian economy, particularly in logistics and supply chains. As the war continues, the international community might reassess the investment risks associated with Russia, further affecting its market stability."
+          "analysis_zh": "乌克兰无人机袭击了俄罗斯，造成八人死亡，并打击了Wildberries仓库。这一事件不仅加剧了俄乌冲突的紧张局势，也可能对俄罗斯的经济产生负面影响，尤其是在物流和供应链方面。随着冲突的升级，国际社会对这一地区的关注度也将进一步提高，可能导致更多的制裁和外交压力。",
+          "analysis_en": "Ukrainian drones struck Russia, killing eight people and hitting a Wildberries warehouse. This incident escalates the tensions in the ongoing Russia-Ukraine conflict and could negatively impact Russia's economy, particularly in logistics and supply chains. As the conflict intensifies, international attention on the region is likely to increase, potentially leading to more sanctions and diplomatic pressure."
         },
         {
-          "rank": 2,
+          "rank": 7,
+          "title": "Carmelo Anthony breaks down how a $100M contract shrinks to under $50M — and where the rest goes",
+          "link": "https://finance.yahoo.com/small-business/articles/carmelo-anthony-breaks-down-100m-140000809.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-08-02 14:00 UTC",
+          "analysis_zh": "卡梅洛·安东尼最近分析了他一份价值1亿美元的合同如何缩水到不足5000万美元，并详细说明了其中的原因。这一现象不仅揭示了运动员合同背后复杂的财务结构，还引发了人们对运动员收入分配的关注。了解这些细节对于球迷和投资者都至关重要，因为这可能影响他们对运动员职业生涯和财务规划的看法。",
+          "analysis_en": "Carmelo Anthony recently broke down how a $100 million contract can shrink to under $50 million, explaining the reasons behind this phenomenon. This situation highlights the complex financial structures behind athlete contracts and raises awareness about income distribution among athletes. Understanding these details is crucial for fans and investors alike, as it may influence their perspectives on athletes' careers and financial planning."
+        },
+        {
+          "rank": 8,
+          "title": "Amazon's debt nearly doubled to $129 billion in 6 months as CEO Jassy defends $220 billion data center spending spree",
+          "link": "https://finance.yahoo.com/markets/stocks/articles/amazons-debt-nearly-doubled-129-140000968.html",
+          "source": "Yahoo Finance",
+          "published_utc": "2026-08-02 14:00 UTC",
+          "analysis_zh": "亚马逊的债务在六个月内几乎翻了一番，达到1290亿美元。这一变化引发了市场的广泛关注，尤其是在首席执行官贾西为2200亿美元的数据中心投资辩护的背景下。巨额的债务可能会影响公司的财务稳定性和未来的投资决策，投资者对此表示担忧。随着云计算和数据存储需求的不断增长，亚马逊的支出策略将在很大程度上影响其市场竞争力。",
+          "analysis_en": "Amazon's debt nearly doubled to $129 billion in just six months, raising significant concerns in the market, especially as CEO Jassy defends a $220 billion spending spree on data centers. This substantial increase in debt could impact the company's financial stability and future investment decisions, leading to investor apprehension. As demand for cloud computing and data storage continues to rise, Amazon's spending strategy will greatly influence its competitive position in the market."
+        },
+        {
+          "rank": 9,
           "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
           "link": "https://marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69",
           "source": "MarketWatch.com - Top Stories",
           "published_utc": "2026-08-02 14:00 UTC",
-          "analysis_zh": "最近，一位女性因前夫的姐姐去世而收到富达投资公司的要求，要求她提供死亡证明。这一事件引发了人们对金融机构在处理遗产和死亡事务时程序的关注。此事的重要性在于，它揭示了在继承和财务管理中可能出现的复杂性，尤其是在家庭关系复杂的情况下。这样的情况可能会影响到遗产的分配和相关的财务决策。",
-          "analysis_en": "Recently, a woman received a request from Fidelity Investments for her deceased ex-husband's sister's death certificate. This incident has raised concerns about how financial institutions handle matters related to inheritance and death. Its significance lies in highlighting the complexities that can arise in estate and financial management, particularly in cases with complicated family dynamics. Such situations could affect the distribution of assets and related financial decisions."
+          "analysis_zh": "一位女士的前夫的姐姐去世后，她收到了富达投资公司要求提供死亡证明的通知。这个事件引发了她的困惑，因为她并不是直接的受益人。此事的重要性在于，它揭示了金融机构在处理遗产和受益人关系时可能存在的复杂性。这可能会影响到许多家庭在处理亲属去世后的财务事务时的心理负担和法律程序。",
+          "analysis_en": "A woman received a request from Fidelity Investments for a death certificate following the death of her ex-husband's sister. This situation has left her puzzled, as she is not a direct beneficiary. The significance of this event lies in highlighting the complexities financial institutions may face when dealing with estates and beneficiary relationships. This could affect many families as they navigate the emotional and legal challenges associated with the financial affairs of deceased relatives."
         },
         {
-          "rank": 3,
+          "rank": 10,
           "title": "S&P 500 profit growth is getting even wilder as Amazon makes its mark",
           "link": "https://marketwatch.com/story/s-p-500-profit-growth-is-getting-even-wilder-as-amazon-makes-its-mark-5ddf2082",
           "source": "MarketWatch.com - Top Stories",
           "published_utc": "2026-08-02 14:00 UTC",
-          "analysis_zh": "亚马逊最近发布了异常巨大的盈利增长，成为最新一家报告此类业绩的科技巨头。这一增长主要得益于其在Anthropic投资上的纸面收益。这一现象引发了市场的广泛关注，因为它可能预示着科技行业的盈利能力正在发生显著变化，进而影响投资者的信心和市场趋势。",
-          "analysis_en": "Amazon has recently reported an unusually large profit growth, making it the latest Big Tech company to do so. This surge is primarily attributed to paper gains from its investment in Anthropic. This trend has drawn significant market attention, as it may indicate a substantial shift in profitability within the tech sector, potentially affecting investor confidence and market trends."
-        },
-        {
-          "rank": 4,
-          "title": "States expand student loan options as new federal borrowing caps take effect — but they come with trade-offs",
-          "link": "https://cnbc.com/2026/08/02/state-student-loans.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-08-02 13:30 UTC",
-          "analysis_zh": "随着新的联邦借贷上限的实施，一些州（如康涅狄格州、明尼苏达州和罗德岛州）扩大了自己的学生贷款项目。这一变化对学生和家庭来说至关重要，因为它们提供了更多的融资选择，尤其是在联邦贷款受限的情况下。这可能会影响学生的教育机会和未来的职业发展，尤其是那些依赖贷款来支付学费的学生。",
-          "analysis_en": "As new federal borrowing caps take effect, several states, including Connecticut, Minnesota, and Rhode Island, have expanded their own student loan programs. This change is significant for students and families, as it offers more financing options, especially in light of the limitations on federal loans. It may affect students' educational opportunities and future career prospects, particularly for those who rely on loans to cover tuition costs."
-        },
-        {
-          "rank": 5,
-          "title": "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
-          "link": "https://marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-08-02 13:30 UTC",
-          "analysis_zh": "最近，有人提出社会保障资金危机的问题，虽然这是一个重要话题，但还有其他被忽视的因素。例如，推迟领取社会保障至70岁可以提高每月的支付金额，同时也会带来相应的生活成本调整。这一变化不仅影响个人的财务规划，也可能对整个社会保障系统的可持续性产生深远影响。了解这些细节有助于公众更好地应对未来的经济挑战。",
-          "analysis_en": "Recently, concerns have been raised about the funding crisis of Social Security, which is an important issue, but there are other overlooked factors as well. For instance, delaying Social Security benefits until age 70 can increase monthly payments and also lead to proportional cost-of-living adjustments. This change not only affects individual financial planning but may also have significant implications for the sustainability of the entire Social Security system. Understanding these details can help the public better prepare for future economic challenges."
-        },
-        {
-          "rank": 6,
-          "title": "Is now the time to buy European equities?",
-          "link": "https://investing.com/news/stock-market-news/is-now-the-time-to-buy-european-equities-4829697",
-          "source": "Stock Market News",
-          "published_utc": "2026-08-02 13:02 UTC",
-          "analysis_zh": "近期，欧洲股市吸引了投资者的关注，许多人开始考虑是否是购买欧洲股票的好时机。由于经济复苏的迹象和企业盈利的改善，投资者对未来的市场前景持乐观态度。这一趋势可能会推动资金流入欧洲市场，进而影响全球投资格局。若欧洲股市表现良好，可能会吸引更多国际投资者的目光，促进区域经济的进一步发展。",
-          "analysis_en": "Recently, European stock markets have caught the attention of investors, with many contemplating whether now is a good time to buy European equities. Signs of economic recovery and improved corporate earnings have led to an optimistic outlook for the market's future. This trend could drive capital inflows into European markets, potentially affecting the global investment landscape. If European stocks perform well, it may attract more international investors, further boosting regional economic growth."
-        },
-        {
-          "rank": 7,
-          "title": "Investors scored on Iran war's oil market boom. Staying long the trade will get trickier",
-          "link": "https://cnbc.com/2026/08/02/oil-prices-iran-war-energy-market.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-08-02 13:00 UTC",
-          "analysis_zh": "由于美国与伊朗之间的战争，油价出现了剧烈波动，这使得一些投资者在市场中获得了丰厚的回报。然而，对于那些希望长期持有的投资者来说，未来的投资环境将变得更加复杂。随着市场主题的变化，投资者需要关注更具可持续性的能源投资机会。这一局势不仅影响了油市，还可能对全球能源市场的格局产生深远影响。",
-          "analysis_en": "The ongoing conflict between the U.S. and Iran has led to significant volatility in oil prices, resulting in substantial gains for certain investors. However, for those looking to maintain long-term positions, the investment landscape is becoming increasingly challenging. As market themes evolve, investors will need to focus on more sustainable energy investment opportunities. This situation not only affects the oil market but could also have far-reaching implications for the global energy landscape."
-        },
-        {
-          "rank": 8,
-          "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
-          "link": "https://marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-08-02 13:00 UTC",
-          "analysis_zh": "这篇文章讲述了一位兄弟姐妹之间的法律纠纷，涉及到遗嘱执行人的角色。作者的姐姐拒绝在母亲去世后替换他作为遗嘱执行人，这引发了对家庭关系和法律责任的讨论。这一事件的重要性在于它揭示了家庭成员之间的紧张关系可能如何影响遗产的管理和分配。此事可能会导致更深层次的家庭矛盾，甚至影响到遗产的最终处理。",
-          "analysis_en": "This article discusses a legal dispute between siblings regarding the role of an executor of a will. The author's sister refuses to replace him as the executor after their mother's passing, prompting a discussion about family dynamics and legal responsibilities. The significance of this situation lies in how strained relationships among family members can impact the management and distribution of an estate. This issue may lead to deeper family conflicts and could ultimately affect how the inheritance is handled."
-        },
-        {
-          "rank": 9,
-          "title": "How Apple’s cheap MacBook Neo sparked a war in budget laptops",
-          "link": "https://marketwatch.com/story/how-apples-cheap-macbook-neo-sparked-a-war-in-budget-laptops-8fbaf839",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-08-02 13:00 UTC",
-          "analysis_zh": "苹果推出的廉价MacBook Neo正在获得成功，这一举措迫使竞争对手重新考虑他们的产品策略。这款新笔记本电脑的推出不仅吸引了预算有限的消费者，还可能改变整个市场的竞争格局。随着更多品牌被迫降价或改善产品质量，消费者将受益于更具性价比的选择。",
-          "analysis_en": "Apple's launch of the budget MacBook Neo is proving successful, prompting competitors to rethink their product strategies. This new laptop appeals to cost-conscious consumers and could alter the competitive landscape of the entire market. As more brands are forced to lower prices or enhance product quality, consumers will benefit from more affordable options."
-        },
-        {
-          "rank": 10,
-          "title": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 1.10%",
-          "link": "https://investing.com/news/stock-market-news/saudi-arabia-stocks-higher-at-close-of-trade-tadawul-all-share-up-110-4829695",
-          "source": "Stock Market News",
-          "published_utc": "2026-08-02 12:45 UTC",
-          "analysis_zh": "沙特阿拉伯股市在交易结束时上涨，塔达乌尔综合指数上涨了1.10%。这一上涨反映了市场对经济前景的乐观情绪，尤其是在全球经济复苏的背景下。这一趋势可能会吸引更多的投资者关注沙特市场，从而推动进一步的经济增长和企业发展。",
-          "analysis_en": "Saudi Arabia's stock market closed higher, with the Tadawul All Share Index rising by 1.10%. This increase reflects a positive sentiment in the market regarding the economic outlook, particularly in the context of a global economic recovery. This trend may attract more investors to the Saudi market, potentially driving further economic growth and corporate development."
+          "analysis_zh": "亚马逊最近公布了异常巨大的盈利增长，成为最新一家报告此类业绩的科技巨头。这一增长主要得益于其在Anthropic投资上的账面收益。这一现象表明，科技公司在市场中的盈利能力正在显著提升，可能会吸引更多投资者的关注。随着这些公司继续扩大其市场份额，整体经济的复苏和股市的表现也可能受到积极影响。",
+          "analysis_en": "Amazon has recently reported an unusually large profit growth, making it the latest Big Tech company to achieve such results. This growth is primarily attributed to paper gains from its investment in Anthropic. This trend indicates that tech companies are significantly enhancing their profitability, which may attract more investor interest. As these companies continue to expand their market share, the overall economic recovery and stock market performance could also see positive effects."
         }
       ]
     },
@@ -116,8 +116,8 @@
           "link": "https://sciencedaily.com/releases/2026/08/260801042814.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-08-02 13:23 UTC",
-          "analysis_zh": "研究人员发现，一种曾被认为主要保护染色体末端的蛋白质TRF2，实际上对肌肉干细胞的修复功能至关重要。没有TRF2，受损的肌肉会转变为脂肪和瘢痕组织，这一发现可能会影响肌肉萎缩症的治疗研究。TRF2不仅保护DNA，还在肌肉再生过程中发挥关键作用，帮助干细胞保持其身份并协调修复周期。这项研究为未来的医学研究提供了新的方向，可能对癌症生物学也有重要启示。",
-          "analysis_en": "Researchers have discovered that a protein known as TRF2, previously thought to primarily protect chromosome ends, is crucial for the repair functions of muscle stem cells. Without TRF2, damaged muscle can turn into fat and scar tissue, which could significantly impact research into treatments for muscular dystrophy. TRF2 not only protects DNA but also plays a key role in muscle regeneration by helping stem cells maintain their identity and coordinate the repair cycle. This study opens new avenues for future medical research and may also provide important insights into cancer biology."
+          "analysis_zh": "研究人员发现，一种以前被认为主要保护染色体末端的蛋白质TRF2，实际上对肌肉干细胞的修复功能至关重要。缺乏这种蛋白质时，受损的肌肉会转变为脂肪和瘢痕组织。这项发现不仅可能为肌肉萎缩症的治疗提供新的研究方向，还可能为癌症生物学提供重要线索。TRF2在肌肉干细胞的活跃与休眠周期中发挥着关键作用，帮助这些细胞保持身份并协调修复过程。",
+          "analysis_en": "Researchers have discovered that a protein known as TRF2, previously thought to primarily protect chromosome ends, is actually essential for the repair functions of muscle stem cells. Without this protein, damaged muscle can turn into fat and scar tissue. This finding could not only guide future treatments for muscular dystrophy but also provide significant insights into cancer biology. TRF2 plays a crucial role in the active and dormant cycles of muscle stem cells, helping them maintain their identity and coordinate the repair process."
         },
         {
           "rank": 2,
@@ -125,8 +125,8 @@
           "link": "https://nytimes.com/2026/08/02/style/nicole-lepera-self-help-litigation-holistic-psychologist.html",
           "source": "NYT > Health",
           "published_utc": "2026-08-02 12:16 UTC",
-          "analysis_zh": "自助影响者妮可·勒佩拉（Nicole LePera）因其在心理健康和人际关系方面的建议而受到数百万人的关注。然而，她的个人经历却相当复杂，这引发了对她的法律诉讼。这一事件不仅可能影响她的声誉，也可能对她的追随者产生影响，促使人们重新审视自助行业的可信度和专业性。",
-          "analysis_en": "Self-help influencer Nicole LePera, known for her advice on mental health and relationships, is facing legal litigation that complicates her personal narrative. This situation is significant as it could impact her reputation and may lead her followers to reconsider the credibility and professionalism within the self-help industry. The outcome of this case may also influence how self-help content is perceived in the broader context of mental health advocacy."
+          "analysis_zh": "自助影响者妮可·勒佩拉（Nicole LePera）因其提供的心理健康建议而受到广泛关注，但她的个人经历却显得复杂。近日，她面临法律诉讼，这引发了公众对她专业资格的质疑。这一事件不仅可能影响她的声誉，也可能使追随者对她的建议产生动摇。随着自助行业的蓬勃发展，类似的事件可能会对公众对心理健康专家的信任产生深远影响。",
+          "analysis_en": "Self-help influencer Nicole LePera, known for her advice on achieving happiness and maintaining healthy relationships, is currently facing litigation, which complicates her personal narrative. This situation raises questions about her professional qualifications and could impact her reputation significantly. As a result, her followers may start to doubt the validity of her advice. Given the growing self-help industry, such incidents could have lasting effects on public trust in mental health professionals."
         },
         {
           "rank": 3,
@@ -134,8 +134,8 @@
           "link": "https://nytimes.com/2026/08/02/health/trump-health-aid-state-department.html",
           "source": "NYT > Health",
           "published_utc": "2026-08-02 11:49 UTC",
-          "analysis_zh": "美国恢复了部分对联合国儿童基金会、全球疫苗免疫联盟和世界粮食计划署的疫苗和健康援助。这一决定虽然仍远低于美国以往在人道主义和健康援助上的支出，但对抗营养不良和疾病的关键工作至关重要。这笔资金的恢复可能会改善全球卫生状况，尤其是在发展中国家，帮助更多人获得必要的医疗和营养支持。",
-          "analysis_en": "The U.S. has restored some vaccine and health aid to UNICEF, Gavi, and the World Food Programme. While this amount is still significantly lower than previous U.S. spending on humanitarian and health aid, it is crucial for key efforts to combat malnutrition and disease. The resumption of this funding may improve global health conditions, particularly in developing countries, by helping more people access essential medical and nutritional support."
+          "analysis_zh": "美国恢复了对联合国儿童基金会、全球疫苗免疫联盟和世界粮食计划署的一部分疫苗和健康援助。这一决定虽然金额仍远低于美国以往在人道主义和健康援助上的支出，但标志着对抗营养不良和疾病的重要努力重新获得资金支持。这一举措可能会改善全球卫生状况，尤其是在疫情后，许多国家面临着更大的健康挑战。",
+          "analysis_en": "The U.S. has restored some vaccine and health aid to UNICEF, Gavi, and the World Food Programme. While the amount is still significantly lower than what the U.S. previously spent on humanitarian and health aid, this decision marks a resumption of funding for critical efforts to combat malnutrition and disease. This move could improve global health conditions, particularly as many countries face heightened health challenges in the aftermath of the pandemic."
         },
         {
           "rank": 4,
@@ -143,8 +143,8 @@
           "link": "https://sciencedaily.com/releases/2026/08/260801042831.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-08-02 07:33 UTC",
-          "analysis_zh": "一项新的研究表明，每周进行一次75分钟的间歇快走锻炼，可以有效减少腹部脂肪并改善心肺健康。这项为期四个月的试验涉及315名中心性肥胖的成年人，结果显示，这种锻炼方式的效果与每周分三次进行相同锻炼的效果相当。这一发现对于那些难以安排多次锻炼的人尤其重要，提供了一种更为可行的减肥和健身方案。随着肥胖问题的日益严重，这项研究的结果可能会影响公共健康政策和个人健身计划的制定。",
-          "analysis_en": "A new study reveals that engaging in 75 minutes of brisk interval walking once a week can significantly reduce belly fat and improve cardiovascular health. The four-month trial involved 315 adults with central obesity and found that this single-session workout was as effective as spreading the same exercise over three days. This finding is particularly important for individuals who struggle to fit multiple workouts into their schedules, offering a more feasible approach to weight loss and fitness. As obesity becomes an increasingly pressing issue, the results of this study may influence public health policies and personal fitness plans."
+          "analysis_zh": "一项新的研究表明，每周进行一次75分钟的快速间歇步行锻炼可以有效减少腹部脂肪，并改善心血管健康。这项为期四个月的试验涉及315名中心肥胖的成年人，结果显示这种锻炼方式的效果与每周进行三次相同锻炼的效果相当。这一发现对于那些难以安排多次锻炼的人尤其重要，因为它提供了一种更为实用的减肥方案。研究结果可能会影响肥胖管理的方式，鼓励更多人参与锻炼，从而改善整体健康状况。",
+          "analysis_en": "A new study indicates that a single 75-minute session of brisk interval walking each week can effectively reduce belly fat and improve cardiovascular health. The four-month trial involved 315 adults with central obesity, and the results showed that this exercise approach was as effective as performing the same workout three times a week. This finding is particularly significant for individuals who struggle to fit multiple workouts into their schedules, as it offers a more practical solution for weight management. The results may influence how obesity is managed, encouraging more people to engage in physical activity and thereby improving overall health."
         },
         {
           "rank": 5,
@@ -152,8 +152,8 @@
           "link": "https://sciencedaily.com/releases/2026/08/260801042811.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-08-02 04:52 UTC",
-          "analysis_zh": "一项对超过350项研究的综合评审发现，减少蛋白质摄入可能有助于减缓衰老。这项研究表明，较低的蛋白质摄入可以改善新陈代谢，减少炎症和细胞损伤，并激活与健康衰老和长寿相关的通路。这一发现对许多久坐不动的成年人尤其重要，因为他们可能摄入了过多的蛋白质，导致健康问题。未来，减少蛋白质的摄入可能成为促进健康老龄化和延长寿命的新方法。",
-          "analysis_en": "A comprehensive review of over 350 studies has found that reducing protein intake may help slow aging. This research indicates that lower protein consumption can improve metabolism, reduce inflammation and cellular damage, and activate pathways associated with healthier aging and longevity. This finding is particularly significant for many sedentary adults who may be consuming more protein than necessary, leading to health issues. In the future, lowering protein intake could emerge as a new strategy for promoting healthy aging and extending lifespan."
+          "analysis_zh": "一项对超过350项研究的综合评估发现，减少蛋白质摄入可能有助于减缓衰老。这项研究表明，适量减少蛋白质摄入可以改善新陈代谢，降低炎症和细胞损伤，并激活与健康衰老和延长寿命相关的通路。这一发现对许多生活方式相对静态的人群尤为重要，因为他们可能摄入了过多的蛋白质，导致健康问题。未来，减少蛋白质摄入可能成为一种新的健康饮食选择，帮助人们实现更长寿和更健康的生活。",
+          "analysis_en": "A comprehensive review of over 350 studies has found that reducing protein intake may help slow aging. The research indicates that moderate protein restriction can enhance metabolism, decrease inflammation and cellular damage, and activate pathways associated with healthier aging and longer life. This finding is particularly significant for many sedentary individuals who may be consuming more protein than necessary, potentially leading to health issues. In the future, lowering protein intake could emerge as a new dietary approach to promote longevity and overall health."
         },
         {
           "rank": 6,
@@ -161,8 +161,8 @@
           "link": "https://sciencedaily.com/releases/2026/07/260731034204.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-08-02 04:30 UTC",
-          "analysis_zh": "研究发现，癌细胞在快速生长过程中，可能会通过过度激活生长基因而损伤自身的DNA。这种自我造成的损伤不仅会导致DNA断裂，还会在修复过程中引入错误，积累新的突变。这一发现重要性在于，它揭示了癌症细胞如何利用自身的遗传不稳定性来适应和进化，同时也为新治疗方法提供了潜在的靶点。",
-          "analysis_en": "Research has found that cancer cells may damage their own DNA by excessively activating growth genes during rapid proliferation. This self-inflicted damage can lead to DNA breaks, and the repair process may introduce errors, resulting in the accumulation of new mutations. This discovery is significant because it reveals how cancer cells leverage their own genetic instability to adapt and evolve, while also providing potential targets for new treatment strategies."
+          "analysis_zh": "癌细胞通过强大的基因开关来维持其生长基因的活跃，但这种强烈的活动可能会损害它们自身的DNA。研究发现，癌细胞在修复这些损伤时可能会出现错误，从而导致新的突变积累。这一自我造成的损伤可能帮助肿瘤进化，同时也为新疗法提供了潜在的靶点。这项研究揭示了癌细胞基因不稳定性的新因素，可能会影响未来癌症治疗的策略。",
+          "analysis_en": "Cancer cells utilize powerful genetic switches to keep their growth genes highly active, but this intense activity can damage their own DNA. Research indicates that when repairing this damage, errors may occur, leading to the accumulation of new mutations. This self-inflicted damage could aid tumor evolution while also presenting potential targets for new treatments. The study uncovers a previously overlooked factor contributing to genetic instability in cancer cells, which may influence future strategies for cancer therapy."
         }
       ]
     },
@@ -179,93 +179,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "Skylight’s smart calendars are up to $90 off during its back-to-school sale",
+          "link": "https://theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale",
+          "source": "The Verge",
+          "published_utc": "2026-08-02 15:00 UTC",
+          "analysis_zh": "随着新学年的开始，家长们需要在孩子的课程、课外活动和体育运动与工作、约会等其他责任之间进行协调，这常常让人感到忙乱。Skylight的共享智能日历可以帮助家庭保持组织井然，从8月2日至8月9日，产品最高可享受90美元的折扣。这次促销包括10英寸的Skylight日历、15英寸的Calendar 2和27英寸的Calendar Max，分别有不同程度的折扣。对于大家庭来说，27英寸的Calendar Max提供了最大的屏幕，方便从远处查看，能够有效提高家庭的时间管理效率。",
+          "analysis_en": "As the new school year begins, parents often find themselves juggling their children's classes, extracurricular activities, and sports alongside work and other responsibilities, which can be quite hectic. Skylight's shared smart calendars aim to help families stay organized, and from August 2nd to August 9th, they are available at discounts of up to $90. The sale includes the 10-inch Skylight Calendar, the 15-inch Calendar 2, and the 27-inch Calendar Max, each with varying discounts. The 27-inch Calendar Max, in particular, offers the largest screen, making it easier for larger families to view schedules from across the room, thereby enhancing time management efficiency."
+        },
+        {
+          "rank": 2,
           "title": "HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was",
           "link": "https://theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review",
           "source": "The Verge",
           "published_utc": "2026-08-02 14:00 UTC",
-          "analysis_zh": "惠普的HyperX Omen 15游戏笔记本电脑最近发布，取代了长期以来备受欢迎的预算型游戏笔记本Victus 15。虽然Victus的售价仅为800美元，但Omen 15的起售价已上涨至1200美元，这使得它不再是一个经济实惠的选择。尽管Omen 15在显示屏和图形性能上有了一些升级，但价格的显著上升可能会影响消费者的购买决策，尤其是在预算有限的情况下。随着笔记本电脑整体价格的上涨，Omen 15可能会被视为中端市场的选择，而不是入门级产品。",
-          "analysis_en": "The HP HyperX Omen 15 gaming laptop has recently been released, replacing the long-popular budget model, the Victus 15. While the Victus was priced at just $800, the Omen 15 starts at $1,200, making it less of a budget-friendly option. Although the Omen 15 features upgrades in display and graphics performance, the significant price increase may affect consumer purchasing decisions, particularly for those on a tight budget. As laptop prices rise across the board, the Omen 15 may be viewed more as a mid-range option rather than an entry-level product."
+          "analysis_zh": "惠普的HyperX Omen 15游戏笔记本电脑取代了长期以来备受欢迎的预算游戏笔记本Victus 15。虽然Victus的售价仅为800美元，但Omen 15的起售价已涨至1200美元。尽管Omen 15在性能上有所升级，配备了RTX 5050显卡和更高刷新率的显示屏，但其价格的显著上升可能会影响预算有限的玩家选择。随着笔记本电脑整体价格的上涨，Omen 15可能仍然是寻求当前一代游戏硬件的消费者的一个可行选择。",
+          "analysis_en": "The HP HyperX Omen 15 gaming laptop has replaced the long-popular budget gaming laptop, the Victus 15. While the Victus was priced at just $800, the Omen 15 now starts at $1,200. Although the Omen 15 offers performance upgrades with its RTX 5050 graphics and a higher refresh rate display, the significant price increase may deter budget-conscious gamers. As laptop prices rise across the board, the Omen 15 may still be a viable option for consumers looking for current-generation gaming hardware."
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Is paying artists enough to convince them to embrace AI?",
           "link": "https://theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
           "source": "The Verge",
           "published_utc": "2026-08-02 13:00 UTC",
-          "analysis_zh": "插画师们多年来一直在警告，生成性人工智能初创公司在未经许可的情况下使用艺术家的作品来训练他们的模型。这种做法被认为是盗窃，因此引发了激烈的法律争议。然而，一些支持生成性人工智能的人士认为，这对技术的发展是必要的。与此同时，像Pippa这样的新兴AI初创公司开始以更道德的方式运营，承诺直接向艺术家支付报酬。这一变化不仅可能影响艺术家的收入模式，还可能改变整个行业对AI技术的看法。",
-          "analysis_en": "Illustrators have been raising alarms for years about generative AI startups using artists' work to train their models without permission, a practice seen as theft. This has led to contentious legal disputes, while some proponents of generative AI argue that such practices are essential for technological advancement. In response, new AI startups like Pippa are emerging, promoting a more ethical business model that compensates artists directly. This shift could not only impact the income models for artists but also reshape the industry's perception of AI technology."
+          "analysis_zh": "近年来，插画师们对生成性人工智能初创公司在未经许可的情况下使用艺术作品进行模型训练发出了警告。他们认为这种做法等同于盗窃。对此，许多支持生成性人工智能的人士辩称，这对技术的发展是必要的。这一争议引发了激烈的法律斗争，同时也催生了一些新的初创公司，如Pippa，试图以更道德的方式进行商业运作。Pippa的商业模式旨在直接向艺术家支付报酬，以此来解决这一问题。",
+          "analysis_en": "In recent years, illustrators have raised alarms about generative AI startups using artists' work to train their models without permission, which they equate to theft. In response, many proponents of generative AI argue that such practices are essential for technological advancement. This controversy has led to intense legal battles and has also given rise to new startups like Pippa, which aim to operate more ethically. Pippa's business model is designed to compensate artists directly, addressing the concerns raised by the artistic community."
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Foldables are sort of boring now — and that’s great news for Apple",
           "link": "https://theverge.com/column/972937/foldable-phones-boring-apple",
           "source": "The Verge",
           "published_utc": "2026-08-02 12:00 UTC",
-          "analysis_zh": "折叠手机的技术如今已经不再新鲜，这对苹果来说是个好消息。曾经备受关注的折叠手机市场，随着技术的成熟，逐渐变得乏味。这一变化意味着苹果可以在更高的标准下推出自己的折叠手机，可能会吸引更多消费者的关注。随着市场竞争的加剧，苹果的进入可能会推动整个行业的创新和发展。",
-          "analysis_en": "Foldable phones have become somewhat boring, which is great news for Apple. The once-exciting market for foldable devices has lost its novelty as the technology has matured. This shift allows Apple to launch its own foldable phone under higher standards, potentially drawing more consumer interest. As competition in the market intensifies, Apple's entry could drive further innovation and development across the industry."
+          "analysis_zh": "折叠手机的技术如今变得相对平淡，这对苹果来说是个好消息。曾经新颖的折叠手机现在已经达到了苹果的标准，这意味着苹果可能会在未来推出自己的折叠设备。随着市场对折叠手机的热情减退，苹果可以更从容地进入这一领域，避免早期产品的失败风险。这一变化可能会影响整个智能手机市场的竞争格局，促使其他品牌重新思考他们的产品策略。",
+          "analysis_en": "Foldable phones have become relatively mundane, which is great news for Apple. The once-novel technology has now reached a standard that Apple finds acceptable, suggesting that the company may consider launching its own foldable device in the future. As enthusiasm for foldable phones wanes, Apple can enter this market more cautiously, reducing the risk of early product failures. This shift could impact the competitive landscape of the smartphone market, prompting other brands to rethink their product strategies."
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
           "link": "https://wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives",
           "source": "Feed: Artificial Intelligence Latest",
           "published_utc": "2026-08-02 10:00 UTC",
-          "analysis_zh": "欧盟新规要求人们在与人工智能互动或查看人工智能生成或编辑的内容时，必须被告知这一点。这一规定引发了人们对“信息披露疲劳”的担忧，因为用户可能会感到难以应对频繁的提示。这项政策的重要性在于，它旨在提高透明度和用户意识，帮助人们更好地理解他们所接触的内容是由人工智能生成的。未来，这可能会影响用户对人工智能技术的信任和使用习惯。",
-          "analysis_en": "New EU regulations require that individuals be informed when they are interacting with AI or viewing AI-generated or edited content. This has raised concerns about \"disclosure fatigue,\" as users may find it overwhelming to receive constant notifications. The significance of this policy lies in its aim to enhance transparency and user awareness, allowing people to better understand the content they are engaging with. In the future, this could affect users' trust in and usage of AI technologies."
+          "analysis_zh": "欧盟新规定要求用户在与人工智能互动或查看由人工智能生成或编辑的内容时，必须被告知这一点。这项规定引发了人们对“信息披露疲劳”的担忧，因为用户可能会感到被过多的信息淹没。这一变化不仅影响了用户的体验，也可能对企业在使用人工智能技术时的透明度和合规性产生深远影响。",
+          "analysis_en": "New EU regulations require that individuals be informed when they are interacting with AI or viewing AI-generated or edited content. This has raised concerns about \"disclosure fatigue,\" as users may feel overwhelmed by excessive information. This change not only affects user experience but could also have significant implications for businesses regarding transparency and compliance when using AI technologies."
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "The German Auto Industry, a Pillar of the National Psyche, Is Trembling",
           "link": "https://nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html",
           "source": "NYT > Technology",
           "published_utc": "2026-08-02 00:58 UTC",
-          "analysis_zh": "德国汽车工业作为国家精神的支柱，正面临严峻挑战。由于关税、电动车的兴起以及来自中国公司的激烈竞争，德国的知名汽车制造商们正在苦苦挣扎。这一局势不仅影响了汽车行业的经济表现，还可能对德国整体经济和就业市场产生深远影响。随着全球汽车市场的变化，德国汽车制造商需要迅速调整策略，以保持其在国际市场上的竞争力。",
-          "analysis_en": "The German auto industry, a cornerstone of the national identity, is facing significant challenges. Iconic car manufacturers are struggling due to tariffs, the rise of electric vehicles, and fierce competition from Chinese companies. This situation not only affects the economic performance of the auto sector but may also have profound implications for Germany's overall economy and job market. As the global automotive landscape evolves, German manufacturers must quickly adapt their strategies to maintain competitiveness in the international market."
+          "analysis_zh": "德国汽车工业作为国家精神的支柱，正面临严峻挑战。由于关税、电动车的快速发展以及来自中国公司的激烈竞争，德国的传统汽车制造商们正感到压力加大。这一变化不仅影响了汽车行业的未来，也可能对德国经济的整体稳定性产生深远影响。随着市场格局的变化，德国汽车制造商需要迅速调整策略，以保持其在全球市场中的竞争力。",
+          "analysis_en": "The German auto industry, a cornerstone of the national identity, is currently facing significant challenges. Iconic car manufacturers are struggling due to tariffs, the rapid rise of electric vehicles, and fierce competition from Chinese companies. This shift not only affects the future of the automotive sector but may also have profound implications for the overall stability of the German economy. As the market landscape evolves, German automakers will need to adapt their strategies quickly to maintain their competitiveness on the global stage."
         },
         {
-          "rank": 6,
+          "rank": 7,
           "title": "Pixel 11 specs and price leak with no surprises",
           "link": "https://theverge.com/tech/974238/pixel-11-specs-and-price-leak",
           "source": "The Verge",
           "published_utc": "2026-08-01 21:31 UTC",
-          "analysis_zh": "据Android Headlines报道，Pixel 11系列的规格和价格信息已经泄露，基本与之前的传闻一致。预计Pixel 11的起售价将上涨100美元，达到899美元，并且基础型号将配备256GB存储，而不是128GB。此外，Pixel 11 Pro和Pixel 11 Pro XL的内存将减少至12GB，价格分别为1099美元和1299美元。这些变化可能会影响消费者的购买决策，尤其是在价格上涨的情况下，用户对新机型的接受度可能会受到影响。",
-          "analysis_en": "According to Android Headlines, the specifications and pricing for the Pixel 11 lineup have leaked, aligning closely with previous rumors. The Pixel 11 is expected to see a $100 price increase, starting at $899, with the base model featuring 256GB of storage instead of 128GB. Additionally, the Pixel 11 Pro and Pixel 11 Pro XL will reportedly have their RAM cut to 12GB, with prices set at $1,099 and $1,299, respectively. These changes may influence consumer purchasing decisions, as the price hikes could affect user acceptance of the new models."
+          "analysis_zh": "据《Android Headlines》报道，Pixel 11系列的规格和价格信息已经泄露。根据这些信息，Pixel 11的起售价将上涨100美元，达到899美元，同时基础型号将配备256GB存储，而不是128GB。此次价格上涨和内存削减的趋势可能会影响消费者的购买决策，尤其是在竞争激烈的智能手机市场中，用户可能会考虑其他品牌的选择。",
+          "analysis_en": "According to Android Headlines, the specifications and pricing for the Pixel 11 lineup have leaked. The starting price for the Pixel 11 is expected to increase by $100, reaching $899, while the base model will feature 256GB of storage instead of 128GB. This trend of price hikes and RAM cuts may impact consumer purchasing decisions, particularly in a competitive smartphone market where users might consider alternatives from other brands."
         },
         {
-          "rank": 7,
+          "rank": 8,
           "title": "Angela Nissel faces down grief with a laugh",
           "link": "https://theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead",
           "source": "The Verge",
           "published_utc": "2026-08-01 20:15 UTC",
-          "analysis_zh": "安吉拉·尼斯尔（Angela Nissel）最新出版的书籍《好悲伤，给我面包，妈妈死了》以幽默的方式探讨了失去亲人的痛苦。这本书不仅讲述了她照顾重病父母的深刻情感，还通过黑色幽默帮助读者应对艰难时刻。这种独特的叙述方式让人们在面对悲伤时能够找到一丝轻松，反映了人们在逆境中寻找希望的普遍心理。尼斯尔的作品不仅是个人经历的分享，也可能激励更多人以积极的态度面对生活中的挑战。",
-          "analysis_en": "Angela Nissel's latest book, \"Good Grief, Pass the Bread, Mom Is Dead,\" explores the pain of losing a loved one through humor. The memoir details her experience caring for a terminally ill parent while employing dark humor to help readers navigate tough times. This unique narrative approach allows people to find a bit of lightness in their grief, reflecting a common desire to seek hope in adversity. Nissel's work not only shares personal experiences but may also inspire others to adopt a positive attitude when facing life's challenges."
+          "analysis_zh": "安吉拉·尼塞尔（Angela Nissel）最新出版的书籍《好悲伤，给面包，妈妈去世了》以幽默的方式探讨了照顾临终父母的深刻情感。这本回忆录通过黑色幽默的方式，帮助读者在艰难时刻找到一丝轻松。尼塞尔以其独特的幽默风格而闻名，她的作品不仅反映了个人经历，也引发了对生活中痛苦与欢笑的深思。这样的作品不仅对读者有启发意义，也可能影响人们对悲伤和死亡的看法。",
+          "analysis_en": "Angela Nissel's latest book, \"Good Grief, Pass the Bread, Mom Is Dead,\" explores the deep emotions involved in caring for a terminally ill parent through humor. This memoir uses dark humor to help readers find lightness in difficult times. Nissel is known for her unique comedic style, and her work reflects personal experiences while provoking thought about the interplay of sorrow and laughter in life. Such a book not only inspires readers but may also influence how people perceive grief and death."
         },
         {
-          "rank": 8,
+          "rank": 9,
           "title": "Is this Billboard Hot 100 hit AI slop?",
           "link": "https://theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
           "source": "The Verge",
           "published_utc": "2026-08-01 18:20 UTC",
-          "analysis_zh": "Fenix Flexin最近以单曲《Rubberz》在Billboard Hot 100排行榜上取得了第58位的佳绩。然而，关于这首歌的创作来源引发了广泛的质疑，许多人猜测这首歌可能是由人工智能生成的。尽管Fenix Flexin否认了这些指控，但他并未提供足够的证据来消除外界的疑虑。这一事件引发了对音乐创作真实性的讨论，可能会影响人们对AI在音乐领域应用的看法。",
-          "analysis_en": "Fenix Flexin recently achieved success on the Billboard Hot 100 with his single \"Rubberz,\" reaching number 58. However, questions about the song's origins have sparked widespread speculation that it may have been generated by artificial intelligence. While Fenix has denied these accusations, he has not provided sufficient evidence to dispel the doubts. This situation has ignited a discussion about the authenticity of music creation, which could impact public perceptions of AI's role in the music industry."
+          "analysis_zh": "Fenix Flexin最近凭借单曲《Rubberz》在Billboard Hot 100排行榜上取得了第58名的好成绩。然而，这首歌的来源引发了广泛质疑，许多人猜测它可能是由人工智能生成的。尽管Fenix否认了这些指控，但他并没有提供足够的证据来消除这些疑虑。这一事件引发了对音乐创作中人工智能角色的讨论，可能会影响未来音乐产业对AI生成内容的接受度和规范。",
+          "analysis_en": "Fenix Flexin recently achieved solo success with his track \"Rubberz,\" reaching number 58 on the Billboard Hot 100. However, the origins of the song have raised significant questions, with many speculating that it may have been generated by artificial intelligence. Although Fenix has denied these accusations, he has not provided sufficient evidence to dispel the doubts. This situation has sparked discussions about the role of AI in music creation, which could influence the music industry's acceptance and regulation of AI-generated content in the future."
         },
         {
-          "rank": 9,
+          "rank": 10,
           "title": "Spider-Man: Brand New Day leak racks up millions of views",
           "link": "https://theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records",
           "source": "The Verge",
           "published_utc": "2026-08-01 17:00 UTC",
-          "analysis_zh": "《蜘蛛侠：全新一天》的盗版在社交媒体平台X上曝光超过七小时，期间吸引了超过590万个账户观看，并获得了超过14.3万个点赞。尽管该盗版影片在短时间内被删除，但其他账户仍然尝试重新发布，然而都未能长久存活，因为迪士尼迅速采取了下架措施。这一泄露事件虽然引起了广泛关注，但并未对影片的票房表现造成显著影响，该片在预售期间已创下7200万美元的佳绩，打破了之前由《复仇者联盟：终局之战》保持的记录。未来，《全新一天》有可能挑战《终局之战》的票房成绩，但仍面临不少挑战。",
-          "analysis_en": "A bootleg of \"Spider-Man: Brand New Day\" was available on the social media platform X for over seven hours, reaching more than 5.9 million accounts and accumulating over 143,000 likes before it was taken down. Other accounts attempted to repost the leaked film, but none lasted long as Disney quickly issued takedown requests. While the leak garnered significant attention, it has not noticeably impacted the film's box office performance, which has already grossed $72 million in previews, breaking the previous record held by \"Avengers: Endgame.\" Looking ahead, \"Brand New Day\" could potentially challenge \"Endgame\" for box office supremacy, though it faces considerable hurdles."
-        },
-        {
-          "rank": 10,
-          "title": "Trump blames Tim Walz for water hacks even though it’s probably Iran",
-          "link": "https://theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran",
-          "source": "The Verge",
-          "published_utc": "2026-08-01 15:23 UTC",
-          "analysis_zh": "美国联邦调查局（FBI）、环境保护署（EPA）和网络安全基础设施安全局（CISA）尚未正式指责伊朗对明尼苏达州水系统的网络攻击负责，但普遍认为这些攻击很可能与伊朗有关。尽管如此，特朗普却将责任归咎于明尼苏达州州长蒂姆·沃尔兹，并声称“我认为没有伊朗的网络攻击”。这一言论在FBI警告美国基础设施网络攻击正在蔓延至其他州后发表。此事件不仅凸显了网络安全的脆弱性，也可能影响美国政府对伊朗的政策和公众对网络安全的关注。",
-          "analysis_en": "The FBI, the EPA, and the Cybersecurity and Infrastructure Security Agency (CISA) have not officially blamed Iran for the cyberattacks on Minnesota's water systems, but there is a general consensus that Iran is likely responsible. Despite this, Donald Trump has pointed fingers at Minnesota Governor Tim Walz, claiming, \"I don’t think there was an Iranian cyberattack.\" His comments came shortly after the FBI warned that cyberattacks on American infrastructure were spreading to other states. This incident highlights the vulnerabilities in cybersecurity and may influence U.S. government policies toward Iran as well as public awareness of cybersecurity issues."
+          "analysis_zh": "《蜘蛛侠：全新一天》的泄露视频在社交平台X上存在了超过七个小时，期间吸引了超过590万个账户观看，并获得了超过14.3万个点赞。尽管有其他账户重新发布了这一泄露影片，但由于迪士尼迅速采取了下架措施，这些视频的存活时间都很短。尽管泄露事件引发了广泛关注，但预计不会对影片的票房造成实质性影响，因为《全新一天》已经在预映中创下7200万美元的佳绩，打破了之前《复仇者联盟：终局之战》的记录。这一事件可能会影响未来电影的泄露管理和版权保护措施。",
+          "analysis_en": "A bootleg of \"Spider-Man: Brand New Day\" was available on platform X for over seven hours, garnering more than 5.9 million views and over 143,000 likes. While other accounts attempted to repost the leaked film, Disney quickly moved to take them down, limiting their duration online. Despite the leak generating significant attention, it is unlikely to impact the film's box office performance, as it has already raked in $72 million during previews, breaking the previous record held by \"Avengers: Endgame.\" This incident may influence how future films manage leaks and enforce copyright protections."
         }
       ]
     },
@@ -276,30 +276,30 @@
       "items": [
         {
           "rank": 1,
+          "title": "Is Chess a Form of Art?",
+          "link": "https://nytimes.com/video/arts/100000011045309/is-chess-a-form-of-art.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-08-02 14:47 UTC",
+          "analysis_zh": "在马尔塞尔·杜尚139岁生日庆祝活动上，艺术评论家黛博拉·所罗门与其他49名棋手一起挑战国际象棋大师，探讨国际象棋作为一种艺术形式。这一活动在现代艺术博物馆（MoMA）举行，旨在引发人们对国际象棋的艺术价值的思考。通过将国际象棋与艺术相结合，活动不仅展示了棋局的美学，还可能改变人们对游戏的传统看法，促进更广泛的艺术与游戏之间的对话。",
+          "analysis_en": "On the occasion of Marcel Duchamp's 139th birthday, art critic Deborah Solomon joined 49 other players to challenge a chess grandmaster, exploring chess as an art form. This event took place at the Museum of Modern Art (MoMA) and aimed to provoke thought about the artistic value of chess. By merging chess with art, the event not only showcased the aesthetics of the game but may also alter traditional perceptions of it, fostering a broader dialogue between art and games."
+        },
+        {
+          "rank": 2,
           "title": "Acoustics shape design of copper-clad concert hall in Evian",
           "link": "https://dezeen.com/2026/08/02/pca-stream-la-source-vive",
           "source": "Dezeen",
           "published_utc": "2026-08-02 10:00 UTC",
-          "analysis_zh": "法国设计工作室PCA-Stream完成了位于埃维昂的La Source Vive音乐厅，这座圆顶的铜外壳音乐厅被设计成“一个乐器”。它坐落在俯瞰日内瓦湖的斜坡林地中，拥有490个座位，专为室内音乐而建，毗邻1993年由帕特里克·布歇恩设计的La Grange au Lac音乐厅。这一设计不仅提升了音响效果，也为当地文化生活增添了新的活力，预计将吸引更多音乐爱好者和游客前来体验。",
-          "analysis_en": "French studio PCA-Stream has completed La Source Vive, a domed concert hall clad in copper, designed to function as a \"musical instrument.\" Nestled in a sloping woodland overlooking Lake Geneva, this 490-seat chamber music hall is adjacent to the existing La Grange au Lac concert hall designed by Patrick Bouchain in 1993. This design enhances the acoustic experience and is expected to invigorate the local cultural scene, attracting more music enthusiasts and tourists to the area."
+          "analysis_zh": "法国设计工作室PCA-Stream完成了位于埃维昂的La Source Vive音乐厅，这是一座以铜外壳覆盖的穹顶建筑，旨在作为“音乐乐器”来设计。该音乐厅坐落在俯瞰日内瓦湖的森林斜坡上，拥有490个座位，专为室内音乐演出而建，毗邻1993年由帕特里克·布歇恩设计的La Grange au Lac音乐厅。这一设计不仅提升了音响效果，也为当地文化活动提供了新的场所，可能会吸引更多游客和音乐爱好者。",
+          "analysis_en": "French studio PCA-Stream has completed La Source Vive, a domed concert hall clad in copper, designed to function as a \"musical instrument.\" Located on a sloping woodland site overlooking Lake Geneva, the 490-seat chamber music hall is adjacent to the existing La Grange au Lac concert hall, built in 1993 by Patrick Bouchain. This design enhances acoustic performance and provides a new venue for cultural events, potentially attracting more visitors and music enthusiasts to the area."
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "Morgan Freeman Interview: On “Lioness” and His Iconic Voice",
           "link": "https://nytimes.com/2026/08/02/arts/television/morgan-freeman-interview-lioness.html",
           "source": "NYT > Arts",
           "published_utc": "2026-08-02 09:01 UTC",
-          "analysis_zh": "摩根·弗里曼在接受采访时谈到了他在《狮女》中回归的第三季，并表示他对自己声音的热议感到困惑。这位89岁的演员以其独特的嗓音而闻名，但他似乎并不理解人们为何如此关注这一点。这一采访不仅让人们重新审视弗里曼的演艺生涯，也引发了对声音在表演艺术中重要性的讨论。弗里曼的声音和表演风格可能会继续影响新一代演员和观众。",
-          "analysis_en": "In a recent interview, Morgan Freeman discussed his return for the third season of \"Lioness\" and expressed confusion over the attention his voice receives. The 89-year-old actor is renowned for his distinctive voice, yet he seems puzzled by the fascination surrounding it. This interview not only prompts a reevaluation of Freeman's illustrious career but also sparks a conversation about the significance of voice in the performing arts. Freeman's voice and acting style may continue to influence a new generation of actors and audiences."
-        },
-        {
-          "rank": 3,
-          "title": "Is Chess a Form of Art?",
-          "link": "https://nytimes.com/video/arts/100000011045309/is-chess-a-form-of-art.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-08-02 09:00 UTC",
-          "analysis_zh": "在现代艺术的背景下，国际象棋被重新审视为一种艺术形式。为了庆祝马塞尔·杜尚的139岁生日，艺术评论家黛博拉·所罗门与其他49名棋手共同挑战了一位国际象棋大师。这一活动不仅突显了国际象棋的策略与美学，还引发了人们对艺术与游戏之间关系的思考。这种跨界的探索可能会影响人们对艺术定义的理解，促进更广泛的艺术形式的接受。",
-          "analysis_en": "In the context of modern art, chess is being re-evaluated as a form of artistic expression. To celebrate Marcel Duchamp's 139th birthday, art critic Deborah Solomon joined 49 other players in a challenge against a chess grandmaster. This event not only highlighted the strategy and aesthetics of chess but also sparked discussions about the relationship between art and games. Such cross-disciplinary explorations may influence how people define art, encouraging a broader acceptance of various art forms."
+          "analysis_zh": "著名演员摩根·弗里曼在接受采访时谈到了他在《狮子女》第三季中的回归。他表示，尽管自己已经89岁，但仍然不明白人们为何如此关注他的声音。这一现象不仅反映了弗里曼声音的独特魅力，也突显了他在影视界的持久影响力。随着新一季的推出，观众们对他的表现和声音的期待将进一步提升，这可能会影响该剧的收视率和讨论热度。",
+          "analysis_en": "In a recent interview, renowned actor Morgan Freeman discussed his return for the third season of \"Lioness.\" At 89 years old, he expressed confusion over the fascination people have with his voice. This phenomenon highlights not only the unique charm of Freeman's voice but also his lasting influence in the film industry. As the new season premieres, audience anticipation for his performance and voice may further boost the show's ratings and discussions."
         },
         {
           "rank": 4,
@@ -307,8 +307,8 @@
           "link": "https://dezeen.com/2026/08/02/dezeens-favourite-furniture-lighting-july",
           "source": "Dezeen",
           "published_utc": "2026-08-02 09:00 UTC",
-          "analysis_zh": "在七月份的家具和照明设计中，Dezeen的设计团队发现了一些引人注目的作品，包括一款只需一个六角扳手即可组装的平板衣柜和一款由贝壳制成的混凝土长椅。这些设计不仅展示了创新的功能性，还体现了美学与实用性的结合。这样的设计趋势可能会影响未来家具的生产方式，鼓励更多设计师关注可持续性和易用性。",
-          "analysis_en": "In July's roundup of furniture and lighting, Dezeen's design team highlighted several notable pieces, including a flat-pack wardrobe that can be assembled with just one Allen key and a concrete bench made from clam shells. These designs showcase a blend of innovative functionality and aesthetic appeal. This trend may influence future furniture production, encouraging more designers to focus on sustainability and ease of use."
+          "analysis_zh": "在七月份的家具和照明设计中，Dezeen团队发现了一款只需一个六角扳手就能组装的平板衣柜，以及一款由贝壳制成的混凝土长椅。这些设计不仅展示了创新的组装方式，还突显了可持续材料的使用。这样的设计不仅吸引了消费者的注意，也可能影响未来家具设计的方向，鼓励更多品牌关注环保和实用性。",
+          "analysis_en": "In July's roundup of furniture and lighting, Dezeen's design team highlighted a flat-pack wardrobe that can be assembled with just one Allen key and a concrete bench made from clam shells. These designs showcase innovative assembly methods and emphasize the use of sustainable materials. Such creations not only capture consumer interest but may also influence the direction of future furniture design, encouraging more brands to focus on eco-friendliness and practicality."
         },
         {
           "rank": 5,
@@ -316,8 +316,8 @@
           "link": "https://designboom.com/design/designboom-shop-drop-august-2026-limited-release-watches-architectural-jewelry",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-08-02 07:45 UTC",
-          "analysis_zh": "designboom最近推出了一系列限量版手表和建筑珠宝。这些产品将时间与结构相结合，展现了独特的美学价值。此次发布不仅吸引了设计爱好者的关注，也可能对手表和珠宝市场产生影响，推动设计与功能的融合。限量发售的性质也使得这些产品更具收藏价值，吸引了更多消费者的兴趣。",
-          "analysis_en": "designboom has recently launched a limited release of watches and architectural jewelry. These products combine the concepts of time and structure, showcasing unique aesthetic values. This release not only captures the attention of design enthusiasts but may also impact the watch and jewelry markets by promoting a blend of design and functionality. The limited nature of these items adds to their collectible value, drawing more interest from consumers."
+          "analysis_zh": "designboom最近推出了一系列限量版手表和建筑风格的珠宝。这一发布结合了时间与结构的美学，吸引了设计爱好者的关注。限量产品的发布不仅展示了设计boom在艺术与实用之间的独特视角，也可能影响到未来设计趋势的走向。消费者对这种创新设计的反响，将为相关品牌的市场策略提供重要参考。",
+          "analysis_en": "designboom has recently launched a limited release of watches and architectural jewelry. This drop merges the aesthetics of time and structure, capturing the attention of design enthusiasts. The release not only showcases designboom's unique perspective on the intersection of art and utility but may also influence future design trends. Consumer reactions to these innovative designs will provide valuable insights for brands' market strategies."
         },
         {
           "rank": 6,
@@ -325,8 +325,8 @@
           "link": "https://dezeen.com/2026/08/02/meld-skincare-dispenser-mix-own-formulas",
           "source": "Dezeen",
           "published_utc": "2026-08-02 05:00 UTC",
-          "analysis_zh": "英国设计师贝丝·摩根·伦迪（Beth Morgan Lundie）开发了一款可重复填充的护肤分配器，用户可以在家中混合不同成分，制作出个性化的护肤配方，从而避免使用有害添加剂。这一创新产品不仅体现了可持续发展的理念，还为消费者提供了更多的选择和控制权。Meld系统是摩根·伦迪在伦敦中央圣马丁艺术与设计学院的毕业项目，获得了PriestmanGoode新星奖。这一设计可能会影响护肤品行业，推动更多品牌关注环保和个性化需求。",
-          "analysis_en": "British designer Beth Morgan Lundie has created a refillable skincare dispenser that allows users to mix various ingredients at home to create personalized formulas, thereby avoiding toxic additives. This innovative product reflects a commitment to sustainability and gives consumers greater choice and control over their skincare. The Meld system was Morgan Lundie's graduation project from Central Saint Martins in London and won her the PriestmanGoode Rising Star Award. This design could influence the skincare industry by encouraging more brands to focus on environmental concerns and personalized consumer needs."
+          "analysis_zh": "英国设计师贝丝·摩根·伦迪（Beth Morgan Lundie）开发了一款可重复填充的护肤品分配器，用户可以在家中混合不同成分，创造出个性化的配方，从而避免使用有害添加剂。这一创新产品不仅是她在伦敦中央圣马丁艺术与设计学院的毕业项目，还为她赢得了PriestmanGoode新星奖。这一设计的推出，反映了消费者对天然护肤品的需求日益增长，可能会推动护肤行业向更环保和个性化的方向发展。",
+          "analysis_en": "British designer Beth Morgan Lundie has created a refillable skincare dispenser that allows users to mix various ingredients at home, enabling them to create personalized formulas while avoiding toxic additives. This innovative product was her graduation project from Central Saint Martins in London and earned her the PriestmanGoode Rising Star Award. The launch of this design highlights the growing consumer demand for natural skincare products and may drive the industry towards more sustainable and personalized solutions."
         },
         {
           "rank": 7,
@@ -334,8 +334,8 @@
           "link": "https://nytimes.com/2026/08/02/arts/death-of-a-salesman.html",
           "source": "NYT > Arts",
           "published_utc": "2026-08-02 04:01 UTC",
-          "analysis_zh": "最近，百老汇的经典剧作《推销员之死》迎来了新的演出版本，这一版本以其独特的黑暗风格而引人注目。在这部剧中，主角威利·洛曼的雪佛兰汽车被赋予了重要的象征意义，成为了剧中一个强有力的角色。这种创新的演绎方式不仅为观众提供了新的视角，也引发了对剧本深层主题的重新思考。这一变化可能会影响未来的剧作创作，鼓励更多的艺术家在经典作品中加入个人的解读。",
-          "analysis_en": "Recently, a new production of the classic Broadway play \"Death of a Salesman\" has premiered, notable for its distinctive dark style. In this version, Willy Loman's Chevrolet is given significant symbolic weight, becoming a powerful character in its own right. This innovative interpretation not only offers audiences a fresh perspective but also prompts a reevaluation of the play's deeper themes. Such changes may influence future theatrical productions, encouraging artists to incorporate their personal interpretations into classic works."
+          "analysis_zh": "最新的百老汇制作《推销员之死》引起了广泛关注，因为它在表现上增添了许多黑暗元素。威利·洛曼的雪佛兰汽车在这部剧中被赋予了重要的角色，成为了故事中的一个强有力的象征。这种独特的演绎方式不仅让观众重新审视经典剧作，也引发了对现代社会中人们追求成功与失败的深刻思考。这部剧的成功可能会影响未来的舞台制作，鼓励更多的创作者探索传统作品的新解读。",
+          "analysis_en": "The latest Broadway production of \"Death of a Salesman\" has garnered significant attention for its incorporation of darker elements. Willy Loman's Chevrolet is given a powerful role in this rendition, serving as a strong symbol within the narrative. This unique interpretation not only prompts audiences to reevaluate the classic play but also sparks a deeper reflection on the modern pursuit of success and failure. The success of this production may influence future stage adaptations, encouraging more creators to explore new interpretations of traditional works."
         },
         {
           "rank": 8,
@@ -343,8 +343,8 @@
           "link": "https://nytimes.com/2026/08/01/arts/music/vicki-wickham-dead.html",
           "source": "NYT > Arts",
           "published_utc": "2026-08-02 00:41 UTC",
-          "analysis_zh": "维基·威克汉姆（Vicki Wickham）于87岁去世，她在流行音乐界扮演了重要的幕后角色。她曾管理过许多知名艺术家，如拉贝尔（Labelle）和达斯蒂·斯普林菲尔德（Dusty Springfield），并参与了1960年代影响深远的英国电视节目《准备，稳住，走！》。她的离世不仅是音乐界的损失，也意味着对那个时代文化影响力的再一次反思。",
-          "analysis_en": "Vicki Wickham, at the age of 87, passed away, leaving behind a significant legacy in the pop music industry. She managed renowned artists like Labelle and Dusty Springfield and was instrumental in the influential 1960s British TV show \"Ready Steady Go!\" Her death is a loss not only for the music world but also prompts a reflection on the cultural impact of that era."
+          "analysis_zh": "维基·威克汉姆（Vicki Wickham），一位在流行音乐界具有重要影响力的幕后推手，于87岁去世。她曾经管理过著名艺术家如拉贝尔（Labelle）和达斯蒂·斯普林菲尔德（Dusty Springfield），并参与了1960年代英国电视节目《准备，稳住，走！》的制作。她的去世标志着一个时代的结束，影响了无数音乐人的职业生涯。威克汉姆的贡献不仅在于她的艺术管理，还在于她推动了音乐文化的发展，未来可能会激励新一代的音乐制作人和艺术家。",
+          "analysis_en": "Vicki Wickham, a significant behind-the-scenes figure in the pop music industry, passed away at the age of 87. She managed renowned artists such as Labelle and Dusty Springfield and was involved in producing the influential 1960s British TV show \"Ready Steady Go!\" Her death marks the end of an era and has impacted countless musicians' careers. Wickham's contributions extended beyond artist management; she played a vital role in shaping music culture, and her legacy may inspire a new generation of music producers and artists."
         },
         {
           "rank": 9,
@@ -352,8 +352,8 @@
           "link": "https://nytimes.com/2026/08/01/arts/television/vincent-pastore-dead.html",
           "source": "NYT > Arts",
           "published_utc": "2026-08-01 23:58 UTC",
-          "analysis_zh": "演员文森特·帕斯托尔（Vincent Pastore）在80岁时去世，他因在著名的HBO剧集《黑道家族》中饰演萨尔瓦托雷·邦彭西耶罗（Salvatore Bonpensiero）而广受欢迎。这个角色是一名黑帮小喽啰，后来成为了FBI的线人，深受观众喜爱。帕斯托尔的去世不仅让影迷感到惋惜，也让人们回忆起这部经典剧集对美国文化的影响。他的离世可能会引发对该剧及其角色的重新审视，进一步探讨黑帮题材在影视作品中的重要性。",
-          "analysis_en": "Vincent Pastore, the actor best known for his role as Salvatore Bonpensiero on the acclaimed HBO series \"The Sopranos,\" has passed away at the age of 80. His character, a mobster's foot soldier turned FBI informant, was beloved by fans and contributed significantly to the show's legacy. Pastore's death is a loss not only for his fans but also for the cultural impact that \"The Sopranos\" has had on American television. This event may lead to a renewed interest in the series and discussions about the significance of mob-related narratives in film and television."
+          "analysis_zh": "演员文森特·帕斯托雷（Vincent Pastore）于80岁去世，他因在著名的HBO剧集《黑道家族》中饰演萨尔瓦托雷·邦彭西耶罗（Salvatore Bonpensiero）而闻名。这个角色是一个从黑帮小兵转变为F.B.I.线人的人物，深受观众喜爱。帕斯托雷的离世不仅让影迷感到惋惜，也让人们重新审视这部剧在美国文化中的重要地位。作为一部经典剧集，《黑道家族》对后来的影视作品产生了深远的影响。",
+          "analysis_en": "Vincent Pastore, the actor best known for his role as Salvatore Bonpensiero in the acclaimed HBO series \"The Sopranos,\" has passed away at the age of 80. His character, a mobster turned F.B.I. informant, was beloved by fans and contributed significantly to the show's popularity. Pastore's death is a loss for fans and highlights the lasting impact of \"The Sopranos\" on American culture. As a classic series, it has influenced many subsequent television shows and films."
         },
         {
           "rank": 10,
@@ -361,8 +361,8 @@
           "link": "https://designboom.com/design/the-exploratorium-scientific-learning-stems-play",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-08-01 20:35 UTC",
-          "analysis_zh": "旧金山的探索馆通过互动展览将科学、技术、工程和数学（STEM）学习转化为动手实践的乐趣。展馆内的展品吸引了各个年龄段的好奇心，鼓励人们探索世界的运作方式。这一创新的教育方式不仅使学习变得更加生动有趣，还可能激发年轻人对科学的兴趣，促进未来的科学家和工程师的培养。",
-          "analysis_en": "The Exploratorium in San Francisco transforms STEM learning into hands-on play through interactive exhibits. These displays engage curious minds of all ages, encouraging exploration of how the world works. This innovative approach to education not only makes learning more engaging but may also inspire young people’s interest in science, fostering the development of future scientists and engineers."
+          "analysis_zh": "旧金山的探索馆通过互动展览将STEM（科学、技术、工程和数学）学习转变为动手实践的游戏体验。展馆内的展品包括间歇泉、彩色阴影、雾气和DNA等，吸引各个年龄段的好奇心，鼓励他们探索世界的运作方式。这一创新的教育模式不仅提升了公众对科学的兴趣，也可能激发年轻人追求STEM领域的职业生涯，进而推动科技和创新的发展。",
+          "analysis_en": "The Exploratorium in San Francisco has transformed STEM learning into a hands-on play experience through interactive exhibits. Featuring displays like geysers, colored shadows, fog, and DNA, the museum invites curious minds of all ages to explore how the world works. This innovative educational approach not only enhances public interest in science but may also inspire young people to pursue careers in STEM fields, potentially driving advancements in technology and innovation."
         }
       ]
     }
