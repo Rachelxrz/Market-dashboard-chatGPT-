@@ -65,19 +65,28 @@ jobs:
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             MODE="${{ github.event.inputs.run_mode }}"
+            NOTIFY_WECHAT="true"
           else
-            HOUR=$(date -u +%H)
-            MIN=$(date -u +%M)
+            HOUR=$(TZ=America/New_York date +%H)
+            MIN=$(TZ=America/New_York date +%M)
 
-            if [ "$MIN" = "30" ]; then
+            if [ "$MIN" = "37" ]; then
               MODE="close"
             else
               MODE="morning"
             fi
+
+            if [ "$HOUR" = "09" ] && [ "$MIN" = "07" ]; then
+              NOTIFY_WECHAT="true"
+            else
+              NOTIFY_WECHAT="false"
+            fi
           fi
 
           echo "mode=$MODE" >> $GITHUB_OUTPUT
+          echo "notify_wechat=$NOTIFY_WECHAT" >> $GITHUB_OUTPUT
           echo "Resolved run mode: $MODE"
+          echo "Push morning news to WeChat: $NOTIFY_WECHAT"
 
       - name: Generate daily files
         env:
@@ -97,6 +106,7 @@ jobs:
           test -f docs/reading.json
           test ! -f docs/monitor.json
           python scripts/verify_history_retention.py
+          SERVERCHAN_SENDKEY=SCT_DRY_RUN python scripts/push_wechat.py --dry-run
 
       - name: Commit and push generated files
         run: |
@@ -111,3 +121,22 @@ jobs:
             git commit -m "Update daily dashboard (${{ steps.runmode.outputs.mode }})"
             git push
           fi
+
+      - name: Push daily news to WeChat
+        env:
+          SERVERCHAN_SENDKEY: ${{ secrets.SERVERCHAN_SENDKEY }}
+          SHOULD_NOTIFY: ${{ steps.runmode.outputs.notify_wechat }}
+          RUN_MODE: ${{ steps.runmode.outputs.mode }}
+          TZ: America/New_York
+        run: |
+          if [ "$SHOULD_NOTIFY" != "true" ]; then
+            echo "Skipping WeChat push for this run."
+            exit 0
+          fi
+
+          if [ -z "$SERVERCHAN_SENDKEY" ]; then
+            echo "SERVERCHAN_SENDKEY is not configured."
+            exit 1
+          fi
+
+          python scripts/push_wechat.py
