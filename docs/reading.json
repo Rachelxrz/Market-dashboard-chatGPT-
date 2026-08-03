@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03 16:30:29 UTC",
-  "generated_at_unix": 1785774629,
+  "generated_at": "2026-08-03 21:43:42 UTC",
+  "generated_at_unix": 1785793422,
   "window": {
-    "from_utc": "2026-08-02 16:30:29 UTC",
-    "to_utc": "2026-08-03 16:30:29 UTC",
-    "hours": 12,
-    "run_mode": "close"
+    "from_utc": "2026-08-02 21:43:42 UTC",
+    "to_utc": "2026-08-03 21:43:42 UTC",
+    "hours": 24,
+    "run_mode": "morning"
   },
   "sections": {
     "投资": {
@@ -15,145 +15,154 @@
       "items": [
         {
           "rank": 1,
-          "title": "OKLO vs. SMR: comparing two nuclear micro-reactor stocks",
-          "link": "https://investing.com/news/stock-market-news/oklo-vs-smr-comparing-two-nuclear-microreactor-stocks-93CH-4831962",
-          "source": "Stock Market News",
-          "published_utc": "2026-08-03 16:28 UTC",
-          "analysis_zh": "在最近的投资分析中，OKLO和SMR这两家核微反应堆公司的股票被进行了比较。随着全球对清洁能源需求的增加，核能作为一种可持续的能源解决方案，越来越受到关注。这一比较不仅有助于投资者了解市场动态，还可能影响他们的投资决策，尤其是在能源转型的背景下。",
-          "analysis_en": "In a recent investment analysis, the stocks of OKLO and SMR, two nuclear micro-reactor companies, were compared. As the global demand for clean energy rises, nuclear power is gaining attention as a sustainable energy solution. This comparison not only helps investors understand market dynamics but may also influence their investment decisions, especially in the context of the energy transition."
+          "title": "Snap's stock jumps 10% on earnings beat and strong sales forecast",
+          "link": "https://cnbc.com/2026/08/03/snap-q2-earnings-report-2026.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-08-03 21:42 UTC",
+          "analysis_zh": "Snap公司在第二季度的财报中超出了分析师的预期，股价因此上涨了10%。这一财报的亮眼表现不仅反映了Snap在市场上的竞争力，也显示出其销售预测的强劲。这对投资者来说是一个积极信号，可能会吸引更多的资金流入Snap，进一步推动其股价上涨。此外，这也可能影响其他社交媒体公司的股市表现，促使它们采取更积极的市场策略。",
+          "analysis_en": "Snap reported its second-quarter earnings, surpassing analysts' expectations, which led to a 10% jump in its stock price. This strong performance not only highlights Snap's competitiveness in the market but also indicates a robust sales forecast. For investors, this is a positive signal that may attract more capital into Snap, potentially driving its stock price even higher. Additionally, this could influence the stock market performance of other social media companies, prompting them to adopt more aggressive market strategies."
         },
         {
           "rank": 2,
-          "title": "European stock rally resumes after strong July; 5% oil slide cushions data warning",
-          "link": "https://investing.com/news/stock-market-news/european-shares-rise-near-record-highs-as-oil-plunge-and-trumpiran-talks-4829830",
-          "source": "Stock Market News",
-          "published_utc": "2026-08-03 16:27 UTC",
-          "analysis_zh": "欧洲股市在强劲的七月份后重新反弹，尽管油价下滑了5%，但这并未影响市场的积极情绪。这一反弹表明投资者对经济复苏的信心依然强劲，尤其是在全球经济面临不确定性的情况下。油价的下跌可能会减轻通货膨胀压力，从而为市场提供支持。整体来看，这一趋势可能会吸引更多投资者进入市场，进一步推动股市上涨。",
-          "analysis_en": "European stocks have resumed their rally following a strong performance in July, with a 5% drop in oil prices not dampening market optimism. This rebound indicates that investor confidence in economic recovery remains robust, especially amid global uncertainties. The decline in oil prices may alleviate inflationary pressures, providing additional support for the market. Overall, this trend could attract more investors, further driving stock prices upward."
+          "title": "Bitcoin recovers slightly from Coldcard hack losses, gaining marginally above $63k",
+          "link": "https://investing.com/news/cryptocurrency-news/bitcoin-slips-below-63k-as-coldcard-hack-overshadows-usiran-hopes-4829856",
+          "source": "Cryptocurrency News",
+          "published_utc": "2026-08-03 21:34 UTC",
+          "analysis_zh": "比特币在经历了Coldcard黑客攻击的损失后，略微恢复，价格回升至63,000美元以上。这一恢复对市场情绪产生了积极影响，显示出投资者对比特币的信心仍在。尽管面临安全问题，数字货币的吸引力依然存在，可能会吸引更多投资者参与市场。",
+          "analysis_en": "Bitcoin has slightly recovered from the losses incurred during the Coldcard hack, rising back above $63,000. This recovery has positively influenced market sentiment, indicating that investor confidence in Bitcoin remains intact. Despite ongoing security concerns, the appeal of digital currencies continues, which may attract more investors to the market."
         },
         {
           "rank": 3,
-          "title": "European shares start August higher on US-Iran diplomacy hopes",
-          "link": "https://investing.com/news/stock-market-news/european-shares-start-august-higher-on-usiran-diplomacy-hopes-4829927",
-          "source": "Stock Market News",
-          "published_utc": "2026-08-03 16:24 UTC",
-          "analysis_zh": "欧洲股市在八月初因对美伊外交前景的乐观预期而上涨。这一消息表明，国际关系的改善可能会推动市场信心，吸引更多投资者参与。若美伊之间的紧张局势得到缓解，可能会对全球经济产生积极影响，特别是在能源市场和相关行业。",
-          "analysis_en": "European shares started August on a positive note, buoyed by hopes surrounding US-Iran diplomatic efforts. This development indicates that an improvement in international relations could boost market confidence, encouraging more investors to engage. If tensions between the US and Iran ease, it may have a beneficial impact on the global economy, particularly in the energy sector and related industries."
+          "title": "Palantir soars 12% on blowout quarter, with U.S. commercial revenue soaring nearly 150%",
+          "link": "https://cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-08-03 21:34 UTC",
+          "analysis_zh": "Palantir公司在第二季度的财报中表现超出预期，股价上涨了12%。该公司的美国商业收入增长近150%，这表明其在人工智能软件领域的强劲需求。此次业绩的提升不仅增强了投资者的信心，也可能推动更多企业采用Palantir的技术，从而进一步扩大其市场份额。",
+          "analysis_en": "Palantir's stock surged 12% after the company reported second-quarter earnings that exceeded expectations. The company's U.S. commercial revenue soared nearly 150%, indicating strong demand for its AI software solutions. This impressive performance not only boosts investor confidence but may also encourage more businesses to adopt Palantir's technology, potentially expanding its market share further."
         },
         {
           "rank": 4,
-          "title": "White House to host AI companies Tuesday to review new model-testing framework",
-          "link": "https://cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-08-03 16:22 UTC",
-          "analysis_zh": "美国白宫将于周二召开会议，邀请人工智能公司讨论新的模型测试框架。这一举措源于特朗普总统在6月签署的行政命令，要求相关部门制定评估先进人工智能模型网络安全能力的流程。这一框架的建立对于确保AI技术的安全性和可靠性至关重要，可能会影响未来AI技术的开发和应用，尤其是在涉及敏感数据和系统的领域。",
-          "analysis_en": "The White House is set to host a meeting on Tuesday with AI companies to discuss a new model-testing framework. This initiative stems from an executive order signed by President Trump in June, which directed officials to create a process for evaluating the cybersecurity capabilities of advanced AI models. Establishing this framework is crucial for ensuring the safety and reliability of AI technologies, and it may impact the future development and application of AI, particularly in areas involving sensitive data and systems."
+          "title": "As ‘Spider-Man’ joins ‘The Odyssey’ in Imax, are premium movie screens worth the extra price?",
+          "link": "https://marketwatch.com/story/as-spider-man-joins-the-odyssey-in-imax-are-premium-movie-screens-worth-the-extra-price-74304e34",
+          "source": "MarketWatch.com - Top Stories",
+          "published_utc": "2026-08-03 21:33 UTC",
+          "analysis_zh": "最近，随着《蜘蛛侠》与《奥德赛》在IMAX影院上映，关于高端电影放映的讨论再次引发热议。一些影迷认为，付费观看高端放映只是一个噱头，而另一些人则愿意驱车六小时去体验IMAX 70mm的视觉盛宴。这一现象反映了观众对电影体验的重视，也可能影响未来电影制作和放映的趋势。随着高端放映的普及，制片方可能会更加注重视觉效果，以吸引更多观众。",
+          "analysis_en": "Recently, the release of \"Spider-Man\" alongside \"The Odyssey\" in IMAX has sparked renewed debate about premium movie screenings. Some movie fans view the extra cost as a gimmick, while others are willing to drive six hours to experience \"The Odyssey\" in IMAX 70mm. This trend highlights the growing importance of the movie-watching experience for audiences and may influence future filmmaking and screening practices. As premium screenings become more common, filmmakers might focus more on visual effects to attract a larger audience."
         },
         {
           "rank": 5,
-          "title": "Celsius vs Monster: which energy drink stock offers better value now",
-          "link": "https://investing.com/news/stock-market-news/celsius-vs-monster-which-energy-drink-stock-offers-better-value-now-93CH-4831957",
+          "title": "Why is Custom Truck One Source stock up today?",
+          "link": "https://investing.com/news/stock-market-news/why-is-custom-truck-one-source-stock-up-today-93CH-4832417",
           "source": "Stock Market News",
-          "published_utc": "2026-08-03 16:22 UTC",
-          "analysis_zh": "在近期的市场分析中，Celsius和Monster这两家能量饮料公司的股票被拿来比较。分析指出，Celsius的增长潜力和市场份额正在迅速扩大，而Monster则凭借其强大的品牌影响力和稳定的销售表现保持竞争力。这一比较的重要性在于，投资者可以根据各自的财务表现和市场趋势做出更明智的投资决策。未来，这可能会影响到投资者的资金流向以及整个能量饮料行业的竞争格局。",
-          "analysis_en": "In a recent market analysis, the stocks of Celsius and Monster, two energy drink companies, were compared. The analysis highlighted that Celsius is rapidly expanding its growth potential and market share, while Monster maintains its competitiveness through strong brand influence and stable sales performance. This comparison is significant as it allows investors to make more informed decisions based on each company's financial performance and market trends. In the future, this could influence investor capital flows and the competitive landscape of the entire energy drink industry."
+          "published_utc": "2026-08-03 21:27 UTC",
+          "analysis_zh": "今天，Custom Truck One Source的股票价格上涨，主要是由于市场对该公司的未来增长潜力的乐观预期。投资者对其新产品线和扩展计划表示关注，这可能会推动公司的收入增长。这一上涨趋势不仅反映了市场对该公司的信心，也可能吸引更多投资者的关注，从而进一步推动股价上涨。",
+          "analysis_en": "Today, Custom Truck One Source's stock price has risen, primarily due to optimistic expectations regarding the company's future growth potential. Investors are particularly interested in its new product lines and expansion plans, which could drive revenue growth. This upward trend not only reflects market confidence in the company but may also attract more investors' attention, further boosting the stock price."
         },
         {
           "rank": 6,
-          "title": "Senate appears ready to advance Todd Blanche for attorney general after Cornyn strikes deal",
-          "link": "https://cnbc.com/2026/08/03/todd-blanche-doj-ag-senate-cornyn.html",
-          "source": "US Top News and Analysis",
-          "published_utc": "2026-08-03 16:21 UTC",
-          "analysis_zh": "美国参议院似乎准备推进对托德·布兰奇的任命，作为新任检察长的候选人。这一进展的重要性在于，布兰奇的任命可能会影响特朗普及其法律团队在法庭上的抗辩策略，尤其是在与司法命令相关的案件中。若布兰奇成功上任，可能会改变当前的法律环境，从而影响特朗普的法律事务及其未来的政治生涯。",
-          "analysis_en": "The U.S. Senate appears ready to advance Todd Blanche's nomination as the new attorney general. This development is significant because Blanche's appointment could influence Trump's legal team's defense strategies in court, particularly regarding cases related to judicial orders. If Blanche is confirmed, it may alter the current legal landscape, potentially impacting Trump's legal issues and his future political career."
+          "title": "Colombia stocks lower at close of trade; COLCAP down 0.31%",
+          "link": "https://investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-031-4832412",
+          "source": "Stock Market News",
+          "published_utc": "2026-08-03 21:25 UTC",
+          "analysis_zh": "哥伦比亚股市在交易结束时出现下跌，COLCAP指数下跌了0.31%。这一变化反映了市场对经济前景的不确定性，可能会影响投资者的信心和未来的投资决策。随着全球经济形势的变化，哥伦比亚的股市波动可能会对国内外投资者的策略产生影响。",
+          "analysis_en": "Colombia's stock market closed lower, with the COLCAP index down by 0.31%. This decline reflects uncertainty regarding the economic outlook, which may affect investor confidence and future investment decisions. As global economic conditions fluctuate, the volatility in Colombia's stock market could influence the strategies of both domestic and foreign investors."
         },
         {
           "rank": 7,
-          "title": "AstraZeneca investors balk at prospect of $400 billion Bristol Myers pharma deal",
-          "link": "https://investing.com/news/stock-market-news/astrazeneca-investors-baulk-at-400-billion-bristol-myers-talks-4830232",
+          "title": "Why is Ameresco stock surging today?",
+          "link": "https://investing.com/news/stock-market-news/why-is-ameresco-stock-surging-today-93CH-4832409",
           "source": "Stock Market News",
-          "published_utc": "2026-08-03 16:18 UTC",
-          "analysis_zh": "阿斯利康的投资者对布里斯托尔-迈尔斯的4000亿美元药品交易前景表示担忧。这笔交易如果达成，将可能重塑制药行业的格局，影响阿斯利康的市场竞争力和未来发展方向。投资者的反对声音可能导致阿斯利康股价波动，并影响其资本运作策略。",
-          "analysis_en": "AstraZeneca investors are expressing concerns about the potential $400 billion deal with Bristol Myers. If this transaction goes through, it could reshape the pharmaceutical industry landscape, affecting AstraZeneca's market competitiveness and future direction. The pushback from investors may lead to fluctuations in AstraZeneca's stock price and impact its capital management strategies."
+          "published_utc": "2026-08-03 21:23 UTC",
+          "analysis_zh": "今天，Ameresco的股票价格大幅上涨，主要是由于公司发布了强劲的财报，超出了市场预期。这一增长不仅反映了公司在可再生能源领域的持续增长潜力，也引发了投资者对其未来发展的乐观情绪。随着全球对可持续发展的关注加剧，Ameresco的成功可能会吸引更多投资者的目光，从而推动整个行业的发展。",
+          "analysis_en": "Today, Ameresco's stock surged significantly, primarily due to the company releasing a strong earnings report that exceeded market expectations. This increase not only reflects the company's ongoing growth potential in the renewable energy sector but also sparks optimistic sentiments among investors regarding its future prospects. As global attention on sustainability intensifies, Ameresco's success may attract more investors, potentially driving growth across the entire industry."
         },
         {
           "rank": 8,
-          "title": "FTSE 100 today: Stocks edge lower despite positive day for European stocks",
-          "link": "https://investing.com/news/stock-market-news/ftse-100-today-stocks-volatile-as-oil-slump-drags-energy-sharesastrazeneca-falls-4829923",
+          "title": "Russia stocks higher at close of trade; MOEX Russia Index up 1.60%",
+          "link": "https://investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-160-4832405",
           "source": "Stock Market News",
-          "published_utc": "2026-08-03 16:12 UTC",
-          "analysis_zh": "今天，FTSE 100指数小幅下跌，尽管欧洲股市整体表现积极。这一走势引发了市场的关注，因为投资者对未来经济形势的预期仍然不明朗。尽管其他欧洲市场上涨，但英国股市的疲软可能会影响投资者的信心，并导致资金流出。分析人士认为，这种情况可能会对英国经济复苏产生负面影响。",
-          "analysis_en": "Today, the FTSE 100 index edged lower, despite a generally positive day for European stocks. This movement has caught the attention of the market, as investors remain uncertain about future economic conditions. While other European markets saw gains, the weakness in the UK stock market could undermine investor confidence and lead to capital outflows. Analysts suggest that this situation may negatively impact the recovery of the UK economy."
+          "published_utc": "2026-08-03 21:20 UTC",
+          "analysis_zh": "俄罗斯股市在交易结束时上涨，MOEX俄罗斯指数上涨了1.60%。这一涨幅反映了市场对经济复苏的乐观情绪，尤其是在能源价格回升的背景下。投资者对俄罗斯经济的前景感到更加积极，这可能会吸引更多外资流入，进一步推动市场发展。",
+          "analysis_en": "Russian stocks closed higher, with the MOEX Russia Index rising by 1.60%. This increase reflects a growing optimism in the market regarding economic recovery, particularly amid rising energy prices. Investors are becoming more positive about the prospects of the Russian economy, which may attract more foreign investment and further drive market growth."
         },
         {
           "rank": 9,
-          "title": "Goldman Sachs vs. Morgan Stanley: margins, returns, and valuation compared",
-          "link": "https://investing.com/news/stock-market-news/goldman-sachs-vs-morgan-stanley-margins-returns-and-valuation-compared-93CH-4831946",
+          "title": "Danaher shareholders applaud new CEO pick",
+          "link": "https://investing.com/news/stock-market-news/danaher-shareholders-applaud-new-ceo-pick-93CH-4832404",
           "source": "Stock Market News",
-          "published_utc": "2026-08-03 16:11 UTC",
-          "analysis_zh": "高盛与摩根士丹利在利润率、回报率和估值方面进行了比较。这一分析揭示了两家金融巨头在当前市场环境中的表现差异。了解这些差异对于投资者来说至关重要，因为它们可能影响投资决策和市场趋势。随着经济形势的变化，投资者需要关注这些公司的财务健康状况，以便做出明智的投资选择。",
-          "analysis_en": "Goldman Sachs and Morgan Stanley have been compared in terms of margins, returns, and valuations. This analysis highlights the performance differences between the two financial giants in the current market environment. Understanding these differences is crucial for investors, as they may influence investment decisions and market trends. As economic conditions evolve, investors need to pay attention to the financial health of these companies to make informed investment choices."
+          "published_utc": "2026-08-03 21:19 UTC",
+          "analysis_zh": "丹纳赫公司的股东对新任首席执行官的任命表示赞赏。这一决定被认为是公司未来发展的重要一步，可能会带来新的战略方向和管理风格。新CEO的领导下，丹纳赫有望进一步提升其市场竞争力，吸引更多投资者的关注。",
+          "analysis_en": "Danaher shareholders have expressed their approval of the new CEO appointment. This decision is seen as a significant step for the company's future, potentially bringing new strategic directions and management styles. Under the new CEO's leadership, Danaher is expected to enhance its market competitiveness and attract more investor interest."
         },
         {
           "rank": 10,
-          "title": "AWS sees record growth driven by AI demand as capacity sells out through 2028",
-          "link": "https://investing.com/news/stock-market-news/aws-sees-record-growth-driven-by-ai-demand-as-capacity-sells-out-through-2028-4831943",
+          "title": "Best Buy appoints industry veteran as new CFO",
+          "link": "https://investing.com/news/stock-market-news/best-buy-appoints-industry-veteranas-new-cfo-4832402",
           "source": "Stock Market News",
-          "published_utc": "2026-08-03 16:09 UTC",
-          "analysis_zh": "亚马逊网络服务（AWS）因人工智能需求激增而实现了创纪录的增长，预计其产能将持续售罄至2028年。这一现象表明，AI技术的快速发展正在推动云计算市场的扩张。AWS的成功不仅巩固了其在行业中的领导地位，还可能影响其他云服务提供商的竞争策略，促使他们加大对AI相关服务的投资。",
-          "analysis_en": "Amazon Web Services (AWS) has achieved record growth driven by a surge in demand for artificial intelligence, with its capacity expected to sell out through 2028. This trend highlights the rapid advancement of AI technology, which is expanding the cloud computing market. AWS's success not only solidifies its leadership position in the industry but may also influence the competitive strategies of other cloud service providers, prompting them to increase investments in AI-related services."
+          "published_utc": "2026-08-03 21:18 UTC",
+          "analysis_zh": "百思买（Best Buy）近日任命了一位行业资深人士担任新的首席财务官（CFO）。这一任命标志着公司在财务管理方面的战略调整，旨在提升其市场竞争力。新任CFO的丰富经验可能会帮助百思买更好地应对当前零售环境的挑战，并推动公司的长期增长。",
+          "analysis_en": "Best Buy has recently appointed an industry veteran as its new Chief Financial Officer (CFO). This appointment signifies a strategic shift in the company's financial management aimed at enhancing its market competitiveness. The new CFO's extensive experience may help Best Buy better navigate the challenges of the current retail environment and drive long-term growth for the company."
         }
       ]
     },
     "健康": {
       "description": "医学、营养、抗衰老、代谢与公共健康",
-      "count": 5,
+      "count": 6,
       "duplicates_filtered": 0,
       "items": [
         {
           "rank": 1,
+          "title": "Self-Help Influencer Nicole LePera Faces Litigation",
+          "link": "https://nytimes.com/2026/08/02/style/nicole-lepera-self-help-litigation-holistic-psychologist.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-08-03 17:11 UTC",
+          "analysis_zh": "自助影响者妮可·勒佩拉（Nicole LePera）因其提供的心理健康建议而受到广泛关注，但她的个人经历却相当复杂。最近，她面临法律诉讼，这引发了公众对其专业性和建议有效性的质疑。这一事件不仅可能影响她的声誉，还可能对追随者的信任度产生负面影响，进而影响她的事业发展。对于依赖她指导的人们来说，这一诉讼可能会让他们重新考虑她的建议是否值得采纳。",
+          "analysis_en": "Self-help influencer Nicole LePera, known for her advice on mental well-being and healthy relationships, is currently facing litigation, which complicates her personal narrative. This situation raises questions about her credibility and the effectiveness of her guidance. The outcome of this lawsuit could significantly impact her reputation and erode the trust of her followers, potentially affecting her career. For those who rely on her advice, this legal challenge may lead them to reconsider the validity of her recommendations."
+        },
+        {
+          "rank": 2,
           "title": "Russian Strike Destroyed Millions of H.I.V. Prevention Supplies in Ukraine",
           "link": "https://nytimes.com/2026/08/03/health/ukraine-war-hiv-aids.html",
           "source": "NYT > Health",
           "published_utc": "2026-08-03 14:24 UTC",
-          "analysis_zh": "俄罗斯的空袭摧毁了乌克兰数百万份艾滋病毒预防物资。虽然药物没有受到影响，但如果不及时采购新的预防物品，援助组织担心明年新感染人数将激增。这一事件凸显了战争对公共卫生的深远影响，尤其是在疫情和医疗资源本就紧张的情况下。预防物资的缺乏可能导致更多人面临感染风险，进一步加重乌克兰的卫生危机。",
-          "analysis_en": "A Russian strike has destroyed millions of H.I.V. prevention supplies in Ukraine. While medications were not affected, aid groups are concerned that without the procurement of new prevention items, there could be a surge in new infections next year. This incident highlights the profound impact of war on public health, especially in a context where the pandemic and medical resources are already strained. The lack of prevention supplies may put more individuals at risk of infection, exacerbating the health crisis in Ukraine."
+          "analysis_zh": "最近，俄罗斯的空袭摧毁了乌克兰数百万份艾滋病病毒（H.I.V.）预防物资。尽管药物没有受到影响，但如果无法及时采购新的预防物品，援助组织担心明年新感染人数将激增。这一事件凸显了战争对公共卫生的严重影响，尤其是在疫情脆弱的地区。缺乏预防物资可能导致艾滋病传播的风险增加，给乌克兰的医疗系统带来更大的压力。",
+          "analysis_en": "Recently, a Russian strike destroyed millions of H.I.V. prevention supplies in Ukraine. While medications were not affected, aid groups are concerned that without new prevention items, there could be a surge in new infections next year. This incident highlights the severe impact of war on public health, especially in vulnerable regions. The lack of prevention supplies may increase the risk of H.I.V. transmission, putting additional strain on Ukraine's healthcare system."
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "A simple supplement could help the immune system fight cancer and viruses",
           "link": "https://sciencedaily.com/releases/2026/08/260802223417.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-08-03 13:38 UTC",
-          "analysis_zh": "一项新的研究发现，氨基酸精氨酸的缺乏可能会削弱免疫系统，使癌细胞和病毒更容易逃避免疫监测。研究表明，富含精氨酸的饮食可以减少小鼠的结肠肿瘤数量和病毒感染的严重程度。这一发现具有重要意义，因为它暗示通过简单的补充剂来提高精氨酸水平，可能会增强免疫反应，从而为癌症和病毒感染的治疗提供新的可能性。未来，这种补充剂可能与其他疗法结合使用，帮助高风险人群抵御病毒。",
-          "analysis_en": "A new study has found that low levels of the amino acid arginine may weaken the immune system, allowing cancer cells and viruses to evade detection. The research indicates that diets rich in arginine led to fewer colon tumors and milder viral infections in mice. This finding is significant as it suggests that increasing arginine levels through simple supplements could enhance immune responses, potentially offering new treatment avenues for cancer and viral infections. In the future, such supplements might be used in combination with other therapies to help high-risk populations combat viral pathogens."
+          "analysis_zh": "研究发现，低水平的精氨酸可能使癌细胞和病毒逃避免疫系统的监测，从而减少关键细胞警报蛋白的产生。在小鼠实验中，富含精氨酸的饮食导致结肠肿瘤数量减少和病毒感染症状减轻。这一发现表明，简单的补充剂可能具有强大的治疗潜力。提升精氨酸的摄入量可能有助于增强免疫系统的功能，并为癌症和病毒感染的治疗提供新的思路。",
+          "analysis_en": "Research has found that low levels of arginine may allow cancer cells and viruses to evade detection by the immune system, reducing the production of a crucial cellular warning protein. In experiments with mice, diets rich in arginine resulted in fewer colon tumors and milder viral infections. This suggests that a simple supplement could have significant therapeutic potential. Increasing arginine intake may help enhance immune system function and offer new approaches to treating cancer and viral infections."
         },
         {
-          "rank": 3,
+          "rank": 4,
           "title": "Scientists may have found aging’s hidden trigger for brain disease",
           "link": "https://sciencedaily.com/releases/2026/08/260802223433.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-08-03 11:17 UTC",
-          "analysis_zh": "科学家们发现了一种可能导致大脑疾病的衰老触发因素。研究表明，随着年龄的增长，蛋白质EPS8在小蠕虫体内积累，激活信号通路，促使有毒蛋白质聚集，从而损害神经元并缩短寿命。这一发现对于理解衰老与神经退行性疾病之间的关系至关重要，可能为治疗如肌萎缩侧索硬化症（ALS）和亨廷顿病等疾病提供新的思路。",
-          "analysis_en": "Scientists have discovered a potential trigger for brain diseases related to aging. Their research indicates that the protein EPS8 accumulates in small worms as they age, activating signaling pathways that encourage toxic protein aggregation, which damages neurons and shortens lifespan. This finding is crucial for understanding the link between aging and neurodegenerative diseases, and it may offer new avenues for treating conditions such as amyotrophic lateral sclerosis (ALS) and Huntington's disease."
+          "analysis_zh": "科学家们发现了一种分子开关，可能解释了为什么衰老使大脑更容易受到如肌萎缩侧索硬化症（ALS）和亨廷顿病等疾病的影响。在小蠕虫中，随着年龄增长，EPS8蛋白的积累会触发信号，促使有毒蛋白聚集，从而损害神经元并缩短寿命。降低EPS8的活性可以防止这些有害聚集物的形成，保护神经功能。这一发现不仅有助于理解衰老与神经退行性疾病之间的关系，也可能为未来的治疗方法提供新的思路。",
+          "analysis_en": "Scientists have identified a molecular switch that may explain why aging makes the brain more susceptible to diseases like amyotrophic lateral sclerosis (ALS) and Huntington's disease. In their studies with small worms, they found that the accumulation of the protein EPS8 with age triggers signals that promote the clumping of toxic proteins, damaging neurons and reducing lifespan. By reducing the activity of EPS8, the harmful aggregates were prevented, and nerve function was preserved. This discovery not only enhances our understanding of the link between aging and neurodegenerative diseases but may also pave the way for new treatment strategies in the future."
         },
         {
-          "rank": 4,
+          "rank": 5,
           "title": "Two new compounds could reveal hidden drivers of Alzheimer’s disease",
           "link": "https://sciencedaily.com/releases/2026/08/260802223437.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-08-03 10:20 UTC",
-          "analysis_zh": "范德堡大学的研究人员开发了首个选择性抑制TAOK-1的化合物，这是一种与阿尔茨海默病相关但尚未被充分理解的蛋白质。此外，他们还发现了第二种化合物，可以激活整个TAOK蛋白家族，为科学家们提供了一个意想不到的新研究工具。这些化合物的结合有望揭示潜在的疾病机制，并指向新的治疗策略。这项研究的重要性在于，阿尔茨海默病是导致痴呆的主要原因，目前尚无治愈方法，而新发现可能为治疗提供新的方向。",
-          "analysis_en": "Researchers at Vanderbilt University have developed the first selective compound designed to inhibit TAOK-1, a protein linked to Alzheimer's disease that is not well understood. They also discovered a second compound that activates the entire TAOK protein family, providing scientists with an unexpected new research tool. The combination of these compounds could help uncover hidden disease mechanisms and suggest new treatment strategies. This research is significant because Alzheimer's disease is the leading cause of dementia, and currently, there is no cure, making these findings potentially pivotal for future therapies."
+          "analysis_zh": "范德堡大学的研究人员开发了首个选择性抑制TAOK-1的化合物，这是一种与阿尔茨海默病相关但尚未被充分理解的蛋白质。此外，他们还发现了第二种化合物，可以激活整个TAOK蛋白家族，为科学家提供了一个意想不到的新研究工具。这些化合物的结合可能揭示出隐藏的疾病机制，并指向新的治疗策略。此项研究对于阿尔茨海默病的治疗具有重要意义，因为目前的治疗方法大多只能缓解症状，无法治愈该病。",
+          "analysis_en": "Researchers at Vanderbilt University have developed the first selective compound designed to inhibit TAOK-1, a protein linked to Alzheimer’s disease that has been poorly understood. They also discovered a second compound that activates the entire TAOK protein family, providing scientists with an unexpected new research tool. Together, these compounds could uncover hidden mechanisms of the disease and lead to new treatment strategies. This research is significant for Alzheimer’s treatment, as current therapies mainly alleviate symptoms and do not offer a cure."
         },
         {
-          "rank": 5,
+          "rank": 6,
           "title": "Two deadly flowers could inspire powerful new medicines",
           "link": "https://sciencedaily.com/releases/2026/08/260801042818.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-08-03 05:51 UTC",
-          "analysis_zh": "科学家们发现了两种著名的有毒植物——狼毒和凤仙花——如何产生具有惊人医疗潜力的化学物质。通过追踪数千个基因，他们识别出六种酶，这些酶对于合成一种名为阿替西宁的复杂化合物至关重要。研究团队在烟草植物中重建了这一过程，为可持续生产和测试这些稀有分子提供了一种新方法。这项研究不仅可能推动新药的开发，还可能为治疗疼痛、疟疾和癌症等疾病开辟新的途径。",
-          "analysis_en": "Scientists have discovered how two well-known poisonous plants, wolfsbane and larkspur, produce chemicals with surprising medical potential. By tracking thousands of genes, they identified six enzymes crucial for synthesizing a complex compound called atisinium. The research team recreated this process in tobacco plants, offering a new sustainable method to produce and test these rare molecules. This study could not only advance the development of new medications but also open new avenues for treating conditions like pain, malaria, and cancer."
+          "analysis_zh": "科学家们发现了两种著名的有毒植物——狼毒和蓝铃花如何产生具有惊人医学潜力的化学物质。这项研究揭示了构建一种名为阿替西宁的复杂化合物所需的六种酶，并在烟草植物中重建了这一过程，从而提供了一种可持续的方法来生产和测试这些稀有分子。这项发现不仅可能推动新药物的开发，还可能为治疗疼痛、疟疾和癌症等疾病提供新的思路。",
+          "analysis_en": "Scientists have discovered how two well-known poisonous plants, wolfsbane and larkspur, produce chemicals with surprising medical potential. The research identified six enzymes necessary for building a complex compound called atisinium and recreated this process in tobacco plants, offering a sustainable method to produce and test these rare molecules. This finding could not only advance the development of new medicines but also provide new avenues for treating diseases such as pain, malaria, and cancer."
         }
       ]
     },
@@ -168,8 +177,8 @@
           "link": "https://aeon.co/videos/transforming-scientific-enquiry-and-human-bodies-into-visceral-art",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-08-03 10:01 UTC",
-          "analysis_zh": "科学家、艺术家和母亲Ani Liu在她的作品中探讨了权力与控制如何塑造身体。她的艺术作品打破了禁忌，引发了人们对身体自主权和社会期望的深思。这一主题不仅关乎个人身份的认同，也涉及更广泛的社会文化问题，可能会影响人们对身体和权力关系的理解。通过这种方式，Ani Liu的作品促使观众重新审视自身与社会之间的互动。",
-          "analysis_en": "Ani Liu, a scientist, artist, and mother, explores how power and control shape the body in her taboo-breaking artworks. This theme raises important questions about bodily autonomy and societal expectations, making it relevant not only to personal identity but also to broader cultural issues. Her work may influence how people understand the relationship between body and power. In this way, Ani Liu's art encourages viewers to reconsider their interactions with society."
+          "analysis_zh": "科学家、艺术家和母亲Ani Liu通过她打破禁忌的艺术作品，思考了权力和控制如何塑造身体。这一主题不仅涉及个人的身体经验，还反映了社会对身体的看法和影响。Liu的作品引发了对身体自主权和社会规范的深刻讨论，可能会影响观众对自身和他人身体的理解与态度。",
+          "analysis_en": "Ani Liu, a scientist, artist, and mother, explores how power and control shape the body through her taboo-breaking artworks. This theme touches on personal bodily experiences and reflects societal views and influences on the body. Liu's work sparks profound discussions about bodily autonomy and social norms, potentially affecting how audiences understand and perceive their own bodies and those of others."
         },
         {
           "rank": 2,
@@ -177,8 +186,8 @@
           "link": "https://aeon.co/essays/thucydides-account-of-war-is-as-timely-as-it-is-misunderstood",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-08-03 10:00 UTC",
-          "analysis_zh": "古希腊历史学家修昔底德的战争分析揭示了一个普遍存在于所有国家的缺陷，挑战了“强权即公理”的观点。他认为，国家之间的冲突不仅仅是力量的较量，更是道德和伦理的考验。这一观点的重要性在于，它促使我们反思国家行为的根本动机，并可能影响国际关系的未来走向。",
-          "analysis_en": "The great Greek historian Thucydides' analysis of war reveals a common vice present in all states, challenging the notion that \"might makes right.\" He argues that conflicts between nations are not merely struggles for power but also tests of morality and ethics. This perspective is significant as it encourages us to reflect on the fundamental motivations behind state actions, which may influence the future dynamics of international relations."
+          "analysis_zh": "古希腊历史学家修昔底德的战争分析揭示了一个普遍存在于各国的缺陷，挑战了“强权即公理”的观念。他认为，国家之间的冲突往往源于人性中的贪婪和恐惧，而非单纯的力量对比。这一观点不仅对理解历史中的战争有重要意义，也对当今国际关系的动态产生深远影响，促使我们反思权力与道德之间的关系。",
+          "analysis_en": "The ancient Greek historian Thucydides offers an analysis of war that reveals a common vice present in all states, challenging the notion that \"might makes right.\" He argues that conflicts between nations often stem from human greed and fear rather than merely a balance of power. This perspective is significant not only for understanding historical wars but also for its profound implications on contemporary international relations, prompting us to reconsider the relationship between power and morality."
         }
       ]
     },
@@ -189,93 +198,93 @@
       "items": [
         {
           "rank": 1,
-          "title": "What Are Companies Getting for All That A.I. Spending?",
-          "link": "https://nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html",
-          "source": "NYT > Technology",
-          "published_utc": "2026-08-03 15:40 UTC",
-          "analysis_zh": "随着企业在人工智能领域的投资不断增加，一个新的“代币经济学”领域应运而生，旨在衡量这些投资的回报。这一发展非常重要，因为它帮助公司更好地理解他们在AI技术上的支出是否能够带来实际的经济效益。随着AI技术的迅速发展，企业如何评估其投资的有效性将直接影响他们的战略决策和未来的资源分配。",
-          "analysis_en": "As companies continue to invest heavily in artificial intelligence, a new field called \"tokenomics\" has emerged to assess the returns on these investments. This development is significant because it enables companies to better understand whether their spending on AI technology is yielding tangible economic benefits. As AI technology rapidly evolves, how businesses evaluate the effectiveness of their investments will directly influence their strategic decisions and future resource allocation."
+          "title": "Your Fitbit data can now connect directly to Apple Health",
+          "link": "https://theverge.com/gadgets/974778/google-health-fitbit-data-apple-health-syncing",
+          "source": "The Verge",
+          "published_utc": "2026-08-03 21:24 UTC",
+          "analysis_zh": "谷歌最近推出了一项更新，使Fitbit用户可以将他们的锻炼、步数和健康数据直接连接到Apple Health。这一变化意味着用户不再需要依赖第三方应用来实现数据同步，提升了使用的便利性。这项功能的推出不仅改善了用户体验，还可能推动更多用户选择Fitbit设备，从而影响市场竞争格局。此外，谷歌还宣布用户可以通过智能健康链接与医疗提供者或家人分享医疗记录，这进一步增强了健康数据的互通性。",
+          "analysis_en": "Google recently rolled out an update that allows Fitbit users to connect their workouts, steps, and health data directly to Apple Health. This change eliminates the need for third-party apps for data synchronization, enhancing user convenience. The introduction of this feature not only improves the user experience but may also encourage more users to choose Fitbit devices, potentially impacting market competition. Additionally, Google announced that users can share medical records with providers or family members through Smart Health Links, further enhancing the interoperability of health data."
         },
         {
           "rank": 2,
+          "title": "Samsung’s discounted smart monitor is $349.99, its lowest price yet",
+          "link": "https://theverge.com/gadgets/974583/samsungs-m80f-smart-monitor-deal-sale",
+          "source": "The Verge",
+          "published_utc": "2026-08-03 21:13 UTC",
+          "analysis_zh": "三星推出的M80F智能显示器目前售价349.99美元，为历史最低价。这款32英寸的4K显示器结合了电视和电脑显示器的功能，非常适合空间有限的用户。它不仅可以作为标准的4K屏幕使用，还内置了多种视频流应用，支持画中画功能，方便用户多任务处理。这一降价可能会吸引更多消费者关注智能显示器市场，推动相关产品的销售增长。",
+          "analysis_en": "Samsung's M80F smart monitor is now available for $349.99, marking its lowest price ever. This 32-inch 4K display combines features of both TVs and computer monitors, making it ideal for users with limited space. In addition to functioning as a standard 4K screen, it includes a variety of streaming apps and supports picture-in-picture for multitasking. This price drop could attract more consumers to the smart monitor market, potentially boosting sales of similar products."
+        },
+        {
+          "rank": 3,
+          "title": "What Are Companies Getting for All That A.I. Spending?",
+          "link": "https://nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-08-03 18:56 UTC",
+          "analysis_zh": "近期，随着企业在人工智能领域的投资不断增加，出现了一种新的研究领域“代币经济学”，旨在衡量这些投资的回报。这一发展十分重要，因为它帮助公司理解在人工智能上的支出是否能够带来实际的经济效益。通过量化投资回报，企业可以更有效地分配资源，优化其技术战略，从而在竞争中保持优势。",
+          "analysis_en": "Recently, as companies continue to increase their investments in artificial intelligence, a new field called \"tokenomics\" has emerged to measure the returns on these investments. This development is significant because it helps companies understand whether their spending on AI is yielding tangible economic benefits. By quantifying the return on investment, businesses can allocate resources more effectively and optimize their technology strategies, thereby maintaining a competitive edge."
+        },
+        {
+          "rank": 4,
+          "title": "Trump’s AI protectionism has come for robotics",
+          "link": "https://technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics",
+          "source": "MIT Technology Review",
+          "published_utc": "2026-08-03 18:43 UTC",
+          "analysis_zh": "特朗普的人工智能保护主义政策开始影响机器人行业。尽管人形机器人在技术上有所进步，但在实际应用中仍然存在许多问题，导致公众对其接受度不高。这一政策的实施可能会限制美国在机器人技术领域的创新和竞争力，进而影响全球市场的格局。随着各国对人工智能的重视，相关政策的变化将对未来的科技发展产生深远影响。",
+          "analysis_en": "Trump's AI protectionism is beginning to affect the robotics industry. Despite advancements in humanoid robots, they still face numerous practical challenges that hinder public acceptance. The implementation of this policy could restrict innovation and competitiveness in the U.S. robotics sector, potentially reshaping the global market landscape. As countries increasingly prioritize artificial intelligence, changes in related policies will have a profound impact on future technological developments."
+        },
+        {
+          "rank": 5,
+          "title": "Europe’s AI labeling and transparency rules are now in effect",
+          "link": "https://theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge",
+          "published_utc": "2026-08-03 17:38 UTC",
+          "analysis_zh": "欧盟于8月2日正式实施了一项新的人工智能透明度法规，旨在帮助用户更容易识别在线聊天机器人和AI深度伪造内容。根据这项法规，企业必须在用户与AI模型互动时进行披露，并标明内容是否经过AI生成或修改。这一措施的重要性在于，它有助于提高公众对AI技术的认知，减少误导信息的传播。未来，这些规定可能会影响全球范围内的AI技术开发和应用，促使更多国家采取类似的透明度措施。",
+          "analysis_en": "On August 2nd, the European Union implemented new transparency regulations for artificial intelligence, aimed at helping users easily identify online chatbots and AI deepfakes. Under these rules, companies are required to disclose when users are interacting with AI models and indicate whether content has been generated or altered by AI. This measure is significant as it enhances public awareness of AI technologies and reduces the spread of misinformation. In the future, these regulations may influence AI development and application globally, encouraging other countries to adopt similar transparency measures."
+        },
+        {
+          "rank": 6,
+          "title": "The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished",
+          "link": "https://theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale",
+          "source": "The Verge",
+          "published_utc": "2026-08-03 17:17 UTC",
+          "analysis_zh": "亚马逊推出的第一代Kindle Scribe是一款大型电子阅读器和数字笔记本，目前以翻新价格149.99美元出售。这款设备配备10.2英寸的屏幕，适合学生在上课时查看教科书和电子书，或记录手写笔记。这个价格比其2022年上市时的原价便宜了220美元，吸引了许多希望在返校季节购买电子设备的消费者。虽然翻新设备的具体状况没有详细说明，但它仍然提供了一个经济实惠的选择，可能会影响到学生和教育工作者的购买决策。",
+          "analysis_en": "Amazon's first-generation Kindle Scribe is now available as a refurbished device for $149.99. This large e-reader features a 10.2-inch screen, making it ideal for students to view textbooks and ebooks or take handwritten notes during class. The price represents a $220 discount from its original launch price in 2022, appealing to consumers looking for affordable electronic devices as they head back to school. While the exact condition of the refurbished units isn't specified, this offers a budget-friendly option that could influence purchasing decisions among students and educators."
+        },
+        {
+          "rank": 7,
+          "title": "Microsoft is bringing Xbox 360 games to PC",
+          "link": "https://theverge.com/games/974544/microsoft-xbox-360-games-pc-disc-digital-program",
+          "source": "The Verge",
+          "published_utc": "2026-08-03 16:31 UTC",
+          "analysis_zh": "微软近期宣布将把Xbox 360游戏引入PC，这一消息来自一份泄露的文件。此举不仅扩展了Xbox游戏库，还为开发者提供了将旧游戏移植到新平台的机会。这对于玩家来说意味着可以在更多设备上体验经典游戏，同时也为未来无光驱的游戏机奠定基础。随着游戏行业的不断发展，这一策略可能会影响市场竞争格局，尤其是在数字游戏销售方面。",
+          "analysis_en": "Microsoft has recently announced plans to bring Xbox 360 games to PC, as revealed in a leaked document. This move not only expands the Xbox game library but also offers developers the chance to port older games to new platforms. For players, this means they can enjoy classic games on more devices, while also laying the groundwork for future consoles without disc drives. As the gaming industry continues to evolve, this strategy could impact the competitive landscape, particularly in the digital game sales market."
+        },
+        {
+          "rank": 8,
           "title": "SpaceX’s Stock Lockup Is Expiring. Prepare for a Bumpy Ride.",
           "link": "https://nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html",
           "source": "NYT > Technology",
           "published_utc": "2026-08-03 15:10 UTC",
-          "analysis_zh": "SpaceX的首批股票锁定期即将结束，这意味着公司的员工和内部人士可以开始出售他们的一部分股份。这一事件对SpaceX及其股价可能产生重大影响，因为大量股票的流入可能导致市场波动。投资者需要关注这一变化，因为它可能影响公司的融资能力和未来发展。",
-          "analysis_en": "The first stock lockup period for SpaceX is about to expire, allowing employees and insiders to begin selling some of their shares. This event could significantly impact SpaceX and its stock price, as the influx of shares may lead to market volatility. Investors should pay attention to this change, as it could affect the company's ability to raise funds and its future growth prospects."
+          "analysis_zh": "在周四，埃隆·马斯克的火箭公司SpaceX的员工和其他内部人士将解除首次股票“锁定期”，可以开始出售部分股份。这一事件引发了市场的广泛关注，因为解禁后的股票销售可能会导致股价波动。投资者需要密切关注这一变化，因为它可能影响SpaceX的市场表现和未来融资能力。",
+          "analysis_en": "On Thursday, employees and other insiders at Elon Musk's rocket company SpaceX will be released from their first stock lockup and can begin selling some of their shares. This event has drawn significant market attention, as the release of shares could lead to fluctuations in the stock price. Investors should closely monitor this change, as it may impact SpaceX's market performance and future fundraising capabilities."
         },
         {
-          "rank": 3,
+          "rank": 9,
           "title": "Bluesky’s new CEO wants a big tent, not a bubble",
           "link": "https://theverge.com/podcast/974387/bluesky-toni-schneider-interview-ai-atproto-atmosphere",
           "source": "The Verge",
           "published_utc": "2026-08-03 15:00 UTC",
-          "analysis_zh": "Bluesky的新任首席执行官托尼·施耐德（Toni Schneider）最近接任，旨在推动平台和协议的发展。施耐德强调，Bluesky不仅仅是一个社交媒体应用，更是一个支持开放和互操作社交标准的技术生态系统。此举的重要性在于，Bluesky希望在用户需求与技术创新之间找到平衡，以促进社区的多样性和活力。这可能会影响到Bluesky的用户体验和未来的发展方向，尤其是在社交媒体行业竞争激烈的背景下。",
-          "analysis_en": "Toni Schneider has recently taken over as the new CEO of Bluesky, aiming to advance both the platform and its underlying protocol. He emphasizes that Bluesky is not just a social media app but also a technological ecosystem that supports open and interoperable social standards. This is significant because Bluesky seeks to balance user needs with technological innovation, fostering diversity and vibrancy within its community. This approach may impact the user experience and future development of Bluesky, especially in the context of intense competition in the social media industry."
+          "analysis_zh": "Bluesky的新任首席执行官托尼·施耐德（Toni Schneider）最近接任，旨在推动该社交平台的增长和技术发展。他的上任标志着公司在开放和互操作社交标准方面的新方向。施耐德强调，Bluesky不仅仅是一个社交媒体应用程序，更是一个支持多种社交网络产品的技术平台。此举可能会影响用户体验，因为不同的用户群体对平台的需求和期望各不相同，如何平衡这些需求将是施耐德面临的重要挑战。",
+          "analysis_en": "Toni Schneider has recently taken over as the new CEO of Bluesky, aiming to drive growth for the social platform and its underlying technology. His appointment signifies a new direction for the company in promoting open and interoperable social standards. Schneider emphasizes that Bluesky is not just a social media app but also a technology platform that supports various social networking products. This move may impact user experience, as different user groups have varying needs and expectations from the platform, and balancing these demands will be a significant challenge for Schneider."
         },
         {
-          "rank": 4,
+          "rank": 10,
           "title": "Palworld’s expanding to mobile with a new MMORPG",
           "link": "https://theverge.com/games/974450/palworld-online-mobile-mmo",
           "source": "The Verge",
           "published_utc": "2026-08-03 14:50 UTC",
-          "analysis_zh": "《Palworld》在上个月推出1.0版本后，即将推出移动端的MMORPG游戏。这款新游戏将于今年晚些时候在iOS和Android平台上线，开发商Garena表示，《Palworld Online》将为移动设备重新构想原版PC生存类收集游戏的深度、自由和规模。此举不仅为玩家提供了丰富的多人合作和对战体验，还将引入新的叙事背景和独特的故事元素，可能会吸引更多玩家参与。",
-          "analysis_en": "After its 1.0 launch last month, Palworld is set to expand to mobile with a new MMORPG. This game will be available on iOS and Android later this year, and developer Garena states that Palworld Online will reimagine the depth, freedom, and scale of the original PC survival creature-collecting game for mobile devices. This move not only offers players a rich multiplayer experience with co-op and PvP options but also introduces new narrative elements and side stories, which could attract a larger player base."
-        },
-        {
-          "rank": 5,
-          "title": "Google Earth Disables A.I. Tool After One Day Over Disinformation Concerns",
-          "link": "https://nytimes.com/2026/08/02/technology/google-earth-ai-satellite-images.html",
-          "source": "NYT > Technology",
-          "published_utc": "2026-08-03 14:31 UTC",
-          "analysis_zh": "谷歌地球推出了一项新的人工智能工具，允许用户创建深度伪造地图，但在上线仅一天后就因担忧虚假信息而被撤回。用户指出该工具缺乏防止有害内容的保护措施，这引发了广泛的关注。这一事件凸显了在快速发展的科技领域中，如何平衡创新与安全的重要性。此举可能会影响谷歌在公众中的信誉，并促使其他科技公司更加重视产品的安全性。",
-          "analysis_en": "Google Earth launched a new AI tool that allowed users to create deepfake maps, but it was pulled back just one day later due to concerns about disinformation. Users highlighted the lack of safeguards against harmful content, raising significant awareness about the issue. This incident underscores the importance of balancing innovation with safety in the rapidly evolving tech landscape. The move may affect Google's reputation among the public and encourage other tech companies to prioritize product safety more seriously."
-        },
-        {
-          "rank": 6,
-          "title": "Spider-Man and The Odyssey are splitting up IMAX screens after a record-breaking weekend",
-          "link": "https://theverge.com/entertainment/974411/spider-man-the-odyssey-imax",
-          "source": "The Verge",
-          "published_utc": "2026-08-03 14:26 UTC",
-          "analysis_zh": "《蜘蛛侠：全新一天》将在IMAX影院与《奥德赛》共同放映，此消息是在两部影片创下票房历史最高周末后发布的。IMAX宣布，从8月6日起，《蜘蛛侠：全新一天》将在北美部分数字IMAX影院上映。这一消息意味着《奥德赛》为期三周的独占放映即将结束，给《蜘蛛侠》提供了与之同场竞技的机会。这两部影片的成功不仅推动了票房的增长，也可能影响未来IMAX影院的排片策略。",
-          "analysis_en": "\"Spider-Man: Brand New Day\" will be joining \"The Odyssey\" in IMAX theaters, following a record-breaking weekend for both films. IMAX announced that starting August 6, \"Spider-Man: Brand New Day\" will be available in select digital IMAX locations across North America. This news indicates the end of \"The Odyssey's\" exclusive three-week run, allowing \"Spider-Man\" to compete alongside it. The success of both films not only boosts box office revenue but may also influence future scheduling strategies for IMAX theaters."
-        },
-        {
-          "rank": 7,
-          "title": "Samsung’s 2TB 9100 Pro SSD is actually somewhat reasonably priced",
-          "link": "https://theverge.com/gadgets/974391/samsung-nvme-ssd-2tb-steelseries-arctis-omni-pixel-10a-deal-sale",
-          "source": "The Verge",
-          "published_utc": "2026-08-03 14:16 UTC",
-          "analysis_zh": "三星最新推出的2TB 9100 Pro固态硬盘的价格有所下降，目前在亚马逊上售价为302.99美元，这是自2026年2月以来的最低价格。尽管与2025年10月的最低价169.99美元相比仍有差距，但在当前内存价格高涨的情况下，这个价格仍然相对合理。此款SSD支持PCIe Gen 5，适合需要高速存储的用户。随着价格的回落，预计将吸引更多消费者关注高性能存储解决方案。",
-          "analysis_en": "Samsung's latest 2TB 9100 Pro SSD has seen a price drop, currently available on Amazon for $302.99, the lowest price since February 2026. While this is still higher than its lowest price of $169.99 in October 2025, it remains relatively affordable given the current surge in memory prices. This SSD supports PCIe Gen 5, making it ideal for users seeking high-speed storage. As prices decline, it is expected to attract more consumers interested in high-performance storage solutions."
-        },
-        {
-          "rank": 8,
-          "title": "Plug-In Solar Panels Are Starting to Sprout in U.S. Backyards",
-          "link": "https://nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html",
-          "source": "NYT > Technology",
-          "published_utc": "2026-08-03 13:34 UTC",
-          "analysis_zh": "在美国，十个州已经合法化了可以插入标准墙壁插座的太阳能系统。这项技术的出现使得普通家庭能够更方便地利用太阳能，而无需申请许可证或雇佣电工。这一变化不仅有助于推动可再生能源的普及，还可能降低家庭的能源成本，促进环保意识的提升。",
-          "analysis_en": "In the U.S., ten states have legalized solar systems that can be plugged into standard wall outlets. This technology allows homeowners to harness solar energy more easily, without the need for permits or electricians. This development is significant as it promotes the adoption of renewable energy, potentially lowers household energy costs, and raises environmental awareness."
-        },
-        {
-          "rank": 9,
-          "title": "Lenovo Googlebook leaks reveal a laptop and 2-in-1 tablet",
-          "link": "https://theverge.com/tech/974377/lenovo-googlebook-google-image-leaks-laptops",
-          "source": "The Verge",
-          "published_utc": "2026-08-03 13:12 UTC",
-          "analysis_zh": "联想即将发布的Googlebook型号泄露了相关信息，显示出一款笔记本电脑和一款二合一平板电脑的外观。这些泄露的图片由Digital Citizen和Android Headlines分享，展示了带有Googlebook品牌的设备。这一发布对市场意义重大，因为它标志着谷歌Chromebook的继任者即将推出，并且可能会采用新的操作系统和集成Gemini AI。这将影响到消费者的选择，尤其是在教育和工作领域，可能会推动更多用户转向这些新设备。",
-          "analysis_en": "Lenovo's upcoming Googlebook models have been leaked, revealing the design of a laptop and a 2-in-1 tablet. The leaked images, shared by Digital Citizen and Android Headlines, showcase devices branded with Googlebook. This release is significant as it marks the arrival of Google's Chromebook successor, which is expected to feature a new operating system and integrate Gemini AI. This could impact consumer choices, particularly in education and work sectors, potentially driving more users towards these new devices."
-        },
-        {
-          "rank": 10,
-          "title": "Big Walk is like co-op Breath of the Wild",
-          "link": "https://theverge.com/games/973166/big-walk-review",
-          "source": "The Verge",
-          "published_utc": "2026-08-03 13:00 UTC",
-          "analysis_zh": "《大步走》是由《无题鹅游戏》的开发者House House推出的一款新游戏，采用了合作冒险的玩法。玩家需要在一个大岛上共同探索并解决谜题，这种合作模式使得游戏体验更加有趣。与之前的鹅游戏不同，这款游戏强调沟通和协作，给人一种全新的体验。它的推出可能会吸引更多喜欢合作游戏的玩家，并为未来的游戏设计提供新的灵感。",
-          "analysis_en": "\"Big Walk\" is a new game developed by House House, the creators of \"Untitled Goose Game,\" featuring cooperative adventure gameplay. Players must work together to explore a large island and solve puzzles, making the experience more enjoyable through collaboration. Unlike the previous goose game, this title emphasizes communication and teamwork, offering a fresh experience. Its release may attract more players who enjoy cooperative games and inspire new ideas for future game designs."
+          "analysis_zh": "《Palworld》在上个月正式发布1.0版本后，将推出一款新的开放世界MMORPG，并计划在今年晚些时候登陆iOS和Android平台。开发商Garena表示，《Palworld Online》将为移动设备重新构想原版PC生存类收集游戏的深度、自由度和规模。这一扩展不仅将保留原作的核心玩法，还将引入新的叙事设定和独特的故事元素，预计将吸引更多玩家的关注。",
+          "analysis_en": "After its 1.0 launch last month, Palworld is set to release a new open-world MMORPG on iOS and Android later this year. The developer, Garena, announced that Palworld Online will reimagine the depth, freedom, and scale of the original PC survival creature-collecting game for mobile devices. This expansion will not only retain the core gameplay of the original but also introduce a new narrative setting with unique story elements, which is expected to attract more players."
         }
       ]
     },
@@ -286,93 +295,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "How Tom Holland and Zendaya Helped Draw Gen Z Crowds to ‘Spider-Man: Brand New Day’",
+          "link": "https://nytimes.com/2026/08/03/movies/zendaya-tom-holland-spiderman.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-08-03 21:41 UTC",
+          "analysis_zh": "汤姆·霍兰德和赞达亚的合作吸引了年轻观众前往观看《蜘蛛侠：全新的一天》和《奥德赛》。这一现象不仅反映了他们在年轻人中的巨大影响力，也标志着好莱坞在吸引Z世代观众方面的成功。随着年轻观众的涌入，电影行业可能会更加关注与这一代人相关的内容和主题，从而推动更多符合他们口味的作品问世。",
+          "analysis_en": "Tom Holland and Zendaya's collaboration has drawn young audiences to see \"Spider-Man: Brand New Day\" and \"The Odyssey.\" This trend highlights their significant influence among younger viewers and signifies Hollywood's success in attracting Gen Z audiences. As more young viewers flock to theaters, the film industry may increasingly focus on content and themes that resonate with this generation, potentially leading to a surge in productions tailored to their tastes."
+        },
+        {
+          "rank": 2,
+          "title": "Gagosian Gives Up London and Basel Spaces as Mega-Galleries Rethink Their Footprints",
+          "link": "https://artnews.com/art-news/news/gagosian-london-basel-gallery-closures-1234794210",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-08-03 21:34 UTC",
+          "analysis_zh": "著名画廊Gagosian宣布关闭其位于伦敦的Burlington Arcade小型展览空间，并计划不久后关闭瑞士巴塞尔的展览空间。这两个空间最初是作为快闪店开设的，随着租金的变化，创始人拉里·加戈西安决定结束这些空间的运营。这一举措反映了大型画廊在当前市场环境下重新评估其业务布局的重要性，可能会影响到艺术市场的动态和其他画廊的运营策略。",
+          "analysis_en": "The renowned gallery Gagosian has announced the closure of its small exhibition space in London's Burlington Arcade and plans to soon shut down its space in Basel, Switzerland. Both locations started as pop-up galleries, and with changing rental conditions, founder Larry Gagosian decided to end their operations. This move highlights the importance of major galleries reassessing their business footprints in the current market environment, which could affect the dynamics of the art market and the operational strategies of other galleries."
+        },
+        {
+          "rank": 3,
+          "title": "Dudley Laufman, Eminent Folk Dance Caller, Dies at 95",
+          "link": "https://nytimes.com/2026/08/03/arts/dance/dudley-laufman-dead.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-08-03 21:22 UTC",
+          "analysis_zh": "达德利·劳夫曼，这位杰出的民间舞蹈主持人，近日去世，享年95岁。他在20世纪60年代和70年代复兴了对立舞，成功将这一传统带给了新一代舞者。劳夫曼的贡献不仅在于推广舞蹈，更在于他通过音乐和诗歌传承了民间文化，影响了无数人的生活。随着他的离世，民间舞蹈界失去了一位重要的推动者，这也让人们更加关注如何保护和传承这些珍贵的文化遗产。",
+          "analysis_en": "Dudley Laufman, the eminent folk dance caller, recently passed away at the age of 95. He revitalized contra dancing in the 1960s and 70s, successfully introducing this tradition to a new generation of dancers. Laufman's contributions extended beyond promoting dance; he helped preserve folk culture through music and poetry, impacting the lives of many. His passing marks a significant loss for the folk dance community, raising awareness about the importance of preserving and passing on these valuable cultural traditions."
+        },
+        {
+          "rank": 4,
+          "title": "wrapped in concrete, wood, and greenery, perkins&will’s residential tower rises in são paulo",
+          "link": "https://designboom.com/architecture/concrete-wood-greenery-perkins-will-residential-tower-sao-paulo-casa-arbo",
+          "source": "designboom | architecture & design magazine",
+          "published_utc": "2026-08-03 20:35 UTC",
+          "analysis_zh": "在圣保罗，建筑公司Perkins&Will设计了一座结合混凝土、木材和绿植的住宅塔楼。这座建筑的设计旨在挑战传统高端住宅的模式，通过理性的结构与周围环境的融合，创造出一种更具人性化的居住体验。这一项目的重要性在于，它不仅提升了城市的居住质量，还可能引领未来住宅设计的趋势，鼓励更多的开发商关注可持续性和生态友好的设计理念。",
+          "analysis_en": "In São Paulo, the architectural firm Perkins&Will has designed a residential tower that integrates concrete, wood, and greenery. The design aims to challenge conventional models of high-end housing by creating a more human-centered living experience through a rational structure that harmonizes with the surrounding landscape. This project is significant as it enhances the quality of urban living and may set a trend for future residential designs, encouraging more developers to focus on sustainability and eco-friendly design principles."
+        },
+        {
+          "rank": 5,
+          "title": "Met Museum Consulted With Jewish Leaders Over Exhibition for Controversial Fashion Designer John Galliano",
+          "link": "https://artnews.com/art-news/news/met-museum-john-galliano-show-jewish-leaders-meetings-1234794224",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-08-03 19:28 UTC",
+          "analysis_zh": "大都会艺术博物馆与犹太领袖进行了磋商，计划在2027年举办一场关于有争议的时装设计师约翰·加利亚诺的展览。加利亚诺因其曾发表的反犹太言论而备受争议，此次展览的筹备引发了公众的广泛关注。这一举措不仅反映了博物馆在处理敏感话题时的谨慎态度，也可能影响未来艺术展览的策划方式，尤其是在涉及历史和文化敏感性的问题上。",
+          "analysis_en": "The Metropolitan Museum of Art has consulted with Jewish leaders regarding an upcoming exhibition for the controversial fashion designer John Galliano, scheduled for 2027. Galliano has faced backlash due to his past anti-Semitic remarks, and the planning of this exhibition has sparked significant public interest. This move reflects the museum's careful approach to handling sensitive topics and may influence how future art exhibitions are curated, particularly concerning issues of historical and cultural sensitivity."
+        },
+        {
+          "rank": 6,
+          "title": "The World’s Largest Painting Sold for $62 M. in 2021 to Benefit Children’s Charities, But They Have Yet to Receive Any Funds",
+          "link": "https://artnews.com/art-news/news/sacha-jafri-auctioned-world-largest-painting-for-charity-but-the-62-m-owed-is-missing-1234794219",
+          "source": "News – ARTnews.com",
+          "published_utc": "2026-08-03 19:22 UTC",
+          "analysis_zh": "萨查·贾夫里（Sacha Jafri）在2021年迪拜拍卖会上以6200万美元的价格售出了他创作的世界最大喷溅画，原本希望这些资金能够支持儿童慈善事业。然而，至今这些慈善机构仍未收到任何款项。这一事件引发了对艺术品拍卖后资金去向的广泛关注，尤其是在慈善事业的透明度和责任感方面。此事可能会影响未来艺术品拍卖的信任度，促使更多的艺术家和买家关注慈善项目的实际执行情况。",
+          "analysis_en": "Sacha Jafri sold his world’s largest splatter painting for $62 million at a Dubai auction in 2021, intending for the proceeds to benefit children’s charities. However, these charities have yet to receive any funds from the sale. This situation has raised significant concerns regarding the transparency and accountability of funds raised through art auctions, particularly in relation to charitable causes. The incident may affect the trust in future art auctions, prompting artists and buyers to pay closer attention to the actual implementation of charitable projects."
+        },
+        {
+          "rank": 7,
+          "title": "Mary de Rachewiltz, Ezra Pound’s Daughter and Defender, Dies at 101",
+          "link": "https://nytimes.com/2026/08/03/books/mary-de-rachewiltz-dead.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-08-03 19:12 UTC",
+          "analysis_zh": "玛丽·德·拉切维尔茨（Mary de Rachewiltz）于101岁去世，她是著名诗人艾兹拉·庞德（Ezra Pound）的女儿和捍卫者。尽管她在婴儿时期就被送走，但她始终对父亲保持忠诚，翻译了他的诗作，并努力将他的文学遗产与其法西斯政治区分开来。这一事件不仅引发了对庞德复杂遗产的重新审视，也可能影响公众对文学与政治之间关系的理解。",
+          "analysis_en": "Mary de Rachewiltz, the daughter and defender of the renowned poet Ezra Pound, has passed away at the age of 101. Sent away as a baby, she remained devoted to her father, translating his poetry while striving to separate his literary legacy from his fascist politics. This event not only prompts a reevaluation of Pound's complex legacy but may also influence public perceptions of the relationship between literature and politics."
+        },
+        {
+          "rank": 8,
+          "title": "Glazed pavilion with \"distinctly modernist character\" added to Portland Art Museum",
+          "link": "https://dezeen.com/2026/08/03/portland-art-museum-oregon-hennebery-eddy-architects-and-vinci-hamp-architects",
+          "source": "Dezeen",
+          "published_utc": "2026-08-03 17:56 UTC",
+          "analysis_zh": "波特兰艺术博物馆最近进行了改造，新增了一座具有现代主义特色的玻璃展馆。这座展馆位于历史建筑之间，旨在提升游客的参观体验。改造后的博物馆占地两个城市街区，位于市中心，预计将吸引更多的访客并促进当地文化的发展。这一项目不仅增强了博物馆的功能性，也为城市的美学增添了新的亮点。",
+          "analysis_en": "The Portland Art Museum has recently undergone renovations, featuring a new glass pavilion characterized by its distinctly modernist design. This pavilion is situated between historic buildings and aims to enhance the visitor experience. The revamped museum spans two urban blocks in the downtown area, and it is expected to attract more visitors and promote local cultural development. This project not only improves the museum's functionality but also adds a new aesthetic dimension to the city."
+        },
+        {
+          "rank": 9,
           "title": "augment 360: this folding electric moped can follow its rider into the elevator",
           "link": "https://designboom.com/technology/augment-360-folding-electric-moped-compact-ev",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-08-03 15:55 UTC",
-          "analysis_zh": "这款名为“augment 360”的折叠电动摩托车能够跟随骑行者进入电梯，展现了其便捷的设计。它的单侧叉设计使得车辆宽度缩小至35厘米，便于室内存放。这一创新不仅提升了城市出行的灵活性，也为空间有限的用户提供了新的选择，可能会改变人们对电动交通工具的使用习惯。",
-          "analysis_en": "The \"augment 360\" is a folding electric moped that can follow its rider into an elevator, showcasing its convenient design. Its single-sided fork allows the vehicle to shrink to a width of just 35 centimeters for indoor storage. This innovation not only enhances urban mobility but also offers new options for users with limited space, potentially changing how people use electric transportation."
+          "analysis_zh": "最近，一款名为“augment 360”的折叠电动摩托车引起了广泛关注。这款摩托车的设计使其能够在室内存放时缩小到仅35厘米宽，方便用户将其带入电梯。这一创新不仅提升了城市生活的便利性，也为拥挤的城市环境提供了新的交通解决方案。随着城市化进程的加快，这种小型交通工具可能会改变人们的出行方式，尤其是在空间有限的地区。",
+          "analysis_en": "Recently, a folding electric moped called \"augment 360\" has garnered significant attention. This moped can shrink to just 35 centimeters wide for indoor storage, allowing users to take it into elevators easily. This innovation not only enhances convenience for urban living but also offers a new transportation solution for crowded city environments. As urbanization accelerates, such compact vehicles could transform commuting habits, especially in areas with limited space."
         },
         {
-          "rank": 2,
-          "title": "Is Chess a Form of Art?",
-          "link": "https://nytimes.com/video/arts/100000011045309/is-chess-a-form-of-art.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-08-03 15:20 UTC",
-          "analysis_zh": "在摩OMA庆祝马塞尔·杜尚139岁生日的活动中，艺术评论家黛博拉·所罗门与其他49名棋手一起挑战了一位国际象棋特级大师。此次活动探讨了国际象棋作为一种艺术形式的可能性。这一讨论不仅引发了对棋艺的重新审视，也让人们思考艺术的定义和边界。棋局的策略和美感可能会影响人们对艺术创作和欣赏的理解。",
-          "analysis_en": "To celebrate Marcel Duchamp's 139th birthday, art critic Deborah Solomon participated in an event at MoMA where she and 49 other players faced off against a chess grandmaster. This event explored the idea of chess as a form of art. The discussion not only prompted a reevaluation of the game itself but also encouraged reflections on the definitions and boundaries of art. The strategic and aesthetic elements of chess may influence how people understand and appreciate artistic creation."
-        },
-        {
-          "rank": 3,
+          "rank": 10,
           "title": "Taryn Simon’s Guggenheim Show Will Fill Rotunda with Entirely New Body of Work for First Time in Museum’s History",
           "link": "https://artnews.com/art-news/news/taryn-simon-guggenheim-show-new-work-rotunda-1234794169",
           "source": "News – ARTnews.com",
           "published_utc": "2026-08-03 15:07 UTC",
-          "analysis_zh": "塔琳·西蒙（Taryn Simon）将在古根海姆博物馆举办展览，这是该博物馆历史上首次在圆形大厅中展出全新作品。此次展览将专注于一位专注于摄影和视频的艺术家，这在博物馆的历史上也是首次。这一展览不仅展示了西蒙的独特艺术风格，还可能吸引更多观众关注当代艺术，推动艺术界的讨论与交流。",
-          "analysis_en": "Taryn Simon will hold an exhibition at the Guggenheim Museum, marking the first time in the museum's history that the rotunda will feature an entirely new body of work. This exhibition will focus on a single artist working in photography and video, which is also a first for the museum. This event not only highlights Simon's distinctive artistic style but may also draw more attention to contemporary art, fostering discussions and exchanges within the art community."
-        },
-        {
-          "rank": 4,
-          "title": "White House Proposes Smallest Smithsonian Budget in Years and Cutting Full-Time Staff by 6 Percent",
-          "link": "https://artnews.com/art-news/news/white-house-proposes-smallest-smithsonian-budget-in-years-1234794165",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-08-03 15:05 UTC",
-          "analysis_zh": "美国白宫提议在2027财年为史密森学会提供961.3百万美元的联邦资金，这是自2020年以来的最低预算。这一提案不仅意味着资金的减少，还计划削减6%的全职员工。这一变化可能会对史密森学会的运营和展览产生重大影响，尤其是在艺术和文化教育领域，可能导致资源和服务的短缺。",
-          "analysis_en": "The White House has proposed a federal budget of $961.3 million for the Smithsonian Institution for fiscal year 2027, marking the lowest funding level since 2020. This proposal includes a plan to cut full-time staff by 6%. Such changes could significantly impact the operations and exhibitions of the Smithsonian, particularly affecting resources and services in the fields of art and cultural education."
-        },
-        {
-          "rank": 5,
-          "title": "Data centre approved as part of Truman Brewery masterplan in east London",
-          "link": "https://dezeen.com/2026/08/03/truman-brewery-masterplan-buckley-gray-yeoman-london",
-          "source": "Dezeen",
-          "published_utc": "2026-08-03 15:00 UTC",
-          "analysis_zh": "伦敦东部的特鲁曼酿酒厂总体规划获得批准，其中包括由建筑事务所Buckley Gray Yeoman设计的数据中心、办公楼和住宅。这一规划涵盖了布里克巷附近的三个地点，预计将建造八栋建筑。该项目的批准不仅将促进当地经济发展，还可能改变该地区的城市面貌，吸引更多企业和居民。",
-          "analysis_en": "The Truman Brewery masterplan in east London has been approved, featuring a data center, offices, and homes designed by the architecture firm Buckley Gray Yeoman. This plan includes three sites near Brick Lane and will consist of eight buildings. The approval of this project is significant as it will boost the local economy and could transform the urban landscape of the area, attracting more businesses and residents."
-        },
-        {
-          "rank": 6,
-          "title": "Michelle Grabner Donates More Than 2,000 Artworks to Wisconsin’s Kohler Arts Center, Now the Most Comprehensive Repository of Her Work",
-          "link": "https://artnews.com/art-news/news/michelle-grabner-kohler-arts-center-donation-1234794155",
-          "source": "News – ARTnews.com",
-          "published_utc": "2026-08-03 15:00 UTC",
-          "analysis_zh": "米歇尔·格拉布纳（Michelle Grabner）向威斯康星州的科勒艺术中心捐赠了超过2000件艺术作品，这使该中心成为她作品的最全面收藏地。此次捐赠不仅包括她的艺术创作，还涵盖了她个人的艺术收藏、教学材料以及在芝加哥艺术学院任教期间的课程大纲。这一举动不仅丰富了科勒艺术中心的藏品，也为艺术教育提供了宝贵的资源，可能会吸引更多的艺术爱好者和学生前来参观和学习。",
-          "analysis_en": "Michelle Grabner has donated over 2,000 artworks to the Kohler Arts Center in Wisconsin, making it the most comprehensive repository of her work. This donation includes not only her artistic creations but also 300 pieces from her personal art collection, as well as teaching materials and syllabi from her time at the School of the Art Institute of Chicago. This gesture not only enhances the collection at the Kohler Arts Center but also provides valuable resources for art education, potentially attracting more art enthusiasts and students to visit and learn."
-        },
-        {
-          "rank": 7,
-          "title": "recycled aerospace steel and rammed earth shape homeware collection for life on mars",
-          "link": "https://designboom.com/design/recycled-aerospace-steel-rammed-earth-homeware-collection-life-mars-roc-h-biel-martian-relics",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-08-03 14:25 UTC",
-          "analysis_zh": "最近，一款名为“火星遗物”的家居用品系列引起了广泛关注。这一系列产品采用回收的航空钢材和夯土材料，旨在反映环境责任和材料稀缺性的问题。此举不仅展示了设计界对可持续发展的重视，也为未来可能的火星生活提供了创新的思考。通过这种设计，公众对环保和资源利用的意识有望进一步提升。",
-          "analysis_en": "Recently, a homeware collection called \"Martian Relics\" has garnered significant attention. This series utilizes recycled aerospace steel and rammed earth materials to reflect on issues of environmental responsibility and material scarcity. This initiative not only highlights the design industry's commitment to sustainability but also offers innovative ideas for potential life on Mars. Such designs may enhance public awareness regarding environmental protection and resource utilization."
-        },
-        {
-          "rank": 8,
-          "title": "‘House of the Dragon’ Season 3, Episode 7 Recap: Wild Animals",
-          "link": "https://nytimes.com/2026/08/02/arts/television/house-of-the-dragon-recap-season-3-episode-7.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-08-03 13:38 UTC",
-          "analysis_zh": "《龙之家族》第三季第七集的剧情回顾显示，角色们都有自己的计划，但当喷火的龙出现时，一切都被打乱了。这一集突显了权力斗争中的不可预测性，以及在面对巨大威胁时人们的脆弱。这样的情节设计不仅增强了故事的紧张感，也让观众思考在权力游戏中，意外和变化是如何影响决策和人际关系的。",
-          "analysis_en": "The recap of Season 3, Episode 7 of \"House of the Dragon\" reveals that while characters have their own plans, everything gets disrupted when a fire-breathing dragon intervenes. This episode highlights the unpredictability in the struggle for power and the vulnerability of individuals when faced with significant threats. Such plot developments not only heighten the tension of the story but also prompt viewers to reflect on how unexpected events and changes influence decisions and relationships in the game of power."
-        },
-        {
-          "rank": 9,
-          "title": "‘The Shards,’ and 7 More Shows to Watch on TV This Week",
-          "link": "https://nytimes.com/2026/08/03/arts/television/the-shards-tv-to-watch-this-week.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-08-03 13:01 UTC",
-          "analysis_zh": "本周，Hulu和FX推出了布雷特·伊斯顿·艾利斯（Bret Easton Ellis）作品《碎片》的改编剧集。这部剧集的推出不仅丰富了平台的内容选择，也吸引了对艾利斯作品感兴趣的观众。此外，Bravo的“真实主妇”系列也推出了“终极女孩之旅”，六位主妇将横跨全国进行旅行。这些新节目可能会影响观众的收视习惯，并为流媒体平台带来更多的订阅用户。",
-          "analysis_en": "This week, Hulu and FX are releasing an adaptation of Bret Easton Ellis's work, titled \"The Shards.\" The launch of this series not only expands the content offerings on these platforms but also draws in viewers interested in Ellis's writing. Additionally, Bravo's \"Real Housewives\" franchise is introducing \"Ultimate Girls Trip,\" where six housewives travel across the country. These new shows may influence viewers' viewing habits and potentially increase subscription numbers for streaming platforms."
-        },
-        {
-          "rank": 10,
-          "title": "inside the hand-painted animations bringing isamu noguchi’s unrealized playgrounds to life",
-          "link": "https://designboom.com/art/hand-painted-animations-isamu-noguchi-unrealized-playgrounds-life-eastend-western-nicolas-menard-jack-cunningham-kate-wiener-interview",
-          "source": "designboom | architecture & design magazine",
-          "published_utc": "2026-08-03 10:50 UTC",
-          "analysis_zh": "近日，设计网站designboom与东区西方和策展人凯特·维纳进行了对话，探讨了如何通过五部手绘动画电影来想象著名艺术家野口勇未实现的游乐场。这些动画不仅展示了野口勇的创意构思，还为观众提供了一个重新审视公共空间设计的机会。这一项目的重要性在于，它不仅让人们了解了艺术家未能实现的愿景，也激发了对未来游乐场设计的思考，可能会影响城市公共空间的规划与设计方向。",
-          "analysis_en": "Recently, design website designboom spoke with Eastend Western and curator Kate Wiener about envisioning the unrealized playgrounds of renowned artist Isamu Noguchi through five hand-painted animated films. These animations not only showcase Noguchi's creative ideas but also offer viewers a chance to rethink the design of public spaces. The significance of this project lies in its ability to illuminate the artist's unfulfilled visions while inspiring new thoughts on future playground designs, potentially influencing the planning and design of urban public spaces."
+          "analysis_zh": "塔琳·西蒙（Taryn Simon）将在古根海姆博物馆的圆形大厅举办展览，这将是博物馆历史上首次为单一艺术家专门展示全新作品。此次展览不仅展示了她在摄影和视频领域的创新，还标志着博物馆在展览形式上的一次突破。这样的展览对于提升公众对当代艺术的关注和理解具有重要意义，同时也可能吸引更多观众前来参观，推动博物馆的文化交流和艺术传播。",
+          "analysis_en": "Taryn Simon will hold an exhibition in the Guggenheim Museum's rotunda, marking the first time in the museum's history that a single artist will showcase an entirely new body of work. This exhibition highlights her innovations in photography and video, representing a significant shift in the museum's exhibition format. Such an event is crucial for enhancing public engagement with contemporary art and may attract more visitors, thereby promoting cultural exchange and the dissemination of art through the museum."
         }
       ]
     }
