@@ -96,6 +96,7 @@ jobs:
           test -f docs/reading.html
           test -f docs/reading.json
           test ! -f docs/monitor.json
+          python scripts/verify_history_retention.py
 
       - name: Commit and push generated files
         run: |
