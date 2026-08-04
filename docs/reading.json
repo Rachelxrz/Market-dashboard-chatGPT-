@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-04 15:32:18 UTC",
-  "generated_at_unix": 1785857538,
+  "generated_at": "2026-08-04 16:15:32 UTC",
+  "generated_at_unix": 1785860132,
   "window": {
-    "from_utc": "2026-08-03 15:32:18 UTC",
-    "to_utc": "2026-08-04 15:32:18 UTC",
+    "from_utc": "2026-08-03 16:15:32 UTC",
+    "to_utc": "2026-08-04 16:15:32 UTC",
     "hours": 24,
     "run_mode": "morning"
   },
@@ -15,145 +15,163 @@
       "items": [
         {
           "rank": 1,
-          "title": "Procter & Gamble will acquire supplements brand Thorne, CEO tells CNBC",
-          "link": "https://cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html",
+          "title": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling",
+          "link": "https://cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html",
           "source": "US Top News and Analysis",
-          "published_utc": "2026-08-04 15:29 UTC",
-          "analysis_zh": "宝洁公司（P&G）首席执行官Shailesh Jejurikar在接受CNBC采访时宣布，计划收购营养补充品品牌Thorne。这一收购旨在扩大公司在健康业务领域的影响力，显示出宝洁对健康市场的重视。此举不仅可能提升宝洁的产品线，还可能增强其在竞争激烈的健康产品市场中的地位。",
-          "analysis_en": "Procter & Gamble's CEO Shailesh Jejurikar announced in an interview with CNBC that the company plans to acquire the supplements brand Thorne. This acquisition aims to expand P&G's presence in the health business, highlighting the company's focus on the health market. This move could not only enhance P&G's product offerings but also strengthen its position in the competitive health products market."
+          "published_utc": "2026-08-04 16:14 UTC",
+          "analysis_zh": "亚马逊创下历史新高后，杰夫·贝索斯申请出售价值40亿美元的亚马逊股票。这一举动引发了市场的关注，尤其是在公司刚刚公布了强劲的季度业绩之后。贝索斯的减持可能会影响投资者的信心，导致亚马逊股价的波动。此事件不仅反映了贝索斯对公司未来的看法，也可能影响其他投资者的决策。",
+          "analysis_en": "Jeff Bezos has filed to sell $4 billion worth of Amazon shares after the company reached an all-time high, following strong quarterly results. This move has drawn attention from the market, especially given the recent positive performance of the company. Bezos's decision to reduce his stake may impact investor confidence and lead to fluctuations in Amazon's stock price. This event not only reflects Bezos's perspective on the company's future but could also influence the decisions of other investors."
         },
         {
           "rank": 2,
-          "title": "Palantir is leaving its software peers behind in the AI race",
-          "link": "https://marketwatch.com/story/palantir-is-leaving-its-software-peers-behind-in-the-ai-race-45280581",
-          "source": "MarketWatch.com - Top Stories",
-          "published_utc": "2026-08-04 15:29 UTC",
-          "analysis_zh": "Palantir在人工智能领域的竞争中逐渐领先于其软件同行。分析师指出，该公司专注于主权人工智能，这一策略受到了客户的广泛认可。这一发展不仅提升了Palantir的市场地位，也可能对整个行业的竞争格局产生深远影响。随着更多企业关注主权AI，可能会推动相关技术的进一步创新和应用。",
-          "analysis_en": "Palantir is gaining an edge over its software peers in the artificial intelligence race. Analysts note that the company's focus on sovereign AI has resonated well with customers. This development not only enhances Palantir's market position but could also have significant implications for the competitive landscape of the industry. As more companies turn their attention to sovereign AI, it may drive further innovation and application of related technologies."
+          "title": "U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.23%",
+          "link": "https://investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-023-4835192",
+          "source": "Stock Market News",
+          "published_utc": "2026-08-04 16:09 UTC",
+          "analysis_zh": "英国股市在交易结束时上涨，英国100指数上涨了0.23%。这一上涨反映了市场对经济复苏的乐观情绪，投资者对未来的增长前景持积极态度。这一趋势可能会吸引更多投资者进入市场，从而进一步推动股市的发展。",
+          "analysis_en": "U.K. stocks closed higher, with the United Kingdom 100 index rising by 0.23%. This increase reflects a positive sentiment in the market regarding economic recovery, as investors remain optimistic about future growth prospects. This trend may attract more investors into the market, potentially further boosting stock market development."
         },
         {
           "rank": 3,
-          "title": "New Jersey sues Amazon alleging poor pay and conditions for drivers​",
-          "link": "https://investing.com/news/stock-market-news/new-jersey-ag-sues-amazon-over-driver-pay-conditions-4834890",
+          "title": "Spain stocks higher at close of trade; IBEX 35 up 0.21%",
+          "link": "https://investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-021-4835191",
           "source": "Stock Market News",
-          "published_utc": "2026-08-04 15:25 UTC",
-          "analysis_zh": "新泽西州对亚马逊提起诉讼，指控其对司机的薪酬和工作条件不佳。这一事件引发了公众对大型科技公司劳动实践的关注，尤其是在疫情期间，快递服务的需求激增。此诉讼可能会影响亚马逊的运营模式，并促使其他州也采取类似行动，推动更严格的劳动法规。",
-          "analysis_en": "New Jersey has filed a lawsuit against Amazon, alleging poor pay and working conditions for its drivers. This incident has drawn public attention to the labor practices of large tech companies, particularly during the surge in demand for delivery services amid the pandemic. The lawsuit could impact Amazon's operational model and may encourage other states to take similar actions, leading to stricter labor regulations."
+          "published_utc": "2026-08-04 16:08 UTC",
+          "analysis_zh": "西班牙股市在交易结束时上涨，IBEX 35指数上涨了0.21%。这一上涨反映了市场对经济复苏的乐观情绪，投资者对未来的增长前景持积极态度。股市的表现不仅影响了投资者的信心，也可能吸引更多外资流入西班牙市场，从而进一步推动经济发展。",
+          "analysis_en": "Spain's stock market closed higher, with the IBEX 35 index rising by 0.21%. This increase reflects a positive sentiment among investors regarding economic recovery and growth prospects. The stock market's performance not only boosts investor confidence but may also attract more foreign investment into Spain, further stimulating economic development."
         },
         {
           "rank": 4,
-          "title": "Spotify’s higher spending on marketing, AI features to hit profit",
-          "link": "https://investing.com/news/stock-market-news/spotify-forecasts-weak-profit-as-user-growth-slows-in-north-america-europe-4833491",
-          "source": "Stock Market News",
-          "published_utc": "2026-08-04 15:24 UTC",
-          "analysis_zh": "Spotify最近宣布将增加在市场营销和人工智能功能上的支出，这一决定可能会对公司的利润产生负面影响。这一举措旨在提升用户体验和吸引更多订阅者，但同时也意味着短期内的财务压力。投资者需要关注这一策略是否能够在未来带来可持续的增长，尤其是在竞争日益激烈的音乐流媒体市场中。",
-          "analysis_en": "Spotify recently announced plans to increase spending on marketing and AI features, a decision that could negatively impact the company's profits. This strategy aims to enhance user experience and attract more subscribers, but it also implies financial pressure in the short term. Investors should monitor whether this approach can lead to sustainable growth in the increasingly competitive music streaming market."
+          "title": "Jim Cramer weighs the next move after massive rallies in two tech stocks",
+          "link": "https://cnbc.com/2026/08/04/jim-cramer-weighs-next-move-after-massive-rallies-in-two-tech-stocks.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-08-04 16:08 UTC",
+          "analysis_zh": "最近，投资俱乐部的“晨会”在每个工作日的东部时间上午10:20举行，吸引了众多投资者的关注。此次会议的重点是分析两只科技股的巨大涨幅，投资者们对未来的市场走向充满期待。这一现象不仅反映了科技股的强劲表现，也可能影响投资者的信心和市场趋势。随着科技行业的持续发展，相关股票的波动将对整体市场产生重要影响。",
+          "analysis_en": "Recently, the Investing Club's \"Morning Meeting\" has been held every weekday at 10:20 a.m. ET, drawing significant attention from investors. The focus of this meeting is to analyze the massive rallies of two tech stocks, and investors are eager to understand the future market direction. This phenomenon not only highlights the strong performance of tech stocks but may also influence investor confidence and market trends. As the tech sector continues to evolve, the fluctuations in these stocks will have a significant impact on the overall market."
         },
         {
           "rank": 5,
-          "title": "Stablecoin stock picks across three tiers of risk and reward",
-          "link": "https://investing.com/news/stock-market-news/stablecoin-stock-picks-across-three-tiers-of-risk-and-reward-93CH-4835068",
+          "title": "Portugal stocks lower at close of trade; PSI down 0.03%",
+          "link": "https://investing.com/news/stock-market-news/portugal-stocks-lower-at-close-of-trade-psi-down-003-4835190",
           "source": "Stock Market News",
-          "published_utc": "2026-08-04 15:24 UTC",
-          "analysis_zh": "近期，投资者们关注稳定币的股票选择，这些选择涵盖了三种不同的风险和回报等级。这一现象引发了市场的广泛讨论，因为稳定币在加密货币市场中的地位日益重要。投资者在选择股票时，需考虑风险承受能力和潜在收益，这将直接影响他们的投资策略和市场动态。",
-          "analysis_en": "Recently, investors have been focusing on stock picks related to stablecoins, which span three different tiers of risk and reward. This trend has sparked widespread discussion in the market, as stablecoins are becoming increasingly significant in the cryptocurrency landscape. When selecting stocks, investors need to consider their risk tolerance and potential returns, which will directly influence their investment strategies and market dynamics."
+          "published_utc": "2026-08-04 16:08 UTC",
+          "analysis_zh": "葡萄牙股市在交易结束时出现小幅下跌，PSI指数下降了0.03%。这一变化表明市场情绪可能受到投资者谨慎态度的影响，尤其是在全球经济不确定性加大的背景下。尽管跌幅不大，但这可能会影响投资者的信心，进而影响未来的投资决策。",
+          "analysis_en": "Portugal's stock market closed slightly lower, with the PSI index down by 0.03%. This change suggests that market sentiment may be influenced by a cautious attitude among investors, particularly amid increasing global economic uncertainty. Although the decline is minor, it could affect investor confidence and subsequently impact future investment decisions."
         },
         {
           "rank": 6,
-          "title": "Vertex stock tumbles on cloud growth miss, price target cuts",
-          "link": "https://investing.com/news/stock-market-news/vertex-stock-tumbles-on-cloud-growth-miss-price-target-cuts-93CH-4835066",
-          "source": "Stock Market News",
-          "published_utc": "2026-08-04 15:23 UTC",
-          "analysis_zh": "Vertex公司的股票因未能达到云计算增长预期而大幅下跌，同时分析师下调了其目标股价。这一事件引发了市场的广泛关注，因为云计算是当前科技行业的重要增长领域。投资者对公司的未来表现感到担忧，这可能会影响其融资能力和市场信心。",
-          "analysis_en": "Vertex's stock plummeted after it missed expectations for cloud growth, and analysts lowered their price targets. This incident has garnered significant attention in the market, as cloud computing is a crucial growth area in the tech industry today. Investors are now concerned about the company's future performance, which may affect its ability to secure funding and overall market confidence."
+          "title": "Why Ford believes its 10.2% July U.S. sales decline was still a 'good' month",
+          "link": "https://cnbc.com/2026/08/04/ford-july-sales-decline.html",
+          "source": "US Top News and Analysis",
+          "published_utc": "2026-08-04 16:04 UTC",
+          "analysis_zh": "福特汽车公司在2023年7月的美国销量下降了10.2%，尽管如此，该公司仍认为这是一个“好”的月份。这一下降加剧了该公司今年销售表现不佳的趋势，与2025年相比，销量下降了9.7%。这一情况不仅反映了福特在市场竞争中的挑战，也可能影响其未来的投资决策和产品战略。",
+          "analysis_en": "Ford Motor Company reported a 10.2% decline in U.S. sales for July 2023, yet the company still considers it a \"good\" month. This drop adds to the automaker's disappointing sales performance this year, with a 9.7% decrease compared to 2025. This situation not only highlights the challenges Ford faces in a competitive market but may also impact its future investment decisions and product strategies."
         },
         {
           "rank": 7,
-          "title": "The 1 Number That Shows Why Palantir’s Critics Are Completely Wrong",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/1-number-shows-why-palantir-152010990.html",
-          "source": "Yahoo Finance",
-          "published_utc": "2026-08-04 15:20 UTC",
-          "analysis_zh": "近日，Palantir公司的财务表现引起了广泛关注，尤其是其盈利能力的提升。分析师指出，Palantir在数据分析和人工智能领域的创新使其在市场中占据了重要地位。这一发展不仅反驳了对公司未来前景的质疑，也可能吸引更多投资者的关注，推动其股价上涨。随着技术的不断进步，Palantir有望在未来继续扩展其市场份额。",
-          "analysis_en": "Recently, Palantir's financial performance has garnered significant attention, particularly due to its improved profitability. Analysts highlight that the company's innovations in data analytics and artificial intelligence have positioned it as a key player in the market. This development not only counters skepticism about its future prospects but may also attract more investors, potentially driving its stock price higher. With ongoing technological advancements, Palantir is likely to continue expanding its market share in the future."
+          "title": "Why is Genius Sports stock surging today?",
+          "link": "https://investing.com/news/stock-market-news/why-is-genius-sports-stock-surging-today-93CH-4835174",
+          "source": "Stock Market News",
+          "published_utc": "2026-08-04 16:04 UTC",
+          "analysis_zh": "今天，Genius Sports的股票大幅上涨，市场对其未来增长潜力的乐观情绪推动了这一波动。这一现象引起了投资者的广泛关注，因为公司在体育数据和技术服务领域的表现不断提升。股票的上涨不仅反映了市场对其业务模式的认可，也可能吸引更多投资者的参与，从而进一步推动公司的发展。",
+          "analysis_en": "Today, Genius Sports' stock surged significantly, driven by optimistic market sentiment regarding its future growth potential. This event has garnered widespread attention from investors, as the company continues to excel in the sports data and technology services sector. The stock's rise not only reflects market recognition of its business model but may also attract more investors, further propelling the company's growth."
         },
         {
           "rank": 8,
-          "title": "Moderna begins first human trial of Bundibugyo Ebola vaccine",
-          "link": "https://investing.com/news/stock-market-news/moderna-begins-first-human-trial-of-bundibugyo-ebola-vaccine-4835054",
+          "title": "Apple seeks preliminary injunction against OpenAI in trade secrets case",
+          "link": "https://investing.com/news/stock-market-news/apple-seeks-preliminary-injunction-against-openai-in-trade-secrets-case-4832833",
           "source": "Stock Market News",
-          "published_utc": "2026-08-04 15:18 UTC",
-          "analysis_zh": "美国生物技术公司Moderna开始了其Bundibugyo埃博拉疫苗的首次人体试验。这一进展对于公共卫生领域具有重要意义，因为埃博拉病毒仍然是全球健康的威胁。成功的临床试验可能为未来应对类似病毒的疫苗研发提供新的思路，并增强全球对抗传染病的能力。",
-          "analysis_en": "U.S. biotechnology company Moderna has initiated its first human trial of the Bundibugyo Ebola vaccine. This development is significant for public health, as the Ebola virus continues to pose a global health threat. Successful clinical trials could provide new insights for the development of vaccines against similar viruses and strengthen the global response to infectious diseases."
+          "published_utc": "2026-08-04 16:00 UTC",
+          "analysis_zh": "苹果公司在一起商业秘密案件中，向法院申请对OpenAI的初步禁令。这一举动表明苹果对其核心技术和商业机密的保护非常重视。此案可能会影响到人工智能领域的竞争格局，尤其是在技术共享和知识产权方面的法律界限。若苹果成功，可能会对其他科技公司在类似案件中的策略产生深远影响。",
+          "analysis_en": "Apple has filed for a preliminary injunction against OpenAI in a trade secrets case. This move highlights Apple's strong commitment to protecting its core technologies and business secrets. The outcome of this case could significantly impact the competitive landscape in the artificial intelligence sector, particularly regarding the legal boundaries of technology sharing and intellectual property. If Apple succeeds, it may lead to profound changes in how other tech companies approach similar legal challenges."
         },
         {
           "rank": 9,
-          "title": "Hugo Boss Finds Profit in a Sales Slump",
-          "link": "https://finance.yahoo.com/markets/stocks/articles/hugo-boss-finds-profit-sales-151759208.html",
+          "title": "Anthropic inks $10B computing deal with Nvidia-backed Volta Infra",
+          "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-inks-10b-computing-deal-155800765.html",
           "source": "Yahoo Finance",
-          "published_utc": "2026-08-04 15:17 UTC",
-          "analysis_zh": "Hugo Boss最近在销售下滑的情况下实现了盈利，这引发了市场的关注。尽管面临经济挑战，该品牌通过调整产品线和优化成本结构，成功保持了利润水平。这一举措不仅显示了Hugo Boss的灵活应变能力，也可能影响到其他奢侈品牌的经营策略，促使它们在不确定的市场环境中寻找新的增长点。",
-          "analysis_en": "Hugo Boss recently managed to find profit despite a decline in sales, which has caught the attention of the market. Facing economic challenges, the brand successfully maintained its profit levels by adjusting its product line and optimizing its cost structure. This move not only demonstrates Hugo Boss's adaptability but may also influence the business strategies of other luxury brands, prompting them to seek new growth opportunities in an uncertain market environment."
+          "published_utc": "2026-08-04 15:58 UTC",
+          "analysis_zh": "Anthropic与Nvidia支持的Volta Infra达成了一项价值100亿美元的计算合作协议。这一交易标志着人工智能领域的重要进展，尤其是在计算能力和资源的获取上。通过与Nvidia的合作，Anthropic能够加速其AI技术的发展，这对整个行业的竞争格局可能产生深远影响。此举不仅提升了Anthropic的技术实力，也可能推动其他公司加大在AI领域的投资和研发力度。",
+          "analysis_en": "Anthropic has signed a $10 billion computing deal with Nvidia-backed Volta Infra. This agreement represents a significant advancement in the artificial intelligence sector, particularly in terms of accessing computing power and resources. By partnering with Nvidia, Anthropic can accelerate the development of its AI technologies, which may have far-reaching implications for the competitive landscape of the industry. This move not only enhances Anthropic's technological capabilities but could also encourage other companies to increase their investments and research efforts in AI."
         },
         {
           "rank": 10,
-          "title": "Blanche approved by Judiciary Committee, sending Trump's AG nominee to full Senate vote",
-          "link": "https://cnbc.com/2026/08/04/todd-blanche-weaponization-fund-senate-confirmation.html",
+          "title": "Procter & Gamble will acquire supplements brand Thorne for $3.8 billion, CEO tells CNBC",
+          "link": "https://cnbc.com/2026/08/04/procter-gamble-will-acquire-supplements-brand-thorne.html",
           "source": "US Top News and Analysis",
-          "published_utc": "2026-08-04 15:17 UTC",
-          "analysis_zh": "美国参议院司法委员会已批准唐纳德·特朗普提名的总检察长候选人托德·布兰奇，接下来将提交全体参议院投票。此举标志着布兰奇在获得确认方面迈出了重要一步，但他仍需在参议院获得至少50票支持才能正式上任。此事件的重要性在于，总检察长的任命将影响美国的法律政策和执法方向，尤其是在特朗普政府的政策延续方面。",
-          "analysis_en": "The Senate Judiciary Committee has approved Todd Blanche, Donald Trump's nominee for Attorney General, moving him forward to a full Senate vote. This marks a significant step for Blanche in the confirmation process, but he still needs to secure at least 50 votes in the Senate to officially take office. The importance of this event lies in the fact that the Attorney General's appointment will influence U.S. legal policies and law enforcement directions, particularly in terms of continuing the policies of the Trump administration."
+          "published_utc": "2026-08-04 15:56 UTC",
+          "analysis_zh": "宝洁公司（P&G）宣布将以38亿美元收购营养补充品品牌Thorne。P&G首席执行官Shailesh Jejurikar在接受CNBC采访时表示，此次收购旨在扩大公司的健康业务。这一举措不仅将增强P&G在健康领域的市场竞争力，也可能影响消费者对其品牌的认知和忠诚度。随着健康意识的提升，P&G的这一战略可能会为其带来新的增长机会。",
+          "analysis_en": "Procter & Gamble (P&G) has announced its acquisition of the supplements brand Thorne for $3.8 billion. P&G CEO Shailesh Jejurikar stated in an interview with CNBC that this acquisition aims to expand the company's health business. This move will not only enhance P&G's competitive position in the health sector but may also influence consumer perception and loyalty towards the brand. As health awareness rises, this strategy could provide P&G with new growth opportunities."
         }
       ]
     },
     "健康": {
       "description": "医学、营养、抗衰老、代谢与公共健康",
-      "count": 5,
+      "count": 7,
       "duplicates_filtered": 0,
       "items": [
         {
           "rank": 1,
+          "title": "An Invasive Mosquito Is Spreading With Alarming Speed, Threatening Africa’s Cities",
+          "link": "https://nytimes.com/2026/08/04/us/politics/mosquito-africa-anopheles-stephensi.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-08-04 15:37 UTC",
+          "analysis_zh": "一种携带疟疾的入侵性蚊子正在以惊人的速度扩散，威胁着非洲的城市。这种蚊子对所有杀虫剂都有抗药性，使得控制其传播变得极为困难。科学家们正在努力寻找有效的方法来降低这一风险，以保护公众健康。如果不采取有效措施，这种蚊子的扩散可能导致疟疾病例激增，对非洲的医疗系统造成重大压力。",
+          "analysis_en": "An invasive mosquito that carries malaria is spreading rapidly, posing a significant threat to cities in Africa. This mosquito is resistant to all known insecticides, making it extremely challenging to control its spread. Scientists are racing to find effective strategies to mitigate this risk and protect public health. If no effective measures are implemented, the spread of this mosquito could lead to a surge in malaria cases, placing considerable strain on Africa's healthcare systems."
+        },
+        {
+          "rank": 2,
+          "title": "Medicaid Urges States to Increase Autism Therapy Oversight",
+          "link": "https://nytimes.com/2026/08/04/health/autism-therapy-medicaid.html",
+          "source": "NYT > Health",
+          "published_utc": "2026-08-04 15:30 UTC",
+          "analysis_zh": "美国医疗补助计划呼吁各州加强对自闭症治疗的监管。自2021年以来，该计划在治疗上的支出增长了五倍，远远超过了自闭症诊断的增长速度。这一现象引发了人们对过度开处方和欺诈行为的担忧。加强监管不仅有助于确保资源的合理使用，还能保护患者的权益，确保他们获得必要的治疗。",
+          "analysis_en": "The Medicaid program is urging states to enhance oversight of autism therapy. Since 2021, spending on this therapy has increased fivefold, significantly outpacing the rise in autism diagnoses. This trend has raised concerns about overprescribing and potential fraud. Strengthening oversight is crucial not only for ensuring the appropriate use of resources but also for protecting patients' rights and ensuring they receive necessary treatments."
+        },
+        {
+          "rank": 3,
           "title": "Cancer-fighting chewing gum cuts HPV levels by up to 93%",
           "link": "https://sciencedaily.com/releases/2026/08/260803080917.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-08-04 13:33 UTC",
-          "analysis_zh": "一项新的研究发现，经过特别设计的口香糖能够将人乳头瘤病毒（HPV）水平降低高达93%，并几乎消除了与头颈癌相关的两种细菌。这项研究由宾夕法尼亚大学的研究团队进行，结果发表在《Scientific Reports》上。该治疗方法不仅有效，而且能够保留口腔中的有益细菌，给患者带来了更安全和经济的治疗希望。这一发现可能会推动新的癌症治疗方法的发展，尤其是在头颈癌领域。",
-          "analysis_en": "A new study has found that specially engineered chewing gum can reduce levels of human papillomavirus (HPV) by up to 93% and nearly eliminate two bacteria associated with head and neck cancer. Conducted by a research team from the University of Pennsylvania, the findings were published in Scientific Reports. This treatment is not only effective but also preserves beneficial bacteria in the mouth, raising hopes for safer and more affordable therapies. This discovery could lead to the development of new cancer treatment options, particularly in the area of head and neck cancer."
+          "analysis_zh": "一种专门研发的口香糖能够将人乳头瘤病毒（HPV）水平降低多达93%，并几乎消除与头颈癌相关的两种细菌。这一研究成果由宾夕法尼亚大学的研究团队主导，可能为头颈癌的治疗提供一种新的、安全且经济的选择。由于头颈癌的治疗效果通常不佳，这种新方法的出现为患者带来了希望，可能会改善他们的生活质量和生存率。",
+          "analysis_en": "A specially engineered chewing gum has been shown to reduce human papillomavirus (HPV) levels by up to 93% and nearly eliminate two bacteria associated with head and neck cancer. This research, led by a team from the University of Pennsylvania, could offer a new, safer, and more affordable treatment option for head and neck cancer. Given the generally poor outcomes associated with current treatments, this new approach brings hope for improving patients' quality of life and survival rates."
         },
         {
-          "rank": 2,
+          "rank": 4,
           "title": "A common sugar may help cancer cells break free and spread",
           "link": "https://sciencedaily.com/releases/2026/08/260802223426.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-08-04 05:15 UTC",
-          "analysis_zh": "一项来自威斯特研究所的研究发现，化疗存活的卵巢癌细胞可能会释放果糖，帮助邻近的肿瘤细胞松动、逃逸并扩散。这一发现揭示了化疗后残留的癌细胞可能通过释放信号分子影响癌症的转移过程。研究表明，含糖饮食和降胆固醇药物可能会影响癌症的进展，尽管这些影响尚未在患者中得到确认。这一研究为理解卵巢癌复发的机制提供了新的视角，可能会影响未来的治疗策略。",
-          "analysis_en": "A study from The Wistar Institute has found that chemotherapy-surviving ovarian cancer cells may release fructose, which helps neighboring tumor cells loosen, escape, and spread. This discovery reveals how residual cancer cells after treatment can influence metastasis by sending chemical signals. The findings suggest that sugary diets and cholesterol-lowering medications could potentially affect cancer progression, although these effects have not yet been confirmed in patients. This research offers new insights into the mechanisms behind ovarian cancer recurrence and may impact future treatment strategies."
+          "analysis_zh": "一项新的研究发现，化疗存活的卵巢癌细胞可能会释放果糖，以帮助邻近的肿瘤细胞松动、逃逸并扩散。这一发现表明，含糖饮食和降胆固醇药物可能会影响癌症的进展，尽管这些影响尚未在患者中得到确认。了解这一机制对于开发新的治疗策略至关重要，因为卵巢癌的复发率很高，且大多数患者在接受化疗后仍会面临癌症扩散的风险。",
+          "analysis_en": "A new study has found that chemotherapy-surviving ovarian cancer cells may release fructose to help neighboring tumor cells loosen, escape, and spread. This discovery suggests that sugary diets and cholesterol-lowering medications could influence cancer progression, although these effects have not yet been confirmed in patients. Understanding this mechanism is crucial for developing new treatment strategies, as the recurrence rate of ovarian cancer is high, and most patients face the risk of cancer spreading even after chemotherapy."
         },
         {
-          "rank": 3,
+          "rank": 5,
           "title": "Your brain may be wired to regain lost weight",
           "link": "https://sciencedaily.com/releases/2026/08/260803080902.htm",
           "source": "Health & Medicine News -- ScienceDaily",
           "published_utc": "2026-08-04 03:38 UTC",
-          "analysis_zh": "最近的研究表明，人类大脑在进化过程中形成了保护体脂的机制，这使得在经历减肥后，身体会将之前的高体重视为新的正常状态。这种生物学上的“记忆”导致人们在减肥后更容易感到饥饿、渴望食物，并且能量消耗降低。这项发现对于理解为何许多人在节食后会反弹至关重要，同时也为减肥药物如Wegovy和Mounjaro的使用提供了科学依据，尽管这些药物的效果可能在停药后减弱。",
-          "analysis_en": "Recent research indicates that the human brain has evolved mechanisms to protect body fat, which can lead to the perception of a previously higher weight as the new normal after weight loss. This biological \"memory\" results in increased hunger, cravings, and reduced energy expenditure following weight loss. This finding is crucial for understanding why many people regain weight after dieting and supports the use of weight-loss medications like Wegovy and Mounjaro, although their effects may diminish once treatment stops."
+          "analysis_zh": "研究表明，人类的大脑在进化过程中形成了保护体脂的机制，这使得减肥并不仅仅是意志力的问题。当人们减轻体重后，大脑会将之前的较高体重视为新的正常状态，从而引发更强烈的饥饿感和食欲，导致能量消耗降低。这种生物学上的“记忆”解释了为什么许多人在节食后会反弹，以及为什么一些药物如Wegovy和Mounjaro能够通过减少食欲信号来帮助减肥，尽管其效果可能在停止治疗后减弱。这一发现对肥胖治疗和减肥策略的制定具有重要意义，可能促使科学家们寻找更有效的解决方案。",
+          "analysis_en": "Research indicates that the human brain has evolved mechanisms to protect body fat, making weight loss more complex than just a matter of willpower. After losing weight, the brain can perceive a previously higher weight as the new normal, triggering stronger feelings of hunger and cravings while reducing energy expenditure. This biological \"memory\" helps explain why many individuals regain weight after dieting and why medications like Wegovy and Mounjaro can assist in weight loss by reducing appetite signals, although their effects may diminish once treatment stops. This finding is significant for obesity treatment and weight loss strategies, potentially leading scientists to seek more effective solutions."
         },
         {
-          "rank": 4,
+          "rank": 6,
           "title": "Spotlight on Fauci Said to Boost Book Sales for Kennedy and His Publisher",
           "link": "https://nytimes.com/2026/08/03/us/politics/fauci-rfk-publisher.html",
           "source": "NYT > Health",
           "published_utc": "2026-08-04 01:49 UTC",
-          "analysis_zh": "健康部长罗伯特·F·肯尼迪 Jr.、他的儿子以及参议员兰德·保罗都撰写了批评安东尼·福奇博士的书籍。这些书籍均由一位与肯尼迪关系密切的顾问领导的公司出版。此事件引发了公众对福奇的关注，同时也可能推动肯尼迪及其出版商的书籍销量，反映出政治与出版界之间的复杂关系。",
-          "analysis_en": "Health Secretary Robert F. Kennedy Jr., his son, and Senator Rand Paul have all written books criticizing Dr. Anthony S. Fauci. These books were published by a company led by a close Kennedy adviser. This situation has drawn public attention to Fauci and may boost book sales for Kennedy and his publisher, highlighting the complex relationship between politics and the publishing industry."
+          "analysis_zh": "健康部长罗伯特·F·肯尼迪 Jr.、他的儿子以及参议员兰德·保罗都出版了批评安东尼·福奇博士的书籍。这些书籍由一位与肯尼迪密切相关的顾问领导的公司出版。这一现象引发了公众对福奇的关注，同时也可能推动肯尼迪及其出版商的书籍销量上升。这不仅反映了对福奇的争议，也可能影响公众对疫苗和公共卫生政策的看法。",
+          "analysis_en": "Health Secretary Robert F. Kennedy Jr., his son, and Senator Rand Paul have all published books criticizing Dr. Anthony S. Fauci. These books are published by a company led by a close advisor to Kennedy. This situation has drawn public attention to Fauci and may boost book sales for Kennedy and his publisher. It reflects ongoing controversies surrounding Fauci and could influence public perceptions of vaccines and public health policies."
         },
         {
-          "rank": 5,
+          "rank": 7,
           "title": "Self-Help Influencer Nicole LePera Faces Litigation",
           "link": "https://nytimes.com/2026/08/02/style/nicole-lepera-self-help-litigation-holistic-psychologist.html",
           "source": "NYT > Health",
           "published_utc": "2026-08-03 17:11 UTC",
-          "analysis_zh": "自助影响者妮可·勒佩拉（Nicole LePera）正面临诉讼，这引发了广泛关注。她的建议帮助了数百万追求幸福和健康关系的人，但她的个人经历却相对复杂。这一事件不仅可能影响她的声誉，也可能对她的追随者产生连锁反应，促使人们重新审视自助行业的可信度和专业性。",
-          "analysis_en": "Self-help influencer Nicole LePera is facing litigation, which has garnered significant attention. Her advice has helped millions seeking happiness and healthy relationships, yet her personal story is quite complex. This situation could not only impact her reputation but also trigger a ripple effect among her followers, prompting a reevaluation of the credibility and professionalism within the self-help industry."
+          "analysis_zh": "自助影响者妮可·勒佩拉（Nicole LePera）正面临诉讼，尽管她为数百万追随者提供了关于幸福和健康关系的建议，但她的个人经历却相当复杂。这一事件引发了人们对自助行业的信任问题的关注，尤其是当影响者的生活与他们所倡导的理念不符时。此事可能会影响公众对自助书籍和影响者的看法，进而影响他们的职业生涯和影响力。",
+          "analysis_en": "Self-help influencer Nicole LePera is facing litigation, raising questions about the trustworthiness of the self-help industry. While she offers advice to millions on achieving happiness and maintaining healthy relationships, her own story is quite complicated. This situation could affect public perception of self-help books and influencers, potentially impacting their careers and influence in the field."
         }
       ]
     },
@@ -168,8 +186,8 @@
           "link": "https://aeon.co/essays/an-ai-for-africa-would-be-built-on-hunhu-ubuntu-ethics",
           "source": "Aeon | a world of ideas",
           "published_utc": "2026-08-04 10:00 UTC",
-          "analysis_zh": "这篇文章探讨了西方开发的人工智能如何忽视非洲的乌班图（Ubuntu）价值观，这些价值观强调人与人之间的联系和社区的重要性。随着人工智能技术的迅速发展，这一问题显得尤为重要，因为它可能导致非洲文化和伦理观念的边缘化。文章提醒我们，技术的进步不应以牺牲地方文化为代价，这对未来的技术发展和社会结构将产生深远影响。",
-          "analysis_en": "This article discusses how Western-developed artificial intelligence overlooks the Ubuntu values that emphasize connection and community in African ethical life. As AI technology rapidly advances, this issue becomes particularly significant, as it may lead to the marginalization of African cultures and ethical perspectives. The piece highlights the importance of ensuring that technological progress does not come at the expense of local cultures, which could have profound implications for future technological development and social structures."
+          "analysis_zh": "这篇文章探讨了西方开发的人工智能如何忽视非洲的乌班图价值观，这些价值观强调人与人之间的联系和社区的重要性。作者认为，当前的AI技术在设计和应用上缺乏对非洲文化的理解与尊重，这可能导致技术在当地的适用性和有效性受到影响。关注这一问题不仅有助于推动更具包容性的技术发展，也能促进非洲社会的整体福祉。",
+          "analysis_en": "The article discusses how Western-developed artificial intelligence overlooks the Ubuntu values that emphasize connection and community in African ethical life. The author argues that the current AI technologies lack an understanding and respect for African cultures, which may affect their applicability and effectiveness in the region. Addressing this issue is crucial not only for fostering more inclusive technological development but also for enhancing the overall well-being of African societies."
         }
       ]
     },
@@ -180,93 +198,93 @@
       "items": [
         {
           "rank": 1,
+          "title": "T-Mobile’s $0-down financing plan bundles taxes and fees",
+          "link": "https://theverge.com/tech/975115/t-mobile-financing-eip-flex-36-plan",
+          "source": "The Verge",
+          "published_utc": "2026-08-04 16:07 UTC",
+          "analysis_zh": "T-Mobile最近推出了一项新的融资计划，允许用户在36个月内分期支付设备费用、税费和其他费用，而无需提前支付任何款项。这项名为EIP Flex 36的计划在有限时间内提供0%的年利率，这意味着用户可以在不增加财务负担的情况下获得新设备。这一举措对于希望以更灵活的方式购买手机的消费者来说具有重要意义，可能会吸引更多用户选择T-Mobile的服务。",
+          "analysis_en": "T-Mobile has recently introduced a new financing option that allows customers to pay for devices, taxes, and fees over 36 months without any upfront payment. This plan, called EIP Flex 36, offers a 0% APR for a limited time, making it easier for users to acquire new devices without financial strain. This initiative is significant for consumers looking for more flexible purchasing options and may attract more users to T-Mobile's services."
+        },
+        {
+          "rank": 2,
+          "title": "Skylight’s smart calendars are up to $90 off during its back-to-school sale",
+          "link": "https://theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale",
+          "source": "The Verge",
+          "published_utc": "2026-08-04 16:01 UTC",
+          "analysis_zh": "随着新学年的开始，家长们需要在孩子的课程、课外活动和体育运动与工作、约会等其他责任之间进行平衡，这让人感到忙碌。Skylight的智能共享日历可以帮助家庭更好地组织日程，避免遗漏重要事项。为了迎接开学季，从8月2日至8月9日，Skylight的多款智能日历最高可享受90美元的折扣，这一促销活动将为需要管理繁忙日程的家庭提供便利。",
+          "analysis_en": "As the new school year begins, parents often find themselves juggling their children's classes, extracurricular activities, and sports alongside work and other commitments, which can be overwhelming. Skylight's shared smart calendars aim to help families stay organized and avoid missing important events. To celebrate the back-to-school season, from August 2nd to August 9th, Skylight is offering discounts of up to $90 on several models, providing a convenient solution for families managing busy schedules."
+        },
+        {
+          "rank": 3,
+          "title": "We All Do Errands. Noah Blau Films Them.",
+          "link": "https://nytimes.com/2026/07/31/style/errands-should-be-the-most-boring-show-on-the-internet.html",
+          "source": "NYT > Technology",
+          "published_utc": "2026-08-04 15:46 UTC",
+          "analysis_zh": "诺亚·布劳（Noah Blau）通过他的网络系列节目，将日常琐事变得引人入胜。他拍摄了诸如应对交通罚单、挂窗帘和安装空调等平凡的任务。这一系列的成功不仅展示了普通生活的魅力，也让观众重新审视这些看似无聊的活动。这样的创作可能会激发更多人关注并分享他们的日常生活，进而影响内容创作的方向。",
+          "analysis_en": "Noah Blau has made the mundane fascinating through his online series, which features everyday errands like fighting a traffic ticket, hanging curtains, and installing an air conditioner. His show's success highlights the charm of ordinary life and encourages viewers to reconsider these seemingly dull activities. This kind of creative approach may inspire more people to focus on and share their daily lives, potentially influencing the direction of content creation."
+        },
+        {
+          "rank": 4,
+          "title": "Samsung’s HDR10 Plus Advanced is launching this month on Prime Video",
+          "link": "https://theverge.com/gadgets/975085/samsung-hdr-10-plus-advanced-prime-video",
+          "source": "The Verge",
+          "published_utc": "2026-08-04 15:43 UTC",
+          "analysis_zh": "三星的HDR10 Plus Advanced将在本月在亚马逊的Prime Video上全球推出。这一新技术被视为对抗Dolby Vision 2的竞争者，能够通过额外的元数据提供更精确的HDR效果，并根据观看内容进行优化。这一发布对电视制造商和消费者都具有重要意义，尤其是三星2026年的新电视将支持这一技术，可能会改变用户的观看体验。此外，HDR10 Plus Advanced的推出也可能影响到其他流媒体平台和竞争对手的技术发展。",
+          "analysis_en": "Samsung's HDR10 Plus Advanced is set to launch globally on Amazon's Prime Video this month. This new technology is seen as a competitor to Dolby Vision 2, offering more precise HDR through additional metadata optimized for what viewers are watching. The launch is significant for both TV manufacturers and consumers, particularly as Samsung's 2026 lineup will support this technology, potentially transforming the viewing experience. Furthermore, the introduction of HDR10 Plus Advanced may influence the technological advancements of other streaming platforms and competitors."
+        },
+        {
+          "rank": 5,
+          "title": "Texas says data centers must pass an audit before connecting to the grid",
+          "link": "https://theverge.com/policy/975071/texas-data-center-audit",
+          "source": "The Verge",
+          "published_utc": "2026-08-04 15:33 UTC",
+          "analysis_zh": "德克萨斯州宣布对数据中心实施新的审计程序，这可能会延缓新设施与州电网连接的批准。州长格雷格·阿博特指示德克萨斯公共事业委员会和电力可靠性委员会对新数据中心的提案进行审核，强调此举是为了确保电网的稳定与可靠。数据中心需要提供有关所获得的州和地方激励措施、对电网的依赖程度、预期的水资源消耗及其对社区影响的监测计划等信息。这一政策的实施可能会影响数据中心的建设速度，尤其是在德克萨斯州的一些地区。",
+          "analysis_en": "Texas has announced a new audit process for data centers, which could slow down the approval of new facilities seeking to connect to the state energy grid. Governor Greg Abbott directed the Public Utility Commission of Texas and the Electric Reliability Council of Texas to review new data center proposals, stating that this measure is necessary to maintain grid stability and reliability. Data centers will be required to provide information on state and local incentives received, their reliance on the grid, expected water consumption, and plans for monitoring community impacts. The implementation of this policy may affect the pace of data center construction, particularly in certain areas of Texas."
+        },
+        {
+          "rank": 6,
           "title": "The Asus Chromebook Plus CX34 is at one of its lowest prices",
           "link": "https://theverge.com/gadgets/974732/asus-chromebook-plus-cx34-igloo-playmate-kooltunes-14-quart-cooler-deal-sale",
           "source": "The Verge",
           "published_utc": "2026-08-04 15:15 UTC",
-          "analysis_zh": "华硕Chromebook Plus CX34目前正处于历史最低价之一，售价为399.99美元，较近期价格便宜了约100美元。这款笔记本虽然发布近三年，但依然是一款可靠的设备，适合预算有限的用户。此时的优惠使得消费者在400美元以下的选择中有了更多的可能性，特别是对于需要基本办公和学习功能的人来说，这款产品的性价比非常高。",
-          "analysis_en": "The Asus Chromebook Plus CX34 is currently available at one of its lowest prices, priced at $399.99, which is about $100 off recent prices. Despite being nearly three years old, this laptop remains a reliable option for budget-conscious consumers. The current discounts provide more choices for those looking for devices under $400, making it particularly appealing for users who need basic functionality for work or study."
+          "analysis_zh": "华硕Chromebook Plus CX34目前价格处于历史低点，售价为399.99美元，较近期价格便宜了约100美元。这款笔记本电脑虽然已经接近三岁，但仍然是一款可靠的设备，适合预算有限的用户。此次降价可能会吸引更多消费者关注，尤其是在400美元以下的市场中，提供了多种选择。随着科技产品的更新换代，这样的优惠可能会影响消费者的购买决策，推动销售增长。",
+          "analysis_en": "The Asus Chromebook Plus CX34 is currently priced at $399.99, marking one of its lowest prices with a discount of about $100 from recent prices. Although it is nearly three years old, this laptop remains a reliable option for budget-conscious users. The current sale may attract more consumers, especially in the sub-$400 market where several options are available. As technology products continue to evolve, such discounts may influence purchasing decisions and drive sales growth."
         },
         {
-          "rank": 2,
+          "rank": 7,
           "title": "A SpaceX Rocket Will Soon Crash Into the Moon",
           "link": "https://nytimes.com/2026/08/04/science/spacex-rocket-moon-crash.html",
           "source": "NYT > Technology",
           "published_utc": "2026-08-04 14:44 UTC",
-          "analysis_zh": "SpaceX的一枚猎鹰9号火箭的第二级将在周三早晨与月球相撞。这一事件引起了广泛关注，因为它是人类航天活动的一个意外后果。这次碰撞可能会对月球表面产生影响，尤其是在科学研究和未来探测任务方面。随着太空探索的不断推进，如何处理太空垃圾和火箭残骸也成为了一个亟待解决的问题。",
-          "analysis_en": "The second stage of a SpaceX Falcon 9 rocket is set to collide with the Moon early Wednesday morning. This event has garnered significant attention as it represents an unintended consequence of human space activities. The impact may affect the lunar surface, particularly in terms of scientific research and future exploration missions. As space exploration continues to advance, the management of space debris and rocket remnants has become an urgent issue that needs addressing."
+          "analysis_zh": "SpaceX的一枚猎鹰9号火箭的第二级将在周三早晨与月球相撞。这枚火箭曾在去年将两台私人着陆器送往月球。此次碰撞事件引发了人们对太空垃圾和其对月球表面影响的关注。随着商业航天活动的增加，类似的事件可能会变得更加频繁，进而影响未来的月球探索和科学研究。",
+          "analysis_en": "The second stage of a SpaceX Falcon 9 rocket is set to collide with the moon early Wednesday morning. This rocket previously delivered two private landers to the moon last year. The impending crash raises concerns about space debris and its potential impact on the lunar surface. As commercial space activities increase, such incidents may become more common, potentially affecting future lunar exploration and scientific research."
         },
         {
-          "rank": 3,
+          "rank": 8,
           "title": "Apple is working on iPhone-to-Windows copy-paste",
           "link": "https://theverge.com/tech/975020/apple-windows-pc-copy-paste-eu",
           "source": "The Verge",
           "published_utc": "2026-08-04 14:42 UTC",
-          "analysis_zh": "苹果正在开发一项新功能，允许欧盟用户在iPhone和Windows电脑之间进行内容复制和粘贴。这一举措是响应微软的互操作性请求，要求苹果开放其通用剪贴板功能。此项变化不仅有助于提升用户体验，还可能推动苹果与其他平台之间的兼容性，符合欧盟数字市场法案的要求。这将使得开发者能够更好地利用跨设备的功能，促进创新和竞争。",
-          "analysis_en": "Apple is developing a new feature that will enable users in the European Union to copy and paste content between their iPhone and Windows PCs. This move is in response to an interoperability request from Microsoft, which has asked Apple to open up its Universal Clipboard functionality. The change aims to enhance user experience and may drive greater compatibility between Apple and other platforms, aligning with the EU's Digital Markets Act. This will allow developers to better leverage cross-device capabilities, fostering innovation and competition."
+          "analysis_zh": "苹果正在开发一项新功能，允许欧盟用户在iPhone上复制内容并粘贴到Windows PC上，反之亦然。这一举措是响应微软的互操作性请求，要求苹果开放其通用剪贴板功能。这项变化不仅有助于提升用户体验，还可能影响苹果与其他技术公司的合作关系，特别是在数字市场法案的背景下，推动更多设备和服务之间的兼容性。",
+          "analysis_en": "Apple is developing a new feature that will allow users in the European Union to copy content from their iPhone and paste it onto a Windows PC, and vice versa. This move responds to a request from Microsoft for interoperability, asking Apple to open its Universal Clipboard feature. This change not only enhances user experience but may also affect Apple's relationships with other tech companies, particularly in the context of the Digital Markets Act, which encourages greater compatibility between devices and services."
         },
         {
-          "rank": 4,
+          "rank": 9,
           "title": "We’re giving away a back-to-school bag filled with over $800 of free tech",
           "link": "https://theverge.com/gadgets/972547/back-to-school-giveaway-sweepstakes",
           "source": "The Verge",
           "published_utc": "2026-08-04 14:00 UTC",
-          "analysis_zh": "《The Verge》最近宣布将举办一次抽奖活动，赠送一个装满价值超过800美元的科技产品的返校包。此次活动不仅吸引了科技爱好者的关注，还鼓励更多人订阅他们的购物通讯。通过参与抽奖，用户不仅有机会获得丰厚的奖品，还能及时获取最新的优惠信息和购买指南。这一活动可能会提升《The Verge》的用户参与度和品牌知名度。",
-          "analysis_en": "The Verge recently announced a giveaway where participants can win a back-to-school bag filled with over $800 worth of tech products. This event not only captures the attention of tech enthusiasts but also encourages more people to subscribe to their shopping newsletter. By entering the sweepstakes, users not only have a chance to win valuable prizes but also gain access to the latest deals and buying guides. This initiative could enhance user engagement and increase brand awareness for The Verge."
+          "analysis_zh": "《The Verge》宣布将举办一次抽奖活动，赠送一个装满价值超过800美元的科技产品的返校包。此次活动的目的是吸引更多用户订阅其购物新闻通讯，参与者只需填写相关信息并验证邮箱即可参与抽奖。此举不仅为用户提供了获取高价值科技产品的机会，也有助于提升《The Verge》的用户互动和品牌知名度。随着返校季的临近，这样的活动将吸引更多学生和家长的关注。",
+          "analysis_en": "The Verge has announced a giveaway where participants can win a back-to-school bag filled with over $800 worth of tech products. The goal of this event is to encourage more users to subscribe to their shopping newsletter, with participants simply needing to fill out their information and verify their email to enter. This initiative not only offers users a chance to win valuable tech items but also helps enhance The Verge's user engagement and brand visibility. With the back-to-school season approaching, such activities are likely to attract the attention of more students and parents."
         },
         {
-          "rank": 5,
+          "rank": 10,
           "title": "Our favorite memories at the movies",
           "link": "https://theverge.com/entertainment/974920/verge-favorite-movie-memories",
           "source": "The Verge",
           "published_utc": "2026-08-04 14:00 UTC",
-          "analysis_zh": "最近，电影院的热度正在上升，尤其是《奥德赛》在IMAX上的表现让人们重新相信大银幕的魅力。结合《蜘蛛侠》的强大影响力，这部影片也在打破票房纪录。Verge的高级评论员大卫·伊梅尔分享了他最新的70MM IMAX观影体验，引发了团队在Slack上讨论他们最喜欢的电影回忆。这不仅反映了人们对电影的热爱，也可能影响未来的观影趋势，吸引更多观众回归电影院。",
-          "analysis_en": "Recently, theaters are experiencing a resurgence, particularly with \"The Odyssey\" making audiences believe in the magic of IMAX. Coupled with the powerful influence of \"Spider-Man,\" this film is also breaking box office records. Verge senior reviewer David Imel shared his latest 70MM IMAX viewing experience, sparking discussions among the team on Slack about their favorite movie memories. This not only reflects a renewed love for cinema but may also influence future viewing trends, drawing more audiences back to theaters."
-        },
-        {
-          "rank": 6,
-          "title": "Peak Design’s latest bags have clever integrated hooks",
-          "link": "https://theverge.com/tech/973624/peak-design-city-line-details-price",
-          "source": "The Verge",
-          "published_utc": "2026-08-04 13:00 UTC",
-          "analysis_zh": "Peak Design 最近推出了全新的 City Line 系列，包括六款轻便的日常背包。这些背包设计巧妙，配备了新型的 BagLev 钩子，可以将包悬挂在桌边或椅子上，避免接触到污垢。这一创新设计不仅提升了背包的实用性，也为用户提供了更好的使用体验。随着现代生活方式的变化，这种便捷的设计可能会吸引更多追求时尚与功能性的消费者。",
-          "analysis_en": "Peak Design has recently launched its new City Line collection, which features six lightweight bags designed for everyday use. These bags come with an innovative BagLev hook that allows users to suspend them from table edges or chairs, keeping them clean and off the ground. This clever design enhances the practicality of the bags and offers a better user experience. As modern lifestyles evolve, this convenient design is likely to attract more consumers who value both style and functionality."
-        },
-        {
-          "rank": 7,
-          "title": "Nothing CMF is launching its first open earbuds",
-          "link": "https://theverge.com/gadgets/974933/nothing-cmf-clip-pro-open-ear-buds-price-launch",
-          "source": "The Verge",
-          "published_utc": "2026-08-04 13:00 UTC",
-          "analysis_zh": "Nothing CMF最近推出了其首款开放式耳塞CMF Clip Pro，旨在为用户提供舒适的佩戴体验和优质的音质，同时不牺牲环境意识。这款耳塞的价格为99美元，现已在美国上市，并提供三种颜色选择。开放式耳塞的流行趋势使得这款产品的推出尤为重要，因为它满足了那些希望在享受音乐的同时保持对周围环境感知的用户需求。此外，CMF Clip Pro还配备了一个带有“智能拨轮”的充电盒，方便用户调节音量和管理播放。",
-          "analysis_en": "Nothing CMF has recently launched its first open earbuds, the CMF Clip Pro, designed to offer users comfort and sound quality without sacrificing situational awareness. Priced at $99, these earbuds are now available in the U.S. and come in three color options. The rise in popularity of open earbuds makes this launch significant, as it caters to users who want to enjoy music while remaining aware of their surroundings. Additionally, the CMF Clip Pro includes a charging case with a \"Smart Dial\" for easy volume control and playback management."
-        },
-        {
-          "rank": 8,
-          "title": "Apple briefly yanked Telegram from the App Store over CSAM violations",
-          "link": "https://theverge.com/tech/974951/telegram-apple-app-store-removed",
-          "source": "The Verge",
-          "published_utc": "2026-08-04 12:57 UTC",
-          "analysis_zh": "苹果公司因担忧儿童性虐待材料（CSAM）而短暂下架了Telegram应用，但目前该应用已重新上架。苹果在声明中表示，经过审查发现Telegram违反了其严格的政策，随后在开发者迅速删除相关内容并禁止发布者后恢复了该应用。这一事件引发了对应用商店管理政策的讨论，Telegram也质疑苹果是否会对所有应用采取相同的措施。此事件不仅影响了Telegram的用户，还可能对其他应用的审核标准产生深远影响。",
-          "analysis_en": "Apple briefly removed the Telegram app from the App Store due to concerns about child sexual abuse material (CSAM), but it has since been reinstated. In a statement, Apple indicated that a review found Telegram in violation of its strict policies, and the app was restored after the developer promptly removed the offending content and banned the user responsible. This incident has sparked discussions about the management policies of the App Store, with Telegram questioning whether Apple will apply the same standards to all apps. The situation not only affects Telegram's user base but may also have broader implications for the review standards of other applications."
-        },
-        {
-          "rank": 9,
-          "title": "White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules",
-          "link": "https://nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html",
-          "source": "NYT > Technology",
-          "published_utc": "2026-08-04 12:39 UTC",
-          "analysis_zh": "美国白宫在人工智能（AI）规则的制定上面临着困境，特别是在如何处理“开源”模型的问题上。这些模型可以自由下载，受到中国公司的青睐。此事的重要性在于，如何规范AI技术将影响未来的科技竞争格局，尤其是在中美之间的技术竞争中。若没有明确的规则，可能会导致不公平的市场环境，影响创新和发展。",
-          "analysis_en": "The White House is grappling with the challenges of establishing AI regulations, particularly regarding \"open source\" models that are freely available and favored by Chinese companies. This issue is significant because the way AI technology is regulated will shape the future landscape of technological competition, especially between the U.S. and China. Without clear rules, there could be an unfair market environment that hampers innovation and development."
-        },
-        {
-          "rank": 10,
-          "title": "The Download: US robot restrictions, and ICE’s DNA grab",
-          "link": "https://technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna",
-          "source": "MIT Technology Review",
-          "published_utc": "2026-08-04 12:14 UTC",
-          "analysis_zh": "近日，美国针对机器人技术的限制措施引发了广泛关注。这些限制是特朗普政府在人工智能保护主义政策下的一部分，旨在控制机器人技术的发展和应用。此举不仅影响了机器人制造商的创新能力，也可能对未来的科技竞争格局产生深远影响，尤其是在全球范围内的技术合作和市场准入方面。",
-          "analysis_en": "Recently, the U.S. has implemented restrictions on robotics technology, which has garnered significant attention. These measures are part of the Trump administration's protectionist policies regarding artificial intelligence, aimed at controlling the development and application of robotics. This move not only affects the innovation capabilities of robotics manufacturers but may also have far-reaching implications for the future landscape of technological competition, particularly in terms of global cooperation and market access."
+          "analysis_zh": "最近，电影院的热度再次上升，IMAX 电影《奥德赛》吸引了众多观众，并且与《蜘蛛侠》的强大影响力结合，创造了票房新纪录。这一现象不仅反映了观众对大银幕的热爱，也显示出电影行业在经历疫情后的复苏。随着更多人重返影院，电影的社交体验和观影氛围将重新焕发活力，可能会推动更多高质量影片的制作和发行。",
+          "analysis_en": "Recently, theaters have seen a resurgence in popularity, with the IMAX film \"The Odyssey\" drawing in audiences and breaking box office records alongside the strong influence of \"Spider-Man.\" This trend not only highlights the audience's love for the big screen but also indicates a recovery in the film industry following the pandemic. As more people return to cinemas, the social experience and atmosphere of watching movies will be revitalized, potentially leading to an increase in the production and release of high-quality films."
         }
       ]
     },
@@ -277,30 +295,30 @@
       "items": [
         {
           "rank": 1,
+          "title": "Ariana Grande and the Debate Over Health, Privacy and Celebrity",
+          "link": "https://nytimes.com/2026/08/04/arts/music/ariana-grande-health-weight.html",
+          "source": "NYT > Arts",
+          "published_utc": "2026-08-04 16:01 UTC",
+          "analysis_zh": "流行歌手阿丽安娜·格兰德（Ariana Grande）对关于她体重减轻的评论表示反对，呼吁粉丝们要更加“温柔”。随着她的知名度不断上升，外界对她的关注和审视也随之加剧。这一现象不仅反映了名人在公众视野中的脆弱性，也引发了关于健康、隐私和名人文化的广泛讨论。这样的讨论可能会影响公众对身体形象的看法，并促使人们更加关注心理健康。",
+          "analysis_en": "Pop star Ariana Grande has pushed back against comments regarding her weight loss, urging fans to be “gentler.” As her fame has soared, so has the scrutiny surrounding her. This situation highlights the vulnerability of celebrities in the public eye and sparks a broader conversation about health, privacy, and celebrity culture. Such discussions may influence public perceptions of body image and encourage a greater focus on mental health."
+        },
+        {
+          "rank": 2,
           "title": "MAD’s stone-like museum completes across shenzhen bay’s green shoreline",
           "link": "https://designboom.com/architecture/mad-stone-museum-shenzhen-bay-culture-square-plaza-china-completion",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-08-04 15:29 UTC",
-          "analysis_zh": "MAD设计事务所最近在深圳湾的绿色海岸线上完成了一座新博物馆，外观采用白色花岗岩，屋顶则设计为可步行的绿化空间。这座博物馆不仅是一个展示设计的场所，更是与自然环境相融合的建筑作品。这样的设计理念强调了可持续性和生态友好，可能会影响未来建筑项目的设计趋势，鼓励更多建筑师在设计中考虑与自然的和谐共处。",
-          "analysis_en": "MAD Architects has recently completed a new museum along the green shoreline of Shenzhen Bay, featuring white granite exteriors and walkable green roofs. This museum serves not only as a venue for design exhibitions but also as an architectural piece that integrates with its natural surroundings. This design philosophy emphasizes sustainability and ecological friendliness, which may influence future architectural trends by encouraging more architects to consider harmony with nature in their designs."
+          "analysis_zh": "位于深圳湾的MAD设计的博物馆近日完工，这座博物馆以白色花岗岩为主要材料，结合可步行的绿色屋顶，成为沿海地带的一部分。这一设计不仅提升了区域的美学价值，还为游客提供了一个与自然亲密接触的空间。博物馆的落成可能会吸引更多的游客，促进当地经济发展，同时也为城市的文化艺术氛围注入新的活力。",
+          "analysis_en": "The recently completed museum designed by MAD, located along Shenzhen Bay, features white granite and walkable green roofs, integrating seamlessly with the coastal landscape. This design enhances the aesthetic value of the area and offers visitors a space to connect with nature. The museum's opening is likely to attract more tourists, boost the local economy, and inject new vitality into the city's cultural and artistic atmosphere."
         },
         {
-          "rank": 2,
+          "rank": 3,
           "title": "luna paiva installs 300-kilogram stainless steel totem at bofill’s la fábrica",
           "link": "https://designboom.com/art/luna-paiva-300-kilogram-stainless-steel-totem-bofill-la-fabrica",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-08-04 15:09 UTC",
-          "analysis_zh": "最近，艺术家露娜·帕伊瓦在博菲尔的“工厂”项目中安装了一座重达300公斤的不锈钢图腾雕塑。这座雕塑不仅象征着祖先和工业的结合，还代表了几代合作伙伴的共同努力。它的安装引发了人们对艺术与文化传承的思考，可能会激励更多艺术家探索类似的主题和形式。",
-          "analysis_en": "Recently, artist Luna Paiva installed a 300-kilogram stainless steel totem at Bofill's \"La Fábrica\" project. This sculpture symbolizes the fusion of ancestry and industry, representing the collaborative efforts of several generations. Its installation prompts reflections on the relationship between art and cultural heritage, potentially inspiring more artists to explore similar themes and forms."
-        },
-        {
-          "rank": 3,
-          "title": "Ariana Grande and the Debate Over Health, Privacy and Celebrity",
-          "link": "https://nytimes.com/2026/08/04/arts/music/ariana-grande-health-weight.html",
-          "source": "NYT > Arts",
-          "published_utc": "2026-08-04 14:47 UTC",
-          "analysis_zh": "流行歌手亚莉安娜·格兰德长期以来对关于她减肥的评论表示反对，呼吁粉丝们要“温柔一些”。随着她的知名度不断上升，外界对她的关注和审视也随之加剧。这一现象不仅反映了名人生活的压力，也引发了关于健康和隐私的广泛讨论。公众对名人身体形象的关注可能会影响年轻人对自身形象的认知和自我价值感。",
-          "analysis_en": "Pop star Ariana Grande has long pushed back against comments regarding her weight loss, urging fans to be \"gentler.\" As her fame has soared, so has the scrutiny surrounding her. This phenomenon highlights the pressures of celebrity life and sparks broader discussions about health and privacy. The public's focus on celebrities' body images may influence young people's perceptions of their own bodies and self-worth."
+          "analysis_zh": "最近，艺术家露娜·帕伊瓦在博菲尔的“工厂”安装了一座重达300公斤的不锈钢图腾雕塑。这座雕塑融合了祖先、工业和几代合作伙伴的元素，象征着历史与现代的交汇。此作品不仅在视觉上引人注目，还可能激发对地方文化和艺术创作的更深层次思考，促进社区的文化认同感。",
+          "analysis_en": "Recently, artist Luna Paiva installed a 300-kilogram stainless steel totem at Bofill's \"La Fábrica.\" This sculpture combines elements of ancestry, industry, and generations of collaborators, symbolizing the intersection of history and modernity. The piece is not only visually striking but may also inspire deeper reflections on local culture and artistic creation, fostering a sense of cultural identity within the community."
         },
         {
           "rank": 4,
@@ -308,8 +326,8 @@
           "link": "https://dezeen.com/2026/08/04/sentry-bridge-watkins-glen-gorge-snohetta-sbp",
           "source": "Dezeen",
           "published_utc": "2026-08-04 14:40 UTC",
-          "analysis_zh": "在纽约州的沃特金斯格伦州立公园，建筑公司Schlaich Bergermann Partner和Snøhetta合作设计了一座新的悬臂桥，取代了一座老化的桥梁。这座名为Sentry Bridge的钢制半拱桥一侧固定在峡谷边缘，另一侧则悬挑至对岸。这项工程不仅提升了公园的交通便利性，也为游客提供了更安全的通行方式，具有重要的环境和美学意义。",
-          "analysis_en": "In Watkins Glen State Park, New York, the firms Schlaich Bergermann Partner and Snøhetta have designed a new cantilever bridge to replace an aging structure. The Sentry Bridge, made of steel, is anchored on one side of the gorge and extends across to the other side. This project enhances accessibility within the park and provides a safer passage for visitors, holding significant environmental and aesthetic value."
+          "analysis_zh": "纽约的设计公司Schlaich Bergermann Partner和Snøhetta在上州纽约建造了一座新的悬臂桥，取代了老旧的同名桥梁。这座名为Sentry Bridge的钢制半拱桥一侧固定在峡谷边缘，另一侧悬挑至对面。这项工程不仅提升了当地的交通便利性，也为游客提供了更安全的观景体验。新桥的设计与周围的自然环境相融合，展示了现代建筑与自然景观的和谐共存。",
+          "analysis_en": "The New York design firms Schlaich Bergermann Partner and Snøhetta have constructed a new cantilever bridge, replacing an aging structure of the same name. The Sentry Bridge features a steel half-arch that is anchored on one side of the gorge and extends across to the other side. This project not only improves local transportation but also enhances safety for visitors enjoying the scenic views. The bridge's design harmonizes with the surrounding natural environment, showcasing a blend of modern architecture and landscape."
         },
         {
           "rank": 5,
@@ -317,8 +335,8 @@
           "link": "https://nytimes.com/2026/08/04/arts/dance/venice-dance-biennale-diana-vishneva.html",
           "source": "NYT > Arts",
           "published_utc": "2026-08-04 14:33 UTC",
-          "analysis_zh": "在威尼斯舞蹈双年展上，芭蕾舞者迪安娜·维什涅娃的表演引发了对与俄罗斯艺术家关系的重新审视，此前该活动曾承诺因乌克兰战争而与俄罗斯艺术家断绝联系。这一表演不仅展示了她的艺术才华，也让人们思考艺术与政治之间的复杂关系。维什涅娃的回归可能会影响未来艺术活动对政治局势的反应，尤其是在国际关系紧张的背景下。",
-          "analysis_en": "Diana Vishneva's performance at the Venice Dance Biennale prompted a reevaluation of the event's stance on Russian artists, which had previously vowed to sever ties due to the war in Ukraine. Her performance not only showcased her artistic talent but also raised questions about the complex relationship between art and politics. Vishneva's return may influence how future artistic events respond to political situations, especially in the context of strained international relations."
+          "analysis_zh": "在威尼斯舞蹈双年展上，舞蹈家迪安娜·维什涅娃的表演引发了人们对该活动与俄罗斯艺术家关系的深刻反思。此次表演的背景是乌克兰战争，使得原本承诺与俄罗斯艺术家断绝联系的活动面临道德困境。这一事件不仅挑战了文化交流的界限，也可能影响未来艺术活动对政治局势的反应和态度。",
+          "analysis_en": "Diana Vishneva's performance at the Venice Dance Biennale prompted a deep reflection on the event's relationship with Russian artists, especially in light of the ongoing war in Ukraine. This performance challenges the moral stance of an event that had previously vowed to sever ties with Russian artists. The incident raises questions about the boundaries of cultural exchange and may influence how future artistic events respond to political situations."
         },
         {
           "rank": 6,
@@ -326,8 +344,8 @@
           "link": "https://nytimes.com/2026/08/04/arts/television/late-night-trump-iran-deal.html",
           "source": "NYT > Arts",
           "published_utc": "2026-08-04 14:28 UTC",
-          "analysis_zh": "最近，特朗普在谈及伊朗协议时发表了一些引发争议的评论。他提到的观点引起了各界的广泛关注，尤其是他将战争责任归咎于福奇医生。这一言论不仅反映了特朗普对当前局势的看法，也可能影响公众对政府外交政策的理解和支持。媒体和公众的反应将进一步塑造未来的政治讨论。",
-          "analysis_en": "Recently, Trump made controversial comments regarding the Iran deal that have sparked widespread attention. His suggestion to blame Dr. Fauci for the war reflects his perspective on the current situation and may influence public understanding and support for government foreign policy. The media and public reactions will further shape future political discussions."
+          "analysis_zh": "特朗普最近对伊朗协议的评论引发了深夜脱口秀节目的广泛讨论。喜剧演员吉米·法伦指出，尽管他并不认为政府缺乏创意，但他们提出的最佳选择竟然是将战争归咎于福奇博士。这一言论不仅反映了公众对特朗普言论的关注，也揭示了政治话语中幽默与批评的交织。这样的讨论可能会影响公众对政府政策的看法，尤其是在涉及国际关系和疫情应对时。",
+          "analysis_en": "Trump's recent comments about the Iran deal sparked widespread discussion on late-night talk shows. Comedian Jimmy Fallon pointed out that while he doesn't think the government is out of ideas, the best option they came up with was blaming Dr. Fauci for the war. This statement not only reflects public interest in Trump's remarks but also highlights the interplay of humor and criticism in political discourse. Such discussions may influence public perceptions of government policies, especially regarding international relations and pandemic responses."
         },
         {
           "rank": 7,
@@ -335,8 +353,8 @@
           "link": "https://nytimes.com/2026/08/03/books/mary-de-rachewiltz-dead.html",
           "source": "NYT > Arts",
           "published_utc": "2026-08-04 14:23 UTC",
-          "analysis_zh": "玛丽·德·拉切维尔茨（Mary de Rachewiltz），著名诗人艾兹拉·庞德（Ezra Pound）的女儿，近日去世，享年101岁。她在父亲被送走后，始终对他保持忠诚，不仅翻译了他的诗歌，还努力将他的文学遗产与其法西斯主义政治区分开来。这一事件引发了对庞德复杂遗产的重新审视，可能会影响人们对他作品的理解和评价。",
-          "analysis_en": "Mary de Rachewiltz, the daughter of renowned poet Ezra Pound, has passed away at the age of 101. After being sent away as a baby, she remained devoted to her father, translating his poetry and striving to separate his literary legacy from his fascist politics. This event prompts a reevaluation of Pound's complex legacy, which may influence how his works are understood and assessed in the future."
+          "analysis_zh": "玛丽·德·拉切维尔茨（Mary de Rachewiltz），著名诗人艾兹拉·庞德（Ezra Pound）的女儿，近日去世，享年101岁。她在父亲被流放后，始终忠于他，不仅翻译了庞德的诗作，还努力将其文学遗产与法西斯主义政治区分开来。她的去世标志着一个时代的结束，也引发了人们对庞德复杂遗产的重新审视。",
+          "analysis_en": "Mary de Rachewiltz, the daughter of renowned poet Ezra Pound, has passed away at the age of 101. After her father was exiled, she remained devoted to him, translating his poetry and working to separate his literary legacy from his fascist politics. Her death marks the end of an era and prompts a reevaluation of Pound's complex legacy."
         },
         {
           "rank": 8,
@@ -344,8 +362,8 @@
           "link": "https://nytimes.com/2026/08/04/t-magazine/important-sculptures-modern-age.html",
           "source": "NYT > Arts",
           "published_utc": "2026-08-04 14:22 UTC",
-          "analysis_zh": "在一场关于自第二次世界大战以来最重要雕塑的讨论中，四位艺术家和一位策展人进行了深入的辩论。他们探讨了这些作品的艺术价值和历史意义，认为这些雕塑不仅反映了当时的社会背景，也影响了后来的艺术创作。这场讨论的重要性在于，它帮助我们理解艺术如何与历史交织，并影响未来的艺术发展。",
-          "analysis_en": "A discussion among four artists and a curator focused on the most significant sculptures since the end of World War II. They examined the artistic value and historical significance of these works, noting that they not only reflect the social context of their time but also influence subsequent artistic creations. This discussion is important as it helps us understand how art intertwines with history and shapes future artistic developments."
+          "analysis_zh": "在第二次世界大战结束后，四位艺术家和一位策展人进行了讨论，评选出25件最重要的雕塑作品。这一讨论不仅突显了这些作品在艺术史上的重要性，也反映了当代艺术发展的趋势。这些雕塑不仅影响了艺术界，还可能激发公众对艺术的兴趣和参与，推动文化交流与理解。",
+          "analysis_en": "After World War II, four artists and a curator engaged in a discussion to select the 25 most important sculptures. This conversation highlights the significance of these works in art history and reflects the trends in contemporary art. These sculptures not only impact the art community but may also inspire public interest and engagement in art, fostering cultural exchange and understanding."
         },
         {
           "rank": 9,
@@ -353,8 +371,8 @@
           "link": "https://designboom.com/design/hand-woven-nitinol-sofa-flat-pack-self-deploy-single-motion-re-flat-pack-sofa-jisu-yoon",
           "source": "designboom | architecture & design magazine",
           "published_utc": "2026-08-04 14:15 UTC",
-          "analysis_zh": "一款新型手工编织的镍钛合金沙发近日亮相，它可以在一次动作中实现平整包装和自我展开。这种沙发的编织结构将镍钛合金线与织物绳索和PLA接头连接在一起，展现了创新的设计理念。这一产品的重要性在于它不仅提升了家具的便携性，还可能改变人们对家居空间的使用方式，尤其是在小空间或移动生活中。",
-          "analysis_en": "A new hand-woven nitinol sofa has recently been unveiled, capable of flat-packing and self-deploying in a single motion. The woven structure connects nitinol wires with fabric cords and PLA joints, showcasing an innovative design concept. This product is significant as it enhances the portability of furniture and could change how people utilize living spaces, particularly in small or mobile living environments."
+          "analysis_zh": "近日，一款手工编织的镍钛合金沙发引起了广泛关注。这款沙发的设计使其能够在一次动作中平整收纳并自动展开，这种创新的功能不仅提升了家具的实用性，也为现代家居设计带来了新的可能性。这项技术的应用可能会影响未来家具的设计趋势，尤其是在空间有限的城市环境中，提供了更灵活的解决方案。",
+          "analysis_en": "Recently, a hand-woven nitinol sofa has garnered significant attention. This innovative design allows the sofa to flat-pack and self-deploy in a single motion, enhancing its practicality and introducing new possibilities for modern home design. The application of this technology could influence future furniture design trends, particularly in urban environments where space is limited, offering more flexible solutions."
         },
         {
           "rank": 10,
@@ -362,8 +380,8 @@
           "link": "https://nytimes.com/2026/08/04/arts/television/grantchester.html",
           "source": "NYT > Arts",
           "published_utc": "2026-08-04 13:53 UTC",
-          "analysis_zh": "《格兰切斯特》这部长期播出的PBS神秘剧集刚刚结束，但电视上还有许多其他宗教人士作为侦探的故事可以填补这一空白。这一现象表明，观众对结合宗教与犯罪调查的题材依然有着强烈的兴趣。这类节目不仅提供了悬疑的娱乐体验，还引发了对道德和信仰的深刻思考。未来，随着观众需求的变化，可能会出现更多此类题材的作品。",
-          "analysis_en": "The long-running PBS mystery series \"Grantchester\" has just concluded, but there are many other theological detectives on television to fill that gap. This trend indicates that viewers still have a strong interest in stories that blend religion with crime investigation. Such shows not only offer thrilling entertainment but also provoke deeper reflections on morality and faith. In the future, we may see an increase in similar themes as audience preferences evolve."
+          "analysis_zh": "《格兰切斯特》这部长期播出的PBS神秘剧集刚刚结束，但观众不必担心，因为还有许多其他以神职人员为主角的侦探剧可以观看。这些剧集不仅延续了神秘和悬疑的元素，还探讨了信仰与道德之间的复杂关系。这种类型的节目吸引了大量观众，反映了人们对神秘故事和宗教主题的持续兴趣。未来，这些剧集可能会影响观众对宗教角色在现代社会中的看法。",
+          "analysis_en": "The long-running PBS mystery series \"Grantchester\" has just concluded, but viewers need not worry, as there are many other detective shows featuring clergy to enjoy. These series not only continue the themes of mystery and suspense but also delve into the complex relationship between faith and morality. This genre has attracted a large audience, reflecting a sustained interest in mysterious narratives and religious themes. In the future, these shows may influence viewers' perceptions of the role of religious figures in modern society."
         }
       ]
     }
