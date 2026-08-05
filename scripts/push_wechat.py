@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Push the generated daily-news link to WeChat through ServerChan."""
+"""Push every generated news item to WeChat through ServerChan."""
 
 import argparse
 import json
@@ -12,18 +12,73 @@ from zoneinfo import ZoneInfo
 
 NEWS_URL = "https://rachelxrz.github.io/Market-dashboard-chatGPT-/"
 TIMEZONE_NAME = os.getenv("TZ", "America/New_York")
+READING_JSON = os.getenv("READING_JSON", "docs/reading.json")
 
 
-def build_message(run_mode: str) -> tuple[str, str]:
+def clean_line(value: object) -> str:
+    return " ".join(str(value or "").split())
+
+
+def load_reading(path: str) -> dict:
+    try:
+        with open(path, "r", encoding="utf-8") as handle:
+            payload = json.load(handle)
+    except (OSError, json.JSONDecodeError) as exc:
+        raise RuntimeError(f"Unable to read generated news JSON: {path}") from exc
+
+    if not isinstance(payload.get("sections"), dict) or not payload["sections"]:
+        raise RuntimeError("Generated news JSON has no sections")
+    return payload
+
+
+def build_messages(payload: dict, run_mode: str) -> list[tuple[str, str]]:
     today = datetime.now(ZoneInfo(TIMEZONE_NAME)).strftime("%Y-%m-%d")
     edition = "收盘版" if run_mode == "close" else "早间版"
-    title = f"每日新闻｜{today}｜{edition}"
-    body = (
-        f"{today} 的每日新闻已经生成。\n\n"
-        f"[点击查看当天新闻]({NEWS_URL})\n\n"
-        "网站内可通过日期按钮查看历史新闻。"
-    )
-    return title, body
+    sections = list(payload["sections"].items())
+    total_sections = len(sections)
+    messages = []
+
+    for section_number, (section_name, section) in enumerate(sections, start=1):
+        items = section.get("items") or []
+        title = f"[{section_number}/{total_sections}] 每日新闻｜{today}｜{clean_line(section_name)}"
+        lines = [
+            f"**{clean_line(section_name)}｜{edition}**",
+            "",
+            clean_line(section.get("description")),
+            "",
+            f"共 {len(items)} 条新闻",
+        ]
+
+        for item_number, item in enumerate(items, start=1):
+            item_title = clean_line(item.get("title"))
+            source = clean_line(item.get("source"))
+            published = clean_line(item.get("published_utc"))
+            analysis_zh = clean_line(item.get("analysis_zh"))
+            analysis_en = clean_line(item.get("analysis_en"))
+            link = clean_line(item.get("link"))
+
+            lines.extend(
+                [
+                    "",
+                    "---",
+                    "",
+                    f"### {item_number:02d}. {item_title}",
+                    "",
+                    f"**来源：** {source}  ",
+                    f"**发布时间：** {published}",
+                    "",
+                    f"**中文分析：** {analysis_zh}",
+                    "",
+                    f"**English analysis:** {analysis_en}",
+                    "",
+                    f"[阅读原文]({link})",
+                ]
+            )
+
+        lines.extend(["", "---", "", f"[查看全部历史新闻]({NEWS_URL})"])
+        messages.append((title, "\n".join(lines)))
+
+    return messages
 
 
 def send_message(send_key: str, title: str, body: str) -> None:
@@ -56,20 +111,36 @@ def main() -> int:
         return 1
 
     run_mode = os.getenv("RUN_MODE", "morning").strip().lower()
-    title, body = build_message(run_mode)
-
-    if args.dry_run:
-        assert title and NEWS_URL in body
-        print("WeChat push payload verified (dry run; no message sent).")
-        return 0
-
     try:
-        send_message(send_key, title, body)
+        payload = load_reading(READING_JSON)
+        messages = build_messages(payload, run_mode)
     except RuntimeError as exc:
         print(str(exc), file=sys.stderr)
         return 1
 
-    print("Daily news notification pushed to WeChat successfully.")
+    if args.dry_run:
+        item_count = sum(len(section.get("items") or []) for section in payload["sections"].values())
+        assert messages and all(title and NEWS_URL in body for title, body in messages)
+        for (_, section), (_, body) in zip(payload["sections"].items(), messages):
+            for item in section.get("items") or []:
+                for field in ("title", "link", "analysis_zh", "analysis_en"):
+                    value = clean_line(item.get(field))
+                    if value:
+                        assert value in body, f"Missing {field} from WeChat payload"
+        print(
+            f"WeChat payload verified: {len(messages)} sections, {item_count} news items "
+            "(dry run; no message sent)."
+        )
+        return 0
+
+    for message_number, (title, body) in enumerate(messages, start=1):
+        try:
+            send_message(send_key, title, body)
+        except RuntimeError as exc:
+            print(f"Message {message_number}/{len(messages)} failed: {exc}", file=sys.stderr)
+            return 1
+
+    print(f"Pushed {len(messages)} complete news sections to WeChat successfully.")
     return 0
 
 

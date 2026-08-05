@@ -67,20 +67,25 @@ jobs:
             MODE="${{ github.event.inputs.run_mode }}"
             NOTIFY_WECHAT="true"
           else
-            HOUR=$(TZ=America/New_York date +%H)
-            MIN=$(TZ=America/New_York date +%M)
+            SCHEDULE="${{ github.event.schedule }}"
+            UTC_OFFSET=$(TZ=America/New_York date +%z)
 
-            if [ "$MIN" = "37" ]; then
-              MODE="close"
-            else
-              MODE="morning"
-            fi
+            case "$SCHEDULE" in
+              "37 20 * * *"|"37 21 * * *")
+                MODE="close"
+                ;;
+              *)
+                MODE="morning"
+                ;;
+            esac
 
-            if [ "$HOUR" = "09" ] && [ "$MIN" = "07" ]; then
+            if { [ "$SCHEDULE" = "7 13 * * *" ] && [ "$UTC_OFFSET" = "-0400" ]; } || \
+               { [ "$SCHEDULE" = "7 14 * * *" ] && [ "$UTC_OFFSET" = "-0500" ]; }; then
               NOTIFY_WECHAT="true"
             else
               NOTIFY_WECHAT="false"
             fi
+
           fi
 
           echo "mode=$MODE" >> $GITHUB_OUTPUT
