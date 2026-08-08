@@ -91,7 +91,7 @@ USER_AGENT = (
 )
 
 REQUEST_TIMEOUT = 20
-TARGET_ITEMS_PER_SECTION = 10
+TARGET_ITEMS_PER_SECTION = 20
 MAX_ITEMS_PER_FEED = 20
 MAX_SUMMARY_CHARS = 1200
 HISTORY_KEEP_DAYS = 30
@@ -558,6 +558,21 @@ def fallback_analysis(title: str, summary: str, section: str) -> str:
     return "\n".join(parts[:4])
 
 
+def fallback_role_viewpoints(section: str, language: str) -> list[dict]:
+    """Return useful, explicitly-labelled viewpoints when AI analysis is unavailable."""
+    if language == "zh":
+        return [
+            {"role": "行业分析师", "viewpoint": f"关注这条{section}新闻是否会改变行业需求、竞争格局或定价能力。"},
+            {"role": "风险分析师", "viewpoint": "核查信息来源、时间范围和潜在下行情景，避免把单一事件误判为持续趋势。"},
+            {"role": "长期研究员", "viewpoint": "把后续数据和同类报道纳入跟踪，判断影响是否具有持续性。"},
+        ]
+    return [
+        {"role": "Sector analyst", "viewpoint": f"Watch whether this {SECTION_EN_MAP.get(section, section)} development changes demand, competition, or pricing power."},
+        {"role": "Risk analyst", "viewpoint": "Verify the source, time horizon, and downside scenarios before treating one event as a durable trend."},
+        {"role": "Long-term researcher", "viewpoint": "Track follow-up data and similar reports to test whether the impact persists."},
+    ]
+
+
 SECTION_EN_MAP = {
     "投资": "Investment",
     "健康": "Health",
@@ -579,6 +594,8 @@ def gpt_bilingual_analysis(title: str, summary: str, body_text: str, section: st
         return {
             "zh": fallback_analysis(title, summary, section),
             "en": fallback_analysis_en(section),
+            "viewpoints_zh": fallback_role_viewpoints(section, "zh"),
+            "viewpoints_en": fallback_role_viewpoints(section, "en"),
         }
 
     section_en = SECTION_EN_MAP.get(section, section)
@@ -601,12 +618,23 @@ Write two matching analyses for the news item below:
 - Match the Chinese meaning closely
 - Explain what happened, why it matters, and what it may affect
 
+Then add three concise viewpoints from distinct roles: a sector analyst, a risk analyst,
+and a long-term researcher. Each viewpoint must add a different decision-relevant angle.
+
 Output format exactly:
 
 [ZH]
 ...
 [EN]
 ...
+[ZH_VIEWPOINTS]
+行业分析师｜...
+风险分析师｜...
+长期研究员｜...
+[EN_VIEWPOINTS]
+Sector analyst | ...
+Risk analyst | ...
+Long-term researcher | ...
 
 Section (Chinese): {section}
 Section (English): {section_en}
@@ -639,16 +667,37 @@ Body snippet: {body_text or "None"}
         if "[ZH]" in text and "[EN]" in text:
             zh_part = text.split("[ZH]", 1)[1]
             zh = zh_part.split("[EN]", 1)[0].strip()
-            en = text.split("[EN]", 1)[1].strip()
+            en_part = text.split("[EN]", 1)[1]
+            en = en_part.split("[ZH_VIEWPOINTS]", 1)[0].strip()
 
         if not zh or not en:
             raise ValueError("Bilingual markers not found")
         
         log(f"双语摘要成功: {title[:60]}")
 
+        def parse_viewpoints(block: str, separator: str) -> list[dict]:
+            result = []
+            for line in block.splitlines():
+                if separator not in line:
+                    continue
+                role, viewpoint = (part.strip(" -*") for part in line.split(separator, 1))
+                if role and viewpoint:
+                    result.append({"role": role, "viewpoint": viewpoint})
+            return result
+
+        viewpoints_zh = []
+        viewpoints_en = []
+        if "[ZH_VIEWPOINTS]" in text and "[EN_VIEWPOINTS]" in text:
+            viewpoints_zh = parse_viewpoints(
+                text.split("[ZH_VIEWPOINTS]", 1)[1].split("[EN_VIEWPOINTS]", 1)[0], "｜"
+            )
+            viewpoints_en = parse_viewpoints(text.split("[EN_VIEWPOINTS]", 1)[1], "|")
+
         return {
             "zh": short_text(zh, MAX_SUMMARY_CHARS),
             "en": short_text(en, MAX_SUMMARY_CHARS),
+            "viewpoints_zh": viewpoints_zh or fallback_role_viewpoints(section, "zh"),
+            "viewpoints_en": viewpoints_en or fallback_role_viewpoints(section, "en"),
         }
 
     except Exception as e:
@@ -656,6 +705,8 @@ Body snippet: {body_text or "None"}
         return {
             "zh": fallback_analysis(title, summary, section),
             "en": fallback_analysis_en(section),
+            "viewpoints_zh": fallback_role_viewpoints(section, "zh"),
+            "viewpoints_en": fallback_role_viewpoints(section, "en"),
         }
 
 def collect_section_items(section_name: str, section_cfg: dict, target_count: int = TARGET_ITEMS_PER_SECTION):
@@ -689,6 +740,8 @@ def enrich_items_with_analysis(section_name: str, items):
             "published_utc": item["published_utc"],
             "analysis_zh": analysis["zh"],
             "analysis_en": analysis["en"],
+            "viewpoints_zh": analysis["viewpoints_zh"],
+            "viewpoints_en": analysis["viewpoints_en"],
         })
         time.sleep(0.35)
     return enriched
@@ -786,6 +839,14 @@ def section_html(section_name: str, section_data: dict) -> str:
             analysis_en_html = "<br>".join(
                 html.escape(line.strip()) for line in item["analysis_en"].splitlines() if line.strip()
             )
+            def viewpoints_html(viewpoints):
+                return "".join(
+                    f'<li><strong>{html.escape(point["role"])}</strong>：{html.escape(point["viewpoint"])}</li>'
+                    for point in viewpoints
+                )
+
+            viewpoints_zh_html = viewpoints_html(item.get("viewpoints_zh", []))
+            viewpoints_en_html = viewpoints_html(item.get("viewpoints_en", []))
 
             html_parts.append(
                 f"""
@@ -799,10 +860,12 @@ def section_html(section_name: str, section_data: dict) -> str:
     <div class="analysis-col">
       <div class="analysis-label">中文</div>
       <div class="analysis">{analysis_zh_html}</div>
+      <ul class="viewpoints">{viewpoints_zh_html}</ul>
     </div>
     <div class="analysis-col">
       <div class="analysis-label">English</div>
       <div class="analysis">{analysis_en_html}</div>
+      <ul class="viewpoints">{viewpoints_en_html}</ul>
     </div>
   </div>
 </div>
@@ -951,6 +1014,12 @@ def write_reading_html(payload: dict):
       line-height: 1.9;
       white-space: normal;
     }}
+    .viewpoints {{
+      margin: 14px 0 0;
+      padding-left: 20px;
+      line-height: 1.65;
+    }}
+    .viewpoints li + li {{ margin-top: 8px; }}
     @media (max-width: 900px) {{
       .analysis-grid {{
         grid-template-columns: 1fr;
