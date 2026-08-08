@@ -19,6 +19,21 @@ def clean_line(value: object) -> str:
     return " ".join(str(value or "").split())
 
 
+def format_viewpoints(viewpoints: object) -> list[str]:
+    """Render structured analyst viewpoints as compact Markdown bullets."""
+    if not isinstance(viewpoints, list):
+        return []
+    lines = []
+    for point in viewpoints:
+        if not isinstance(point, dict):
+            continue
+        role = clean_line(point.get("role"))
+        viewpoint = clean_line(point.get("viewpoint"))
+        if role and viewpoint:
+            lines.append(f"- **{role}:** {viewpoint}")
+    return lines
+
+
 def load_reading(path: str) -> dict:
     try:
         with open(path, "r", encoding="utf-8") as handle:
@@ -55,6 +70,8 @@ def build_messages(payload: dict, run_mode: str) -> list[tuple[str, str]]:
             published = clean_line(item.get("published_utc"))
             analysis_zh = clean_line(item.get("analysis_zh"))
             analysis_en = clean_line(item.get("analysis_en"))
+            viewpoints_zh = format_viewpoints(item.get("viewpoints_zh"))
+            viewpoints_en = format_viewpoints(item.get("viewpoints_en"))
             link = clean_line(item.get("link"))
 
             lines.extend(
@@ -70,6 +87,12 @@ def build_messages(payload: dict, run_mode: str) -> list[tuple[str, str]]:
                     f"**中文分析：** {analysis_zh}",
                     "",
                     f"**English analysis:** {analysis_en}",
+                    "",
+                    "**多角色观点：**",
+                    *viewpoints_zh,
+                    "",
+                    "**Multi-role viewpoints:**",
+                    *viewpoints_en,
                     "",
                     f"[阅读原文]({link})",
                 ]
@@ -127,6 +150,12 @@ def main() -> int:
                     value = clean_line(item.get(field))
                     if value:
                         assert value in body, f"Missing {field} from WeChat payload"
+                for field in ("viewpoints_zh", "viewpoints_en"):
+                    for point in item.get(field) or []:
+                        for key in ("role", "viewpoint"):
+                            value = clean_line(point.get(key))
+                            if value:
+                                assert value in body, f"Missing {field}.{key} from WeChat payload"
         print(
             f"WeChat payload verified: {len(messages)} sections, {item_count} news items "
             "(dry run; no message sent)."
